@@ -8,8 +8,10 @@ const userSchema = new Schema(
     avatar: { type: String, default: '' },
     passwordHash: { type: String, select: false },
     googleId: { type: String, index: { unique: true, sparse: true } },
+    // user = plays; contributor = adds lessons/questions and edits their own;
+    // editor = edits all content and handles reports; admin = also manages people.
     // ADMIN_EMAILS (env) also grants admin — see roleOf().
-    role: { type: String, enum: ['user', 'admin'], default: 'user' },
+    role: { type: String, enum: ['user', 'contributor', 'editor', 'admin'], default: 'user' },
     lastSeenAt: { type: Date },
   },
   { timestamps: true }

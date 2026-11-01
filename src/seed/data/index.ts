@@ -52,7 +52,11 @@ export const rawContent = (): GeneratedFile => {
   const files = [...handWritten, ...generatedSlugs().map(readGenerated), ...readExtra()];
   const expansions = readExpansions();
   return {
-    lessons: files.flatMap((f) => f.lessons).map((l) => (expansions[l.key] ? { ...l, ...expansions[l.key] } : l)),
+    lessons: files.flatMap((f) => f.lessons).map((l) => {
+      if (!expansions[l.key]) return l;
+      const { closedSet: _closedSet, ...overlay } = expansions[l.key];
+      return { ...l, ...overlay };
+    }),
     questions: files.flatMap((f) => f.questions),
   };
 };

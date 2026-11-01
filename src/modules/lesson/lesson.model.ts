@@ -15,6 +15,8 @@ const lessonSchema = new Schema(
     funFacts: { type: [LSchema], default: [] },
     // "admin" = created in the admin page; the seed leaves those alone.
     origin: { type: String, enum: ['seed', 'admin'], default: 'seed' },
+    // Who added it in the admin page — a contributor may edit only their own.
+    createdBy: { type: Schema.Types.ObjectId, ref: 'User', default: null },
   },
   { timestamps: true }
 );

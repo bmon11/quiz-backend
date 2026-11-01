@@ -1,9 +1,11 @@
 import { Router } from 'express';
 import { z } from 'zod';
-import { Question, servable } from './question.model';
+import { Question, playerProjection, servable } from './question.model';
 import { Topic } from '../topic/topic.model';
 import { Lesson } from '../lesson/lesson.model';
-import { HttpError, objectId, parse } from '../shared/validate';
+import crypto from 'node:crypto';
+import { HttpError, ipOf, objectId, parse } from '../shared/validate';
+import { optionalAuth } from '../auth/auth';
 import { rateLimit } from '../../middlewares/rateLimit';
 
 const router = Router();
@@ -26,7 +28,7 @@ router.get('/', async (req, res) => {
   const rows = await Question.aggregate([
     { $match: match },
     { $sample: { size: count } },
-    { $project: { answer: 0, explanation: 0, createdAt: 0, updatedAt: 0, __v: 0, origin: 0, hidden: 0 } },
+    { $project: playerProjection },
   ]);
   if (!rows.length) throw new HttpError(404, 'No questions for this quiz');
 
@@ -66,7 +68,7 @@ router.get('/deck', async (req, res) => {
   const rows = await Question.aggregate([
     { $match: match },
     { $sample: { size } },
-    { $project: { answer: 0, explanation: 0, createdAt: 0, updatedAt: 0, __v: 0, origin: 0, hidden: 0 } },
+    { $project: playerProjection },
   ]);
   if (!rows.length) throw new HttpError(404, 'No questions for this quiz');
 
@@ -107,6 +109,51 @@ router.post('/answer', rateLimit({ windowMs: 60_000, max: 120 }), async (req, re
     explanation: updated?.explanation,
     correctRate: rateOf(updated?.stats),
   });
+});
+
+const reportBody = z.object({
+  questionId: objectId,
+  reason: z.enum(['wrong_answer', 'typo', 'unclear', 'outdated', 'other']),
+  suggested: z.number().int().min(0).max(9).nullish(),
+  note: z.string().trim().max(500).default(''),
+  lang: z.enum(['en', 'mn']).optional(),
+});
+
+/** Most open reports one question keeps — past this, it is clearly flagged already. */
+const MAX_OPEN_REPORTS = 50;
+
+// "This answer is wrong" from a player. Anyone may report (anonymous play is
+// allowed), once per question while their report is still open.
+router.post('/report', rateLimit({ windowMs: 60_000, max: 10 }), optionalAuth, async (req, res) => {
+  const body = parse(reportBody, req.body);
+  const reporter = req.user?.id ?? `ip:${crypto.createHash('sha256').update(ipOf(req)).digest('hex').slice(0, 24)}`;
+  const question = await Question.findById(body.questionId).select('choices').lean();
+  if (!question) throw new HttpError(404, 'Question not found');
+  if (body.suggested != null && body.suggested >= question.choices.length) throw new HttpError(400, 'suggested: out of range');
+
+  const updated = await Question.updateOne(
+    {
+      _id: body.questionId,
+      openReports: { $lt: MAX_OPEN_REPORTS },
+      reports: { $not: { $elemMatch: { reporter, status: 'open' } } },
+    },
+    {
+      $push: {
+        reports: {
+          reporter,
+          userId: req.user?.id ?? null,
+          name: req.user?.name ?? '',
+          reason: body.reason,
+          suggested: body.suggested ?? null,
+          note: body.note,
+          lang: body.lang ?? '',
+        },
+      },
+      $inc: { openReports: 1 },
+    }
+  );
+  // Already reported by them (or full) still reads as "thanks" to the player.
+  res.status(201).json({ ok: true, duplicate: updated.modifiedCount === 0 });
 });
 
 export default router;

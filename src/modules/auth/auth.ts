@@ -60,8 +60,18 @@ export const verifyToken = (token: string): string | null => {
 const adminEmails = () =>
   new Set((process.env.ADMIN_EMAILS ?? '').split(',').map((e) => e.trim().toLowerCase()).filter(Boolean));
 
-export const roleOf = (user: { email: string; role?: string | null }) =>
-  user.role === 'admin' || adminEmails().has(user.email) ? 'admin' : 'user';
+/** Lowest to highest — each role can do everything the ones before it can. */
+export const ROLES = ['user', 'contributor', 'editor', 'admin'] as const;
+export type Role = (typeof ROLES)[number];
+
+export const isAdminEmail = (email: string) => adminEmails().has(email.toLowerCase());
+
+export const roleOf = (user: { email: string; role?: string | null }): Role =>
+  isAdminEmail(user.email) ? 'admin' : ROLES.includes(user.role as Role) ? (user.role as Role) : 'user';
+
+/** True when `user` has at least role `min`. */
+export const can = (user: { role: Role } | undefined, min: Role) =>
+  !!user && ROLES.indexOf(user.role) >= ROLES.indexOf(min);
 
 export const publicUser = (user: { _id: unknown; email: string; name?: string | null; avatar?: string | null; role?: string | null }) => ({
   id: String(user._id),
@@ -98,11 +108,13 @@ export const requireAuth = async (req: Request, res: Response, next: NextFunctio
   next();
 };
 
-export const requireAdmin = async (req: Request, res: Response, next: NextFunction) => {
+export const requireRole = (min: Role) => async (req: Request, res: Response, next: NextFunction) => {
   await requireAuth(req, res, () => undefined);
-  if (req.user?.role !== 'admin') throw new HttpError(403, 'Admins only');
+  if (!can(req.user, min)) throw new HttpError(403, min === 'admin' ? 'Admins only' : `Needs the ${min} role`);
   next();
 };
+
+export const requireAdmin = requireRole('admin');
 
 // ── Google ─────────────────────────────────────────────────────────────
 

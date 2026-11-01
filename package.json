@@ -17,6 +17,7 @@
     "generate": "ts-node src/scripts/generate.ts",
     "categorize": "ts-node src/scripts/categorize.ts",
     "expand": "ts-node src/scripts/expand.ts",
+    "images": "ts-node src/scripts/images.ts",
     "import:doc": "ts-node src/scripts/import-doc.ts"
   },
   "engines": {

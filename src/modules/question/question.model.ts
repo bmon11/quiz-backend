@@ -20,6 +20,31 @@ const questionSchema = new Schema(
     // "seed" = authored in src/seed/data, "admin" = added or edited in the admin
     // page. The seed never overwrites or removes admin-owned questions.
     origin: { type: String, enum: ['seed', 'admin'], default: 'seed' },
+    // Who added it in the admin page — a contributor may edit only their own.
+    createdBy: { type: Schema.Types.ObjectId, ref: 'User', default: null },
+    // Players flag a wrong answer / typo here; editors resolve them in the
+    // admin page. Kept on the question (no extra collection). `reporter` is the
+    // user id or a hash of the IP, so one person can't pile on the same question.
+    reports: {
+      type: [
+        {
+          reporter: { type: String, required: true },
+          userId: { type: Schema.Types.ObjectId, ref: 'User', default: null },
+          name: { type: String, default: '' },
+          reason: { type: String, enum: ['wrong_answer', 'typo', 'unclear', 'outdated', 'other'], required: true },
+          suggested: { type: Number, default: null }, // the choice they think is right
+          note: { type: String, default: '' },
+          lang: { type: String, default: '' },
+          status: { type: String, enum: ['open', 'fixed', 'dismissed'], default: 'open' },
+          resolvedBy: { type: String, default: '' },
+          resolvedAt: { type: Date },
+          createdAt: { type: Date, default: Date.now },
+        },
+      ],
+      default: [],
+      select: false,
+    },
+    openReports: { type: Number, default: 0 },
     // A seed question the admin deleted: kept (so re-seeding doesn't bring it back) but never served.
     hidden: { type: Boolean, default: false },
     // Live counters, bumped atomically on every answer. The seed script never
@@ -33,9 +58,16 @@ const questionSchema = new Schema(
 );
 
 questionSchema.index({ topicSlug: 1, lessonKey: 1 });
+questionSchema.index({ openReports: -1, updatedAt: -1 }, { partialFilterExpression: { openReports: { $gt: 0 } } });
 
 /** Filter for questions that can be served to players. */
 export const servable = { hidden: { $ne: true } };
+
+/** What players never see of a question (aggregation $project). */
+export const playerProjection = {
+  answer: 0, explanation: 0, createdAt: 0, updatedAt: 0, __v: 0, origin: 0, hidden: 0,
+  createdBy: 0, reports: 0, openReports: 0,
+} as const;
 
 export type QuestionDoc = InferSchemaType<typeof questionSchema>;
 export const Question = model('Question', questionSchema);

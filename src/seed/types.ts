@@ -40,7 +40,19 @@ export type Visual =
   /** Profile cards (each god, each continent…). `icon` is an iconify name or a single emoji. */
   | {
       kind: 'cards';
-      items: { title: L; subtitle?: L; facts: L[]; icon?: string; color?: string; /** picture URL shown instead of the icon (a flag…) */ image?: string }[];
+      items: {
+        title: L;
+        subtitle?: L;
+        facts: L[];
+        icon?: string;
+        color?: string;
+        /** picture URL shown instead of the icon (a flag…) */
+        image?: string;
+        /** English Wikipedia article the item is about ("" = none) — source of `photo` */
+        wiki?: string;
+        /** free-licence picture of the thing itself (npm run images) */
+        photo?: Photo;
+      }[];
     }
   /** Ordered events / stories. */
   | { kind: 'timeline'; items: { when: L; title: L; body: L }[] }
@@ -54,6 +66,9 @@ export type Visual =
    * (element); tapping a sign opens its profile.
    */
   | { kind: 'zodiac'; groups: ZodiacGroup[]; signs: ZodiacSign[] };
+
+/** A Wikimedia Commons picture: `src` for the card, `full` for zooming, `file` credits it. */
+export type Photo = { src: string; full: string; width: number; height: number; file: string };
 
 export type Stat = { label: L; value: L };
 
@@ -150,6 +165,8 @@ export interface GeneratedFile {
 export interface Expansion {
   visual: Visual;
   funFacts: L[];
+  /** Size of the complete set the lesson names (9 districts → 9); expand never grows it past that. */
+  closedSet?: number;
 }
 
 /**

@@ -3,18 +3,32 @@ import { z } from 'zod';
 import { Topic } from '../topic/topic.model';
 import { Lesson } from '../lesson/lesson.model';
 import { Question } from '../question/question.model';
-import { requireAdmin } from '../auth/auth';
+import { AuthUser, can, requireRole } from '../auth/auth';
 import { HttpError, objectId, parse } from '../shared/validate';
+import { authorNames, escapeRe } from './helpers';
+import reportRoutes from './reports';
+import userRoutes from './users';
 
-// Content editing for admins (ADMIN_EMAILS or role "admin"). What admins add
-// is stored with origin "admin" and the seed never touches it; editing a seed
-// question hands it over to the admin the same way, and deleting one hides it.
+// Content editing. Contributors add lessons and questions and edit their own;
+// editors edit everything (categories too) and handle reports; admins also
+// manage people. What is added here is stored with origin "admin" and the seed
+// never touches it; editing a seed question hands it over the same way, and
+// deleting one hides it.
 
 const router = Router();
-router.use(requireAdmin);
+router.use(requireRole('contributor'));
+router.use('/reports', reportRoutes);
+router.use('/users', userRoutes);
+
+const editor = requireRole('editor');
+
+/** Editors touch anything; a contributor only what they created. */
+const mayEdit = (user: AuthUser | undefined, doc: { createdBy?: unknown }) =>
+  can(user, 'editor') || (!!doc.createdBy && String(doc.createdBy) === user?.id);
+const notYours = () => new HttpError(403, 'You can only change what you added');
 
 /** Slugs that are pages of the web app, so a category can't shadow them. */
-const RESERVED = new Set(['login', 'register', 'me', 'admin', 'api', 'auth', 'quiz', '_next']);
+const RESERVED = new Set(['login', 'register', 'me', 'admin', 'api', 'auth', 'quiz', 'jeopardy', '_next']);
 
 const text = (max: number) => z.string().trim().max(max);
 const L = (max = 300, required = true) =>
@@ -47,7 +61,7 @@ const topicBody = z.object({
 router.get('/topics', async (_req, res) => {
   const [topics, lessons, questions] = await Promise.all([
     Topic.find().sort({ order: 1 }).lean(),
-    Lesson.find().sort({ order: 1 }).select('key topicSlug title summary body visual order origin').lean(),
+    Lesson.find().sort({ order: 1 }).select('key topicSlug title summary body visual order origin createdBy').lean(),
     Question.aggregate([{ $match: { hidden: { $ne: true } } }, { $group: { _id: '$lessonKey', n: { $sum: 1 } } }]),
   ]);
   const count = new Map(questions.map((r) => [r._id, r.n]));
@@ -62,7 +76,7 @@ router.get('/topics', async (_req, res) => {
   );
 });
 
-router.post('/topics', async (req, res) => {
+router.post('/topics', editor, async (req, res) => {
   const body = parse(topicBody, req.body);
   if (RESERVED.has(body.slug)) throw new HttpError(400, 'slug: this word is reserved');
   if (await Topic.exists({ slug: body.slug })) throw new HttpError(409, 'A category with this slug already exists');
@@ -74,6 +88,7 @@ router.post('/topics', async (req, res) => {
     description: both(body.description),
     order: body.order ?? (last?.order ?? 0) + 1,
     origin: 'admin',
+    createdBy: req.user!.id,
   });
   res.status(201).json(topic);
 });
@@ -85,7 +100,7 @@ const ownedTopic = async (slugValue: string) => {
   return topic;
 };
 
-router.patch('/topics/:slug', async (req, res) => {
+router.patch('/topics/:slug', editor, async (req, res) => {
   const topic = await ownedTopic(req.params.slug as string);
   const body = parse(topicBody.omit({ slug: true }).partial(), req.body);
   for (const k of ['title', 'tagline', 'description'] as const) if (body[k]) (body as any)[k] = both(body[k]!);
@@ -94,7 +109,7 @@ router.patch('/topics/:slug', async (req, res) => {
   res.json(topic);
 });
 
-router.delete('/topics/:slug', async (req, res) => {
+router.delete('/topics/:slug', editor, async (req, res) => {
   const topic = await ownedTopic(req.params.slug as string);
   await Promise.all([
     Question.deleteMany({ topicSlug: topic.slug }),
@@ -149,26 +164,32 @@ router.post('/lessons', async (req, res) => {
     ...lessonFields(body),
     order: body.order ?? (last?.order ?? 0) + 1,
     origin: 'admin',
+    createdBy: req.user!.id,
   });
   res.status(201).json(lesson);
 });
 
-const ownedLesson = async (key: string) => {
+const ownedLesson = async (key: string, user: AuthUser | undefined) => {
   const lesson = await Lesson.findOne({ key });
   if (!lesson) throw new HttpError(404, 'Lesson not found');
   if (lesson.origin !== 'admin') throw new HttpError(409, 'Built-in lessons are edited in the seed files');
+  if (!mayEdit(user, lesson)) throw notYours();
   return lesson;
 };
 
 router.patch('/lessons/:key', async (req, res) => {
-  const lesson = await ownedLesson(req.params.key as string);
+  const lesson = await ownedLesson(req.params.key as string, req.user);
   lesson.set(lessonFields(parse(lessonBody.omit({ topicSlug: true, name: true }).partial(), req.body)));
   await lesson.save();
   res.json(lesson);
 });
 
 router.delete('/lessons/:key', async (req, res) => {
-  const lesson = await ownedLesson(req.params.key as string);
+  const lesson = await ownedLesson(req.params.key as string, req.user);
+  // Deleting a lesson deletes its questions — a contributor only when they are all theirs.
+  if (!can(req.user, 'editor') && (await Question.exists({ lessonKey: lesson.key, createdBy: { $ne: req.user!.id } }))) {
+    throw new HttpError(409, 'Others have added questions to this lesson — ask an editor to delete it');
+  }
   await Promise.all([Question.deleteMany({ lessonKey: lesson.key }), lesson.deleteOne()]);
   res.json({ ok: true });
 });
@@ -188,15 +209,16 @@ const listQuery = z.object({
   topic: z.string().optional(),
   lesson: z.string().optional(),
   q: z.string().trim().max(100).optional(),
+  mine: z.coerce.boolean().optional(),
   page: z.coerce.number().int().min(1).default(1),
   limit: z.coerce.number().int().min(1).max(100).default(30),
 });
 
-const escapeRe = (value: string) => value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 
 router.get('/questions', async (req, res) => {
-  const { topic, lesson, q, page, limit } = parse(listQuery, req.query);
+  const { topic, lesson, q, mine, page, limit } = parse(listQuery, req.query);
   const match: Record<string, unknown> = { hidden: { $ne: true } };
+  if (mine) match.createdBy = req.user!.id;
   if (topic) match.topicSlug = topic;
   if (lesson) match.lessonKey = lesson;
   if (q) {
@@ -212,7 +234,17 @@ router.get('/questions', async (req, res) => {
       .lean(),
     Question.countDocuments(match),
   ]);
-  res.json({ total, page, questions: rows.map(({ _id, ...rest }) => ({ id: String(_id), ...rest })) });
+  const authors = await authorNames(rows.map((r) => r.createdBy));
+  res.json({
+    total,
+    page,
+    questions: rows.map(({ _id, createdBy, ...rest }) => ({
+      id: String(_id),
+      ...rest,
+      createdBy: createdBy ? String(createdBy) : null,
+      author: createdBy ? (authors.get(String(createdBy)) ?? '') : '',
+    })),
+  });
 });
 
 const prepared = (body: z.infer<typeof questionFields>) => ({
@@ -240,6 +272,7 @@ router.post('/questions', async (req, res) => {
     lessonKey: lesson.key,
     key: newKey(lesson.key),
     origin: 'admin',
+    createdBy: req.user!.id,
   });
   res.status(201).json({ id: String(question._id) });
 });
@@ -257,6 +290,7 @@ router.post('/questions/bulk', async (req, res) => {
     lessonKey: lesson.key,
     key: newKey(lesson.key, i + 1),
     origin: 'admin',
+    createdBy: req.user!.id,
   }));
   await Question.insertMany(docs);
   res.status(201).json({ inserted: docs.length });
@@ -267,6 +301,7 @@ router.patch('/questions/:id', async (req, res) => {
   const body = parse(questionBody.partial(), req.body);
   const question = await Question.findById(id);
   if (!question) throw new HttpError(404, 'Question not found');
+  if (!mayEdit(req.user, question)) throw notYours();
   const lesson = body.lessonKey ? await lessonFor(body.lessonKey) : null;
   const { lessonKey: _ignored, ...fields } = body;
   question.set({
@@ -283,8 +318,9 @@ router.patch('/questions/:id', async (req, res) => {
 
 router.delete('/questions/:id', async (req, res) => {
   const id = parse(objectId, req.params.id);
-  const question = await Question.findById(id).select('origin');
+  const question = await Question.findById(id).select('origin createdBy');
   if (!question) throw new HttpError(404, 'Question not found');
+  if (!mayEdit(req.user, question)) throw notYours();
   // A seed question would come back on the next seed, so it is hidden instead.
   if (question.origin === 'admin') await question.deleteOne();
   else await Question.updateOne({ _id: id }, { $set: { hidden: true, origin: 'admin' } });
