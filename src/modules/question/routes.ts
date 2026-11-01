@@ -92,7 +92,7 @@ const answerBody = z.object({ questionId: objectId, choice: z.number().int().min
 // Check one answer, reveal the right one + the explanation, and count it.
 router.post('/answer', rateLimit({ windowMs: 60_000, max: 120 }), async (req, res) => {
   const { questionId, choice } = parse(answerBody, req.body);
-  const found = await Question.findById(questionId).select('+answer choices').lean();
+  const found = await Question.findById(questionId).select('+answer choices map').lean();
   if (!found) throw new HttpError(404, 'Question not found');
   if (choice >= found.choices.length) throw new HttpError(400, 'choice: out of range');
 
@@ -108,6 +108,7 @@ router.post('/answer', rateLimit({ windowMs: 60_000, max: 120 }), async (req, re
     answer: found.answer,
     explanation: updated?.explanation,
     correctRate: rateOf(updated?.stats),
+    map: found.map ?? null,
   });
 });
 

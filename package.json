@@ -2,7 +2,7 @@
   "name": "quiz-backend",
   "version": "1.0.0",
   "private": true,
-  "description": "API for the Quiz app \u2014 topics, visual lessons, questions, answer stats",
+  "description": "API for the Quiz app — topics, visual lessons, questions, answer stats",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc -p tsconfig.build.json",
@@ -18,7 +18,8 @@
     "categorize": "ts-node src/scripts/categorize.ts",
     "expand": "ts-node src/scripts/expand.ts",
     "images": "ts-node src/scripts/images.ts",
-    "import:doc": "ts-node src/scripts/import-doc.ts"
+    "import:doc": "ts-node src/scripts/import-doc.ts",
+    "maps": "ts-node src/scripts/maps.ts"
   },
   "engines": {
     "node": "22.x"
@@ -39,6 +40,7 @@
     "@types/express": "^5.0.3",
     "@types/node": "^24.5.2",
     "@types/supertest": "^7.2.1",
+    "mapshaper": "^0.6.121",
     "mongodb-memory-server": "^11.2.0",
     "supertest": "^7.2.2",
     "ts-node": "^10.9.2",

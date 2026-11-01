@@ -3,6 +3,7 @@ import { Lesson } from '../modules/lesson/lesson.model';
 import { Question } from '../modules/question/question.model';
 import { Attempt } from '../modules/attempt/attempt.model';
 import type { FamilyPerson, SeedBundle, SeedQuestion, Visual } from './types';
+import { GEO_TOPICS, lessonMap, tagMap } from './places';
 
 type Family = Extract<Visual, { kind: 'family' }>;
 
@@ -71,9 +72,12 @@ export const seedBundles = async (bundles: SeedBundle[]) => {
 
   const report: string[] = [];
   for (const bundle of bundles) {
-    const { topic, lessons } = bundle;
+    const { topic } = bundle;
     const people = familyOf(bundle)?.people ?? [];
-    const questions = bundle.questions.map((q) => ({ ...q, gods: tagGods(q, people) }));
+    // Geography gets maps; null (not undefined) so $set clears a stale one.
+    const geo = GEO_TOPICS.has(topic.slug);
+    const lessons = bundle.lessons.map((l) => ({ ...l, map: geo ? lessonMap(l) : null }));
+    const questions = bundle.questions.map((q) => ({ ...q, gods: tagGods(q, people), map: geo ? tagMap(q) : null }));
     await Topic.updateOne({ slug: topic.slug }, { $set: topic }, { upsert: true });
 
     // Admin-owned rows (added, edited or hidden in the admin page) are left alone.

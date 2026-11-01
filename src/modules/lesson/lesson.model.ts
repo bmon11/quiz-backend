@@ -13,6 +13,8 @@ const lessonSchema = new Schema(
     // Seed lessons are authored in code; admin lessons get a simple cards visual.
     visual: { type: Schema.Types.Mixed, required: true },
     funFacts: { type: [LSchema], default: [] },
+    // Map of the places the visual lists ({ map, unit?, items }) — geography lessons only.
+    map: { type: Schema.Types.Mixed, default: null },
     // "admin" = created in the admin page; the seed leaves those alone.
     origin: { type: String, enum: ['seed', 'admin'], default: 'seed' },
     // Who added it in the admin page — a contributor may edit only their own.

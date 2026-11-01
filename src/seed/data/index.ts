@@ -6,6 +6,7 @@ import { geography } from './geography';
 import { pubquiz } from './pubquiz';
 import { space } from './space';
 import { astrology } from './astrology';
+import { mapContent } from './maps';
 
 /** Same folder from src/ (ts-node) and dist/ (seed:prod): JSON isn't copied by tsc. */
 export const generatedDir = path.resolve(__dirname, '../../..', 'src/seed/data/generated');
@@ -51,13 +52,15 @@ export const readExpansions = (): Record<string, Expansion> =>
 export const rawContent = (): GeneratedFile => {
   const files = [...handWritten, ...generatedSlugs().map(readGenerated), ...readExtra()];
   const expansions = readExpansions();
+  const lessons = files.flatMap((f) => f.lessons).map((l) => {
+    if (!expansions[l.key]) return l;
+    const { closedSet: _closedSet, ...overlay } = expansions[l.key];
+    return { ...l, ...overlay };
+  });
+  const maps = mapContent(lessons);
   return {
-    lessons: files.flatMap((f) => f.lessons).map((l) => {
-      if (!expansions[l.key]) return l;
-      const { closedSet: _closedSet, ...overlay } = expansions[l.key];
-      return { ...l, ...overlay };
-    }),
-    questions: files.flatMap((f) => f.questions),
+    lessons: [...lessons, ...maps.lessons],
+    questions: [...files.flatMap((f) => f.questions), ...maps.questions],
   };
 };
 

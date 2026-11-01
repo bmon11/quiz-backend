@@ -21,6 +21,7 @@
         }
       },
       "lessons": [
+        "mongolia.aimag-map",
         "mongolia.aimag-flags",
         "mongolia.aimag-areas",
         "geography.mongolia",
@@ -187,6 +188,7 @@
         }
       },
       "lessons": [
+        "geography.world-map",
         "geography.countries",
         "geography.capitals",
         "pubquiz.world"

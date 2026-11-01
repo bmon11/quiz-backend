@@ -1,3 +1,4 @@
+import path from 'node:path';
 import express, { NextFunction, Request, Response } from 'express';
 import compression from 'compression';
 import cors from 'cors';
@@ -25,6 +26,8 @@ export const createApp = () => {
   app.get('/health', (_req, res) => {
     res.json({ ok: true });
   });
+  // Vector maps (npm run maps). Same folder from src/ and dist/.
+  app.use('/maps', express.static(path.resolve(__dirname, '..', 'maps'), { maxAge: '7d' }));
   app.use('/topics', topicRoutes);
   app.use('/quiz', questionRoutes);
   app.use('/attempts', attemptRoutes);

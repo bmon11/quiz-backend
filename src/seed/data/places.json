@@ -1,0 +1,1951 @@
+{
+ "mongolia": [
+  {
+   "id": "uvs",
+   "en": "Uvs",
+   "mn": "Увс",
+   "aliases": []
+  },
+  {
+   "id": "khovd",
+   "en": "Khovd",
+   "mn": "Ховд",
+   "aliases": [
+    "Hovd"
+   ]
+  },
+  {
+   "id": "zavkhan",
+   "en": "Zavkhan",
+   "mn": "Завхан",
+   "aliases": [
+    "Zavhan"
+   ]
+  },
+  {
+   "id": "bulgan",
+   "en": "Bulgan",
+   "mn": "Булган",
+   "aliases": []
+  },
+  {
+   "id": "dornogovi",
+   "en": "Dornogovi",
+   "mn": "Дорноговь",
+   "aliases": [
+    "Dornogobi",
+    "East Gobi"
+   ]
+  },
+  {
+   "id": "ulaanbaatar",
+   "en": "Ulaanbaatar",
+   "mn": "Улаанбаатар",
+   "aliases": [
+    "Ulan Bator",
+    "Ulaan Baatar"
+   ]
+  },
+  {
+   "id": "govisumber",
+   "en": "Govisümber",
+   "mn": "Говьсүмбэр",
+   "aliases": [
+    "Govisumber",
+    "Gobisümber"
+   ]
+  },
+  {
+   "id": "sukhbaatar",
+   "en": "Sükhbaatar",
+   "mn": "Сүхбаатар",
+   "aliases": [
+    "Sukhbaatar"
+   ]
+  },
+  {
+   "id": "govi-altai",
+   "en": "Govi-Altai",
+   "mn": "Говь-Алтай",
+   "aliases": [
+    "Gobi-Altai",
+    "Govi Altai"
+   ]
+  },
+  {
+   "id": "orkhon",
+   "en": "Orkhon",
+   "mn": "Орхон",
+   "aliases": []
+  },
+  {
+   "id": "arkhangai",
+   "en": "Arkhangai",
+   "mn": "Архангай",
+   "aliases": [
+    "Arkhangay",
+    "Arhangai"
+   ]
+  },
+  {
+   "id": "bayankhongor",
+   "en": "Bayankhongor",
+   "mn": "Баянхонгор",
+   "aliases": [
+    "Bayanhongor"
+   ]
+  },
+  {
+   "id": "dundgovi",
+   "en": "Dundgovi",
+   "mn": "Дундговь",
+   "aliases": [
+    "Dundgobi",
+    "Middle Gobi"
+   ]
+  },
+  {
+   "id": "omnogovi",
+   "en": "Ömnögovi",
+   "mn": "Өмнөговь",
+   "aliases": [
+    "Omnogovi",
+    "Umnugovi",
+    "South Gobi"
+   ]
+  },
+  {
+   "id": "ovorkhangai",
+   "en": "Övörkhangai",
+   "mn": "Өвөрхангай",
+   "aliases": [
+    "Ovorkhangai",
+    "Uvurkhangai"
+   ]
+  },
+  {
+   "id": "tov",
+   "en": "Töv",
+   "mn": "Төв",
+   "aliases": [
+    "Tuv"
+   ]
+  },
+  {
+   "id": "dornod",
+   "en": "Dornod",
+   "mn": "Дорнод",
+   "aliases": []
+  },
+  {
+   "id": "selenge",
+   "en": "Selenge",
+   "mn": "Сэлэнгэ",
+   "aliases": []
+  },
+  {
+   "id": "khovsgol",
+   "en": "Khövsgöl",
+   "mn": "Хөвсгөл",
+   "aliases": [
+    "Khovsgol",
+    "Hövsgöl",
+    "Hovsgol",
+    "Khuvsgul",
+    "Huvsgul"
+   ]
+  },
+  {
+   "id": "bayan-olgii",
+   "en": "Bayan-Ölgii",
+   "mn": "Баян-Өлгий",
+   "aliases": [
+    "Bayan-Olgii",
+    "Bayan-Ulgii",
+    "Bayan Ölgii",
+    "Bayan-Ölgiy"
+   ]
+  },
+  {
+   "id": "darkhan-uul",
+   "en": "Darkhan-Uul",
+   "mn": "Дархан-Уул",
+   "aliases": [
+    "Darkhan",
+    "Darhan"
+   ]
+  },
+  {
+   "id": "khentii",
+   "en": "Khentii",
+   "mn": "Хэнтий",
+   "aliases": [
+    "Hentii",
+    "Khentiy"
+   ]
+  }
+ ],
+ "world": [
+  {
+   "id": "ZWE",
+   "en": "Zimbabwe",
+   "mn": "Зимбабве",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "ZMB",
+   "en": "Zambia",
+   "mn": "Замби",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "YEM",
+   "en": "Yemen",
+   "mn": "Йемен",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "VNM",
+   "en": "Vietnam",
+   "mn": "Вьетнам",
+   "aliases": [
+    "Viet Nam"
+   ],
+   "continent": "Asia"
+  },
+  {
+   "id": "VEN",
+   "en": "Venezuela",
+   "mn": "Венесуэл",
+   "aliases": [],
+   "continent": "South America"
+  },
+  {
+   "id": "VAT",
+   "en": "Vatican",
+   "mn": "Ватикан хот улс",
+   "aliases": [
+    "Vatican City"
+   ],
+   "continent": "Europe"
+  },
+  {
+   "id": "VUT",
+   "en": "Vanuatu",
+   "mn": "Вануату",
+   "aliases": [],
+   "continent": "Oceania"
+  },
+  {
+   "id": "UZB",
+   "en": "Uzbekistan",
+   "mn": "Узбекистан",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "URY",
+   "en": "Uruguay",
+   "mn": "Уругвай",
+   "aliases": [],
+   "continent": "South America"
+  },
+  {
+   "id": "FSM",
+   "en": "Micronesia",
+   "mn": "Микронези",
+   "aliases": [
+    "Federated States of Micronesia"
+   ],
+   "continent": "Oceania"
+  },
+  {
+   "id": "MHL",
+   "en": "Marshall Islands",
+   "mn": "Маршаллын арлууд",
+   "aliases": [],
+   "continent": "Oceania"
+  },
+  {
+   "id": "MNP",
+   "en": "Northern Mariana Islands",
+   "mn": "Хойд Марианы арлууд",
+   "aliases": [],
+   "continent": "Oceania"
+  },
+  {
+   "id": "VIR",
+   "en": "United States Virgin Islands",
+   "mn": "АНУ-ын Виржиний арлууд",
+   "aliases": [],
+   "continent": "North America"
+  },
+  {
+   "id": "GUM",
+   "en": "Guam",
+   "mn": "Гуам",
+   "aliases": [],
+   "continent": "Oceania"
+  },
+  {
+   "id": "ASM",
+   "en": "American Samoa",
+   "mn": "Америкийн Самоа",
+   "aliases": [],
+   "continent": "Oceania"
+  },
+  {
+   "id": "PRI",
+   "en": "Puerto Rico",
+   "mn": "Пуэрто-Рико",
+   "aliases": [],
+   "continent": "North America"
+  },
+  {
+   "id": "USA",
+   "en": "United States of America",
+   "mn": "Америкийн Нэгдсэн Улс",
+   "aliases": [
+    "United States",
+    "USA"
+   ],
+   "continent": "North America"
+  },
+  {
+   "id": "SGS",
+   "en": "South Georgia and the South Sandwich Islands",
+   "mn": "Өмнөд Жоржиа ба Өмнөд Сэндвичийн арлууд",
+   "aliases": [
+    "South Georgia and the Islands"
+   ],
+   "continent": "Seven seas (open ocean)"
+  },
+  {
+   "id": "IOT",
+   "en": "British Indian Ocean Territory",
+   "mn": "Британийн харьяа Энэтхэгийн далай дахь нутаг дэвсгэр",
+   "aliases": [],
+   "continent": "Seven seas (open ocean)"
+  },
+  {
+   "id": "SHN",
+   "en": "Saint Helena",
+   "mn": "Сент Хелена",
+   "aliases": [],
+   "continent": "Seven seas (open ocean)"
+  },
+  {
+   "id": "PCN",
+   "en": "Pitcairn Islands",
+   "mn": "Питкэрн арлууд",
+   "aliases": [],
+   "continent": "Oceania"
+  },
+  {
+   "id": "AIA",
+   "en": "Anguilla",
+   "mn": "Ангилья",
+   "aliases": [],
+   "continent": "North America"
+  },
+  {
+   "id": "FLK",
+   "en": "Falkland Islands",
+   "mn": "Фолклендийн арлууд",
+   "aliases": [
+    "Falkland Islands / Malvinas"
+   ],
+   "continent": "South America"
+  },
+  {
+   "id": "CYM",
+   "en": "Cayman Islands",
+   "mn": "Кайманы арлууд",
+   "aliases": [],
+   "continent": "North America"
+  },
+  {
+   "id": "BMU",
+   "en": "Bermuda",
+   "mn": "Бермуда",
+   "aliases": [],
+   "continent": "North America"
+  },
+  {
+   "id": "VGB",
+   "en": "British Virgin Islands",
+   "mn": "Британийн Виржиний арлууд",
+   "aliases": [],
+   "continent": "North America"
+  },
+  {
+   "id": "TCA",
+   "en": "Turks and Caicos Islands",
+   "mn": "Турк ба Кайкосын Арлууд",
+   "aliases": [],
+   "continent": "North America"
+  },
+  {
+   "id": "MSR",
+   "en": "Montserrat",
+   "mn": "Монтсеррат",
+   "aliases": [],
+   "continent": "North America"
+  },
+  {
+   "id": "JEY",
+   "en": "Jersey",
+   "mn": "Жерси",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "GGY",
+   "en": "Guernsey",
+   "mn": "Гернси",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "IMN",
+   "en": "Isle of Man",
+   "mn": "Мэн Арал",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "GBR",
+   "en": "United Kingdom",
+   "mn": "Их Британи",
+   "aliases": [
+    "UK",
+    "Britain",
+    "Great Britain",
+    "England",
+    "Scotland",
+    "Wales"
+   ],
+   "continent": "Europe"
+  },
+  {
+   "id": "ARE",
+   "en": "United Arab Emirates",
+   "mn": "Арабын Нэгдсэн Эмират Улс",
+   "aliases": [
+    "UAE"
+   ],
+   "continent": "Asia"
+  },
+  {
+   "id": "UKR",
+   "en": "Ukraine",
+   "mn": "Украин",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "UGA",
+   "en": "Uganda",
+   "mn": "Уганда",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "TKM",
+   "en": "Turkmenistan",
+   "mn": "Туркменистан",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "TUR",
+   "en": "Turkey",
+   "mn": "Турк",
+   "aliases": [
+    "Türkiye"
+   ],
+   "continent": "Asia"
+  },
+  {
+   "id": "TUN",
+   "en": "Tunisia",
+   "mn": "Тунис",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "TTO",
+   "en": "Trinidad and Tobago",
+   "mn": "Тринидад ба Тобаго",
+   "aliases": [],
+   "continent": "North America"
+  },
+  {
+   "id": "TON",
+   "en": "Tonga",
+   "mn": "Тонга",
+   "aliases": [],
+   "continent": "Oceania"
+  },
+  {
+   "id": "TGO",
+   "en": "Togo",
+   "mn": "Того",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "TLS",
+   "en": "Timor-Leste",
+   "mn": "Тимор-Лесте",
+   "aliases": [
+    "East Timor"
+   ],
+   "continent": "Asia"
+  },
+  {
+   "id": "THA",
+   "en": "Thailand",
+   "mn": "Тайланд",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "TZA",
+   "en": "Tanzania",
+   "mn": "Танзани",
+   "aliases": [
+    "United Republic of Tanzania"
+   ],
+   "continent": "Africa"
+  },
+  {
+   "id": "TJK",
+   "en": "Tajikistan",
+   "mn": "Тажикистан",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "TWN",
+   "en": "Taiwan",
+   "mn": "Тайвань",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "SYR",
+   "en": "Syria",
+   "mn": "Сири",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "CHE",
+   "en": "Switzerland",
+   "mn": "Швейцар",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "SWE",
+   "en": "Sweden",
+   "mn": "Швед",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "SWZ",
+   "en": "eSwatini",
+   "mn": "Эсватини",
+   "aliases": [
+    "Eswatini",
+    "Kingdom of eSwatini",
+    "Swaziland"
+   ],
+   "continent": "Africa"
+  },
+  {
+   "id": "SUR",
+   "en": "Suriname",
+   "mn": "Суринам",
+   "aliases": [],
+   "continent": "South America"
+  },
+  {
+   "id": "SDS",
+   "en": "South Sudan",
+   "mn": "Өмнөд Судан",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "SDN",
+   "en": "Sudan",
+   "mn": "Судан",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "LKA",
+   "en": "Sri Lanka",
+   "mn": "Шри-Ланка",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "ESP",
+   "en": "Spain",
+   "mn": "Испани",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "KOR",
+   "en": "South Korea",
+   "mn": "Өмнөд Солонгос",
+   "aliases": [
+    "Republic of Korea"
+   ],
+   "continent": "Asia"
+  },
+  {
+   "id": "ZAF",
+   "en": "South Africa",
+   "mn": "Өмнөд Африк",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "SOM",
+   "en": "Somalia",
+   "mn": "Сомали",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "SOL",
+   "en": "Somaliland",
+   "mn": "Somaliland",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "SLB",
+   "en": "Solomon Islands",
+   "mn": "Соломоны арлууд",
+   "aliases": [],
+   "continent": "Oceania"
+  },
+  {
+   "id": "SVK",
+   "en": "Slovakia",
+   "mn": "Словак",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "SVN",
+   "en": "Slovenia",
+   "mn": "Словени",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "SGP",
+   "en": "Singapore",
+   "mn": "Сингапур",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "SLE",
+   "en": "Sierra Leone",
+   "mn": "Сьерра-Леоне",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "SYC",
+   "en": "Seychelles",
+   "mn": "Сейшелийн арлууд",
+   "aliases": [],
+   "continent": "Seven seas (open ocean)"
+  },
+  {
+   "id": "SRB",
+   "en": "Serbia",
+   "mn": "Серби",
+   "aliases": [
+    "Republic of Serbia"
+   ],
+   "continent": "Europe"
+  },
+  {
+   "id": "SEN",
+   "en": "Senegal",
+   "mn": "Сенегал",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "SAU",
+   "en": "Saudi Arabia",
+   "mn": "Саудын Араб",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "STP",
+   "en": "São Tomé and Principe",
+   "mn": "Сан-Томе ба Принсипи",
+   "aliases": [
+    "São Tomé and Príncipe"
+   ],
+   "continent": "Africa"
+  },
+  {
+   "id": "SMR",
+   "en": "San Marino",
+   "mn": "Сан-Марино",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "WSM",
+   "en": "Samoa",
+   "mn": "Самоа",
+   "aliases": [],
+   "continent": "Oceania"
+  },
+  {
+   "id": "VCT",
+   "en": "Saint Vincent and the Grenadines",
+   "mn": "Сент-Винсент ба Гренадин",
+   "aliases": [],
+   "continent": "North America"
+  },
+  {
+   "id": "LCA",
+   "en": "Saint Lucia",
+   "mn": "Сент Люсиа",
+   "aliases": [],
+   "continent": "North America"
+  },
+  {
+   "id": "KNA",
+   "en": "Saint Kitts and Nevis",
+   "mn": "Сент-Киттс ба Невис",
+   "aliases": [],
+   "continent": "North America"
+  },
+  {
+   "id": "RWA",
+   "en": "Rwanda",
+   "mn": "Руанда",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "RUS",
+   "en": "Russia",
+   "mn": "Орос",
+   "aliases": [
+    "Russian Federation",
+    "Soviet Union",
+    "USSR"
+   ],
+   "continent": "Europe"
+  },
+  {
+   "id": "ROU",
+   "en": "Romania",
+   "mn": "Румын",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "QAT",
+   "en": "Qatar",
+   "mn": "Катар",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "PRT",
+   "en": "Portugal",
+   "mn": "Португал",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "POL",
+   "en": "Poland",
+   "mn": "Польш",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "PHL",
+   "en": "Philippines",
+   "mn": "Филиппин",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "PER",
+   "en": "Peru",
+   "mn": "Перу",
+   "aliases": [],
+   "continent": "South America"
+  },
+  {
+   "id": "PRY",
+   "en": "Paraguay",
+   "mn": "Парагвай",
+   "aliases": [],
+   "continent": "South America"
+  },
+  {
+   "id": "PNG",
+   "en": "Papua New Guinea",
+   "mn": "Папуа Шинэ Гвиней",
+   "aliases": [],
+   "continent": "Oceania"
+  },
+  {
+   "id": "PAN",
+   "en": "Panama",
+   "mn": "Панам",
+   "aliases": [],
+   "continent": "North America"
+  },
+  {
+   "id": "PLW",
+   "en": "Palau",
+   "mn": "Палау",
+   "aliases": [],
+   "continent": "Oceania"
+  },
+  {
+   "id": "PAK",
+   "en": "Pakistan",
+   "mn": "Пакистан",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "OMN",
+   "en": "Oman",
+   "mn": "Оман",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "NOR",
+   "en": "Norway",
+   "mn": "Норвег",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "PRK",
+   "en": "North Korea",
+   "mn": "Хойд Солонгос",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "NGA",
+   "en": "Nigeria",
+   "mn": "Нигери",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "NER",
+   "en": "Niger",
+   "mn": "Нигер",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "NIC",
+   "en": "Nicaragua",
+   "mn": "Никарагуа",
+   "aliases": [],
+   "continent": "North America"
+  },
+  {
+   "id": "NZL",
+   "en": "New Zealand",
+   "mn": "Шинэ Зеланд",
+   "aliases": [],
+   "continent": "Oceania"
+  },
+  {
+   "id": "NIU",
+   "en": "Niue",
+   "mn": "Ниуэ",
+   "aliases": [],
+   "continent": "Oceania"
+  },
+  {
+   "id": "COK",
+   "en": "Cook Islands",
+   "mn": "Күүкийн арлууд",
+   "aliases": [],
+   "continent": "Oceania"
+  },
+  {
+   "id": "NLD",
+   "en": "Netherlands",
+   "mn": "Нидерланд",
+   "aliases": [
+    "Holland",
+    "the Netherlands"
+   ],
+   "continent": "Europe"
+  },
+  {
+   "id": "ABW",
+   "en": "Aruba",
+   "mn": "Аруба",
+   "aliases": [],
+   "continent": "North America"
+  },
+  {
+   "id": "CUW",
+   "en": "Curaçao",
+   "mn": "Кюрасао",
+   "aliases": [],
+   "continent": "North America"
+  },
+  {
+   "id": "NPL",
+   "en": "Nepal",
+   "mn": "Балба",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "NRU",
+   "en": "Nauru",
+   "mn": "Науру",
+   "aliases": [],
+   "continent": "Oceania"
+  },
+  {
+   "id": "NAM",
+   "en": "Namibia",
+   "mn": "Намиби",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "MOZ",
+   "en": "Mozambique",
+   "mn": "Мозамбик",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "MAR",
+   "en": "Morocco",
+   "mn": "Морокко",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "SAH",
+   "en": "Western Sahara",
+   "mn": "Баруун Сахар",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "MNE",
+   "en": "Montenegro",
+   "mn": "Монтенегро",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "MNG",
+   "en": "Mongolia",
+   "mn": "Монгол",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "MDA",
+   "en": "Moldova",
+   "mn": "Молдова",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "MCO",
+   "en": "Monaco",
+   "mn": "Монако",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "MEX",
+   "en": "Mexico",
+   "mn": "Мексик",
+   "aliases": [],
+   "continent": "North America"
+  },
+  {
+   "id": "MUS",
+   "en": "Mauritius",
+   "mn": "Маврикий",
+   "aliases": [],
+   "continent": "Seven seas (open ocean)"
+  },
+  {
+   "id": "MRT",
+   "en": "Mauritania",
+   "mn": "Мавритани",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "MLT",
+   "en": "Malta",
+   "mn": "Мальта",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "MLI",
+   "en": "Mali",
+   "mn": "Мали",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "MDV",
+   "en": "Maldives",
+   "mn": "Мальдив",
+   "aliases": [],
+   "continent": "Seven seas (open ocean)"
+  },
+  {
+   "id": "MYS",
+   "en": "Malaysia",
+   "mn": "Малайз",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "MWI",
+   "en": "Malawi",
+   "mn": "Малави",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "MDG",
+   "en": "Madagascar",
+   "mn": "Мадагаскар",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "MKD",
+   "en": "North Macedonia",
+   "mn": "Хойд Македон",
+   "aliases": [
+    "Macedonia"
+   ],
+   "continent": "Europe"
+  },
+  {
+   "id": "LUX",
+   "en": "Luxembourg",
+   "mn": "Люксембург",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "LTU",
+   "en": "Lithuania",
+   "mn": "Литва",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "LIE",
+   "en": "Liechtenstein",
+   "mn": "Лихтенштайн",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "LBY",
+   "en": "Libya",
+   "mn": "Ливи",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "LBR",
+   "en": "Liberia",
+   "mn": "Либери",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "LSO",
+   "en": "Lesotho",
+   "mn": "Лесото",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "LBN",
+   "en": "Lebanon",
+   "mn": "Ливан",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "LVA",
+   "en": "Latvia",
+   "mn": "Латви",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "LAO",
+   "en": "Laos",
+   "mn": "Лаос",
+   "aliases": [
+    "Lao PDR"
+   ],
+   "continent": "Asia"
+  },
+  {
+   "id": "KGZ",
+   "en": "Kyrgyzstan",
+   "mn": "Киргиз",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "KWT",
+   "en": "Kuwait",
+   "mn": "Кувейт",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "KOS",
+   "en": "Kosovo",
+   "mn": "Косово",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "KIR",
+   "en": "Kiribati",
+   "mn": "Кирибати",
+   "aliases": [],
+   "continent": "Oceania"
+  },
+  {
+   "id": "KEN",
+   "en": "Kenya",
+   "mn": "Кени",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "KAZ",
+   "en": "Kazakhstan",
+   "mn": "Казахстан",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "JOR",
+   "en": "Jordan",
+   "mn": "Йордан",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "JPN",
+   "en": "Japan",
+   "mn": "Япон",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "JAM",
+   "en": "Jamaica",
+   "mn": "Ямайка",
+   "aliases": [],
+   "continent": "North America"
+  },
+  {
+   "id": "ITA",
+   "en": "Italy",
+   "mn": "Итали",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "ISR",
+   "en": "Israel",
+   "mn": "Израил",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "PSX",
+   "en": "Palestine",
+   "mn": "Палестины нутаг дэвсгэр",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "IRL",
+   "en": "Ireland",
+   "mn": "Ирланд",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "IRQ",
+   "en": "Iraq",
+   "mn": "Ирак",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "IRN",
+   "en": "Iran",
+   "mn": "Иран",
+   "aliases": [
+    "Persia"
+   ],
+   "continent": "Asia"
+  },
+  {
+   "id": "IDN",
+   "en": "Indonesia",
+   "mn": "Индонез",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "IND",
+   "en": "India",
+   "mn": "Энэтхэг",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "ISL",
+   "en": "Iceland",
+   "mn": "Исланд",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "HUN",
+   "en": "Hungary",
+   "mn": "Унгар",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "HND",
+   "en": "Honduras",
+   "mn": "Гондурас",
+   "aliases": [],
+   "continent": "North America"
+  },
+  {
+   "id": "HTI",
+   "en": "Haiti",
+   "mn": "Гаити",
+   "aliases": [],
+   "continent": "North America"
+  },
+  {
+   "id": "GUY",
+   "en": "Guyana",
+   "mn": "Гайана",
+   "aliases": [],
+   "continent": "South America"
+  },
+  {
+   "id": "GNB",
+   "en": "Guinea-Bissau",
+   "mn": "Гвиней-Бисау",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "GIN",
+   "en": "Guinea",
+   "mn": "Гвиней",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "GTM",
+   "en": "Guatemala",
+   "mn": "Гватемал",
+   "aliases": [],
+   "continent": "North America"
+  },
+  {
+   "id": "GRD",
+   "en": "Grenada",
+   "mn": "Гренада",
+   "aliases": [],
+   "continent": "North America"
+  },
+  {
+   "id": "GRC",
+   "en": "Greece",
+   "mn": "Грек",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "GHA",
+   "en": "Ghana",
+   "mn": "Гана",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "DEU",
+   "en": "Germany",
+   "mn": "Герман",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "GEO",
+   "en": "Georgia",
+   "mn": "Гүрж",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "GMB",
+   "en": "Gambia",
+   "mn": "Гамби",
+   "aliases": [
+    "The Gambia"
+   ],
+   "continent": "Africa"
+  },
+  {
+   "id": "GAB",
+   "en": "Gabon",
+   "mn": "Габон",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "FRA",
+   "en": "France",
+   "mn": "Франц",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "SPM",
+   "en": "Saint Pierre and Miquelon",
+   "mn": "Сент-Пьер ба Микело",
+   "aliases": [],
+   "continent": "North America"
+  },
+  {
+   "id": "WLF",
+   "en": "Wallis and Futuna",
+   "mn": "Уоллис ба Футуна",
+   "aliases": [
+    "Wallis and Futuna Islands"
+   ],
+   "continent": "Oceania"
+  },
+  {
+   "id": "MAF",
+   "en": "St-Martin",
+   "mn": "Сент-Мартин",
+   "aliases": [
+    "Saint Martin",
+    "Saint-Martin"
+   ],
+   "continent": "North America"
+  },
+  {
+   "id": "BLM",
+   "en": "St-Barthélemy",
+   "mn": "Сент-Бартельми",
+   "aliases": [
+    "Saint Barthélemy",
+    "Saint-Barthélemy",
+    "Saint Barthelemy"
+   ],
+   "continent": "North America"
+  },
+  {
+   "id": "PYF",
+   "en": "French Polynesia",
+   "mn": "Францын Полинез",
+   "aliases": [],
+   "continent": "Oceania"
+  },
+  {
+   "id": "NCL",
+   "en": "New Caledonia",
+   "mn": "Шинэ Каледони",
+   "aliases": [],
+   "continent": "Oceania"
+  },
+  {
+   "id": "ATF",
+   "en": "French Southern and Antarctic Lands",
+   "mn": "Францын өмнөд газар нутаг",
+   "aliases": [],
+   "continent": "Seven seas (open ocean)"
+  },
+  {
+   "id": "ALD",
+   "en": "Åland",
+   "mn": "Аландын арлууд",
+   "aliases": [
+    "Åland Islands",
+    "Aland"
+   ],
+   "continent": "Europe"
+  },
+  {
+   "id": "FIN",
+   "en": "Finland",
+   "mn": "Финланд",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "FJI",
+   "en": "Fiji",
+   "mn": "Фижи",
+   "aliases": [],
+   "continent": "Oceania"
+  },
+  {
+   "id": "ETH",
+   "en": "Ethiopia",
+   "mn": "Этиоп",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "EST",
+   "en": "Estonia",
+   "mn": "Эстони",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "ERI",
+   "en": "Eritrea",
+   "mn": "Эритрей",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "GNQ",
+   "en": "Equatorial Guinea",
+   "mn": "Экваторын Гвиней",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "SLV",
+   "en": "El Salvador",
+   "mn": "Эль Сальвадор",
+   "aliases": [],
+   "continent": "North America"
+  },
+  {
+   "id": "EGY",
+   "en": "Egypt",
+   "mn": "Египет",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "ECU",
+   "en": "Ecuador",
+   "mn": "Эквадор",
+   "aliases": [],
+   "continent": "South America"
+  },
+  {
+   "id": "DOM",
+   "en": "Dominican Republic",
+   "mn": "Бүгд Найрамдах Доминикан Улс",
+   "aliases": [],
+   "continent": "North America"
+  },
+  {
+   "id": "DMA",
+   "en": "Dominica",
+   "mn": "Доминика",
+   "aliases": [],
+   "continent": "North America"
+  },
+  {
+   "id": "DJI",
+   "en": "Djibouti",
+   "mn": "Джибути",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "GRL",
+   "en": "Greenland",
+   "mn": "Гренланд",
+   "aliases": [],
+   "continent": "North America"
+  },
+  {
+   "id": "FRO",
+   "en": "Faroe Islands",
+   "mn": "Фарерын арлууд",
+   "aliases": [
+    "Faeroe Islands"
+   ],
+   "continent": "Europe"
+  },
+  {
+   "id": "DNK",
+   "en": "Denmark",
+   "mn": "Дани",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "CZE",
+   "en": "Czechia",
+   "mn": "Чех",
+   "aliases": [
+    "Czech Republic"
+   ],
+   "continent": "Europe"
+  },
+  {
+   "id": "CYN",
+   "en": "Turkish Republic of Northern Cyprus",
+   "mn": "Turkish Republic of Northern Cyprus",
+   "aliases": [
+    "Northern Cyprus"
+   ],
+   "continent": "Asia"
+  },
+  {
+   "id": "CYP",
+   "en": "Cyprus",
+   "mn": "Кипр",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "CUB",
+   "en": "Cuba",
+   "mn": "Куба",
+   "aliases": [],
+   "continent": "North America"
+  },
+  {
+   "id": "HRV",
+   "en": "Croatia",
+   "mn": "Хорват",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "CIV",
+   "en": "Côte d'Ivoire",
+   "mn": "Кот-д’Ивуар",
+   "aliases": [
+    "Ivory Coast"
+   ],
+   "continent": "Africa"
+  },
+  {
+   "id": "CRI",
+   "en": "Costa Rica",
+   "mn": "Коста-Рика",
+   "aliases": [],
+   "continent": "North America"
+  },
+  {
+   "id": "COD",
+   "en": "Democratic Republic of the Congo",
+   "mn": "Конго-Киншаса",
+   "aliases": [
+    "DR Congo",
+    "DRC"
+   ],
+   "continent": "Africa"
+  },
+  {
+   "id": "COG",
+   "en": "Congo",
+   "mn": "Конго-Браззавиль",
+   "aliases": [
+    "Republic of the Congo"
+   ],
+   "continent": "Africa"
+  },
+  {
+   "id": "COM",
+   "en": "Comoros",
+   "mn": "Коморын арлууд",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "COL",
+   "en": "Colombia",
+   "mn": "Колумби",
+   "aliases": [],
+   "continent": "South America"
+  },
+  {
+   "id": "CHN",
+   "en": "China",
+   "mn": "Хятад",
+   "aliases": [
+    "People's Republic of China",
+    "Inner Mongolia",
+    "Tibet"
+   ],
+   "continent": "Asia"
+  },
+  {
+   "id": "MAC",
+   "en": "Macao",
+   "mn": "БНХАУ-ын Тусгай захиргааны бүс Макао",
+   "aliases": [
+    "Macau"
+   ],
+   "continent": "Asia"
+  },
+  {
+   "id": "HKG",
+   "en": "Hong Kong",
+   "mn": "БНХАУ-ын Тусгай захиргааны бүс Хонг-Конг",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "CHL",
+   "en": "Chile",
+   "mn": "Чили",
+   "aliases": [],
+   "continent": "South America"
+  },
+  {
+   "id": "TCD",
+   "en": "Chad",
+   "mn": "Чад",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "CAF",
+   "en": "Central African Republic",
+   "mn": "Төв Африкийн Бүгд Найрамдах Улс",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "CPV",
+   "en": "Cabo Verde",
+   "mn": "Кабо-Верде",
+   "aliases": [
+    "Cape Verde",
+    "Republic of Cabo Verde"
+   ],
+   "continent": "Africa"
+  },
+  {
+   "id": "CAN",
+   "en": "Canada",
+   "mn": "Канад",
+   "aliases": [],
+   "continent": "North America"
+  },
+  {
+   "id": "CMR",
+   "en": "Cameroon",
+   "mn": "Камерун",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "KHM",
+   "en": "Cambodia",
+   "mn": "Камбож",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "MMR",
+   "en": "Myanmar",
+   "mn": "Мьянмар",
+   "aliases": [
+    "Burma"
+   ],
+   "continent": "Asia"
+  },
+  {
+   "id": "BDI",
+   "en": "Burundi",
+   "mn": "Бурунди",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "BFA",
+   "en": "Burkina Faso",
+   "mn": "Буркина Фасо",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "BGR",
+   "en": "Bulgaria",
+   "mn": "Болгар",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "BRN",
+   "en": "Brunei",
+   "mn": "Бруней",
+   "aliases": [
+    "Brunei Darussalam"
+   ],
+   "continent": "Asia"
+  },
+  {
+   "id": "BRA",
+   "en": "Brazil",
+   "mn": "Бразил",
+   "aliases": [],
+   "continent": "South America"
+  },
+  {
+   "id": "BWA",
+   "en": "Botswana",
+   "mn": "Ботсван",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "BIH",
+   "en": "Bosnia and Herzegovina",
+   "mn": "Босни-Херцеговин",
+   "aliases": [
+    "Bosnia"
+   ],
+   "continent": "Europe"
+  },
+  {
+   "id": "BOL",
+   "en": "Bolivia",
+   "mn": "Боливи",
+   "aliases": [],
+   "continent": "South America"
+  },
+  {
+   "id": "BTN",
+   "en": "Bhutan",
+   "mn": "Бутан",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "BEN",
+   "en": "Benin",
+   "mn": "Бенин",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "BLZ",
+   "en": "Belize",
+   "mn": "Белизе",
+   "aliases": [],
+   "continent": "North America"
+  },
+  {
+   "id": "BEL",
+   "en": "Belgium",
+   "mn": "Бельги",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "BLR",
+   "en": "Belarus",
+   "mn": "Беларусь",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "BRB",
+   "en": "Barbados",
+   "mn": "Барбадос",
+   "aliases": [],
+   "continent": "North America"
+  },
+  {
+   "id": "BGD",
+   "en": "Bangladesh",
+   "mn": "Бангладеш",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "BHR",
+   "en": "Bahrain",
+   "mn": "Бахрейн",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "BHS",
+   "en": "Bahamas",
+   "mn": "Багамын арлууд",
+   "aliases": [
+    "The Bahamas"
+   ],
+   "continent": "North America"
+  },
+  {
+   "id": "AZE",
+   "en": "Azerbaijan",
+   "mn": "Азербайжан",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "AUT",
+   "en": "Austria",
+   "mn": "Австри",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "AUS",
+   "en": "Australia",
+   "mn": "Австрали",
+   "aliases": [],
+   "continent": "Oceania"
+  },
+  {
+   "id": "HMD",
+   "en": "Heard Island and McDonald Islands",
+   "mn": "Херд ба Макдональдийн арлууд",
+   "aliases": [],
+   "continent": "Seven seas (open ocean)"
+  },
+  {
+   "id": "NFK",
+   "en": "Norfolk Island",
+   "mn": "Норфолк арал",
+   "aliases": [],
+   "continent": "Oceania"
+  },
+  {
+   "id": "ARM",
+   "en": "Armenia",
+   "mn": "Армени",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "ARG",
+   "en": "Argentina",
+   "mn": "Аргентин",
+   "aliases": [],
+   "continent": "South America"
+  },
+  {
+   "id": "ATG",
+   "en": "Antigua and Barbuda",
+   "mn": "Антигуа ба Барбуда",
+   "aliases": [],
+   "continent": "North America"
+  },
+  {
+   "id": "AGO",
+   "en": "Angola",
+   "mn": "Ангол",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "AND",
+   "en": "Andorra",
+   "mn": "Андорра",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "DZA",
+   "en": "Algeria",
+   "mn": "Алжир",
+   "aliases": [],
+   "continent": "Africa"
+  },
+  {
+   "id": "ALB",
+   "en": "Albania",
+   "mn": "Албани",
+   "aliases": [],
+   "continent": "Europe"
+  },
+  {
+   "id": "AFG",
+   "en": "Afghanistan",
+   "mn": "Афганистан",
+   "aliases": [],
+   "continent": "Asia"
+  },
+  {
+   "id": "SXM",
+   "en": "Sint Maarten",
+   "mn": "Синт Мартен",
+   "aliases": [],
+   "continent": "North America"
+  },
+  {
+   "id": "TUV",
+   "en": "Tuvalu",
+   "mn": "Тувалу",
+   "aliases": [],
+   "continent": "Oceania"
+  }
+ ]
+}

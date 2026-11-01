@@ -65,7 +65,25 @@ export type Visual =
    * Zodiac-style wheel of 12 (or any number of) signs, coloured by group
    * (element); tapping a sign opens its profile.
    */
-  | { kind: 'zodiac'; groups: ZodiacGroup[]; signs: ZodiacSign[] };
+  | { kind: 'zodiac'; groups: ZodiacGroup[]; signs: ZodiacSign[] }
+  /**
+   * Vector map (maps/<map>.json): each item colours one region — by `value`
+   * when given (choropleth), else highlighted — and tapping it opens its facts.
+   */
+  | ({ kind: 'map' } & MapPayload);
+
+export type MapName = 'mongolia' | 'world';
+
+export type MapItem = { id: string; title: L; value?: number; subtitle?: L; facts?: L[] };
+
+export type MapPayload = { map: MapName; unit?: L; items: MapItem[] };
+
+/**
+ * Places a question is about. `context` (from the prompt) may show before
+ * answering; `answer` (from the right answer / explanation) is only revealed
+ * with the result. `locate` = "which region is highlighted?" questions.
+ */
+export type QuestionMap = { name: MapName; context: string[]; answer: string[]; locate?: boolean };
 
 /** A Wikimedia Commons picture: `src` for the card, `full` for zooming, `file` credits it. */
 export type Photo = { src: string; full: string; width: number; height: number; file: string };
@@ -125,6 +143,8 @@ export interface SeedLesson {
   visual: Visual;
   /** "Did you know?" one-liners shown under the visual. */
   funFacts: L[];
+  /** Map of the places the visual lists (derived by the seed for geography lessons). */
+  map?: MapPayload | null;
 }
 
 export interface SeedQuestion {
@@ -147,6 +167,8 @@ export interface SeedQuestion {
    * one. Omitted for regular lesson questions.
    */
   source?: 'show' | 'predicted';
+  /** Derived by the seed for geography questions (see seed/places.ts). */
+  map?: QuestionMap | null;
 }
 
 export interface SeedBundle {

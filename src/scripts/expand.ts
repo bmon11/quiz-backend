@@ -166,7 +166,7 @@ const draft = (lesson: SeedLesson, kind: Kind, current: AnyItem[], want: number,
     temperature: 0.4,
     prompt: `Lesson "${lesson.title.en}" / «${lesson.title.mn}»
 Body: ${lesson.body.en}
-Visual kind: ${kind}${'unit' in lesson.visual ? ` (unit: ${lesson.visual.unit.en})` : ''}
+Visual kind: ${kind}${'unit' in lesson.visual && lesson.visual.unit ? ` (unit: ${lesson.visual.unit.en})` : ''}
 Example items (match their style and length): ${JSON.stringify(current.slice(0, 2))}
 Already listed (${current.length}) — do not repeat any of these: ${current.map(labelOf).join(' | ')}
 

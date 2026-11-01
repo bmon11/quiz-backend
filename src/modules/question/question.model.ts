@@ -15,6 +15,19 @@ const questionSchema = new Schema(
     // Family-tree people (ids in the topic's family visual) this question is
     // about — the quiz shows their branch of the tree after answering.
     gods: { type: [String], default: [] },
+    // Places on a vector map (seed/places.ts). `answer` is only sent with the result.
+    map: {
+      type: new Schema(
+        {
+          name: { type: String, enum: ['mongolia', 'world'], required: true },
+          context: { type: [String], default: [] },
+          answer: { type: [String], default: [] },
+          locate: { type: Boolean, default: false },
+        },
+        { _id: false }
+      ),
+      default: null,
+    },
     // "show" = asked at a real Quiz League game, "predicted" = written in that style.
     source: { type: String, enum: ['show', 'predicted'] },
     // "seed" = authored in src/seed/data, "admin" = added or edited in the admin
@@ -66,7 +79,7 @@ export const servable = { hidden: { $ne: true } };
 /** What players never see of a question (aggregation $project). */
 export const playerProjection = {
   answer: 0, explanation: 0, createdAt: 0, updatedAt: 0, __v: 0, origin: 0, hidden: 0,
-  createdBy: 0, reports: 0, openReports: 0,
+  createdBy: 0, reports: 0, openReports: 0, 'map.answer': 0,
 } as const;
 
 export type QuestionDoc = InferSchemaType<typeof questionSchema>;

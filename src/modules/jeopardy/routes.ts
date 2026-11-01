@@ -125,7 +125,7 @@ const checkBody = z.object({
 
 router.post('/check', rateLimit({ windowMs: 60_000, max: 150 }), async (req, res) => {
   const { questionId, choice, first } = parse(checkBody, req.body);
-  const found = await Question.findById(questionId).select('+answer choices explanation').lean();
+  const found = await Question.findById(questionId).select('+answer choices explanation map').lean();
   if (!found) throw new HttpError(404, 'Question not found');
   if (choice !== undefined && choice >= found.choices.length) throw new HttpError(400, 'choice: out of range');
 
@@ -134,7 +134,7 @@ router.post('/check', rateLimit({ windowMs: 60_000, max: 150 }), async (req, res
     await Question.updateOne({ _id: questionId }, { $inc: { 'stats.attempts': 1, 'stats.correct': correct ? 1 : 0 } });
   }
   const reveal = correct || choice === undefined;
-  res.json({ correct, ...(reveal && { answer: found.answer, explanation: found.explanation }) });
+  res.json({ correct, ...(reveal && { answer: found.answer, explanation: found.explanation, map: found.map ?? null }) });
 });
 
 export default router;
