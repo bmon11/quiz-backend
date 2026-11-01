@@ -18,6 +18,7 @@
     "categorize": "ts-node src/scripts/categorize.ts",
     "expand": "ts-node src/scripts/expand.ts",
     "images": "ts-node src/scripts/images.ts",
+    "place-facts": "ts-node src/scripts/place-facts.ts",
     "import:doc": "ts-node src/scripts/import-doc.ts",
     "maps": "ts-node src/scripts/maps.ts"
   },

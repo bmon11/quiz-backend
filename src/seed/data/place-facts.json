@@ -1,0 +1,2518 @@
+{
+  "mongolia": {
+    "khovd": {
+      "summary": {
+        "en": "A culturally diverse western province of Mongolia, famous for its high Altai peaks, ancient cave art, and sweet watermelons.",
+        "mn": "Монгол Алтайн сүрлэг уулс, эртний хадны сүг зураг, амтат тарвасаараа алдартай олон ястны өлгий нутаг."
+      },
+      "stats": [
+        {
+          "label": {
+            "en": "Aimag centre",
+            "mn": "Аймгийн төв"
+          },
+          "value": {
+            "en": "Khovd (Jargalant sum)",
+            "mn": "Ховд (Жаргалант сум)"
+          }
+        },
+        {
+          "label": {
+            "en": "Year founded",
+            "mn": "Байгуулагдсан он"
+          },
+          "value": {
+            "en": "1931",
+            "mn": "1931"
+          }
+        },
+        {
+          "label": {
+            "en": "Area",
+            "mn": "Газар нутгийн хэмжээ"
+          },
+          "value": {
+            "en": "76,060 km²",
+            "mn": "76,060 км²"
+          }
+        },
+        {
+          "label": {
+            "en": "Population",
+            "mn": "Хүн ам"
+          },
+          "value": {
+            "en": "91,229 (2024)",
+            "mn": "91,229 (2024)"
+          }
+        },
+        {
+          "label": {
+            "en": "Number of sums",
+            "mn": "Сумын тоо"
+          },
+          "value": {
+            "en": "17",
+            "mn": "17"
+          }
+        },
+        {
+          "label": {
+            "en": "Distance from Ulaanbaatar",
+            "mn": "Улаанбаатараас алслагдах зай"
+          },
+          "value": {
+            "en": "1,580 km",
+            "mn": "1,580 км"
+          }
+        }
+      ],
+      "formerNames": [
+        {
+          "name": {
+            "en": "Chandmani Uulyn Aimag",
+            "mn": "Чандмань уулын аймаг"
+          },
+          "period": {
+            "en": "1925–1931",
+            "mn": "1925–1931"
+          }
+        },
+        {
+          "name": {
+            "en": "Jargalant",
+            "mn": "Жаргалант"
+          },
+          "period": {
+            "en": "1931–1961",
+            "mn": "1931–1961"
+          }
+        }
+      ],
+      "symbols": [
+        {
+          "en": "The state-worshipped sacred mountain of the aimag is Altan Khökhii.",
+          "mn": "Тус аймгийн төрийн тахилгат шүтээн уул нь Алтан хөхий хайрхан юм."
+        },
+        {
+          "en": "The Dalmatian pelican, which nests at Khar Us Lake, is cherished as the symbolic bird of Khovd.",
+          "mn": "Хар-Ус нуурт үүрлэдэг ховордсон борцгор хотон шувууг ховдчууд өөрсдийн бэлгэдэл болгон дээдэлдэг."
+        },
+        {
+          "en": "The aimag flag features blue, white, and green colors with ten stars representing its ten main ethnic groups.",
+          "mn": "Аймгийн далбааны хөх, цагаан, ногоон өнгө нь тэнгэр, Алтайн нуруу, гол мөрнийг, харин арван од нь арван ястныг бэлгэддэг."
+        },
+        {
+          "en": "The official anthem of the aimag is the famous song \"Tungalag Buyant\" (Clear Buyant River).",
+          "mn": "Аймгийн албан ёсны сүлд дуу нь алдарт \"Тунгалаг Буянт\" дуу юм."
+        }
+      ],
+      "facts": [
+        {
+          "en": "Khovd was originally founded as a fortress in 1685 by Galdan Boshogtu Khan of the Dzungar Khanate, making it one of Mongolia's oldest cities.",
+          "mn": "Ховд хотыг анх 1685 онд Зүүнгарын Галдан бошгот хаан бэхлэлт хэлбэрээр үүсгэн байгуулсан нь Монголын хамгийн эртний хотуудын нэг юм."
+        },
+        {
+          "en": "In 1912, Mongolian troops led by Khatanbaatar Magsarjav and Manlaibaatar Damdinsüren liberated the city from the Manchu Qing garrison.",
+          "mn": "1912 онд Хатанбаатар Магсаржав, Манлайбаатар Дамдинсүрэн нарын удирдсан монгол цэргүүд Ховд хотыг Манжийн Сангийн хэрмийн гарнизоноос чөлөөлжээ."
+        },
+        {
+          "en": "It is Mongolia's most ethnically diverse aimag, home to over 17 distinct ethnic groups including the Zakhchin, Myangad, Torguud, Uriankhai, and Kazakhs.",
+          "mn": "Энэ нь Монголын хамгийн олон угсаатны бүлэг амьдардаг аймаг бөгөөд энд захчин, мянгад, торгууд, урианхай, казах зэрэг 17 гаруй ястан суурьшдаг."
+        },
+        {
+          "en": "The Khoit Tsenkher Cave in Mankhan sum features world-famous Paleolithic rock paintings dating back over 15,000 years.",
+          "mn": "Манхан сумын нутаг дахь Хойд Цэнхэрийн агуйд 15,000 гаруй жилийн тэртээх хуучин чулуун зэвсгийн үеийн дэлхийд алдартай хадны зураг бий."
+        },
+        {
+          "en": "Khar Us Lake, the second-largest freshwater lake in Mongolia, is a protected national park and a vital wetland habitat for rare migratory birds.",
+          "mn": "Монголын хоёр дахь том цэнгэг уст нуур болох Хар-Ус нуур нь байгалийн цогцолборт газар бөгөөд нүүдлийн ховор шувуудын чухал орогнол газар болдог."
+        },
+        {
+          "en": "The highest point in the aimag is the snow-capped Mönkhkhairkhan Mountain, reaching an elevation of 4,204 meters above sea level.",
+          "mn": "Аймгийн хамгийн өндөр цэг нь далайн түвшнээс дээш 4204 метрт өргөгдсөн, мөнх цас, мөсөн гол бүхий сүрлэг Мөнххайрхан уул юм."
+        },
+        {
+          "en": "Khovd is nationally famous for its sweet watermelons, which thrive in the fertile soil of the Buyant River valley.",
+          "mn": "Буянт голын сав газрын үржил шимт хөрсөнд тариалдаг амтат \"Ховдын тарвас\" нь улс даяар алдартай брэнд бүтээгдэхүүн юм."
+        }
+      ],
+      "flag": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Khovd_Aimag_(since_2014).svg?width=160"
+    },
+    "dornod": {
+      "summary": {
+        "en": "A vast eastern province of Mongolia, famous for its endless steppes, rich history, and diverse ethnic groups.",
+        "mn": "Уудам тал хээр, түүхэн дурсгалт газрууд, олон ястны өлгий нутаг болсон Монгол Улсын зүүн хязгаарын аймаг."
+      },
+      "stats": [
+        {
+          "label": {
+            "en": "Aimag centre",
+            "mn": "Аймгийн төв"
+          },
+          "value": {
+            "en": "Choibalsan",
+            "mn": "Чойбалсан"
+          }
+        },
+        {
+          "label": {
+            "en": "Year founded",
+            "mn": "Байгуулагдсан он"
+          },
+          "value": {
+            "en": "1931",
+            "mn": "1931"
+          }
+        },
+        {
+          "label": {
+            "en": "Area",
+            "mn": "Газар нутаг"
+          },
+          "value": {
+            "en": "123,597 km²",
+            "mn": "123,597 км²"
+          }
+        },
+        {
+          "label": {
+            "en": "Population",
+            "mn": "Хүн ам"
+          },
+          "value": {
+            "en": "84,650 (2022 estimate)",
+            "mn": "84,650 (2022 оны тооцоо)"
+          }
+        },
+        {
+          "label": {
+            "en": "Number of sums",
+            "mn": "Сумын тоо"
+          },
+          "value": {
+            "en": "14",
+            "mn": "14"
+          }
+        },
+        {
+          "label": {
+            "en": "Distance from Ulaanbaatar",
+            "mn": "Улаанбаатараас зайд"
+          },
+          "value": {
+            "en": "656 km",
+            "mn": "656 км"
+          }
+        }
+      ],
+      "formerNames": [
+        {
+          "name": {
+            "en": "Choibalsan (aimag)",
+            "mn": "Чойбалсан аймаг"
+          },
+          "period": {
+            "en": "1941–1963",
+            "mn": "1941–1963"
+          }
+        },
+        {
+          "name": {
+            "en": "Bayantümen (aimag centre)",
+            "mn": "Баянтүмэн (аймгийн төв)"
+          },
+          "period": {
+            "en": "Until 1941",
+            "mn": "1941 он хүртэл"
+          }
+        }
+      ],
+      "symbols": [
+        {
+          "en": "The coat of arms features a red rising sun, a running white gazelle, and the waves of the Kherlen River over the blue steppe.",
+          "mn": "Аймгийн сүлдэнд ургах улаан нар, хурдлан гүйж буй цагаан зээр, цэнхэр тал дээгүүр мяралзах Хэрлэн мөрний урсгалыг дүрсэлсэн байдаг."
+        },
+        {
+          "en": "Khan Uul is the sacred mountain of the aimag, officially worshipped by the local government.",
+          "mn": "Хан уул нь тус аймгийн орон нутгийн тахилгатай шүтээн хайрхан юм."
+        },
+        {
+          "en": "Vangiin Tsagaan Uul is an ancient sacred mountain associated with the wise prince To Van.",
+          "mn": "Вангийн цагаан уул нь Халхын мэргэн То вангийн түүхтэй холбоотой эртний тахилгат хайрхан юм."
+        }
+      ],
+      "facts": [
+        {
+          "en": "The historic Battle of Khalkhin Gol took place here in 1939, where Soviet and Mongolian forces defeated the Japanese army.",
+          "mn": "1939 онд Халхын голын түүхэн тулалдаан тус аймгийн нутагт болж, Монгол-Зөвлөлтийн цэрэг Японы армийг ялсан түүхтэй."
+        },
+        {
+          "en": "The Menen Steppe is one of the world's largest untouched grasslands and a major habitat for Mongolian gazelles.",
+          "mn": "Мэнэнгийн тал нь дэлхийн хамгийн том онгон дагшин тал хээрийн нэг бөгөөд цагаан зээрийн гол бэлчээр нутаг юм."
+        },
+        {
+          "en": "Khokh Lake, located in the northeast of the aimag, is the lowest point in Mongolia at 560 meters above sea level.",
+          "mn": "Аймгийн зүүн хойд хэсэгт орших Хөх нуурын сав газар нь далайн түвшнээс дээш 560 метр өндөрт оршдог Монгол орны хамгийн нам доор цэг юм."
+        },
+        {
+          "en": "The aimag is home to diverse ethnic groups, including Khalkha, Buryat, Barga, and Uzemchin peoples.",
+          "mn": "Тус аймагт халхчуудаас гадна буриад, барга, үзэмчин зэрэг олон ястан амьдардаг онцлогтой."
+        },
+        {
+          "en": "Buir Lake is the largest freshwater lake in eastern Mongolia, shared with China and rich in fish.",
+          "mn": "Буйр нуур нь зүүн Монголын хамгийн том цэнгэг уст нуур бөгөөд загасаар баялаг, БНХАУ-тай хиллэдэг."
+        },
+        {
+          "en": "The Great Burkhant complex is a massive stone relief of Avalokitesvara built in 1859–1864 by the initiative of Prince To Van.",
+          "mn": "Их Бурхант цогцолбор нь То вангийн санаачилгаар 1859-1864 онд бүтээгдсэн найман аюулаас аврах Арьяабал бурхны асар том чулуун хөрөг юм."
+        },
+        {
+          "en": "The province's economy is supported by major natural resources, including the Tamsagbulag oil fields and the Aduunchuluun coal mine.",
+          "mn": "Аймгийн эдийн засагт Тамсагбулагийн газрын тосны орд, Адуунчулууны нүүрсний уурхай зэрэг байгалийн баялаг чухал үүрэг гүйцэтгэдэг."
+        }
+      ],
+      "flag": "https://commons.wikimedia.org/wiki/Special:FilePath/Mn_flag_dornod_aimag_2001.svg?width=160"
+    },
+    "uvs": {
+      "summary": {
+        "en": "A land of extreme climates, massive saltwater lakes, and rich Oirat heritage in northwestern Mongolia.",
+        "mn": "Монгол орны хамгийн хүйтэн цэг, үзэсгэлэнт нуурууд болон Ойрад түмний баялаг өв соёл хосолсон баруун хязгаарын нутаг."
+      },
+      "stats": [
+        {
+          "label": {
+            "en": "Aimag centre",
+            "mn": "Аймгийн төв"
+          },
+          "value": {
+            "en": "Ulaangom",
+            "mn": "Улаангом"
+          }
+        },
+        {
+          "label": {
+            "en": "Year founded",
+            "mn": "Байгуулагдсан он"
+          },
+          "value": {
+            "en": "1931",
+            "mn": "1931"
+          }
+        },
+        {
+          "label": {
+            "en": "Area",
+            "mn": "Газар нутгийн хэмжээ"
+          },
+          "value": {
+            "en": "69,585 km²",
+            "mn": "69,585 км²"
+          }
+        },
+        {
+          "label": {
+            "en": "Population",
+            "mn": "Хүн амын тоо"
+          },
+          "value": {
+            "en": "84,140 (2025 estimate)",
+            "mn": "84,140 (2025 оны үнэлгээ)"
+          }
+        },
+        {
+          "label": {
+            "en": "Number of sums",
+            "mn": "Сумын тоо"
+          },
+          "value": {
+            "en": "19",
+            "mn": "19"
+          }
+        },
+        {
+          "label": {
+            "en": "Distance from Ulaanbaatar",
+            "mn": "Улаанбаатараас зайд"
+          },
+          "value": {
+            "en": "1,336 km",
+            "mn": "1,336 км"
+          }
+        }
+      ],
+      "formerNames": [
+        {
+          "name": {
+            "en": "Chandmani Uulyn Aimag",
+            "mn": "Чандмань уулын аймаг"
+          },
+          "period": {
+            "en": "1925–1931",
+            "mn": "1925–1931"
+          }
+        },
+        {
+          "name": {
+            "en": "Dörvöd Aimag",
+            "mn": "Дөрвөдийн аймаг"
+          },
+          "period": {
+            "en": "1931–1933",
+            "mn": "1931–1933"
+          }
+        }
+      ],
+      "symbols": [
+        {
+          "en": "The emblem features the snow-capped Kharkhiraa and Türgen mountains, the waves of Uvs Lake, and the golden sand dunes of Altan Els.",
+          "mn": "Аймгийн сүлдэнд мөнх цаст Хархираа, Түргэний уулс, Увс нуурын давалгаа болон Алтан элсний манхныг дүрсэлсэн байдаг."
+        },
+        {
+          "en": "The emblem also contains a blue khadag for hospitality, three flames for the past, present, and future, and symbols of agriculture and industry.",
+          "mn": "Мөн зочломтгой занг илтгэх цэнхэр хадаг, өнгөрсөн, одоо, ирээдүйг бэлгэдэх гурван галын дөл, газар тариалан болон аж үйлдвэрийн бэлгэдэл багтжээ."
+        },
+        {
+          "en": "The sacred mountain of the aimag is Khan Khökhii, a state-worshipped mountain range.",
+          "mn": "Тус аймгийн тахилгат шүтээн нь төрийн тахилгатай Хан Хөхийн нуруу юм."
+        },
+        {
+          "en": "Uvs is widely nicknamed the 'Cradle of Many Ethnic Groups' due to its diverse Oirat population.",
+          "mn": "Олон ястны өлгий нутаг гэдгээрээ Монгол даяар алдартай."
+        }
+      ],
+      "facts": [
+        {
+          "en": "Uvs was originally part of the vast Chandmani Uulyn Aimag established in 1925, before being split into Dörvöd and Khovd aimags in 1931.",
+          "mn": "Увс аймаг нь анх 1925 онд байгуулагдсан Чандмань уулын аймгийн бүрэлдэхүүнд байгаад, 1931 онд Дөрвөд болон Ховд аймаг болон хуваагдсанаар тусдаа аймаг болжээ."
+        },
+        {
+          "en": "The aimag is named after Uvs Lake, the largest lake in Mongolia by surface area, which is a UNESCO World Heritage Site.",
+          "mn": "Тус аймаг нь гадаргуугийн талбайгаараа Монгол улсын хамгийн томд тооцогдох, ЮНЕСКО-гийн дэлхийн өвд бүртгэгдсэн Увс нуурын нэрээр нэрлэгдсэн."
+        },
+        {
+          "en": "The Uvs Lake Basin experiences extreme temperature swings, with winter temperatures dropping below -50°C, making it the coldest region in Mongolia.",
+          "mn": "Увс нуурын хотгор нь өвөлдөө -50 хэмээс давж хүйтэрдэг, Монгол орны хамгийн их хүйтэн өвөл болдог туйл нутаг юм."
+        },
+        {
+          "en": "Uvs is famous for its sea buckthorn, which is registered as a protected geographical indication in Mongolia and the European Union.",
+          "mn": "Тус аймгийн брэнд бүтээгдэхүүн болох зэрлэг чацаргана нь Монгол улс болон Европын Холбоонд газар зүйн заалтаар баталгаажсан байдаг."
+        },
+        {
+          "en": "The massive rock salt deposits at Shuden Uul have been mined for centuries and are famous across Mongolia as Jamts salt.",
+          "mn": "Шүдэн уулын жамц давсны асар их нөөцийг олон зууны турш олборлож ирсэн бөгөөд Монгол даяар эмчилгээний чанартай гэдгээрээ алдартай."
+        },
+        {
+          "en": "The population is highly diverse, with Oirat subgroups, primarily the Dörbet and Bayid, making up the vast majority of the residents.",
+          "mn": "Хүн амын дийлэнх хувийг Ойрадын дөрвөд болон баяд ястнууд эзэлдэг бөгөөд өөрсдийн өвөрмөц аялгуу, бий биелгээний соёлоо хадгалж үлдсэн."
+        },
+        {
+          "en": "Yumjaagiin Tsedenbal, who led Mongolia for over 40 years during the socialist era, was born in Davst sum of Uvs aimag.",
+          "mn": "БНМАУ-ыг 40 гаруй жил удирдсан төр, нийгмийн нэрт зүтгэлтэн Юмжаагийн Цэдэнбал тус аймгийн Давст суманд төржээ."
+        }
+      ],
+      "flag": "https://commons.wikimedia.org/wiki/Special:FilePath/Uvs_Aimag_Flag.svg?width=160"
+    },
+    "dornogovi": {
+      "summary": {
+        "en": "A southeastern Gobi province known as the gateway to China, rich in dinosaur fossils and spiritual heritage.",
+        "mn": "Үлэг гүрвэлийн олдвор, шашин соёлын өвөөрөө алдартай, БНХАУ-тай хиллэдэг говийн бүсийн аймаг."
+      },
+      "stats": [
+        {
+          "label": {
+            "en": "Aimag centre",
+            "mn": "Аймгийн төв"
+          },
+          "value": {
+            "en": "Sainshand",
+            "mn": "Сайншанд"
+          }
+        },
+        {
+          "label": {
+            "en": "Year founded",
+            "mn": "Байгуулагдсан он"
+          },
+          "value": {
+            "en": "1931",
+            "mn": "1931"
+          }
+        },
+        {
+          "label": {
+            "en": "Area",
+            "mn": "Газар нутаг"
+          },
+          "value": {
+            "en": "109,472 km²",
+            "mn": "109,472 км²"
+          }
+        },
+        {
+          "label": {
+            "en": "Population",
+            "mn": "Хүн ам"
+          },
+          "value": {
+            "en": "72,515 (2025)",
+            "mn": "72,515 (2025)"
+          }
+        },
+        {
+          "label": {
+            "en": "Number of sums",
+            "mn": "Сумдын тоо"
+          },
+          "value": {
+            "en": "14",
+            "mn": "14"
+          }
+        },
+        {
+          "label": {
+            "en": "Distance from Ulaanbaatar",
+            "mn": "Улаанбаатараас алслагдсан зай"
+          },
+          "value": {
+            "en": "451 km",
+            "mn": "451 км"
+          }
+        }
+      ],
+      "formerNames": [
+        {
+          "name": {
+            "en": "Dalai Sainshand",
+            "mn": "Далай Сайншанд"
+          },
+          "period": {
+            "en": "Before 1931",
+            "mn": "1931 оноос өмнө"
+          }
+        },
+        {
+          "name": {
+            "en": "Sain Us",
+            "mn": "Сайн ус"
+          },
+          "period": {
+            "en": "During early settlement",
+            "mn": "Анхны суурин үүсэх үед"
+          }
+        }
+      ],
+      "symbols": [
+        {
+          "en": "The aimag's emblem features a dinosaur, symbolizing the rich paleontological heritage of the Gobi.",
+          "mn": "Аймгийн сүлдэнд говийн палеонтологийн баялаг өвийг илтгэсэн үлэг гүрвэлийн дүрс байдаг."
+        },
+        {
+          "en": "Camels surrounding the emblem's circle represent traditional nomadic life and double as sun rays.",
+          "mn": "Сүлдийг тойрсон тэмээнүүд нь нүүдэлчин ахуйг илэрхийлэхээс гадна нарны цацрагийг бэлгэддэг."
+        },
+        {
+          "en": "Khan Bayanzurkh, popularly known as the 'Black Mountain of Wishes', is the sacred mountain of the aimag.",
+          "mn": "Олноо 'Хүслийн хар уул' хэмээн алдаршсан Хан Баянзүрх хайрхан нь тус аймгийн тахилгат уул юм."
+        }
+      ],
+      "facts": [
+        {
+          "en": "The famous Khamar Monastery was founded in 1820 by the prominent writer and educator Danzanravjaa.",
+          "mn": "Алдарт соён гэгээрүүлэгч, зохиолч Д.Данзанравжаа 1820 онд Хамрын хийдийг үүсгэн байгуулжээ."
+        },
+        {
+          "en": "Dornogovi has no large rivers or natural lakes, relying heavily on its vast underground water resources.",
+          "mn": "Дорноговь аймагт том гол мөрөн, байгалийн нуур байхгүй бөгөөд гүний усны арвин нөөцөд тулгуурладаг."
+        },
+        {
+          "en": "The Ikh Nart Nature Reserve protects rare wildlife species, including Argali wild sheep and Siberian ibex.",
+          "mn": "Их Нартын байгалийн нөөц газарт аргаль, янгир зэрэг ховордсон зэрлэг амьтдыг хамгаалдаг."
+        },
+        {
+          "en": "The Trans-Mongolian Railway runs through the province, connecting Russia and Mongolia with China.",
+          "mn": "Транс-Монголын төмөр зам тус аймгийн нутгаар дайран өнгөрч, Орос, Монгол, Хятад улсыг холбодог."
+        },
+        {
+          "en": "Zamyn-Üüd sum on the southern border is Mongolia's busiest and largest land port of entry.",
+          "mn": "Өмнөд хил дээр орших Замын-Үүд сум нь Монгол Улсын хамгийн том, хамгийн ачаалалтай хуурай замын боомт юм."
+        },
+        {
+          "en": "The province is rich in mineral resources, hosting the Tsagaan Suvarga copper-molybdenum deposit.",
+          "mn": "Тус аймаг нь ашигт малтмалаар баялаг бөгөөд нутагт нь Цагаан суваргын зэс-молибдений орд байрладаг."
+        },
+        {
+          "en": "Ergeliin Zoo is a famous flat-topped mesa renowned for its rich deposits of 30-million-year-old fossils.",
+          "mn": "Эргэлийн зоо нь 30 сая жилийн өмнөх эртний амьтдын олдвор бүхий алдартай байгалийн дурсгалт газар юм."
+        }
+      ],
+      "flag": "https://commons.wikimedia.org/wiki/Special:FilePath/Mn_flag_dornogovi_aimag_2011.svg?width=160"
+    },
+    "ulaanbaatar": {
+      "summary": {
+        "en": "The capital and largest city of Mongolia, serving as the nation's political, economic, and cultural heart.",
+        "mn": "Монгол Улсын улс төр, эдийн засаг, соёлын төв болсон нийслэл бөгөөд хамгийн том хот."
+      },
+      "stats": [
+        {
+          "label": {
+            "en": "Capital City",
+            "mn": "Нийслэл хот"
+          },
+          "value": {
+            "en": "Ulaanbaatar",
+            "mn": "Улаанбаатар"
+          }
+        },
+        {
+          "label": {
+            "en": "Year Founded",
+            "mn": "Үүсгэн байгуулагдсан он"
+          },
+          "value": {
+            "en": "1639",
+            "mn": "1639"
+          }
+        },
+        {
+          "label": {
+            "en": "Area",
+            "mn": "Газар нутгийн хэмжээ"
+          },
+          "value": {
+            "en": "4,704.4 km²",
+            "mn": "4,704.4 км²"
+          }
+        },
+        {
+          "label": {
+            "en": "Population",
+            "mn": "Хүн ам"
+          },
+          "value": {
+            "en": "1,796,045 (2025 estimate)",
+            "mn": "1,796,045 (2025 оны тооцоо)"
+          }
+        },
+        {
+          "label": {
+            "en": "Number of Districts",
+            "mn": "Дүүргийн тоо"
+          },
+          "value": {
+            "en": "9 districts",
+            "mn": "9 дүүрэг"
+          }
+        }
+      ],
+      "formerNames": [
+        {
+          "name": {
+            "en": "Örgöö",
+            "mn": "Өргөө"
+          },
+          "period": {
+            "en": "1639–1651",
+            "mn": "1639–1651"
+          }
+        },
+        {
+          "name": {
+            "en": "Nomiin Khüree",
+            "mn": "Номын хүрээ"
+          },
+          "period": {
+            "en": "1651–1706",
+            "mn": "1651–1706"
+          }
+        },
+        {
+          "name": {
+            "en": "Ikh Khüree",
+            "mn": "Их хүрээ"
+          },
+          "period": {
+            "en": "1706–1911",
+            "mn": "1706–1911"
+          }
+        },
+        {
+          "name": {
+            "en": "Niislel Khüree",
+            "mn": "Нийслэл хүрээ"
+          },
+          "period": {
+            "en": "1911–1924",
+            "mn": "1911–1924"
+          }
+        }
+      ],
+      "symbols": [
+        {
+          "en": "The Khangarid (Garuda), a mythical bird representing courage and stability, is the official symbol of the city.",
+          "mn": "Хангарди шувуу нь хотын албан ёсны бэлгэдэл бөгөөд бат түвшин, эрэмгий зоригтой байдлыг илэрхийлдэг."
+        },
+        {
+          "en": "The Khangarid holds a key in its right hand, a lotus flower in its left hand, and tramples a snake under its feet.",
+          "mn": "Хангарди нь баруун гартаа очир бариулт түлхүүр, зүүн гартаа бадам цэцэг барьж, хөлөөрөө могойг гишгэсэн байдаг."
+        },
+        {
+          "en": "Bogd Khan Mountain, located to the south, is the sacred mountain of the city.",
+          "mn": "Хотын урд зүгт орших Богдхан уул нь нийслэлийн тахилгат хан уул юм."
+        }
+      ],
+      "facts": [
+        {
+          "en": "The city was founded in 1639 as a nomadic Buddhist monastery for Zanabazar, the first Bogd Gegeen.",
+          "mn": "Анх 1639 онд Анхдугаар Богд Занабазарт зориулсан нүүдлийн хийд хэлбэрээр үүсгэн байгуулагджээ."
+        },
+        {
+          "en": "The mobile capital changed its location 28 times before permanently settling in its current valley in 1778.",
+          "mn": "Нүүдлийн нийслэл нь 1778 онд одоогийн хөндийдөө бүрмөсөн суурьшихаас өмнө байршлаа 28 удаа сольсон байна."
+        },
+        {
+          "en": "Ulaanbaatar is the coldest national capital in the world by average annual temperature.",
+          "mn": "Улаанбаатар нь жилийн дундаж температураараа дэлхийн хамгийн хүйтэн нийслэл хотод тооцогддог."
+        },
+        {
+          "en": "The city is situated in a valley surrounded by four sacred peaks: Bogd Khan, Songinokhairkhan, Chingeltei, and Bayanzurkh.",
+          "mn": "Нийслэл хот нь Богдхан, Сонгинохайрхан, Чингэлтэй, Баянзүрх гэсэн дөрвөн тахилгат хайрхны дундах хөндийд оршдог."
+        },
+        {
+          "en": "Ulaanbaatar is home to nearly half of Mongolia's total population.",
+          "mn": "Монгол Улсын нийт хүн амын бараг тал хувь нь нийслэл Улаанбаатар хотод оршин суудаг."
+        },
+        {
+          "en": "The historic Tuul River flows through the southern part of the city.",
+          "mn": "Түүхт Хатан Туул гол хотын урд хэсгээр зүүнээс баруун тийш урсан өнгөрдөг."
+        },
+        {
+          "en": "Bogd Khan Mountain, bordering the city, is one of the world's oldest legally protected natural areas, preserved since 1778.",
+          "mn": "Хотын урд орших Богдхан уул нь 1778 оноос хойш хамгаалагдсан дэлхийн хамгийн эртний албан ёсны дархан цаазат газруудын нэг юм."
+        }
+      ]
+    },
+    "bulgan": {
+      "summary": {
+        "en": "A lush forest-steppe province in northern Mongolia, famous for its extinct volcanoes, rich history, and legendary airag.",
+        "mn": "Унтраагүй галт уулс, баялаг түүх, алдарт айргаараа алдаршсан Монголын хойд бүсийн ойт хээрийн үзэсгэлэнт аймаг."
+      },
+      "stats": [
+        {
+          "label": {
+            "en": "Aimag centre",
+            "mn": "Аймгийн төв"
+          },
+          "value": {
+            "en": "Bulgan",
+            "mn": "Булган"
+          }
+        },
+        {
+          "label": {
+            "en": "Year founded",
+            "mn": "Байгуулагдсан он"
+          },
+          "value": {
+            "en": "1938",
+            "mn": "1938"
+          }
+        },
+        {
+          "label": {
+            "en": "Area",
+            "mn": "Газар нутаг"
+          },
+          "value": {
+            "en": "48,733 km²",
+            "mn": "48,733 км²"
+          }
+        },
+        {
+          "label": {
+            "en": "Population",
+            "mn": "Хүн ам"
+          },
+          "value": {
+            "en": "60,130 (2024)",
+            "mn": "60,130 (2024)"
+          }
+        },
+        {
+          "label": {
+            "en": "Number of sums",
+            "mn": "Сумын тоо"
+          },
+          "value": {
+            "en": "16",
+            "mn": "16"
+          }
+        },
+        {
+          "label": {
+            "en": "Distance from Ulaanbaatar",
+            "mn": "Улаанбаатараас хүрэх зай"
+          },
+          "value": {
+            "en": "318 km",
+            "mn": "318 км"
+          }
+        }
+      ],
+      "formerNames": [
+        {
+          "name": {
+            "en": "Daichin Wangiin Khüree",
+            "mn": "Дайчин вангийн хүрээ"
+          },
+          "period": {
+            "en": "Until 1938 (as the monastic centre of Daichin Wang banner)",
+            "mn": "1938 он хүртэл (Дайчин вангийн хошууны хүрээ хийд байх үед)"
+          }
+        }
+      ],
+      "symbols": [
+        {
+          "en": "The green background of the emblem represents evergreen, flourishing eco-development.",
+          "mn": "Аймгийн сүлдний ногоон дэвсгэр нь мөнх ногоон байгаль, цэцэглэн хөгжих экологийн хөгжлийг бэлгэддэг."
+        },
+        {
+          "en": "The ear of grain on the emblem symbolizes plentifulness and the accumulation of wealth.",
+          "mn": "Сүлдэнд дүрсэлсэн тарианы түрүү нь элбэг дэлбэг байдал, баялаг арвижихыг бэлгэддэг."
+        },
+        {
+          "en": "The wish-granting Cintamani jewel represents the past, present, and future.",
+          "mn": "Хүслийг хангагч Чандмань эрдэнэ нь өнгөрсөн, одоо, ирээдүй гурван цагийг бэлгэддэг."
+        },
+        {
+          "en": "Bulgan Khan Mountain is a locally protected and worshipped sacred mountain of the province.",
+          "mn": "Булган хан уул нь тус аймгийн орон нутгийн хамгаалалттай, тахилгатай хайрхан юм."
+        }
+      ],
+      "facts": [
+        {
+          "en": "Bulgan aimag was officially established on January 15, 1938, by separating territory from Selenge Province.",
+          "mn": "Булган аймаг нь 1938 оны 1 дүгээр сарын 15-нд Сэлэнгэ аймгаас зарим газар нутгийг таслан авч албан ёсоор байгуулагджээ."
+        },
+        {
+          "en": "The province is home to the Uran Togoo-Tulga Nature Reserve, famous for its remarkably well-preserved extinct volcanic craters.",
+          "mn": "Тус аймагт унтарсан галт уулын тогоо бүхий байгалийн үзэсгэлэнт Уран Тогоо - Тулга уулын дурсгалт газар байдаг."
+        },
+        {
+          "en": "The Orkhon and Selenge, two of Mongolia's largest and most important rivers, flow through the territory of Bulgan.",
+          "mn": "Монголын хамгийн том, хамгийн чухал голууд болох Сэлэнгэ, Орхон мөрөн тус аймгийн нутгаар дайран урсдаг."
+        },
+        {
+          "en": "Jügderdemidiin Gürragchaa, the first Mongolian cosmonaut and the first Asian in space, was born in Gurvanbulag sum of Bulgan.",
+          "mn": "Монголын анхны сансрын нисгэгч, Ази тивийн анхны сансрын жуулчин Жүгдэрдэмидийн Гүррагчаа тус аймгийн Гурванбулаг суманд төржээ."
+        },
+        {
+          "en": "The mausoleum of Khatanbaatar Magsarjav, a legendary military commander and national hero, is located on a hill in Bulgan town.",
+          "mn": "Монгол Улсын гарамгай цэргийн зүтгэлтэн, Ардын Хатанбаатар С.Магсаржавын бунхан Булган хотын нэгэн толгой дээр сүндэрлэж байдаг."
+        },
+        {
+          "en": "Saikhan sum of Bulgan is nationwide famous for producing some of the finest and most delicious airag (fermented mare's milk) in Mongolia.",
+          "mn": "Булган аймгийн Сайхан сумын айраг нь амт чанараараа Монгол даяар алдартай бөгөөд хамгийн шилдэг айрагт тооцогддог."
+        },
+        {
+          "en": "Chin Van Khanddorj, a prominent leader of the 1911 National Liberation Movement and Mongolia's first Minister of Foreign Affairs, was the hereditary prince of this region.",
+          "mn": "1911 оны Үндэсний эрх чөлөөний хувьсгалын удирдагчдын нэг, Монгол Улсын анхны Гадаад хэргийн сайд Чин ван Ханддорж нь энэ нутгийн үе залгамжилсан ноён байв."
+        }
+      ],
+      "flag": "https://commons.wikimedia.org/wiki/Special:FilePath/Mn_flag_bulgan_aimag_2022.svg?width=160"
+    },
+    "govisumber": {
+      "summary": {
+        "en": "The smallest aimag in Mongolia, known as the historic home of the Borjigon clan and a key railway gateway.",
+        "mn": "Боржигон өв соёлын голомт, төмөр замын чухал зангилаа болсон Монгол Улсын хамгийн бага газар нутагтай аймаг."
+      },
+      "stats": [
+        {
+          "label": {
+            "en": "Aimag centre",
+            "mn": "Аймгийн төв"
+          },
+          "value": {
+            "en": "Choir",
+            "mn": "Чойр"
+          }
+        },
+        {
+          "label": {
+            "en": "Year founded",
+            "mn": "Байгуулагдсан он"
+          },
+          "value": {
+            "en": "1994",
+            "mn": "1994"
+          }
+        },
+        {
+          "label": {
+            "en": "Area",
+            "mn": "Газар нутаг"
+          },
+          "value": {
+            "en": "5,541.80 km²",
+            "mn": "5,541.80 км²"
+          }
+        },
+        {
+          "label": {
+            "en": "Population",
+            "mn": "Хүн ам"
+          },
+          "value": {
+            "en": "18,159 (2024)",
+            "mn": "18,159 (2024 он)"
+          }
+        },
+        {
+          "label": {
+            "en": "Number of sums",
+            "mn": "Сумын тоо"
+          },
+          "value": {
+            "en": "3",
+            "mn": "3"
+          }
+        },
+        {
+          "label": {
+            "en": "Distance from Ulaanbaatar",
+            "mn": "Улаанбаатараас зайд"
+          },
+          "value": {
+            "en": "223 km",
+            "mn": "223 км"
+          }
+        }
+      ],
+      "formerNames": [
+        {
+          "name": {
+            "en": "Choir City",
+            "mn": "Чойр хот"
+          },
+          "period": {
+            "en": "1991–1994",
+            "mn": "1991–1994"
+          }
+        },
+        {
+          "name": {
+            "en": "Otsol Sansar Uuliin khoshuu",
+            "mn": "Оцол Сансар уулын хошуу"
+          },
+          "period": {
+            "en": "1923–1931",
+            "mn": "1923–1931"
+          }
+        },
+        {
+          "name": {
+            "en": "Borjigon Setsen Van khoshuu",
+            "mn": "Боржигин цэцэн вангийн хошуу"
+          },
+          "period": {
+            "en": "1911–1923",
+            "mn": "1911–1923"
+          }
+        }
+      ],
+      "symbols": [
+        {
+          "en": "The emblem features a yellow lion standing in front of three blue mountains under a sun and moon.",
+          "mn": "Аймгийн сүлдэнд нар, сарны дор гурван хөх уулын өмнө зогсож буй шар арсланг дүрсэлсэн байдаг."
+        },
+        {
+          "en": "The yellow lion represents the protector deity of the sacred Choiriin Bogd Mountain.",
+          "mn": "Шар арслан нь нутгийн тахилгат Чойрын Богд уулын лус савдаг, хамгаалагч шар арсланг бэлгэддэг."
+        },
+        {
+          "en": "The three mountains represent the past, present, and future, symbolizing the prosperity of the local people.",
+          "mn": "Гурван уул нь эрт, эдүгээ, ирээдүй гурван цагийг бэлгэдэж, ард түмний аж амьдрал тэгш дүүрэн байхыг илэрхийлдэг."
+        },
+        {
+          "en": "The sacred mountain of the aimag is Choiriin Bogd Mountain, and its historic nickname is Borjigon Nutag.",
+          "mn": "Аймгийн тахилгат хайрхан нь Чойрын Богд уул бөгөөд нутгийн алдаршсан нэршил нь Боржигон нутаг юм."
+        }
+      ],
+      "facts": [
+        {
+          "en": "Govisümber is historically the heartland of the Borjigon khoshuu, established in 1691 during the Qing dynasty.",
+          "mn": "Говьсүмбэр аймаг нь түүхэндээ 1691 онд байгуулагдсан Сэцэн хан аймгийн Боржигин хошууны голомт нутаг юм."
+        },
+        {
+          "en": "It is the least populated aimag in Mongolia.",
+          "mn": "Тус аймаг нь Монгол Улсын хамгийн цөөн хүн амтай аймаг юм."
+        },
+        {
+          "en": "The Shivee-Ovoo coal mine, located in the aimag, is one of Mongolia's major open-pit coal mines supplying the central region.",
+          "mn": "Нутгийн нутаг дэвсгэрт орших Шивээ-Овоогийн нүүрсний уурхай нь төвийн бүсийг эрчим хүчний нүүрсээр хангадаг томоохон уурхайнуудын нэг юм."
+        },
+        {
+          "en": "The Trans-Mongolian Railway passes directly through the aimag, making the capital Choir a vital transportation and logistics hub.",
+          "mn": "Монгол-Оросын хамтарсан төмөр зам тус аймгийн нутгаар дайран өнгөрдөг тул Чойр хот нь тээвэр, логистикийн чухал зангилаа болдог."
+        },
+        {
+          "en": "Choiriin Bogd Mountain is a state-protected nature reserve famous for its unique granite rock formations and wild argali sheep.",
+          "mn": "Чойрын Богд уул нь өвөрмөц тогтоцтой хад чулуу, зэрлэг аргаль хониороо алдартай улсын тусгай хамгаалалттай байгалийн нөөц газар юм."
+        },
+        {
+          "en": "The ruins of the East Choir Monastery (Zүүн Чойрын хийд), once a major center of Buddhist philosophy, are located near Choir.",
+          "mn": "Бурхны шашны таван ухааны томоохон төв байсан Зүүн Чойрын хийдийн туурь Чойр хотын ойролцоо оршдог."
+        },
+        {
+          "en": "The aimag is famous for its Borjigon horse-head fiddle (morin khuur) making traditions and distinct Borjigon songs.",
+          "mn": "Тус аймаг нь Боржигон хийцийн морин хуур урлал болон Боржигон уртын дууны өвөрмөц сургуулиараа алдартай."
+        }
+      ],
+      "flag": "https://commons.wikimedia.org/wiki/Special:FilePath/Mn_flag_govis%C3%BCmber_aimag.svg?width=160"
+    },
+    "govi-altai": {
+      "summary": {
+        "en": "A vast western province where the majestic Mongol Altai mountains meet the deep Gobi desert.",
+        "mn": "Сүрлэг Монгол Алтайн нуруу, говь цөл хослон орших баруун бүсийн уудам нутаг дэвсгэртэй аймаг."
+      },
+      "stats": [
+        {
+          "label": {
+            "en": "Aimag centre",
+            "mn": "Аймгийн төв"
+          },
+          "value": {
+            "en": "Altai (Yesönbulag)",
+            "mn": "Алтай (Есөнбулаг)"
+          }
+        },
+        {
+          "label": {
+            "en": "Year founded",
+            "mn": "Байгуулагдсан он"
+          },
+          "value": {
+            "en": "1940",
+            "mn": "1940"
+          }
+        },
+        {
+          "label": {
+            "en": "Area",
+            "mn": "Талбай"
+          },
+          "value": {
+            "en": "141,448 km²",
+            "mn": "141,448 км²"
+          }
+        },
+        {
+          "label": {
+            "en": "Population",
+            "mn": "Хүн ам"
+          },
+          "value": {
+            "en": "56,800 (2025 estimate)",
+            "mn": "56,800 (2025 оны тооцоо)"
+          }
+        },
+        {
+          "label": {
+            "en": "Number of sums",
+            "mn": "Сумын тоо"
+          },
+          "value": {
+            "en": "18",
+            "mn": "18"
+          }
+        },
+        {
+          "label": {
+            "en": "Distance from Ulaanbaatar",
+            "mn": "Улаанбаатараас зайд"
+          },
+          "value": {
+            "en": "1,001 km",
+            "mn": "1,001 км"
+          }
+        }
+      ],
+      "formerNames": [
+        {
+          "name": {
+            "en": "Zasagt Khan Aimag",
+            "mn": "Засагт хан аймаг"
+          },
+          "period": {
+            "en": "1691–1923",
+            "mn": "1691–1923"
+          }
+        },
+        {
+          "name": {
+            "en": "Khan Taishir Uulyn Aimag",
+            "mn": "Хантайшир уулын аймаг"
+          },
+          "period": {
+            "en": "1923–1931",
+            "mn": "1923–1931"
+          }
+        },
+        {
+          "name": {
+            "en": "Yesönbulag",
+            "mn": "Есөнбулаг"
+          },
+          "period": {
+            "en": "Until 1941",
+            "mn": "1941 он хүртэл"
+          }
+        }
+      ],
+      "symbols": [
+        {
+          "en": "The sacred Burkhan Buudai Mountain, a state-worshipped peak since 2023.",
+          "mn": "2023 онд төрийн тахилгат болгосон Бурхан буудай уул."
+        },
+        {
+          "en": "The majestic Sutai Khairkhan Mountain, covered in eternal snow.",
+          "mn": "Мөнх цаст сүрлэг Сутай хайрхан уул."
+        },
+        {
+          "en": "The coat of arms features a leaping Argali sheep on a lotus base, symbolizing wildlife wealth.",
+          "mn": "Бадамлянхуа суурьтай, төвдөө дүүлж буй угалз (аргаль) дүрсэлсэн сүлд нь ан амьтны баялгийг бэлгэддэг."
+        }
+      ],
+      "facts": [
+        {
+          "en": "Historically, the territory of Govi-Altai was the core of the Zasagt Khan Aimag, one of the four historical Khalkha provinces.",
+          "mn": "Түүхэндээ Говь-Алтай аймгийн нутаг дэвсгэр нь Халхын дөрвөн аймгийн нэг болох Засагт хан аймгийн гол цөм нутаг байв."
+        },
+        {
+          "en": "Govi-Altai is the second largest aimag in Mongolia by land area, covering over 141,000 square kilometers.",
+          "mn": "Говь-Алтай нь 141 мянга гаруй хавтгай дөрвөлжин километр газар нутагтай, хэмжээгээрээ улсдаа хоёрдугаарт ордог аймаг юм."
+        },
+        {
+          "en": "The aimag centre, Altai City, is the highest provincial capital in Mongolia, situated at an elevation of 2,181 meters above sea level.",
+          "mn": "Аймгийн төв Алтай хот нь далайн түвшнээс дээш 2181 метрийн өндөрт оршдог Монгол улсын хамгийн өндөрлөг газарт орших аймгийн төв юм."
+        },
+        {
+          "en": "The Great Gobi Strictly Protected Area (Gobi A and B) in the south protects endangered species like the Gobi bear (Mazaalai) and wild camels.",
+          "mn": "Нутгийн өмнөд хэсэгт орших Говийн их дархан цаазат газар (А болон Б хэсэг) нь мазаалай баавгай, хавтгай тэмээ зэрэг нэн ховор амьтдыг хамгаалдаг."
+        },
+        {
+          "en": "The province is the birthplace of Chadraabalyn Lodoidamba, the legendary author of the classic Mongolian novel 'Tungalag Tamir'.",
+          "mn": "Тус аймаг нь Монголын уран зохиолын сод бүтээл 'Тунгалаг Тамир' романыг туурвисан зохиолч Чадраабалын Лодойдамбын төрсөн нутаг юм."
+        },
+        {
+          "en": "Former Prime Minister Puntsagiin Jasrai and prominent writer Lodongiing Tudev were also born in this province.",
+          "mn": "Монгол Улсын Ерөнхий сайд асан Пунцагийн Жасрай, нэрт зохиолч Лодонгийн Түдэв нар мөн энэ нутгаас төрөн гарчээ."
+        },
+        {
+          "en": "Govi-Altai is unique for containing almost all geographical zones of Mongolia, ranging from high glaciated peaks to sandy deserts.",
+          "mn": "Өндөр уулын мөсөн оргилоос эхлээд элсэн цөл хүртэлх Монгол орны байгалийн бүх бүсийг өөртөө багтааснаараа тус аймаг онцлогтой."
+        }
+      ],
+      "flag": "https://commons.wikimedia.org/wiki/Special:FilePath/Mn_flag_govi-altai_aimag_2011.svg?width=160"
+    },
+    "orkhon": {
+      "summary": {
+        "en": "Mongolia's smallest province, centered around the major industrial city of Erdenet",
+        "mn": "Эрдэнэт хотыг тойрон орших, аж үйлдвэрийн томоохон төв болсон Монгол Улсын хамгийн жижиг аймаг"
+      },
+      "stats": [
+        {
+          "label": {
+            "en": "Aimag centre",
+            "mn": "Аймгийн төв"
+          },
+          "value": {
+            "en": "Erdenet",
+            "mn": "Эрдэнэт"
+          }
+        },
+        {
+          "label": {
+            "en": "Year founded",
+            "mn": "Байгуулагдсан он"
+          },
+          "value": {
+            "en": "1994",
+            "mn": "1994"
+          }
+        },
+        {
+          "label": {
+            "en": "Area",
+            "mn": "Газар нутаг"
+          },
+          "value": {
+            "en": "844 km²",
+            "mn": "844 км²"
+          }
+        },
+        {
+          "label": {
+            "en": "Population",
+            "mn": "Хүн ам"
+          },
+          "value": {
+            "en": "111,890 (2024)",
+            "mn": "111,890 (2024)"
+          }
+        },
+        {
+          "label": {
+            "en": "Number of sums",
+            "mn": "Сумын тоо"
+          },
+          "value": {
+            "en": "2",
+            "mn": "2"
+          }
+        },
+        {
+          "label": {
+            "en": "Distance from Ulaanbaatar",
+            "mn": "Улаанбаатараас зайд"
+          },
+          "value": {
+            "en": "380 km",
+            "mn": "380 км"
+          }
+        }
+      ],
+      "formerNames": [
+        {
+          "name": {
+            "en": "Erdenet khoroo (Bulgan aimag)",
+            "mn": "Булган аймгийн Эрдэнэт хороо"
+          },
+          "period": {
+            "en": "1974–1976",
+            "mn": "1974–1976"
+          }
+        },
+        {
+          "name": {
+            "en": "Erdenet city (state-administered)",
+            "mn": "Улсын харьяалалтай Эрдэнэт хот"
+          },
+          "period": {
+            "en": "1976–1994",
+            "mn": "1976–1994"
+          }
+        }
+      ],
+      "symbols": [
+        {
+          "en": "The coat of arms features a copper-colored background representing the mineral wealth of the Erdenet mine.",
+          "mn": "Аймгийн сүлдний зэсийн өнгөтэй дэвсгэр нь Эрдэнэт хотын эрдэс баялгийг илэрхийлдэг."
+        },
+        {
+          "en": "A lion holding a wish-fulfilling jewel (Cintamani) on the emblem symbolizes guarding the treasures of Erdenet Mountain.",
+          "mn": "Сүлдэнд дүрсэлсэн чандмань эрдэнэ атгасан арслан нь Эрдэнэт уулын эрдэнэ баялгийг авдартаа хадгалан хамгаалж буйг бэлгэддэг."
+        },
+        {
+          "en": "The sacred mountain of the region is Bayan-Öndөр Mountain, which also names the main sum.",
+          "mn": "Тус нутгийн тахилгат шүтээн нь аймгийн гол сумын нэрэнд орсон Баян-Өндөр уул юм."
+        }
+      ],
+      "facts": [
+        {
+          "en": "Orkhon is the smallest aimag in Mongolia by territory, completely surrounded by Bulgan and Selenge provinces.",
+          "mn": "Орхон аймаг нь газар нутгийн хэмжээгээр Монгол Улсын хамгийн жижиг аймаг бөгөөд Булган, Сэлэнгэ аймгуудтай хиллэдэг."
+        },
+        {
+          "en": "The province was established in 1994 by separating Erdenet city and its surrounding territory from Bulgan Province.",
+          "mn": "Тус аймгийг 1994 онд Эрдэнэт хот болон түүний эргэн тойрон дахь газар нутгийг Булган аймгаас салган байгуулжээ."
+        },
+        {
+          "en": "It is home to the Erdenet Mining Corporation, one of the largest copper and molybdenum ore processing plants in the world.",
+          "mn": "Энд дэлхийн зэс, молибдений хамгийн том үйлдвэрүүдийн нэг болох «Эрдэнэт үйлдвэр» ТӨҮГ үйл ажиллагаа явуулдаг."
+        },
+        {
+          "en": "The province consists of only two sums: Bayan-Öndör, which includes Erdenet city, and the agricultural Jargalant sum.",
+          "mn": "Аймгийн нутаг дэвсгэр нь Эрдэнэт хотыг багтаасан Баян-Өндөр болон газар тариалангийн чиглэлтэй Жаргалант гэсэн хоёрхон сумаас бүрддэг."
+        },
+        {
+          "en": "A 120-kilometer railway line built in 1977 connects Erdenet to the main Trans-Mongolian Railway network.",
+          "mn": "Эрдэнэт хотыг Монгол-Оросын төмөр замын гол шугамтай холбосон 120 км урттай салбар төмөр замыг 1977 онд ашиглалтад оруулжээ."
+        },
+        {
+          "en": "The region has a significant history of Russian influence, with a dedicated Russian school and community established for mining specialists.",
+          "mn": "Уурхайн мэргэжилтнүүдэд зориулсан орос сургууль, соёлын төвүүд ажилладаг байсан бөгөөд одоо ч орос иргэдийн тодорхой хувь энд амьдардаг."
+        }
+      ],
+      "flag": "https://commons.wikimedia.org/wiki/Special:FilePath/Mn_flag_orkhon_aimag_2024.svg?width=160"
+    },
+    "dundgovi": {
+      "summary": {
+        "en": "Known as the cradle of Mongolian long songs and famous for its spectacular rock formations and quality airag.",
+        "mn": "Монгол уртын дууны өлгий нутаг бөгөөд байгалийн өвөрмөц хадан тогтоц, амтат гүүний айргаараа алдартай говийн аймаг."
+      },
+      "stats": [
+        {
+          "label": {
+            "en": "Aimag centre",
+            "mn": "Аймгийн төв"
+          },
+          "value": {
+            "en": "Mandalgovi",
+            "mn": "Мандалговь"
+          }
+        },
+        {
+          "label": {
+            "en": "Year founded",
+            "mn": "Байгуулагдсан он"
+          },
+          "value": {
+            "en": "1941",
+            "mn": "1941"
+          }
+        },
+        {
+          "label": {
+            "en": "Area",
+            "mn": "Газар нутаг"
+          },
+          "value": {
+            "en": "74,690 km²",
+            "mn": "74,690 км²"
+          }
+        },
+        {
+          "label": {
+            "en": "Population",
+            "mn": "Хүн ам"
+          },
+          "value": {
+            "en": "45,900 (2024)",
+            "mn": "45,900 (2024)"
+          }
+        },
+        {
+          "label": {
+            "en": "Number of sums",
+            "mn": "Сумын тоо"
+          },
+          "value": {
+            "en": "15",
+            "mn": "15"
+          }
+        },
+        {
+          "label": {
+            "en": "Distance from Ulaanbaatar",
+            "mn": "Улаанбаатараас зайд"
+          },
+          "value": {
+            "en": "260 km",
+            "mn": "260 км"
+          }
+        }
+      ],
+      "formerNames": [
+        {
+          "name": {
+            "en": "Sharangad Aimag",
+            "mn": "Шарангад аймаг"
+          },
+          "period": {
+            "en": "1941–1942",
+            "mn": "1941–1942"
+          }
+        }
+      ],
+      "symbols": [
+        {
+          "en": "The emblem features a white winged horse flying over five white clouds within a golden circle, symbolizing rapid development and harmony with nature.",
+          "mn": "Аймгийн сүлдэнд алтан шар хүрээн дотор таван цагаан үүлэн дээгүүр дүүлэн нисэж буй эрчит жигүүртэй билгүүн цагаан морийг дүрсэлжээ."
+        },
+        {
+          "en": "On the horse's back is a musical note topped with a wish-granting jewel, representing the morin khuur and the region's title as the 'Cradle of Songs'.",
+          "mn": "Морины нуруун дээр чандмань эрдэнэ бүхий хөгжмийн нот байрлуулсан нь морин хуурын домог болон дуу хуурын өлгий нутаг гэсэн санааг илэрхийлдэг."
+        },
+        {
+          "en": "Delgerkhangai Mountain is the highest point in the aimag and is worshipped as a sacred local peak.",
+          "mn": "Аймгийн хамгийн өндөр цэг болох Дэлгэрхангай уул нь нутгийн ард олны шүтэн биширч ирсэн хан уул юм."
+        }
+      ],
+      "facts": [
+        {
+          "en": "The aimag was established in 1941 under the name Sharangad by joining sums from Töv, Ömnögovi, and Dornogovi, and was renamed Dundgovi in 1942.",
+          "mn": "Тус аймаг нь 1941 онд Төв, Өмнөговь, Дорноговийн зарим сумдыг нэгтгэн Шарангад нэртэйгээр байгуулагдаж, 1942 онд Дундговь хэмээн өөрчлөгджээ."
+        },
+        {
+          "en": "Dundgovi is famous for Tsagaan Suvarga, a colorful 30-meter-high limestone cliff formation that was once an ancient ocean bed.",
+          "mn": "Эртний далайн ёроол байсан бөгөөд салхинд элэгдэн шаварлаг суварга шиг харагдах өнгө өнгийн шохойн чулуун цохио бүхий Цагаан суварга энд бий."
+        },
+        {
+          "en": "The spectacular granite rock formations of Baga Gazriin Chuluu and Ikh Gazriin Chuluu rise dramatically from the semi-desert plains.",
+          "mn": "Говийн тэгш тал дунд сүрлэг хадан уулс болон сүндэрлэх Бага газрын чулуу, Их газрын чулуу хэмээх байгалийн өвөрмөц тогтоцууд энд байдаг."
+        },
+        {
+          "en": "Süm Khökh Burd is a ruined 10th-century stone temple located on an island in a seasonal lake.",
+          "mn": "Сүм хөх бүрд хэмээх баянбүрдийн нуурын арал дээр 10-р зууны үед баригдсан гэх эртний чулуун сүмийн туурь байдаг."
+        },
+        {
+          "en": "The aimag is celebrated as the birthplace of legendary long song singers, including the world-renowned Norovbanzad.",
+          "mn": "Зууны манлай уртын дуучин Н.Норовбанзад тэргүүтэй Монголын олон алдартай дуучид энэ нутгаас төрөн гарсан түүхтэй."
+        },
+        {
+          "en": "Dundgovi is highly regarded for its delicious airag (fermented mare's milk) and has one of the highest numbers of livestock per herder household in Mongolia.",
+          "mn": "Тус аймаг нь амт чанартай гүүний айргаараа улсдаа алдартай бөгөөд нэг малчин өрхөд ногдох малын тоогоор Монголд тэргүүлдэг."
+        }
+      ],
+      "flag": "https://commons.wikimedia.org/wiki/Special:FilePath/Mn_flag_dundgovi_aimag.svg?width=160"
+    },
+    "arkhangai": {
+      "summary": {
+        "en": "A picturesque central province known as the cradle of nomadic culture, famous for its volcanic landscapes, rivers, and rich history.",
+        "mn": "Галт уулын өвөрмөц тогтоц, тунгалаг гол мөрөн, нүүдэлчдийн түүх соёлын дурсгалаараа алдартай байгалийн үзэсгэлэнт аймаг."
+      },
+      "stats": [
+        {
+          "label": {
+            "en": "Aimag centre",
+            "mn": "Аймгийн төв"
+          },
+          "value": {
+            "en": "Tsetserleg",
+            "mn": "Цэцэрлэг"
+          }
+        },
+        {
+          "label": {
+            "en": "Year founded",
+            "mn": "Байгуулагдсан он"
+          },
+          "value": {
+            "en": "1931",
+            "mn": "1931"
+          }
+        },
+        {
+          "label": {
+            "en": "Area",
+            "mn": "Газар нутгийн хэмжээ"
+          },
+          "value": {
+            "en": "55,314 km²",
+            "mn": "55,314 км²"
+          }
+        },
+        {
+          "label": {
+            "en": "Population",
+            "mn": "Хүн ам"
+          },
+          "value": {
+            "en": "93,616 (2023 estimate)",
+            "mn": "93,616 (2023 оны тооцоо)"
+          }
+        },
+        {
+          "label": {
+            "en": "Number of sums",
+            "mn": "Сумын тоо"
+          },
+          "value": {
+            "en": "19",
+            "mn": "19"
+          }
+        },
+        {
+          "label": {
+            "en": "Distance from Ulaanbaatar",
+            "mn": "Улаанбаатараас засмал замаар"
+          },
+          "value": {
+            "en": "521 km",
+            "mn": "521 км"
+          }
+        }
+      ],
+      "formerNames": [
+        {
+          "name": {
+            "en": "Zayain Khüree (Tsetserleg town)",
+            "mn": "Заяын хүрээ (Цэцэрлэг хот)"
+          },
+          "period": {
+            "en": "Until 1922",
+            "mn": "1922 он хүртэл"
+          }
+        },
+        {
+          "name": {
+            "en": "Sain Noyon Khan Aimag",
+            "mn": "Сайн ноён хан аймаг"
+          },
+          "period": {
+            "en": "1725–1923",
+            "mn": "1725–1923 он"
+          }
+        },
+        {
+          "name": {
+            "en": "Tsetserleg Mandal Uul Aimag",
+            "mn": "Цэцэрлэг Мандал уулын аймаг"
+          },
+          "period": {
+            "en": "1923–1931",
+            "mn": "1923–1931 он"
+          }
+        }
+      ],
+      "symbols": [
+        {
+          "en": "Suvarga Khairkhan is the state-worshipped sacred mountain of Arkhangai.",
+          "mn": "Суварга хайрхан уул нь Архангай аймгийн төрийн тахилгат шүтээн уул юм."
+        }
+      ],
+      "facts": [
+        {
+          "en": "The Orkhon Valley in Arkhangai was the center of ancient empires, including the Xiongnu, Turkic, and Uyghur Khaganates.",
+          "mn": "Архангай аймгийн нутаг дахь Орхоны хөндий нь Хүннү, Түрэг, Уйгар зэрэг эртний гүрнүүдийн төв голомт байжээ."
+        },
+        {
+          "en": "Khorgo-Terkhiin Tsagaan Nuur National Park features a spectacular volcanic crater and a pristine freshwater lake.",
+          "mn": "Хорго-Тэрхийн цагаан нуурын байгалийн цогцолборт газарт унтарсан галт уулын тогоо болон цэнгэг уст үзэсгэлэнт нуур оршдог."
+        },
+        {
+          "en": "The Chuluut River flows through a dramatic 20-meter-deep basalt canyon formed by ancient volcanic activity.",
+          "mn": "Чулуут гол нь галт уулын дэлбэрэлтээс үүссэн 20 метр орчим гүн, эгц хүрмэн чулуун хавцлаар урсдаг."
+        },
+        {
+          "en": "Arkhangai is famous for its massive livestock population, particularly yaks, and ranks among the top provinces for animal husbandry.",
+          "mn": "Тус аймаг нь малын тоо толгой, ялангуяа сарлагийн сүргийн хэмжээгээр улсдаа тэргүүлэгчдийн нэг юм."
+        },
+        {
+          "en": "The population is predominantly Khalkha Mongols, with a small minority of Ööld (Oirat) Mongols.",
+          "mn": "Хүн амын дийлэнх хувийг халхчууд эзлэх бөгөөд цөөн хувийг өөлд ястан эзэлдэг."
+        },
+        {
+          "en": "The province has produced many famous athletes, including Olympic wrestling medalist and World Champion Soronzonboldyn Battsetseg.",
+          "mn": "Тус аймгаас Олимпын хүрэл медальт, Дэлхийн аварга, чөлөөт бөхийн тамирчин Соронзонболдын Батцэцэг зэрэг олон алдартнууд төрөн гарчээ."
+        },
+        {
+          "en": "Arkhangai has produced the highest number of national wrestling champions (avarga and arslan) in Mongolia.",
+          "mn": "Архангай аймаг нь үндэсний бөхийн улсын цолтой аваргууд болон арслангуудын тоогоор Монгол Улсад хол тасархай тэргүүлдэг."
+        }
+      ],
+      "flag": "https://commons.wikimedia.org/wiki/Special:FilePath/Mn_flag_arkhangai_aimag_2014.svg?width=160"
+    },
+    "bayankhongor": {
+      "summary": {
+        "en": "A southwestern province of Mongolia known as the \"cradle of dinosaurs\" and the home of the rare Gobi bear.",
+        "mn": "Үлэг гүрвэлийн өлгий нутаг, ховордсон мазаалай баавгайн эх нутаг гэдгээрээ алдартай Монгол Улсын баруун өмнөд бүсийн аймаг."
+      },
+      "stats": [
+        {
+          "label": {
+            "en": "Aimag centre",
+            "mn": "Аймгийн төв"
+          },
+          "value": {
+            "en": "Bayankhongor",
+            "mn": "Баянхонгор"
+          }
+        },
+        {
+          "label": {
+            "en": "Year founded",
+            "mn": "Үүсгэн байгуулагдсан он"
+          },
+          "value": {
+            "en": "1941",
+            "mn": "1941"
+          }
+        },
+        {
+          "label": {
+            "en": "Area",
+            "mn": "Газар нутгийн хэмжээ"
+          },
+          "value": {
+            "en": "115,978 km²",
+            "mn": "115,978 км²"
+          }
+        },
+        {
+          "label": {
+            "en": "Population",
+            "mn": "Хүн ам"
+          },
+          "value": {
+            "en": "88,499 (2025 estimate)",
+            "mn": "88,499 (2025 оны тооцоо)"
+          }
+        },
+        {
+          "label": {
+            "en": "Number of sums",
+            "mn": "Сумын тоо"
+          },
+          "value": {
+            "en": "20",
+            "mn": "20"
+          }
+        },
+        {
+          "label": {
+            "en": "Distance from Ulaanbaatar",
+            "mn": "Улаанбаатараас зайд"
+          },
+          "value": {
+            "en": "630 km",
+            "mn": "630 км"
+          }
+        }
+      ],
+      "formerNames": [
+        {
+          "name": {
+            "en": "Govi-Bumbugur",
+            "mn": "Говь-Бөмбөгөр"
+          },
+          "period": {
+            "en": "1941",
+            "mn": "1941"
+          }
+        }
+      ],
+      "symbols": [
+        {
+          "en": "The emblem of Bayankhongor Province features a saddled elephant carrying a throne with seated figures, surrounded by a tumen nasan pattern and topped with a Soyombo symbol.",
+          "mn": "Баянхонгор аймгийн сүлдэнд эмээллэсэн заан дээрх сэнтийд сууж буй хүмүүсийг дүрслэн, гадуур нь түмэн насан хээгээр хүрээлж, оройд нь Соёмбо тэмдгийг залсан байдаг."
+        },
+        {
+          "en": "The sacred mountain of the aimag is Ikh Bogd Mountain, which is ritually worshipped.",
+          "mn": "Аймгийн тахилгат сүлд уул нь Говь-Алтайн нурууны ноён оргил Их Богд хайрхан юм."
+        },
+        {
+          "en": "The official anthem of the province is \"Bayankhongor Minii Nutag\".",
+          "mn": "Аймгийн албан ёсны сүлд дуу нь \"Баянхонгор миний нутаг\" хэмээх бүтээл юм."
+        }
+      ],
+      "facts": [
+        {
+          "en": "Historically, the territory of Bayankhongor was part of the Sain Noyon Khan aimag during the Qing Dynasty.",
+          "mn": "Түүхэндээ Баянхонгор аймгийн газар нутаг нь Манж Чин улсын үед Сайн ноён хан аймгийн бүрэлдэхүүнд багтаж байв."
+        },
+        {
+          "en": "It is the only aimag in Mongolia that encompasses three major geographical zones: forest-steppe, steppe, and the Gobi Desert.",
+          "mn": "Ойт хээр, тал хээр, говь цөл гэсэн байгалийн гурван том бүсийг зэрэг хамран оршдог Монголын цорын ганц аймаг юм."
+        },
+        {
+          "en": "Bugiin Tsav and Nogoon Tsav are world-famous paleontological sites where numerous dinosaur fossils and eggs have been discovered.",
+          "mn": "Бүгийн цав, Ногоон цав зэрэг газрууд нь үлэг гүрвэлийн олон тооны олдвор, өндөг олдсон дэлхийн хэмжээний палеонтологийн чухал бүс нутаг юм."
+        },
+        {
+          "en": "The Trans-Altai Gobi in the south of the aimag is the primary habitat of the critically endangered Gobi bear, known as Mazaalai.",
+          "mn": "Аймгийн өмнөд хэсэг дэх Алтайн өвөр говь нь дэлхийд нэн ховордсон мазаалай баавгайн гол нутагладаг газар юм."
+        },
+        {
+          "en": "Shargaljuut Hot Springs is a famous resort featuring over 300 mineral springs with temperatures reaching up to 95°C.",
+          "mn": "Тус нутагт орших Шаргалжуутын рашаан нь 95 хэм хүртэл халдаг 300 гаруй булаг бүхий Монголын алдартай рашаан сувилал юм."
+        },
+        {
+          "en": "Famous figures born here include the prominent linguist Sh. Luvsanvandan and the state figure G. Zandanshatar.",
+          "mn": "Хэл шинжлэлийн нэрт эрдэмтэн Ш. Лувсанвандан, төр нийгмийн зүтгэлтэн Г. Занданшатар нар тус аймгаас төрөн гарчээ."
+        },
+        {
+          "en": "Prehistoric human traces dating back hundreds of thousands of years have been found in the Tsagaan Agui (White Cave) in Bayanlig sum.",
+          "mn": "Баянлиг сумын нутаг дахь Цагаан агуйгаас хэдэн зуун мянган жилийн өмнөх эртний хүний амьдарч байсан ул мөр олдсон байдаг."
+        }
+      ],
+      "flag": "https://commons.wikimedia.org/wiki/Special:FilePath/Mn_flag_bayankhongor_aymag.png?width=160"
+    },
+    "omnogovi": {
+      "summary": {
+        "en": "Mongolia's largest province, famous for its vast Gobi desert landscapes, rich dinosaur fossil sites, and massive mineral deposits.",
+        "mn": "Үлэг гүрвэлийн өлгий Баянзаг, Ёлын ам болон Оюутолгой, Тавантолгойн уурхайнуудаараа алдартай Монгол Улсын хамгийн уудам газар нутагтай аймаг."
+      },
+      "stats": [
+        {
+          "label": {
+            "en": "Aimag centre",
+            "mn": "Аймгийн төв"
+          },
+          "value": {
+            "en": "Dalanzadgad",
+            "mn": "Даланзадгад"
+          }
+        },
+        {
+          "label": {
+            "en": "Year founded",
+            "mn": "Байгуулагдсан он"
+          },
+          "value": {
+            "en": "1931",
+            "mn": "1931"
+          }
+        },
+        {
+          "label": {
+            "en": "Area",
+            "mn": "Газар нутгийн хэмжээ"
+          },
+          "value": {
+            "en": "165,380 km²",
+            "mn": "165,380 км²"
+          }
+        },
+        {
+          "label": {
+            "en": "Population",
+            "mn": "Хүн ам"
+          },
+          "value": {
+            "en": "78,763 (2024 estimate)",
+            "mn": "78,763 (2024 оны тооцоо)"
+          }
+        },
+        {
+          "label": {
+            "en": "Number of sums",
+            "mn": "Сумын тоо"
+          },
+          "value": {
+            "en": "15",
+            "mn": "15"
+          }
+        },
+        {
+          "label": {
+            "en": "Distance from Ulaanbaatar",
+            "mn": "Улаанбаатараас засмал замаар"
+          },
+          "value": {
+            "en": "553 km",
+            "mn": "553 км"
+          }
+        }
+      ],
+      "formerNames": [],
+      "symbols": [
+        {
+          "en": "The emblem features the peaks of the Gobi Gurvansaikhan Mountains, a Bactrian camel, and three gems representing copper, gold, and coal.",
+          "mn": "Аймгийн сүлдэнд Говь Гурвансайхан уулын оргил, хоёр бөхт тэмээ болон зэс, алт, нүүрсийг бэлгэдсэн чандмань эрдэнийг дүрсэлсэн байдаг."
+        },
+        {
+          "en": "Sacred mountains include Gobi Gurvansaikhan and Noyon Bogd.",
+          "mn": "Нутгийн тахилгат уулс нь Говь Гурвансайхан болон Ноён Богд хайрхан юм."
+        },
+        {
+          "en": "It is nicknamed the 'Cradle of Dinosaurs' and the 'Heart of Camel Herds'.",
+          "mn": "Тус аймгийг 'Үлэг гүрвэлийн өлгий нутаг', 'Тэмээн сүргийн голомт' хэмээн нэрлэдэг."
+        }
+      ],
+      "facts": [
+        {
+          "en": "Ömnögovi is the largest province in Mongolia by land area, making up over 10% of the country's total territory.",
+          "mn": "Өмнөговь аймаг нь газар нутгийн хэмжээгээрээ Монгол Улсын хамгийн том аймаг бөгөөд улсын нийт нутаг дэвсгэрийн 10 гаруй хувийг эзэлдэг."
+        },
+        {
+          "en": "The world-famous paleontological site Bayanzag (Flaming Cliffs) is located here, where Roy Chapman Andrews discovered the first fossilized dinosaur eggs in 1923.",
+          "mn": "Дэлхийд алдартай палеонтологийн олдворт газар болох Баянзаг энд оршдог бөгөөд 1923 онд Рой Чапмэн Эндрюс анхны үлэг гүрвэлийн өндөгийг эндээс олжээ."
+        },
+        {
+          "en": "The province contains the Gobi Gurvansaikhan National Park, which includes Yolyn Am (Vulture Valley), a deep gorge that historically kept ice year-round.",
+          "mn": "Тус аймагт Говь Гурвансайханы байгалийн цогцолбор газар оршдог бөгөөд үүнд зуны халуунд ч мөстэй байдгаараа алдартай Ёлын ам хавцал багтдаг."
+        },
+        {
+          "en": "It is home to the Oyu Tolgoi copper-gold mine and Tavan Tolgoi coal mine, making it a key economic driver of Mongolia.",
+          "mn": "Монгол Улсын эдийн засгийн гол хөдөлгүүр болох зэс, алтны Оюутолгой болон нүүрсний Тавантолгойн ордууд тус аймгийн нутагт байрладаг."
+        },
+        {
+          "en": "The province has the largest population of two-humped Bactrian camels in Mongolia and hosts the annual 'Thousand Camels' festival.",
+          "mn": "Өмнөговь аймаг нь тэмээн сүргийн тоогоор улсдаа тэргүүлдэг бөгөөд жил бүр уламжлалт 'Түмэн тэмээний баяр'-ыг зохион байгуулдаг."
+        },
+        {
+          "en": "Historians believe that Batmönkh Dayan Khaan, who ruled the Mongolian state peacefully for 47 years, was born in the territory of modern Khürmen sum.",
+          "mn": "Монголын төрийг 47 жил амар амгалан удирдсан Батмөнх даян хааныг одоогийн Хүрмэн сумын нутагт төрсөн гэж түүхчид үздэг."
+        }
+      ],
+      "flag": "https://commons.wikimedia.org/wiki/Special:FilePath/Mn_flag_%C3%B6mn%C3%B6govi_aimag_2011.svg?width=160"
+    },
+    "tov": {
+      "summary": {
+        "en": "The central province of Mongolia that completely surrounds the capital city of Ulaanbaatar.",
+        "mn": "Улсын нийслэл Улаанбаатар хотыг бүрэн хүрээлэн оршдог, Монгол орны төв хэсгийн аймаг."
+      },
+      "stats": [
+        {
+          "label": {
+            "en": "Aimag centre",
+            "mn": "Аймгийн төв"
+          },
+          "value": {
+            "en": "Zuunmod",
+            "mn": "Зуунмод"
+          }
+        },
+        {
+          "label": {
+            "en": "Year founded",
+            "mn": "Байгуулагдсан он"
+          },
+          "value": {
+            "en": "1931",
+            "mn": "1931"
+          }
+        },
+        {
+          "label": {
+            "en": "Area",
+            "mn": "Газар нутаг"
+          },
+          "value": {
+            "en": "74,042 km²",
+            "mn": "74,042 км²"
+          }
+        },
+        {
+          "label": {
+            "en": "Population",
+            "mn": "Хүн ам"
+          },
+          "value": {
+            "en": "94,250 (2020 census)",
+            "mn": "94,250 (2020 оны тооллого)"
+          }
+        },
+        {
+          "label": {
+            "en": "Number of sums",
+            "mn": "Сумын тоо"
+          },
+          "value": {
+            "en": "27",
+            "mn": "27"
+          }
+        },
+        {
+          "label": {
+            "en": "Distance from Ulaanbaatar",
+            "mn": "Улаанбаатараас зайд"
+          },
+          "value": {
+            "en": "43 km",
+            "mn": "43 км"
+          }
+        }
+      ],
+      "formerNames": [
+        {
+          "name": {
+            "en": "Bogd Khan Uul aimag",
+            "mn": "Богдхан уулын аймаг"
+          },
+          "period": {
+            "en": "1923–1931",
+            "mn": "1923–1931"
+          }
+        }
+      ],
+      "symbols": [
+        {
+          "en": "The emblem features a circular shield with a golden water-weave pattern, blue waves, and a green background representing the sacred Bogd Khan Mountain.",
+          "mn": "Аймгийн сүлд нь дугуй бамбай хэлбэртэй бөгөөд алтан шаргал усан сүлжээ хээ, хөх долгион, дархан цаазат Богдхан уулыг бэлгэдсэн мөнх ногоон дэвсгэртэй."
+        },
+        {
+          "en": "At the center of the emblem, a four-pointed golden star holds a red silhouette of Töv Province, symbolizing unity and spirit.",
+          "mn": "Сүлдний төв хэсэгт дөрвөн зүг найман зовхист эв найртай амьдрахыг бэлгэдсэн алтан одны дунд Төв аймгийн газар нутгийг улаан өнгөөр товойлгон дүрсэлсэн байдаг."
+        },
+        {
+          "en": "Bogd Khan Mountain, bordering the aimag, is one of the oldest officially protected areas in the world, designated in 1778.",
+          "mn": "Аймгийн нутагт орших Богдхан уул нь 1778 онд дархан цаазтай болсон дэлхийн хамгийн эртний тусгай хамгаалалттай газруудын нэг юм."
+        }
+      ],
+      "facts": [
+        {
+          "en": "The historic Battle of Jao Modo took place near Zuunmod in 1696, where the Qing dynasty defeated Galdan Boshugtu Khan of the Dzungar Khanate.",
+          "mn": "1696 онд Зуунмодны орчимд түүхэн тэмдэглэлт Зуунмодны тулалдаан болж, Манжийн цэрэг Зүүнгарын Галдан бошигт хааныг ялж байжээ."
+        },
+        {
+          "en": "Khustain Nuruu National Park is famous for the successful reintroduction of the endangered Przewalski's horse, known as Takhi, starting in 1993.",
+          "mn": "Хустайн нурууны байгалийн цогцолборт газар нь 1993 оноос хойш зэрлэг тахь морийг байгальд нь амжилттай сэргээн нутагшуулснаараа алдартай."
+        },
+        {
+          "en": "Gorkhi-Terelj National Park, located in the aimag, is renowned for its alpine scenery and the iconic Turtle Rock formation.",
+          "mn": "Аймгийн нутагт байдаг Горхи-Тэрэлжийн байгалийн цогцолборт газар нь үзэсгэлэнт уулс, хад асга болон алдарт Мэлхий хадаараа аялагчдын анхаарлыг татдаг."
+        },
+        {
+          "en": "The aimag is a major agricultural and livestock hub, leading the country in potato production and supplying food to the capital.",
+          "mn": "Тус аймаг нь газар тариалан, мал аж ахуйн гол бүс бөгөөд төмсний үйлдвэрлэлээр улсдаа тэргүүлж, нийслэлийн хүнсийг голлон хангадаг."
+        },
+        {
+          "en": "The 40-meter-tall Genghis Khan Equestrian Statue, the world's tallest equestrian statue, is located in Tsonjin Boldog within Erdene sum.",
+          "mn": "Эрдэнэ сумын нутаг Цонжин болдогт орших 40 метр өндөр Чингис хааны морьт хөшөө нь дэлхийн хамгийн өндөр морьт хөшөөт цогцолбор юм."
+        },
+        {
+          "en": "Dashdorjiin Natsagdorj, the founder of modern Mongolian literature and author of the famous poem 'My Native Land', was born in Töv aimag.",
+          "mn": "Монголын орчин үеийн уран зохиолыг үндэслэгч, алдарт 'Миний нутаг' шүлгийн зохиолч Д.Нацагдорж Төв аймгийн нутагт төржээ."
+        }
+      ],
+      "flag": "https://commons.wikimedia.org/wiki/Special:FilePath/Tov_aymag_flag.svg?width=160"
+    },
+    "ovorkhangai": {
+      "summary": {
+        "en": "The historic heartland of Mongolia, home to the ancient capital Karakorum, sacred monasteries, and the volcanic Orkhon Valley.",
+        "mn": "Эртний нийслэл Хархорум, түүхт сүм хийдүүд болон галт уулын гаралтай Орхоны хөндийг өлгийдсөн Монгол төрийн голомт нутаг."
+      },
+      "stats": [
+        {
+          "label": {
+            "en": "Aimag centre",
+            "mn": "Аймгийн төв"
+          },
+          "value": {
+            "en": "Arvaikheer",
+            "mn": "Арвайхээр"
+          }
+        },
+        {
+          "label": {
+            "en": "Year founded",
+            "mn": "Байгуулагдсан он"
+          },
+          "value": {
+            "en": "1931",
+            "mn": "1931"
+          }
+        },
+        {
+          "label": {
+            "en": "Area",
+            "mn": "Талбай"
+          },
+          "value": {
+            "en": "62,895 km²",
+            "mn": "62,895 км²"
+          }
+        },
+        {
+          "label": {
+            "en": "Population",
+            "mn": "Хүн ам"
+          },
+          "value": {
+            "en": "115,300 (2024 estimate)",
+            "mn": "115,300 (2024 оны үнэлгээ)"
+          }
+        },
+        {
+          "label": {
+            "en": "Number of sums",
+            "mn": "Сумын тоо"
+          },
+          "value": {
+            "en": "19",
+            "mn": "19"
+          }
+        },
+        {
+          "label": {
+            "en": "Distance from Ulaanbaatar",
+            "mn": "Улаанбаатараас зайд"
+          },
+          "value": {
+            "en": "430 km",
+            "mn": "430 км"
+          }
+        }
+      ],
+      "formerNames": [
+        {
+          "name": {
+            "en": "Sain Noyon Khan and Tushiyetu Khan Aimags (territory)",
+            "mn": "Сайн ноён хан ба Түшээт хан аймаг (газар нутаг)"
+          },
+          "period": {
+            "en": "Before 1931",
+            "mn": "1931 оноос өмнө"
+          }
+        },
+        {
+          "name": {
+            "en": "Arvaikheeriin Khuree (also Uizen Vangiin Khuree)",
+            "mn": "Арвайхээрийн хүрээ (мөн Үйзэн вангийн хүрээ)"
+          },
+          "period": {
+            "en": "Qing Dynasty and Bogd Khanate periods",
+            "mn": "Манж чин улс болон Богд хаант Монгол Улсын үе"
+          }
+        }
+      ],
+      "symbols": [
+        {
+          "en": "The aimag's emblem features the Great Stupa of Erdene Zuu Monastery at the center, with a crossed Vajra in front, resting on a lotus base wrapped in a blue khadag.",
+          "mn": "Аймгийн сүлдэнд Эрдэнэ зуу хийдийн Их суварга, түүний урд хөндлөн очир байрлах бөгөөд доод хэсэгт нь цэнхэр хадгаар ороосон бадамлянхуа цэцэг суурьтай байна."
+        },
+        {
+          "en": "The name of the aimag is written on the emblem in folded Mongolian script on the left and Soyombo script on the right.",
+          "mn": "Сүлдний зүүн талд аймгийн нэрийг худам монгол бичгийн эвхмэл хэлбэрээр, баруун талд нь соёмбо үсгээр бичсэн байдаг."
+        },
+        {
+          "en": "Khankhögshin Khairkhan is the officially worshipped sacred mountain of the aimag, traditionally protected since the 13th century.",
+          "mn": "Ханхөгшин хайрхан нь тус аймгийн орон нутгийн тахилгат шүтээн уул бөгөөд XIII зуунаас эхлэн тахиж ирсэн түүхтэй."
+        }
+      ],
+      "facts": [
+        {
+          "en": "The Orkhon Valley Cultural Landscape in the northern part of the aimag is a UNESCO World Heritage Site that served as the cradle of nomadic empires for millennia.",
+          "mn": "Аймгийн хойд хэсэгт орших Орхоны хөндийн соёлын дурсгалт газар нь ЮНЕСКО-гийн Дэлхийн өвд бүртгэгдсэн бөгөөд нүүдэлчдийн эртний гүрнүүдийн голомт нутаг байв."
+        },
+        {
+          "en": "Karakorum, the 13th-century capital of the Mongol Empire founded by Genghis Khan, was located in the modern Kharkhorin sum of this aimag.",
+          "mn": "Чингис хааны үндэслэн байгуулсан Их Монгол Улсын XIII зууны нийслэл Хархорум хотын туурь тус аймгийн Хархорин сумын нутагт оршдог."
+        },
+        {
+          "en": "Erdene Zuu, built in 1586 using stones from the ruins of Karakorum, is recognized as Mongolia's oldest surviving Buddhist monastery.",
+          "mn": "Хархорум хотын туурийн чулуугаар 1586 онд босгосон Эрдэнэ зуу хийд нь Монголын хамгийн эртний бөгөөд өдгөө үлдсэн анхны буддын шашны хийд юм."
+        },
+        {
+          "en": "Tövkhön Monastery, a serene mountain hermitage established by Zanabazar in 1648, is perched on a rocky ridge at an altitude of 2,300 meters.",
+          "mn": "Өндөр гэгээн Занабазарын 1648 онд үүсгэн байгуулсан уран бүтээл, бясалгалын Төвхөн хийд нь далайн түвшнээс дээш 2,300 метрийн өндөрт хадан цохион дээр оршдог."
+        },
+        {
+          "en": "The exact geographical center of Mongolia is located near Mount Ongon in Burd sum of Övörkhangai aimag.",
+          "mn": "Монгол Улсын газар зүйн хүйс буюу төв цэг тус аймгийн Бүрд сумын нутаг, Онгон уулын өвөрт байрладаг."
+        },
+        {
+          "en": "The aimag features diverse ecosystems, including the Khangai Mountains, the volcanic Naiman Nuur (Eight Lakes) basin, and the 20-meter-high Orkhon Waterfall.",
+          "mn": "Тус аймаг нь Хангайн нуруу, галт уулын гаралтай Хүйсийн найман нуур, 20 метрийн өндрөөс буух Орхоны улаан цутгалан хүрхрээ зэрэг байгалийн үзэсгэлэнт газруудтай."
+        },
+        {
+          "en": "Khujirt sum is famous nationwide for its natural hot mineral springs and is home to one of Mongolia's most popular health resorts.",
+          "mn": "Хужирт сум нь халуун рашаан, шавраараа улс даяар алдартай бөгөөд Монголын хамгийн том, ууган сувилал эрүүл мэндийн төвүүдийн нэг энд ажилладаг."
+        },
+        {
+          "en": "The 'Moriny Ikh Shuteen' complex near Arvaikheer is a major monument dedicated to the legendary fast horse Arvagarkheer and Mongolia's equestrian culture.",
+          "mn": "Арвайхээр хотын ойролцоо байх 'Морины их шүтээн' цогцолбор нь алдарт Аравгар хээр хүлэг болон монгол түмний морины соёлд зориулсан томоохон дурсгал юм."
+        }
+      ],
+      "flag": "https://commons.wikimedia.org/wiki/Special:FilePath/Mn_flag_Ovurhangai_aymag.svg?width=160"
+    },
+    "selenge": {
+      "summary": {
+        "en": "A fertile northern province bordering Russia, known as Mongolia's agricultural heartland.",
+        "mn": "ОХУ-тай хиллэдэг, газар тариалангийн гол бүс нутаг болох үржил шимт хойд зүгийн аймаг."
+      },
+      "stats": [
+        {
+          "label": {
+            "en": "Aimag centre",
+            "mn": "Аймгийн төв"
+          },
+          "value": {
+            "en": "Sükhbaatar",
+            "mn": "Сүхбаатар"
+          }
+        },
+        {
+          "label": {
+            "en": "Year founded",
+            "mn": "Байгуулагдсан он"
+          },
+          "value": {
+            "en": "1934",
+            "mn": "1934"
+          }
+        },
+        {
+          "label": {
+            "en": "Area",
+            "mn": "Газар нутаг"
+          },
+          "value": {
+            "en": "41,153 km²",
+            "mn": "41,153 км²"
+          }
+        },
+        {
+          "label": {
+            "en": "Population",
+            "mn": "Хүн ам"
+          },
+          "value": {
+            "en": "103,831 (2025 estimate)",
+            "mn": "103,831 (2025 оны тооцоо)"
+          }
+        },
+        {
+          "label": {
+            "en": "Number of sums",
+            "mn": "Сумын тоо"
+          },
+          "value": {
+            "en": "17",
+            "mn": "17"
+          }
+        },
+        {
+          "label": {
+            "en": "Distance from Ulaanbaatar",
+            "mn": "Улаанбаатар хотоос"
+          },
+          "value": {
+            "en": "335 km",
+            "mn": "335 км"
+          }
+        }
+      ],
+      "formerNames": [
+        {
+          "name": {
+            "en": "Agricultural Aimag",
+            "mn": "Тариалангийн аймаг"
+          },
+          "period": {
+            "en": "1931–1934",
+            "mn": "1931–1934 он"
+          }
+        },
+        {
+          "name": {
+            "en": "Tsagaan Ereg",
+            "mn": "Цагаан эрэг"
+          },
+          "period": {
+            "en": "Until 1940",
+            "mn": "1940 он хүртэл"
+          }
+        }
+      ],
+      "symbols": [
+        {
+          "en": "The sacred 'Five Khans' mountains (Bürenkhan, Tovkhonkhan, Bayankhan, Delgerkhan, and Dulaankhan) are highly revered local peaks.",
+          "mn": "Нутгийн ард түмэн Бүрэнхан, Товхонхан, Баянхан, Дэлгэрхан, Дулаанхан хэмээх 'Таван хан' уулыг эртнээс тахин шүтэж иржээ."
+        },
+        {
+          "en": "The Mother Tree (Eej Mod) in Shaamar sum is a highly sacred natural site visited by pilgrims from all over Mongolia.",
+          "mn": "Шаамар сумын нутагт байдаг 'Ээж мод' нь Монгол даяар алдартай, сүсэгтэн олон зорин очдог ариун дагшин газар юм."
+        }
+      ],
+      "facts": [
+        {
+          "en": "The 1921 People's Revolution began in this region, with Altanbulag serving as the birthplace of the revolutionary movement.",
+          "mn": "1921 оны Ардын хувьсгал энэ нутгаас эхэлсэн бөгөөд Алтанбулаг сум нь хувьсгалт хөдөлгөөний өлгий нутаг юм."
+        },
+        {
+          "en": "The majestic Amarbayasgalant Monastery, built in the 18th century to honor Zanabazar, is located at the foot of Mount Bürenkhan.",
+          "mn": "Анхдугаар Богд Г.Занабазарт зориулан 18-р зуунд босгосон үзэсгэлэнт Амарбаясгалант хийд Бүрэнхан уулын өвөрт оршдог."
+        },
+        {
+          "en": "Selenge is the agricultural heartland of Mongolia, producing around 40 to 45 percent of the nation's total grain and wheat harvest.",
+          "mn": "Сэлэнгэ аймаг нь Монгол Улсын газар тариалангийн гол түшиц газар бөгөөд улсын нийт үр тариа, улаан буудайн 40-45 орчим хувийг дангаараа үйлдвэрлэдэг."
+        },
+        {
+          "en": "The Tujiin Nars Nature Reserve is a unique pine forest ecosystem that represents the southern edge of the Siberian taiga.",
+          "mn": "Тужийн нарсны байгалийн цогцолборт газар нь Сибирийн их тайгын урд захыг төлөөлөх нарсны өвөрмөц экосистем юм."
+        },
+        {
+          "en": "Renowned Mongolian scholar and writer Byambyn Rinchen was born in Altanbulag sum in 1905.",
+          "mn": "Монголын орчин үеийн шинжлэх ухаан, утга зохиолын нэрт зүтгэлтэн, эрдэмтэн Бямбын Ринчен 1905 онд Алтанбулаг суманд төржээ."
+        },
+        {
+          "en": "The town of Dulaankhaan is famous for housing Mongolia's only traditional bow and arrow factory.",
+          "mn": "Дулаанхан тосгон нь Монголын цорын ганц уламжлалт сур, харвааны нум сумны үйлдвэртэй гэдгээрээ алдартай."
+        }
+      ],
+      "flag": "https://commons.wikimedia.org/wiki/Special:FilePath/Mn_flag_selenge_aimag_1999.svg?width=160"
+    },
+    "khovsgol": {
+      "summary": {
+        "en": "Known as the \"Mongolian Switzerland,\" this northernmost province is famous for its alpine beauty, deep forests, and the pristine Lake Khövsgöl.",
+        "mn": "Монголын Швейцар гэгддэг, үзэсгэлэнт Хөвсгөл нуур, хөвч тайга, сүрлэг уулсаараа алдартай Монгол улсын хамгийн хойд захын аймаг."
+      },
+      "stats": [
+        {
+          "label": {
+            "en": "Aimag centre",
+            "mn": "Аймгийн төв"
+          },
+          "value": {
+            "en": "Mörön",
+            "mn": "Мөрөн"
+          }
+        },
+        {
+          "label": {
+            "en": "Year founded",
+            "mn": "Байгуулагдсан он"
+          },
+          "value": {
+            "en": "1931",
+            "mn": "1931"
+          }
+        },
+        {
+          "label": {
+            "en": "Area",
+            "mn": "Газар нутаг"
+          },
+          "value": {
+            "en": "100,629 km²",
+            "mn": "100,629 км²"
+          }
+        },
+        {
+          "label": {
+            "en": "Population",
+            "mn": "Хүн ам"
+          },
+          "value": {
+            "en": "135,600 (2025 est.)",
+            "mn": "135,600 (2025 оны баримжаа)"
+          }
+        },
+        {
+          "label": {
+            "en": "Number of sums",
+            "mn": "Сумын тоо"
+          },
+          "value": {
+            "en": "24",
+            "mn": "24"
+          }
+        },
+        {
+          "label": {
+            "en": "Distance from Ulaanbaatar",
+            "mn": "Улаанбаатараас алслагдах зай"
+          },
+          "value": {
+            "en": "671 km",
+            "mn": "671 км"
+          }
+        }
+      ],
+      "formerNames": [
+        {
+          "name": {
+            "en": "Khatgal (Aimag Centre)",
+            "mn": "Хатгал (Аймгийн төв)"
+          },
+          "period": {
+            "en": "1931–1933",
+            "mn": "1931–1933"
+          }
+        },
+        {
+          "name": {
+            "en": "Möröngiin Khüree",
+            "mn": "Мөрөнгийн хүрээ"
+          },
+          "period": {
+            "en": "1809–1933",
+            "mn": "1809–1933"
+          }
+        }
+      ],
+      "symbols": [
+        {
+          "en": "The aimag emblem features a lotus base symbolizing purity, a Zendmene pattern for nature protection, and five arrows representing unity.",
+          "mn": "Аймгийн сүлдэнд ариун дагшныг бэлгэдсэн бадам цэцгэн суурь, байгаль хамгааллыг илтгэх зэндмэнь хээ, эв нэгдлийн таван сумыг дүрсэлжээ."
+        },
+        {
+          "en": "The emblem includes a black banner representing the historical struggle of the national hero Chingünjav.",
+          "mn": "Сүлдний бүтцэд үндэсний баатар Шадар ван Чингүнжавын тэмцэж явсан Хараа ихт хар тугийг бэлгэдэн оруулсан байдаг."
+        },
+        {
+          "en": "The province is widely nicknamed the \"Mongolian Switzerland\" due to its high mountains, lakes, and dense pine forests.",
+          "mn": "Өндөр сүрлэг уулс, цэнгэг нуур, өтгөн ой тайгатай тул тус аймгийг олноо \"Монголын Швейцар\" хэмээн өргөмжлөн нэрлэдэг."
+        }
+      ],
+      "facts": [
+        {
+          "en": "Lake Khövsgöl is the deepest lake in Central Asia and holds almost 70% of Mongolia's fresh surface water.",
+          "mn": "Хөвсгөл нуур нь Төв Азийн хамгийн гүн нуур бөгөөд Монгол орны гадаргын цэнгэг усны нөөцийн бараг 70 хувийг бүрдүүлдэг."
+        },
+        {
+          "en": "The aimag is a diverse multi-ethnic region home to the Khalkh, Darkhad, Khotgoid, Uriankhai, Buryat, and Tsaatan peoples.",
+          "mn": "Тус аймаг нь халх, дархад, хотгойд, урианхай, буриад болон цаатан зэрэг олон ястны өлгий нутаг юм."
+        },
+        {
+          "en": "The Tsaatan people living in the northern taiga are famous for herding reindeer and preserving ancient shamanic traditions.",
+          "mn": "Тайгад амьдардаг цаатан иргэд нь цаа буга маллаж, бөө мөргөлийн эртний уламжлалыг хадгалж үлдсэнээрээ алдартай."
+        },
+        {
+          "en": "Khövsgöl holds the largest forest resources in Mongolia, forming the southern edge of the Siberian taiga.",
+          "mn": "Хөвсгөл аймаг нь Сибирийн тайгын өмнөд хэсгийг залгаж, Монгол улсын хамгийн их ойн нөөцийг эзэмшдэг."
+        },
+        {
+          "en": "The historical hero Chingünjav, who led the 1755–1756 rebellion against the Manchu Qing Dynasty, was born in this region.",
+          "mn": "Манжийн Тэнгэр тэтгэсний эсрэг 1755–1756 оны зэвсэгт бослогыг удирдсан Шадар ван Чингүнжав энэ нутгийнх юм."
+        },
+        {
+          "en": "The Jalkhanz Khutagt Damdinbazar, a prominent religious leader who served twice as Prime Minister of Mongolia, was born here.",
+          "mn": "Монгол Улсын Ерөнхий сайдаар хоёр удаа томилогдон ажиллаж байсан шашин, төрийн зүтгэлтэн Жалханз хутагт С.Дамдинбазар тус нутагт төржээ."
+        },
+        {
+          "en": "The Horidol Saridag Strictly Protected Area was established to protect the rugged alpine tundra and endangered wildlife like argali and ibex.",
+          "mn": "Хорьдол Сарьдагийн дархан цаазат газар нь өндөр уулын тундр болон аргаль, янгир зэрэг ховордсон зэрлэг амьтдыг хамгаалдаг."
+        }
+      ],
+      "flag": "https://commons.wikimedia.org/wiki/Special:FilePath/Mn_flag_kh%C3%B6vsg%C3%B6l_aimag_2014.svg?width=160"
+    },
+    "darkhan-uul": {
+      "summary": {
+        "en": "Mongolia's second-largest industrial and educational hub, built as a symbol of socialist friendship in the fertile north.",
+        "mn": "Үржил шимт хойд бүсэд социалист хамтын ажиллагааны бэлгэдэл болон боссон, Монголын аж үйлдвэр, боловсролын хоёр дахь том төв."
+      },
+      "stats": [
+        {
+          "label": {
+            "en": "Aimag centre",
+            "mn": "Аймгийн төв"
+          },
+          "value": {
+            "en": "Darkhan",
+            "mn": "Дархан"
+          }
+        },
+        {
+          "label": {
+            "en": "Year founded",
+            "mn": "Байгуулагдсан он"
+          },
+          "value": {
+            "en": "1994",
+            "mn": "1994"
+          }
+        },
+        {
+          "label": {
+            "en": "Area",
+            "mn": "Талбай"
+          },
+          "value": {
+            "en": "3,275 km²",
+            "mn": "3,275 км²"
+          }
+        },
+        {
+          "label": {
+            "en": "Population",
+            "mn": "Хүн ам"
+          },
+          "value": {
+            "en": "110,544 (2024 estimate)",
+            "mn": "110,544 (2024 оны багцаа)"
+          }
+        },
+        {
+          "label": {
+            "en": "Number of sums",
+            "mn": "Сумын тоо"
+          },
+          "value": {
+            "en": "4",
+            "mn": "4"
+          }
+        },
+        {
+          "label": {
+            "en": "Distance from Ulaanbaatar",
+            "mn": "Улаанбаатараас зайд"
+          },
+          "value": {
+            "en": "230 km",
+            "mn": "230 км"
+          }
+        }
+      ],
+      "formerNames": [
+        {
+          "name": {
+            "en": "Burkhant Valley (original location)",
+            "mn": "Бурхантын хөндий (анхны суурьшлын газар)"
+          },
+          "period": {
+            "en": "Before 1961",
+            "mn": "1961 оноос өмнө"
+          }
+        },
+        {
+          "name": {
+            "en": "Tushiyetu Khan Aimag (historical region)",
+            "mn": "Түшээт хан аймаг (түүхэн засаг захиргааны нэгж)"
+          },
+          "period": {
+            "en": "Qing Dynasty",
+            "mn": "Манж Чин улсын үе"
+          }
+        }
+      ],
+      "symbols": [
+        {
+          "en": "The emblem features the 'Khaan Buguivch' (King's Bracelet) representing friendship and unity, topped with a three-tongued flame symbolizing the past, present, and future.",
+          "mn": "Аймгийн сүлдэнд найрамдал, эв нэгдлийг бэлгэдсэн 'Хаан бугуйвч' болон өнгөрсөн, одоо, ирээдүйг илтгэх гурван ацагт галын дөлийг дүрсэлжээ."
+        },
+        {
+          "en": "The red deer was officially designated as the symbol animal and mascot of Darkhan in 2022.",
+          "mn": "Халиун бугыг 2022 онд Дархан хотын бэлгэдэл амьтан, баатар дүрээр албан ёсоор тодруулсан байна."
+        },
+        {
+          "en": "It is widely known by the nickname 'City of Friendship' due to its international socialist origins.",
+          "mn": "Олон улсын социалист орнуудын тусламжтайгаар боссон түүхтэй тул 'Найрамдлын хот' хэмээх алдартай хочтой."
+        }
+      ],
+      "facts": [
+        {
+          "en": "The foundation of Darkhan city was laid on October 17, 1961, in the Burkhant Valley with extensive aid from Comecon countries.",
+          "mn": "Дархан хотын анхны суурийн чулууг 1961 оны 10 дугаар сарын 17-нд Эдийн засгийн харилцан туслалцах зөвлөлийн гишүүн орнуудын тусламжтайгаар Бурхантын хөндийд тавьжээ."
+        },
+        {
+          "en": "The Darkhan Metallurgical Plant, built with Japanese assistance, is one of the country's largest steel manufacturing facilities.",
+          "mn": "Япон улсын тусламжтайгаар баригдсан Дарханы төмөрлөгийн үйлдвэр нь Монголын гангийн үйлдвэрлэлийн хамгийн том голомт юм."
+        },
+        {
+          "en": "Darkhan-Uul is Mongolia's second-largest educational center, hosting branches of major national universities and specialized research institutes.",
+          "mn": "Дархан-Уул аймаг нь улсын хэмжээнд боловсролын хоёр дахь том төв бөгөөд томоохон их сургуулиудын салбар болон эрдэм шинжилгээний хүрээлэнгүүд энд үйл ажиллагаа явуулдаг."
+        },
+        {
+          "en": "The aimag is highly urbanized, with over 76 percent of its total population residing in the aimag center, Darkhan city.",
+          "mn": "Тус аймаг нь хотжилтын түвшин маш өндөр бөгөөд нийт хүн амынх нь 76 гаруй хувь нь аймгийн төв болох Дархан хотод амьдардаг."
+        },
+        {
+          "en": "The territory is situated in the fertile basins of the Kharaa and Orkhon rivers, making it a major agricultural and crop farming zone.",
+          "mn": "Хараа, Орхон голын үржил шимт сав газарт оршдог тул газар тариалан, үр тарианы үйлдвэрлэл өндөр хөгжсөн бүс нутаг юм."
+        },
+        {
+          "en": "Major cultural landmarks include the massive Morin Khuur (horse-head fiddle) monument complex and a giant Buddha statue overlooking the city.",
+          "mn": "Соёлын гол дурсгалт газруудад хотыг тольдон харах аварга том Бурхан багшийн хөшөө болон Морин хуурын цогцолбор хөшөө ордог."
+        }
+      ],
+      "flag": "https://commons.wikimedia.org/wiki/Special:FilePath/Mn_flag_darkhan_uul_aymag.svg?width=160"
+    },
+    "bayan-olgii": {
+      "summary": {
+        "en": "Mongolia's westernmost and highest province, famous for its majestic Altai mountains and Kazakh eagle hunting traditions.",
+        "mn": "Сүрлэг Алтайн нуруу, хасаг түмний бүргэдээр ан хийх уламжлалаараа алдартай Монгол улсын хамгийн баруун хязгаарын өндөрлөг аймаг."
+      },
+      "stats": [
+        {
+          "label": {
+            "en": "Aimag centre",
+            "mn": "Аймгийн төв"
+          },
+          "value": {
+            "en": "Ölgii",
+            "mn": "Өлгий"
+          }
+        },
+        {
+          "label": {
+            "en": "Year founded",
+            "mn": "Байгуулагдсан он"
+          },
+          "value": {
+            "en": "1940",
+            "mn": "1940"
+          }
+        },
+        {
+          "label": {
+            "en": "Area",
+            "mn": "Газар нутгийн хэмжээ"
+          },
+          "value": {
+            "en": "45,705 km²",
+            "mn": "45,705 км²"
+          }
+        },
+        {
+          "label": {
+            "en": "Population",
+            "mn": "Хүн ам"
+          },
+          "value": {
+            "en": "110,799 (2024 estimate)",
+            "mn": "110,799 (2024 оны тооцоо)"
+          }
+        },
+        {
+          "label": {
+            "en": "Number of sums",
+            "mn": "Сумын тоо"
+          },
+          "value": {
+            "en": "13",
+            "mn": "13"
+          }
+        },
+        {
+          "label": {
+            "en": "Distance from Ulaanbaatar",
+            "mn": "Улаанбаатараас алслагдах зай"
+          },
+          "value": {
+            "en": "1,636 km",
+            "mn": "1,636 км"
+          }
+        }
+      ],
+      "formerNames": [],
+      "symbols": [
+        {
+          "en": "The emblem features a golden eagle with spread wings, representing courage and freedom.",
+          "mn": "Аймгийн сүлдэнд эрэлхэг зориг, эрх чөлөөг бэлгэдсэн жигүүртний хаан бүргэдийг дүрсэлсэн байдаг."
+        },
+        {
+          "en": "It displays a Kazakh yurt's roof ring (toono) topped with the golden Soyombo, symbolizing its status as a Mongolian territory.",
+          "mn": "Бүргэдийн хоёр жигүүрийн дунд хасаг түмний өргөө гэрийн тооно, түүний дээр Монгол Улсын засаг захиргааны нэгж гэдгийг илтгэх алтан Соёмбыг байрлуулжээ."
+        },
+        {
+          "en": "The toono is surrounded by the horns of an ibex, symbolizing strength, stability, and eternity.",
+          "mn": "Гэрийн тоононы хүрээг бат бөх, үүрд мөнх байхыг бэлгэдэн янгирын хос эврээр хүрээлүүлсэн байна."
+        },
+        {
+          "en": "Altai Tavan Bogd is the state-worshipped sacred mountain of the province.",
+          "mn": "Төрийн тахилгат Алтай Таван Богд уул нь тус аймгийн гол шүтээн уул юм."
+        },
+        {
+          "en": "It is widely nicknamed the 'Roof of Mongolia' due to its extreme high altitude.",
+          "mn": "Газар нутгийн ихэнх хэсэг нь өндөр уулс тул тус аймгийг 'Монголын дээвэр' хэмээн нэрлэдэг."
+        }
+      ],
+      "facts": [
+        {
+          "en": "Bayan-Ölgii was established in 1940 as a national province for the Kazakh minority of Mongolia.",
+          "mn": "Баян-Өлгий аймаг нь Монгол дахь казахуудын үндэсний өөртөө засах засаг захиргааны нэгж болж 1940 онд байгуулагдсан түүхтэй."
+        },
+        {
+          "en": "It is the only Muslim-majority province in Mongolia, with ethnic Kazakhs making up over 90% of the population.",
+          "mn": "Тус аймаг нь Монгол Улсын цорын ганц лалын шашинт, хасаг үндэстэн давамгайлсан аймаг бөгөөд хүн амын 90 гаруй хувийг казахууд эзэлдэг."
+        },
+        {
+          "en": "The province is home to Khüiten Peak, the highest point in Mongolia at 4,374 meters above sea level.",
+          "mn": "Монгол орны хамгийн өндөр цэг болох далайн түвшнээс дээш 4374 метр өндөрт орших Хүйтний оргил тус аймгийн нутагт сүндэрлэдэг."
+        },
+        {
+          "en": "The massive Potanin Glacier, the longest glacier in Mongolia, stretches across the Altai Tavan Bogd massif.",
+          "mn": "Монголын хамгийн том, урт мөсөн гол болох Потанины мөсөн гол Алтай Таван Богдын нуруунд оршдог."
+        },
+        {
+          "en": "The ancient Kazakh tradition of training golden eagles for hunting is preserved here and celebrated at the annual Golden Eagle Festival.",
+          "mn": "Казахуудын цармын бүргэдийг гаршуулан ан ав хийх эртний уламжлал энд хадгалагдан үлдсэн бөгөөд жил бүр 'Бүргэдийн баяр'-ыг зохион байгуулдаг."
+        },
+        {
+          "en": "The Petroglyphic Complexes of the Mongolian Altai, featuring thousands of ancient rock carvings, are inscribed as a UNESCO World Heritage Site.",
+          "mn": "Хэдэн мянган жилийн түүхтэй хадны сүг зураг бүхий 'Монгол Алтайн нурууны хадны зураг'-ийн цогцолбор нь ЮНЕСКО-гийн Дэлхийн өвд бүртгэгдсэн байдаг."
+        },
+        {
+          "en": "The province also hosts minority communities of Uriankhai, Tuva, and Dörvöd peoples, who preserve unique cultural heritages like the Uriankhai archery.",
+          "mn": "Тус аймаг урианхай, тува, дөрвөд зэрэг цөөнх угсаатны бүлгүүд амьдардаг бөгөөд тэд урианхай сурын харваа зэрэг өвөрмөц соёлоо хадгалан үлджээ."
+        }
+      ],
+      "flag": "https://commons.wikimedia.org/wiki/Special:FilePath/Mn_flag_bayan_olgiy_aymag.svg?width=160"
+    }
+  }
+}

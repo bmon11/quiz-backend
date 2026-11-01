@@ -79,14 +79,31 @@ export type MapItem = { id: string; title: L; value?: number; subtitle?: L; fact
 export type MapPayload = { map: MapName; unit?: L; items: MapItem[] };
 
 /**
+ * Everything worth knowing about one aimag / country, shown when its region is
+ * tapped on any map (npm run place-facts → src/seed/data/place-facts.json,
+ * served by GET /places/:map/:id).
+ */
+export type PlaceProfile = {
+  summary: L; // one line: "Easternmost aimag, steppe and the Khalkh river"
+  stats: Stat[]; // centre, founded, area, population, sums / capital, language…
+  formerNames: { name: L; period: L }[]; // old names of the place or its centre
+  symbols: L[]; // emblem, symbol animal, national flower…
+  facts: L[];
+  flag?: string; // picture URL
+};
+
+/**
  * Places a question is about. `context` (from the prompt) may show before
  * answering; `answer` (from the right answer / explanation) is only revealed
  * with the result. `locate` = "which region is highlighted?" questions.
  */
 export type QuestionMap = { name: MapName; context: string[]; answer: string[]; locate?: boolean };
 
-/** A Wikimedia Commons picture: `src` for the card, `full` for zooming, `file` credits it. */
-export type Photo = { src: string; full: string; width: number; height: number; file: string };
+/**
+ * A Wikipedia picture: `src` for the card, `full` for zooming, `file` credits it.
+ * `nonFree` = the article's fair-use image (still-copyrighted art), not a Commons file.
+ */
+export type Photo = { src: string; full: string; width: number; height: number; file: string; nonFree?: boolean };
 
 export type Stat = { label: L; value: L };
 

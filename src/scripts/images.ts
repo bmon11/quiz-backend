@@ -10,17 +10,21 @@ import type { Expansion, Photo, SeedLesson, Visual } from '../seed/types';
 
 // Real pictures for card lessons (paintings, sculptures, people, places…).
 // Gemini names the English Wikipedia article of each card, then the article's
-// lead image is taken from Wikipedia — free licences only (pilicense=free), so
-// every picture is a Wikimedia Commons file the card can credit. Writes the
+// lead image is taken from Wikipedia — a free-licence (Commons) picture when
+// there is one, otherwise the article's own fair-use image (still-copyrighted
+// art: Dalí, Picasso…), marked `nonFree` so the app labels it. `--free-only`
+// skips fair use. Writes the
 // photos into src/seed/data/expansions.json; review, then `npm run seed`.
 //
 //   npm run images                                   # every card lesson
 //   npm run images -- --lesson pubquiz.world-famous-paintings --force
+//   npm run images -- --free-only
 
 const { values: args } = parseArgs({
   options: {
     lesson: { type: 'string' },
     force: { type: 'boolean', default: false },
+    'free-only': { type: 'boolean', default: false },
     model: { type: 'string' },
     concurrency: { type: 'string', default: '4' },
   },
@@ -61,7 +65,7 @@ const UA = 'TriviaWiki/1.0 (content build script; https://github.com/bmon11/quiz
 const clean = (url: string) => url.split('?')[0].replace('//thumb.wikimedia.org/', '//upload.wikimedia.org/');
 
 /** Lead images of up to 50 articles per request, keyed by the title asked for. */
-async function leadImages(titles: string[]): Promise<Map<string, Photo>> {
+async function leadImages(titles: string[], license: 'free' | 'any' = 'free'): Promise<Map<string, Photo>> {
   const out = new Map<string, Photo>();
   for (let i = 0; i < titles.length; i += 50) {
     const chunk = titles.slice(i, i + 50);
@@ -72,10 +76,10 @@ async function leadImages(titles: string[]): Promise<Map<string, Photo>> {
       formatversion: '2',
       redirects: '1',
       prop: 'pageimages|pageprops',
-      ppprop: 'disambiguation',
+      ppprop: 'disambiguation|page_image_free',
       piprop: 'thumbnail|name|original',
       pithumbsize: '1920',
-      pilicense: 'free',
+      pilicense: license,
       titles: chunk.join('|'),
     }).forEach(([k, v]) => url.searchParams.set(k, v));
     const res = await fetch(url, { headers: { 'User-Agent': UA } });
@@ -84,7 +88,7 @@ async function leadImages(titles: string[]): Promise<Map<string, Photo>> {
       query?: {
         normalized?: { from: string; to: string }[];
         redirects?: { from: string; to: string }[];
-        pages: { title: string; pageprops?: { disambiguation?: string }; pageimage?: string; thumbnail?: { source: string; width: number; height: number }; original?: { source: string } }[];
+        pages: { title: string; pageprops?: { disambiguation?: string; page_image_free?: string }; pageimage?: string; thumbnail?: { source: string; width: number; height: number }; original?: { source: string } }[];
       };
     };
     if (!query) continue;
@@ -98,7 +102,15 @@ async function leadImages(titles: string[]): Promise<Map<string, Photo>> {
       const full = clean(page.thumbnail.source);
       // Wikimedia serves fixed thumbnail widths; 500px is plenty for a card.
       const src = full.includes('/1920px-') && page.thumbnail.width > 500 ? full.replace('/1920px-', '/500px-') : full;
-      out.set(asked, { src, full, width: page.thumbnail.width, height: page.thumbnail.height, file: page.pageimage });
+      const nonFree = license === 'any' && page.pageprops?.page_image_free !== page.pageimage;
+      out.set(asked, {
+        src,
+        full,
+        width: page.thumbnail.width,
+        height: page.thumbnail.height,
+        file: page.pageimage,
+        ...(nonFree && { nonFree: true }),
+      });
     }
   }
   return out;
@@ -183,6 +195,11 @@ async function illustrate(lesson: SeedLesson): Promise<Card[] | null> {
       photos.set(found, photo);
     }
   }
+  // Still nothing free: the article's own (fair-use) picture.
+  if (!args['free-only']) {
+    const left = [...new Set(todo.map(({ i }) => wikiOf(i)).filter((w) => w && !photos.has(w)))];
+    for (const [title, photo] of await leadImages(left, 'any')) photos.set(title, photo);
+  }
   const resolved = todo.filter(({ i }) => wikiOf(i) && photos.has(wikiOf(i)));
   const verdicts: boolean[] = [];
   for (let k = 0; k < resolved.length; k += 60) {
@@ -200,7 +217,8 @@ async function illustrate(lesson: SeedLesson): Promise<Card[] | null> {
     const { photo: _old, ...rest } = c;
     return photo ? { ...rest, wiki, photo } : { ...rest, wiki };
   });
-  console.log(`  ✓ ${lesson.key}: ${found}/${todo.length} photos`);
+  const fair = next.filter((c, i) => todo.some((x) => x.i === i) && c.photo?.nonFree).length;
+  console.log(`  ✓ ${lesson.key}: ${found}/${todo.length} photos${fair ? ` (${fair} fair use)` : ''}`);
   return next;
 }
 
