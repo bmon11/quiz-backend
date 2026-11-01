@@ -121,7 +121,8 @@ const aimagLesson = (lessons: SeedLesson[]): GeneratedFile => {
   const questions = real.map((p) => {
     const area = areas.get(p.id)?.value;
     const difficulty = area === undefined ? 2 : area > 100_000 ? 1 : area < 10_000 ? 3 : 2;
-    const fact = cards.get(p.id)?.facts?.[0];
+    // A fact that isn't the area again.
+    const fact = cards.get(p.id)?.facts?.find((f) => !/km|км/.test(f.en + f.mn));
     return locate(
       AIMAG_MAP,
       'mongolia',
