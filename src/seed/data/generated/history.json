@@ -1,0 +1,995 @@
+{
+  "lessons": [
+    {
+      "topicSlug": "history",
+      "key": "history.ancient-civilizations",
+      "order": 4,
+      "title": {
+        "en": "Secrets of Ancient Civilizations",
+        "mn": "Эртний соёл иргэншлийн нууцууд"
+      },
+      "summary": {
+        "en": "Explore the surprising engineering, daily life, and mysteries of the world's oldest societies.",
+        "mn": "Дэлхийн хамгийн эртний нийгэмлэгүүдийн гайхалтай инженерчлэл, өдөр тутмын амьдрал, нууцуудыг судлах нь."
+      },
+      "body": {
+        "en": "Ancient civilizations were far more advanced than many realize. From the complex urban planning of the Indus Valley to the mathematical precision of the Egyptian pyramids, these societies laid the foundations of modern science, law, and architecture. They also left behind mysteries that continue to puzzle historians today.",
+        "mn": "Эртний соёл иргэншил бидний төсөөлж байгаагаас хамаагүй илүү хөгжингүй байжээ. Инд мөрний хөндийн хот төлөвлөлтөөс эхлээд Египетийн пирамидуудын математик нарийвчлал хүртэлх ололтууд нь орчин үеийн шинжлэх ухаан, хууль эрх зүй, архитектурын суурийг тавьсан юм."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "📐",
+            "title": {
+              "en": "Great Pyramid of Giza",
+              "mn": "Гизагийн агуу пирамид"
+            },
+            "facts": [
+              {
+                "en": "Built for Pharaoh Khufu over a 20-year period.",
+                "mn": "Фараон Хеопст зориулан 20 гаруй жилийн турш барьсан."
+              },
+              {
+                "en": "It was the tallest man-made structure for over 3,800 years.",
+                "mn": "3800 гаруй жилийн турш хүний гараар бүтээгдсэн хамгийн өндөр барилга байв."
+              }
+            ],
+            "subtitle": {
+              "en": "Egypt",
+              "mn": "Египет"
+            }
+          },
+          {
+            "icon": "🏛️",
+            "title": {
+              "en": "The Parthenon",
+              "mn": "Парфенон"
+            },
+            "facts": [
+              {
+                "en": "Dedicated to the goddess Athena, patron of Athens.",
+                "mn": "Афиныг хамгаалагч Афина дагинад зориулан босгосон."
+              },
+              {
+                "en": "Built using optical illusions to make columns look perfectly straight.",
+                "mn": "Багануудыг төгс шулуун харагдуулахын тулд оптик хууралтыг ашигласан."
+              }
+            ],
+            "subtitle": {
+              "en": "Greece",
+              "mn": "Грек"
+            }
+          },
+          {
+            "icon": "🧱",
+            "title": {
+              "en": "Mohenjo-daro",
+              "mn": "Мохенжо-Даро"
+            },
+            "facts": [
+              {
+                "en": "One of the earliest major urban settlements in human history.",
+                "mn": "Хүн төрөлхтний түүхэн дэх хамгийн анхны томоохон хотуудын нэг."
+              },
+              {
+                "en": "Renowned for its grid-planned streets and advanced drainage.",
+                "mn": "Төлөвлөлттэй гудамж, бохирын системээрээ алдартай."
+              }
+            ],
+            "subtitle": {
+              "en": "Indus Valley",
+              "mn": "Инд мөрний хөндий"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "The Code of Hammurabi is one of the oldest deciphered writings of significant length in the world.",
+          "mn": "Хаммурапийн хууль бол дэлхийн хамгийн эртний тайлж уншсан, томоохон хэмжээний бичвэрүүдийн нэг юм."
+        },
+        {
+          "en": "The Indus Valley Civilization had highly advanced sanitation systems, including indoor toilets.",
+          "mn": "Инд мөрний хөндийн соёл иргэншил нь доторх жорлон зэрэг маш өндөр хөгжсөн ариун цэврийн байгууламжтай байв."
+        }
+      ]
+    },
+    {
+      "topicSlug": "history",
+      "key": "history.the-french-revolution",
+      "order": 5,
+      "title": {
+        "en": "The French Revolution",
+        "mn": "Францын их хувьсгал"
+      },
+      "summary": {
+        "en": "Trace the dramatic events that overthrew the French monarchy and reshaped global politics.",
+        "mn": "Францын хаант засаглалыг түлхэн унагаж, дэлхийн улс төрийг өөрчилсөн түүхэн үйл явдлууд."
+      },
+      "body": {
+        "en": "The French Revolution was a watershed event in modern European history. Starting in 1789, it witnessed the collapse of absolute monarchy, the rise of radical social movements, and the execution of King Louis XVI. This turbulent decade introduced enduring democratic concepts but also led to the infamous Reign of Terror.",
+        "mn": "Францын их хувьсгал бол Европын орчин үеийн түүхэн дэх эргэлтийн цэг байв. 1789 онд эхэлсэн энэхүү хувьсгалаар хэмжээгүй эрхт хаант засаг нуран унаж, Людовик XVI хааныг цаазалж, ардчилсан үзэл санааны суурь тавигдсан ч аймшигт цуст дарангуйллыг дагуулсан юм."
+      },
+      "visual": {
+        "kind": "timeline",
+        "items": [
+          {
+            "when": {
+              "en": "May 1789",
+              "mn": "1789 оны 5-р сар"
+            },
+            "title": {
+              "en": "Estates-General Convenes",
+              "mn": "Ерөнхий Төлөөлөгчдийн Хурал цуглав"
+            },
+            "body": {
+              "en": "King Louis XVI summons the three estates to solve France's severe financial crisis.",
+              "mn": "Францын санхүүгийн хүнд хямралыг шийдвэрлэхийн тулд Людовик XVI хаан гурван ангийн төлөөлөгчдийг дуудав."
+            }
+          },
+          {
+            "when": {
+              "en": "July 14, 1789",
+              "mn": "1789 оны 7-р сарын 14"
+            },
+            "title": {
+              "en": "Storming of the Bastille",
+              "mn": "Бастилийн цайзыг дайрсан нь"
+            },
+            "body": {
+              "en": "An angry mob storms the medieval fortress and prison, signaling the start of the armed revolution.",
+              "mn": "Уурссан олон түмэн дундад зууны үеийн цайз, шоронг дайран орсон нь зэвсэгт хувьсгал эхэлснийг зарлав."
+            }
+          },
+          {
+            "when": {
+              "en": "August 1789",
+              "mn": "1789 оны 8-р сар"
+            },
+            "title": {
+              "en": "Declaration of Rights",
+              "mn": "Эрхийн тунхаглал"
+            },
+            "body": {
+              "en": "The National Assembly adopts the Declaration of the Rights of Man and of the Citizen.",
+              "mn": "Үндэсний Хуралдаанаас Хүн ба Иргэний Эрхийн Тунхаглалыг батлав."
+            }
+          },
+          {
+            "when": {
+              "en": "January 1793",
+              "mn": "1793 оны 1-р сар"
+            },
+            "title": {
+              "en": "Execution of the King",
+              "mn": "Хааныг цаазалсан нь"
+            },
+            "body": {
+              "en": "King Louis XVI is convicted of high treason and executed by guillotine.",
+              "mn": "Людовик XVI хааныг эх орноосоо урвасан хэрэгт буруутган гильотиноор цаазаар авав."
+            }
+          },
+          {
+            "when": {
+              "en": "1793–1794",
+              "mn": "1793–1794 он"
+            },
+            "title": {
+              "en": "The Reign of Terror",
+              "mn": "Террорын үе"
+            },
+            "body": {
+              "en": "Led by Robespierre, the revolutionary government executes tens of thousands of suspected enemies.",
+              "mn": "Робеспьероор удирдуулсан хувьсгалт засгийн газар эсэргүү гэж сэжиглэгдсэн олон мянган хүнийг цаазлав."
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "The guillotine was originally introduced as a more humane and egalitarian method of execution.",
+          "mn": "Гильотиныг анх цаазаар авах илүү хүмүүнлэг, тэгш эрхтэй арга болгон нэвтрүүлж байжээ."
+        },
+        {
+          "en": "During the revolution, France briefly adopted a new calendar with 10-day weeks.",
+          "mn": "Хувьсгалын үеэр Франц улс түр хугацаанд 10 хоногтой долоо хоног бүхий шинэ цагалбар ашиглаж байв."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "topicSlug": "history",
+      "lessonKey": "history.the-french-revolution",
+      "key": "history.the-french-revolution.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In 1789, the French Revolution officially began with the storming of which medieval fortress and political prison in Paris?",
+        "mn": "1789 онд Францын хувьсгал Парисын аль дундад зууны үеийн цайз, улс төрийн шоронг дайрч орсноор албан ёсоор эхэлсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "The Bastille",
+          "mn": "Бастилийн цайз"
+        },
+        {
+          "en": "The Tuileries",
+          "mn": "Тюильри"
+        },
+        {
+          "en": "Versailles",
+          "mn": "Версаль"
+        },
+        {
+          "en": "The Louvre",
+          "mn": "Лувр"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Storming of the Bastille occurred on July 14, 1789. This event is celebrated today as France's National Day (Bastille Day).",
+        "mn": "Бастилийн цайзыг 1789 оны 7-р сарын 14-нд дайран авчээ. Өнөөдөр энэ өдрийг Францын үндэсний баяр болгон тэмдэглэдэг."
+      }
+    },
+    {
+      "topicSlug": "history",
+      "lessonKey": "history.the-french-revolution",
+      "key": "history.the-french-revolution.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which French King was executed by guillotine in January 1793 during the Revolution?",
+        "mn": "Францын хувьсгалын үеэр буюу 1793 оны 1-р сард аль хааныг гильотиноор цаазалсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Louis XIV",
+          "mn": "Людовик XIV"
+        },
+        {
+          "en": "Louis XV",
+          "mn": "Людовик XV"
+        },
+        {
+          "en": "Louis XVI",
+          "mn": "Людовик XVI"
+        },
+        {
+          "en": "Louis XVIII",
+          "mn": "Людовик XVIII"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "King Louis XVI was convicted of high treason by the National Convention and executed. His wife, Marie Antoinette, met the same fate nine months later.",
+        "mn": "Людовик XVI хааныг Үндэсний Конвентоос эх орноосоо урвасан хэрэгт буруутган цаазалжээ. Түүний эхнэр Мария-Антуанетта есөн сарын дараа мөн адил хувь тавилантай тулгарсан юм."
+      }
+    },
+    {
+      "topicSlug": "history",
+      "lessonKey": "history.the-french-revolution",
+      "key": "history.the-french-revolution.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Who was the influential radical Jacobin leader who presided over the infamous Reign of Terror before being executed himself?",
+        "mn": "Террорын үеийг удирдаж, улмаар өөрөө цаазаар авахуулсан Якобинчуудын нөлөө бүхий радикал удирдагч хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Napoleon Bonaparte",
+          "mn": "Наполеон Бонапарт"
+        },
+        {
+          "en": "Georges Danton",
+          "mn": "Жорж Дантон"
+        },
+        {
+          "en": "Jean-Paul Marat",
+          "mn": "Жан-Поль Марат"
+        },
+        {
+          "en": "Maximilien Robespierre",
+          "mn": "Максимилиан Робеспьер"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Robespierre led the Committee of Public Safety during the Reign of Terror. His arrest and execution in July 1794 ended the bloodiest phase of the revolution.",
+        "mn": "Робеспьер Террорын үед Нийгмийг аврах хороог удирдаж байв. 1794 оны 7-р сард түүнийг баривчилж цаазалснаар хувьсгалын хамгийн цуст үе дуусчээ."
+      }
+    },
+    {
+      "topicSlug": "history",
+      "lessonKey": "history.the-french-revolution",
+      "key": "history.the-french-revolution.g4",
+      "difficulty": 3,
+      "prompt": {
+        "en": "To establish a rational society, the French Revolution briefly introduced a new calendar. How many days did a single week have in this revolutionary calendar?",
+        "mn": "Францын хувьсгалаар нийгмийг шинэчлэх зорилгоор шинэ хуанли нэвтрүүлж байв. Энэхүү хувьсгалт хуанлиар нэг долоо хоног хэдэн хоногтой байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "8 days",
+          "mn": "8 хоног"
+        },
+        {
+          "en": "12 days",
+          "mn": "12 хоног"
+        },
+        {
+          "en": "10 days",
+          "mn": "10 хоног"
+        },
+        {
+          "en": "5 days",
+          "mn": "5 хоног"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The French Republican Calendar featured 10-day weeks called 'decades'. It aimed to de-Christianize France and remove Sunday as a day of rest.",
+        "mn": "Францын Бүгд Найрамдах Улсын хуанли нь 'декад' гэгдэх 10 хоногтой долоо хоногтой байв. Энэ нь Францыг шашны нөлөөнөөс ангижруулж, бүтэн сайн өдрийн амралтыг үгүй хийх зорилготой байжээ."
+      }
+    },
+    {
+      "topicSlug": "history",
+      "lessonKey": "history.the-french-revolution",
+      "key": "history.the-french-revolution.g5",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What was the official slogan of the French Revolution, which remains the national motto of France today?",
+        "mn": "Францын хувьсгалын албан ёсны уриа бөгөөд өнөөдөр ч Франц улсын үндэсний уриа хэвээр байгаа үгс аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Unity, Strength, Freedom",
+          "mn": "Эв нэгдэл, Хүч чадал, Эрх чөлөө"
+        },
+        {
+          "en": "Peace, Bread, Land",
+          "mn": "Энх тайван, Талх, Газар шороо"
+        },
+        {
+          "en": "Order, Progress, Justice",
+          "mn": "Дэг журам, Хөгжил дэвшил, Шударга ёс"
+        },
+        {
+          "en": "Liberty, Equality, Fraternity",
+          "mn": "Эрх чөлөө, Тэгш эрх, Ах дүүгийн барилдлага"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The famous phrase 'Liberté, égalité, fraternité' was first coined during the revolution. It is now written on French public buildings and coins.",
+        "mn": "'Liberté, égalité, fraternité' буюу 'Эрх чөлөө, Тэгш эрх, Ах дүүгийн барилдлага' хэмээх алдартай уриа хувьсгалын үеэр анх үүсжээ. Одоо энэ нь Францын төрийн байгууллагын барилга, зоосон дээр бичигдсэн байдаг."
+      }
+    },
+    {
+      "topicSlug": "history",
+      "lessonKey": "history.the-french-revolution",
+      "key": "history.the-french-revolution.g6",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which famous device became the primary and infamous instrument of execution during the Reign of Terror?",
+        "mn": "Террорын үеэр цаазаар авах гол зэвсэг болсон алдартай төхөөрөмж аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "The Guillotine",
+          "mn": "Гильотин"
+        },
+        {
+          "en": "The Gallows",
+          "mn": "Дүүжлүүр"
+        },
+        {
+          "en": "The Iron Maiden",
+          "mn": "Төмөр авс"
+        },
+        {
+          "en": "The Firing Squad",
+          "mn": "Буудан хороох"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The guillotine was introduced by Dr. Joseph-Ignace Guillotin. Ironically, it was proposed as a more humane and egalitarian method of execution.",
+        "mn": "Гильотиныг доктор Жозеф-Игнас Гильотин санаачилжээ. Хачирхалтай нь, үүнийг илүү хүмүүнлэг, тэгш эрхтэй цаазын арга хэмээн санал болгож байв."
+      }
+    },
+    {
+      "topicSlug": "history",
+      "lessonKey": "history.the-french-revolution",
+      "key": "history.the-french-revolution.g7",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Marie Antoinette, the Queen of France during the revolution, was originally a princess from which European empire?",
+        "mn": "Хувьсгалын үеийн Францын хатан хаан Мария-Антуанетта уг нь Европын аль эзэнт гүрний гүнж байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Austrian Empire (Habsburg)",
+          "mn": "Австрийн эзэнт гүрэн (Хабсбург)"
+        },
+        {
+          "en": "Russian Empire (Romanov)",
+          "mn": "Оросын эзэнт гүрэн (Романов)"
+        },
+        {
+          "en": "British Empire",
+          "mn": "Британийн эзэнт гүрэн"
+        },
+        {
+          "en": "Spanish Kingdom",
+          "mn": "Испанийн хаант улс"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Marie Antoinette was born an Archduchess of Austria and was the daughter of Empress Maria Theresa. Her foreign origin made her highly unpopular in France.",
+        "mn": "Мария-Антуанетта Австрийн гүнж болон мэндэлсэн бөгөөд эзэн хаан Мария Терезагийн охин байв. Гадаад гарал үүсэл нь түүнийг Францад нэр хүндгүй болгох гол шалтгаан болжээ."
+      }
+    },
+    {
+      "topicSlug": "history",
+      "lessonKey": "history.the-french-revolution",
+      "key": "history.the-french-revolution.g8",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of the following was NOT one of the 'Three Estates' in the Estates-General of pre-revolutionary France?",
+        "mn": "Хувьсгалын өмнөх Францын Ерөнхий Төлөөлөгчдийн Хуралд багтдаг байсан 'Гурван анги'-д дараахын аль нь хамаардаггүй байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "The Military Officers",
+          "mn": "Цэргийн офицерууд"
+        },
+        {
+          "en": "The Nobility",
+          "mn": "Язгууртнууд"
+        },
+        {
+          "en": "The Clergy",
+          "mn": "Шашны зүтгэлтнүүд"
+        },
+        {
+          "en": "The Commoners",
+          "mn": "Энгийн ард иргэд"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Three Estates were the Clergy (First), Nobility (Second), and Commoners/Bourgeoisie (Third). Military officers did not form a separate estate.",
+        "mn": "Гурван ангид Шашны зүтгэлтнүүд (Нэгдүгээр), Язгууртнууд (Хоёрдугаар), Энгийн ард иргэд (Гурравдугаар) багтдаг байв. Цэргийн офицерууд тусдаа анги бүрдүүлдэггүй байжээ."
+      }
+    },
+    {
+      "topicSlug": "history",
+      "lessonKey": "history.the-french-revolution",
+      "key": "history.the-french-revolution.g9",
+      "difficulty": 3,
+      "prompt": {
+        "en": "What historic document, adopted in August 1789, defined the individual and collective rights of all the estates of France as universal?",
+        "mn": "1789 оны 8-р сард батлагдсан, Францын бүх анги давхаргын хувь хүний болон хамтын эрхийг түгээмэл хэмээн тунхагласан түүхэн баримт бичиг аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Declaration of the Rights of Man and of the Citizen",
+          "mn": "Хүн ба Иргэний Эрхийн Тунхаглал"
+        },
+        {
+          "en": "The Magna Carta",
+          "mn": "Магна Карта"
+        },
+        {
+          "en": "The Treaty of Versailles",
+          "mn": "Версалийн гэрээ"
+        },
+        {
+          "en": "The Code Napoleon",
+          "mn": "Наполеоны хууль"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Declaration was drafted by the Marquis de Lafayette, with help from his close friend Thomas Jefferson. It was inspired by Enlightenment philosophy.",
+        "mn": "Энэхүү тунхаглалын төслийг Маркиз де Лафайет өөрийн дотны найз Томас Жефферсоны тусламжтайгаар боловсруулсан бөгөөд Гэгээрлийн үеийн философиос сэдэвлэжээ."
+      }
+    },
+    {
+      "topicSlug": "history",
+      "lessonKey": "history.the-french-revolution",
+      "key": "history.the-french-revolution.g10",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The famous tennis court oath (Serment du Jeu de Paume) was sworn by members of which estate after being locked out of the Estates-General?",
+        "mn": "Алдарт теннисний талбайн тангаргийг (Serment du Jeu de Paume) Ерөнхий Төлөөлөгчдийн Хурлаас хөөгдсөн аль ангийн төлөөлөгчид өргөсөн бэ?"
+      },
+      "choices": [
+        {
+          "en": "The Second Estate",
+          "mn": "Хоёрдугаар анги (Язгууртнууд)"
+        },
+        {
+          "en": "The Third Estate",
+          "mn": "Гурравдугаар анги (Ард иргэд)"
+        },
+        {
+          "en": "The Royal Family",
+          "mn": "Хааны гэр бүл"
+        },
+        {
+          "en": "The First Estate",
+          "mn": "Нэгдүгээр анги (Лам нар)"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Locked out of their meeting hall, the Third Estate met on a nearby indoor tennis court and swore not to disband until France had a constitution.",
+        "mn": "Хурлын танхимаасаа хөөгдсөн Гурравдугаар ангийнхан ойролцоох битүү теннисний талбайд цуглаж, Франц улс үндсэн хуультай болох хүртэл тарахгүй байхаар тангараглажээ."
+      }
+    },
+    {
+      "topicSlug": "history",
+      "lessonKey": "history.the-french-revolution",
+      "key": "history.the-french-revolution.g11",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which military general eventually seized power in 1799, effectively ending the French Revolution?",
+        "mn": "1799 онд төрийн эрхийг авч, Францын хувьсгалыг эцэс болгосон цэргийн жанжин хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Charles de Gaulle",
+          "mn": "Шарль де Голль"
+        },
+        {
+          "en": "Duke of Wellington",
+          "mn": "Веллингтоны гүн"
+        },
+        {
+          "en": "Marquis de Lafayette",
+          "mn": "Маркиз де Лафайет"
+        },
+        {
+          "en": "Napoleon Bonaparte",
+          "mn": "Наполеон Бонапарт"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Napoleon overthrew the French Directory in the Coup of 18 Brumaire, later crowning himself Emperor in 1804.",
+        "mn": "Наполеон Брюмерийн 18-ны төрийн эргэлтээр Францын Директорийг түлхэн унагаж, улмаар 1804 онд өөрийгөө эзэн хаанд өргөмжилжээ."
+      }
+    },
+    {
+      "topicSlug": "history",
+      "lessonKey": "history.the-french-revolution",
+      "key": "history.the-french-revolution.g12",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In October 1789, a large crowd of women marched from Paris to Versailles to protest the scarcity and high price of which food staple?",
+        "mn": "1789 оны 10-р сард Парисын олон мянган эмэгтэйчүүд ямар хүнсний бүтээгдэхүүний хомсдол, өндөр үнийг эсэргүүцэн Версаль руу жагссан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Meat",
+          "mn": "Мах"
+        },
+        {
+          "en": "Bread",
+          "mn": "Талх"
+        },
+        {
+          "en": "Cheese",
+          "mn": "Бяслаг"
+        },
+        {
+          "en": "Wine",
+          "mn": "Дарс"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Women's March on Versailles was triggered by the high price of bread. It successfully forced the royal family to return to Paris.",
+        "mn": "Версаль руу чиглэсэн Эмэгтэйчүүдийн жагсаал талхны үнэ нэмэгдсэнээс болж эхэлжээ. Энэ жагсаал хааны гэр бүлийг Парис руу буцан ирэхэд хүргэсэн юм."
+      }
+    },
+    {
+      "topicSlug": "history",
+      "lessonKey": "history.ancient-civilizations",
+      "key": "history.ancient-civilizations.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "The Great Pyramid of Giza was built as a monumental tomb for which Egyptian pharaoh?",
+        "mn": "Гизагийн агуу пирамидыг Египетийн аль фараонд зориулан бунхан болгон барьсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Akhenaten",
+          "mn": "Ахнатон"
+        },
+        {
+          "en": "Ramesses II",
+          "mn": "Рамзес II"
+        },
+        {
+          "en": "Tutankhamun",
+          "mn": "Тутанхамон"
+        },
+        {
+          "en": "Khufu",
+          "mn": "Хеопс"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Great Pyramid was built for Pharaoh Khufu (known in Greek as Cheops) during the Old Kingdom. It is the oldest of the Seven Wonders of the Ancient World and the only one still largely intact.",
+        "mn": "Агуу пирамидыг Хуучин хаант улсын үеийн фараон Хеопст (Хуфу) зориулан барьжээ. Энэ нь Эртний дэлхийн долоон гайхамшгаас өнөөг хүртэл бүрэн бүтэн үлдсэн цорын ганц байгууламж юм."
+      }
+    },
+    {
+      "topicSlug": "history",
+      "lessonKey": "history.ancient-civilizations",
+      "key": "history.ancient-civilizations.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The Parthenon in Athens was built using 'entasis', a subtle architectural technique. What does this technique involve?",
+        "mn": "Афины Парфеноныг барихад 'энтазис' хэмээх архитектурын нарийн техникийг ашигласан байдаг. Энэ нь ямар арга техник вэ?"
+      },
+      "choices": [
+        {
+          "en": "Slightly curving columns to look straight",
+          "mn": "Багануудыг шулуун харагдуулахын тулд бага зэрэг муруйлгах"
+        },
+        {
+          "en": "Using gold leaf to reflect sunlight",
+          "mn": "Нарны гэрлийг ойлгохын тулд алтан ялтас ашиглах"
+        },
+        {
+          "en": "Building underground water chambers",
+          "mn": "Газар доорх усны хамгаалалтын өрөө барих"
+        },
+        {
+          "en": "Mixing marble with volcanic ash",
+          "mn": "Гантигийг галт уулын үнстэй хольж бэхжүүлэх"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Entasis is an optical illusion where columns are made slightly wider in the middle. This counteracts the human eye's tendency to see perfectly straight columns as concave.",
+        "mn": "Энтазис нь баганын дунд хэсгийг үл ялиг бүдүүн болгож хийдэг оптик хууралт юм. Энэ нь хүний нүдэнд төгс шулуун багана голдоо нарийхан харагддаг үзэгдлийг засдаг байна."
+      }
+    },
+    {
+      "topicSlug": "history",
+      "lessonKey": "history.ancient-civilizations",
+      "key": "history.ancient-civilizations.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The ancient city of Mohenjo-daro, famous for its advanced grid planning and drainage, was part of which civilization?",
+        "mn": "Төлөвлөлттэй гудамж, бохирын дэвшилтэт системээрээ алдартай эртний Мохенжо-Даро хот аль соёл иргэншилд хамаарагддаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Mesopotamian",
+          "mn": "Месопотамийн"
+        },
+        {
+          "en": "Indus Valley",
+          "mn": "Инд мөрний хөндийн"
+        },
+        {
+          "en": "Minoan",
+          "mn": "Минойн"
+        },
+        {
+          "en": "Ancient Persian",
+          "mn": "Эртний Персийн"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Mohenjo-daro was one of the largest settlements of the Indus Valley Civilization, located in modern-day Pakistan. It featured advanced sanitation, including indoor toilets and public baths.",
+        "mn": "Мохенжо-Даро нь өнөөгийн Пакистаны нутагт орших Инд мөрний хөндийн соёл иргэншлийн хамгийн том хотуудын нэг байв. Энд доторх ариун цэврийн өрөө, нийтийн халуун усны газар зэрэг дэвшилтэт систем байжээ."
+      }
+    },
+    {
+      "topicSlug": "history",
+      "lessonKey": "history.ancient-civilizations",
+      "key": "history.ancient-civilizations.g4",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of these ancient legal codes is famous for the principle of 'an eye for an eye' and is one of the oldest deciphered writings of significant length?",
+        "mn": "Нүдийг нүдээр, шүдийг шүдээр гэх зарчмаараа алдартай, дэлхийн хамгийн эртний тайлагдсан хууль цаазын бичиг аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "The Justinian Code",
+          "mn": "Юстинианы хууль"
+        },
+        {
+          "en": "The Code of Hammurabi",
+          "mn": "Хаммурапийн хууль"
+        },
+        {
+          "en": "The Draco's Code",
+          "mn": "Драконы хууль"
+        },
+        {
+          "en": "The Twelve Tables",
+          "mn": "Арван хоёр хүснэгтийн хууль"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Code of Hammurabi was enacted by the Babylonian king Hammurabi around 1750 BCE. It was carved onto a massive basalt stele and contains 282 laws.",
+        "mn": "Хаммурапийн хуулийг МЭӨ 1750 оны орчимд Вавилоны хаан Хаммурапи гаргажээ. Үүнийг том хэмжээтэй базальт чулуун дээр сийлсэн байдаг бөгөөд 282 хуулиас бүрддэг."
+      }
+    },
+    {
+      "topicSlug": "history",
+      "lessonKey": "history.ancient-civilizations",
+      "key": "history.ancient-civilizations.g5",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which of the Seven Wonders of the Ancient World was built in Babylon and featured tiered gardens of trees and shrubs?",
+        "mn": "Эртний дэлхийн долоон гайхамшгийн аль нь Вавилон хотод баригдсан бөгөөд шаталсан цэцэрлэгт хүрээлэнгээрээ алдартай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Hanging Gardens",
+          "mn": "Дүүжин цэцэрлэг"
+        },
+        {
+          "en": "Colossus of Rhodes",
+          "mn": "Родосын аварга хөшөө"
+        },
+        {
+          "en": "Lighthouse of Alexandria",
+          "mn": "Александрын гэрэлт цамхаг"
+        },
+        {
+          "en": "Temple of Artemis",
+          "mn": "Артемидагийн сүм"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Hanging Gardens of Babylon are legendary tiered gardens said to have been built by King Nebuchadnezzar II for his homesick wife, Amytis.",
+        "mn": "Вавилоны дүүжин цэцэрлэгийг II Навуходоносор хаан өөрийн эх нутгаа санагалзсан хатан Амитист зориулан бариулсан гэж домогт өгүүлдэг."
+      }
+    },
+    {
+      "topicSlug": "history",
+      "lessonKey": "history.ancient-civilizations",
+      "key": "history.ancient-civilizations.g6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The Rosetta Stone, discovered in 1799, was key to deciphering which ancient writing system?",
+        "mn": "1799 онд олдсон Розетта чулуу нь эртний ямар бичиг үсгийг тайлж уншихад гол түлхүүр болсон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Linear B",
+          "mn": "Линиар Б бичиг"
+        },
+        {
+          "en": "Mayan glyphs",
+          "mn": "Маяагийн бичиг"
+        },
+        {
+          "en": "Sumerian cuneiform",
+          "mn": "Шумерийн шаантаг бичиг"
+        },
+        {
+          "en": "Egyptian hieroglyphs",
+          "mn": "Египетийн иероглиф"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Rosetta Stone features the same decree written in three scripts: Ancient Greek, Demotic, and Hieroglyphic. This allowed French scholar Jean-François Champollion to crack the Egyptian hieroglyphic code in 1822.",
+        "mn": "Розетта чулуун дээрх ижил утгатай зарлигийг Эртний Грек, Демотик болон Иероглиф гэсэн гурван бичгээр сийлсэн байжээ. Энэ нь 1822 онд Францын эрдэмтэн Жан-Франсуа Шампольонд Египетийн иероглифийг тайлах боломж олгосон юм."
+      }
+    },
+    {
+      "topicSlug": "history",
+      "lessonKey": "history.ancient-civilizations",
+      "key": "history.ancient-civilizations.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which ancient civilization is credited with inventing the world's oldest known wheel, as well as the sexagesimal (base 60) numerical system still used to measure time today?",
+        "mn": "Дэлхийн хамгийн эртний дугуйг зохион бүтээж, өнөөг хүртэл цаг хугацааг хэмжихэд ашигладаг 60-тын тооллын системийг анх санаачилсан эртний соёл иргэншил аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Aztecs",
+          "mn": "Ацтекчууд"
+        },
+        {
+          "en": "Phoenicians",
+          "mn": "Финикчүүд"
+        },
+        {
+          "en": "Minoans",
+          "mn": "Минойчууд"
+        },
+        {
+          "en": "Sumerians",
+          "mn": "Шумерчууд"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Sumerians of Mesopotamia developed cuneiform writing, the pottery wheel, and a base-60 math system. This system is why we still have 60 seconds in a minute and 360 degrees in a circle.",
+        "mn": "Месопотамийн Шумерчууд шаантаг бичиг, шавар эдлэлийн дугуй болон 60-тын тооллын системийг хөгжүүлжээ. Үүний ачаар өнөөдөр бид нэг минутыг 60 секунд, тойргийг 360 градус гэж хуваадаг байна."
+      }
+    },
+    {
+      "topicSlug": "history",
+      "lessonKey": "history.ancient-civilizations",
+      "key": "history.ancient-civilizations.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The famous terracotta warriors, a collection of thousands of life-sized clay statues, were buried to protect the tomb of the first emperor of which country?",
+        "mn": "Амьд хүний хэмжээтэй шавар цэргүүдээс бүрдэх Терракота армийг аль улсын анхны эзэн хааны бунхныг хамгаалуулахаар хамт оршуулсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Vietnam",
+          "mn": "Вьетнам"
+        },
+        {
+          "en": "Korea",
+          "mn": "Солонгос"
+        },
+        {
+          "en": "Japan",
+          "mn": "Япон"
+        },
+        {
+          "en": "China",
+          "mn": "Хятад"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Terracotta Army was buried with Qin Shi Huang, the first Emperor of China, in 210–209 BCE. Every single soldier's face was sculpted with unique features.",
+        "mn": "Терракота армийг Хятадын анхны эзэн хаан Цинь Ши Хуандитай хамт МЭӨ 210–209 онд оршуулжээ. Цэрэг бүрийн нүүр царайг өөр хоорондоо ялгаатай, өвөрмөц байдлаар урласан байдаг."
+      }
+    },
+    {
+      "topicSlug": "history",
+      "lessonKey": "history.ancient-civilizations",
+      "key": "history.ancient-civilizations.g9",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of these ancient cities was NOT part of the Mesopotamian region between the Tigris and Euphrates rivers?",
+        "mn": "Эдгээр эртний хотуудын аль нь Тигр болон Евфрат мөрний хоорондох Месопотамийн бүс нутагт хамаарагддаггүй байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Nineveh",
+          "mn": "Ниневи"
+        },
+        {
+          "en": "Ur",
+          "mn": "Ур"
+        },
+        {
+          "en": "Babylon",
+          "mn": "Вавилон"
+        },
+        {
+          "en": "Alexandria",
+          "mn": "Александриа"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Alexandria was founded by Alexander the Great in Egypt, along the Mediterranean coast. Babylon, Ur, and Nineveh were all famous Mesopotamian cities.",
+        "mn": "Александриа хотыг Македоны Александр Египетийн Газар дундын тэнгисийн эрэгт үүсгэн байгуулжээ. Харин Вавилон, Ур, Ниневи зэрэг нь бүгд Месопотамийн алдартай хотууд байсан юм."
+      }
+    },
+    {
+      "topicSlug": "history",
+      "lessonKey": "history.ancient-civilizations",
+      "key": "history.ancient-civilizations.g10",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which ancient civilization built the spectacular mountaintop citadel of Machu Picchu in the Andes Mountains?",
+        "mn": "Андын нуруунд байрлах Мачу Пикчу хэмээх уулын орой дээрх гайхамшигт хотыг эртний аль соёл иргэншил барьсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Zapotec",
+          "mn": "Сапотек"
+        },
+        {
+          "en": "Aztec",
+          "mn": "Ацтек"
+        },
+        {
+          "en": "Maya",
+          "mn": "Маяа"
+        },
+        {
+          "en": "Inca",
+          "mn": "Инк"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Machu Picchu was built by the Inca Empire in the 15th century. It was abandoned during the Spanish Conquest and remained unknown to the outside world until 1911.",
+        "mn": "Мачу Пикчуг XV зуунд Инкийн эзэнт гүрнийхэн барьжээ. Испаничуудын байлдан дагуулалтын үеэр уг хотыг орхисон бөгөөд 1911 он хүртэл дэлхий нийтэд мэдэгдэхгүй нууцлагдмал байсан юм."
+      }
+    },
+    {
+      "topicSlug": "history",
+      "lessonKey": "history.ancient-civilizations",
+      "key": "history.ancient-civilizations.g11",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The ruins of Carthage, the powerful ancient maritime power that fought Rome in the Punic Wars, are located in which modern country?",
+        "mn": "Пунийн дайнд Ромтой тулалдаж байсан далайн хүчирхэг гүрэн болох Карфагены туурь өнөөгийн аль улсын нутаг дэвсгэрт оршдог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Egypt",
+          "mn": "Египет"
+        },
+        {
+          "en": "Greece",
+          "mn": "Грек"
+        },
+        {
+          "en": "Tunisia",
+          "mn": "Тунис"
+        },
+        {
+          "en": "Italy",
+          "mn": "Итали"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Carthage was located in modern-day Tunisia. It was founded by Phoenician colonists and became a major trade rival to the Roman Republic.",
+        "mn": "Карфаген нь өнөөгийн Тунис улсын нутагт байрлаж байв. Үүнийг Финикчүүд үүсгэн байгуулсан бөгөөд Ромын Бүгд Найрамдах Улсын худалдааны гол өрсөлдөгч болсон юм."
+      }
+    },
+    {
+      "topicSlug": "history",
+      "lessonKey": "history.ancient-civilizations",
+      "key": "history.ancient-civilizations.g12",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which ancient civilization used a system of knotted strings called 'quipu' to record data and keep accounts in the absence of an alphabetic writing system?",
+        "mn": "Цагаан толгойн бичиг үсэггүй байсан тул мэдээлэл тэмдэглэх, тоо бүртгэл хөтлөхдөө 'кипу' хэмээх утсан зангилааны системийг ашигладаг байсан эртний соёл иргэншил аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Inca",
+          "mn": "Инк"
+        },
+        {
+          "en": "Minoan",
+          "mn": "Миной"
+        },
+        {
+          "en": "Sumerian",
+          "mn": "Шумер"
+        },
+        {
+          "en": "Olmec",
+          "mn": "Ольмек"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Incas used quipu, made of llama or alpaca hair, to record taxes, census data, and calendar information. The color, position, and type of knot all held specific meanings.",
+        "mn": "Инкчүүд лам гөрөөсний ноосоор хийсэн кипуг татвар, хүн амын тооллого, хуанлийн мэдээлэл хөтлөхөд ашигладаг байв. Зангилааны өнгө, байрлал, төрөл бүр нь өөр өөр утга агуулдаг байжээ."
+      }
+    }
+  ]
+}

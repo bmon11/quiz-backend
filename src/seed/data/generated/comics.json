@@ -1,0 +1,4007 @@
+{
+  "lessons": [
+    {
+      "topicSlug": "comics",
+      "key": "comics.marvel-heroes-origins",
+      "order": 1,
+      "title": {
+        "en": "Marvel Heroes and Their Origins",
+        "mn": "Марвел баатрууд ба тэдний үүсэл"
+      },
+      "summary": {
+        "en": "Explore the iconic characters of Marvel Comics, their secret identities, and the creative minds behind them.",
+        "mn": "Марвел комиксын алдартай баатрууд, тэдний нууц нэр болон бүтээгчдийн түүхтэй танилцаарай."
+      },
+      "body": {
+        "en": "In the early 1960s, writer Stan Lee, along with legendary artists Jack Kirby and Steve Ditko, revolutionized the comic book industry. They introduced flawed, relatable heroes who lived in real-world cities like New York, rather than fictional metropolises.",
+        "mn": "1960-аад оны эхээр зохиолч Стэн Ли, зураач Жек Кирби, Стив Дитко нарын хамт комиксын ертөнцөд хувьсгал хийсэн юм. Тэд зохиомол бус, харин Нью-Йорк зэрэг бодит хотод амьдардаг, сул талтай ч хүнд ойрхон баатруудыг бүтээжээ."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "🕷️",
+            "title": {
+              "en": "Spider-Man",
+              "mn": "Хүн-аалз"
+            },
+            "facts": [
+              {
+                "en": "First Appearance: Amazing Fantasy #15 (1962)",
+                "mn": "Анх гарсан нь: Amazing Fantasy #15 (1962)"
+              },
+              {
+                "en": "Creators: Stan Lee & Steve Ditko",
+                "mn": "Бүтээгчид: Стэн Ли, Стив Дитко"
+              },
+              {
+                "en": "Powers: Wall-crawling, spider-sense, superhuman agility",
+                "mn": "Чадвар: Ханаар авирах, аалзны зөн совин, ер бусын шаламгай байдал"
+              }
+            ],
+            "subtitle": {
+              "en": "Peter Parker",
+              "mn": "Питер Паркер"
+            }
+          },
+          {
+            "icon": "🛡️",
+            "title": {
+              "en": "Captain America",
+              "mn": "Ахмад Америк"
+            },
+            "facts": [
+              {
+                "en": "First Appearance: Captain America Comics #1 (1941)",
+                "mn": "Анх гарсан нь: Captain America Comics #1 (1941)"
+              },
+              {
+                "en": "Creators: Joe Simon & Jack Kirby",
+                "mn": "Бүтээгчид: Жо Саймон, Жек Кирби"
+              },
+              {
+                "en": "Powers: Peak human physical condition, vibranium shield",
+                "mn": "Чадвар: Хүний биеийн дээд чадавх, вибраниум бамбай"
+              }
+            ],
+            "subtitle": {
+              "en": "Steve Rogers",
+              "mn": "Стив Рожерс"
+            }
+          },
+          {
+            "icon": "🦾",
+            "title": {
+              "en": "Iron Man",
+              "mn": "Төмөр хүн"
+            },
+            "facts": [
+              {
+                "en": "First Appearance: Tales of Suspense #39 (1963)",
+                "mn": "Анх гарсан нь: Tales of Suspense #39 (1963)"
+              },
+              {
+                "en": "Creators: Stan Lee, Larry Lieber, Don Heck, Jack Kirby",
+                "mn": "Бүтээгчид: Стэн Ли, Ларри Либер, Дон Хек, Жек Кирби"
+              },
+              {
+                "en": "Powers: Genius intellect, powered armor suit",
+                "mn": "Чадвар: Суут ухаан, өндөр технологийн хуягт өмсгөл"
+              }
+            ],
+            "subtitle": {
+              "en": "Tony Stark",
+              "mn": "Тони Старк"
+            }
+          },
+          {
+            "icon": "⚡",
+            "title": {
+              "en": "Thor",
+              "mn": "Тор"
+            },
+            "facts": [
+              {
+                "en": "First Appearance: Journey into Mystery #83 (1962)",
+                "mn": "Анх гарсан нь: Journey into Mystery #83 (1962)"
+              },
+              {
+                "en": "Creators: Stan Lee, Larry Lieber, Jack Kirby",
+                "mn": "Бүтээгчид: Стэн Ли, Ларри Либер, Жек Кирби"
+              },
+              {
+                "en": "Powers: Weather control, flight, godlike strength",
+                "mn": "Чадвар: Цаг агаар удирдах, нисэх, бурханлаг хүч чадал"
+              }
+            ],
+            "subtitle": {
+              "en": "Thor Odinson",
+              "mn": "Тор Одинсон"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "Spider-Man's red and blue suit was chosen because those primary colors printed best with cheap 1960s ink.",
+          "mn": "Хүн-аалзны улаан, цэнхэр өнгийг сонгосон шалтгаан нь 1960-аад оны хямд бэхээр хэвлэхэд хамгийн тод гардаг байсных юм."
+        },
+        {
+          "en": "The Hulk was originally grey in his first appearance, but ink inconsistency forced Stan Lee to change him to green in issue #2.",
+          "mn": "Халк анхны дугаартаа саарал өнгөтэй байсан ч хэвлэлийн бэхний тогтворгүй байдлаас болж Стэн Ли түүнийг 2-р дугаараас нь эхлэн ногоон болгожээ."
+        }
+      ]
+    },
+    {
+      "topicSlug": "comics",
+      "key": "comics.dc-heroes-origins",
+      "order": 2,
+      "title": {
+        "en": "DC Heroes and Their Origins",
+        "mn": "Ди-Си баатрууд ба тэдний үүсэл"
+      },
+      "summary": {
+        "en": "Discover the foundations of DC Comics, home to the world's first modern superheroes and cosmic legends.",
+        "mn": "Дэлхийн анхны орчин үеийн супер баатрууд болон сансрын домогт баатруудыг багтаасан Ди-Си комиксын түүхийг нээгээрэй."
+      },
+      "body": {
+        "en": "DC Comics established the superhero genre in the late 1930s. Their flagship characters represent mythological archetypes and god-like figures, fighting for justice in legendary fictional locations like Metropolis and Gotham City.",
+        "mn": "Ди-Си комикс нь 1930-аад оны сүүлчээр супер баатрын төрлийг үндэслэжээ. Тэдний гол дүрүүд нь Метрополис, Готам зэрэг зохиомол хотуудад шударга ёсны төлөө тэмцдэг, домогт бурхад мэт дүр төрхийг илэрхийлдэг."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "🦸‍♂️",
+            "title": {
+              "en": "Superman",
+              "mn": "Супермэн"
+            },
+            "facts": [
+              {
+                "en": "First Appearance: Action Comics #1 (1938)",
+                "mn": "Анх гарсан нь: Action Comics #1 (1938)"
+              },
+              {
+                "en": "Creators: Jerry Siegel & Joe Shuster",
+                "mn": "Бүтээгчид: Жери Сигел, Жо Шустер"
+              },
+              {
+                "en": "Powers: Flight, heat vision, invulnerability, super-strength",
+                "mn": "Чадвар: Нисэх, халуун лазер хараа, шархдашгүй байдал, супер хүч"
+              }
+            ],
+            "subtitle": {
+              "en": "Clark Kent / Kal-El",
+              "mn": "Кларк Кент / Кал-Эл"
+            }
+          },
+          {
+            "icon": "🦇",
+            "title": {
+              "en": "Batman",
+              "mn": "Бэтмэн"
+            },
+            "facts": [
+              {
+                "en": "First Appearance: Detective Comics #27 (1939)",
+                "mn": "Анх гарсан нь: Detective Comics #27 (1939)"
+              },
+              {
+                "en": "Creators: Bob Kane & Bill Finger",
+                "mn": "Бүтээгчид: Боб Кейн, Билл Фингер"
+              },
+              {
+                "en": "Powers: Genius intellect, master martial artist, high-tech arsenal",
+                "mn": "Чадвар: Суут ухаан, тулааны урлагийн мастер, өндөр технологийн зэвсэглэл"
+              }
+            ],
+            "subtitle": {
+              "en": "Bruce Wayne",
+              "mn": "Брюс Уэйн"
+            }
+          },
+          {
+            "icon": "👑",
+            "title": {
+              "en": "Wonder Woman",
+              "mn": "Гайхамшигт эмэгтэй"
+            },
+            "facts": [
+              {
+                "en": "First Appearance: All Star Comics #8 (1941)",
+                "mn": "Анх гарсан нь: All Star Comics #8 (1941)"
+              },
+              {
+                "en": "Creators: William Moulton Marston & H.G. Peter",
+                "mn": "Бүтээгчид: Уильям Моултон Марстон, Х.Ж. Питер"
+              },
+              {
+                "en": "Powers: Superhuman strength, Lasso of Truth, indestructible bracelets",
+                "mn": "Чадвар: Ер бусын хүч чадал, Үнэний уургуй, эвдэршгүй бугуйвч"
+              }
+            ],
+            "subtitle": {
+              "en": "Diana Prince / Princess Diana of Themyscira",
+              "mn": "Диана Принс / Темискирагийн гүнж Диана"
+            }
+          },
+          {
+            "icon": "⚡",
+            "title": {
+              "en": "The Flash",
+              "mn": "Флаш"
+            },
+            "facts": [
+              {
+                "en": "First Appearance: Showcase #4 (1956 - Barry Allen)",
+                "mn": "Анх гарсан нь: Showcase #4 (1956 - Барри Аллен)"
+              },
+              {
+                "en": "Creators: Robert Kanigher & Carmine Infantino",
+                "mn": "Бүтээгчид: Роберт Канигер, Кармин Инфантино"
+              },
+              {
+                "en": "Powers: Super speed, time travel, intangibility via vibration",
+                "mn": "Чадвар: Супер хурд, цаг хугацаагаар аялах, чичиргээгээр биет нэвтлэх"
+              }
+            ],
+            "subtitle": {
+              "en": "Barry Allen",
+              "mn": "Барри Аллен"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "Superman's co-creator Jerry Siegel first envisioned Superman as a bald, telepathic villain seeking world domination.",
+          "mn": "Супермэнийг хамтран бүтээгч Жери Сигел анх түүнийг дэлхийг эзлэх хүсэлтэй, халзан, телепат чадвартай хорон санаатан гэж төсөөлж байжээ."
+        },
+        {
+          "en": "Wonder Woman's creator, William Moulton Marston, also helped invent the systolic blood pressure test, which led to the modern polygraph (lie detector).",
+          "mn": "Гайхамшигт эмэгтэйг бүтээгч Уильям Моултон Марстон нь орчин үеийн худал хуурмаг илрүүлэгч (полиграф)-ийн үндэс болсон цусны даралт хэмжих тестийг зохион бүтээхэд оролцож байжээ."
+        }
+      ]
+    },
+    {
+      "topicSlug": "comics",
+      "key": "comics.great-villains",
+      "order": 3,
+      "title": {
+        "en": "Great Villains of Comics",
+        "mn": "Комиксын агуу хорон санаатнууд"
+      },
+      "summary": {
+        "en": "Every great hero needs a compelling nemesis. Meet the most iconic villains in comic book history.",
+        "mn": "Агуу баатар бүрд хүчтэй өрсөлдөгч хэрэгтэй. Комиксын түүхэн дэх хамгийн алдартай хорон санаатнуудтай танилц."
+      },
+      "body": {
+        "en": "Villains drive the plot and test our heroes to their absolute limits. From chaotic anarchists to galactic conquerors, the best villains often believe they are the heroes of their own complex stories.",
+        "mn": "Хорон санаатнууд нь үйл явдлыг хөтөлж, баатруудыг туйлдуулж сорьдог. Эмх замбараагүй байдлыг үүсгэгчдээс эхлээд сансар огторгуйг байлдан дагуулагчид хүртэлх шилдэг эсрэг дүрүүд өөрсдийгөө өөрийн түүхийн баатар гэж үздэг."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "🤡",
+            "title": {
+              "en": "The Joker",
+              "mn": "Жокер"
+            },
+            "facts": [
+              {
+                "en": "First Appearance: Batman #1 (1940)",
+                "mn": "Анх гарсан нь: Batman #1 (1940)"
+              },
+              {
+                "en": "Creators: Bill Finger, Bob Kane, Jerry Robinson",
+                "mn": "Бүтээгчид: Билл Фингер, Боб Кейн, Жери Робинсон"
+              },
+              {
+                "en": "Trademark: Acid flower, Joker venom, chaotic intellect",
+                "mn": "Онцлог: Хүчилт цэцэг, Жокерын хор, замбараагүй суут ухаан"
+              }
+            ],
+            "subtitle": {
+              "en": "Unknown (Often Jack Napier / Arthur Fleck)",
+              "mn": "Тодорхойгүй (Ихэвчлэн Жек Напьер / Артур Флек)"
+            }
+          },
+          {
+            "icon": "🧠",
+            "title": {
+              "en": "Lex Luthor",
+              "mn": "Лекс Лютор"
+            },
+            "facts": [
+              {
+                "en": "First Appearance: Action Comics #23 (1940)",
+                "mn": "Анх гарсан нь: Action Comics #23 (1940)"
+              },
+              {
+                "en": "Creators: Jerry Siegel & Joe Shuster",
+                "mn": "Бүтээгчид: Жери Сигел, Жо Шустер"
+              },
+              {
+                "en": "Trademark: Warsuit, Kryptonite weapons, infinite resources",
+                "mn": "Онцлог: Байлдааны хуяг, Криптонит зэвсэг, хязгааргүй нөөц хөрөнгө"
+              }
+            ],
+            "subtitle": {
+              "en": "Alexander Joseph Luthor",
+              "mn": "Александр Жозеф Лютор"
+            }
+          },
+          {
+            "icon": "🧲",
+            "title": {
+              "en": "Magneto",
+              "mn": "Магнето"
+            },
+            "facts": [
+              {
+                "en": "First Appearance: The X-Men #1 (1963)",
+                "mn": "Анх гарсан нь: The X-Men #1 (1963)"
+              },
+              {
+                "en": "Creators: Stan Lee & Jack Kirby",
+                "mn": "Бүтээгчид: Стэн Ли, Жек Кирби"
+              },
+              {
+                "en": "Trademark: Magnetic field manipulation, telepathy-shield helmet",
+                "mn": "Онцлог: Соронзон орны удирдлага, телепатаас хамгаалах дуулга"
+              }
+            ],
+            "subtitle": {
+              "en": "Erik Lehnsherr / Max Eisenhardt",
+              "mn": "Эрик Леншер / Макс Айзенхардт"
+            }
+          },
+          {
+            "icon": "🧤",
+            "title": {
+              "en": "Thanos",
+              "mn": "Танос"
+            },
+            "facts": [
+              {
+                "en": "First Appearance: Iron Man #55 (1973)",
+                "mn": "Анх гарсан нь: Iron Man #55 (1973)"
+              },
+              {
+                "en": "Creators: Jim Starlin",
+                "mn": "Бүтээгч: Жим Старлин"
+              },
+              {
+                "en": "Trademark: Infinity Gauntlet, cosmic energy manipulation",
+                "mn": "Онцлог: Хязгааргүйн бээлий, сансрын энергийн удирдлага"
+              }
+            ],
+            "subtitle": {
+              "en": "The Mad Titan",
+              "mn": "Галзуу Титан"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "The Joker was intended to die in his very first appearance in Batman #1, but the editor saved him at the last minute.",
+          "mn": "Жокерыг анх Бэтмэн #1 дугаар дээр шууд үхүүлэхээр төлөвлөж байсан ч редактор нь сүүлийн мөчид амьд үлдээжээ."
+        },
+        {
+          "en": "Magneto's complex background as a Holocaust survivor was not introduced until 1981, 18 years after his debut.",
+          "mn": "Магнетогийн Холокостыг даван туулсан гэх ээдрээтэй өнгөрсөн түүхийг түүний анхны дүрээс хойш 18 жилийн дараа буюу 1981 онд л анх нэмж оруулжээ."
+        }
+      ]
+    },
+    {
+      "topicSlug": "comics",
+      "key": "comics.first-appearances-timeline",
+      "order": 4,
+      "title": {
+        "en": "First Appearances: A Comics Timeline",
+        "mn": "Анхны дүрүүд: Комиксын он цагийн хэлхээ"
+      },
+      "summary": {
+        "en": "Trace the history of comic books through the historic debuts of iconic characters.",
+        "mn": "Алдартай дүрүүдийн түүхэн дебютүүдээр дамжуулан комиксын түүхийг мөшгөөрэй."
+      },
+      "body": {
+        "en": "From the Golden Age of the late 1930s to the modern eras, superheroes have evolved alongside historical events. Here is when the world's most famous heroes first stepped onto the printed page.",
+        "mn": "1930-аад оны сүүл үеийн Алтан үеэс эхлэн орчин үе хүртэл супер баатрууд түүхэн үйл явдлуудтай хамт хувьсан өөрчлөгдөж ирсэн юм. Дэлхийн хамгийн алдартай баатруудын анхлан хэвлэгдсэн он цагийн хэлхээг харна уу."
+      },
+      "visual": {
+        "kind": "timeline",
+        "items": [
+          {
+            "when": {
+              "en": "June 1938",
+              "mn": "1938 оны 6-р сар"
+            },
+            "title": {
+              "en": "Superman Launches the Superhero Era",
+              "mn": "Супермэн супер баатрын эрин үеийг эхлүүлэв"
+            },
+            "body": {
+              "en": "Action Comics #1 introduces Superman, marking the official birth of the superhero genre and the start of the Golden Age of Comics.",
+              "mn": "Action Comics #1 дугаарт Супермэн анх гарч, супер баатрын төрөл албан ёсоор төрж, комиксын Алтан үе эхэлжээ."
+            }
+          },
+          {
+            "when": {
+              "en": "May 1939",
+              "mn": "1939 оны 5-р сар"
+            },
+            "title": {
+              "en": "Batman Debuts in Detective Comics",
+              "mn": "Бэтмэн Detective Comics-т анх гарч ирэв"
+            },
+            "body": {
+              "en": "Detective Comics #27 introduces the mysterious 'Bat-Man', bringing a darker, pulp-adventure tone to comic books.",
+              "mn": "Detective Comics #27 дугаарт нууцлаг 'Бэт-Мэн' гарч ирэн, комикст арай бараан, адал явдалт өнгө аясыг авчирчээ."
+            }
+          },
+          {
+            "when": {
+              "en": "November 1961",
+              "mn": "1961 оны 11-р сар"
+            },
+            "title": {
+              "en": "The Fantastic Four Start the Marvel Age",
+              "mn": "Fantastic Four Марвелын эрин үеийг эхлүүлэв"
+            },
+            "body": {
+              "en": "The Fantastic Four #1 launches, introducing complex human flaws and interconnected continuity to mainstream superhero books.",
+              "mn": "The Fantastic Four #1 хэвлэгдэн гарч, супер баатруудад хүний сул тал, өөр хоорондоо холбоотой үйл явдлын шугамыг оруулж өгчээ."
+            }
+          },
+          {
+            "when": {
+              "en": "August 1962",
+              "mn": "1962 оны 8-р сар"
+            },
+            "title": {
+              "en": "Spider-Man Swings into Action",
+              "mn": "Хүн-аалз талбарт гарч ирэв"
+            },
+            "body": {
+              "en": "Amazing Fantasy #15 introduces Peter Parker, proving that teenage characters could be lead heroes rather than just sidekicks.",
+              "mn": "Amazing Fantasy #15 дугаарт Питер Паркер гарч ирснээр өсвөр насны дүрүүд зөвхөн туслах биш, гол баатар байж болдгийг батлав."
+            }
+          },
+          {
+            "when": {
+              "en": "October 1974",
+              "mn": "1974 оны 10-р сар"
+            },
+            "title": {
+              "en": "Wolverine's First Cameo",
+              "mn": "Улверины анхны жижиг дүр"
+            },
+            "body": {
+              "en": "The Incredible Hulk #180 features Wolverine's first cameo appearance, followed by a full debut in issue #181.",
+              "mn": "The Incredible Hulk #180 дугаарт Улверин анх жижиг дүрээр гарч, дараагийн 181-р дугаарт нь бүтэн дүрээрээ гарчээ."
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "Action Comics #1 originally cost just 10 cents in 1938; in 2024, a high-quality copy sold for a record $6 million.",
+          "mn": "Action Comics #1 нь 1938 онд ердөө 10 центний үнэтэй байсан бөгөөд 2024 онд сайн хадгалагдсан хувилбар нь 6 сая ам.долларын дээд үнээр зарагджээ."
+        },
+        {
+          "en": "The debut of Wolverine in 1974 was actually as a minor foil in a Hulk comic, not in X-Men.",
+          "mn": "Улверин 1974 онд анх гарахдаа X-Men-д биш, харин Халкын комикст туслах дүр байдлаар гарч байжээ."
+        }
+      ]
+    },
+    {
+      "topicSlug": "comics",
+      "key": "comics.manga-classics",
+      "order": 5,
+      "title": {
+        "en": "Manga Classics: One Piece, Dragon Ball, Naruto",
+        "mn": "Манганы сонгодог бүтээлүүд: One Piece, Dragon Ball, Naruto"
+      },
+      "summary": {
+        "en": "Dive into the legendary Shonen manga series that took the world by storm.",
+        "mn": "Дэлхий дахиныг байлдан дагуулсан домогт Шонэн манга цувралуудын ертөнцөөр аялаарай."
+      },
+      "body": {
+        "en": "Japanese manga has grown into a global cultural powerhouse. Shonen Jump magazine became the birthplace of legendary, multi-decade narratives focusing on friendship, hard work, and victory.",
+        "mn": "Японы манга нь дэлхийн соёлын томоохон хүч болон хөгжжээ. Shonen Jump сэтгүүл нь нөхөрлөл, шаргуу хөдөлмөр, ялалтыг харуулсан олон арван жилийн түүхтэй домогт цувралуудын өлгий болсон юм."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "🏴‍☠️",
+            "title": {
+              "en": "One Piece",
+              "mn": "Ван Пис"
+            },
+            "facts": [
+              {
+                "en": "Debut Year: 1997",
+                "mn": "Анх гарсан он: 1997"
+              },
+              {
+                "en": "Creator: Eiichiro Oda",
+                "mn": "Бүтээгч: Эйичиро Ода"
+              },
+              {
+                "en": "Key Concept: Straw Hat Pirates searching for the ultimate treasure to crown the Pirate King.",
+                "mn": "Гол агуулга: Далайн дээрэмчдийн хаан болохын тулд туйлын эрдэнэсийг хайж буй Сүрлэн малгайтнууд."
+              }
+            ],
+            "subtitle": {
+              "en": "Monkey D. Luffy",
+              "mn": "Монки Д. Луффи"
+            }
+          },
+          {
+            "icon": "🐉",
+            "title": {
+              "en": "Dragon Ball",
+              "mn": "Драгон Болл"
+            },
+            "facts": [
+              {
+                "en": "Debut Year: 1984",
+                "mn": "Анх гарсан он: 1984"
+              },
+              {
+                "en": "Creator: Akira Toriyama",
+                "mn": "Бүтээгч: Акира Торияма"
+              },
+              {
+                "en": "Key Concept: Martial arts, Saiyan heritage, and gathering magical wish-granting spheres.",
+                "mn": "Гол агуулга: Тулааны урлаг, Саяан угсаа, хүсэл биелүүлэгч шидэт бөмбөлгүүдийг цуглуулах аялал."
+              }
+            ],
+            "subtitle": {
+              "en": "Son Goku",
+              "mn": "Сон Гоку"
+            }
+          },
+          {
+            "icon": "🍥",
+            "title": {
+              "en": "Naruto",
+              "mn": "Наруто"
+            },
+            "facts": [
+              {
+                "en": "Debut Year: 1999",
+                "mn": "Анх гарсан он: 1999"
+              },
+              {
+                "en": "Creator: Masashi Kishimoto",
+                "mn": "Бүтээгч: Масаши Кишимото"
+              },
+              {
+                "en": "Key Concept: An outcast ninja training to become the respected leader (Hokage) of his village.",
+                "mn": "Гол агуулга: Тосгоныхоо хүндлэгдсэн удирдагч (Хокагэ) болохын төлөө хичээж буй гадуурхагдсан нинжа."
+              }
+            ],
+            "subtitle": {
+              "en": "Naruto Uzumaki",
+              "mn": "Наруто Узумаки"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "Dragon Ball was heavily inspired by the classic 16th-century Chinese novel 'Journey to the West' (featuring Sun Wukong).",
+          "mn": "Dragon Ball цувралыг 16-р зууны Хятадын сонгодог зохиол болох 'Баруун этгээдэд зорчсон түүх' (Сүн Үкүн)-ээс ихээхэн сэдэвлэн бүтээжээ."
+        },
+        {
+          "en": "Eiichiro Oda originally planned for One Piece to last only five years, but the rich world-building expanded it to over 25 years.",
+          "mn": "Эйичиро Ода анх One Piece-ийг ердөө таван жил үргэлжлүүлэхээр төлөвлөж байсан ч түүний баялаг ертөнц нь 25 гаруй жил үргэлжлэхэд хүргэжээ."
+        }
+      ]
+    },
+    {
+      "topicSlug": "comics",
+      "key": "comics.best-selling-manga",
+      "order": 6,
+      "title": {
+        "en": "Best-Selling Manga Series",
+        "mn": "Хамгийн их борлуулалттай манга цувралууд"
+      },
+      "summary": {
+        "en": "Which manga series have sold the most copies worldwide? Check out the staggering numbers.",
+        "mn": "Дэлхий даяар хамгийн олон хувь борлогдсон манга цувралууд аль нь вэ? Тэдний гайхалтай тоо баримтыг харна уу."
+      },
+      "body": {
+        "en": "Manga sales have reached unprecedented heights. Led by cultural giants, these printed series have sold hundreds of millions of copies worldwide, outperforming many Western comic counterparts.",
+        "mn": "Манганы борлуулалт урьд өмнө байгаагүй өндөр хэмжээнд хүрээд байна. Соёлын томоохон төлөөлөгчид болох эдгээр цувралууд дэлхий даяар олон зуун сая хувь борлогдож, барууны олон комиксыг давж гарчээ."
+      },
+      "visual": {
+        "kind": "bar",
+        "unit": {
+          "en": "Million Copies Sold",
+          "mn": "Борлогдсон хувь (саяар)"
+        },
+        "horizontal": true,
+        "items": [
+          {
+            "label": {
+              "en": "One Piece",
+              "mn": "Ван Пис"
+            },
+            "value": 516
+          },
+          {
+            "label": {
+              "en": "Golgo 13",
+              "mn": "Голго 13"
+            },
+            "value": 300
+          },
+          {
+            "label": {
+              "en": "Dragon Ball",
+              "mn": "Драгон Болл"
+            },
+            "value": 260
+          },
+          {
+            "label": {
+              "en": "Naruto",
+              "mn": "Наруто"
+            },
+            "value": 250
+          },
+          {
+            "label": {
+              "en": "Detective Conan",
+              "mn": "Мөрдөгч Конан"
+            },
+            "value": 250
+          },
+          {
+            "label": {
+              "en": "Slam Dunk",
+              "mn": "Слэм Данк"
+            },
+            "value": 170
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "One Piece holds a Guinness World Record for the most copies published for the same comic book series by a single author.",
+          "mn": "One Piece нь нэг зохиолчийн туурвисан ижил комик цувралын хамгийн олон хувь хэвлэгдсэн амжилтаар Гиннесийн дээд амжилтыг эзэмшдэг."
+        },
+        {
+          "en": "Demon Slayer (Kimetsu no Yaiba) achieved over 150 million sales in just a few years, making it one of the fastest-selling manga of all time.",
+          "mn": "Чөтгөрийн ангууч (Kimetsu no Yaiba) манга нь ердөө хэдхэн жилийн дотор 150 сая гаруй хувь борлогдож, түүхэн дэх хамгийн хурдан борлогдсон манганы нэг болсон."
+        }
+      ]
+    },
+    {
+      "topicSlug": "comics",
+      "key": "comics.comic-book-films-box-office",
+      "order": 7,
+      "title": {
+        "en": "Comic-Book Films at the Box Office",
+        "mn": "Комиксоос сэдэвлэсэн кинонуудын кассын орлого"
+      },
+      "summary": {
+        "en": "Look at the massive global box office earnings of the highest-grossing comic book adaptations.",
+        "mn": "Хамгийн их ашиг олсон комиксоос сэдэвлэсэн кинонуудын дэлхийн кассын асар их орлогыг харна уу."
+      },
+      "body": {
+        "en": "Over the past two decades, superhero movies have dominated the global cinema landscape. These cinematic universes have turned comic book pages into multi-billion dollar blockbusters.",
+        "mn": "Сүүлийн хоёр арван жилд супер баатруудын кинонууд дэлхийн кино урлагийг давамгайлж байна. Эдгээр киноны ертөнцүүд комиксын хуудсыг олон тэрбум долларын блокбастер болгон хувиргасан юм."
+      },
+      "visual": {
+        "kind": "bar",
+        "unit": {
+          "en": "Million USD",
+          "mn": "Сая ам.доллар"
+        },
+        "horizontal": true,
+        "items": [
+          {
+            "label": {
+              "en": "Avengers: Endgame (2019)",
+              "mn": "Авенжерс: Төгсгөл (2019)"
+            },
+            "value": 2799
+          },
+          {
+            "label": {
+              "en": "Avengers: Infinity War (2018)",
+              "mn": "Авенжерс: Төгсгөлгүй дайн (2018)"
+            },
+            "value": 2052
+          },
+          {
+            "label": {
+              "en": "Spider-Man: No Way Home (2021)",
+              "mn": "Хүн-аалз: Харих замгүй (2021)"
+            },
+            "value": 1922
+          },
+          {
+            "label": {
+              "en": "The Avengers (2012)",
+              "mn": "Авенжерс (2012)"
+            },
+            "value": 1520
+          },
+          {
+            "label": {
+              "en": "Avengers: Age of Ultron (2015)",
+              "mn": "Авенжерс: Альтроны эрин үе (2015)"
+            },
+            "value": 1405
+          },
+          {
+            "label": {
+              "en": "Black Panther (2018)",
+              "mn": "Хар Ирвэс (2018)"
+            },
+            "value": 1349
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "Avengers: Endgame became the fastest film to reach $1 billion at the global box office, doing so in just 5 days.",
+          "mn": "Авенжерс: Төгсгөл кино нь дэлхийн кассаас ердөө 5 хоногийн дотор 1 тэрбум ам.доллар олж, хамгийн хурдан энэ босгыг давсан кино болжээ."
+        },
+        {
+          "en": "Joker (2019) was the first R-rated film in history to gross over $1 billion worldwide.",
+          "mn": "Жокер (2019) нь дэлхийн хэмжээнд 1 тэрбум гаруй ам.долларын ашиг олсон түүхэн дэх анхны 'R' ангиллын кино болсон юм."
+        }
+      ]
+    },
+    {
+      "topicSlug": "comics",
+      "key": "comics.niche-comics-facts",
+      "order": 8,
+      "title": {
+        "en": "Niche Comics Facts: Alter Egos and Cameos",
+        "mn": "Комиксын нарийн баримтууд: Өөр дүрүүд ба камио"
+      },
+      "summary": {
+        "en": "Uncover lesser-known facts about creators, cameos, and the oddities of comic history.",
+        "mn": "Бүтээгчид, үзэгдээд өнгөрөх дүрүүд болон комиксын түүхэн дэх сонин хачин баримтуудыг олж мэдээрэй."
+      },
+      "body": {
+        "en": "Beneath the mainstream fame lies a treasure trove of comic trivia. From real-life inspirations of famous creators to legendary cameos, these details shape the rich lore of comic culture.",
+        "mn": "Ихэнх хүмүүсийн мэддэг алдар нэрийн цаана комиксын маш сонирхолтой түүхүүд нуугдаж байдаг. Алдартай бүтээгчдийн бодит амьдралаас авсан санаануудаас эхлээд домогт камионууд хүртэлх эдгээр нарийн ширийн зүйлс нь комик соёлыг баяжуулдаг."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "🕶️",
+            "title": {
+              "en": "Stan Lee Cameos",
+              "mn": "Стэн Лигийн камио"
+            },
+            "facts": [
+              {
+                "en": "First Cameo: The Trial of the Incredible Hulk (1989)",
+                "mn": "Анхны камио: The Trial of the Incredible Hulk (1989)"
+              },
+              {
+                "en": "Total Cameos: Over 35 MCU and Marvel films",
+                "mn": "Нийт камио: Марвелын 35 гаруй кинонд"
+              },
+              {
+                "en": "Niche Fact: Played a bus driver, security guard, and mailman",
+                "mn": "Сонирхолтой баримт: Автобусны жолооч, харуул, шууданчийн дүрд тоглож байсан"
+              }
+            ],
+            "subtitle": {
+              "en": "The Cameo King",
+              "mn": "Камиогийн хаан"
+            }
+          },
+          {
+            "icon": "🧪",
+            "title": {
+              "en": "The Hulk's Alter Ego",
+              "mn": "Халкын өөр дүр"
+            },
+            "facts": [
+              {
+                "en": "Full Name: Robert Bruce Banner",
+                "mn": "Бүтэн нэр: Роберт Брюс Баннер"
+              },
+              {
+                "en": "Niche Fact: Stan Lee accidentally called him 'Bob Banner' in early issues, so he gave him a double name.",
+                "mn": "Сонирхолтой баримт: Стэн Ли эхний дугаарууд дээр түүнийг андуураад 'Боб Баннер' гэж нэрлэсэн тул дараа нь түүнд давхар нэр өгчээ."
+              }
+            ],
+            "subtitle": {
+              "en": "Bruce Banner",
+              "mn": "Брюс Баннер"
+            }
+          },
+          {
+            "icon": "🐱",
+            "title": {
+              "en": "Catwoman",
+              "mn": "Муур эмэгтэй"
+            },
+            "facts": [
+              {
+                "en": "First Appearance: Batman #1 (1940) as 'The Cat'",
+                "mn": "Анх гарсан нь: Batman #1 (1940) 'Муур' нэрээр"
+              },
+              {
+                "en": "Creators: Bob Kane & Bill Finger",
+                "mn": "Бүтээгчид: Боб Кейн, Билл Фингер"
+              },
+              {
+                "en": "Niche Fact: She did not wear her iconic cat suit in her first appearance.",
+                "mn": "Сонирхолтой баримт: Тэрээр анхны дугаартаа өөрийн алдартай муурын өмсгөлийг өмсөөгүй байжээ."
+              }
+            ],
+            "subtitle": {
+              "en": "Selina Kyle",
+              "mn": "Селина Кайл"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "Stan Lee made a cameo in almost every Marvel Cinematic Universe film until his death in 2018.",
+          "mn": "Стэн Ли 2018 онд таалал төгсөх хүртлээ Марвелын кино ертөнцийн бараг бүх кинонд жижиг дүрд (камио) тоглосон байдаг."
+        },
+        {
+          "en": "Clark Kent's name was created by combining the names of actors Clark Gable and Kent Taylor.",
+          "mn": "Кларк Кент гэх нэрийг алдартай жүжигчид болох Кларк Гейбл, Кент Тейлор нарын нэрийг нийлүүлж бүтээжээ."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.dc-heroes-origins",
+      "key": "comics.dc-heroes-origins.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In DC Comics, what is the civilian name of Batman, the billionaire who protects Gotham City?",
+        "mn": "DC Comics-ийн цувралд Готам хотыг хамгаалдаг тэрбумтан Бэтмэний жинхэнэ нэр хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Bruce Wayne",
+          "mn": "Брюс Уэйн"
+        },
+        {
+          "en": "Hal Jordan",
+          "mn": "Хэл Жордан"
+        },
+        {
+          "en": "Clark Kent",
+          "mn": "Кларк Кент"
+        },
+        {
+          "en": "Barry Allen",
+          "mn": "Барри Аллен"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Batman's alter ego is Bruce Wayne, the wealthy owner of Wayne Enterprises. He made his first appearance in Detective Comics #27 in 1939.",
+        "mn": "Бэтмэний жинхэнэ нэр бол Уэйн Энтерпрайзын чинээлэг эзэн Брюс Уэйн юм. Тэрээр анх 1939 онд Detective Comics #27 дугаарт гарч байжээ."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.dc-heroes-origins",
+      "key": "comics.dc-heroes-origins.g2",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which superhero made their historic debut in the 1938 comic book 'Action Comics #1'?",
+        "mn": "1938 оны 'Action Comics #1' комик номд аль супер баатар анх удаа гарч түүхийг эхлүүлсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Batman",
+          "mn": "Бэтмэн"
+        },
+        {
+          "en": "Superman",
+          "mn": "Супермэн"
+        },
+        {
+          "en": "The Flash",
+          "mn": "Флаш"
+        },
+        {
+          "en": "Green Lantern",
+          "mn": "Ногоон Дэнлүү"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Superman's debut in Action Comics #1 marked the official birth of the superhero genre. A pristine copy of this issue has sold at auction for over $6 million.",
+        "mn": "Супермэн Action Comics #1 дугаарт гарсан нь супер баатрын төрөл албан ёсоор төрөх эхлэлийг тавьжээ. Энэхүү комиксын сайн хадгалагдсан хувь дуудлага худалдаагаар 6 сая гаруй ам.долларт хүрч байв."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.dc-heroes-origins",
+      "key": "comics.dc-heroes-origins.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The creator of Wonder Woman, William Moulton Marston, is also famous for helping to invent which real-world device?",
+        "mn": "Гайхамшигт эмэгтэйн дүрийг бүтээгч Уильям Моултон Марстон бодит амьдрал дээрх аль төхөөрөмжийг бүтээлцсэнээрээ алдартай вэ?"
+      },
+      "choices": [
+        {
+          "en": "The lie detector",
+          "mn": "Худал хуурмаг илрүүлэгч"
+        },
+        {
+          "en": "The pacemaker",
+          "mn": "Зүрхний хэм хэмжигч"
+        },
+        {
+          "en": "The hearing aid",
+          "mn": "Сонсголын аппарат"
+        },
+        {
+          "en": "The microwave oven",
+          "mn": "Богино долгионы зуух"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Marston helped invent the systolic blood pressure test, a key component of the modern polygraph (lie detector). This directly inspired Wonder Woman's Lasso of Truth.",
+        "mn": "Марстон орчин үеийн полиграф буюу худал хуурмаг илрүүлэгчийн гол хэсэг болох цусны даралт хэмжих аргыг зохион бүтээлцжээ. Энэ нь Гайхамшигт эмэгтэйн Үнэний уургыг бүтээх санаа болсон юм."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.dc-heroes-origins",
+      "key": "comics.dc-heroes-origins.g4",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the name of the fictional, hidden island nation that Wonder Woman (Diana Prince) calls home?",
+        "mn": "Гайхамшигт эмэгтэйн (Диана Принс) төрсөн нутаг болох нууцлаг, зохиомол арал улсыг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Themyscira",
+          "mn": "Темискира"
+        },
+        {
+          "en": "Wakanda",
+          "mn": "Ваканда"
+        },
+        {
+          "en": "Atlantis",
+          "mn": "Атлантида"
+        },
+        {
+          "en": "Latveria",
+          "mn": "Латвериа"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Wonder Woman hails from Themyscira, also known as Paradise Island, which is inhabited entirely by Amazonian women. It is deeply rooted in Greek mythology.",
+        "mn": "Гайхамшигт эмэгтэй нь зөвхөн Амазоны дайчин эмэгтэйчүүд амьдардаг, Диваажингийн арал гэгддэг Темискирагаас гаралтай. Энэ нь Грекийн домог зүйтэй нягт холбоотой байдаг."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.dc-heroes-origins",
+      "key": "comics.dc-heroes-origins.g5",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which superhero of the Silver Age gained his super-speed after a lightning bolt shattered chemicals all over him in a lab?",
+        "mn": "Комиксын Мөнгөн үеийн аль баатар лабораторид химийн бодис руу аянга буусны улмаас супер хурдны хүчийг олж авдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Green Arrow",
+          "mn": "Ногоон Сум"
+        },
+        {
+          "en": "Shazam",
+          "mn": "Шазам"
+        },
+        {
+          "en": "Quicksilver",
+          "mn": "Квиксилвер"
+        },
+        {
+          "en": "The Flash",
+          "mn": "Флаш"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Police scientist Barry Allen became the Flash in 1956's Showcase #4 after a freak lightning accident. This event revitalized DC Comics and kicked off the Silver Age.",
+        "mn": "Цагдаагийн шинжлэх ухааны ажилтан Барри Аллен 1956 оны 'Showcase #4' дугаарт аянганд цохиулснаар Флаш болдог. Энэхүү үйл явдал DC Comics-ийг шинэ шатанд гаргаж, Мөнгөн үеийг эхлүүлсэн юм."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.dc-heroes-origins",
+      "key": "comics.dc-heroes-origins.g6",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In Superman's early development by Jerry Siegel and Joe Shuster, how was the character originally depicted before his heroic debut?",
+        "mn": "Жери Сигел, Жо Шустер нар Супермэний дүрийг анх зохион бүтээхдээ түүнийг ямар дүрээр дүрсэлж байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "A silent detective",
+          "mn": "Дуугүй мөрдөгч"
+        },
+        {
+          "en": "A time-traveling robot",
+          "mn": "Цаг хугацаагаар аялагч робот"
+        },
+        {
+          "en": "An ancient Greek demigod",
+          "mn": "Эртний Грекийн хагас бурхан"
+        },
+        {
+          "en": "A bald, telepathic villain",
+          "mn": "Халзан, телепат чадвартай хорон санаатан"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "In their 1933 short story 'The Reign of the Superman', Siegel and Shuster envisioned him as a bald, telepathic villain. They later completely redesigned him as a costumed hero.",
+        "mn": "Сигел, Шустер нар 1933 онд бичсэн 'Супермэний засаглал' өгүүллэгтээ түүнийг халзан, телепат чадвартай хорон санаатан болгон дүрсэлжээ. Хожим нь тэд түүнийг багт баатар болгон бүрэн өөрчилсөн байна."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.dc-heroes-origins",
+      "key": "comics.dc-heroes-origins.g7",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Who is widely recognized as the co-creator of Batman alongside Bob Kane, responsible for designing his iconic dark look and writing many early stories?",
+        "mn": "Боб Кейнтэй хамт Бэтмэнийг хамтран бүтээсэн, түүний харанхуй өнгө төрхийг тодорхойлж, анхны түүхүүдийг бичсэн хүн хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Steve Ditko",
+          "mn": "Стив Дитко"
+        },
+        {
+          "en": "Jack Kirby",
+          "mn": "Жек Кирби"
+        },
+        {
+          "en": "Stan Lee",
+          "mn": "Стэн Ли"
+        },
+        {
+          "en": "Bill Finger",
+          "mn": "Билл Фингер"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Bill Finger was uncredited for decades despite creating Batman's cowl, cape, and Gotham City. DC officially began recognizing him as co-creator in 2015.",
+        "mn": "Билл Фингер Бэтмэний баг, нөмрөг, Готам хотыг зохиосон ч олон арван жилийн турш түүний нэр дурдагддаггүй байв. DC компани 2015 оноос түүнийг албан ёсоор хамтран бүтээгчээр хүлээн зөвшөөрсөн юм."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.dc-heroes-origins",
+      "key": "comics.dc-heroes-origins.g8",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which cosmic entity grants the Green Lanterns their power rings, acting as the self-appointed guardians of the universe?",
+        "mn": "Ногоон Дэнлүү нарт хүчний бөгжийг нь өгч, орчлон ертөнцийн хамгаалагч хэмээн өөрсдийгөө өргөмжилсөн сансрын биетүүд хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "The Guardians of the Universe",
+          "mn": "Орчлон ертөнцийн хамгаалагчид"
+        },
+        {
+          "en": "The New Gods of Genesis",
+          "mn": "Генезисийн шинэ бурхад"
+        },
+        {
+          "en": "The Kryptonian High Council",
+          "mn": "Криптоны дээд зөвлөл"
+        },
+        {
+          "en": "The Lords of Order",
+          "mn": "Дэг журмын эзэд"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Guardians of the Universe are an ancient, blue-skinned race residing on the planet Oa. They created the Green Lantern Corps to police the cosmos.",
+        "mn": "Орчлон ертөнцийн хамгаалагчид нь Оа гаригт амьдардаг эртний, хөх арьстнууд юм. Тэд сансар огторгуйг хамгаалахын тулд Ногоон Дэнлүүгийн бүлгэмийг байгуулжээ."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.dc-heroes-origins",
+      "key": "comics.dc-heroes-origins.g9",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the name of Aquaman's home, the advanced underwater kingdom that he rules?",
+        "mn": "Акуамэний захирдаг усан доорх дэвшилтэт хаант улсыг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Atlantis",
+          "mn": "Атлантида"
+        },
+        {
+          "en": "Themyscira",
+          "mn": "Темискира"
+        },
+        {
+          "en": "Attilan",
+          "mn": "Аттилан"
+        },
+        {
+          "en": "Subterranea",
+          "mn": "Субтерранеа"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Aquaman (Arthur Curry) is the King of Atlantis, a mythical sunken continent. He possesses superhuman strength, water telepathy, and the ability to swim at incredible speeds.",
+        "mn": "Акуамэн (Артур Карри) бол усан доор живсэн домогт Атлантида улсын хаан юм. Тэрээр ер бусын хүч чадалтай бөгөөд усан доорх амьтадтай телепатаар харилцдаг."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.dc-heroes-origins",
+      "key": "comics.dc-heroes-origins.g10",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which superhero was originally published by Fawcett Comics before being acquired by DC Comics after a long-running copyright lawsuit?",
+        "mn": "Олон жилийн турш үргэлжилсэн зохиогчийн эрхийн маргааны дараа DC Comics-т шилжихээс өмнө анх Fawcett Comics-оос хэвлэгдэн гардаг байсан баатар аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Shazam (Captain Marvel)",
+          "mn": "Шазам (Капитан Марвел)"
+        },
+        {
+          "en": "Plastic Man",
+          "mn": "Пластик хүн"
+        },
+        {
+          "en": "The Spectre",
+          "mn": "Спектр"
+        },
+        {
+          "en": "Blue Beetle",
+          "mn": "Хөх Цох"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Shazam, originally called Captain Marvel, was so popular in the 1940s that he outsold Superman. DC sued Fawcett Comics, claiming the character was a copy of Superman.",
+        "mn": "Анх Капитан Марвел нэртэй байсан Шазам 1940-өөд онд маш их алдартай байсан тул борлуулалтаараа Супермэнийг давж байв. DC компани түүнийг Супермэний хуулбар гэж үзэн Fawcett Comics-ийг шүүхэд өгч байжээ."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.dc-heroes-origins",
+      "key": "comics.dc-heroes-origins.g11",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the name of the fictional, crime-ridden city that Batman is dedicated to protecting?",
+        "mn": "Бэтмэний амь насаараа хамгаалдаг, гэмт хэрэгт автсан зохиомол хотыг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Central City",
+          "mn": "Сентрал Сити"
+        },
+        {
+          "en": "Star City",
+          "mn": "Стар Сити"
+        },
+        {
+          "en": "Metropolis",
+          "mn": "Метрополис"
+        },
+        {
+          "en": "Gotham City",
+          "mn": "Готам хот"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Batman operates in Gotham City, which is often depicted as a dark, gothic version of New York City. Superman, on the other hand, protects Metropolis.",
+        "mn": "Бэтмэн Готам хотод ажилладаг бөгөөд энэ хотыг ихэвчлэн Нью-Йорк хотын харанхуй, готик хувилбараар дүрсэлдэг. Харин Супермэн Метрополис хотыг хамгаалдаг."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.dc-heroes-origins",
+      "key": "comics.dc-heroes-origins.g12",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In the DC Universe, what is the real name of the Martian Manhunter, one of the founding members of the Justice League?",
+        "mn": "DC ертөнцийн Шударга ёсны лигийг үүсгэн байгуулагчдын нэг болох Ангараг гарагийн ангуучийн (Martian Manhunter) жинхэнэ нэр хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Katar Hol",
+          "mn": "Катар Хол"
+        },
+        {
+          "en": "Thaal Sinestro",
+          "mn": "Таал Синестро"
+        },
+        {
+          "en": "Kal-El",
+          "mn": "Кал-Эл"
+        },
+        {
+          "en": "J'onn J'onzz",
+          "mn": "Ж'онн Ж'онзз"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Martian Manhunter's real name is J'onn J'onzz. He was accidentally teleported to Earth from Mars and possesses shape-shifting and telepathic abilities.",
+        "mn": "Ангараг гарагийн ангуучийн жинхэнэ нэрийг Ж'онн Ж'онзз гэдэг. Тэрээр Ангараг гаригаас дэлхий рүү санамсаргүй байдлаар телепортлогдсон бөгөөд хувирах болон телепат чадвартай."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.great-villains",
+      "key": "comics.great-villains.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In his very first appearance in Batman #1 in 1940, what was originally supposed to happen to the Joker at the end of the issue?",
+        "mn": "Жокер 1940 оны 'Batman #1' комикст анх гарахдаа тухайн дугаарын төгсгөлд яах ёстой байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "He was supposed to die",
+          "mn": "Үхэх ёстой байсан"
+        },
+        {
+          "en": "He was to become Batman's ally",
+          "mn": "Бэтмэний холбоотон болох"
+        },
+        {
+          "en": "He was to be unmasked as Bruce Wayne",
+          "mn": "Брюс Вэйн гэдэг нь илчлэгдэх"
+        },
+        {
+          "en": "He was supposed to escape to space",
+          "mn": "Сансар руу зугтах"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Joker was originally intended to be killed off in his debut issue by accidentally stabbing himself, but editor Whitney Ellsworth saved him at the last minute by adding a final panel showing he survived.",
+        "mn": "Жокерыг анхны дугаар дээр нь санамсаргүйгээр өөрийгөө хутгалж үхүүлөхөөр төлөвлөж байсан ч редактор Уитни Эллсворт сүүлийн мөчид амьд үлдсэнийг нь харуулсан зурвас нэмж аварчээ."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.great-villains",
+      "key": "comics.great-villains.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Magneto's complex and tragic backstory as a Holocaust survivor was not present in his 1963 debut. In which year was this defining origin story finally introduced?",
+        "mn": "Магнетогийн Холокостыг даван туулсан эмгэнэлт түүх 1963 оны анхны дугаарт байгаагүй. Түүний энэхүү гол намтар түүхийг хэдэн онд анх оруулж ирсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "1981",
+          "mn": "1981"
+        },
+        {
+          "en": "1965",
+          "mn": "1965"
+        },
+        {
+          "en": "1995",
+          "mn": "1995"
+        },
+        {
+          "en": "2008",
+          "mn": "2008"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Writer Chris Claremont first established Magneto's history as a Shoah survivor in Uncanny X-Men #150, published in 1981, transforming him from a generic villain into a complex figure.",
+        "mn": "Зохиолч Крис Клэрмонт 1981 оны 'Uncanny X-Men #150' дугаарт Магнетог Холокостоос амьд үлдэгч болгон бичсэнээр түүнийг энгийн нэгэн хорон санаатнаас гүн гүнзгий дүр болгон хувиргажээ."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.great-villains",
+      "key": "comics.great-villains.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of the following is NOT a traditional weapon or trademark of Superman's billionaire arch-nemesis Lex Luthor?",
+        "mn": "Дараах зүйлсийн аль нь Супермэний заналт дайсан тэрбумтан Лекс Люторын уламжлалт зэвсэг эсвэл онцлог шинж биш вэ?"
+      },
+      "choices": [
+        {
+          "en": "A high-tech green Warsuit",
+          "mn": "Өндөр технологийн ногоон хуяг"
+        },
+        {
+          "en": "Kryptonite-infused weaponry",
+          "mn": "Криптонит агуулсан зэвсэг"
+        },
+        {
+          "en": "Brilliant genius-level intellect",
+          "mn": "Суут ухаан, өндөр IQ"
+        },
+        {
+          "en": "A magic ring from the wizard Shazam",
+          "mn": "Шидтэн Шазамын шидтэй бөгж"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Lex Luthor relies entirely on science, intellect, and wealth. He does not use magic, which is actually one of Superman's other major weaknesses.",
+        "mn": "Лекс Лютор зөвхөн шинжлэх ухаан, оюун ухаан, хөрөнгө чинээндээ тулгуурладаг бөгөөд шид шившлэг ашигладаггүй. Шид бол Супермэний бас нэгэн гол сул тал юм."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.great-villains",
+      "key": "comics.great-villains.g4",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Thanos, the Mad Titan who wiped out half of all life in the universe, made his first comic book appearance in a 1973 issue of which superhero's title?",
+        "mn": "Ертөнцийн амьдралын талыг устгасан Галзуу Титан буюу Танос 1973 онд анх аль баатрын комиксын дугаарт гарч байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "The Avengers",
+          "mn": "Өшөө авагчид (Avengers)"
+        },
+        {
+          "en": "Thor",
+          "mn": "Тор (Thor)"
+        },
+        {
+          "en": "Iron Man",
+          "mn": "Төмөр хүн (Iron Man)"
+        },
+        {
+          "en": "Captain America",
+          "mn": "Капитан Америк"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Thanos first appeared in Iron Man #55 in February 1973, created by Jim Starlin. He was originally inspired by DC's New Gods characters, particularly Metron and Darkseid.",
+        "mn": "Танос анх 1973 оны 2-р сард 'Iron Man #55' дугаарт Жим Старлины бүтээснээр гарч байжээ. Түүнийг анх DC-ийн 'Шинэ Бурхад' дүрээс сэдэвлэн бүтээсэн байна."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.great-villains",
+      "key": "comics.great-villains.g5",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of these major comic book villains was co-created by Stan Lee and Jack Kirby in 1963?",
+        "mn": "Эдгээр алдартай хорон санаатнуудын алийг нь Стэн Ли, Жек Кирби нар 1963 онд хамтран бүтээсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Lex Luthor",
+          "mn": "Лекс Лютор"
+        },
+        {
+          "en": "Thanos",
+          "mn": "Танос"
+        },
+        {
+          "en": "Magneto",
+          "mn": "Магнето"
+        },
+        {
+          "en": "The Joker",
+          "mn": "Жокер"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Magneto debuted in X-Men #1 in September 1963, created by Stan Lee and Jack Kirby. He was designed as the ideological counterpoint to Professor Charles Xavier.",
+        "mn": "Магнето нь 1963 оны 9-р сард 'X-Men #1' дугаарт Стэн Ли, Жек Кирби нарын бүтээснээр анх гарч иржээ. Тэрээр Профессор Икс-ийн үзэл бодлын эсрэг дүр болж бүтээгдсэн."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.great-villains",
+      "key": "comics.great-villains.g6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the primary power of the Marvel villain Magneto?",
+        "mn": "Марвелын хорон санаат дүр Магнетогийн үндсэн гол хүч юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Magnetic field manipulation",
+          "mn": "Соронзон орныг удирдах"
+        },
+        {
+          "en": "Superhuman speed",
+          "mn": "Хэт их хурд"
+        },
+        {
+          "en": "Mind control",
+          "mn": "Оюун ухаан удирдах"
+        },
+        {
+          "en": "Teleportation",
+          "mn": "Орон зайн шилжилт"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Magneto is an Omega-level mutant with the power to manipulate electromagnetic fields, allowing him to control metal. He also wears a helmet that shields him from telepathic attacks.",
+        "mn": "Магнето бол соронзон орныг удирдан металлыг хянах чадвартай Омега зэрэглэлийн мутант юм. Тэрээр бусдын оюун санааны дайралтаас хамгаалах тусгай дуулга өмсдөг."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.great-villains",
+      "key": "comics.great-villains.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of Lex Luthor's alter egos or full names is recognized as his official canonical name in DC Comics?",
+        "mn": "DC Комикст Лекс Люторын албан ёсны бүтэн нэрийг хэн гэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Alexander Joseph Luthor",
+          "mn": "Александр Жозеф Лютор"
+        },
+        {
+          "en": "Luther Jack Napier",
+          "mn": "Лютер Жек Напьер"
+        },
+        {
+          "en": "Alexis Baldur Luthor",
+          "mn": "Алексис Балдур Лютор"
+        },
+        {
+          "en": "Arthur Fleck Luthor",
+          "mn": "Артур Флек Лютор"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Lex Luthor's full canonical name is Alexander Joseph Luthor. He was created by Jerry Siegel and Joe Shuster, first appearing in Action Comics #23 in 1940.",
+        "mn": "Лекс Люторын бүтэн нэрийг Александр Жозеф Лютор гэдэг. Түүнийг Жери Сигел, Жо Шустер нар бүтээж, анх 1940 онд 'Action Comics #23' дугаарт гаргажээ."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.great-villains",
+      "key": "comics.great-villains.g8",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which cosmic object does Thanos seek to collect in order to gain omnipotent power over the universe?",
+        "mn": "Танос орчлон ертөнцийг бүрэн захирах хязгааргүй хүчийг олж авахын тулд ямар зүйлсийг цуглуулдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Mother Boxes",
+          "mn": "Эх хайрцагнууд (Mother Boxes)"
+        },
+        {
+          "en": "Infinity Stones",
+          "mn": "Хязгааргүйн чулуунууд"
+        },
+        {
+          "en": "Kryptonite Crystals",
+          "mn": "Криптонитын талстууд"
+        },
+        {
+          "en": "Chaos Emeralds",
+          "mn": "Хаосын маргад эрдэнэс"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Thanos seeks the six Infinity Stones (formerly called Soul Gems) to mount on his Infinity Gauntlet, giving him absolute power over reality, time, space, mind, soul, and power.",
+        "mn": "Танос Хязгааргүйн бээлийндээ суулгах 6 ширхэг Хязгааргүйн чулууг хайдаг бөгөөд эдгээр нь бодит байдал, цаг хугацаа, орон зай, оюун ухаан, сүнс, хүч чадлыг хянах боломжийг олгодог."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.great-villains",
+      "key": "comics.great-villains.g9",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In the famous comic storyline 'The Killing Joke', which character does the Joker paralyze in an attempt to drive Commissioner Gordon insane?",
+        "mn": "Алдартай 'The Killing Joke' комикст Жокер Комиссар Гордоныг галзууруулахын тулд хэнийг буудаж, насан туршид нь суумгай болгодог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Lois Lane",
+          "mn": "Лоис Лэйн"
+        },
+        {
+          "en": "Barbara Gordon (Batgirl)",
+          "mn": "Барбара Гордон (Бэтгөрл)"
+        },
+        {
+          "en": "Dick Grayson (Robin)",
+          "mn": "Дик Грейсон (Робин)"
+        },
+        {
+          "en": "Alfred Pennyworth",
+          "mn": "Альфред Пенниуорт"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Joker shoots and paralyzes Barbara Gordon (who was Batgirl) in Alan Moore's 1988 graphic novel. She later adopts the hacker persona 'Oracle' to continue helping heroes.",
+        "mn": "Зохиолч Алан Мурын 1988 оны зохиолд Жокер Барбара Гордоныг буудаж суумгай болгодог. Үүний дараа тэрээр 'Оракл' нэрээр баатруудад мэдээллээр тусалдаг болдог."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.great-villains",
+      "key": "comics.great-villains.g10",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of these comic book villains is famously known as 'The Mad Titan'?",
+        "mn": "Эдгээр хорон санаатнуудын хэнийг нь 'Галзуу Титан' гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Thanos",
+          "mn": "Танос"
+        },
+        {
+          "en": "Darkseid",
+          "mn": "Дарксайд"
+        },
+        {
+          "en": "Galactus",
+          "mn": "Галактус"
+        },
+        {
+          "en": "Apocalypse",
+          "mn": "Апокалипсис"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Thanos is known as the Mad Titan because he was born on Saturn's moon Titan and proposed the radical idea of wiping out half its population to save it from resource depletion.",
+        "mn": "Таносыг Санчир гаригийн дагуул Титан дээр төрсөн бөгөөд нөөцийн хомсдолоос аврахын тулд хүн амын талыг устгах галзуу санаа дэвшүүлсэн тул 'Галзуу Титан' гэж нэрлэжээ."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.great-villains",
+      "key": "comics.great-villains.g11",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Who is the primary creator of the Marvel villain Thanos, making his debut in 1973?",
+        "mn": "1973 онд анх гарсан Марвелын хорон санаат дүр Таносыг хэн бүтээсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Jim Starlin",
+          "mn": "Жим Старлин"
+        },
+        {
+          "en": "Stan Lee",
+          "mn": "Стэн Ли"
+        },
+        {
+          "en": "Steve Ditko",
+          "mn": "Стив Дитко"
+        },
+        {
+          "en": "Jack Kirby",
+          "mn": "Жек Кирби"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Thanos was created by writer-artist Jim Starlin during a psychology class in college, before he began working professionally for Marvel Comics.",
+        "mn": "Таносыг зохиолч, зураач Жим Старлин коллежид сэтгэл судлалын хичээл дээр сууж байхдаа анх бодож олсон бөгөөд дараа нь Марвелд ажиллаж эхэлжээ."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.great-villains",
+      "key": "comics.great-villains.g12",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of the following identities is widely used as one of Magneto's real names in Marvel Comics lore?",
+        "mn": "Марвелын комикст Магнетогийн жинхэнэ нэрсийн нэг гэж тооцогддог нэр аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Norman Osborn",
+          "mn": "Норман Осборн"
+        },
+        {
+          "en": "Erik Lehnsherr",
+          "mn": "Эрик Леншер"
+        },
+        {
+          "en": "Victor von Doom",
+          "mn": "Виктор фон Дум"
+        },
+        {
+          "en": "Otto Octavius",
+          "mn": "Отто Октавиус"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Magneto has used the alias Erik Lehnsherr for decades, though his birth name was later revealed to be Max Eisenhardt in the comics.",
+        "mn": "Магнето олон арван жилийн турш Эрик Леншер гэдэг нэрийг ашиглаж ирсэн боловч түүний төрсөн жинхэнэ нэр нь Макс Айзенхардт болох нь хожим илэрсэн байдаг."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.marvel-heroes-origins",
+      "key": "comics.marvel-heroes-origins.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In his 1962 debut in Amazing Fantasy #15, which superhero was created by Stan Lee and Steve Ditko as a flawed, relatable teenager?",
+        "mn": "1962 онд 'Amazing Fantasy #15' цувралд анх гарч байсан, Стэн Ли болон Стив Дитко нарын бүтээсэн, жирийн нэгэн өсвөр насны хүү болох супер баатар хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Captain America",
+          "mn": "Ахмад Америк"
+        },
+        {
+          "en": "Iron Man",
+          "mn": "Төмөр хүн"
+        },
+        {
+          "en": "Spider-Man",
+          "mn": "Хүн-аалз"
+        },
+        {
+          "en": "Thor",
+          "mn": "Тор"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Spider-Man (Peter Parker) was a breakthrough character because he had everyday teenage struggles. His red and blue suit colors were chosen because they printed best with cheap 1960s ink.",
+        "mn": "Хүн-аалз (Питер Паркер) нь өсвөр насны хүүхдийн өдөр тутмын асуудалтай тулгардаг анхны баатруудын нэг болж гарсан юм. Түүний улаан, хөх өнгийн өмсгөлийг 1960-аад оны хямд бэхээр хэвлэхэд хамгийн тод гардаг байсан тул сонгожээ."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.marvel-heroes-origins",
+      "key": "comics.marvel-heroes-origins.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which fictional, highly advanced African nation is the home and kingdom of Black Panther (T'Challa)?",
+        "mn": "Хар Ирвэс (Т'Чалла)-ийн эх орон, өндөр технологи хөгжсөн зохиомол Африкийн улсыг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Genosha",
+          "mn": "Женоша"
+        },
+        {
+          "en": "Zamunda",
+          "mn": "Замунда"
+        },
+        {
+          "en": "Wakanda",
+          "mn": "Ваканда"
+        },
+        {
+          "en": "Latveria",
+          "mn": "Латвериа"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Wakanda is a hidden, technologically advanced African nation rich in the rare metal vibranium. It first appeared in Fantastic Four #52 in 1966.",
+        "mn": "Ваканда бол ховор металл болох вибраниумаар баялаг, нууцлагдмал, өндөр технологи бүхий Африкийн улс юм. Энэ улс анх 1966 оны 'Fantastic Four #52' дугаарт гардаг."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.marvel-heroes-origins",
+      "key": "comics.marvel-heroes-origins.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What rare, fictional metal was used to forge Captain America's iconic round shield?",
+        "mn": "Ахмад Америкийн алдарт дугуй бамбайг ямар ховор, зохиомол металлаар хийсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Adamantium",
+          "mn": "Адамантиум"
+        },
+        {
+          "en": "Kryptonite",
+          "mn": "Криптонит"
+        },
+        {
+          "en": "Mithril",
+          "mn": "Митрил"
+        },
+        {
+          "en": "Vibranium",
+          "mn": "Вибраниум"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Captain America's shield is made of a unique vibranium-iron alloy, which allows it to absorb and redirect kinetic energy. Vibranium is primarily found in Wakanda.",
+        "mn": "Ахмад Америкийн бамбай нь кинетик энергийг өөртөө шингээж, ойлгох чадвартай вибраниум-төмрийн ховор хайлшаар хийгдсэн байдаг. Вибраниум нь голдуу Ваканда улсаас олддог металл юм."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.marvel-heroes-origins",
+      "key": "comics.marvel-heroes-origins.g4",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The Hulk is famous for his green skin, but what color was he originally in his debut issue of Incredible Hulk #1 (1962)?",
+        "mn": "Халк нь ногоон арьстай гэдгээрээ алдартай боловч 1962 оны 'Incredible Hulk #1' анхны дугаарт ямар өнгөтэй байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Blue",
+          "mn": "Цэнхэр"
+        },
+        {
+          "en": "Grey",
+          "mn": "Саарал"
+        },
+        {
+          "en": "Red",
+          "mn": "Улаан"
+        },
+        {
+          "en": "Yellow",
+          "mn": "Шар"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Stan Lee originally chose grey for the Hulk to avoid association with any ethnic group. However, due to printing ink inconsistency in 1962, he was changed to green in the second issue.",
+        "mn": "Стэн Ли анх Халкыг ямар нэгэн үндэстэн ястныг илэрхийлэхээс зайлсхийж саарал өнгөтэйгөөр бүтээжээ. Гэвч 1962 оны хэвлэлийн бэхний тогтворгүй байдлаас шалтгаалан хоёр дахь дугаараас нь эхлэн ногоон өнгөтэй болгон өөрчилжээ."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.marvel-heroes-origins",
+      "key": "comics.marvel-heroes-origins.g5",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the real, civilian name of the brilliant billionaire in the high-tech armor suit known as Iron Man?",
+        "mn": "Төмөр хүн гэгддэг, өндөр технологийн хуягт өмсгөл өмсдөг суут тэрбумтны жинхэнэ нэр хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Steve Rogers",
+          "mn": "Стив Рожерс"
+        },
+        {
+          "en": "Tony Stark",
+          "mn": "Тони Старк"
+        },
+        {
+          "en": "Bruce Wayne",
+          "mn": "Брюс Уэйн"
+        },
+        {
+          "en": "Clark Kent",
+          "mn": "Кларк Кент"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Iron Man is the alter ego of Tony Stark, a wealthy industrialist and genius inventor. He first appeared in Tales of Suspense #39 in 1963.",
+        "mn": "Төмөр хүн бол чинээлэг үйлдвэрлэгч, суут зохион бүтээгч Тони Старкийн нууц нэр юм. Тэрээр анх 1963 оны 'Tales of Suspense #39' дугаарт гарч байжээ."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.marvel-heroes-origins",
+      "key": "comics.marvel-heroes-origins.g6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which Norse mythological weapon can only be lifted by those deemed 'worthy' of the power of Thor?",
+        "mn": "Скандинавын гол домогт гардаг, зөвхөн Торын хүч чадлыг эзэмших 'эрхтэй' хүн л өргөж чаддаг зэвсэг аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Excalibur",
+          "mn": "Экскалибур"
+        },
+        {
+          "en": "Mjolnir",
+          "mn": "Мьёлнир"
+        },
+        {
+          "en": "Stormbreaker",
+          "mn": "Стормбрекер"
+        },
+        {
+          "en": "Gungnir",
+          "mn": "Гунгнир"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Mjolnir is Thor's enchanted hammer forged in the heart of a dying star. Its side is inscribed with Odin's enchantment regarding worthiness.",
+        "mn": "Мьёлнир бол мөхөж буй одны зүрхэнд урласан Торын шидэт алх юм. Үүн дээр зөвхөн зохистой нэгэн л өргөж чадна гэсэн Один бурхны шившлэг сийлэгдсэн байдаг."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.marvel-heroes-origins",
+      "key": "comics.marvel-heroes-origins.g7",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of the following classic Marvel characters was NOT co-created by the legendary artist Jack Kirby?",
+        "mn": "Доорх алдартай Марвелын баатруудын хэнийг нь домогт зураач Жек Кирби хамтран бүтээгээгүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Captain America",
+          "mn": "Ахмад Америк"
+        },
+        {
+          "en": "Spider-Man",
+          "mn": "Хүн-аалз"
+        },
+        {
+          "en": "Thor",
+          "mn": "Тор"
+        },
+        {
+          "en": "The Hulk",
+          "mn": "Халк"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "While Jack Kirby co-created Captain America, Hulk, and Thor, Spider-Man was co-created by Stan Lee and artist Steve Ditko.",
+        "mn": "Жек Кирби нь Ахмад Америк, Халк, Тор нарыг хамтран бүтээсэн бол Хүн-аалзыг Стэн Ли зураач Стив Диткотой хамтран бүтээсэн юм."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.marvel-heroes-origins",
+      "key": "comics.marvel-heroes-origins.g8",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Before he became the Sorcerer Supreme, what was Doctor Stephen Strange's highly lucrative medical profession?",
+        "mn": "Дээд илбэчин болохоосоо өмнө Доктор Стивен Стрэнж ямар чиглэлийн өндөр орлоготой эмч байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Orthopedic Surgeon",
+          "mn": "Гэмтэл согогийн мэс засалч"
+        },
+        {
+          "en": "Pediatrician",
+          "mn": "Хүүхдийн эмч"
+        },
+        {
+          "en": "Neurosurgeon",
+          "mn": "Мэдрэлийн мэс засалч"
+        },
+        {
+          "en": "Cardiologist",
+          "mn": "Зүрхний эмч"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Stephen Strange was an extremely talented but arrogant neurosurgeon whose hands were severely damaged in a car accident, leading him to seek mystic healing.",
+        "mn": "Стивен Стрэнж бол маш авьяаслаг боловч их зантай мэдрэлийн мэс засалч байсан бөгөөд автомашины ослоор гар нь хүнд гэмтсэн тул ид шидийн анагаах ухааныг хайж эхэлжээ."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.marvel-heroes-origins",
+      "key": "comics.marvel-heroes-origins.g9",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which Marvel mutant hero was originally introduced as a villain in X-Men #4 (1964) before joining the Avengers?",
+        "mn": "Марвелын ямар мутант баатар анх 1964 оны 'X-Men #4' дугаарт эсрэг дүрээр гарч байгаад, хожим нь Өшөө авагчид багт нэгдсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Storm",
+          "mn": "Шуурга"
+        },
+        {
+          "en": "Cyclops",
+          "mn": "Циклоп"
+        },
+        {
+          "en": "Scarlet Witch",
+          "mn": "Улаан шулам"
+        },
+        {
+          "en": "Wolverine",
+          "mn": "Росомаха"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Scarlet Witch (Wanda Maximoff) and her brother Quicksilver started as members of Magneto's Brotherhood of Evil Mutants before reforming and joining the Avengers.",
+        "mn": "Улаан шулам (Ванда Максимофф) болон түүний ах Квиксилвер нар анх Магнетогийн муу талын мутантуудын бүлэгт байсан бөгөөд хожим нь замаа засаж Өшөө авагчид багт нэгджээ."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.marvel-heroes-origins",
+      "key": "comics.marvel-heroes-origins.g10",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which of these Marvel heroes was frozen in ice at the end of World War II and revived decades later in the modern era?",
+        "mn": "Марвелын баатруудаас хэн нь Дэлхийн II дайны төгсгөлд мөсөнд хөлдөж, хэдэн арван жилийн дараа орчин үед гэсэж сэргэсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Iron Man",
+          "mn": "Төмөр хүн"
+        },
+        {
+          "en": "Bruce Banner",
+          "mn": "Брюс Бэннер"
+        },
+        {
+          "en": "Captain America",
+          "mn": "Ахмад Америк"
+        },
+        {
+          "en": "Wolverine",
+          "mn": "Росомаха"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Steve Rogers (Captain America) crashed into the Arctic in 1945 and remained in suspended animation until he was discovered and revived by the Avengers.",
+        "mn": "Стив Рожерс (Ахмад Америк) 1945 онд Хойд туйлын мөсөнд унаж хөлдсөн бөгөөд хожим нь Өшөө авагчид түүнийг олж гэсгээн сэргээсэн байна."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.marvel-heroes-origins",
+      "key": "comics.marvel-heroes-origins.g11",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Who is the blind lawyer from Hell's Kitchen, New York, who fights crime at night using his radar-like remaining senses?",
+        "mn": "Нью-Йоркийн Хеллс Китчен дүүргийн хараагүй хуульч бөгөөд шөнөдөө өөрийн радарын мэт бусад мэдрэхүйгээ ашиглан гэмт хэрэгтэй тэмцдэг баатар хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Daredevil",
+          "mn": "Дардевил"
+        },
+        {
+          "en": "Iron Fist",
+          "mn": "Төмөр нударга"
+        },
+        {
+          "en": "Luke Cage",
+          "mn": "Люк Кейж"
+        },
+        {
+          "en": "The Punisher",
+          "mn": "Шийтгэгч"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Daredevil (Matt Murdock) lost his sight due to a radioactive substance but gained heightened superhuman senses. He was created by Stan Lee and Bill Everett in 1964.",
+        "mn": "Дардевил (Мэтт Мөрдок) цацраг идэвхт бодисын улмаас хараагаа алдсан ч бусад мэдрэхүй нь ер бусын хөгжсөн байна. Түүнийг 1964 онд Стэн Ли, Билл Эверетт нар бүтээжээ."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.marvel-heroes-origins",
+      "key": "comics.marvel-heroes-origins.g12",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which Marvel comic book series, debuting in 1961, is widely credited with kicking off the modern age of Marvel Comics?",
+        "mn": "1961 онд хэвлэгдэн гарсан Марвелын ямар цуврал комикс нь 'Марвелын орчин үеийн эрин үе'-ийг эхлүүлсэн гэж тооцогддог вэ?"
+      },
+      "choices": [
+        {
+          "en": "The X-Men",
+          "mn": "Икс хүмүүс"
+        },
+        {
+          "en": "The Avengers",
+          "mn": "Өшөө авагчид"
+        },
+        {
+          "en": "The Amazing Spider-Man",
+          "mn": "Гайхамшигт Хүн-аалз"
+        },
+        {
+          "en": "Fantastic Four",
+          "mn": "Гайхамшигт дөрвөл"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Fantastic Four #1 in 1961 was the first major superhero team created by Stan Lee and Jack Kirby, which revitalized the company and laid the foundation for the Marvel Universe.",
+        "mn": "1961 оны 'Fantastic Four #1' нь Стэн Ли, Жек Кирби нарын бүтээсэн анхны томоохон супер баатрын баг бөгөөд энэ нь компанийг сэргээж, Марвелын ертөнцийн суурийг тавьсан юм."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.first-appearances-timeline",
+      "key": "comics.first-appearances-timeline.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Who is the secret alter ego of Superman, the hero who launched the superhero genre in 1938?",
+        "mn": "1938 онд супер баатрын эрин үеийг эхлүүлсэн Супермэний жинхэнэ нэр хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Clark Kent",
+          "mn": "Кларк Кент"
+        },
+        {
+          "en": "Bruce Wayne",
+          "mn": "Брюс Уэйн"
+        },
+        {
+          "en": "Peter Parker",
+          "mn": "Питер Паркер"
+        },
+        {
+          "en": "Tony Stark",
+          "mn": "Тони Старк"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Superman's civilian identity is Clark Kent, a mild-mannered reporter for the Daily Planet. He was created by Jerry Siegel and Joe Shuster.",
+        "mn": "Супермэний жинхэнэ дүр бол Daily Planet сонины сурвалжлагч Кларк Кент юм. Түүнийг Жерри Сигел, Жо Шустер нар бүтээжээ."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.first-appearances-timeline",
+      "key": "comics.first-appearances-timeline.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Who is credited as the co-creator of Batman alongside artist Bob Kane, though he was uncredited for decades?",
+        "mn": "Бэтмэнийг зураач Боб Кейнтэй хамтран бүтээсэн боловч олон арван жилийн турш нэр нь дурдагдаагүй үлдсэн зохиолч хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Bill Finger",
+          "mn": "Билл Фингер"
+        },
+        {
+          "en": "Stan Lee",
+          "mn": "Стэн Ли"
+        },
+        {
+          "en": "Jack Kirby",
+          "mn": "Жек Кирби"
+        },
+        {
+          "en": "Jerry Siegel",
+          "mn": "Жерри Сигел"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Bill Finger wrote Batman's debut story and contributed key elements like the cowl, cape, and the name Gotham City, but only received official credit decades later.",
+        "mn": "Билл Фингер Бэтмэний анхны түүхийг бичиж, баг, цув, Готам хотын нэр зэрэг гол элементүүдийг санаачилсан ч олон жилийн дараа л албан ёсоор нэр нь дурдагдах болсон юм."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.first-appearances-timeline",
+      "key": "comics.first-appearances-timeline.g3",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the real identity of Spider-Man, who first appeared in Amazing Fantasy #15 in 1962?",
+        "mn": "1962 оны Amazing Fantasy #15 дугаарт анх гарч ирсэн Хүн-аалзны жинхэнэ нэр хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Steve Rogers",
+          "mn": "Стив Рожерс"
+        },
+        {
+          "en": "Bruce Banner",
+          "mn": "Брюс Бэннер"
+        },
+        {
+          "en": "Peter Parker",
+          "mn": "Питер Паркер"
+        },
+        {
+          "en": "Barry Allen",
+          "mn": "Барри Аллен"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Peter Parker was a high school student when he was bitten by a radioactive spider. His debut broke the mold by making a teenager the main hero rather than a sidekick.",
+        "mn": "Питер Паркер цацраг идэвхт аалзанд хазуулахдаа ахлах сургуулийн сурагч байв. Түүний дүр өсвөр насны хүүхдийг туслах биш, гол баатар болгосноороо комиксын түүхэнд шинэчлэл хийсэн юм."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.first-appearances-timeline",
+      "key": "comics.first-appearances-timeline.g4",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In which superhero's comic book series did Wolverine make his first full appearance in 1974?",
+        "mn": "1974 онд Улверин (Wolverine) анх аль супер баатрын комикст бүтэн дүрээрээ гарч ирсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "The Incredible Hulk",
+          "mn": "Халк (The Incredible Hulk)"
+        },
+        {
+          "en": "The Uncanny X-Men",
+          "mn": "Икс хүмүүс (X-Men)"
+        },
+        {
+          "en": "Captain America",
+          "mn": "Капитан Америк"
+        },
+        {
+          "en": "Iron Man",
+          "mn": "Төмөр хүн"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Wolverine made his first full appearance in The Incredible Hulk #181, where he was sent by the Canadian government to stop the Hulk.",
+        "mn": "Улверин The Incredible Hulk #181 дугаарт анх бүтэн дүрээрээ гардаг бөгөөд Халкыг зогсоохоор Канадын засгийн газраас илгээгдсэн агент байв."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.first-appearances-timeline",
+      "key": "comics.first-appearances-timeline.g5",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The Fantastic Four debuted in 1961, launching the Marvel Age. Which of the following was NOT an original member of this team?",
+        "mn": "1961 онд Fantastic Four гарч ирснээр Марвелын эрин үе эхэлсэн. Дараах дүрүүдээс аль нь тус багийн анхны гишүүн БИШ вэ?"
+      },
+      "choices": [
+        {
+          "en": "The Thing",
+          "mn": "Юм (The Thing)"
+        },
+        {
+          "en": "Invisible Woman",
+          "mn": "Үл үзэгдэгч бүсгүй"
+        },
+        {
+          "en": "Mister Fantastic",
+          "mn": "Мистер Фантастик"
+        },
+        {
+          "en": "Silver Surfer",
+          "mn": "Мөнгөн гулгагч"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The original Fantastic Four consisted of Mister Fantastic, the Invisible Woman, the Human Torch, and the Thing. Silver Surfer was introduced later in 1966.",
+        "mn": "Анхны Fantastic Four багт Мистер Фантастик, Үл үзэгдэгч бүсгүй, Галт хүн, Юм (The Thing) нар багтдаг байв. Мөнгөн гулгагч нь хожим 1966 онд гарч ирсэн."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.first-appearances-timeline",
+      "key": "comics.first-appearances-timeline.g6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which legendary writer-artist duo created Spider-Man for his debut in Amazing Fantasy #15?",
+        "mn": "Хүн-аалзыг анх санаачлан бүтээж, Amazing Fantasy #15 дугаарыг гаргасан алдартай зохиолч, зураач хоёр хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Bob Kane and Bill Finger",
+          "mn": "Боб Кейн, Билл Фингер"
+        },
+        {
+          "en": "Stan Lee and Jack Kirby",
+          "mn": "Стэн Ли, Жек Кирби"
+        },
+        {
+          "en": "Jerry Siegel and Joe Shuster",
+          "mn": "Жерри Сигел, Жо Шустер"
+        },
+        {
+          "en": "Stan Lee and Steve Ditko",
+          "mn": "Стэн Ли, Стив Дитко"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Stan Lee and Steve Ditko co-created Spider-Man. Ditko was responsible for the iconic red-and-blue suit design and web-shooters.",
+        "mn": "Хүн-аалзыг Стэн Ли, Стив Дитко нар хамтран бүтээжээ. Дитко түүний алдартай улаан, хөх өнгийн өмсгөл болон тор харвагчийн загварыг гаргасан байна."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.first-appearances-timeline",
+      "key": "comics.first-appearances-timeline.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In Batman's 1939 debut in Detective Comics #27, how was his name originally written in the story's title?",
+        "mn": "1939 оны Detective Comics #27 дугаарт Бэтмэн анх гарахад түүний нэрийг гарчиг дээр хэрхэн бичсэн байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Batman",
+          "mn": "Batman"
+        },
+        {
+          "en": "The Bat-Man",
+          "mn": "The Bat-Man"
+        },
+        {
+          "en": "Bat-Man",
+          "mn": "Bat-Man"
+        },
+        {
+          "en": "The Dark Knight",
+          "mn": "The Dark Knight"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "In his first appearance, the character was introduced as 'The Bat-Man' with a hyphen. The hyphen was later dropped to become 'Batman'.",
+        "mn": "Анхны дугаар дээр түүнийг дундуур нь зураастай 'The Bat-Man' гэж бичсэн байв. Хожим нь зураасыг авч 'Batman' болгожээ."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.first-appearances-timeline",
+      "key": "comics.first-appearances-timeline.g8",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which major comic book publisher introduced both Superman and Batman, launching the Golden Age?",
+        "mn": "Супермэн болон Бэтмэнийг хоёуланг нь гаргаж, комиксын Алтан үеийг эхлүүлсэн алдартай хэвлэлийн компани аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "DC Comics",
+          "mn": "DC Comics"
+        },
+        {
+          "en": "Marvel Comics",
+          "mn": "Marvel Comics"
+        },
+        {
+          "en": "Dark Horse Comics",
+          "mn": "Dark Horse Comics"
+        },
+        {
+          "en": "Image Comics",
+          "mn": "Image Comics"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "DC Comics (originally National Allied Publications) published Action Comics #1 and Detective Comics #27, which defined the superhero genre.",
+        "mn": "DC Comics (анх National Allied Publications нэртэй байсан) компани Action Comics #1 болон Detective Comics #27 дугаарыг хэвлэж, супер баатрын төрлийг тодорхойлжээ."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.first-appearances-timeline",
+      "key": "comics.first-appearances-timeline.g9",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Wolverine was not on the original 1963 X-Men team. In which year did he finally join them in Giant-Size X-Men #1?",
+        "mn": "Улверин 1963 оны анхны X-Men багт байгаагүй. Тэрээр хэдэн онд Giant-Size X-Men #1 дугаараар тус багт нэгдсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "1963",
+          "mn": "1963"
+        },
+        {
+          "en": "1980",
+          "mn": "1980"
+        },
+        {
+          "en": "1970",
+          "mn": "1970"
+        },
+        {
+          "en": "1975",
+          "mn": "1975"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Wolverine joined the X-Men in 1975's Giant-Size X-Men #1, which revived the franchise with a new, international roster of mutants.",
+        "mn": "Улверин 1975 оны Giant-Size X-Men #1 дугаараар тус багт нэгдсэн бөгөөд энэ дугаар нь шинэ, олон улсын мутантуудыг багтааж франчайзыг шинэчилсэн юм."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.first-appearances-timeline",
+      "key": "comics.first-appearances-timeline.g10",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Superman's debut in Action Comics #1 is widely considered the start of which comic book era?",
+        "mn": "Action Comics #1 дугаарт Супермэн анх гарч ирсэн нь комиксын аль эрин үеийн эхлэл гэж тооцогддог вэ?"
+      },
+      "choices": [
+        {
+          "en": "The Golden Age",
+          "mn": "Алтан үе"
+        },
+        {
+          "en": "The Silver Age",
+          "mn": "Мөнгөн үе"
+        },
+        {
+          "en": "The Modern Age",
+          "mn": "Орчин үе"
+        },
+        {
+          "en": "The Bronze Age",
+          "mn": "Хүрэл үе"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Golden Age of Comic Books began with Superman's debut in 1938 and lasted until the mid-1950s, characterized by the archetype of the superhero.",
+        "mn": "Комиксын Алтан үе нь 1938 онд Супермэн гарч ирснээр эхэлж, 1950-иад оны дунд үе хүртэл үргэлжилсэн бөгөөд супер баатрын үндсэн хэв шинжийг тодорхойлсон юм."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.first-appearances-timeline",
+      "key": "comics.first-appearances-timeline.g11",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The Fantastic Four #1 (1961) introduced a team of cosmic-powered heroes. Who is the brilliant, elastic leader of this group?",
+        "mn": "1961 оны Fantastic Four #1 дугаар сансрын эрчим хүчээр супер хүчтэй болсон багийг танилцуулсан. Энэ багийн уян хатан, гоц ухаантай удирдагч нь хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Ben Grimm",
+          "mn": "Бен Гримм"
+        },
+        {
+          "en": "Johnny Storm",
+          "mn": "Жонни Сторм"
+        },
+        {
+          "en": "Bruce Banner",
+          "mn": "Брюс Бэннер"
+        },
+        {
+          "en": "Reed Richards",
+          "mn": "Рид Ричардс"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Reed Richards, also known as Mister Fantastic, is the leader of the Fantastic Four. He is married to Sue Storm, the Invisible Woman.",
+        "mn": "Мистер Фантастик гэгддэг Рид Ричардс бол Fantastic Four багийн ахлагч юм. Тэрээр Үл үзэгдэгч бүсгүй буюу Сью Стормтой гэрлэсэн байдаг."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.first-appearances-timeline",
+      "key": "comics.first-appearances-timeline.g12",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In 1938, how much did a single copy of Action Comics #1 cost on newsstands?",
+        "mn": "1938 онд Action Comics #1 дугаар сонины мухлагуудад анх ямар үнээр зарагдаж байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "10 cents",
+          "mn": "10 цент"
+        },
+        {
+          "en": "25 cents",
+          "mn": "25 цент"
+        },
+        {
+          "en": "50 cents",
+          "mn": "50 цент"
+        },
+        {
+          "en": "5 cents",
+          "mn": "5 цент"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Action Comics #1 originally sold for just 10 cents. Today, due to its extreme rarity and historical importance, high-grade copies sell for millions of dollars.",
+        "mn": "Action Comics #1 анх ердөө 10 центээр зарагдаж байжээ. Өнөөдөр маш ховор бөгөөд түүхэн ач холбогдолтой тул сайн хадгалагдсан хувь нь сая сая доллароор үнэлэгддэг."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.best-selling-manga",
+      "key": "comics.best-selling-manga.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Who is the creator of the world's best-selling manga series, 'One Piece', which began its historic run in 1997?",
+        "mn": "1997 оноос гарч эхэлсэн, дэлхийн хамгийн олон хувь борлогдсон 'Ван Пис' (One Piece) манга цувралыг хэн бүтээсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Tite Kubo",
+          "mn": "Титэ Күбо"
+        },
+        {
+          "en": "Akira Toriyama",
+          "mn": "Акира Торияма"
+        },
+        {
+          "en": "Eiichiro Oda",
+          "mn": "Эйичиро Ода"
+        },
+        {
+          "en": "Masashi Kishimoto",
+          "mn": "Масаши Кишимото"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Eiichiro Oda created 'One Piece' in 1997. It holds the Guinness World Record for the most copies published for the same comic book series by a single author.",
+        "mn": "Эйичиро Ода 'Ван Пис' цувралыг 1997 онд бүтээжээ. Энэхүү бүтээл нь нэг зохиолчийн туурвисан хамгийн олон хувь хэвлэгдсэн комик номоор Гиннесийн дээд амжилтыг эзэмшдэг."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.best-selling-manga",
+      "key": "comics.best-selling-manga.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "This manga series by Akira Toriyama, following the martial arts adventures of Son Goku, heavily influenced modern shonen manga. What is its title?",
+        "mn": "Сон Гокүгийн тулааны урлагийн адал явдлыг өгүүлдэг, орчин үеийн шонэн манганы төрөлд асар их нөлөө үзүүлсэн Акира Ториямагийн бүтээлийг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Bleach",
+          "mn": "Блич"
+        },
+        {
+          "en": "One Piece",
+          "mn": "Ван Пис"
+        },
+        {
+          "en": "Dragon Ball",
+          "mn": "Драгон Болл"
+        },
+        {
+          "en": "Naruto",
+          "mn": "Наруто"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Dragon Ball has sold over 260 million copies worldwide. It popularized anime and manga globally and inspired countless other series like Naruto and One Piece.",
+        "mn": "Драгон Болл дэлхий даяар 260 сая гаруй хувь борлогджээ. Энэ бүтээл нь анимэ, мангаг дэлхий дахинд таниулахад чухал үүрэг гүйцэтгэсэн бөгөөд Наруто, Ван Пис зэрэг олон цувралд сэдэл өгсөн юм."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.best-selling-manga",
+      "key": "comics.best-selling-manga.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In the best-selling mystery manga 'Detective Conan', what alias does high school detective Shinichi Kudo adopt after being shrunk into a child?",
+        "mn": "Хамгийн олон борлуулалттай нууцлаг, эрүүгийн сэдэвт 'Мөрдөгч Конан' мангад ахлах ангийн сурагч, мөрдөгч Шинъичи Күдо хүүхэд болж жижгэрснийхээ дараа ямар нууц нэр авдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Conan Edogawa",
+          "mn": "Конан Эдогава"
+        },
+        {
+          "en": "Heiji Hattori",
+          "mn": "Хэйжи Хаттори"
+        },
+        {
+          "en": "Lupin III",
+          "mn": "Гуравдугаар Люпэн"
+        },
+        {
+          "en": "Kaito Kid",
+          "mn": "Кайто Кид"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Shinichi Kudo adopts the alias Conan Edogawa, combining the names of famous mystery writers Arthur Conan Doyle and Edogawa Ranpo.",
+        "mn": "Шинъичи Күдо нь алдартай детектив зохиолч Артур Конан Дойл болон Эдогава Ранпо нарын нэрийг нийлүүлж Конан Эдогава гэх нууц нэрийг зохиосон байна."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.best-selling-manga",
+      "key": "comics.best-selling-manga.g4",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Created by Takao Saito, this classic manga about a legendary professional assassin is one of the longest-running series and has sold over 300 million copies. What is its name?",
+        "mn": "Такао Саитогийн бүтээсэн, домогт мэргэжлийн алуурчны тухай өгүүлэх, 300 сая гаруй хувь борлогдсон хамгийн урт хугацаанд үргэлжилж буй сонгодог мангаг хэн гэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Kochikame",
+          "mn": "Кочикамэ"
+        },
+        {
+          "en": "Golgo 13",
+          "mn": "Голго 13"
+        },
+        {
+          "en": "Baki the Grappler",
+          "mn": "Баки"
+        },
+        {
+          "en": "JoJo's Bizarre Adventure",
+          "mn": "ЖоЖогийн хачирхалтай адал явдал"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Golgo 13 began serialization in 1968 and holds the Guinness World Record for the most volumes published of a single manga series.",
+        "mn": "Голго 13 манга нь 1968 оноос гарч эхэлсэн бөгөөд нэг манга цувралын хамгийн олон боть хэвлэгдсэн Гиннесийн дээд амжилтыг эзэмшдэг."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.best-selling-manga",
+      "key": "comics.best-selling-manga.g5",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In Masashi Kishimoto's hit manga 'Naruto', what is the name of the village where Naruto Uzumaki lives and trains to become Hokage?",
+        "mn": "Масаши Кишимотогийн алдарт 'Наруто' мангад Узумаки Нарутогийн амьдардаг бөгөөд Хокагэ болохоор бэлтгэл хийдэг тосгоныг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Hidden Sand Village",
+          "mn": "Элсэн тосгон (Сүна)"
+        },
+        {
+          "en": "Hidden Mist Village",
+          "mn": "Мананцар тосгон (Кири)"
+        },
+        {
+          "en": "Hidden Leaf Village",
+          "mn": "Навчит тосгон (Коноха)"
+        },
+        {
+          "en": "Hidden Cloud Village",
+          "mn": "Үүлэн тосгон (Күмо)"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Naruto Uzumaki belongs to the Hidden Leaf Village (Konohagakure). The series has sold over 250 million copies worldwide.",
+        "mn": "Узумаки Наруто нь Навчит тосгонд (Конохагакүрэ) амьдардаг. Энэхүү цуврал нь дэлхий даяар 250 сая гаруй хувь борлогджээ."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.best-selling-manga",
+      "key": "comics.best-selling-manga.g6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Takehiko Inoue's critically acclaimed manga 'Slam Dunk' is credited with massively popularizing which sport in Japan during the 1990s?",
+        "mn": "Такэхико Иноүэгийн өндөр үнэлгээтэй 'Слэм Данк' (Slam Dunk) манга нь 1990-ээд оны Японд ямар спортыг асар их алдартай болгосон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Volleyball",
+          "mn": "Волейбол"
+        },
+        {
+          "en": "Baseball",
+          "mn": "Бэйсбол"
+        },
+        {
+          "en": "Association Football",
+          "mn": "Хөлбөмбөг"
+        },
+        {
+          "en": "Basketball",
+          "mn": "Сагсан бөмбөг"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Slam Dunk sold over 170 million copies and inspired millions of Japanese youth to play basketball, leading to a huge surge in the sport's popularity.",
+        "mn": "'Слэм Данк' манга 170 сая гаруй хувь борлогдсон бөгөөд сая сая япон залуусыг сагсан бөмбөг тоглоход уриалж, тус спортын нэр хүндийг асар ихээр өсгөсөн юм."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.best-selling-manga",
+      "key": "comics.best-selling-manga.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which modern manga by Koyoharu Gotouge became one of the fastest-selling series of all time, reaching over 150 million copies in just a few years?",
+        "mn": "Коёохарү Готоүгэгийн аль орчин үеийн манга нь хэдхэн жилийн дотор 150 сая гаруй хувь борлогдож, бүх цаг үеийн хамгийн хурдан борлогдсон цувралуудын нэг болсон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Demon Slayer: Kimetsu no Yaiba",
+          "mn": "Чөтгөрийн ангууч (Demon Slayer)"
+        },
+        {
+          "en": "Jujutsu Kaisen",
+          "mn": "Жүжүцү Кайсэн"
+        },
+        {
+          "en": "My Hero Academia",
+          "mn": "Миний баатарлаг академи"
+        },
+        {
+          "en": "Attack on Titan",
+          "mn": "Титан руу довтолсон нь"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Demon Slayer (Kimetsu no Yaiba) achieved massive success, propelled by a critically acclaimed anime adaptation by studio Ufotable.",
+        "mn": "'Чөтгөрийн ангууч' (Kimetsu no Yaiba) манга нь Ufotable студийн бүтээсэн өндөр үнэлгээтэй анимэ цувралын ачаар асар их амжилтад хүрсэн юм."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.best-selling-manga",
+      "key": "comics.best-selling-manga.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In the 2000s, Weekly Shonen Jump coined the term 'The Big Three' for its top global hits. Which of these was NOT part of that group?",
+        "mn": "2000-аад оны үед 'Викли Шонэн Жамп' сэтгүүл өөрийн шилдэг гурван хит цувралаа 'Их гурвал' (The Big Three) гэж нэрлэж байв. Эдгээрийн алинд нь орохгүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "One Piece",
+          "mn": "Ван Пис"
+        },
+        {
+          "en": "Naruto",
+          "mn": "Наруто"
+        },
+        {
+          "en": "Bleach",
+          "mn": "Блич"
+        },
+        {
+          "en": "Dragon Ball",
+          "mn": "Драгон Болл"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "While incredibly popular, Dragon Ball completed its original run in 1995. 'The Big Three' specifically refers to One Piece, Naruto, and Bleach.",
+        "mn": "Драгон Болл нь асар их алдартай хэдий ч анхны цуврал нь 1995 онд дууссан. 'Их гурвал' гэдэгт Ван Пис, Наруто, Блич нарыг тусгайлан нэрлэдэг байв."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.best-selling-manga",
+      "key": "comics.best-selling-manga.g9",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In the psychological thriller manga 'Death Note', what must a person write in the notebook to cause someone's death?",
+        "mn": "Сэтгэл зүйн триллер төрлийн 'Үхлийн дэвтэр' (Death Note) мангад хүнийг үхэлд хүргэхийн тулд дэвтэр дээр юуг нь бичих ёстой вэ?"
+      },
+      "choices": [
+        {
+          "en": "Their real name",
+          "mn": "Жинхэнэ нэрийг нь"
+        },
+        {
+          "en": "Their phone number",
+          "mn": "Утасны дугаарыг нь"
+        },
+        {
+          "en": "Their address",
+          "mn": "Гэрийн хаягийг нь"
+        },
+        {
+          "en": "Their date of birth",
+          "mn": "Төрсөн огноог нь"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "To use the Death Note, the writer must know the target's real name and picture their face in their mind.",
+        "mn": "Үхлийн дэвтэрийг ашиглахын тулд бичиж буй хүн тухайн байны жинхэнэ нэрийг мэдэх бөгөөд царайг нь толгойдоо төсөөлөх ёстой байдаг."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.best-selling-manga",
+      "key": "comics.best-selling-manga.g10",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Often called the 'God of Manga,' which legendary artist created 'Astro Boy' and pioneered modern manga techniques?",
+        "mn": "'Манганы бурхан' гэгддэг, 'Астро Бой' цувралыг бүтээж, орчин үеийн манганы техникүүдийг анхлан нэвтрүүлсэн домогт зураач хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Go Nagai",
+          "mn": "Го Нагай"
+        },
+        {
+          "en": "Shotaro Ishinomori",
+          "mn": "Шотаро Ишиномори"
+        },
+        {
+          "en": "Osamu Tezuka",
+          "mn": "Осамү Тэзүка"
+        },
+        {
+          "en": "Fujiko F. Fujio",
+          "mn": "Фүжико Ф. Фүжио"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Osamu Tezuka is widely considered the father of modern manga, establishing cinematic storytelling and large-eye aesthetics.",
+        "mn": "Осамү Тэзүкаг орчин үеийн манганы эцэг гэж үздэг бөгөөд тэрээр кино шиг өгүүлэмжтэй түүх болон том нүдтэй дүрүүдийн хэв маягийг анх бий болгосон."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.best-selling-manga",
+      "key": "comics.best-selling-manga.g11",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In Hajime Isayama's 'Attack on Titan', humanity protects itself from titans using three massive walls. Which of these is NOT one of those walls?",
+        "mn": "Хажимэ Исаяамагийн 'Титан руу довтолсон нь' мангад хүн төрөлхтөн титануудаас хамгаалахын тулд гурван том хэрэм барьдаг. Эдгээрийн аль нь хэрмийн нэр биш вэ?"
+      },
+      "choices": [
+        {
+          "en": "Wall Rose",
+          "mn": "Роуз хэрэм"
+        },
+        {
+          "en": "Wall Maria",
+          "mn": "Мариа хэрэм"
+        },
+        {
+          "en": "Wall Sophia",
+          "mn": "Софиа хэрэм"
+        },
+        {
+          "en": "Wall Sina",
+          "mn": "Сина хэрэм"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The three walls protecting humanity are Wall Maria (outer), Wall Rose (middle), and Wall Sina (inner).",
+        "mn": "Хүн төрөлхтнийг хамгаалдаг гурван хэрэм нь Мариа (гадаад), Роуз (дунд), Сина (дотоод) юм."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.best-selling-manga",
+      "key": "comics.best-selling-manga.g12",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In Hiromu Arakawa's 'Fullmetal Alchemist', what is the fundamental law of alchemy stating that to obtain something, something of equal value must be lost?",
+        "mn": "Хиромү Аракавагийн 'Ган төмөр алхимич' (Fullmetal Alchemist) мангад ямар нэгэн зүйлийг олж авахын тулд ижил үнэ цэнэтэй зүйлийг золиослох ёстой гэсэн алхимийн гол хуулийг юу гэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Equivalent Exchange",
+          "mn": "Тэнцүү солилцооны хууль"
+        },
+        {
+          "en": "Absolute Balance",
+          "mn": "Үнэмлэхүй тэнцвэр"
+        },
+        {
+          "en": "The Philosopher's Law",
+          "mn": "Гүн ухаантны хууль"
+        },
+        {
+          "en": "Conservation of Mass",
+          "mn": "Массын хадгалагдах хууль"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "'Equivalent Exchange' is the central theme of the series, which has sold over 80 million copies worldwide.",
+        "mn": "'Тэнцүү солилцооны хууль' нь дэлхий даяар 80 гаруй сая хувь борлогдсон тус цувралын гол сэдэв бөгөөд алхимийн үндсэн дүрэм юм."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.manga-classics",
+      "key": "comics.manga-classics.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which manga artist created the legendary 'Dragon Ball' series, heavily influencing modern shonen manga before his passing in 2024?",
+        "mn": "2024 онд таалал төгсөх хүртлээ орчин үеийн шонэн манганы хөгжилд асар их нөлөө үзүүлсэн, домогт 'Драгон Болл' цувралыг бүтээгч хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Akira Toriyama",
+          "mn": "Акира Торияма"
+        },
+        {
+          "en": "Eiichiro Oda",
+          "mn": "Эйичиро Ода"
+        },
+        {
+          "en": "Tite Kubo",
+          "mn": "Тайт Күбо"
+        },
+        {
+          "en": "Masashi Kishimoto",
+          "mn": "Масаши Кишимото"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Akira Toriyama created 'Dragon Ball' in 1984. It became one of the most influential media franchises in history, popularizing the genre worldwide.",
+        "mn": "Акира Торияма 1984 онд 'Драгон Болл' цувралыг эхлүүлсэн юм. Энэхүү бүтээл нь дэлхий даяар шонэн жанрыг алдаршуулахад хамгийн том нөлөө үзүүлсэн билээ."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.manga-classics",
+      "key": "comics.manga-classics.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Eiichiro Oda's 'One Piece' holds a Guinness World Record for the most copies published for the same comic book series by a single author. Approximately how many millions of copies has it sold worldwide?",
+        "mn": "Эйичиро Одагийн бүтээл 'Ван Пис' (One Piece) нь нэг зохиолчийн туурвисан хамгийн олон хувь хэвлэгдсэн комик номоор Гиннесийн дээд амжилтыг эзэмшдэг. Тус цуврал дэлхий даяар ойролцоогоор хэдэн сая хувь борлогдсон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Over 500 million",
+          "mn": "500 сая гаруй"
+        },
+        {
+          "en": "Around 150 million",
+          "mn": "Ойролцоогоор 150 сая"
+        },
+        {
+          "en": "Around 300 million",
+          "mn": "Ойролцоогоор 300 сая"
+        },
+        {
+          "en": "Over 1 billion",
+          "mn": "1 тэрбум гаруй"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "One Piece surpassed 500 million copies in circulation worldwide in 2022, placing it alongside legendary Western comics like Batman in total sales.",
+        "mn": "Ван Пис цуврал нь 2022 онд дэлхий даяар 500 сая хувь борлогдсон давааг давж, борлуулалтаараа өрнөдийн домогт Бэтмэн зэрэг комикстой мөр зэрэгцэх болжээ."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.manga-classics",
+      "key": "comics.manga-classics.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In Masashi Kishimoto's 'Naruto', the protagonist dreams of becoming the leader of his village, Konohagakure. What is the official title of this supreme ninja leader?",
+        "mn": "Масаши Кишимотогийн 'Наруто' мангад гол дүр нь өөрийн Конохагакүрэ тосгоны удирдагч болохыг мөрөөддөг. Энэхүү дээд нинжа удирдагчийн албан ёсны цолыг хэн гэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Hokage",
+          "mn": "Хокагэ"
+        },
+        {
+          "en": "Raikage",
+          "mn": "Райкагэ"
+        },
+        {
+          "en": "Kazekage",
+          "mn": "Казэкагэ"
+        },
+        {
+          "en": "Mizukage",
+          "mn": "Мизүкагэ"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Hokage (literally 'Fire Shadow') is the leader of the Hidden Leaf Village. Naruto Uzumaki eventually achieves his dream of becoming the Seventh Hokage.",
+        "mn": "Хокагэ (шууд утгаараа 'Галын сүүдэр') нь Навчит тосгоны удирдагч юм. Наруто Узумаки эцэст нь мөрөөдөлдөө хүрч, Долоо дахь Хокагэ болдог."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.manga-classics",
+      "key": "comics.manga-classics.g4",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Akira Toriyama's 'Dragon Ball' was originally inspired by which classic 16th-century Chinese novel, sharing characters like a monkey king with a staff?",
+        "mn": "Акира Ториямагийн 'Драгон Болл' анх XVI зууны Хятадын ямар сонгодог зохиолоос сэдэвлэн бүтээгдсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Dream of the Red Chamber",
+          "mn": "Улаан асрын зүүд"
+        },
+        {
+          "en": "Water Margin",
+          "mn": "Хүйтэн уул"
+        },
+        {
+          "en": "Romance of the Three Kingdoms",
+          "mn": "Гурван улсын үлгэр"
+        },
+        {
+          "en": "Journey to the West",
+          "mn": "Баруун этгээдэд зорчсон тэмдэглэл"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Dragon Ball was inspired by 'Journey to the West'. Son Goku is based on Sun Wukong, and he even uses a magical expanding staff (Nyoibo).",
+        "mn": "Драгон Болл цувралыг 'Баруун этгээдэд зорчсон тэмдэглэл' зохиолоос сэдэвлэсэн. Сон Гокугийн дүр нь Сүн Үкүн (Сармагчин хаан) дээр суурилсан бөгөөд уртсагч шидэт таяг ашигладаг."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.manga-classics",
+      "key": "comics.manga-classics.g5",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In 'One Piece', Luffy gains his rubber powers by eating a mystical Devil Fruit. What is the name of this specific fruit?",
+        "mn": "'Ван Пис' цувралд Луффи нууцлаг Чөтгөрийн жимс идэж резинэн биетэй болдог. Энэхүү жимсний нэр юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Chop-Chop Fruit",
+          "mn": "Бара Бара но Ми"
+        },
+        {
+          "en": "Flame-Flame Fruit",
+          "mn": "Мэра Мэра но Ми"
+        },
+        {
+          "en": "Rumble-Rumble Fruit",
+          "mn": "Горо Горо но Ми"
+        },
+        {
+          "en": "Gum-Gum Fruit",
+          "mn": "Гому Гому но Ми"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Luffy eats the Gomu Gomu no Mi (Gum-Gum Fruit), which turns his body into rubber. The fruit is later revealed to have an even deeper, legendary origin.",
+        "mn": "Луффи биеийг нь резин болгон хувиргадаг Гому Гому но Ми жимсийг иддэг. Энэхүү жимс нь хожим илүү гүн гүнзгий, домогт гарал үүсэлтэй болох нь илэрдэг."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.manga-classics",
+      "key": "comics.manga-classics.g6",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Naruto Uzumaki is famous for harboring a giant, powerful beast sealed inside him since infancy. How many tails does this legendary chakra beast have?",
+        "mn": "Наруто Узумакигийн биед нялх байхад нь битүүмжилсэн асар хүчтэй, аварга араатан байдаг гэдгээрээ алдартай. Энэхүү домогт чакраны араатан хэдэн сүүлтэй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Nine",
+          "mn": "Ес"
+        },
+        {
+          "en": "Ten",
+          "mn": "Арав"
+        },
+        {
+          "en": "Seven",
+          "mn": "Долоо"
+        },
+        {
+          "en": "Eight",
+          "mn": "Найм"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The beast sealed inside Naruto is Kurama, the Nine-Tailed Demon Fox (Kyubi). There are nine different Tailed Beasts in total in the series' lore.",
+        "mn": "Нарутогийн биед битүүмжлэгдсэн араатан бол Есөн сүүлт үнэг Курама (Кюүби) юм. Тус цувралын түүхэнд нийт есөн өөр сүүлт араатан байдаг."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.manga-classics",
+      "key": "comics.manga-classics.g7",
+      "difficulty": 1,
+      "prompt": {
+        "en": "All three manga classics—One Piece, Naruto, and Dragon Ball—were serialized in which weekly Japanese anthology magazine?",
+        "mn": "Ван Пис, Наруто, Драгон Болл зэрэг манганы сонгодог бүтээлүүд бүгд Японы долоо хоног тутмын аль сэтгүүлд цувралаар гарч байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Bessatsu Shonen Magazine",
+          "mn": "Bessatsu Shonen Magazine"
+        },
+        {
+          "en": "Weekly Shonen Sunday",
+          "mn": "Weekly Shonen Sunday"
+        },
+        {
+          "en": "Weekly Shonen Magazine",
+          "mn": "Weekly Shonen Magazine"
+        },
+        {
+          "en": "Weekly Shonen Jump",
+          "mn": "Weekly Shonen Jump"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Weekly Shonen Jump, published by Shueisha, is the best-selling manga magazine in Japan and has launched almost all major shonen hits since 1968.",
+        "mn": "Шуэйша компаниас гаргадаг Weekly Shonen Jump нь Японы хамгийн их борлуулалттай манга сэтгүүл бөгөөд 1968 оноос хойш бараг бүх томоохон хит цувралуудыг анхлан гаргажээ."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.manga-classics",
+      "key": "comics.manga-classics.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In the early 2000s, anime fans coined the term 'The Big Three' to describe the three most popular action manga running in Shonen Jump. 'Naruto' and 'One Piece' were two of them. What was the third?",
+        "mn": "2000-аад оны эхээр анимэ сонирхогчид Shonen Jump сэтгүүлийн хамгийн алдартай гурван тулаант мангыг 'Их Гурвал' (The Big Three) гэж нэрлэдэг байв. Үүний хоёр нь Наруто, Ван Пис байсан бол гурав дахь нь аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Hunter x Hunter",
+          "mn": "Хантер х Хантер"
+        },
+        {
+          "en": "Bleach",
+          "mn": "Блич (Bleach)"
+        },
+        {
+          "en": "Death Note",
+          "mn": "Дэвтэр үхэл (Death Note)"
+        },
+        {
+          "en": "Fullmetal Alchemist",
+          "mn": "Төмөр алхимич"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Bleach, created by Tite Kubo, completed the legendary 'Big Three' of the 2000s. It followed the adventures of Ichigo Kurosaki, a teenager who becomes a Soul Reaper.",
+        "mn": "Тайт Күбогийн бүтээсэн 'Блич' (Bleach) манга нь 2000-аад оны домогт 'Их Гурвал'-ыг бүрдүүлдэг байв. Энэ нь Сүнсний ангууч болсон Куросаки Ичигогийн адал явдлыг өгүүлдэг."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.manga-classics",
+      "key": "comics.manga-classics.g9",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In 'Dragon Ball', Goku discovers he is not an Earthling, but a member of an alien warrior race called the Saiyans. What was the name of their destroyed home planet?",
+        "mn": "'Драгон Болл' цувралд Гоку өөрийгөө дэлхийн хүн биш, харин Саяан гэх харь гаригийн дайчин үндэстний гишүүн гэдгээ мэддэг. Тэдний устгагдсан төрөлх гаригийг юу гэж нэрлэдэг байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Planet Frieza",
+          "mn": "Фриза гариг"
+        },
+        {
+          "en": "Planet Sadala",
+          "mn": "Садала гариг"
+        },
+        {
+          "en": "Planet Vegeta",
+          "mn": "Вегета гариг"
+        },
+        {
+          "en": "Planet Namek",
+          "mn": "Намек гариг"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Saiyans lived on Planet Vegeta, named after their king (and Prince Vegeta's father). It was destroyed by the galactic tyrant Frieza.",
+        "mn": "Саяанчууд өөрсдийн хааны нэрээр нэрлэгдсэн Вегета гаригт амьдардаг байв. Тус гаригийг сансрын дарангуйлагч Фриза устгасан билээ."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.manga-classics",
+      "key": "comics.manga-classics.g10",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which spinning ball of chakra, created by Naruto's father Minato, is Naruto's signature and most frequently used attack technique?",
+        "mn": "Нарутогийн аав Минатогийн зохион бүтээсэн, эргэлдэгч чакраны бөмбөлөг болох Нарутогийн хамгийн олон удаа ашигладаг үндсэн тулааны техник юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Rasengan",
+          "mn": "Расэнган"
+        },
+        {
+          "en": "Chidori",
+          "mn": "Чидори"
+        },
+        {
+          "en": "Amaterasu",
+          "mn": "Аматэрасү"
+        },
+        {
+          "en": "Shadow Clone Jutsu",
+          "mn": "Сүүдэр хувилгах урлаг"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Rasengan is a spinning ball of condensed chakra formed in the palm. Naruto mastered it and created many powerful variations, including the Rasenshuriken.",
+        "mn": "Расэнган нь алган дээр төвлөрүүлсэн эргэлдэгч чакраны бөмбөлөг юм. Наруто үүнийг гаргууд эзэмшиж, Расэншүрикэн зэрэг олон хүчтэй хувилбаруудыг зохиосон."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.manga-classics",
+      "key": "comics.manga-classics.g11",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the official name of the pirate crew led by Monkey D. Luffy in 'One Piece'?",
+        "mn": "'Ван Пис' цувралд Монки Д. Луффигийн удирддаг далайн дээрэмчдийн багийн албан ёсны нэр юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Red Hair Pirates",
+          "mn": "Улаан үстнүүд"
+        },
+        {
+          "en": "Blackbeard Pirates",
+          "mn": "Хар сахалтнууд"
+        },
+        {
+          "en": "Straw Hat Pirates",
+          "mn": "Сүрлэн малгайтнууд"
+        },
+        {
+          "en": "Heart Pirates",
+          "mn": "Зүрхний дээрэмчид"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Luffy's crew is known as the Straw Hat Pirates, named after the iconic straw hat given to Luffy by his childhood idol, Shanks.",
+        "mn": "Луффигийн багийг Сүрлэн малгайтнууд гэж нэрлэдэг бөгөөд энэ нь түүний бага насны шүтээн Шанксын өгсөн сүрлэн малгайтай холбоотой юм."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.manga-classics",
+      "key": "comics.manga-classics.g12",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Masashi Kishimoto, the creator of 'Naruto', has a twin brother who is also a professional manga artist. What is his brother's name?",
+        "mn": "'Наруто' цувралыг бүтээгч Масаши Кишимото нь мөн адил мэргэжлийн манга зураач ихэртэй. Түүний ихэр ахыг/дүүг хэн гэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Hiro Mashima",
+          "mn": "Хиро Машима"
+        },
+        {
+          "en": "Seishi Kishimoto",
+          "mn": "Сэйши Кишимото"
+        },
+        {
+          "en": "Yoshihiro Togashi",
+          "mn": "Ёшихиро Тогаши"
+        },
+        {
+          "en": "Sui Ishida",
+          "mn": "Сүй Ишида"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Seishi Kishimoto is Masashi's twin brother. He is known for creating manga series such as '666 Satan' (O-Parts Hunter) and 'Blazer Drive'.",
+        "mn": "Сэйши Кишимото бол Масашигийн ихэр юм. Тэрээр '666 Satan' (O-Parts Hunter), 'Blazer Drive' зэрэг манга цувралуудыг бүтээсэн зураач билээ."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.niche-comics-facts",
+      "key": "comics.niche-comics-facts.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which iconic superhero's secret identity is Peter Parker, a freelance photographer who gained his powers from a radioactive spider bite?",
+        "mn": "Цацраг идэвхт аалзанд хазуулж ерөнхий хүч чадалтай болсон, чөлөөт гэрэл зурагчин Питер Паркер бол ямар алдартай супер баатрын нууц дүр вэ?"
+      },
+      "choices": [
+        {
+          "en": "Batman",
+          "mn": "Бэтмэн"
+        },
+        {
+          "en": "Iron Man",
+          "mn": "Төмөр хүн"
+        },
+        {
+          "en": "Spider-Man",
+          "mn": "Хүн-Аалз"
+        },
+        {
+          "en": "The Flash",
+          "mn": "Флэш"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Spider-Man was created by Stan Lee and Steve Ditko, first appearing in Amazing Fantasy #15 in 1962. His struggles with normal teenage life made him incredibly relatable to readers.",
+        "mn": "Хүн-Аалзыг Стэн Ли, Стив Дитко нар хамтран бүтээсэн бөгөөд анх 1962 онд \"Amazing Fantasy #15\" дугаарт гарчээ. Жирийн өсвөр насны амьдралын бэрхшээлүүд нь түүнийг уншигчдад илүү ойр болгосон юм."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.niche-comics-facts",
+      "key": "comics.niche-comics-facts.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Due to printing ink inconsistencies in 1962, the Hulk's skin color was changed to green. What was his original color in his very first appearance?",
+        "mn": "1962 онд хэвлэлийн будагны тогтворгүй байдлаас шалтгаалан Халкын арьсны өнгийг ногоон болгон өөрчилсөн байдаг. Тэгвэл түүний хамгийн анхны дугаар дээрх арьсны өнгө ямар байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Grey",
+          "mn": "Саарал"
+        },
+        {
+          "en": "Blue",
+          "mn": "Хөх"
+        },
+        {
+          "en": "Red",
+          "mn": "Улаан"
+        },
+        {
+          "en": "Yellow",
+          "mn": "Шар"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Stan Lee originally chose grey for the Hulk to avoid associating him with any specific ethnic group. However, the printer struggled to keep the grey shade consistent, so they switched to green.",
+        "mn": "Стэн Ли анх Халкыг ямар нэгэн үндэстэн ястны өнгөтэй холбохгүй байхын тулд саарал өнгийг сонгосон байна. Гэвч хэвлэлийн машин саарал өнгийг тогтвортой гаргаж чадахгүй байсан тул ногоон өнгөөр сольжээ."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.niche-comics-facts",
+      "key": "comics.niche-comics-facts.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Before making dozens of cameos in the Marvel Cinematic Universe (MCU), in which 1989 television movie did Stan Lee make his very first live-action cameo?",
+        "mn": "Марвелын кинонуудад (MCU) олон арван удаа камио дүр бүтээхээсээ өмнө, Стэн Ли хамгийн анх 1989 оны ямар телевизийн кинонд дүр бүтээж байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "The Trial of the Incredible Hulk",
+          "mn": "The Trial of the Incredible Hulk"
+        },
+        {
+          "en": "Howard the Duck",
+          "mn": "Howard the Duck"
+        },
+        {
+          "en": "Spider-Man",
+          "mn": "Spider-Man"
+        },
+        {
+          "en": "Captain America",
+          "mn": "Captain America"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Stan Lee played a jury member in 'The Trial of the Incredible Hulk'. He did not make another live-action film cameo until X-Men in 2000.",
+        "mn": "Стэн Ли 'The Trial of the Incredible Hulk' кинонд тангарагтны шүүгчийн дүрд тоглосон юм. Үүнээс хойш тэрээр 2000 оны 'X-Men' кино хүртэл дахин дэлгэцийн бүтээлд камио хийгээгүй байна."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.niche-comics-facts",
+      "key": "comics.niche-comics-facts.g4",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the real name of Catwoman, the famous anti-heroine and love interest of Batman who debuted in Batman #1 in 1940?",
+        "mn": "1940 онд \"Batman #1\" дугаарт анх гарсан, Бэтмэний хайртай бүсгүй бөгөөд алдартай эсрэг талын баатар Муур эмэгтэйн жинхэнэ нэр хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Pamela Isley",
+          "mn": "Памела Айсли"
+        },
+        {
+          "en": "Harleen Quinzel",
+          "mn": "Харлин Квинзел"
+        },
+        {
+          "en": "Diana Prince",
+          "mn": "Диана Принс"
+        },
+        {
+          "en": "Selina Kyle",
+          "mn": "Селина Кайл"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Selina Kyle started out as a cat burglar named 'The Cat' and did not wear her signature cat ears or costume in her debut issue.",
+        "mn": "Селина Кайл нь анх 'Муур' нэртэй хулгайч эмэгтэйн дүрээр гарч байсан бөгөөд анхны дугаартаа өөрийн алдартай муурын чих, өмсгөлийг өмсөөгүй байжээ."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.niche-comics-facts",
+      "key": "comics.niche-comics-facts.g5",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which legendary superhero's civilian alter ego is Clark Kent, a mild-mannered reporter for the Daily Planet?",
+        "mn": "\"Daily Planet\" сонины даруухан сурвалжлагч Кларк Кент бол аль домогт супер баатрын жинхэнэ дүр үү?"
+      },
+      "choices": [
+        {
+          "en": "Iron Man",
+          "mn": "Төмөр хүн"
+        },
+        {
+          "en": "Spider-Man",
+          "mn": "Хүн-Аалз"
+        },
+        {
+          "en": "Batman",
+          "mn": "Бэтмэн"
+        },
+        {
+          "en": "Superman",
+          "mn": "Супермэн"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Superman was created by Jerry Siegel and Joe Shuster, debuting in Action Comics #1 in 1938. His adoptive parents named him Clark Kent after finding his spaceship.",
+        "mn": "Супермэнийг Жерри Сигел, Жо Шустер нар бүтээж, 1938 оны \"Action Comics #1\" дугаарт анх гаргажээ. Түүнийг өргөж авсан эцэг эх нь сансрын хөлгийг нь олсны дараа Кларк Кент гэж нэрлэсэн байна."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.niche-comics-facts",
+      "key": "comics.niche-comics-facts.g6",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The creators of Superman came up with the name 'Clark Kent' by combining the first names of which two Hollywood actors?",
+        "mn": "Супермэнийг бүтээгчид Холливудын ямар хоёр алдартай жүжигчний нэрийг нэгтгэн \"Кларк Кент\" хэмээх нэрийг зохиосон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Gary Cooper and Kent Smith",
+          "mn": "Гэри Купер, Кент Смит"
+        },
+        {
+          "en": "Clark Gable and Cary Grant",
+          "mn": "Кларк Гейбл, Кэри Грант"
+        },
+        {
+          "en": "Clark Gable and Kent Taylor",
+          "mn": "Кларк Гейбл, Кент Тейлор"
+        },
+        {
+          "en": "Clark Gable and Spencer Tracy",
+          "mn": "Кларк Гейбл, Спенсер Трейси"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Jerry Siegel and Joe Shuster named Clark Kent after movie stars Clark Gable and Kent Taylor. This was done to make his civilian name sound like a typical, handsome leading man of the era.",
+        "mn": "Жерри Сигел, Жо Шустер нар Кларк Кентэд кино од Кларк Гейбл, Кент Тейлор нарын нэрийг өгчээ. Энэ нь түүний жирийн иргэний нэрийг тухайн үеийн царайлаг, гол дүрийн жүжигчин шиг сонсгох зорилготой байв."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.niche-comics-facts",
+      "key": "comics.niche-comics-facts.g7",
+      "difficulty": 2,
+      "prompt": {
+        "en": "While Bob Kane was credited as the sole creator of Batman for decades, which writer is now officially recognized as the co-creator who designed Batman's cowl, cape, and origin story?",
+        "mn": "Боб Кейнийг хэдэн арван жилийн турш Бэтмэний цорын ганц бүтээгч гэж үздэг байсан ч түүний баг, нөмрөг, гарал үүслийн түүхийг зохиосон аль зохиолчийг өдгөө албан ёсоор хамтран бүтээгч гэж хүлээн зөвшөөрдөг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Bill Finger",
+          "mn": "Билл Фингер"
+        },
+        {
+          "en": "Jack Kirby",
+          "mn": "Жек Кирби"
+        },
+        {
+          "en": "Jerry Siegel",
+          "mn": "Жерри Сигел"
+        },
+        {
+          "en": "Stan Lee",
+          "mn": "Стэн Ли"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Bill Finger contributed crucial elements of Batman's mythos, including the name Gotham City and the identity of Bruce Wayne, but went uncredited until 2015.",
+        "mn": "Билл Фингер нь Бэтмэний түүхийн чухал хэсгүүд болох Готэм хотын нэр, Брюс Уэйний дүр зэргийг зохиосон боловч 2015 он хүртэл түүний нэрийг албан ёсоор дурддаггүй байв."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.niche-comics-facts",
+      "key": "comics.niche-comics-facts.g8",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In Batman #1 (1940), the Joker was originally written to die by accidentally stabbing himself. Which editor saved him, realizing the character's potential as a recurring villain?",
+        "mn": "1940 оны \"Batman #1\" дугаарт Жокерыг анх өөрийгөө санамсаргүй хутгалж үхэхээр бичсэн байв. Түүнийг эргэн ирэх аюултай дайсан болох боломжтойг олж харж, амьд үлдээсэн редактор хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Stan Lee",
+          "mn": "Стэн Ли"
+        },
+        {
+          "en": "Mort Weisinger",
+          "mn": "Морт Вейсингер"
+        },
+        {
+          "en": "Julius Schwartz",
+          "mn": "Жулиус Шварц"
+        },
+        {
+          "en": "Whitney Ellsworth",
+          "mn": "Уитни Эллсворт"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Editor Whitney Ellsworth saw the Joker's potential and ordered a final panel to be drawn showing that the villain had actually survived the stab wound.",
+        "mn": "Редактор Уитни Эллсворт Жокерын нөөц боломжийг олж хараад, түүнийг хутганы шархнаас амьд үлдсэнийг харуулсан төгсгөлийн зургийг нэмж зурахыг тушаажээ."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.niche-comics-facts",
+      "key": "comics.niche-comics-facts.g9",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Written and illustrated by Eiichiro Oda, which pirate-themed adventure series is officially the best-selling manga in history, with over 500 million copies sold?",
+        "mn": "Эйичиро Одагийн бичиж, зурсан далайн дээрэмчдийн сэдэвтэй аль цуврал нь 500 сая гаруй хувь борлогдож, түүхэн дэх хамгийн их борлуулалттай манга болсон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Naruto",
+          "mn": "Naruto"
+        },
+        {
+          "en": "Dragon Ball",
+          "mn": "Dragon Ball"
+        },
+        {
+          "en": "Demon Slayer",
+          "mn": "Demon Slayer"
+        },
+        {
+          "en": "One Piece",
+          "mn": "One Piece"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "One Piece began serialization in 1997 and holds a Guinness World Record for the most copies published for the same comic book series by a single author.",
+        "mn": "\"One Piece\" нь 1997 онд анх хэвлэгдэж эхэлсэн бөгөөд нэг зохиолчийн туурвисан ижил комик номын цувралаас хамгийн олон хувь хэвлэгдсэн гэдгээрээ Гиннесийн дээд амжилтыг эзэмшдэг."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.niche-comics-facts",
+      "key": "comics.niche-comics-facts.g10",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In what year did Action Comics #1, which introduced the world to Superman and marked the start of the Golden Age of Comic Books, hit the newsstands?",
+        "mn": "Супермэнийг дэлхий дахинд танилцуулж, Комик номын алтан үеийн эхлэлийг тавьсан \"Action Comics #1\" дугаар хэдэн онд худалдаанд гарсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "1939",
+          "mn": "1939"
+        },
+        {
+          "en": "1940",
+          "mn": "1940"
+        },
+        {
+          "en": "1941",
+          "mn": "1941"
+        },
+        {
+          "en": "1938",
+          "mn": "1938"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Action Comics #1 was released in June 1938. Original copies are highly coveted, with some selling at auction for over $6 million.",
+        "mn": "\"Action Comics #1\" нь 1938 оны 6-р сард гарсан. Энэхүү анхны дугаарын хувь маш ховор бөгөөд дуудлага худалдаагаар 6 сая гаруй ам.доллароор зарагдаж байжээ."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.niche-comics-facts",
+      "key": "comics.niche-comics-facts.g11",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which Marvel anti-hero's real name is Wade Wilson, a mercenary known for his constant joking and breaking the fourth wall?",
+        "mn": "Байнга тоглоом шоглоом хийж, дөрөв дэх ханыг нураадагаараа алдартай, хөлсний цэрэг Уэйд Вилсон бол Марвелын аль баатрын жинхэнэ нэр вэ?"
+      },
+      "choices": [
+        {
+          "en": "Daredevil",
+          "mn": "Дардевил"
+        },
+        {
+          "en": "Punisher",
+          "mn": "Шийтгэгч"
+        },
+        {
+          "en": "Wolverine",
+          "mn": "Росомаха"
+        },
+        {
+          "en": "Deadpool",
+          "mn": "Дэдпүүл"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Deadpool was co-created by Rob Liefeld and Fabian Nicieza, debuting in The New Mutants #98 in 1991. His name 'Wade Wilson' was a humorous nod to DC's Slade Wilson (Deathstroke).",
+        "mn": "Дэдпүүлийг Роб Лифельд, Фабиан Нисиеза нар хамтран бүтээж, 1991 оны \"The New Mutants #98\" дугаарт анх гаргажээ. Түүний \"Уэйд Вилсон\" хэмээх нэр нь DC-ийн Слейд Вилсон (Дэтстроук) дүрийг элэглэсэн хөгжилтэй нэршил юм."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.niche-comics-facts",
+      "key": "comics.niche-comics-facts.g12",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which Marvel superhero made his debut in Tales of Suspense #39 in 1963, wearing a bulky grey suit of armor before upgrading to his iconic red-and-gold design?",
+        "mn": "1963 онд \"Tales of Suspense #39\" дугаарт анх гарч байсан, улаан шар өнгийн алдартай хуяг өмсөхөөсөө өмнө нүсэр саарал төмөр хуягтай байсан Марвелын супер баатар хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Hawkeye",
+          "mn": "Хоукай"
+        },
+        {
+          "en": "Ant-Man",
+          "mn": "Шоргоолжин хүн"
+        },
+        {
+          "en": "Thor",
+          "mn": "Тор"
+        },
+        {
+          "en": "Iron Man",
+          "mn": "Төмөр хүн"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Iron Man (Tony Stark) was created by Stan Lee, Larry Lieber, Don Heck, and Jack Kirby. His armor was changed to gold in his second appearance to make him look less frightening.",
+        "mn": "Төмөр хүнийг (Тони Старк) Стэн Ли, Ларри Либер, Дон Хек, Жек Кирби нар бүтээжээ. Хүмүүст арай бага аймшигтай харагдуулахын тулд түүний хуягийг хоёр дахь дугаар дээр нь алтлаг өнгөтэй болгон өөрчилсөн байна."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.comic-book-films-box-office",
+      "key": "comics.comic-book-films-box-office.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which comic book movie made history in 2019 as the first R-rated film to gross over $1 billion worldwide?",
+        "mn": "2019 онд дэлхий даяар 1 тэрбум гаруй ам.долларын орлого олж, хамгийн анхны \"R\" ангиллын тэрбумтэн кино болж түүхэнд үлдсэн комиксоос сэдэвлэсэн бүтээл аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Joker",
+          "mn": "Жокер"
+        },
+        {
+          "en": "Deadpool",
+          "mn": "Дэдпүүл"
+        },
+        {
+          "en": "Logan",
+          "mn": "Логан"
+        },
+        {
+          "en": "Watchmen",
+          "mn": "Харуулууд"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "\"Joker\" (2019) grossed $1.074 billion on a budget of around $55 million. Joaquin Phoenix won the Academy Award for Best Actor for his performance.",
+        "mn": "\"Жокер\" (2019) кино ердөө 55 сая орчим ам.долларын төсвөөр бүтээд 1.074 тэрбум долларын орлого олсон юм. Тус киноны гол дүрийг бүтээсэн Хоакин Феникс Оскарын шилдэг эрэгтэй дүрийн шагнал хүртсэн билээ."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.comic-book-films-box-office",
+      "key": "comics.comic-book-films-box-office.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "This 2008 masterpiece became the first comic book film to cross the $1 billion mark, largely propelled by a legendary, posthumously Oscar-winning performance. What is the film's title?",
+        "mn": "Жүжигчнийх нь таалал төгссөний дараа Оскарын шагнал авчирсан гайхалтай дүр бүтээлтээрээ алдаршсан, 1 тэрбум ам.долларын босгыг давсан анхны супер баатрын кино аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "The Dark Knight",
+          "mn": "Харанхуйн хүлэг баатар"
+        },
+        {
+          "en": "Batman Begins",
+          "mn": "Бэтмэн эхлэл"
+        },
+        {
+          "en": "Spider-Man 3",
+          "mn": "Хүн-аалз 3"
+        },
+        {
+          "en": "Iron Man",
+          "mn": "Төмөр хүн"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "\"The Dark Knight\" (2008) revolutionized comic book movies and earned Heath Ledger a posthumous Oscar for Best Supporting Actor.",
+        "mn": "\"Харанхуйн хүлэг баатар\" (2008) кино супер баатрын кино урлагийг шинэ шатанд гаргаж, Хит Лежер таалал төгссөнийхөө дараа Оскарын туслах дүрийн шагнал хүртсэн юм."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.comic-book-films-box-office",
+      "key": "comics.comic-book-films-box-office.g3",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which Marvel Cinematic Universe movie holds the record for the highest worldwide box office gross, briefly surpassing \"Avatar\" as the highest-grossing film of all time?",
+        "mn": "Түр хугацаанд \"Аватар\" киног гүйцэж, бүх цаг үеийн хамгийн өндөр орлоготой кино болж байсан, Марвелын хамгийн өндөр орлоготой кино аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Spider-Man: No Way Home",
+          "mn": "Хүн-аалз: Харих замгүй"
+        },
+        {
+          "en": "Avengers: Endgame",
+          "mn": "Авенжерс: Төгсгөл"
+        },
+        {
+          "en": "The Avengers",
+          "mn": "Авенжерс"
+        },
+        {
+          "en": "Avengers: Infinity War",
+          "mn": "Авенжерс: Төгсгөлгүй дайн"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "\"Avengers: Endgame\" grossed $2.799 billion globally in 2019. It reached the $1 billion milestone in a record-breaking 5 days.",
+        "mn": "\"Авенжерс: Төгсгөл\" кино 2019 онд дэлхий даяар 2.799 тэрбум ам.долларын орлого олсон юм. Тус кино ердөө 5 хоногийн дотор 1 тэрбум долларын босгыг давж дээд амжилт тогтоож байв."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.comic-book-films-box-office",
+      "key": "comics.comic-book-films-box-office.g4",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Long before the MCU, which 1986 Lucasfilm-produced movie was the very first full-length, theatrically released feature film based on a Marvel character, though it became a notorious box-office flop?",
+        "mn": "MCU-ээс бүр өмнө буюу 1986 онд \"Lucasfilm\"-ийн бүтээсэн, Марвелын комиксоос сэдэвлэн кино театруудаар гарсан хамгийн анхны бүрэн хэмжээний уран сайхны кино аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Captain America",
+          "mn": "Капитан Америк"
+        },
+        {
+          "en": "Blade",
+          "mn": "Блэйд"
+        },
+        {
+          "en": "Howard the Duck",
+          "mn": "Нугас Ховард"
+        },
+        {
+          "en": "The Punisher",
+          "mn": "Шийтгэгч"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "\"Howard the Duck\" (1986) was a major critical and commercial failure, but it holds historical value as Marvel's first theatrical feature film.",
+        "mn": "\"Нугас Ховард\" (1986) кино шүүмжлэгчдээс маш муу үнэлгээ авч, санхүүгийн хувьд бүтэлгүйтсэн ч Марвелын комиксоос сэдэвлэсэн анхны бүрэн хэмжээний кино театрын уран сайхны кино гэдгээрээ түүхэнд үлджээ."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.comic-book-films-box-office",
+      "key": "comics.comic-book-films-box-office.g5",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The Russo brothers directed four highly successful MCU films. Which of these Avengers films was NOT directed by them?",
+        "mn": "Ах дүү Руссо Марвелын маш амжилттай дөрвөн киног найруулсан байдаг. Дараах \"Авенжерс\" цувралын кинонуудаас аль нэгийг нь тэд найруулаагүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Captain America: Civil War",
+          "mn": "Капитан Америк: Иргэний дайн"
+        },
+        {
+          "en": "Avengers: Age of Ultron",
+          "mn": "Авенжерс: Альтроны эрин үе"
+        },
+        {
+          "en": "Avengers: Infinity War",
+          "mn": "Авенжерс: Төгсгөлгүй дайн"
+        },
+        {
+          "en": "Avengers: Endgame",
+          "mn": "Авенжерс: Төгсгөл"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "\"Avengers: Age of Ultron\" (2015) was written and directed by Joss Whedon, who also directed the first Avengers film in 2012.",
+        "mn": "\"Авенжерс: Альтроны эрин үе\" (2015) киноны зохиолыг Жосс Уидон бичиж, найруулсан бөгөөд тэрээр мөн 2012 оны анхны Авенжерс киног найруулж байжээ."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.comic-book-films-box-office",
+      "key": "comics.comic-book-films-box-office.g6",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Legendary Marvel creator Stan Lee was famous for his movie cameos. In which 1989 TV movie did Stan Lee make his very first live-action Marvel cameo?",
+        "mn": "Марвелын домогт бүтээгч Стэн Ли кинонуудад жижиг дүр (камео) бүтээдгээрээ алдартай байсан. Тэрээр хамгийн анхны дүр зураг бүхий Марвелын камео дүрээ 1989 оны аль телевизийн кинонд бүтээсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "The Trial of the Incredible Hulk",
+          "mn": "Хүчирхэг Халкын шүүх хурал"
+        },
+        {
+          "en": "Howard the Duck",
+          "mn": "Нугас Ховард"
+        },
+        {
+          "en": "Spider-Man",
+          "mn": "Хүн-аалз"
+        },
+        {
+          "en": "Blade",
+          "mn": "Блэйд"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Stan Lee made his first live-action Marvel cameo as a jury member in the TV movie \"The Trial of the Incredible Hulk\" (1989).",
+        "mn": "Стэн Ли хамгийн анхны Марвелын дүр бүхий камеогоо 1989 оны \"Хүчирхэг Халкын шүүх хурал\" телевизийн кинонд тангарагтны шүүгчийн дүрээр бүтээжээ."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.comic-book-films-box-office",
+      "key": "comics.comic-book-films-box-office.g7",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Although Spider-Man is Marvel's most iconic character, his solo movies are produced and distributed by which rival Hollywood studio that owns his film rights?",
+        "mn": "Хүн-аалз нь Марвелын хамгийн алдартай дүр боловч түүний бие даасан кинонуудыг киноны эрхийг нь эзэмшдэг Холливудын аль студи хамтран бүтээж, түгээдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Warner Bros.",
+          "mn": "Уорнер Брос."
+        },
+        {
+          "en": "Universal Pictures",
+          "mn": "Юниверсал Пикчерс"
+        },
+        {
+          "en": "Paramount Pictures",
+          "mn": "Парамаунт Пикчерс"
+        },
+        {
+          "en": "Sony Pictures",
+          "mn": "Сони Пикчерс"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Sony Pictures purchased the film rights to Spider-Man in 1999. They now co-produce the films with Marvel Studios but retain distribution rights.",
+        "mn": "\"Сони Пикчерс\" компани 1999 онд Хүн-аалзын киноны эрхийг худалдаж авч байжээ. Одоо тэд Марвел студитэй хамтран кинонуудыг бүтээж байгаа ч түгээх эрхийг өөрсдөө эзэмшдэг."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.comic-book-films-box-office",
+      "key": "comics.comic-book-films-box-office.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "This 2018 cultural phenomenon became the first superhero movie ever to be nominated for the Academy Award for Best Picture, eventually winning three Oscars. What is the movie?",
+        "mn": "2018 оны энэхүү соёлын томоохон үзэгдэл болсон бүтээл нь Оскарын \"Шилдэг кино\" номинацид нэр дэвшсэн анхны супер баатрын кино болж, улмаар гурван Оскар хүртжээ. Энэ аль кино вэ?"
+      },
+      "choices": [
+        {
+          "en": "Logan",
+          "mn": "Логан"
+        },
+        {
+          "en": "Black Panther",
+          "mn": "Хар Ирвэс"
+        },
+        {
+          "en": "The Dark Knight",
+          "mn": "Харанхуйн хүлэг баатар"
+        },
+        {
+          "en": "Avengers: Endgame",
+          "mn": "Авенжерс: Төгсгөл"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "\"Black Panther\" (2018) grossed $1.34 billion worldwide and made history with its historic Best Picture nomination at the 91st Academy Awards.",
+        "mn": "\"Хар Ирвэс\" (2018) кино дэлхий даяар 1.34 тэрбум ам.долларын орлого олсон бөгөөд 91 дэх удаагийн Оскарын наадамд \"Шилдэг кино\" төрөлд нэр дэвшин түүх бичсэн юм."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.comic-book-films-box-office",
+      "key": "comics.comic-book-films-box-office.g9",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Widely credited with kickstarting the modern era of successful Marvel movies, which 1998 R-rated vampire-hunter film starring Wesley Snipes was Marvel's first major box office hit?",
+        "mn": "Марвелын амжилттай кинонуудын орчин үеийн эрин үеийг эхлүүлсэн гэж тооцогддог, Уэсли Снайпсын тоглосон, 1998 оны цус сорогчдын ангуучийн тухай өгүүлэх \"R\" ангиллын кино аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Blade",
+          "mn": "Блэйд"
+        },
+        {
+          "en": "Spawn",
+          "mn": "Спаун"
+        },
+        {
+          "en": "Daredevil",
+          "mn": "Дэрдевил"
+        },
+        {
+          "en": "Ghost Rider",
+          "mn": "Сүнслэг унаач"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "\"Blade\" (1998) grossed $131 million worldwide and proved that comic book adaptations of lesser-known characters could be highly profitable.",
+        "mn": "\"Блэйд\" (1998) кино дэлхий даяар 131 сая ам.долларын орлого олж, бага зэрэг танигдсан комиксын дүрүүдийг ч ашигтай кино болгон хувиргаж болдгийг баталсан юм."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.comic-book-films-box-office",
+      "key": "comics.comic-book-films-box-office.g10",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Based on Bryan Lee O'Malley's graphic novels, which 2010 Edgar Wright-directed comic book adaptation was a massive box office bomb but later became a beloved cult classic?",
+        "mn": "Брайан Ли О'Маллигийн комиксоос сэдэвлэн бүтээсэн, Эдгар Райтын найруулсан 2010 оны ямар кино тухайн үедээ маш их алдагдал хүлээсэн ч сүүлдээ шүтэн бишрэгчдийн хайртай сонгодог бүтээл болсон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Scott Pilgrim vs. the World",
+          "mn": "Скотт Пилигрим дэлхийн эсрэг"
+        },
+        {
+          "en": "Kick-Ass",
+          "mn": "Өшиглөгч"
+        },
+        {
+          "en": "Sin City",
+          "mn": "Нүглийн хот"
+        },
+        {
+          "en": "Watchmen",
+          "mn": "Харуулууд"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Despite grossing only $49 million against an $85 million budget, \"Scott Pilgrim vs. the World\" received critical acclaim and spawned an anime series in 2023.",
+        "mn": "\"Скотт Пилигрим дэлхийн эсрэг\" кино 85 сая ам.долларын төсөвтэй ч ердөө 49 сая долларын орлого олсон юм. Гэвч шүүмжлэгчдээс маш өндөр үнэлгээ авч, 2023 онд анимэ цуврал нь хүртэл гарчээ."
+      }
+    },
+    {
+      "topicSlug": "comics",
+      "lessonKey": "comics.comic-book-films-box-office",
+      "key": "comics.comic-book-films-box-office.g11",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Several high-profile actors have worn the iconic cape and cowl on the big screen. Which of the following actors has NOT played Batman in a live-action film?",
+        "mn": "Олон алдартай жүжигчид Бэтмэний баг, өмсгөлийг өмсөн кино дэлгэцнээ дүрээ мөнхөлсөн байдаг. Дараах жүжигчдээс хэн нь бүрэн хэмжээний уран сайхны кинонд Бэтмэний дүрийг тоглож байгаагүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Christian Bale",
+          "mn": "Кристиан Бэйл"
+        },
+        {
+          "en": "Val Kilmer",
+          "mn": "Вэл Килмер"
+        },
+        {
+          "en": "George Clooney",
+          "mn": "Жорж Клуни"
+        },
+        {
+          "en": "Nicolas Cage",
+          "mn": "Николас Кэйж"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Nicolas Cage famously almost played Superman in Tim Burton's unproduced 1990s film, but he has never played Batman on screen.",
+        "mn": "Николас Кэйж 1990-ээд онд Тим Бартоны цуцлагдсан кинонд Супермэний дүрд тоглох дөхөж байсан ч Бэтмэний дүрийг хэзээ ч дэлгэцнээ бүтээж байгаагүй юм."
+      }
+    }
+  ]
+}

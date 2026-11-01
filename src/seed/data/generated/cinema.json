@@ -1,0 +1,936 @@
+{
+  "lessons": [
+    {
+      "topicSlug": "cinema",
+      "key": "cinema.famous-sculptures",
+      "order": 4,
+      "title": {
+        "en": "Famous Sculptures: Masterpieces in Stone and Bronze",
+        "mn": "Алдартай барималууд: Чулуу, хүрлээр бүтсэн гайхамшиг"
+      },
+      "summary": {
+        "en": "Explore the fascinating backstories, hidden details, and historical drama behind the world's most iconic sculptures.",
+        "mn": "Дэлхийн хамгийн алдартай барималуудын ард нуугдах сонирхолтой түүх, нарийн деталь болон түүхэн үйл явдлуудтай танилцаарай."
+      },
+      "body": {
+        "en": "From the Renaissance masters to modern pioneers, sculpture has captured human emotion and form in three dimensions. Many famous statues hold secrets hidden in plain sight, from structural flaws to dramatic political statements. Understanding these works requires looking beyond the marble to the stories of their creation.",
+        "mn": "Сэргэн мандалтын үеийн мастеруудаас эхлээд орчин үеийн анхдагчид хүртэлх барималчид хүний сэтгэл хөдлөл, биеийн галбирыг орон зайд амилуулан үлдээжээ. Дэлхийн олон алдартай хөшөө барималд бүтцийн согогоос эхлээд улс төрийн далд утга санаа хүртэлх сонирхолтой нууцууд оршдог. Эдгээр бүтээлийг ойлгохын тулд зөвхөн гантиг чулууг харахаас гадна тэдгээрийн бүтсэн түүхийг мэдэх хэрэгтэй."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "🗽",
+            "title": {
+              "en": "Statue of Liberty",
+              "mn": "Эрх чөлөөний хөшөө"
+            },
+            "facts": [
+              {
+                "en": "Designed by Frédéric-Auguste Bartholdi and gifted by France to the United States in 1886.",
+                "mn": "Францын уран барималч Фредерик-Огюст Бартольди бүтээж, 1886 онд Францын ард түмнээс АНУ-д бэлэглэжээ."
+              },
+              {
+                "en": "Its internal iron framework was engineered by Gustave Eiffel, who later built the Eiffel Tower.",
+                "mn": "Хөшөөний дотоод төмөр араг бүтцийг хожим Эйфелийн цамхгийг босгосон Гюстав Эйфель зохион бүтээсэн байна."
+              }
+            ],
+            "subtitle": {
+              "en": "New York, USA",
+              "mn": "Нью-Йорк, АНУ"
+            }
+          },
+          {
+            "icon": "🇮🇹",
+            "title": {
+              "en": "David",
+              "mn": "Давид"
+            },
+            "facts": [
+              {
+                "en": "Created by Michelangelo between 1501 and 1504, depicting the biblical hero before battle.",
+                "mn": "Микеланжело 1501-1504 оны хооронд бүтээсэн бөгөөд Библийн баатар Давидыг тулааны өмнө буй байдлаар дүрсэлжээ."
+              },
+              {
+                "en": "Unlike earlier Florentine depictions, David is shown tense and watchful, rather than victorious over Goliath.",
+                "mn": "Флоренцын өмнөх үеийн дүрслэлүүдээс ялгаатай нь Давидыг Голиатыг ялсны дараа биш, харин тулааны өмнө биеэ барьж, анхаарлаа төвлөрүүлсэн байдалтай харуулсан."
+              }
+            ],
+            "subtitle": {
+              "en": "Florence, Italy",
+              "mn": "Флоренц, Итали"
+            }
+          },
+          {
+            "icon": "🏺",
+            "title": {
+              "en": "Venus de Milo",
+              "mn": "Милогийн Венера"
+            },
+            "facts": [
+              {
+                "en": "Discovered on the Greek island of Milos in 1820, missing her original arms.",
+                "mn": "1820 онд Грекийн Милос арлаас олдсон бөгөөд анхны гар нь олдоогүй байна."
+              },
+              {
+                "en": "Believed to depict Aphrodite, the Greek goddess of love and beauty, created around 100 BC.",
+                "mn": "МЭӨ 100 оны орчимд бүтээгдсэн, Грекийн хайр дурлал, гоо үзэсгэлэнгийн дагина Афродитаг дүрсэлсэн гэж үздэг."
+              }
+            ],
+            "subtitle": {
+              "en": "Louvre, France",
+              "mn": "Лувр, Франц"
+            }
+          },
+          {
+            "icon": "🇧🇷",
+            "title": {
+              "en": "Christ the Redeemer",
+              "mn": "Аврагч Христ"
+            },
+            "facts": [
+              {
+                "en": "Completed in 1931 on Corcovado mountain, made of reinforced concrete and soapstone.",
+                "mn": "1931 онд Корковадо уулын орой дээр төмөр бетон болон тальк хлоритоор барьж дуусгажээ."
+              },
+              {
+                "en": "It is frequently struck by lightning, requiring regular maintenance to repair the stone exterior.",
+                "mn": "Хөшөөнд аянга байнга буудаг тул гаднах чулуун гадаргууг тогтмол засварлах шаардлагатай байдаг."
+              }
+            ],
+            "subtitle": {
+              "en": "Rio de Janeiro, Brazil",
+              "mn": "Рио-де-Жанейро, Бразил"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "Michelangelo's David was carved from a single block of marble that had been discarded and deemed ruined by other sculptors for over 40 years.",
+          "mn": "Микеланжелогийн Давид баримлыг өмнө нь өөр барималчид 40 гаруй жилийн турш ашиглах боломжгүй, сүйдсэн гэж голж хаясан ганц цул гантиг чулууг засаж урлажээ."
+        },
+        {
+          "en": "Auguste Rodin's 'The Thinker' was originally designed as part of a larger gate structure called 'The Gates of Hell', representing Dante reflecting on his poem.",
+          "mn": "Огюст Родений 'Бодогч' баримал нь анх 'Тамын хаалга' хэмээх том хэмжээний хаалганы бүтцийн нэг хэсэг бөгөөд өөрийн найраглалаа тунгаан бодож буй Дантег дүрсэлсэн байжээ."
+        }
+      ]
+    },
+    {
+      "topicSlug": "cinema",
+      "key": "cinema.cannes-film-festival-winners",
+      "order": 5,
+      "title": {
+        "en": "Cannes Film Festival: The Golden Palms",
+        "mn": "Каннын кино наадам: Алтан далдуу модны мөчир"
+      },
+      "summary": {
+        "en": "Trace the history and evolution of the Palme d'Or, the prestigious top prize of the Cannes Film Festival.",
+        "mn": "Каннын кино наадмын хамгийн нэр хүндтэй дээд шагнал болох 'Алтан далдуу модны мөчир'-ийн түүх, хувьслыг сонирхоорой."
+      },
+      "body": {
+        "en": "Established in 1946, the Cannes Film Festival has grown into the world's most prestigious showcase for global cinema. Its highest honor, the Palme d'Or (Golden Palm), was introduced in 1955 to replace the Grand Prix. Winning this award can elevate an indie film to international stardom and cement a director's legacy.",
+        "mn": "1946 онд үүсгэн байгуулагдсан Каннын кино наадам нь дэлхийн хамгийн нэр хүндтэй кино урлагийн талбар болж чаджээ. Түүний дээд шагнал болох 'Алтан далдуу модны мөчир' (Palme d'Or) нь 1955 онд Гран-при шагналыг орлон гарч ирсэн түүхтэй. Энэхүү шагналыг хүртсэнээр хараат бус кинонууд дэлхийн тавцанд гарч, найруулагчийн нэр алдар түүхэнд үлддэг."
+      },
+      "visual": {
+        "kind": "timeline",
+        "items": [
+          {
+            "when": {
+              "en": "1939-1946",
+              "mn": "1939-1946 он"
+            },
+            "title": {
+              "en": "The Delayed Debut",
+              "mn": "Хойшлогдсон нээлт"
+            },
+            "body": {
+              "en": "The festival was scheduled to debut in September 1939 but was canceled due to the outbreak of WWII. The first full festival finally took place in 1946.",
+              "mn": "Наадмын анхны нээлтийг 1939 оны 9-р сард хийхээр төлөвлөж байсан ч Дэлхийн II дайн эхэлсний улмаас цуцлагдаж, улмаар анхны бүрэн хэмжээний наадам 1946 онд зохион байгуулагджээ."
+            }
+          },
+          {
+            "when": {
+              "en": "1955",
+              "mn": "1955 он"
+            },
+            "title": {
+              "en": "Introduction of the Palme d'Or",
+              "mn": "Алтан далдуу модны мөчир шагнал бий болов"
+            },
+            "body": {
+              "en": "The Palme d'Or was created to replace the 'Grand Prix of the International Film Festival' as the top prize, featuring a design inspired by the coat of arms of Cannes.",
+              "mn": "Канн хотын сүлдэнд дүрслэгдсэн далдуу модноос санаа авч загварыг нь гаргасан 'Алтан далдуу модны мөчир' шагнал нь өмнөх дээд шагнал болох 'Гран-при'-г орлон гарч ирэв."
+            }
+          },
+          {
+            "when": {
+              "en": "1993",
+              "mn": "1993 он"
+            },
+            "title": {
+              "en": "First Female Director Win",
+              "mn": "Анхны эмэгтэй найруулагч ялалт байгуулав"
+            },
+            "body": {
+              "en": "Jane Campion became the first female director to win the Palme d'Or for her film 'The Piano', sharing the prize with Chen Kaige's 'Farewell My Concubine'.",
+              "mn": "Найруулагч Жейн Кэмпион 'Төгөлдөр хуур' (The Piano) кино хуулиараа 'Алтан далдуу модны мөчир' хүртсэн анхны эмэгтэй найруулагч болж, уг шагналыг Чен Кайгэгийн 'Баяртай, татвар эм минь' кинотой хуваалцжээ."
+            }
+          },
+          {
+            "when": {
+              "en": "2019",
+              "mn": "2019 он"
+            },
+            "title": {
+              "en": "Parasite's Historic Sweep",
+              "mn": "Шимэгч киноны түүхэн амжилт"
+            },
+            "body": {
+              "en": "Bong Joon-ho's 'Parasite' won the Palme d'Or by a unanimous vote, later becoming the first non-English language film to win the Oscar for Best Picture.",
+              "mn": "Найруулагч Пон Жун Хогийн 'Шимэгч' (Parasite) кино шүүгчдийн санал нэгтэйгээр Алтан далдуу модны мөчир хүртэж, хожим нь Оскарын түүхэнд 'Шилдэг кино' шагнал авсан анхны гадаад хэл дээрх бүтээл болжээ."
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "Only three directors have won the Palme d'Or and the Academy Award for Best Picture for the same film: Billy Wilder (The Lost Weekend), Delbert Mann (Marty), and Bong Joon-ho (Parasite).",
+          "mn": "Нэг бүтээлээрээ Каннын 'Алтан далдуу модны мөчир' болон Оскарын 'Шилдэг кино' шагналыг зэрэг хүртсэн ердөө гурван найруулагч байдаг нь Билли Уайлдер (The Lost Weekend), Делберт Манн (Marty), Пон Жун Хо (Parasite) нар юм."
+        },
+        {
+          "en": "The physical Palme d'Or trophy is made of 18-carat gold and is hand-crafted each year by the Swiss jeweler Chopard.",
+          "mn": "'Алтан далдуу модны мөчир' цомыг 18 каратын алтаар хийдэг бөгөөд жил бүр Швейцарын алдарт үнэт эдлэлийн 'Chopard' брэнд гар аргаар урладаг."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "topicSlug": "cinema",
+      "lessonKey": "cinema.cannes-film-festival-winners",
+      "key": "cinema.cannes-film-festival-winners.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the name of the highest award presented at the Cannes Film Festival?",
+        "mn": "Каннын кино наадмын хамгийн дээд шагнал юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Palme d'Or",
+          "mn": "Алтан далдуу модны мөчир"
+        },
+        {
+          "en": "Golden Bear",
+          "mn": "Алтан баавгай"
+        },
+        {
+          "en": "Golden Globe",
+          "mn": "Алтан бөмбөрцөг"
+        },
+        {
+          "en": "Golden Lion",
+          "mn": "Алтан арслан"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Palme d'Or (Golden Palm) was introduced in 1955 as the festival's highest honor. It is hand-crafted each year by the Swiss luxury jeweler Chopard.",
+        "mn": "Алтан далдуу модны мөчир нь 1955 онд наадмын дээд шагнал болон гарч ирсэн. Уг шагналыг жил бүр Швейцарын тансаг зэрэглэлийн үнэт эдлэлийн Шопар (Chopard) брэнд гар аргаар урладаг."
+      }
+    },
+    {
+      "topicSlug": "cinema",
+      "lessonKey": "cinema.cannes-film-festival-winners",
+      "key": "cinema.cannes-film-festival-winners.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In 2019, which South Korean film made history by winning the Palme d'Or and later the Oscar for Best Picture?",
+        "mn": "2019 онд Алтан далдуу модны мөчир хүртэж, улмаар Оскарын шилдэг киногоор шалгарч түүх бүтээсэн Өмнөд Солонгосын кино аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "The Handmaiden",
+          "mn": "Шивэгчин"
+        },
+        {
+          "en": "Parasite",
+          "mn": "Шимэгч"
+        },
+        {
+          "en": "Oldboy",
+          "mn": "Олдбой"
+        },
+        {
+          "en": "Burning",
+          "mn": "Шаталт"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Bong Joon-ho's 'Parasite' won the Palme d'Or by a unanimous vote. It went on to become the first non-English language film to win the Oscar for Best Picture.",
+        "mn": "Найруулагч Пон Жун Хогийн 'Шимэгч' кино шүүгчдийн санал нэгтэйгээр дээд шагнал хүртсэн. Түүнчлэн Оскарын түүхэнд шилдэг киногоор шалгарсан анхны гадаад хэл дээрх бүтээл болсон юм."
+      }
+    },
+    {
+      "topicSlug": "cinema",
+      "lessonKey": "cinema.cannes-film-festival-winners",
+      "key": "cinema.cannes-film-festival-winners.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Who is the first female director to win the Palme d'Or, sharing the award for her 1993 film 'The Piano'?",
+        "mn": "1993 оны 'Төгөлдөр хуур' киногоороо Алтан далдуу модны мөчир хүртсэн, тус шагналыг авсан анхны эмэгтэй найруулагч хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Sofia Coppola",
+          "mn": "София Коппола"
+        },
+        {
+          "en": "Jane Campion",
+          "mn": "Жейн Кэмпион"
+        },
+        {
+          "en": "Agnes Varda",
+          "mn": "Аньес Варда"
+        },
+        {
+          "en": "Kathryn Bigelow",
+          "mn": "Кэтрин Бигелоу"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Jane Campion won for her film 'The Piano' in 1993, sharing the prize with Chen Kaige's 'Farewell My Concubine'. It took nearly three decades for another woman to win.",
+        "mn": "Жейн Кэмпион 1993 онд 'Төгөлдөр хуур' киногоороо түрүүлж, Чен Кайгэгийн 'Баяртай, татвар эм минь' кинотой шагналыг хуваалцжээ. Дараагийн эмэгтэй найруулагч ялах хүртэл бараг 30 жил өнгөрсөн байна."
+      }
+    },
+    {
+      "topicSlug": "cinema",
+      "lessonKey": "cinema.cannes-film-festival-winners",
+      "key": "cinema.cannes-film-festival-winners.g4",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The design of the Palme d'Or trophy is inspired by the coat of arms of which French city?",
+        "mn": "Алтан далдуу модны мөчир шагналын загварыг Францын аль хотын сүлднээс санаа авч бүтээсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Paris",
+          "mn": "Парис"
+        },
+        {
+          "en": "Nice",
+          "mn": "Ницца"
+        },
+        {
+          "en": "Cannes",
+          "mn": "Канн"
+        },
+        {
+          "en": "Marseille",
+          "mn": "Марсель"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The palm branch is a prominent symbol on the coat of arms of the city of Cannes. The trophy design was introduced in 1955 to replace the Grand Prix.",
+        "mn": "Далдуу модны мөчир нь Канн хотын сүлдэнд байдаг гол бэлгэдэл юм. Уг шагналын загварыг 1955 онд Гран-при шагналыг орлуулахаар анх нэвтрүүлжээ."
+      }
+    },
+    {
+      "topicSlug": "cinema",
+      "lessonKey": "cinema.cannes-film-festival-winners",
+      "key": "cinema.cannes-film-festival-winners.g5",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Only three films in history have won both the Palme d'Or and the Oscar for Best Picture. Which of the following is NOT one of them?",
+        "mn": "Каннын 'Алтан далдуу модны мөчир' болон Оскарын 'Шилдэг кино' шагналыг зэрэг хүртсэн түүхэнд ердөө 3 кино байдаг. Аль нь тэдгээрийн нэг БИШ вэ?"
+      },
+      "choices": [
+        {
+          "en": "The Godfather",
+          "mn": "Загалмайлсан эцэг"
+        },
+        {
+          "en": "Parasite",
+          "mn": "Шимэгч"
+        },
+        {
+          "en": "Marty",
+          "mn": "Марти"
+        },
+        {
+          "en": "The Lost Weekend",
+          "mn": "Алдсан амралтын өдрүүд"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Only 'The Lost Weekend' (1945), 'Marty' (1955), and 'Parasite' (2019) have achieved this rare double honor. 'The Godfather' never won at Cannes.",
+        "mn": "Зөвхөн 'Алдсан амралтын өдрүүд' (1945), 'Марти' (1955), 'Шимэгч' (2019) кинонууд л энэхүү ховор давхар амжилтыг гаргасан. 'Загалмайлсан эцэг' Каннын наадмаас шагнал авч байгаагүй."
+      }
+    },
+    {
+      "topicSlug": "cinema",
+      "lessonKey": "cinema.cannes-film-festival-winners",
+      "key": "cinema.cannes-film-festival-winners.g6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Why was the planned inaugural Cannes Film Festival in September 1939 canceled?",
+        "mn": "1939 оны 9-р сард зохион байгуулахаар төлөвлөж байсан Каннын анхны кино наадам яагаад цуцлагдсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Lack of funding and sponsors",
+          "mn": "Санхүүжилт болон ивээн тэтгэгч олдоогүй тул"
+        },
+        {
+          "en": "A strike by French actors",
+          "mn": "Францын жүжигчид ажил хаясан тул"
+        },
+        {
+          "en": "A massive fire at the main venue",
+          "mn": "Гол танхимд том хэмжээний гал гарсан тул"
+        },
+        {
+          "en": "The outbreak of World War II",
+          "mn": "Дэлхийн II дайн эхэлсэн тул"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The festival was set to debut in 1939, but Germany's invasion of Poland triggered World War II, forcing its cancellation. The first full festival was finally held in 1946.",
+        "mn": "Наадмыг 1939 онд нээхээр төлөвлөж байсан ч Герман улс Польш руу довтолж, Дэлхийн II дайн эхэлснээр цуцлагдсан. Анхны бүрэн хэмжээний наадам 1946 онд болсон юм."
+      }
+    },
+    {
+      "topicSlug": "cinema",
+      "lessonKey": "cinema.cannes-film-festival-winners",
+      "key": "cinema.cannes-film-festival-winners.g7",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In which European country is the Cannes Film Festival held annually?",
+        "mn": "Каннын кино наадам жил бүр Европын аль улсад зохион байгуулагддаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Switzerland",
+          "mn": "Швейцар"
+        },
+        {
+          "en": "Spain",
+          "mn": "Испани"
+        },
+        {
+          "en": "France",
+          "mn": "Франц"
+        },
+        {
+          "en": "Italy",
+          "mn": "Итали"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The festival is held annually in Cannes, a resort city located on the French Riviera in the south of France. It is famous for its Mediterranean climate.",
+        "mn": "Уг наадам жил бүр Францын өмнөд хэсэгт орших Ривьерагийн амралтын хот болох Каннд болдог. Энэ бүс нутаг Газар дундын тэнгисийн уур амьсгалаараа алдартай."
+      }
+    },
+    {
+      "topicSlug": "cinema",
+      "lessonKey": "cinema.cannes-film-festival-winners",
+      "key": "cinema.cannes-film-festival-winners.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which prestigious film festival is the main rival of Cannes, being the oldest international film festival in the world?",
+        "mn": "Каннын гол өрсөлдөгч, дэлхийн хамгийн эртний олон улсын кино наадам аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Toronto International Film Festival",
+          "mn": "Торонтогийн олон улсын кино наадам"
+        },
+        {
+          "en": "Sundance Film Festival",
+          "mn": "Сандэнс кино наадам"
+        },
+        {
+          "en": "Venice Film Festival",
+          "mn": "Венецийн кино наадам"
+        },
+        {
+          "en": "Berlin International Film Festival",
+          "mn": "Берлиний олон улсын кино наадам"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Venice Film Festival, founded in 1932, is the oldest film festival in the world. Cannes was originally created as a French alternative to Venice.",
+        "mn": "1932 онд үүсгэн байгуулагдсан Венецийн кино наадам нь дэлхийн хамгийн эртний наадам юм. Каннын наадмыг анх Венецийн наадамд өгөх Францын хариу бэлэг болгон үүсгэж байжээ."
+      }
+    },
+    {
+      "topicSlug": "cinema",
+      "lessonKey": "cinema.cannes-film-festival-winners",
+      "key": "cinema.cannes-film-festival-winners.g9",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of these famous American directors has won the Palme d'Or twice?",
+        "mn": "Америкийн алдартай найруулагчдаас хэн нь Алтан далдуу модны мөчрийг хоёр удаа хүртсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Quentin Tarantino",
+          "mn": "Квентин Тарантино"
+        },
+        {
+          "en": "Francis Ford Coppola",
+          "mn": "Фрэнсис Форд Коппола"
+        },
+        {
+          "en": "Steven Spielberg",
+          "mn": "Стивен Спилберг"
+        },
+        {
+          "en": "Martin Scorsese",
+          "mn": "Мартин Скорсезе"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Francis Ford Coppola is one of the few directors to win twice, for 'The Conversation' (1974) and 'Apocalypse Now' (1979). Only a handful of directors have achieved this double win.",
+        "mn": "Фрэнсис Форд Коппола нь 'Яриа' (1974) болон 'Өнөө цагийн апокалипсис' (1979) кинонуудаараа хоёр удаа дээд шагнал хүртсэн цөөхөн найруулагчдын нэг юм."
+      }
+    },
+    {
+      "topicSlug": "cinema",
+      "lessonKey": "cinema.cannes-film-festival-winners",
+      "key": "cinema.cannes-film-festival-winners.g10",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which 1994 cult classic film by Quentin Tarantino won the Palme d'Or, reviving the career of John Travolta?",
+        "mn": "Найруулагч Квентин Тарантиногийн 1994 оны аль алдартай кино Алтан далдуу модны мөчир хүртэж, жүжигчин Жон Траволтагийн карьерийг дахин сэргээсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Reservoir Dogs",
+          "mn": "Галзуу ноход"
+        },
+        {
+          "en": "Pulp Fiction",
+          "mn": "Хямдхан зохиол"
+        },
+        {
+          "en": "Kill Bill",
+          "mn": "Биллийг ал"
+        },
+        {
+          "en": "Jackie Brown",
+          "mn": "Жеки Браун"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Quentin Tarantino's 'Pulp Fiction' won the Palme d'Or in 1994. The film was a massive critical and commercial success, becoming a cultural phenomenon of the 1990s.",
+        "mn": "Квентин Тарантиногийн 'Хямдхан зохиол' (Pulp Fiction) кино 1994 оны Каннын наадамд түрүүлсэн. Уг бүтээл нь кино шүүмжлэгчдээс маш өндөр үнэлгээ авч, 1990-ээд оны соёлын томоохон үзэгдэл болсон юм."
+      }
+    },
+    {
+      "topicSlug": "cinema",
+      "lessonKey": "cinema.cannes-film-festival-winners",
+      "key": "cinema.cannes-film-festival-winners.g11",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which color is the famous carpet that celebrities walk on at the Cannes Film Festival red carpet entrance?",
+        "mn": "Каннын кино наадмын үеэр одод ямар өнгийн хивсэн дээгүүр алхаж наадмын ордон руу нэвтэрдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Purple",
+          "mn": "Нил ягаан"
+        },
+        {
+          "en": "Gold",
+          "mn": "Алтан"
+        },
+        {
+          "en": "Red",
+          "mn": "Улаан"
+        },
+        {
+          "en": "Blue",
+          "mn": "Хөх"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The red carpet of Cannes is iconic, covering the famous steps of the Palais des Festivals. The carpet is changed several times a day during the festival to keep it looking clean.",
+        "mn": "Каннын улаан хивс нь наадмын ордны алдарт шатыг бүрхдэг бэлгэдэл юм. Хивсийг цэвэр үзэмжтэй байлгахын тулд наадмын өдрүүдэд өдөрт хэд хэдэн удаа сольдог байна."
+      }
+    },
+    {
+      "topicSlug": "cinema",
+      "lessonKey": "cinema.famous-sculptures",
+      "key": "cinema.famous-sculptures.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which famous Renaissance master sculpted the towering marble masterpiece 'David' between 1501 and 1504?",
+        "mn": "1501-1504 оны хооронд гантиг чулуугаар алдарт 'Давид' хөшөөг урласан Сэргэн мандалтын үеийн суут мастер хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Michelangelo",
+          "mn": "Микеланжело"
+        },
+        {
+          "en": "Leonardo da Vinci",
+          "mn": "Леонардо да Винчи"
+        },
+        {
+          "en": "Donatello",
+          "mn": "Донателло"
+        },
+        {
+          "en": "Raphael",
+          "mn": "Рафаэль"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Michelangelo carved 'David' from a single block of Carrara marble that had been rejected by other artists. Unlike earlier depictions, his David is shown tense and watchful before his battle with Goliath.",
+        "mn": "Микеланжело 'Давид' хөшөөг бусад уран бүтээлчдийн голж орхисон Каррара гантиг чулуугаар сийлжээ. Өмнөх дүрслэлүүдээс ялгаатай нь тэрээр Давидыг Голиаттай тулалдахаас өмнө биеэ барьж, анхаарлаа төвлөрүүлсэн байдалтайгаар дүрсэлсэн байна."
+      }
+    },
+    {
+      "topicSlug": "cinema",
+      "lessonKey": "cinema.famous-sculptures",
+      "key": "cinema.famous-sculptures.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Who designed the internal iron framework of the Statue of Liberty in New York before constructing his namesake tower in Paris?",
+        "mn": "Нью-Йорк хотын 'Эрх чөлөөний хөшөө'-ний дотоод төмөр араг бүтцийг зохион бүтээсэн, хожим Парист өөрийн нэрээр нэрлэгдсэн цамхгийг босгосон инженер хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Charles Garnier",
+          "mn": "Шарль Гарнье"
+        },
+        {
+          "en": "Eugène Viollet-le-Duc",
+          "mn": "Эжен Виолле-ле-Дюк"
+        },
+        {
+          "en": "Gustave Eiffel",
+          "mn": "Гюстав Эйфель"
+        },
+        {
+          "en": "Frédéric-Auguste Bartholdi",
+          "mn": "Фредерик-Огюст Бартольди"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Gustave Eiffel engineered the flexible iron support system inside the Statue of Liberty. This allowed the copper skin to move independently in high winds, a technique he later adapted for the Eiffel Tower.",
+        "mn": "Гюстав Эйфель Эрх чөлөөний хөшөөний доторх уян хатан төмөр тулгуурын системийг зохион бүтээжээ. Энэ нь хүчтэй салхинд зэс гадаргууг чөлөөтэй хөдлөх боломжийг олгосон бөгөөд хожим энэ аргаа Эйфелийн цамхагт ашигласан байна."
+      }
+    },
+    {
+      "topicSlug": "cinema",
+      "lessonKey": "cinema.famous-sculptures",
+      "key": "cinema.famous-sculptures.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The famous Greek sculpture 'Venus de Milo', discovered in 1820 on the island of Milos, is widely believed to depict which Olympian goddess?",
+        "mn": "1820 онд Милос арлаас олдсон Грекийн алдарт 'Милогийн Венера' хөшөөнд Олимпын аль дагиныг дүрсэлсэн гэж үздэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Athena",
+          "mn": "Афина"
+        },
+        {
+          "en": "Hera",
+          "mn": "Хера"
+        },
+        {
+          "en": "Artemis",
+          "mn": "Артемис"
+        },
+        {
+          "en": "Aphrodite",
+          "mn": "Афродита"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Venus is the Roman name for Aphrodite, the Greek goddess of love and beauty. The statue is famous for missing both of her arms, which were lost during or shortly after her excavation.",
+        "mn": "Венера бол Грекийн хайр дурлал, гоо үзэсгэлэнгийн дагина Афродитагийн Ром нэршил юм. Энэхүү хөшөө нь малтлагын үеэр эсвэл түүний дараахан алга болсон хоёр гаргүй гэдгээрээ алдартай."
+      }
+    },
+    {
+      "topicSlug": "cinema",
+      "lessonKey": "cinema.famous-sculptures",
+      "key": "cinema.famous-sculptures.g4",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Overlooking Rio de Janeiro, the colossal statue of 'Christ the Redeemer' is made of reinforced concrete and covered in a protective outer layer of what material?",
+        "mn": "Рио-де-Жанейро хотыг дээрээс тольдох 'Аврагч Христ' аварга хөшөөг төмөр бетоноор цутгаж, гадна талыг нь хамгаалахын тулд ямар материалаар бүрсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Soapstone",
+          "mn": "Тальк хлорит (савангийн чулуу)"
+        },
+        {
+          "en": "Bronze sheets",
+          "mn": "Хүрэл хуудас"
+        },
+        {
+          "en": "Granite tiles",
+          "mn": "Боржингийн хавтан"
+        },
+        {
+          "en": "Carrara marble",
+          "mn": "Каррара гантиг"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The statue is covered in thousands of triangular soapstone tiles, chosen for their resistance to extreme weather. Because of its mountaintop location, it is struck by lightning several times a year.",
+        "mn": "Уг хөшөөг цаг агаарын эрс тэс уур амьсгалд тэсвэртэйг нь бодож олон мянган гурвалжин хэлбэртэй тальк хлорит чулуугаар бүржээ. Уулын оройд байрладаг тул жилд хэд хэдэн удаа аянганд цохигддог."
+      }
+    },
+    {
+      "topicSlug": "cinema",
+      "lessonKey": "cinema.famous-sculptures",
+      "key": "cinema.famous-sculptures.g5",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Auguste Rodin's famous bronze sculpture 'The Thinker' was originally designed as part of a monumental portal based on which classical literary work?",
+        "mn": "Огюст Родины алдарт 'Сэтгэгч' хүрэл хөшөөг анх аль сонгодог уран зохиолын бүтээлээс сэдэвлэсэн аварга том хаалганы хэсэг болгон зохион бүтээсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Paradise Lost",
+          "mn": "Алдагдсан диваажин"
+        },
+        {
+          "en": "Faust",
+          "mn": "Фауст"
+        },
+        {
+          "en": "The Odyssey",
+          "mn": "Одиссей"
+        },
+        {
+          "en": "The Divine Comedy",
+          "mn": "Тэнгэрлэг туульс"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "'The Thinker' was originally called 'The Poet' and was designed as the centerpiece of 'The Gates of Hell', depicting Dante Alighieri contemplating his epic poem 'The Divine Comedy'.",
+        "mn": "'Сэтгэгч' хөшөөг анх 'Яруу найрагч' гэж нэрлэдэг байсан бөгөөд Данте Алигьери 'Тэнгэрлэг туульс' зохиолоо тунгаан бодож буйг дүрслэн 'Тамын үүд' нэртэй аварга хаалганы гол хэсэг болгон бүтээжээ."
+      }
+    },
+    {
+      "topicSlug": "cinema",
+      "lessonKey": "cinema.famous-sculptures",
+      "key": "cinema.famous-sculptures.g6",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which ancient limestone sculpture, depicting a mythical creature with the body of a lion and the head of a human, stands on the Giza Plateau in Egypt?",
+        "mn": "Египетийн Гизагийн тэгш өндөрлөгт орших, арслангийн биетэй, хүний толгойтой домогт амьтныг дүрсэлсэн эртний шохойн чулуун хөшөөг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "The Minotaur",
+          "mn": "Минотавр"
+        },
+        {
+          "en": "The Chimera",
+          "mn": "Химера"
+        },
+        {
+          "en": "The Colossus of Rhodes",
+          "mn": "Родосын колосс"
+        },
+        {
+          "en": "The Great Sphinx",
+          "mn": "Их Сфинкс"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Great Sphinx of Giza is one of the world's largest and oldest statues, believed to have been built during the reign of Pharaoh Khafre around 2500 BC.",
+        "mn": "Гизагийн Их Сфинкс нь дэлхийн хамгийн том бөгөөд хамгийн эртний хөшөөнүүдийн нэг бөгөөд МЭӨ 2500 оны орчимд Фараон Хафрагийн хаанчлалын үед баригдсан гэж үздэг."
+      }
+    },
+    {
+      "topicSlug": "cinema",
+      "lessonKey": "cinema.famous-sculptures",
+      "key": "cinema.famous-sculptures.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which Italian Baroque master sculpted 'The Ecstasy of Saint Teresa' and designed the famous St. Peter's Square in Rome?",
+        "mn": "Италийн Барокко үеийн аль суут мастер 'Гэгээн Терезагийн бахдал' хөшөөг урлаж, Ром дахь Гэгээн Петрийн алдарт талбайн загварыг гаргасан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Filippo Brunelleschi",
+          "mn": "Филиппо Брунеллески"
+        },
+        {
+          "en": "Antonio Canova",
+          "mn": "Антонио Канова"
+        },
+        {
+          "en": "Donatello",
+          "mn": "Донателло"
+        },
+        {
+          "en": "Gian Lorenzo Bernini",
+          "mn": "Жан Лоренцо Бернини"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Gian Lorenzo Bernini was the defining sculptor of the Baroque era, famous for making cold marble look like soft skin and flowing fabric. His masterpiece 'The Ecstasy of Saint Teresa' is located in the Cornaro Chapel in Rome.",
+        "mn": "Жан Лоренцо Бернини бол хүйтэн гантиг чулууг зөөлөн арьс, намирсан даавуу мэт харагдуулж чаддагаараа алдаршсан Барокко үеийн гол төлөөлөгч юм. Түүний шилдэг бүтээл болох 'Гэгээн Терезагийн бахдал' нь Ромын Корнаро сүмд байдаг."
+      }
+    },
+    {
+      "topicSlug": "cinema",
+      "lessonKey": "cinema.famous-sculptures",
+      "key": "cinema.famous-sculptures.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The 'Terracotta Army' is a collection of thousands of life-sized clay soldiers buried to protect the tomb of the first emperor of which country?",
+        "mn": "'Терракота дайчид' хэмээх бодит хүний хэмжээтэй, шавраар урласан олон мянган цэргийн барималууд аль улсын анхны эзэн хааны бунхныг хамгаалахаар оршуулагдсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "China",
+          "mn": "Хятад"
+        },
+        {
+          "en": "Japan",
+          "mn": "Япон"
+        },
+        {
+          "en": "Vietnam",
+          "mn": "Вьетнам"
+        },
+        {
+          "en": "Korea",
+          "mn": "Солонгос"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The figures were buried in the late 3rd century BC to protect Qin Shi Huang, the first Emperor of China, in the afterlife. They were discovered by local farmers in 1974.",
+        "mn": "Эдгээр барималуудыг МЭӨ III зууны сүүлчээр Хятадын анхны эзэн хаан Цинь Ши Хуандиг хойд насанд нь хамгаалах зорилгоор оршуулжээ. Тэднийг 1974 онд нутгийн тариачид анх олж илрүүлсэн байна."
+      }
+    },
+    {
+      "topicSlug": "cinema",
+      "lessonKey": "cinema.famous-sculptures",
+      "key": "cinema.famous-sculptures.g9",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which 20th-century Swiss artist is famous for his extremely thin, elongated bronze figures, such as 'L'Homme qui marche I' (Walking Man I)?",
+        "mn": "XX зууны Швейцарын аль уран бүтээлч 'Алхаж буй хүн I' зэрэг маш нарийхан, сунгасан хэлбэртэй хүрэл барималуудаараа алдартай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Alberto Giacometti",
+          "mn": "Альберто Жакометти"
+        },
+        {
+          "en": "Alexander Calder",
+          "mn": "Александр Калдер"
+        },
+        {
+          "en": "Henry Moore",
+          "mn": "Хенри Мур"
+        },
+        {
+          "en": "Constantin Brâncuși",
+          "mn": "Константин Бранкузи"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Alberto Giacometti's unique, thread-like sculptures captured the existential anxiety of the post-WWII era. His 'Walking Man I' became one of the most expensive sculptures ever sold at auction.",
+        "mn": "Альберто Жакометтигийн өвөрмөц, утас мэт нарийхан барималууд нь Дэлхийн II дайны дараах үеийн хүний оршихуйн түгшүүрийг илэрхийлдэг. Түүний 'Алхаж буй хүн I' бүтээл нь дуудлага худалдаагаар хамгийн өндөр үнээр зарагдсан барималуудын нэг болсон юм."
+      }
+    },
+    {
+      "topicSlug": "cinema",
+      "lessonKey": "cinema.famous-sculptures",
+      "key": "cinema.famous-sculptures.g10",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which European capital city is home to 'The Little Mermaid' statue, inspired by Hans Christian Andersen's fairy tale?",
+        "mn": "Ганс Кристиан Андерсений үлгэрээс сэдэвлэн бүтээсэн 'Лусын дагина' хөшөө Европын аль улсын нийслэлд байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Stockholm",
+          "mn": "Стокхольм"
+        },
+        {
+          "en": "Copenhagen",
+          "mn": "Копенгаген"
+        },
+        {
+          "en": "Helsinki",
+          "mn": "Хельсинки"
+        },
+        {
+          "en": "Oslo",
+          "mn": "Осло"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The bronze statue sits on a rock by the waterside in Copenhagen, Denmark. Since its unveiling in 1913, it has unfortunately been a frequent target for political vandalism and paint throwing.",
+        "mn": "Энэхүү хүрэл хөшөө Дани улсын Копенгаген хотын усан боомтын хадан дээр байрладаг. 1913 онд нээлтээ хийснээс хойш харамсалтай нь улс төрийн эсэргүүцэл болон вандализмын бай байнга болж, будаг цацуулах зэргээр гэмтэж байжээ."
+      }
+    },
+    {
+      "topicSlug": "cinema",
+      "lessonKey": "cinema.famous-sculptures",
+      "key": "cinema.famous-sculptures.g11",
+      "difficulty": 3,
+      "prompt": {
+        "en": "What is the name of the colossal 19th-century neoclassical relief on the Arc de Triomphe in Paris, sculpted by François Rude, which is also known as 'La Marseillaise'?",
+        "mn": "Парис дахь Ялалтын хаалган дээр байдаг, Франсуа Рюдын урласан, 'Марсельез' гэгддэг XIX зууны неоклассик хэв маягийн аварга том туслах баримлыг (рельеф) юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "The Triumph of Napoleon",
+          "mn": "Наполеоны ялалт"
+        },
+        {
+          "en": "The Departure of the Volunteers",
+          "mn": "Сайн дурынхны мордолт"
+        },
+        {
+          "en": "The Resistance of 1814",
+          "mn": "1814 оны эсэргүүцэл"
+        },
+        {
+          "en": "The Peace of 1815",
+          "mn": "1815 оны энх тайван"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "'The Departure of the Volunteers of 1792' (commonly called 'La Marseillaise') depicts French patriots rallying to defend the Republic. It is considered one of the greatest masterpieces of Romantic sculpture.",
+        "mn": "'1792 оны сайн дурынхны мордолт' (ихэвчлэн 'Марсельез' гэгддэг) нь Бүгд Найрамдах Улсаа хамгаалахаар нэгдэж буй Францын эх орончдыг дүрсэлжээ. Энэ нь Романтизмын үеийн уран баримлын хамгийн агуу бүтээлүүдийн нэгд тооцогддог."
+      }
+    }
+  ]
+}

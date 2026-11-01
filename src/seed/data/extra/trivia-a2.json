@@ -1,0 +1,4541 @@
+{
+  "lessons": [
+    {
+      "topicSlug": "pubquiz",
+      "key": "pubquiz.technology",
+      "order": 23,
+      "title": {
+        "en": "Technology & the Internet",
+        "mn": "Технологи ба интернэт"
+      },
+      "summary": {
+        "en": "From room-sized computers to smartphones — the people and firsts behind digital life.",
+        "mn": "Өрөө дүүрэм компьютерээс ухаалаг утас хүртэл — дижитал амьдралын анхдагчид ба түүхэн анхны алхмууд."
+      },
+      "body": {
+        "en": "Modern computing grew from wartime machines like ENIAC into personal computers in the 1970s and the internet in the 1990s. Many famous companies started in garages or dorm rooms, and many everyday words — bug, spam, emoji — have surprising origin stories. Pub quizzes love the firsts: the first email, the first website, the first YouTube video.",
+        "mn": "Орчин үеийн тооцоолох техник дайны үеийн ENIAC шиг машинаас эхэлж, 1970-аад онд хувийн компьютер, 1990-ээд онд интернэт болж хөгжсөн. Нэртэй олон компани гараж эсвэл оюутны байрнаас эхэлсэн бөгөөд bug, spam, emoji гэх мэт өдөр тутмын үгс сонирхолтой гарал үүсэлтэй. Паб квизэд анхны имэйл, анхны вэбсайт, YouTube-ийн анхны бичлэг зэрэг «анхдагч» асуулт их гардаг."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "💻",
+            "title": {
+              "en": "Early computers",
+              "mn": "Анхны компьютерууд"
+            },
+            "facts": [
+              {
+                "en": "ENIAC (1945) weighed about 27 tonnes",
+                "mn": "ENIAC (1945) 27 орчим тонн жинтэй байв"
+              },
+              {
+                "en": "The first 'bug' was a real moth (1947)",
+                "mn": "Анхны «bug» нь жинхэнэ эрвээхэй байжээ (1947)"
+              },
+              {
+                "en": "Moore's Law: transistors double ~every 2 years",
+                "mn": "Мурын хууль: транзисторын тоо ~2 жил тутам хоёр дахин өснө"
+              }
+            ]
+          },
+          {
+            "icon": "🌐",
+            "title": {
+              "en": "The internet",
+              "mn": "Интернэт"
+            },
+            "facts": [
+              {
+                "en": "ARPANET's first message (1969) was 'LO'",
+                "mn": "ARPANET-ийн анхны мессеж (1969) «LO» байв"
+              },
+              {
+                "en": "Tim Berners-Lee invented the Web at CERN, 1989",
+                "mn": "Тим Бернерс-Ли 1989 онд CERN-д Вэбийг зохиосон"
+              },
+              {
+                "en": "Ray Tomlinson picked @ for email in 1971",
+                "mn": "Рэй Томлинсон 1971 онд имэйлд @ тэмдгийг сонгосон"
+              }
+            ]
+          },
+          {
+            "icon": "🏢",
+            "title": {
+              "en": "Big tech origins",
+              "mn": "Аварга компаниудын эхлэл"
+            },
+            "facts": [
+              {
+                "en": "Apple began in a garage in 1976",
+                "mn": "Apple 1976 онд гаражид үүссэн"
+              },
+              {
+                "en": "Google was first called BackRub",
+                "mn": "Google анх BackRub нэртэй байв"
+              },
+              {
+                "en": "Amazon started by selling books",
+                "mn": "Amazon ном зарж эхэлсэн"
+              }
+            ]
+          },
+          {
+            "icon": "🎮",
+            "title": {
+              "en": "Games",
+              "mn": "Тоглоом"
+            },
+            "facts": [
+              {
+                "en": "Tetris was made in the USSR in 1984",
+                "mn": "Тетрисийг 1984 онд ЗХУ-д бүтээсэн"
+              },
+              {
+                "en": "Nintendo began by making playing cards",
+                "mn": "Nintendo хөзөр хийж эхэлсэн"
+              },
+              {
+                "en": "Minecraft is the best-selling video game",
+                "mn": "Minecraft бол хамгийн их борлогдсон видео тоглоом"
+              }
+            ]
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "The very first website, made by Tim Berners-Lee, can still be visited at info.cern.ch.",
+          "mn": "Тим Бернерс-Лигийн хийсэн дэлхийн анхны вэбсайтыг info.cern.ch хаягаар одоо ч үзэж болно."
+        },
+        {
+          "en": "Emoji were created in 1999 by Shigetaka Kurita for a Japanese mobile company.",
+          "mn": "Эможийг 1999 онд Японы гар утасны компанид Шигэтака Курита зохиосон."
+        }
+      ]
+    },
+    {
+      "topicSlug": "pubquiz",
+      "key": "pubquiz.human-body",
+      "order": 24,
+      "title": {
+        "en": "The Human Body",
+        "mn": "Хүний бие"
+      },
+      "summary": {
+        "en": "Bones, organs, blood and senses — the record-breakers and oddities inside us.",
+        "mn": "Яс, эрхтэн, цус, мэдрэхүй — бидний биеийн дээд амжилт ба сонин баримтууд."
+      },
+      "body": {
+        "en": "An adult skeleton has 206 bones, though a newborn starts with around 300 that later fuse together. Our organs range from the skin, the largest, to tiny bones in the ear smaller than a grain of rice. Knowing a few medical names — femur, patella, trachea — goes a long way in a quiz.",
+        "mn": "Насанд хүрэгчийн араг яс 206 ястай ч нярай хүүхэд 300 орчим ястай төрж, тэдгээр нь хожим нийлдэг. Бидний эрхтэн хамгийн том нь болох арьсаас эхлээд будааны ширхэгээс жижиг чихний яс хүртэл олон янз. Гуя, тойг, цагаан мөгөөрсөн хоолой зэрэг хэдэн анагаахын нэр мэддэг бол квизэд их тус болно."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "🦴",
+            "title": {
+              "en": "Skeleton",
+              "mn": "Араг яс"
+            },
+            "facts": [
+              {
+                "en": "Adults: 206 bones; newborns: ~300",
+                "mn": "Насанд хүрэгч 206, нярай ~300 ястай"
+              },
+              {
+                "en": "Longest bone: femur (thigh)",
+                "mn": "Хамгийн урт яс: гуяны яс"
+              },
+              {
+                "en": "Smallest bone: stapes, in the ear",
+                "mn": "Хамгийн жижиг яс: чихний дөрөө яс"
+              }
+            ]
+          },
+          {
+            "icon": "❤️",
+            "title": {
+              "en": "Heart & blood",
+              "mn": "Зүрх ба цус"
+            },
+            "facts": [
+              {
+                "en": "The heart has four chambers",
+                "mn": "Зүрх дөрвөн хөндийтэй"
+              },
+              {
+                "en": "An adult has about 5 litres of blood",
+                "mn": "Насанд хүрэгч 5 орчим литр цустай"
+              },
+              {
+                "en": "O negative is the universal donor",
+                "mn": "O сөрөг бүлэг бол түгээмэл донор"
+              }
+            ]
+          },
+          {
+            "icon": "🫁",
+            "title": {
+              "en": "Organs",
+              "mn": "Эрхтнүүд"
+            },
+            "facts": [
+              {
+                "en": "Skin is the largest organ",
+                "mn": "Арьс бол хамгийн том эрхтэн"
+              },
+              {
+                "en": "The liver can regrow lost tissue",
+                "mn": "Элэг алдсан эдээ нөхөн ургуулж чадна"
+              },
+              {
+                "en": "Kidneys filter blood into urine",
+                "mn": "Бөөр цусыг шүүж шээс үүсгэнэ"
+              }
+            ]
+          },
+          {
+            "icon": "👁️",
+            "title": {
+              "en": "Senses",
+              "mn": "Мэдрэхүй"
+            },
+            "facts": [
+              {
+                "en": "The iris gives the eye its colour",
+                "mn": "Солонгон бүрхүүл нүдэнд өнгө өгнө"
+              },
+              {
+                "en": "The cornea has no blood vessels",
+                "mn": "Эвэрлэгт цусны судас байхгүй"
+              },
+              {
+                "en": "Smell is handled by the olfactory system",
+                "mn": "Үнэрийг үнэрлэх мэдрэлийн систем мэдэрнэ"
+              }
+            ]
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "Tooth enamel is the hardest substance in the human body — harder than bone.",
+          "mn": "Шүдний паалан бол хүний биеийн хамгийн хатуу бодис бөгөөд яснаас ч хатуу."
+        },
+        {
+          "en": "The 'funny bone' is not a bone at all but the ulnar nerve near the elbow.",
+          "mn": "Тохойгоо мөргөхөд цахилгаан гүйх шиг санагддаг нь яс биш, тохойн мэдрэл арьсны доор ил байдагтай холбоотой."
+        }
+      ]
+    },
+    {
+      "topicSlug": "pubquiz",
+      "key": "pubquiz.inventions",
+      "order": 25,
+      "title": {
+        "en": "Inventions & Discoveries",
+        "mn": "Шинэ бүтээл ба нээлт"
+      },
+      "summary": {
+        "en": "Who invented what — and the happy accidents that changed the world.",
+        "mn": "Хэн юуг зохиосон бэ — дэлхийг өөрчилсөн санамсаргүй нээлтүүд."
+      },
+      "body": {
+        "en": "From Gutenberg's printing press to the microwave oven, inventions shape daily life. Some came from years of careful work, like Mendeleev's periodic table; others from luck, like a chocolate bar melting near radar equipment. Many units and words honour their inventors: watt, Celsius, braille, biro.",
+        "mn": "Гутенбергийн хэвлэх машинаас богино долгионы зуух хүртэл шинэ бүтээлүүд өдөр тутмын амьдралыг тодорхойлдог. Зарим нь Менделеевийн үелэх систем шиг олон жилийн хөдөлмөрийн үр дүн, зарим нь радарын төхөөрөмжийн дэргэд шоколад хайлсан шиг азын хэрэг. Ватт, Цельс, брайль, «биро» гэх мэт олон нэгж, үг зохион бүтээгчийнхээ нэрийг агуулдаг."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "⚙️",
+            "title": {
+              "en": "Industry",
+              "mn": "Үйлдвэрлэл"
+            },
+            "facts": [
+              {
+                "en": "Gutenberg's press, c. 1440",
+                "mn": "Гутенбергийн хэвлэх машин, 1440 орчим"
+              },
+              {
+                "en": "James Watt improved the steam engine",
+                "mn": "Жеймс Ватт уурын хөдөлгүүрийг сайжруулсан"
+              },
+              {
+                "en": "Karl Benz patented a car in 1886",
+                "mn": "Карл Бенц 1886 онд автомашины патент авсан"
+              }
+            ]
+          },
+          {
+            "icon": "📞",
+            "title": {
+              "en": "Communication",
+              "mn": "Харилцаа холбоо"
+            },
+            "facts": [
+              {
+                "en": "Bell patented the telephone in 1876",
+                "mn": "Белл 1876 онд утасны патент авсан"
+              },
+              {
+                "en": "Marconi pioneered radio",
+                "mn": "Маркони радиог анхлан хөгжүүлсэн"
+              },
+              {
+                "en": "Braille was invented by a 15-year-old",
+                "mn": "Брайлийн бичгийг 15 настай хүү зохиосон"
+              }
+            ]
+          },
+          {
+            "icon": "🔬",
+            "title": {
+              "en": "Science",
+              "mn": "Шинжлэх ухаан"
+            },
+            "facts": [
+              {
+                "en": "Röntgen discovered X-rays in 1895",
+                "mn": "Рентген 1895 онд рентген туяаг нээсэн"
+              },
+              {
+                "en": "Mendeleev's periodic table, 1869",
+                "mn": "Менделеевийн үелэх систем, 1869"
+              },
+              {
+                "en": "DNA double helix described in 1953",
+                "mn": "ДНХ-ийн давхар спираль 1953 онд тодорхойлогдсон"
+              }
+            ]
+          },
+          {
+            "icon": "🍀",
+            "title": {
+              "en": "Happy accidents",
+              "mn": "Азтай санамсаргүй явдал"
+            },
+            "facts": [
+              {
+                "en": "Microwave oven: a melted chocolate bar",
+                "mn": "Богино долгионы зуух: хайлсан шоколад"
+              },
+              {
+                "en": "Velcro: burrs stuck to a dog's fur",
+                "mn": "Велкро: нохойн үсэнд наалдсан өргөст үр"
+              }
+            ]
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "Anders Celsius originally set 0° as the boiling point of water and 100° as freezing — it was flipped after his death.",
+          "mn": "Андерс Цельс анх усны буцлах цэгийг 0°, хөлдөх цэгийг 100° гэж тогтоосон бөгөөд түүнийг нас барсны дараа урвуулсан."
+        },
+        {
+          "en": "The word 'vaccine' comes from Latin vacca, 'cow', because Jenner used cowpox.",
+          "mn": "«Вакцин» гэдэг үг латины vacca буюу «үнээ» гэсэн үгнээс гаралтай, учир нь Женнер үхрийн цэцэг өвчнийг ашигласан."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.technology",
+      "key": "pubquiz.technology.a21",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Who invented the World Wide Web in 1989?",
+        "mn": "1989 онд Дэлхийн өргөн сүлжээг (World Wide Web) хэн зохиосон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Bill Gates",
+          "mn": "Билл Гейтс"
+        },
+        {
+          "en": "Steve Jobs",
+          "mn": "Стив Жобс"
+        },
+        {
+          "en": "Tim Berners-Lee",
+          "mn": "Тим Бернерс-Ли"
+        },
+        {
+          "en": "Mark Zuckerberg",
+          "mn": "Марк Цукерберг"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Tim Berners-Lee proposed the Web while working at CERN in Switzerland. He never patented it, so anyone could use it for free.",
+        "mn": "Тим Бернерс-Ли Швейцарь дахь CERN-д ажиллаж байхдаа Вэбийн санааг дэвшүүлсэн. Тэр патент аваагүй тул хэн ч үнэгүй ашиглах боломжтой болсон."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.technology",
+      "key": "pubquiz.technology.a22",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Steve Jobs and Steve Wozniak started which company in a garage in 1976?",
+        "mn": "Стив Жобс, Стив Возняк нар 1976 онд гаражид ямар компани байгуулсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Microsoft",
+          "mn": "Microsoft"
+        },
+        {
+          "en": "Apple",
+          "mn": "Apple"
+        },
+        {
+          "en": "IBM",
+          "mn": "IBM"
+        },
+        {
+          "en": "Intel",
+          "mn": "Intel"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Apple was founded in the Jobs family garage in Los Altos, California. Its first product, the Apple I, sold for $666.66.",
+        "mn": "Apple-ийг Калифорни мужийн Лос Алтос дахь Жобсын гэр бүлийн гаражид үүсгэн байгуулжээ. Анхны бүтээгдэхүүн Apple I нь 666.66 доллараар зарагдаж байв."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.technology",
+      "key": "pubquiz.technology.a23",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What was Google's original name when it began as a research project?",
+        "mn": "Google судалгааны төсөл байхдаа анх ямар нэртэй байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "WebCrawler",
+          "mn": "WebCrawler"
+        },
+        {
+          "en": "SearchRank",
+          "mn": "SearchRank"
+        },
+        {
+          "en": "Googlebot",
+          "mn": "Googlebot"
+        },
+        {
+          "en": "BackRub",
+          "mn": "BackRub"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Larry Page and Sergey Brin called it BackRub because it ranked pages by their backlinks. The name Google comes from 'googol', the number 1 followed by 100 zeros.",
+        "mn": "Ларри Пэйж, Сергей Брин нар хуудсыг холбоосоор нь эрэмбэлдэг байсан тул BackRub гэж нэрлэжээ. Google нэр нь 1-ийн ард 100 тэг бүхий «googol» тооноос гаралтай."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.technology",
+      "key": "pubquiz.technology.a24",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What does USB stand for?",
+        "mn": "USB гэдэг нь юуны товчлол вэ?"
+      },
+      "choices": [
+        {
+          "en": "Universal Serial Bus",
+          "mn": "Universal Serial Bus"
+        },
+        {
+          "en": "Unified System Bridge",
+          "mn": "Unified System Bridge"
+        },
+        {
+          "en": "Universal Storage Block",
+          "mn": "Universal Storage Block"
+        },
+        {
+          "en": "United Serial Board",
+          "mn": "United Serial Board"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "USB stands for Universal Serial Bus and first appeared in 1996. It replaced a jungle of different ports for keyboards, mice and printers.",
+        "mn": "USB буюу Universal Serial Bus 1996 онд анх гарсан. Энэ нь гар, хулгана, хэвлэгчийн олон янзын залгуурыг нэг стандартаар сольсон."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.technology",
+      "key": "pubquiz.technology.a25",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In which year did Steve Jobs unveil the first iPhone?",
+        "mn": "Стив Жобс анхны iPhone-ыг хэдэн онд танилцуулсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "2004",
+          "mn": "2004"
+        },
+        {
+          "en": "2009",
+          "mn": "2009"
+        },
+        {
+          "en": "2011",
+          "mn": "2011"
+        },
+        {
+          "en": "2007",
+          "mn": "2007"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Jobs introduced the iPhone at Macworld in January 2007 as 'an iPod, a phone and an internet communicator'. It went on sale that June.",
+        "mn": "Жобс 2007 оны 1-р сард Macworld арга хэмжээн дээр iPhone-ыг «iPod, утас, интернэт төхөөрөмж — гурвуулаа нэгд» гэж танилцуулсан. Тэр оны 6-р сараас худалдаанд гарсан."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.technology",
+      "key": "pubquiz.technology.a26",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which social network did Mark Zuckerberg launch from his Harvard dorm in 2004?",
+        "mn": "Марк Цукерберг 2004 онд Харвардын оюутны байрнаасаа ямар сүлжээ эхлүүлсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Twitter",
+          "mn": "Twitter"
+        },
+        {
+          "en": "MySpace",
+          "mn": "MySpace"
+        },
+        {
+          "en": "Facebook",
+          "mn": "Facebook"
+        },
+        {
+          "en": "LinkedIn",
+          "mn": "LinkedIn"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "It launched as 'TheFacebook' and was at first open only to Harvard students. The 'The' was dropped in 2005.",
+        "mn": "Анх «TheFacebook» нэртэй гарч, зөвхөн Харвардын оюутнуудад нээлттэй байв. «The» хэсгийг 2005 онд хассан."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.technology",
+      "key": "pubquiz.technology.a27",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The first message sent over ARPANET in 1969 was meant to be 'LOGIN'. What actually arrived before the system crashed?",
+        "mn": "1969 онд ARPANET-ээр «LOGIN» гэж илгээх гэсэн боловч систем гацахаас өмнө юу хүрч очсон бэ?"
+      },
+      "choices": [
+        {
+          "en": "LO",
+          "mn": "LO"
+        },
+        {
+          "en": "LOG",
+          "mn": "LOG"
+        },
+        {
+          "en": "L",
+          "mn": "L"
+        },
+        {
+          "en": "HELLO",
+          "mn": "HELLO"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Only the letters 'L' and 'O' reached Stanford from UCLA before the network crashed. So the internet's first word was, fittingly, 'lo' — as in 'lo and behold'.",
+        "mn": "Сүлжээ унахаас өмнө UCLA-аас Стэнфорд руу зөвхөн «L», «O» үсэг хүрсэн. Ингэж интернэтийн анхны үг англиар «хараач» гэсэн утгатай «lo» болжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.technology",
+      "key": "pubquiz.technology.a28",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The 'T' in CAPTCHA honours which computing pioneer?",
+        "mn": "CAPTCHA гэдэг товчлолын «T» үсэг тооцоолох ухааны аль анхдагчийг хүндэтгэсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Nikola Tesla",
+          "mn": "Никола Тесла"
+        },
+        {
+          "en": "Alan Turing",
+          "mn": "Алан Тьюринг"
+        },
+        {
+          "en": "Linus Torvalds",
+          "mn": "Линус Торвальдс"
+        },
+        {
+          "en": "Ken Thompson",
+          "mn": "Кен Томпсон"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "CAPTCHA means 'Completely Automated Public Turing test to tell Computers and Humans Apart'. It is a reverse Turing test: a machine checks whether you are human.",
+        "mn": "CAPTCHA нь «компьютер ба хүнийг ялгах бүрэн автомат нээлттэй Тьюрингийн тест» гэсэн утгатай. Энэ бол урвуу Тьюрингийн тест буюу машин таныг хүн эсэхийг шалгадаг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.technology",
+      "key": "pubquiz.technology.a29",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which Finnish student created the Linux kernel in 1991?",
+        "mn": "1991 онд Линукс цөмийг бүтээсэн Финландын оюутан хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Richard Stallman",
+          "mn": "Ричард Столлман"
+        },
+        {
+          "en": "Linus Torvalds",
+          "mn": "Линус Торвальдс"
+        },
+        {
+          "en": "Dennis Ritchie",
+          "mn": "Деннис Ритчи"
+        },
+        {
+          "en": "Guido van Rossum",
+          "mn": "Гвидо ван Россум"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Linus Torvalds announced it as 'just a hobby, won't be big and professional'. Today Linux runs Android phones and almost all of the world's supercomputers.",
+        "mn": "Линус Торвальдс үүнийг «зүгээр л хобби, том мэргэжлийн юм болохгүй» гэж зарласан. Өнөөдөр Линукс Андройд утас болон дэлхийн бараг бүх суперкомпьютерт ажилладаг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.technology",
+      "key": "pubquiz.technology.a210",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What does the first video ever uploaded to YouTube (2005) show?",
+        "mn": "YouTube-д хамгийн анх (2005) байршуулсан бичлэгт юу гардаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "A cat playing piano",
+          "mn": "Төгөлдөр хуур тоглох муур"
+        },
+        {
+          "en": "A birthday party",
+          "mn": "Төрсөн өдрийн үдэшлэг"
+        },
+        {
+          "en": "A skateboard trick",
+          "mn": "Скейтбордын трюк"
+        },
+        {
+          "en": "A trip to the zoo",
+          "mn": "Амьтны хүрээлэнд очсон нь"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "'Me at the zoo' shows co-founder Jawed Karim in front of elephants at San Diego Zoo. It lasts just 19 seconds.",
+        "mn": "«Me at the zoo» бичлэгт YouTube-ийг үүсгэн байгуулагчдын нэг Жавед Карим Сан Диегогийн амьтны хүрээлэнд заануудын өмнө зогсож байна. Бичлэг ердөө 19 секунд үргэлжилдэг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.technology",
+      "key": "pubquiz.technology.a211",
+      "difficulty": 1,
+      "prompt": {
+        "en": "How many bits make one byte?",
+        "mn": "Нэг байт хэдэн битээс бүрддэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "4",
+          "mn": "4"
+        },
+        {
+          "en": "10",
+          "mn": "10"
+        },
+        {
+          "en": "8",
+          "mn": "8"
+        },
+        {
+          "en": "16",
+          "mn": "16"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "A byte is 8 bits, enough to store 256 different values. Half a byte (4 bits) is jokingly called a 'nibble'.",
+        "mn": "Нэг байт нь 8 бит бөгөөд 256 өөр утга хадгалах багтаамжтай. Хагас байтыг (4 бит) англиар хошигнон «nibble» буюу «хазалт» гэдэг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.technology",
+      "key": "pubquiz.technology.a212",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which programming language is named after a British comedy group?",
+        "mn": "Аль програмчлалын хэл Британийн инээдмийн хамтлагийн нэрээр нэрлэгдсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Python",
+          "mn": "Python"
+        },
+        {
+          "en": "Ruby",
+          "mn": "Ruby"
+        },
+        {
+          "en": "Java",
+          "mn": "Java"
+        },
+        {
+          "en": "Perl",
+          "mn": "Perl"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Guido van Rossum named Python after 'Monty Python's Flying Circus', not the snake. Python's documentation is full of Monty Python jokes.",
+        "mn": "Гвидо ван Россум Python-ыг могойн нэрээр биш, «Monty Python's Flying Circus» нэвтрүүлгийн нэрээр нэрлэсэн. Python-ы баримт бичигт Монти Пайтоны хошигнол олон бий."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.technology",
+      "key": "pubquiz.technology.a213",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which company bought Android Inc. in 2005?",
+        "mn": "2005 онд Android Inc. компанийг хэн худалдаж авсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Apple",
+          "mn": "Apple"
+        },
+        {
+          "en": "Google",
+          "mn": "Google"
+        },
+        {
+          "en": "Samsung",
+          "mn": "Samsung"
+        },
+        {
+          "en": "Microsoft",
+          "mn": "Microsoft"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Google bought the small start-up for around $50 million. Android is now the world's most used mobile operating system.",
+        "mn": "Google энэ жижиг стартапыг 50 орчим сая доллараар худалдаж авсан. Андройд одоо дэлхийн хамгийн их хэрэглэгддэг гар утасны үйлдлийн систем."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.technology",
+      "key": "pubquiz.technology.a214",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which company makes the PlayStation game consoles?",
+        "mn": "PlayStation тоглоомын консолыг аль компани үйлдвэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Nintendo",
+          "mn": "Nintendo"
+        },
+        {
+          "en": "Microsoft",
+          "mn": "Microsoft"
+        },
+        {
+          "en": "Sony",
+          "mn": "Sony"
+        },
+        {
+          "en": "Sega",
+          "mn": "Sega"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Sony released the first PlayStation in 1994. It began as a CD add-on for Nintendo before the partnership collapsed.",
+        "mn": "Sony анхны PlayStation-ыг 1994 онд гаргасан. Энэ нь анх Nintendo-д зориулсан CD төхөөрөмж байхаар төлөвлөгдөж байгаад хамтын ажиллагаа нь цуцарсан."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.technology",
+      "key": "pubquiz.technology.a215",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In 1947 engineers found the first literal computer 'bug'. What was it?",
+        "mn": "1947 онд инженерүүд компьютерээс анхны жинхэнэ «bug» олжээ. Энэ юу байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "A moth",
+          "mn": "Эрвээхэй"
+        },
+        {
+          "en": "A cockroach",
+          "mn": "Жоом"
+        },
+        {
+          "en": "A spider",
+          "mn": "Аалз"
+        },
+        {
+          "en": "A mouse",
+          "mn": "Хулгана"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "A moth was found trapped in a relay of the Harvard Mark II and taped into the logbook. Grace Hopper's team loved telling the story of 'debugging' it.",
+        "mn": "Harvard Mark II компьютерийн реле дотор гацсан эрвээхэйг олж, бүртгэлийн дэвтэрт наасан байдаг. Грейс Хопперын баг энэ «debug» түүхийг их ярьдаг байжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.technology",
+      "key": "pubquiz.technology.a216",
+      "difficulty": 2,
+      "prompt": {
+        "en": "ENIAC, one of the first general-purpose electronic computers, was built in which country?",
+        "mn": "Анхны ерөнхий зориулалтын электрон компьютеруудын нэг ENIAC-ийг аль улсад бүтээсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "United Kingdom",
+          "mn": "Их Британи"
+        },
+        {
+          "en": "Germany",
+          "mn": "Герман"
+        },
+        {
+          "en": "Soviet Union",
+          "mn": "ЗХУ"
+        },
+        {
+          "en": "United States",
+          "mn": "АНУ"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "ENIAC was completed in 1945 at the University of Pennsylvania. It filled a large room, weighed about 27 tonnes and used around 18,000 vacuum tubes.",
+        "mn": "ENIAC-ийг 1945 онд Пенсильванийн их сургуульд бүтээжээ. Тэр том өрөө дүүргэж, 27 орчим тонн жинтэй, 18 000 орчим электрон чийдэнтэй байв."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.technology",
+      "key": "pubquiz.technology.a217",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What does the 'e' in 'email' stand for?",
+        "mn": "«Email» гэдэг үгийн «e» нь юуг илэрхийлдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Easy",
+          "mn": "Хялбар"
+        },
+        {
+          "en": "Electronic",
+          "mn": "Электрон"
+        },
+        {
+          "en": "Express",
+          "mn": "Шуурхай"
+        },
+        {
+          "en": "External",
+          "mn": "Гадаад"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Email is short for 'electronic mail'. The first network email was sent in 1971, long before the web existed.",
+        "mn": "Email нь «electronic mail» буюу цахим шуудангийн товчлол. Анхны сүлжээний имэйлийг вэб үүсэхээс хамаагүй өмнө, 1971 онд илгээжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.technology",
+      "key": "pubquiz.technology.a218",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Who sent the first networked email in 1971 and chose the @ sign for addresses?",
+        "mn": "1971 онд анхны сүлжээний имэйл илгээж, хаягт @ тэмдгийг сонгосон хүн хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Vint Cerf",
+          "mn": "Винт Серф"
+        },
+        {
+          "en": "Tim Berners-Lee",
+          "mn": "Тим Бернерс-Ли"
+        },
+        {
+          "en": "Ray Tomlinson",
+          "mn": "Рэй Томлинсон"
+        },
+        {
+          "en": "Steve Wozniak",
+          "mn": "Стив Возняк"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Ray Tomlinson picked @ because it was rarely used and neatly meant 'user at host'. He later said he could not remember what that first test message said.",
+        "mn": "Рэй Томлинсон @ тэмдгийг ховор хэрэглэгддэг бөгөөд «хост дээрх хэрэглэгч» гэсэн утгыг цэвэрхэн илэрхийлдэг тул сонгосон. Тэр анхны туршилтын мессежид юу бичснээ санахгүй гэж хожим ярьжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.technology",
+      "key": "pubquiz.technology.a219",
+      "difficulty": 2,
+      "prompt": {
+        "en": "When Nintendo was founded in 1889, what did it make?",
+        "mn": "Nintendo 1889 онд байгуулагдахдаа юу үйлдвэрлэдэг байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Toy robots",
+          "mn": "Тоглоом робот"
+        },
+        {
+          "en": "Radios",
+          "mn": "Радио"
+        },
+        {
+          "en": "Bicycles",
+          "mn": "Унадаг дугуй"
+        },
+        {
+          "en": "Playing cards",
+          "mn": "Хөзөр"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Nintendo began in Kyoto making hanafuda, traditional Japanese playing cards. It only turned to video games in the 1970s.",
+        "mn": "Nintendo Киото хотод Японы уламжлалт ханафүда хөзөр хийж эхэлсэн. Видео тоглоом руу зөвхөн 1970-аад онд шилжсэн."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.technology",
+      "key": "pubquiz.technology.a220",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Amazon began in 1994 as an online shop selling what?",
+        "mn": "Amazon 1994 онд юу зардаг онлайн дэлгүүр болж эхэлсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Books",
+          "mn": "Ном"
+        },
+        {
+          "en": "Shoes",
+          "mn": "Гутал"
+        },
+        {
+          "en": "Electronics",
+          "mn": "Цахилгаан бараа"
+        },
+        {
+          "en": "Groceries",
+          "mn": "Хүнсний бараа"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Jeff Bezos started Amazon in his garage near Seattle, selling books. Its early name was 'Cadabra', as in 'abracadabra'.",
+        "mn": "Жефф Безос Сиэтлийн ойролцоох гараждаа ном зарж Amazon-ыг эхлүүлсэн. Анх «абракадабра» гэдэг үгнээс авсан «Cadabra» гэх нэртэй байжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.technology",
+      "key": "pubquiz.technology.a221",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which game is the best-selling video game of all time?",
+        "mn": "Бүх цаг үеийн хамгийн их борлогдсон видео тоглоом аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Super Mario Bros.",
+          "mn": "Super Mario Bros."
+        },
+        {
+          "en": "Minecraft",
+          "mn": "Minecraft"
+        },
+        {
+          "en": "Pac-Man",
+          "mn": "Pac-Man"
+        },
+        {
+          "en": "Fortnite",
+          "mn": "Fortnite"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Minecraft, created by Markus 'Notch' Persson in Sweden, has sold over 300 million copies. Microsoft bought it in 2014 for $2.5 billion.",
+        "mn": "Шведийн Маркус «Notch» Перссоны бүтээсэн Minecraft 300 гаруй сая хувь борлогдсон. Microsoft 2014 онд түүнийг 2.5 тэрбум доллараар худалдаж авсан."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.technology",
+      "key": "pubquiz.technology.a222",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Tetris was created in 1984 in which country?",
+        "mn": "Тетрис тоглоомыг 1984 онд аль улсад бүтээсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Japan",
+          "mn": "Япон"
+        },
+        {
+          "en": "United States",
+          "mn": "АНУ"
+        },
+        {
+          "en": "Hungary",
+          "mn": "Унгар"
+        },
+        {
+          "en": "Soviet Union",
+          "mn": "ЗХУ"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Alexey Pajitnov wrote Tetris at a Moscow computer centre. The name mixes 'tetra' (four, the squares in each piece) with tennis, his favourite sport.",
+        "mn": "Алексей Пажитнов Тетрисийг Москвагийн тооцоолон бодох төвд бичжээ. Нэр нь «тетра» (дөрөв — хэсэг бүрийн дөрвөлжин) ба түүний дуртай спорт теннисийг хослуулсан."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.technology",
+      "key": "pubquiz.technology.a223",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What does 'QR' in QR code stand for?",
+        "mn": "QR кодын «QR» нь юуны товчлол вэ?"
+      },
+      "choices": [
+        {
+          "en": "Quality Record",
+          "mn": "Quality Record"
+        },
+        {
+          "en": "Quantum Reader",
+          "mn": "Quantum Reader"
+        },
+        {
+          "en": "Quick Response",
+          "mn": "Quick Response"
+        },
+        {
+          "en": "Query Result",
+          "mn": "Query Result"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "QR means 'Quick Response'. The Japanese company Denso Wave invented it in 1994 to track car parts in factories.",
+        "mn": "QR нь «Quick Response» буюу «шуурхай хариу» гэсэн утгатай. Японы Denso Wave компани 1994 онд үйлдвэрт автомашины эд анги хянах зорилгоор зохиожээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.technology",
+      "key": "pubquiz.technology.a224",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The tradition of a first program printing 'Hello, World!' was popularised by a classic book on which language?",
+        "mn": "Анхны програмаар «Hello, World!» хэвлэдэг уламжлалыг аль хэлний сонгодог ном түгээн дэлгэрүүлсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "C",
+          "mn": "C"
+        },
+        {
+          "en": "Python",
+          "mn": "Python"
+        },
+        {
+          "en": "Java",
+          "mn": "Java"
+        },
+        {
+          "en": "BASIC",
+          "mn": "BASIC"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Kernighan and Ritchie's 1978 book 'The C Programming Language' made 'Hello, World!' famous. Kernighan had used the phrase in an earlier tutorial too.",
+        "mn": "Керниган, Ритчи нарын 1978 оны «The C Programming Language» ном «Hello, World!»-ийг алдаршуулсан. Керниган үүнээс өмнөх нэгэн заавартаа ч энэ хэллэгийг хэрэглэж байжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.technology",
+      "key": "pubquiz.technology.a225",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Moore's Law says the number of transistors on a chip doubles about every…?",
+        "mn": "Мурын хууль ёсоор чип дээрх транзисторын тоо ойролцоогоор хэдэн хугацаанд хоёр дахин өсдөг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Six months",
+          "mn": "Зургаан сар"
+        },
+        {
+          "en": "Five years",
+          "mn": "Таван жил"
+        },
+        {
+          "en": "Two years",
+          "mn": "Хоёр жил"
+        },
+        {
+          "en": "Ten years",
+          "mn": "Арван жил"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Intel co-founder Gordon Moore first predicted yearly doubling in 1965, then revised it to every two years in 1975. The trend held for about half a century.",
+        "mn": "Intel-ийг үүсгэн байгуулагчдын нэг Гордон Мур 1965 онд жил бүр хоёр дахин өснө гэж таамаглаад, 1975 онд хоёр жил тутам гэж зассан. Энэ хандлага хагас зуун орчим жил хадгалагдсан."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.technology",
+      "key": "pubquiz.technology.a226",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What does PDF stand for?",
+        "mn": "PDF гэдэг нь юуны товчлол вэ?"
+      },
+      "choices": [
+        {
+          "en": "Printed Data File",
+          "mn": "Printed Data File"
+        },
+        {
+          "en": "Portable Document Format",
+          "mn": "Portable Document Format"
+        },
+        {
+          "en": "Public Digital Form",
+          "mn": "Public Digital Form"
+        },
+        {
+          "en": "Page Design Format",
+          "mn": "Page Design Format"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Adobe introduced the Portable Document Format in 1993 so a file would look the same on any computer. It became an open ISO standard in 2008.",
+        "mn": "Adobe компани 1993 онд файл ямар ч компьютер дээр адилхан харагдах зорилгоор PDF форматыг гаргасан. 2008 онд нээлттэй ISO стандарт болсон."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.technology",
+      "key": "pubquiz.technology.a227",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Bluetooth is named after a medieval king of which country?",
+        "mn": "Bluetooth нь аль улсын дундад зууны хааны нэрээр нэрлэгдсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Denmark",
+          "mn": "Дани"
+        },
+        {
+          "en": "Sweden",
+          "mn": "Швед"
+        },
+        {
+          "en": "Norway",
+          "mn": "Норвеги"
+        },
+        {
+          "en": "England",
+          "mn": "Англи"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Harald 'Bluetooth' Gormsson united Danish tribes, just as the technology unites devices. The logo combines his initials in Nordic runes.",
+        "mn": "Харальд «Цэнхэр шүдт» Гормссон Данийн овгуудыг нэгтгэсэн шиг энэ технологи төхөөрөмжүүдийг холбодог. Лого нь түүний нэрийн эхний үсгүүдийг скандинав руни бичгээр хослуулсан."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.technology",
+      "key": "pubquiz.technology.a228",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which 1993 browser made the web popular by showing images alongside text?",
+        "mn": "1993 онд зураг, текстийг хамт харуулж вэбийг олны хүртээл болгосон хөтөч аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Internet Explorer",
+          "mn": "Internet Explorer"
+        },
+        {
+          "en": "Firefox",
+          "mn": "Firefox"
+        },
+        {
+          "en": "Google Chrome",
+          "mn": "Google Chrome"
+        },
+        {
+          "en": "Mosaic",
+          "mn": "Mosaic"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Mosaic was made at the University of Illinois. Its lead developer Marc Andreessen went on to co-found Netscape.",
+        "mn": "Mosaic-ийг Иллинойсын их сургуульд бүтээсэн. Түүний ахлах хөгжүүлэгч Марк Андриссен дараа нь Netscape-ийг үүсгэн байгуулсан."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.technology",
+      "key": "pubquiz.technology.a229",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which company develops the Windows operating system?",
+        "mn": "Windows үйлдлийн системийг аль компани хөгжүүлдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Apple",
+          "mn": "Apple"
+        },
+        {
+          "en": "Microsoft",
+          "mn": "Microsoft"
+        },
+        {
+          "en": "IBM",
+          "mn": "IBM"
+        },
+        {
+          "en": "Google",
+          "mn": "Google"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Microsoft was founded by Bill Gates and Paul Allen in 1975 in Albuquerque, New Mexico. Windows 1.0 came out in 1985.",
+        "mn": "Microsoft-ыг Билл Гейтс, Пол Аллен нар 1975 онд Нью-Мексико мужийн Альбукерке хотод байгуулсан. Windows 1.0 1985 онд гарсан."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.technology",
+      "key": "pubquiz.technology.a230",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Before 2017, what was the character limit of a tweet?",
+        "mn": "2017 оноос өмнө нэг твит хэдэн тэмдэгтээр хязгаарлагддаг байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "160",
+          "mn": "160"
+        },
+        {
+          "en": "200",
+          "mn": "200"
+        },
+        {
+          "en": "100",
+          "mn": "100"
+        },
+        {
+          "en": "140",
+          "mn": "140"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Tweets were limited to 140 characters so they fit inside a 160-character SMS with room for a username. The limit doubled to 280 in 2017.",
+        "mn": "Твит хэрэглэгчийн нэрийг багтаагаад 160 тэмдэгттэй SMS-д багтах ёстой байсан тул 140 тэмдэгтээр хязгаарлагджээ. 2017 онд хязгаарыг хоёр дахин нэмж 280 болгосон."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.human-body",
+      "key": "pubquiz.human-body.a21",
+      "difficulty": 1,
+      "prompt": {
+        "en": "How many bones are in the adult human body?",
+        "mn": "Насанд хүрсэн хүний бие хэдэн ястай вэ?"
+      },
+      "choices": [
+        {
+          "en": "206",
+          "mn": "206"
+        },
+        {
+          "en": "186",
+          "mn": "186"
+        },
+        {
+          "en": "250",
+          "mn": "250"
+        },
+        {
+          "en": "312",
+          "mn": "312"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "An adult skeleton has 206 bones. More than half of them are in the hands and feet.",
+        "mn": "Насанд хүрэгчийн араг яс 206 ястай. Тэдний талаас илүү нь гар, хөлийн тавхайд байрладаг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.human-body",
+      "key": "pubquiz.human-body.a22",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the largest organ of the human body?",
+        "mn": "Хүний биеийн хамгийн том эрхтэн юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Liver",
+          "mn": "Элэг"
+        },
+        {
+          "en": "Lungs",
+          "mn": "Уушги"
+        },
+        {
+          "en": "Skin",
+          "mn": "Арьс"
+        },
+        {
+          "en": "Brain",
+          "mn": "Тархи"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Skin covers about 2 square metres in an adult and weighs several kilograms. We shed millions of dead skin cells every day.",
+        "mn": "Насанд хүрэгчийн арьс 2 орчим хавтгай дөрвөлжин метр талбайтай, хэдэн кг жинтэй. Бид өдөр бүр сая сая үхэжсэн арьсны эс гуужуулдаг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.human-body",
+      "key": "pubquiz.human-body.a23",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Where is the smallest bone in the human body?",
+        "mn": "Хүний биеийн хамгийн жижиг яс хаана байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "In the ear",
+          "mn": "Чихэнд"
+        },
+        {
+          "en": "In the toe",
+          "mn": "Хөлийн хуруунд"
+        },
+        {
+          "en": "In the nose",
+          "mn": "Хамарт"
+        },
+        {
+          "en": "In the wrist",
+          "mn": "Бугуйнд"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The stapes, or stirrup bone, in the middle ear is about 3 mm long. It passes sound vibrations to the inner ear.",
+        "mn": "Дунд чихний дөрөө яс 3 орчим мм урт. Энэ нь дууны чичиргээг дотор чих рүү дамжуулдаг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.human-body",
+      "key": "pubquiz.human-body.a24",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the longest bone in the human body?",
+        "mn": "Хүний биеийн хамгийн урт яс аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Tibia",
+          "mn": "Шилбэний яс"
+        },
+        {
+          "en": "Humerus",
+          "mn": "Бугалганы яс"
+        },
+        {
+          "en": "Femur",
+          "mn": "Гуяны яс"
+        },
+        {
+          "en": "Spine",
+          "mn": "Нуруу"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The femur, or thigh bone, makes up roughly a quarter of a person's height. It is also one of the strongest bones.",
+        "mn": "Гуяны яс хүний биеийн өндрийн дөрөвний нэг орчмыг эзэлдэг. Энэ нь хамгийн бат бөх ясны нэг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.human-body",
+      "key": "pubquiz.human-body.a25",
+      "difficulty": 1,
+      "prompt": {
+        "en": "How many chambers does the human heart have?",
+        "mn": "Хүний зүрх хэдэн хөндийтэй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Two",
+          "mn": "Хоёр"
+        },
+        {
+          "en": "Four",
+          "mn": "Дөрөв"
+        },
+        {
+          "en": "Three",
+          "mn": "Гурав"
+        },
+        {
+          "en": "Six",
+          "mn": "Зургаа"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The heart has two atria on top and two ventricles below. It beats around 100,000 times a day.",
+        "mn": "Зүрх дээд талдаа хоёр тосгуур, доод талдаа хоёр ховдолтой. Өдөрт 100 000 орчим удаа цохилдог."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.human-body",
+      "key": "pubquiz.human-body.a26",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which blood type is known as the universal donor?",
+        "mn": "Аль цусны бүлгийг түгээмэл донор гэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "AB positive",
+          "mn": "AB эерэг"
+        },
+        {
+          "en": "A positive",
+          "mn": "A эерэг"
+        },
+        {
+          "en": "B negative",
+          "mn": "B сөрөг"
+        },
+        {
+          "en": "O negative",
+          "mn": "O сөрөг"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "O negative red cells can be given to almost anyone, so ambulances and emergency rooms keep it ready. AB positive people, by contrast, are universal recipients.",
+        "mn": "O сөрөг бүлгийн цусыг бараг хэнд ч сэлбэж болох тул яаралтай тусламжид бэлэн байлгадаг. Харин AB эерэг бүлэгтэй хүн бүх бүлгээс цус авч чадна."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.human-body",
+      "key": "pubquiz.human-body.a27",
+      "difficulty": 2,
+      "prompt": {
+        "en": "How many teeth does a full adult set have, including wisdom teeth?",
+        "mn": "Ухааны шүдийг оруулаад насанд хүрэгчийн бүтэн шүд хэд байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "28",
+          "mn": "28"
+        },
+        {
+          "en": "36",
+          "mn": "36"
+        },
+        {
+          "en": "32",
+          "mn": "32"
+        },
+        {
+          "en": "24",
+          "mn": "24"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Adults have 32 permanent teeth, while children have 20 baby teeth. Many people never grow all four wisdom teeth.",
+        "mn": "Насанд хүрэгч 32 байнгын шүдтэй, харин хүүхэд 20 сүүн шүдтэй. Олон хүнд дөрвөн ухааны шүд бүгд ургадаггүй."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.human-body",
+      "key": "pubquiz.human-body.a28",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which organ can regrow to its full size after part of it is removed?",
+        "mn": "Аль эрхтэн хэсгийг нь авсны дараа ч бүтэн хэмжээндээ нөхөн ургаж чаддаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Heart",
+          "mn": "Зүрх"
+        },
+        {
+          "en": "Kidney",
+          "mn": "Бөөр"
+        },
+        {
+          "en": "Spleen",
+          "mn": "Дэлүү"
+        },
+        {
+          "en": "Liver",
+          "mn": "Элэг"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The liver can regenerate even after losing more than half its mass. This is why a living person can donate part of their liver.",
+        "mn": "Элэг жингийнхээ талаас илүүг алдсан ч нөхөн сэргэж чаддаг. Тиймээс амьд хүн элэгнийхээ хэсгийг хандивлах боломжтой."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.human-body",
+      "key": "pubquiz.human-body.a29",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which part of the eye gives it its colour?",
+        "mn": "Нүдний аль хэсэг нүдэнд өнгө өгдөг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Iris",
+          "mn": "Солонгон бүрхүүл"
+        },
+        {
+          "en": "Pupil",
+          "mn": "Хүүхэн хараа"
+        },
+        {
+          "en": "Retina",
+          "mn": "Торлог бүрхэвч"
+        },
+        {
+          "en": "Lens",
+          "mn": "Болор"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The iris is the coloured ring that widens and narrows the pupil. Its pattern is so unique that it is used for biometric ID.",
+        "mn": "Солонгон бүрхүүл бол хүүхэн харааг томруулж, жижигрүүлдэг өнгөт цагираг юм. Түүний хээ хүн бүрт өвөрмөц тул биометр таних системд ашигладаг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.human-body",
+      "key": "pubquiz.human-body.a210",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the largest muscle in the human body?",
+        "mn": "Хүний биеийн хамгийн том булчин аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Biceps",
+          "mn": "Хоёр толгойт булчин"
+        },
+        {
+          "en": "Gluteus maximus",
+          "mn": "Өгзөгний их булчин"
+        },
+        {
+          "en": "Heart",
+          "mn": "Зүрх"
+        },
+        {
+          "en": "Tongue",
+          "mn": "Хэл"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The gluteus maximus in the buttock is the largest muscle. It keeps the body upright and powers climbing and running.",
+        "mn": "Өгзөгний их булчин бол хамгийн том булчин. Энэ нь биеийг босоо байлгаж, авирах, гүйх хөдөлгөөнд хүч өгдөг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.human-body",
+      "key": "pubquiz.human-body.a211",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the medical name for the kneecap?",
+        "mn": "Өвдөгний тойгийг анагаах ухаанд юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Clavicle",
+          "mn": "Клавикула"
+        },
+        {
+          "en": "Scapula",
+          "mn": "Скапула"
+        },
+        {
+          "en": "Patella",
+          "mn": "Пателла"
+        },
+        {
+          "en": "Sternum",
+          "mn": "Стернум"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The patella protects the knee joint and helps the thigh muscles straighten the leg. Babies' kneecaps are soft cartilage and harden over years.",
+        "mn": "Пателла өвдөгний үеийг хамгаалж, гуяны булчинд хөлөө тэнийлгэхэд тусалдаг. Нялх хүүхдийн тойг зөөлөн мөгөөрс бөгөөд олон жилийн турш хатуурдаг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.human-body",
+      "key": "pubquiz.human-body.a212",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which vitamin does your skin make when exposed to sunlight?",
+        "mn": "Нарны гэрэлд арьс ямар витамин үүсгэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Vitamin C",
+          "mn": "C витамин"
+        },
+        {
+          "en": "Vitamin D",
+          "mn": "D витамин"
+        },
+        {
+          "en": "Vitamin A",
+          "mn": "A витамин"
+        },
+        {
+          "en": "Vitamin K",
+          "mn": "K витамин"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Sunlight's UVB rays trigger vitamin D production in the skin. Vitamin D helps the body absorb calcium for strong bones.",
+        "mn": "Нарны хэт ягаан B туяа арьсанд D витамин үүсэхийг өдөөдөг. D витамин бие кальци шингээж, яс бэхжихэд тусалдаг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.human-body",
+      "key": "pubquiz.human-body.a213",
+      "difficulty": 3,
+      "prompt": {
+        "en": "When you hit your 'funny bone', what are you actually hitting?",
+        "mn": "«Funny bone» буюу тохойгоо мөргөж цахилгаан гүйх шиг болоход үнэндээ юуг мөргөдөг вэ?"
+      },
+      "choices": [
+        {
+          "en": "A tendon",
+          "mn": "Шөрмөс"
+        },
+        {
+          "en": "A blood vessel",
+          "mn": "Цусны судас"
+        },
+        {
+          "en": "A bone",
+          "mn": "Яс"
+        },
+        {
+          "en": "A nerve",
+          "mn": "Мэдрэл"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The tingle comes from the ulnar nerve, which runs close to the skin at the elbow. The English name may be a pun on the humerus bone ('humorous').",
+        "mn": "Цахилгаан гүйх мэдрэмж нь тохойн хэсэгт арьсны доор ойрхон байдаг тохойн мэдрэлээс үүсдэг. Англи нэр нь бугалганы яс humerus ба «хөгжилтэй» гэсэн humorous үгийн тоглоом байж магадгүй."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.human-body",
+      "key": "pubquiz.human-body.a214",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Roughly what percentage of an adult's body weight is water?",
+        "mn": "Насанд хүрэгчийн биеийн жингийн ойролцоогоор хэдэн хувь нь ус вэ?"
+      },
+      "choices": [
+        {
+          "en": "About 60%",
+          "mn": "60 орчим хувь"
+        },
+        {
+          "en": "About 20%",
+          "mn": "20 орчим хувь"
+        },
+        {
+          "en": "About 35%",
+          "mn": "35 орчим хувь"
+        },
+        {
+          "en": "About 90%",
+          "mn": "90 орчим хувь"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Water makes up about 60% of an adult's weight, and even more in babies. The brain and heart are roughly three-quarters water.",
+        "mn": "Насанд хүрэгчийн жингийн 60 орчим хувь нь ус бөгөөд нялх хүүхдэд үүнээс ч их. Тархи, зүрх ойролцоогоор дөрөвний гурав нь ус."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.human-body",
+      "key": "pubquiz.human-body.a215",
+      "difficulty": 3,
+      "prompt": {
+        "en": "About how long does a red blood cell live?",
+        "mn": "Цусны улаан эс ойролцоогоор хэр удаан амьдардаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "24 hours",
+          "mn": "24 цаг"
+        },
+        {
+          "en": "7 days",
+          "mn": "7 хоног"
+        },
+        {
+          "en": "3 years",
+          "mn": "3 жил"
+        },
+        {
+          "en": "120 days",
+          "mn": "120 хоног"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Red blood cells circulate for about 120 days before the spleen and liver recycle them. Your bone marrow makes millions of new ones every second.",
+        "mn": "Цусны улаан эс 120 орчим хоног эргэлдсэний дараа дэлүү, элэг тэднийг задалдаг. Ясны чөмөг секунд тутамд сая сая шинэ эс үүсгэдэг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.human-body",
+      "key": "pubquiz.human-body.a216",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which pigment gives human skin and hair their colour?",
+        "mn": "Хүний арьс, үсэнд өнгө өгдөг пигмент юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Chlorophyll",
+          "mn": "Хлорофилл"
+        },
+        {
+          "en": "Keratin",
+          "mn": "Кератин"
+        },
+        {
+          "en": "Melanin",
+          "mn": "Меланин"
+        },
+        {
+          "en": "Haemoglobin",
+          "mn": "Гемоглобин"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Melanin is made by cells called melanocytes and shields skin from UV light. Grey hair appears when hair follicles stop producing it.",
+        "mn": "Меланиныг меланоцит эсүүд үүсгэх бөгөөд арьсыг хэт ягаан туяанаас хамгаалдаг. Үсний уутанцар меланин үүсгэхээ болиход үс буурална."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.human-body",
+      "key": "pubquiz.human-body.a217",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In which organs are the tiny air sacs called alveoli found?",
+        "mn": "Цулцанги гэж нэрлэгддэг жижиг агаарын уутнууд аль эрхтэнд байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Stomach",
+          "mn": "Ходоод"
+        },
+        {
+          "en": "Lungs",
+          "mn": "Уушги"
+        },
+        {
+          "en": "Kidneys",
+          "mn": "Бөөр"
+        },
+        {
+          "en": "Liver",
+          "mn": "Элэг"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Alveoli swap oxygen and carbon dioxide with the blood. The lungs hold hundreds of millions of them, with a surface area about the size of a tennis court.",
+        "mn": "Цулцанги цустай хүчилтөрөгч, нүүрсхүчлийн хий солилцдог. Уушгинд хэдэн зуун сая цулцанги байх бөгөөд нийт талбай нь теннисний талбайтай ойролцоо."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.human-body",
+      "key": "pubquiz.human-body.a218",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which part of the body has no blood supply and takes oxygen directly from the air?",
+        "mn": "Биеийн аль хэсэг цусан хангамжгүй бөгөөд хүчилтөрөгчөө агаараас шууд авдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Cornea",
+          "mn": "Эвэрлэг"
+        },
+        {
+          "en": "Fingernail bed",
+          "mn": "Хумсны ор"
+        },
+        {
+          "en": "Earlobe",
+          "mn": "Чихний сэн"
+        },
+        {
+          "en": "Tongue",
+          "mn": "Хэл"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The clear cornea at the front of the eye has no blood vessels, which keeps it transparent. It gets oxygen from the air and nutrients from tears and eye fluid.",
+        "mn": "Нүдний урд талын тунгалаг эвэрлэг цусны судасгүй тул тунгалаг байдаг. Хүчилтөрөгчөө агаараас, тэжээлээ нулимс болон нүдний шингэнээс авдаг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.human-body",
+      "key": "pubquiz.human-body.a219",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the hardest substance in the human body?",
+        "mn": "Хүний биеийн хамгийн хатуу бодис юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Thigh bone",
+          "mn": "Гуяны яс"
+        },
+        {
+          "en": "Skull",
+          "mn": "Гавал"
+        },
+        {
+          "en": "Fingernail",
+          "mn": "Хумс"
+        },
+        {
+          "en": "Tooth enamel",
+          "mn": "Шүдний паалан"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Enamel, the outer layer of teeth, is about 96% mineral. Unlike bone, it cannot repair itself once damaged.",
+        "mn": "Шүдний гадна давхарга болох паалан 96 орчим хувь эрдсээс тогтдог. Яснаас ялгаатай нь гэмтвэл өөрөө нөхөгддөггүй."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.human-body",
+      "key": "pubquiz.human-body.a220",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which part of the brain mainly controls balance and coordination?",
+        "mn": "Тархины аль хэсэг тэнцвэр, хөдөлгөөний зохицолыг голчлон удирддаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Frontal lobe",
+          "mn": "Духны дэлбэн"
+        },
+        {
+          "en": "Cerebellum",
+          "mn": "Бага тархи"
+        },
+        {
+          "en": "Hypothalamus",
+          "mn": "Гипоталамус"
+        },
+        {
+          "en": "Brainstem",
+          "mn": "Тархины иш"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The cerebellum sits at the back of the head below the main brain. Though small, it holds more than half of the brain's neurons.",
+        "mn": "Бага тархи дагзны хэсэгт, их тархины доор байрладаг. Жижиг боловч тархины нийт мэдрэлийн эсийн талаас илүүг агуулдаг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.human-body",
+      "key": "pubquiz.human-body.a221",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Roughly how many bones is a newborn baby born with?",
+        "mn": "Нярай хүүхэд ойролцоогоор хэдэн ястай төрдөг вэ?"
+      },
+      "choices": [
+        {
+          "en": "About 300",
+          "mn": "300 орчим"
+        },
+        {
+          "en": "About 100",
+          "mn": "100 орчим"
+        },
+        {
+          "en": "About 150",
+          "mn": "150 орчим"
+        },
+        {
+          "en": "Exactly 206",
+          "mn": "Яг 206"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Babies have around 300 bones and cartilage pieces, many of which fuse as they grow. The soft spots on a baby's skull are gaps that close later.",
+        "mn": "Нярай хүүхэд 300 орчим яс, мөгөөрстэй бөгөөд өсөхийн хэрээр тэдний олонх нь нийлдэг. Хүүхдийн гавлын зөөлөн хэсэг бол хожим битүүрдэг завсар юм."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.human-body",
+      "key": "pubquiz.human-body.a222",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the medical name for the windpipe?",
+        "mn": "Амьсгалын хоолойг анагаах ухаанд юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Oesophagus",
+          "mn": "Улаан хоолой"
+        },
+        {
+          "en": "Larynx",
+          "mn": "Төвөнх"
+        },
+        {
+          "en": "Trachea",
+          "mn": "Трахей"
+        },
+        {
+          "en": "Bronchus",
+          "mn": "Гуурсан хоолой"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The trachea carries air from the throat to the lungs, where it splits into two bronchi. C-shaped rings of cartilage keep it from collapsing.",
+        "mn": "Трахей буюу цагаан мөгөөрсөн хоолой агаарыг хоолойноос уушги руу дамжуулж, хоёр гуурсан хоолойд салаалдаг. С хэлбэрийн мөгөөрсөн цагиргууд түүнийг хавтайхаас сэргийлдэг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.human-body",
+      "key": "pubquiz.human-body.a223",
+      "difficulty": 2,
+      "prompt": {
+        "en": "About how many litres of blood does an average adult have?",
+        "mn": "Дунджаар насанд хүрсэн хүн хэдэн литр орчим цустай вэ?"
+      },
+      "choices": [
+        {
+          "en": "1 litre",
+          "mn": "1 литр"
+        },
+        {
+          "en": "12 litres",
+          "mn": "12 литр"
+        },
+        {
+          "en": "5 litres",
+          "mn": "5 литр"
+        },
+        {
+          "en": "20 litres",
+          "mn": "20 литр"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "An adult has about 5 litres of blood, roughly 7–8% of body weight. A single blood donation takes about half a litre.",
+        "mn": "Насанд хүрэгч 5 орчим литр цустай бөгөөд энэ нь биеийн жингийн 7–8 хувь. Нэг удаагийн цусны хандиваар хагас литр орчим авдаг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.human-body",
+      "key": "pubquiz.human-body.a224",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which blood cells fight infections?",
+        "mn": "Цусны аль эсүүд халдвартай тэмцдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Red blood cells",
+          "mn": "Улаан эс"
+        },
+        {
+          "en": "Platelets",
+          "mn": "Ялтас эс"
+        },
+        {
+          "en": "Fat cells",
+          "mn": "Өөхний эс"
+        },
+        {
+          "en": "White blood cells",
+          "mn": "Цагаан эс"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "White blood cells, or leukocytes, attack bacteria, viruses and other invaders. Their number often rises sharply during an infection.",
+        "mn": "Цагаан эс буюу лейкоцит бактери, вирус болон бусад гадны биетийг устгадаг. Халдвар авах үед тэдний тоо огцом өсөх нь элбэг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.human-body",
+      "key": "pubquiz.human-body.a225",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which gland in the neck controls metabolism and needs iodine to work?",
+        "mn": "Хүзүүнд байрлах, бодисын солилцоог зохицуулдаг, иод шаарддаг булчирхай аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Pituitary",
+          "mn": "Өнчин тархи"
+        },
+        {
+          "en": "Thyroid",
+          "mn": "Бамбай булчирхай"
+        },
+        {
+          "en": "Adrenal",
+          "mn": "Бөөрний дээд булчирхай"
+        },
+        {
+          "en": "Thymus",
+          "mn": "Тимус"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The butterfly-shaped thyroid uses iodine to make its hormones. Iodised salt was introduced to prevent goitre, a swollen thyroid.",
+        "mn": "Эрвээхэй хэлбэртэй бамбай булчирхай гормоноо үүсгэхэд иод хэрэглэдэг. Бамбай томрох буюу заг хүүхэй өвчнөөс сэргийлж иоджуулсан давс нэвтрүүлсэн."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.human-body",
+      "key": "pubquiz.human-body.a226",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What are the body's tiniest blood vessels called?",
+        "mn": "Биеийн хамгийн нарийн цусны судсыг юу гэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Capillaries",
+          "mn": "Хялгасан судас"
+        },
+        {
+          "en": "Arteries",
+          "mn": "Артери"
+        },
+        {
+          "en": "Veins",
+          "mn": "Вен"
+        },
+        {
+          "en": "Aortas",
+          "mn": "Гол судас"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Capillary walls are just one cell thick, letting oxygen and nutrients pass into tissues. Laid end to end, all your blood vessels would circle the Earth more than twice.",
+        "mn": "Хялгасан судасны хана ганц эсийн зузаантай тул хүчилтөрөгч, шим тэжээл эдэд нэвтэрдэг. Бүх цусны судсыг залгаад тавибал дэлхийг хоёроос дээш удаа ороох урттай."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.human-body",
+      "key": "pubquiz.human-body.a227",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which bone is the only one in the body not connected to any other bone?",
+        "mn": "Биеийн аль яс өөр ямар ч ястай холбогдоогүй цорын ганц яс вэ?"
+      },
+      "choices": [
+        {
+          "en": "Hyoid",
+          "mn": "Хэлний яс"
+        },
+        {
+          "en": "Coccyx",
+          "mn": "Сүүжний яс"
+        },
+        {
+          "en": "Stapes",
+          "mn": "Дөрөө яс"
+        },
+        {
+          "en": "Patella",
+          "mn": "Тойг"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The U-shaped hyoid bone sits in the neck, held in place only by muscles and ligaments. It supports the tongue and helps us swallow and speak.",
+        "mn": "U хэлбэрийн хэлний яс хүзүүнд байрлаж, зөвхөн булчин, шөрмөсөөр бэхлэгддэг. Энэ нь хэлийг тулж, залгих, ярихад тусалдаг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.human-body",
+      "key": "pubquiz.human-body.a228",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the main job of the kidneys?",
+        "mn": "Бөөрний гол үүрэг юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Pumping blood",
+          "mn": "Цус шахах"
+        },
+        {
+          "en": "Filtering blood",
+          "mn": "Цусыг шүүх"
+        },
+        {
+          "en": "Digesting food",
+          "mn": "Хоол шингээх"
+        },
+        {
+          "en": "Producing bile",
+          "mn": "Цөс ялгаруулах"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The kidneys filter around 180 litres of blood plasma a day and turn waste into urine. A person can live a healthy life with just one.",
+        "mn": "Бөөр өдөрт 180 орчим литр цусны сийвэн шүүж, хаягдлыг шээс болгодог. Хүн ганц бөөртэй ч эрүүл амьдарч чадна."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.human-body",
+      "key": "pubquiz.human-body.a229",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which small organ stores bile from the liver?",
+        "mn": "Элэгнээс ялгарах цөсийг аль жижиг эрхтэн хадгалдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Appendix",
+          "mn": "Мухар олгой"
+        },
+        {
+          "en": "Spleen",
+          "mn": "Дэлүү"
+        },
+        {
+          "en": "Pancreas",
+          "mn": "Нойр булчирхай"
+        },
+        {
+          "en": "Gallbladder",
+          "mn": "Цөсний хүүдий"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The gallbladder stores bile and squeezes it into the intestine to digest fats. People can live normally after it is removed.",
+        "mn": "Цөсний хүүдий цөсийг хадгалж, өөх тос шингээхэд гэдэс рүү шахдаг. Түүнийг авахуулсан ч хүн хэвийн амьдарч чадна."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.human-body",
+      "key": "pubquiz.human-body.a230",
+      "difficulty": 1,
+      "prompt": {
+        "en": "The olfactory system is responsible for which sense?",
+        "mn": "Олфактор систем аль мэдрэхүйг хариуцдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Hearing",
+          "mn": "Сонсох"
+        },
+        {
+          "en": "Taste",
+          "mn": "Амтлах"
+        },
+        {
+          "en": "Smell",
+          "mn": "Үнэрлэх"
+        },
+        {
+          "en": "Touch",
+          "mn": "Хүрэлцэх"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The olfactory system detects smells through receptors high in the nose. Much of what we call 'taste' is really smell, which is why food seems bland with a cold.",
+        "mn": "Олфактор буюу үнэрлэх систем хамрын дээд хэсгийн рецептороор үнэр мэдэрдэг. Бидний «амт» гэдгийн их хэсэг нь үнэр тул ханиад хүрэхэд хоол амтгүй санагддаг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.inventions",
+      "key": "pubquiz.inventions.a21",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Who was granted the first US patent for the telephone in 1876?",
+        "mn": "1876 онд утасны анхны АНУ-ын патентыг хэн авсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Thomas Edison",
+          "mn": "Томас Эдисон"
+        },
+        {
+          "en": "Samuel Morse",
+          "mn": "Самуэл Морзе"
+        },
+        {
+          "en": "Nikola Tesla",
+          "mn": "Никола Тесла"
+        },
+        {
+          "en": "Alexander Graham Bell",
+          "mn": "Александр Грэхем Белл"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Bell's first words on the phone were 'Mr. Watson, come here, I want to see you.' Bell's mother and wife were both deaf, and he also taught deaf students.",
+        "mn": "Беллийн утсаар хэлсэн анхны үг нь «Ноён Ватсон, нааш ир, чамтай уулзмаар байна» байжээ. Беллийн ээж, эхнэр хоёулаа сонсголгүй байсан бөгөөд тэр дүлий хүүхдүүдэд хичээл заадаг байв."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.inventions",
+      "key": "pubquiz.inventions.a22",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which inventor, nicknamed 'The Wizard of Menlo Park', created the phonograph?",
+        "mn": "«Менло Паркийн шидтэн» хочтой, фонографыг зохиосон зохион бүтээгч хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Thomas Edison",
+          "mn": "Томас Эдисон"
+        },
+        {
+          "en": "Guglielmo Marconi",
+          "mn": "Гульельмо Маркони"
+        },
+        {
+          "en": "Alexander Graham Bell",
+          "mn": "Александр Грэхем Белл"
+        },
+        {
+          "en": "James Watt",
+          "mn": "Жеймс Ватт"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Edison invented the phonograph in 1877; the first recording was him reciting 'Mary Had a Little Lamb'. He held over 1,000 US patents.",
+        "mn": "Эдисон 1877 онд фонографыг зохиосон бөгөөд анхны бичлэгт өөрөө «Мэри хэмээх хурганы тухай» шүлэг уншжээ. Тэр АНУ-д 1000 гаруй патент эзэмшиж байв."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.inventions",
+      "key": "pubquiz.inventions.a23",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Who developed the theory of relativity and the equation E = mc²?",
+        "mn": "Харьцангуйн онол болон E = mc² томьёог хэн боловсруулсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Isaac Newton",
+          "mn": "Исаак Ньютон"
+        },
+        {
+          "en": "Niels Bohr",
+          "mn": "Нильс Бор"
+        },
+        {
+          "en": "Albert Einstein",
+          "mn": "Альберт Эйнштейн"
+        },
+        {
+          "en": "Stephen Hawking",
+          "mn": "Стивен Хокинг"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Einstein published special relativity in 1905, his 'miracle year'. His Nobel Prize, however, was for explaining the photoelectric effect, not relativity.",
+        "mn": "Эйнштейн 1905 буюу «гайхамшгийн жил»-дээ харьцангуйн тусгай онолоо нийтэлсэн. Гэхдээ Нобелийн шагналыг харьцангуйн онолоор бус, фотоэффектийг тайлбарласны төлөө авсан."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.inventions",
+      "key": "pubquiz.inventions.a24",
+      "difficulty": 1,
+      "prompt": {
+        "en": "A falling apple is said to have inspired which scientist's theory of gravity?",
+        "mn": "Унах алим аль эрдэмтний таталцлын онолд санаа өгсөн гэж ярьдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Galileo Galilei",
+          "mn": "Галилео Галилей"
+        },
+        {
+          "en": "Isaac Newton",
+          "mn": "Исаак Ньютон"
+        },
+        {
+          "en": "Johannes Kepler",
+          "mn": "Иоганн Кеплер"
+        },
+        {
+          "en": "Charles Darwin",
+          "mn": "Чарльз Дарвин"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Newton told the apple story himself late in life, though it probably did not hit his head. His 1687 'Principia' set out the laws of motion and universal gravitation.",
+        "mn": "Ньютон алимны түүхийг өндөр насандаа өөрөө ярьсан ч алим толгой дээр нь унаагүй байх магадлалтай. Тэрээр 1687 оны «Принкипиа» бүтээлдээ хөдөлгөөний хуулиуд болон бүх ертөнцийн таталцлын хуулийг тодорхойлсон."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.inventions",
+      "key": "pubquiz.inventions.a25",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Who introduced the movable-type printing press to Europe around 1440?",
+        "mn": "1440 орчим онд Европт хөдлөх үсгээр хэвлэх машиныг хэн нэвтрүүлсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Leonardo da Vinci",
+          "mn": "Леонардо да Винчи"
+        },
+        {
+          "en": "Johannes Gutenberg",
+          "mn": "Иоганн Гутенберг"
+        },
+        {
+          "en": "William Caxton",
+          "mn": "Уильям Кэкстон"
+        },
+        {
+          "en": "Martin Luther",
+          "mn": "Мартин Лютер"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Gutenberg worked in Mainz, Germany, and his most famous work is the Gutenberg Bible of the 1450s. Movable type had been invented earlier in China and Korea.",
+        "mn": "Гутенберг Германы Майнц хотод ажиллаж байсан бөгөөд хамгийн алдартай бүтээл нь 1450-аад оны Гутенбергийн Библи. Хөдлөх үсгийг үүнээс өмнө Хятад, Солонгост зохиосон байжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.inventions",
+      "key": "pubquiz.inventions.a26",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Marie Curie was the first person to win Nobel Prizes in two different sciences. Which two?",
+        "mn": "Мари Кюри хоёр өөр шинжлэх ухаанаар Нобелийн шагнал хүртсэн анхны хүн. Аль хоёр вэ?"
+      },
+      "choices": [
+        {
+          "en": "Chemistry and Medicine",
+          "mn": "Хими ба анагаах ухаан"
+        },
+        {
+          "en": "Physics and Medicine",
+          "mn": "Физик ба анагаах ухаан"
+        },
+        {
+          "en": "Physics and Peace",
+          "mn": "Физик ба энх тайван"
+        },
+        {
+          "en": "Physics and Chemistry",
+          "mn": "Физик ба хими"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Curie won the Physics prize in 1903 and the Chemistry prize in 1911 for discovering polonium and radium. Her notebooks are still too radioactive to handle without protection.",
+        "mn": "Кюри 1903 онд физикийн, 1911 онд полони, радийг нээснийхээ төлөө химийн шагнал хүртсэн. Түүний тэмдэглэлийн дэвтрүүд одоо ч цацраг идэвхтэй тул хамгаалалтгүйгээр барьж болдоггүй."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.inventions",
+      "key": "pubquiz.inventions.a27",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Paper was invented in which country?",
+        "mn": "Цаасыг аль улсад зохиосон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Egypt",
+          "mn": "Египет"
+        },
+        {
+          "en": "Greece",
+          "mn": "Грек"
+        },
+        {
+          "en": "China",
+          "mn": "Хятад"
+        },
+        {
+          "en": "India",
+          "mn": "Энэтхэг"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Tradition credits the court official Cai Lun with inventing paper around 105 AD. Papermaking reached the Islamic world in the 8th century and Europe much later.",
+        "mn": "Уламжлалаар бол МЭ 105 онд ордны түшмэл Цай Лунь цаасыг зохиосон гэдэг. Цаас хийх арга 8-р зуунд Исламын ертөнцөд, Европт бүр хожуу хүрсэн."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.inventions",
+      "key": "pubquiz.inventions.a28",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Who discovered X-rays in 1895?",
+        "mn": "1895 онд рентген туяаг хэн нээсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Wilhelm Röntgen",
+          "mn": "Вильгельм Рентген"
+        },
+        {
+          "en": "Marie Curie",
+          "mn": "Мари Кюри"
+        },
+        {
+          "en": "Ernest Rutherford",
+          "mn": "Эрнест Резерфорд"
+        },
+        {
+          "en": "Max Planck",
+          "mn": "Макс Планк"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Röntgen's first X-ray image showed his wife's hand and wedding ring. He won the very first Nobel Prize in Physics in 1901.",
+        "mn": "Рентгений анхны рентген зурагт эхнэрийнх нь гар, хуримын бөгж харагдаж байв. Тэрээр 1901 онд физикийн анхны Нобелийн шагналыг хүртсэн."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.inventions",
+      "key": "pubquiz.inventions.a29",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Alfred Nobel made his fortune from which invention?",
+        "mn": "Альфред Нобель аль бүтээлээрээ хөрөнгө хуримтлуулсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "The machine gun",
+          "mn": "Пулемёт"
+        },
+        {
+          "en": "Dynamite",
+          "mn": "Динамит"
+        },
+        {
+          "en": "The steam engine",
+          "mn": "Уурын хөдөлгүүр"
+        },
+        {
+          "en": "Rubber tyres",
+          "mn": "Резин дугуй"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Nobel patented dynamite in 1867 as a safer way to handle nitroglycerine. After a newspaper wrongly printed his obituary calling him a 'merchant of death', he left his fortune to create the Nobel Prizes.",
+        "mn": "Нобель нитроглицериныг аюулгүй ашиглах арга болгож 1867 онд динамитын патент авсан. Сонинд түүнийг «үхлийн худалдаачин» гэсэн эмгэнэл андуурч хэвлэгдсэний дараа тэр хөрөнгөө Нобелийн шагнал байгуулахад гэрээсэлсэн."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.inventions",
+      "key": "pubquiz.inventions.a210",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Who proposed in 1543 that the Earth orbits the Sun?",
+        "mn": "Дэлхий Нарыг тойрдог гэсэн санааг 1543 онд хэн дэвшүүлсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Galileo Galilei",
+          "mn": "Галилео Галилей"
+        },
+        {
+          "en": "Ptolemy",
+          "mn": "Птолемей"
+        },
+        {
+          "en": "Tycho Brahe",
+          "mn": "Тихо Браге"
+        },
+        {
+          "en": "Nicolaus Copernicus",
+          "mn": "Николай Коперник"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Copernicus's book 'On the Revolutions of the Heavenly Spheres' came out the year he died. Legend says he saw the first printed copy on his deathbed.",
+        "mn": "Коперникийн «Тэнгэрийн бөмбөрцгүүдийн эргэлтийн тухай» ном түүнийг нас барсан жил хэвлэгдсэн. Тэрээр нас барахынхаа өмнөхөн анхны хэвлэлтийг харсан гэж домоглодог."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.inventions",
+      "key": "pubquiz.inventions.a211",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which two scientists described DNA's double-helix structure in 1953?",
+        "mn": "1953 онд ДНХ-ийн давхар спираль бүтцийг аль хоёр эрдэмтэн тодорхойлсон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Watson and Crick",
+          "mn": "Уотсон ба Крик"
+        },
+        {
+          "en": "Darwin and Wallace",
+          "mn": "Дарвин ба Уоллес"
+        },
+        {
+          "en": "Pasteur and Koch",
+          "mn": "Пастер ба Кох"
+        },
+        {
+          "en": "Bohr and Planck",
+          "mn": "Бор ба Планк"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "James Watson and Francis Crick relied on Rosalind Franklin's X-ray image known as 'Photo 51'. Crick reportedly announced in a Cambridge pub that they had found 'the secret of life'.",
+        "mn": "Жеймс Уотсон, Фрэнсис Крик нар Розалинд Франклины «Фото 51» хэмээх рентген зурагт тулгуурласан. Крик Кембрижийн нэгэн пабд «амьдралын нууцыг оллоо» гэж зарласан гэдэг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.inventions",
+      "key": "pubquiz.inventions.a212",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Who developed the first vaccine, against smallpox, in 1796?",
+        "mn": "1796 онд салхин цэцэг өвчний эсрэг анхны вакциныг хэн бүтээсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Louis Pasteur",
+          "mn": "Луи Пастер"
+        },
+        {
+          "en": "Joseph Lister",
+          "mn": "Жозеф Листер"
+        },
+        {
+          "en": "Edward Jenner",
+          "mn": "Эдвард Женнер"
+        },
+        {
+          "en": "Robert Koch",
+          "mn": "Роберт Кох"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Jenner noticed milkmaids who caught cowpox did not get smallpox, and tested the idea on a boy. Smallpox was declared eradicated worldwide in 1980.",
+        "mn": "Женнер үхрийн цэцэг туссан саальчин эмэгтэйчүүд салхин цэцэг өвчнөөр өвддөггүйг анзаарч, нэгэн хүүд туршжээ. Салхин цэцэг өвчнийг 1980 онд дэлхийгээс бүрэн устгасан гэж зарласан."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.inventions",
+      "key": "pubquiz.inventions.a213",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which French scientist gave his name to the process of heating milk to kill germs?",
+        "mn": "Сүүг халааж нян устгах аргад нэрээ өгсөн Францын эрдэмтэн хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Antoine Lavoisier",
+          "mn": "Антуан Лавуазье"
+        },
+        {
+          "en": "Pierre Curie",
+          "mn": "Пьер Кюри"
+        },
+        {
+          "en": "René Descartes",
+          "mn": "Рене Декарт"
+        },
+        {
+          "en": "Louis Pasteur",
+          "mn": "Луи Пастер"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Pasteurisation was first used on wine and beer in the 1860s, and later on milk. Pasteur also made early vaccines against rabies and anthrax.",
+        "mn": "Пастержуулалтыг 1860-аад онд анх дарс, шар айрагт, хожим сүүнд хэрэглэсэн. Пастер мөн галзуу болон боом өвчний анхны вакциныг бүтээжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.inventions",
+      "key": "pubquiz.inventions.a214",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which Italian shared the 1909 Nobel Prize in Physics for pioneering radio?",
+        "mn": "Радиог анхлан хөгжүүлснийхээ төлөө 1909 онд физикийн Нобелийн шагнал хуваалцсан итали хүн хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Alessandro Volta",
+          "mn": "Алессандро Вольта"
+        },
+        {
+          "en": "Enrico Fermi",
+          "mn": "Энрико Ферми"
+        },
+        {
+          "en": "Guglielmo Marconi",
+          "mn": "Гульельмо Маркони"
+        },
+        {
+          "en": "Galileo Galilei",
+          "mn": "Галилео Галилей"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Marconi sent the first radio signal across the Atlantic in 1901. Radio operators on the Titanic worked for the Marconi Company.",
+        "mn": "Маркони 1901 онд Атлантын далайг гатлан анхны радио дохио илгээсэн. «Титаник»-ийн радио операторууд Марконигийн компанид ажилладаг байжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.inventions",
+      "key": "pubquiz.inventions.a215",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Who published the first widely recognised periodic table in 1869?",
+        "mn": "1869 онд олонд хүлээн зөвшөөрөгдсөн анхны үелэх системийг хэн нийтэлсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "John Dalton",
+          "mn": "Жон Дальтон"
+        },
+        {
+          "en": "Dmitri Mendeleev",
+          "mn": "Дмитрий Менделеев"
+        },
+        {
+          "en": "Antoine Lavoisier",
+          "mn": "Антуан Лавуазье"
+        },
+        {
+          "en": "Michael Faraday",
+          "mn": "Майкл Фарадей"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Mendeleev left gaps for elements no one had found yet and predicted their properties. Element 101, mendelevium, is named after him.",
+        "mn": "Менделеев хараахан нээгдээгүй элементүүдэд хоосон зай үлдээж, шинж чанарыг нь урьдчилан таамагласан. 101 дүгээр элемент менделеви түүний нэрээр нэрлэгдсэн."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.inventions",
+      "key": "pubquiz.inventions.a216",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Engineer Percy Spencer noticed a chocolate bar melting in his pocket near radar equipment. What did this lead to?",
+        "mn": "Инженер Перси Спенсер радарын төхөөрөмжийн дэргэд халаасан дахь шоколад нь хайлсныг анзаарчээ. Үүний үр дүнд юу бий болсон бэ?"
+      },
+      "choices": [
+        {
+          "en": "The microwave oven",
+          "mn": "Богино долгионы зуух"
+        },
+        {
+          "en": "The toaster",
+          "mn": "Талх шарагч"
+        },
+        {
+          "en": "The refrigerator",
+          "mn": "Хөргөгч"
+        },
+        {
+          "en": "The electric kettle",
+          "mn": "Цахилгаан данх"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Spencer's 1945 discovery led to the first microwave oven in 1947, which stood almost 1.8 metres tall. The second food he tested was popcorn.",
+        "mn": "Спенсерийн 1945 оны нээлтээр 1947 онд анхны богино долгионы зуух бий болсон бөгөөд тэр бараг 1.8 метр өндөр байжээ. Түүний туршсан хоёр дахь хоол нь попкорн байв."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.inventions",
+      "key": "pubquiz.inventions.a217",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Where was Archimedes when he supposedly shouted 'Eureka!'?",
+        "mn": "Архимед «Эврика!» гэж хашгирахдаа хаана байсан гэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "In the bath",
+          "mn": "Ваннд"
+        },
+        {
+          "en": "In a temple",
+          "mn": "Сүмд"
+        },
+        {
+          "en": "On a ship",
+          "mn": "Хөлөг онгоцонд"
+        },
+        {
+          "en": "In the market",
+          "mn": "Захад"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Archimedes realised that a body in water displaces its own volume, letting him test whether a crown was pure gold. 'Eureka' is Greek for 'I have found it!'",
+        "mn": "Архимед усанд орсон бие өөрийн эзэлхүүнтэй тэнцэх усыг шахдагийг ойлгож, титэм цэвэр алт эсэхийг шалгах арга олжээ. «Эврика» нь грекээр «Олчихлоо!» гэсэн утгатай."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.inventions",
+      "key": "pubquiz.inventions.a218",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The unit of power, the watt, honours a Scottish engineer famous for improving which machine?",
+        "mn": "Чадлын нэгж ватт нь аль машиныг сайжруулснаараа алдартай Шотландын инженерийг хүндэтгэсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "The telegraph",
+          "mn": "Телеграф"
+        },
+        {
+          "en": "The steam engine",
+          "mn": "Уурын хөдөлгүүр"
+        },
+        {
+          "en": "The printing press",
+          "mn": "Хэвлэх машин"
+        },
+        {
+          "en": "The spinning wheel",
+          "mn": "Ээрэх хүрд"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "James Watt's separate condenser made steam engines far more efficient and powered the Industrial Revolution. He also coined the unit 'horsepower'.",
+        "mn": "Жеймс Ваттын тусдаа конденсатор уурын хөдөлгүүрийг хамаагүй үр ашигтай болгож, аж үйлдвэрийн хувьсгалыг хөдөлгөсөн. Тэр мөн «морины хүч» гэдэг нэгжийг санаачилсан."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.inventions",
+      "key": "pubquiz.inventions.a219",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Velcro was inspired by what?",
+        "mn": "Велкро (наалддаг тууз) юунаас санаа авч бүтээгдсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "A gecko's feet",
+          "mn": "Гекконы хөл"
+        },
+        {
+          "en": "Spider silk",
+          "mn": "Аалзны тор"
+        },
+        {
+          "en": "Burrs stuck to a dog",
+          "mn": "Нохойд наалдсан өргөст үр"
+        },
+        {
+          "en": "Fish scales",
+          "mn": "Загасны хайрс"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Swiss engineer George de Mestral studied burrs under a microscope after a walk with his dog and saw tiny hooks. The name blends French 'velours' (velvet) and 'crochet' (hook).",
+        "mn": "Швейцарийн инженер Жорж де Местраль нохойтойгоо зугаалсны дараа өргөст үрийг микроскопоор харж жижиг дэгээнүүдийг олжээ. Нэр нь францын «velours» (хилэн), «crochet» (дэгээ) үгсийн нийлбэр."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.inventions",
+      "key": "pubquiz.inventions.a220",
+      "difficulty": 3,
+      "prompt": {
+        "en": "When Anders Celsius created his temperature scale in 1742, what did 0° mean?",
+        "mn": "Андерс Цельс 1742 онд температурын хуваариа зохиохдоо 0° гэж юуг тэмдэглэсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Water freezing",
+          "mn": "Ус хөлдөх"
+        },
+        {
+          "en": "Body temperature",
+          "mn": "Биеийн хэм"
+        },
+        {
+          "en": "Absolute zero",
+          "mn": "Үнэмлэхүй тэг"
+        },
+        {
+          "en": "Water boiling",
+          "mn": "Ус буцлах"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Celsius's original scale ran backwards: 0° for boiling and 100° for freezing. It was reversed shortly after his death into the version we use today.",
+        "mn": "Цельсийн анхны хуваарь урвуу байсан: буцлах цэг 0°, хөлдөх цэг 100°. Түүнийг нас барсны дараахан бидний одоо хэрэглэдэг хэлбэрт урвуулсан."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.inventions",
+      "key": "pubquiz.inventions.a221",
+      "difficulty": 1,
+      "prompt": {
+        "en": "The AC induction motor was invented by a Serbian-American whose name is now a car brand. Who?",
+        "mn": "Хувьсах гүйдлийн асинхрон моторыг зохиосон, нэр нь одоо автомашины брэнд болсон серб гаралтай америк хүн хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Nikola Tesla",
+          "mn": "Никола Тесла"
+        },
+        {
+          "en": "Henry Ford",
+          "mn": "Генри Форд"
+        },
+        {
+          "en": "Thomas Edison",
+          "mn": "Томас Эдисон"
+        },
+        {
+          "en": "Karl Benz",
+          "mn": "Карл Бенц"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Tesla championed alternating current against Edison's direct current in the 'War of the Currents'. The SI unit of magnetic flux density, the tesla, is also named after him.",
+        "mn": "Тесла «Гүйдлийн дайн»-д Эдисоны тогтмол гүйдлийн эсрэг хувьсах гүйдлийг дэмжиж байв. Соронзон индукцийн SI нэгж тесла ч түүний нэрээр нэрлэгдсэн."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.inventions",
+      "key": "pubquiz.inventions.a222",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which book did Charles Darwin publish in 1859?",
+        "mn": "Чарльз Дарвин 1859 онд ямар ном хэвлүүлсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "The Selfish Gene",
+          "mn": "Хувиа хичээсэн ген"
+        },
+        {
+          "en": "A Brief History of Time",
+          "mn": "Цаг хугацааны товч түүх"
+        },
+        {
+          "en": "On the Origin of Species",
+          "mn": "Зүйлийн гарал үүсэл"
+        },
+        {
+          "en": "Principia",
+          "mn": "Принкипиа"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Darwin's ideas grew from his voyage on HMS Beagle, including the Galápagos Islands. The first print run sold out on the first day.",
+        "mn": "Дарвины санаа «Бигл» хөлөг онгоцоор Галапагосын арлууд зэрэгт аялсан туршлагаас үүдэлтэй. Анхны хэвлэлт эхний өдрөө дуусчээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.inventions",
+      "key": "pubquiz.inventions.a223",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The Rubik's Cube was invented in 1974 by an architecture professor from which country?",
+        "mn": "Рубикийн шоог 1974 онд аль улсын архитектурын багш зохиосон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Japan",
+          "mn": "Япон"
+        },
+        {
+          "en": "Poland",
+          "mn": "Польш"
+        },
+        {
+          "en": "Austria",
+          "mn": "Австри"
+        },
+        {
+          "en": "Hungary",
+          "mn": "Унгар"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Ernő Rubik built it to help students understand 3D movement and took a month to solve it himself. It has over 43 quintillion possible positions.",
+        "mn": "Эрнё Рубик оюутнууддаа гурван хэмжээст хөдөлгөөнийг ойлгуулах зорилгоор бүтээж, өөрөө нэг сар болж байж эвлүүлжээ. Боломжит байрлалын тоо нь 43 квинтиллионоос давдаг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.inventions",
+      "key": "pubquiz.inventions.a224",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In Britain a ballpoint pen is often called a 'biro'. Who is it named after?",
+        "mn": "Их Британид бал үзгийг «biro» гэж нэрлэх нь элбэг. Энэ хэний нэр вэ?"
+      },
+      "choices": [
+        {
+          "en": "Lewis Waterman",
+          "mn": "Льюис Уотерман"
+        },
+        {
+          "en": "László Bíró",
+          "mn": "Ласло Биро"
+        },
+        {
+          "en": "George Parker",
+          "mn": "Жорж Паркер"
+        },
+        {
+          "en": "John Biro Smith",
+          "mn": "Жон Биро Смит"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Hungarian journalist László Bíró noticed newspaper ink dried quickly and designed a pen using a tiny ball. He patented it in 1938 and later moved to Argentina.",
+        "mn": "Унгарын сэтгүүлч Ласло Биро сонины бэх хурдан хатдагийг анзаарч, жижиг бөмбөлөгтэй үзэг зохион бүтээжээ. Тэр 1938 онд патент авч, хожим Аргентин руу нүүсэн."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.inventions",
+      "key": "pubquiz.inventions.a225",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Who patented what is considered the first practical petrol-powered car in 1886?",
+        "mn": "Анхны практик бензин хөдөлгүүртэй автомашин гэгддэг бүтээлийн патентыг 1886 онд хэн авсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Karl Benz",
+          "mn": "Карл Бенц"
+        },
+        {
+          "en": "Henry Ford",
+          "mn": "Генри Форд"
+        },
+        {
+          "en": "Ferdinand Porsche",
+          "mn": "Фердинанд Порше"
+        },
+        {
+          "en": "Enzo Ferrari",
+          "mn": "Энцо Феррари"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Karl Benz's three-wheeled Motorwagen received its German patent in 1886. His wife Bertha made the first long-distance car trip in it, about 100 km.",
+        "mn": "Карл Бенцийн гурван дугуйтай «Моторваген» 1886 онд Германы патент авсан. Түүний эхнэр Берта уг машинаар 100 орчим км замыг туулж, анхны алс замын аяллыг хийжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.inventions",
+      "key": "pubquiz.inventions.a226",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which ancient Greek physician is called the 'Father of Medicine'?",
+        "mn": "Эртний Грекийн аль эмчийг «Анагаах ухааны эцэг» гэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Aristotle",
+          "mn": "Аристотель"
+        },
+        {
+          "en": "Pythagoras",
+          "mn": "Пифагор"
+        },
+        {
+          "en": "Archimedes",
+          "mn": "Архимед"
+        },
+        {
+          "en": "Hippocrates",
+          "mn": "Гиппократ"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Hippocrates taught that diseases have natural causes, not divine ones. New doctors still take a version of the Hippocratic Oath.",
+        "mn": "Гиппократ өвчин бурхнаас бус байгалийн шалтгаантай гэж сургаж байв. Шинэ эмч нар одоо ч Гиппократын тангаргийн нэг хувилбарыг өргөдөг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.inventions",
+      "key": "pubquiz.inventions.a227",
+      "difficulty": 1,
+      "prompt": {
+        "en": "The raised-dot reading system for blind people was invented by a 15-year-old French boy. What is it called?",
+        "mn": "Хараагүй хүмүүсийн товгор цэгт бичгийг 15 настай франц хүү зохиосон. Үүнийг юу гэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Morse code",
+          "mn": "Морзын үсэг"
+        },
+        {
+          "en": "Semaphore",
+          "mn": "Семафор"
+        },
+        {
+          "en": "Braille",
+          "mn": "Брайль"
+        },
+        {
+          "en": "Shorthand",
+          "mn": "Товчлон бичлэг"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Louis Braille lost his sight in an accident as a small child and published his system in 1829. It was based on a military 'night writing' code.",
+        "mn": "Луи Брайль бага насандаа осолд орж хараагүй болсон бөгөөд 1829 онд өөрийн системээ нийтэлсэн. Энэ нь цэргийн «шөнийн бичиг» кодонд тулгуурласан."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.inventions",
+      "key": "pubquiz.inventions.a228",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Kevlar, the fibre used in bulletproof vests, was invented in 1965 by which chemist?",
+        "mn": "Сум нэвтэрдэггүй хантаазанд хэрэглэдэг Кевлар утасыг 1965 онд аль химич зохиосон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Marie Curie",
+          "mn": "Мари Кюри"
+        },
+        {
+          "en": "Stephanie Kwolek",
+          "mn": "Стефани Кволек"
+        },
+        {
+          "en": "Rosalind Franklin",
+          "mn": "Розалинд Франклин"
+        },
+        {
+          "en": "Ada Lovelace",
+          "mn": "Ада Лавлейс"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Stephanie Kwolek was working at DuPont on lighter fibres for car tyres. Kevlar is about five times stronger than steel by weight.",
+        "mn": "Стефани Кволек DuPont компанид автомашины дугуйд зориулсан хөнгөн утас судалж байжээ. Кевлар ижил жинтэй гангаас тав орчим дахин бат бөх."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.inventions",
+      "key": "pubquiz.inventions.a229",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which English doctor described the circulation of blood pumped by the heart in 1628?",
+        "mn": "1628 онд зүрхний шахсан цус бүх биеэр эргэлддэгийг аль англи эмч тодорхойлсон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Edward Jenner",
+          "mn": "Эдвард Женнер"
+        },
+        {
+          "en": "William Harvey",
+          "mn": "Уильям Харви"
+        },
+        {
+          "en": "Joseph Lister",
+          "mn": "Жозеф Листер"
+        },
+        {
+          "en": "Isaac Newton",
+          "mn": "Исаак Ньютон"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "William Harvey overturned the ancient idea that blood was constantly made and used up by the body. He was physician to King Charles I.",
+        "mn": "Уильям Харви цус байнга шинээр үүсч, бие түүнийг зарцуулдаг гэсэн эртний ойлголтыг няцаасан. Тэр хаан I Чарльзын эмч байжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.inventions",
+      "key": "pubquiz.inventions.a230",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In 1886 pharmacist John Pemberton invented which drink?",
+        "mn": "1886 онд эм зүйч Жон Пембертон ямар ундаа зохиосон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Pepsi",
+          "mn": "Пепси"
+        },
+        {
+          "en": "Dr Pepper",
+          "mn": "Доктор Пеппер"
+        },
+        {
+          "en": "Fanta",
+          "mn": "Фанта"
+        },
+        {
+          "en": "Coca-Cola",
+          "mn": "Кока-Кола"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Coca-Cola was first sold in Atlanta as a medicinal tonic for 5 cents a glass. It sold only about nine glasses a day in its first year.",
+        "mn": "Кока-Колаг анх Атланта хотод нэг аяга нь 5 центийн эмчилгээний ундаа болгон зардаг байв. Эхний жилдээ өдөрт ердөө есөн аяга орчим зарагдаж байжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.world",
+      "key": "pubquiz.world.a21",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which country has had the world's largest population since 2023?",
+        "mn": "2023 оноос хойш дэлхийд хамгийн олон хүн амтай улс аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "China",
+          "mn": "Хятад"
+        },
+        {
+          "en": "United States",
+          "mn": "АНУ"
+        },
+        {
+          "en": "India",
+          "mn": "Энэтхэг"
+        },
+        {
+          "en": "Indonesia",
+          "mn": "Индонез"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "UN estimates show India overtook China in 2023, with over 1.4 billion people. China had held the top spot for centuries.",
+        "mn": "НҮБ-ын тооцоогоор Энэтхэг 2023 онд 1.4 тэрбум гаруй хүн амтайгаар Хятадыг гүйцэж түрүүлсэн. Хятад олон зууны турш тэргүүлж ирсэн."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.world",
+      "key": "pubquiz.world.a22",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the largest hot desert in the world?",
+        "mn": "Дэлхийн хамгийн том халуун цөл аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Sahara",
+          "mn": "Сахар"
+        },
+        {
+          "en": "Gobi",
+          "mn": "Говь"
+        },
+        {
+          "en": "Kalahari",
+          "mn": "Калахари"
+        },
+        {
+          "en": "Arabian Desert",
+          "mn": "Арабын цөл"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Sahara covers about 9 million km², close to the size of the United States. Counting cold deserts, Antarctica is even bigger.",
+        "mn": "Сахар 9 орчим сая км² талбайтай бөгөөд АНУ-ын хэмжээтэй ойролцоо. Хүйтэн цөлийг тооцвол Антарктид үүнээс ч том."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.world",
+      "key": "pubquiz.world.a23",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which country has the most natural lakes?",
+        "mn": "Аль улс хамгийн олон байгалийн нууртай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Finland",
+          "mn": "Финланд"
+        },
+        {
+          "en": "Russia",
+          "mn": "Орос"
+        },
+        {
+          "en": "Canada",
+          "mn": "Канад"
+        },
+        {
+          "en": "Brazil",
+          "mn": "Бразил"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Canada holds more lakes than the rest of the world combined, by most counts over half of all lakes on Earth. Many were carved by Ice Age glaciers.",
+        "mn": "Ихэнх тооцоогоор Канад дэлхийн бүх нуурын талаас илүүг буюу бусад бүх улсаас олон нууртай. Тэдний олонх нь мөстлөгийн үеийн мөсөн голоор үүссэн."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.world",
+      "key": "pubquiz.world.a24",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which country's national flag is not a rectangle?",
+        "mn": "Аль улсын төрийн далбаа тэгш өнцөгт хэлбэргүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Bhutan",
+          "mn": "Бутан"
+        },
+        {
+          "en": "Switzerland",
+          "mn": "Швейцарь"
+        },
+        {
+          "en": "Qatar",
+          "mn": "Катар"
+        },
+        {
+          "en": "Nepal",
+          "mn": "Балба"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Nepal's flag is made of two stacked pennants representing the Himalayas and two religions. Its constitution gives precise geometric instructions for drawing it.",
+        "mn": "Балбын далбаа хоорондоо давхарласан хоёр гурвалжнаас бүрдэх бөгөөд Гималай болон хоёр шашныг бэлгэддэг. Үндсэн хуульд нь далбааг зурах геометрийн нарийн заавар бий."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.world",
+      "key": "pubquiz.world.a25",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which two countries are 'doubly landlocked' — surrounded only by other landlocked countries?",
+        "mn": "Зөвхөн далайд гарцгүй улсуудаар хүрээлэгдсэн «давхар гарцгүй» хоёр улс аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Uzbekistan & Liechtenstein",
+          "mn": "Узбекистан ба Лихтенштейн"
+        },
+        {
+          "en": "Mongolia & Bolivia",
+          "mn": "Монгол ба Боливи"
+        },
+        {
+          "en": "Switzerland & Austria",
+          "mn": "Швейцарь ба Австри"
+        },
+        {
+          "en": "Laos & Paraguay",
+          "mn": "Лаос ба Парагвай"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "To reach the sea from Uzbekistan or Liechtenstein you must cross at least two borders. Mongolia is landlocked but borders coastal Russia and China.",
+        "mn": "Узбекистан эсвэл Лихтенштейнээс далайд хүрэхийн тулд дор хаяж хоёр хил давах шаардлагатай. Монгол далайд гарцгүй ч далайтай Орос, Хятадтай хиллэдэг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.world",
+      "key": "pubquiz.world.a26",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which major city lies on two continents, Europe and Asia?",
+        "mn": "Аль том хот Европ, Ази хоёр тивд оршдог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Moscow",
+          "mn": "Москва"
+        },
+        {
+          "en": "Istanbul",
+          "mn": "Истанбул"
+        },
+        {
+          "en": "Cairo",
+          "mn": "Каир"
+        },
+        {
+          "en": "Athens",
+          "mn": "Афин"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Istanbul is split by the Bosphorus strait, with bridges and a rail tunnel joining the two sides. It was once Byzantium and then Constantinople.",
+        "mn": "Истанбулыг Босфорын хоолой хуваах бөгөөд хоёр эргийг гүүр, төмөр замын хонгил холбодог. Энэ хот эрт цагт Византи, дараа нь Константинополь нэртэй байв."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.world",
+      "key": "pubquiz.world.a28",
+      "difficulty": 1,
+      "prompt": {
+        "en": "The deepest known point in the ocean, Challenger Deep, is in which trench?",
+        "mn": "Далайн хамгийн гүн цэг болох Челленджерийн гүнзгий аль хотгорт байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Mariana Trench",
+          "mn": "Марианы хотгор"
+        },
+        {
+          "en": "Puerto Rico Trench",
+          "mn": "Пуэрто-Рикогийн хотгор"
+        },
+        {
+          "en": "Java Trench",
+          "mn": "Явын хотгор"
+        },
+        {
+          "en": "Tonga Trench",
+          "mn": "Тонгагийн хотгор"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Challenger Deep in the western Pacific is nearly 11 km deep. If Everest were dropped in, its peak would still be more than 2 km underwater.",
+        "mn": "Номхон далайн баруун хэсэгт орших Челленджерийн гүнзгий бараг 11 км гүн. Эверестийг тэнд хийвэл оргил нь усны доор 2 гаруй км-т байх болно."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.world",
+      "key": "pubquiz.world.a29",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which country has the most islands in the world?",
+        "mn": "Дэлхийд хамгийн олон арал аль улсад байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Indonesia",
+          "mn": "Индонез"
+        },
+        {
+          "en": "Sweden",
+          "mn": "Швед"
+        },
+        {
+          "en": "Philippines",
+          "mn": "Филиппин"
+        },
+        {
+          "en": "Japan",
+          "mn": "Япон"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Sweden has around 267,000 islands, though only about 1,000 are inhabited. Stockholm itself is built on 14 islands.",
+        "mn": "Шведэд 267 000 орчим арал байдаг ч хүн оршин суудаг нь 1000 орчим. Стокгольм хот өөрөө 14 арал дээр байрладаг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.world",
+      "key": "pubquiz.world.a210",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which African country defeated Italy at the Battle of Adwa in 1896 and avoided colonisation?",
+        "mn": "Аль Африкийн улс 1896 онд Адуагийн тулалдаанд Италийг ялж, колоничлолоос зайлсхийсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Kenya",
+          "mn": "Кени"
+        },
+        {
+          "en": "Egypt",
+          "mn": "Египет"
+        },
+        {
+          "en": "Morocco",
+          "mn": "Марокко"
+        },
+        {
+          "en": "Ethiopia",
+          "mn": "Этиоп"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Ethiopia's victory at Adwa preserved its independence, apart from a brief Italian occupation from 1936 to 1941. Its green, yellow and red colours inspired many African flags.",
+        "mn": "Адуагийн ялалт Этиопын тусгаар тогтнолыг хадгалсан бөгөөд зөвхөн 1936–1941 онд Итали богино хугацаанд эзэлж байв. Түүний ногоон, шар, улаан өнгө Африкийн олон улсын далбаанд нөлөөлсөн."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.nature",
+      "key": "pubquiz.nature.a21",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the fastest land animal?",
+        "mn": "Хуурай газрын хамгийн хурдан амьтан аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Lion",
+          "mn": "Арслан"
+        },
+        {
+          "en": "Cheetah",
+          "mn": "Гепард"
+        },
+        {
+          "en": "Pronghorn",
+          "mn": "Салаа эвэрт гөрөөс"
+        },
+        {
+          "en": "Greyhound",
+          "mn": "Тайга нохой"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Cheetahs can reach about 100–120 km/h in short sprints. They cannot roar like lions — they purr and chirp instead.",
+        "mn": "Гепард богино зайд 100–120 км/ц хүртэл хурдалдаг. Тэд арслан шиг архирч чаддаггүй, харин муур шиг дуугарч, жиргэдэг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.nature",
+      "key": "pubquiz.nature.a22",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the largest animal known to have ever lived?",
+        "mn": "Урьд өмнө амьдарч байсан хамгийн том амьтан аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Argentinosaurus",
+          "mn": "Аргентинозавр"
+        },
+        {
+          "en": "African elephant",
+          "mn": "Африкийн заан"
+        },
+        {
+          "en": "Megalodon",
+          "mn": "Мегалодон"
+        },
+        {
+          "en": "Blue whale",
+          "mn": "Цэнхэр халим"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Blue whales can be about 30 m long and weigh up to around 190 tonnes, heavier than any known dinosaur. Their heart is roughly the size of a small car.",
+        "mn": "Цэнхэр халим 30 орчим метр урт, 190 орчим тонн хүртэл жинтэй бөгөөд мэдэгдэж буй ямар ч үлэг гүрвэлээс хүнд. Зүрх нь жижиг автомашины хэмжээтэй."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.nature",
+      "key": "pubquiz.nature.a23",
+      "difficulty": 2,
+      "prompt": {
+        "en": "How many hearts does an octopus have?",
+        "mn": "Наймаалж хэдэн зүрхтэй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Three",
+          "mn": "Гурав"
+        },
+        {
+          "en": "One",
+          "mn": "Нэг"
+        },
+        {
+          "en": "Two",
+          "mn": "Хоёр"
+        },
+        {
+          "en": "Eight",
+          "mn": "Найм"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Two hearts pump blood through the gills and one through the body. Octopus blood is blue because it uses copper-based haemocyanin.",
+        "mn": "Хоёр зүрх нь заламгай руу, нэг нь бие рүү цус шахдаг. Наймаалжийн цус зэс агуулсан гемоцианинтай тул цэнхэр өнгөтэй."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.nature",
+      "key": "pubquiz.nature.a24",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In English, what is a group of crows called?",
+        "mn": "Англиар хэрээний сүргийг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "A pride",
+          "mn": "Pride («бахархал»)"
+        },
+        {
+          "en": "A parliament",
+          "mn": "Parliament («парламент»)"
+        },
+        {
+          "en": "A murder",
+          "mn": "Murder («аллага»)"
+        },
+        {
+          "en": "A gaggle",
+          "mn": "Gaggle («шуугиан»)"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "A group of crows is a 'murder', probably from old folk links between crows and death. A 'parliament' is owls and a 'pride' is lions.",
+        "mn": "Хэрээний сүргийг «murder» гэдэг нь хэрээг үхэлтэй холбосон эртний ардын итгэлээс үүдэлтэй байх магадлалтай. «Parliament» нь ууль, «pride» нь арслангийн сүрэг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.nature",
+      "key": "pubquiz.nature.a25",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which is the only bird able to fly backwards?",
+        "mn": "Ухрааж нисч чаддаг цорын ганц шувуу аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Swallow",
+          "mn": "Хараацай"
+        },
+        {
+          "en": "Kingfisher",
+          "mn": "Загасч шувуу"
+        },
+        {
+          "en": "Owl",
+          "mn": "Шар шувуу"
+        },
+        {
+          "en": "Hummingbird",
+          "mn": "Колибри"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Hummingbirds can beat their wings dozens of times a second and hover like helicopters. Some species beat them over 50 times per second.",
+        "mn": "Колибри далавчаа секундэд хэдэн арван удаа хийсгэж, нисдэг тэрэг шиг агаарт зогсож чаддаг. Зарим зүйл нь секундэд 50-аас олон удаа далавчаа хийсгэдэг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.nature",
+      "key": "pubquiz.nature.a26",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Under its white fur, what colour is a polar bear's skin?",
+        "mn": "Цагаан баавгайн цагаан үсний доорх арьс ямар өнгөтэй вэ?"
+      },
+      "choices": [
+        {
+          "en": "White",
+          "mn": "Цагаан"
+        },
+        {
+          "en": "Pink",
+          "mn": "Ягаан"
+        },
+        {
+          "en": "Black",
+          "mn": "Хар"
+        },
+        {
+          "en": "Grey-blue",
+          "mn": "Саарал цэнхэр"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "A polar bear's skin is black to soak up heat from the sun. Its fur is not actually white either — each hair is transparent and hollow.",
+        "mn": "Цагаан баавгайн арьс нарны дулааныг шингээхийн тулд хар өнгөтэй. Үс нь ч үнэндээ цагаан биш — ширхэг бүр нь тунгалаг, хөндий."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.nature",
+      "key": "pubquiz.nature.a27",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which is the only mammal capable of true powered flight?",
+        "mn": "Жинхэнэ утгаараа нисч чаддаг цорын ганц хөхтөн амьтан аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Flying squirrel",
+          "mn": "Нисдэг хэрэм"
+        },
+        {
+          "en": "Bat",
+          "mn": "Сарьсан багваахай"
+        },
+        {
+          "en": "Sugar glider",
+          "mn": "Нисдэг поссум"
+        },
+        {
+          "en": "Colugo",
+          "mn": "Колуго"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Bats fly by flapping wings of skin stretched over long finger bones. Flying squirrels and colugos can only glide.",
+        "mn": "Сарьсан багваахай урт хурууны ясан дээр сунасан арьсан далавчаа хийсгэн нисдэг. Нисдэг хэрэм, колуго зөвхөн гулсаж нисдэг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.nature",
+      "key": "pubquiz.nature.a28",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which tree species includes the world's tallest living tree?",
+        "mn": "Дэлхийн хамгийн өндөр амьд мод аль зүйлд хамаардаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Coast redwood",
+          "mn": "Эргийн секвойя"
+        },
+        {
+          "en": "Giant sequoia",
+          "mn": "Аварга секвойя"
+        },
+        {
+          "en": "Baobab",
+          "mn": "Баобаб"
+        },
+        {
+          "en": "Siberian larch",
+          "mn": "Сибирийн шинэс"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "A coast redwood in California named Hyperion stands about 116 m tall. Its exact location is kept secret to protect it.",
+        "mn": "Калифорнид ургадаг «Гиперион» нэртэй эргийн секвойя 116 орчим метр өндөр. Түүнийг хамгаалах үүднээс яг байршлыг нь нууцалдаг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.nature",
+      "key": "pubquiz.nature.a29",
+      "difficulty": 3,
+      "prompt": {
+        "en": "What is the word for animals that are most active at dawn and dusk?",
+        "mn": "Үүр цайх болон бүрэнхий үед хамгийн идэвхтэй байдаг амьтдыг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Nocturnal",
+          "mn": "Шөнийн (nocturnal)"
+        },
+        {
+          "en": "Crepuscular",
+          "mn": "Бүрэнхийн (crepuscular)"
+        },
+        {
+          "en": "Diurnal",
+          "mn": "Өдрийн (diurnal)"
+        },
+        {
+          "en": "Arboreal",
+          "mn": "Модны (arboreal)"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Crepuscular comes from Latin 'crepusculum', meaning twilight. Rabbits, deer and domestic cats are classic examples.",
+        "mn": "Crepuscular гэдэг үг латины «crepusculum» буюу «бүрэнхий» гэсэн үгнээс гаралтай. Туулай, буга, гэрийн муур сонгодог жишээ болно."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.nature",
+      "key": "pubquiz.nature.a210",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which bird is the fastest animal on Earth when diving?",
+        "mn": "Шумбаж байхдаа дэлхийн хамгийн хурдан амьтан болдог шувуу аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Golden eagle",
+          "mn": "Бүргэд"
+        },
+        {
+          "en": "Ostrich",
+          "mn": "Тэмээн хяруул"
+        },
+        {
+          "en": "Albatross",
+          "mn": "Альбатрос"
+        },
+        {
+          "en": "Peregrine falcon",
+          "mn": "Ительгэ шонхор"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "A diving peregrine falcon can exceed 300 km/h. Special bony cones in its nostrils help it breathe at such speeds.",
+        "mn": "Шумбаж буй ительгэ 300 км/ц-аас давж чаддаг. Хамрын нүхэн дэх тусгай ясан товгор нь ийм хурдтай үед амьсгалахад тусалдаг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.culture",
+      "key": "pubquiz.culture.a21",
+      "difficulty": 1,
+      "prompt": {
+        "en": "John, Paul, George and Ringo were the members of which band?",
+        "mn": "Жон, Пол, Жорж, Ринго нар аль хамтлагийн гишүүд байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "The Beatles",
+          "mn": "The Beatles"
+        },
+        {
+          "en": "The Rolling Stones",
+          "mn": "The Rolling Stones"
+        },
+        {
+          "en": "Queen",
+          "mn": "Queen"
+        },
+        {
+          "en": "The Who",
+          "mn": "The Who"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Beatles formed in Liverpool and are the best-selling music act of all time. Ringo Starr replaced their earlier drummer Pete Best in 1962.",
+        "mn": "The Beatles Ливерпүүлд байгуулагдсан бөгөөд бүх цаг үеийн хамгийн их борлуулалттай уран бүтээлч. Ринго Старр 1962 онд өмнөх бөмбөрчин Пит Бестийг орлосон."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.culture",
+      "key": "pubquiz.culture.a23",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In chess, which piece can only move diagonally?",
+        "mn": "Шатарт зөвхөн ташуу нүүдэг хүү аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Rook",
+          "mn": "Тэрэг"
+        },
+        {
+          "en": "Knight",
+          "mn": "Морь"
+        },
+        {
+          "en": "Queen",
+          "mn": "Бэрс"
+        },
+        {
+          "en": "Bishop",
+          "mn": "Тэмээ"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "A bishop always stays on squares of one colour for the whole game. Each player starts with one light-squared and one dark-squared bishop.",
+        "mn": "Тэмээ тоглолтын турш үргэлж нэг өнгийн нүдэн дээр үлддэг. Тоглогч бүр цагаан нүдний болон хар нүдний нэг нэг тэмээтэй эхэлдэг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.culture",
+      "key": "pubquiz.culture.a24",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Origami, the art of paper folding, is most associated with which country?",
+        "mn": "Цаас нугалах урлаг оригами аль улстай хамгийн их холбоотой вэ?"
+      },
+      "choices": [
+        {
+          "en": "China",
+          "mn": "Хятад"
+        },
+        {
+          "en": "Japan",
+          "mn": "Япон"
+        },
+        {
+          "en": "Korea",
+          "mn": "Солонгос"
+        },
+        {
+          "en": "Thailand",
+          "mn": "Тайланд"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The word comes from Japanese 'oru' (to fold) and 'kami' (paper). Folding 1,000 paper cranes is said to grant a wish.",
+        "mn": "Энэ үг японы «ору» (нугалах), «ками» (цаас) үгсээс гаралтай. Мянган цаасан тогоруу нугалбал хүсэл биелнэ гэж үздэг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.culture",
+      "key": "pubquiz.culture.a25",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the best-selling album of all time?",
+        "mn": "Бүх цаг үеийн хамгийн их борлогдсон цомог аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Thriller",
+          "mn": "Thriller"
+        },
+        {
+          "en": "Back in Black",
+          "mn": "Back in Black"
+        },
+        {
+          "en": "Abbey Road",
+          "mn": "Abbey Road"
+        },
+        {
+          "en": "The Dark Side of the Moon",
+          "mn": "The Dark Side of the Moon"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Michael Jackson's 1982 album 'Thriller' is estimated to have sold around 70 million copies. Its title-track video is a landmark of music television.",
+        "mn": "Майкл Жексоны 1982 оны «Thriller» цомог 70 орчим сая хувь борлогдсон гэж тооцогддог. Ижил нэртэй дууны клип нь клипний түүхэн дэх чухал үйл явдал."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.culture",
+      "key": "pubquiz.culture.a26",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which composer wrote his Ninth Symphony while almost completely deaf?",
+        "mn": "Аль хөгжмийн зохиолч бараг бүрэн дүлий болсон байхдаа Есдүгээр симфониа бичсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Wolfgang Amadeus Mozart",
+          "mn": "Вольфганг Амадей Моцарт"
+        },
+        {
+          "en": "Johann Sebastian Bach",
+          "mn": "Иоганн Себастьян Бах"
+        },
+        {
+          "en": "Ludwig van Beethoven",
+          "mn": "Людвиг ван Бетховен"
+        },
+        {
+          "en": "Frédéric Chopin",
+          "mn": "Фредерик Шопен"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "At the 1824 premiere Beethoven had to be turned around to see the audience applauding. Its 'Ode to Joy' is now the anthem of the European Union.",
+        "mn": "1824 оны нээлтийн тоглолтод Бетховеныг эргүүлж байж үзэгчдийн алга ташилтыг харуулсан гэдэг. Түүний «Баяр баясгалангийн дуулал» одоо Европын холбооны сүлд дуу."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.culture",
+      "key": "pubquiz.culture.a27",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The famous Running of the Bulls takes place in Pamplona, in which country?",
+        "mn": "Алдарт «бухын уралдаан» Памплона хотод болдог. Энэ аль улс вэ?"
+      },
+      "choices": [
+        {
+          "en": "Spain",
+          "mn": "Испани"
+        },
+        {
+          "en": "Mexico",
+          "mn": "Мексик"
+        },
+        {
+          "en": "Portugal",
+          "mn": "Португал"
+        },
+        {
+          "en": "Italy",
+          "mn": "Итали"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The runs are part of the San Fermín festival held every July. Ernest Hemingway made it world-famous in 'The Sun Also Rises'.",
+        "mn": "Энэ уралдаан жил бүрийн 7-р сард болдог Сан Фермины баярын нэг хэсэг. Эрнест Хемингуэй «Нар ч мандана» романаараа үүнийг дэлхийд алдаршуулсан."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.culture",
+      "key": "pubquiz.culture.a28",
+      "difficulty": 2,
+      "prompt": {
+        "en": "How many strings does a standard violin have?",
+        "mn": "Стандарт хийл хэдэн утастай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Five",
+          "mn": "Тав"
+        },
+        {
+          "en": "Four",
+          "mn": "Дөрөв"
+        },
+        {
+          "en": "Six",
+          "mn": "Зургаа"
+        },
+        {
+          "en": "Three",
+          "mn": "Гурав"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "A violin has four strings tuned G, D, A and E. Stradivari violins from the 1700s can sell for millions of dollars.",
+        "mn": "Хийл G, D, A, E гэсэн дөрвөн утастай. 1700-аад оны Страдивари хийл сая сая доллараар зарагддаг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.culture",
+      "key": "pubquiz.culture.a210",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The street names on the original US Monopoly board come from which city?",
+        "mn": "АНУ-ын анхны «Монополи» тоглоомын самбар дээрх гудамжны нэрс аль хотынх вэ?"
+      },
+      "choices": [
+        {
+          "en": "New York",
+          "mn": "Нью-Йорк"
+        },
+        {
+          "en": "Chicago",
+          "mn": "Чикаго"
+        },
+        {
+          "en": "Boston",
+          "mn": "Бостон"
+        },
+        {
+          "en": "Atlantic City",
+          "mn": "Атлантик Сити"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Monopoly's Boardwalk and Park Place are real streets in Atlantic City, New Jersey. The game grew out of Lizzie Magie's 1904 'Landlord's Game', which criticised monopolies.",
+        "mn": "«Монополи»-гийн Boardwalk, Park Place нь Нью-Жерси мужийн Атлантик Сити хотын жинхэнэ гудамжууд. Энэ тоглоом Лиззи Мэгигийн монополийг шүүмжилсэн 1904 оны «Газрын эзний тоглоом»-оос үүссэн."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brainteaser",
+      "key": "pubquiz.brainteaser.a21",
+      "difficulty": 1,
+      "prompt": {
+        "en": "How many times can you subtract 10 from 100?",
+        "mn": "100-аас 10-ыг хэдэн удаа хасаж болох вэ?"
+      },
+      "choices": [
+        {
+          "en": "10 times",
+          "mn": "10 удаа"
+        },
+        {
+          "en": "9 times",
+          "mn": "9 удаа"
+        },
+        {
+          "en": "Once",
+          "mn": "Нэг удаа"
+        },
+        {
+          "en": "Infinitely",
+          "mn": "Хязгааргүй"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Only once — after the first subtraction you are no longer subtracting from 100 but from 90. Classic riddles often hide the trick in the wording.",
+        "mn": "Ганцхан удаа — эхний хасалтын дараа та 100-аас биш, 90-ээс хасаж байгаа. Сонгодог оньсогууд заль мэхээ ихэвчлэн үг хэллэгтээ нуудаг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brainteaser",
+      "key": "pubquiz.brainteaser.a22",
+      "difficulty": 1,
+      "prompt": {
+        "en": "A farmer has 17 sheep. All but 9 run away. How many are left?",
+        "mn": "Малчин 17 хоньтой. 9-өөс бусад нь бүгд зугтжээ. Хэдэн хонь үлдсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "9",
+          "mn": "9"
+        },
+        {
+          "en": "8",
+          "mn": "8"
+        },
+        {
+          "en": "17",
+          "mn": "17"
+        },
+        {
+          "en": "0",
+          "mn": "0"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "'All but 9' means 9 stayed behind. Many people subtract 17 − 9 = 8 without reading carefully.",
+        "mn": "«9-өөс бусад нь» гэдэг нь 9 нь үлдсэн гэсэн үг. Олон хүн анхааралгүй уншаад 17 − 9 = 8 гэж хасдаг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brainteaser",
+      "key": "pubquiz.brainteaser.a23",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In a race you overtake the runner in second place. What place are you in now?",
+        "mn": "Уралдаанд та хоёрдугаар байрт яваа гүйгчийг гүйцэж түрүүлэв. Одоо та хэддүгээр байрт байна вэ?"
+      },
+      "choices": [
+        {
+          "en": "First",
+          "mn": "Нэгдүгээр"
+        },
+        {
+          "en": "Third",
+          "mn": "Гуравдугаар"
+        },
+        {
+          "en": "It depends",
+          "mn": "Нөхцөлөөс шалтгаална"
+        },
+        {
+          "en": "Second",
+          "mn": "Хоёрдугаар"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "You take the place of the person you passed, so you are now second. To be first you would have to overtake the leader.",
+        "mn": "Та гүйцэж түрүүлсэн хүнийхээ байрыг эзэлсэн тул хоёрдугаар байрт байна. Нэгдүгээр болохын тулд тэргүүлэгчийг гүйцэх ёстой."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brainteaser",
+      "key": "pubquiz.brainteaser.a24",
+      "difficulty": 2,
+      "prompt": {
+        "en": "A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much is the ball?",
+        "mn": "Цохиур, бөмбөг хоёр нийлээд 1.10 доллар. Цохиур бөмбөгнөөс 1.00 доллараар үнэтэй. Бөмбөг ямар үнэтэй вэ?"
+      },
+      "choices": [
+        {
+          "en": "10 cents",
+          "mn": "10 цент"
+        },
+        {
+          "en": "5 cents",
+          "mn": "5 цент"
+        },
+        {
+          "en": "1 cent",
+          "mn": "1 цент"
+        },
+        {
+          "en": "15 cents",
+          "mn": "15 цент"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "If the ball is 5¢ the bat is $1.05, totalling $1.10. Most people's quick answer is 10¢, which would make the total $1.20.",
+        "mn": "Бөмбөг 5 цент бол цохиур 1.05 доллар болж нийт 1.10 болно. Ихэнх хүн шууд 10 цент гэж хариулдаг ч тэгвэл нийт 1.20 болно."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brainteaser",
+      "key": "pubquiz.brainteaser.a25",
+      "difficulty": 2,
+      "prompt": {
+        "en": "How many months of the year have 28 days?",
+        "mn": "Жилийн хэдэн сар 28 хоногтой вэ?"
+      },
+      "choices": [
+        {
+          "en": "All 12",
+          "mn": "Бүгд буюу 12"
+        },
+        {
+          "en": "1",
+          "mn": "1"
+        },
+        {
+          "en": "2",
+          "mn": "2"
+        },
+        {
+          "en": "6",
+          "mn": "6"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Every month has at least 28 days, so all 12 do. February is just the only one with no more than that (except in leap years).",
+        "mn": "Сар бүр дор хаяж 28 хоногтой тул 12 сар бүгд 28 хоногтой. Зүгээр л 2-р сар (өндөр жилээс бусад үед) 28-аас илүү хоноггүй цорын ганц сар."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brainteaser",
+      "key": "pubquiz.brainteaser.a26",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Mary's father has five daughters: Nana, Nene, Nini and Nono. What is the fifth daughter's name?",
+        "mn": "Мэригийн аав таван охинтой: Нана, Нэнэ, Нини, Ноно. Тав дахь охины нэр юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Nunu",
+          "mn": "Нүнү"
+        },
+        {
+          "en": "Nyny",
+          "mn": "Нэни"
+        },
+        {
+          "en": "Nona",
+          "mn": "Нона"
+        },
+        {
+          "en": "Mary",
+          "mn": "Мэри"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The question starts with 'Mary's father', so Mary is the fifth daughter. The pattern of names is a deliberate distraction.",
+        "mn": "Асуулт «Мэригийн аав» гэж эхэлж байгаа тул тав дахь охин нь Мэри. Нэрсийн дараалал бол санаатайгаар төөрөгдүүлэх гэсэн хэрэг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brainteaser",
+      "key": "pubquiz.brainteaser.a27",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What gets wetter the more it dries?",
+        "mn": "Хатаах тусам өөрөө улам нордог зүйл юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "A sponge",
+          "mn": "Хөвөн"
+        },
+        {
+          "en": "Rain",
+          "mn": "Бороо"
+        },
+        {
+          "en": "A towel",
+          "mn": "Алчуур"
+        },
+        {
+          "en": "A puddle",
+          "mn": "Шалбааг"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "A towel gets wetter the more things it dries. This riddle plays on two meanings of 'dry': to become dry and to make something dry.",
+        "mn": "Алчуур юм хатаах тусам өөрөө улам нордог. Энэ оньсого «хатах» ба «хатаах» гэсэн хоёр утгаар тоглосон."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brainteaser",
+      "key": "pubquiz.brainteaser.a28",
+      "difficulty": 3,
+      "prompt": {
+        "en": "If 5 machines take 5 minutes to make 5 widgets, how long would 100 machines take to make 100 widgets?",
+        "mn": "5 машин 5 минутад 5 эд анги хийдэг бол 100 машин 100 эд анги хийхэд хэр хугацаа зарцуулах вэ?"
+      },
+      "choices": [
+        {
+          "en": "100 minutes",
+          "mn": "100 минут"
+        },
+        {
+          "en": "5 minutes",
+          "mn": "5 минут"
+        },
+        {
+          "en": "20 minutes",
+          "mn": "20 минут"
+        },
+        {
+          "en": "1 minute",
+          "mn": "1 минут"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Each machine makes one widget in 5 minutes, so 100 machines make 100 widgets in the same 5 minutes. The tempting answer, 100, comes from matching the numbers.",
+        "mn": "Машин бүр 5 минутад нэг эд анги хийдэг тул 100 машин 100 эд ангийг мөн 5 минутад хийнэ. Татагдмаар «100» гэсэн хариулт нь тоонуудыг тааруулах гэснээс гардаг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brainteaser",
+      "key": "pubquiz.brainteaser.a29",
+      "difficulty": 3,
+      "prompt": {
+        "en": "A patch of lily pads doubles in size every day and covers the whole lake on day 48. On which day did it cover half the lake?",
+        "mn": "Нуур дахь бадамлянхуа өдөр бүр хоёр дахин ихэсч, 48 дахь өдөр бүх нуурыг бүрхжээ. Нуурын хагасыг хэд дэх өдөр бүрхсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Day 47",
+          "mn": "47 дахь өдөр"
+        },
+        {
+          "en": "Day 24",
+          "mn": "24 дэх өдөр"
+        },
+        {
+          "en": "Day 46",
+          "mn": "46 дахь өдөр"
+        },
+        {
+          "en": "Day 12",
+          "mn": "12 дахь өдөр"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Since it doubles daily, it was half the size one day before it was full. This shows how exponential growth looks slow until the very end.",
+        "mn": "Өдөр бүр хоёр дахин ихэсдэг тул бүрэн бүрхэхээсээ нэг өдрийн өмнө хагасыг бүрхсэн байна. Экспоненциал өсөлт эцсийн мөч хүртэл удаан мэт санагддагийг харуулдаг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brainteaser",
+      "key": "pubquiz.brainteaser.a210",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What comes next: 1, 1, 2, 3, 5, 8, …?",
+        "mn": "Дараагийн тоо юу вэ: 1, 1, 2, 3, 5, 8, …?"
+      },
+      "choices": [
+        {
+          "en": "11",
+          "mn": "11"
+        },
+        {
+          "en": "13",
+          "mn": "13"
+        },
+        {
+          "en": "12",
+          "mn": "12"
+        },
+        {
+          "en": "16",
+          "mn": "16"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Each number is the sum of the two before it: 5 + 8 = 13. This is the Fibonacci sequence, named after a medieval Italian mathematician.",
+        "mn": "Тоо бүр өмнөх хоёр тооны нийлбэр: 5 + 8 = 13. Үүнийг дундад зууны Италийн математикчийн нэрээр Фибоначчийн дараалал гэдэг."
+      }
+    }
+  ]
+}

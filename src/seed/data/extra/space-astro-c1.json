@@ -1,0 +1,4493 @@
+{
+  "lessons": [],
+  "questions": [
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.overview",
+      "key": "space.overview.c11",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which planet is nicknamed the “Red Planet”?",
+        "mn": "Аль гарагийг «Улаан гараг» гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Mars",
+          "mn": "Ангараг"
+        },
+        {
+          "en": "Jupiter",
+          "mn": "Бархасбадь"
+        },
+        {
+          "en": "Venus",
+          "mn": "Сугар"
+        },
+        {
+          "en": "Mercury",
+          "mn": "Буд"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Mars looks red because its dust is rich in iron oxide — essentially rust. Its two small moons are named Phobos and Deimos, “fear” and “dread”.",
+        "mn": "Ангарагийн тоос төмрийн исэл буюу нэг ёсондоо зэвээр баялаг тул улаан харагддаг. Түүний хоёр жижиг дагуул Фобос, Деймос нь «айдас», «аймшиг» гэсэн утгатай."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.overview",
+      "key": "space.overview.c12",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which planet is best known for its bright, wide rings?",
+        "mn": "Аль гараг тод, өргөн цагирагаараа хамгийн алдартай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Saturn",
+          "mn": "Санчир"
+        },
+        {
+          "en": "Mars",
+          "mn": "Ангараг"
+        },
+        {
+          "en": "Mercury",
+          "mn": "Буд"
+        },
+        {
+          "en": "Venus",
+          "mn": "Сугар"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Saturn’s rings are made of countless chunks of ice and rock, yet they are mostly only about 10 metres thick. Jupiter, Uranus and Neptune have faint rings too.",
+        "mn": "Санчирын цагираг тоо томшгүй олон мөс, чулууны хэлтрээс тогтдог ч ихэнх хэсэгтээ ердөө 10 орчим метр зузаан. Бархасбадь, Тэнгэрийн ван, Далайн ван ч бүдэг цагирагтай."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.overview",
+      "key": "space.overview.c13",
+      "difficulty": 1,
+      "prompt": {
+        "en": "How many of the eight planets are small, rocky worlds?",
+        "mn": "Найман гарагийн хэд нь жижиг, чулуулаг гараг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Four",
+          "mn": "Дөрөв"
+        },
+        {
+          "en": "Two",
+          "mn": "Хоёр"
+        },
+        {
+          "en": "Three",
+          "mn": "Гурав"
+        },
+        {
+          "en": "Six",
+          "mn": "Зургаа"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Mercury, Venus, Earth and Mars are the rocky (terrestrial) planets. The four outer planets are giants made mostly of gas and ice.",
+        "mn": "Буд, Сугар, Дэлхий, Ангараг бол чулуулаг гарагууд. Гадна талын дөрвөн гараг голдуу хий, мөснөөс тогтсон аварга гарагууд."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.overview",
+      "key": "space.overview.c14",
+      "difficulty": 2,
+      "prompt": {
+        "en": "About how old is the solar system?",
+        "mn": "Нарны аймаг ойролцоогоор хэдэн настай вэ?"
+      },
+      "choices": [
+        {
+          "en": "46 million years",
+          "mn": "46 сая жил"
+        },
+        {
+          "en": "4.6 billion years",
+          "mn": "4.6 тэрбум жил"
+        },
+        {
+          "en": "460 million years",
+          "mn": "460 сая жил"
+        },
+        {
+          "en": "46 billion years",
+          "mn": "46 тэрбум жил"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The oldest meteorites date the solar system to about 4.6 billion years. That is roughly a third of the age of the universe (13.8 billion years).",
+        "mn": "Хамгийн эртний солирын чулуунаас Нарны аймгийн насыг 4.6 орчим тэрбум жил гэж тогтоосон. Энэ нь орчлон ертөнцийн насны (13.8 тэрбум жил) гуравны нэг орчим."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.overview",
+      "key": "space.overview.c15",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which planet’s English name does not come from a Greek or Roman god?",
+        "mn": "Аль гарагийн англи нэр Грек, Ромын бурхнаас гаралгүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Mars",
+          "mn": "Ангараг"
+        },
+        {
+          "en": "Neptune",
+          "mn": "Далайн ван"
+        },
+        {
+          "en": "Earth",
+          "mn": "Дэлхий"
+        },
+        {
+          "en": "Mercury",
+          "mn": "Буд"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "“Earth” comes from Old English and Germanic words for ground or soil. All the other planets carry names of Roman (or, for Uranus, Greek) gods.",
+        "mn": "«Earth» нь хуучин англи, герман хэлний «газар, хөрс» гэсэн үгнээс гаралтай. Бусад бүх гараг Ромын (Тэнгэрийн ван бол Грекийн) бурхдын нэртэй."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.overview",
+      "key": "space.overview.c16",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which two planets are called the “ice giants”?",
+        "mn": "Аль хоёр гарагийг «мөсөн аварга» гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Uranus and Neptune",
+          "mn": "Тэнгэрийн ван, Далайн ван"
+        },
+        {
+          "en": "Jupiter and Saturn",
+          "mn": "Бархасбадь, Санчир"
+        },
+        {
+          "en": "Mars and Mercury",
+          "mn": "Ангараг, Буд"
+        },
+        {
+          "en": "Saturn and Uranus",
+          "mn": "Санчир, Тэнгэрийн ван"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Uranus and Neptune contain far more water, ammonia and methane “ices” than Jupiter and Saturn. Methane in their air gives both a blue-green colour.",
+        "mn": "Тэнгэрийн ван, Далайн ван хоёр Бархасбадь, Санчираас хамаагүй их ус, аммиак, метаны «мөс» агуулдаг. Агаар мандлын метан нь тэднийг хөх ногоон өнгөтэй харагдуулдаг."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.overview",
+      "key": "space.overview.c17",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which planet did William Herschel discover with a telescope in 1781?",
+        "mn": "Уильям Гершель 1781 онд дурангаар аль гарагийг нээсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Neptune",
+          "mn": "Далайн ван"
+        },
+        {
+          "en": "Uranus",
+          "mn": "Тэнгэрийн ван"
+        },
+        {
+          "en": "Saturn",
+          "mn": "Санчир"
+        },
+        {
+          "en": "Mars",
+          "mn": "Ангараг"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Uranus was the first planet found with a telescope; Herschel first thought it was a comet. He wanted to name it after King George III.",
+        "mn": "Тэнгэрийн ван бол дурангаар нээсэн анхны гараг бөгөөд Гершель эхэндээ түүнийг сүүлт од гэж бодсон. Тэр гарагийг Английн хаан III Жоржийн нэрээр нэрлэхийг хүсч байжээ."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.overview",
+      "key": "space.overview.c18",
+      "difficulty": 3,
+      "prompt": {
+        "en": "What is the leading idea of how the solar system formed?",
+        "mn": "Нарны аймаг хэрхэн үүссэн тухай гол онол юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "The Sun split into pieces",
+          "mn": "Нар хэсэг хэсгээр хуваагдсан"
+        },
+        {
+          "en": "Two stars collided head-on",
+          "mn": "Хоёр од мөргөлдсөн"
+        },
+        {
+          "en": "Planets drifted in from outside",
+          "mn": "Гарагууд гаднаас ирсэн"
+        },
+        {
+          "en": "A spinning cloud of gas collapsed",
+          "mn": "Эргэлдэх хийн үүл агшсан"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "In the nebular hypothesis, a cloud of gas and dust collapsed, forming the Sun at its centre and a flat disc that built the planets. That is why the planets orbit in nearly the same plane.",
+        "mn": "Мананцарын онолоор хий, тоосны үүл агшиж, төвдөө Нарыг, эргэн тойронд нь гарагууд бий болгосон хавтгай дискийг үүсгэжээ. Тийм ч учраас гарагууд бараг нэг хавтгайд тойрдог."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.sizes",
+      "key": "space.sizes.c11",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which is the largest of the four rocky planets?",
+        "mn": "Дөрвөн чулуулаг гарагийн хамгийн том нь аль вэ?"
+      },
+      "choices": [
+        {
+          "en": "Venus",
+          "mn": "Сугар"
+        },
+        {
+          "en": "Mars",
+          "mn": "Ангараг"
+        },
+        {
+          "en": "Earth",
+          "mn": "Дэлхий"
+        },
+        {
+          "en": "Mercury",
+          "mn": "Буд"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Earth is the biggest and densest of the rocky planets, just ahead of Venus. It is about 12,742 km across.",
+        "mn": "Дэлхий бол чулуулаг гарагуудын хамгийн том, хамгийн нягт нь бөгөөд Сугараас бага зэрэг илүү. Голч нь 12,742 орчим км."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.sizes",
+      "key": "space.sizes.c12",
+      "difficulty": 1,
+      "prompt": {
+        "en": "About how wide is Mars compared with Earth?",
+        "mn": "Ангарагийн голч Дэлхийнхтэй харьцуулахад ойролцоогоор ямар вэ?"
+      },
+      "choices": [
+        {
+          "en": "About the same",
+          "mn": "Бараг адилхан"
+        },
+        {
+          "en": "Twice as wide",
+          "mn": "Хоёр дахин том"
+        },
+        {
+          "en": "One tenth as wide",
+          "mn": "Аравны нэг"
+        },
+        {
+          "en": "About half as wide",
+          "mn": "Хагас орчим"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Mars is about 6,779 km across — roughly half of Earth’s width. Its surface area is about the same as all of Earth’s dry land.",
+        "mn": "Ангарагийн голч 6,779 орчим км буюу Дэлхийнхийн хагас орчим. Гадаргуугийн талбай нь Дэлхийн хуурай газрын нийт талбайтай бараг тэнцүү."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.sizes",
+      "key": "space.sizes.c13",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Jupiter’s Great Red Spot is a storm wider than which of these?",
+        "mn": "Бархасбадийн Их улаан толбо гэх шуурга дараахын алинаас өргөн бэ?"
+      },
+      "choices": [
+        {
+          "en": "The Sun",
+          "mn": "Нар"
+        },
+        {
+          "en": "Saturn",
+          "mn": "Санчир"
+        },
+        {
+          "en": "Planet Earth",
+          "mn": "Дэлхий гараг"
+        },
+        {
+          "en": "Jupiter itself",
+          "mn": "Бархасбадь өөрөө"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Great Red Spot is a giant storm wider than Earth that has been watched for at least 150 years, probably far longer. It has been shrinking in recent decades.",
+        "mn": "Их улаан толбо бол Дэлхийгээс өргөн аварга шуурга бөгөөд дор хаяж 150 жил ажиглагдаж байна. Сүүлийн хэдэн арван жилд аажмаар жижгэрч байгаа."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.sizes",
+      "key": "space.sizes.c14",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which is bigger: Pluto or Earth’s Moon?",
+        "mn": "Аль нь том бэ: Плутон уу, Сар уу?"
+      },
+      "choices": [
+        {
+          "en": "The Moon",
+          "mn": "Сар"
+        },
+        {
+          "en": "Pluto",
+          "mn": "Плутон"
+        },
+        {
+          "en": "Exactly the same",
+          "mn": "Яг адилхан"
+        },
+        {
+          "en": "Pluto, by twice",
+          "mn": "Плутон, хоёр дахин"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Our Moon is about 3,474 km across, while Pluto is only about 2,377 km. Pluto is even smaller than the United States is wide.",
+        "mn": "Сарны голч 3,474 орчим км, харин Плутоных ердөө 2,377 орчим км. Плутон АНУ-ын өргөнөөс ч жижиг."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.sizes",
+      "key": "space.sizes.c15",
+      "difficulty": 2,
+      "prompt": {
+        "en": "About how many times wider is the Sun than Earth?",
+        "mn": "Нар Дэлхийгээс ойролцоогоор хэд дахин өргөн бэ?"
+      },
+      "choices": [
+        {
+          "en": "About 109 times",
+          "mn": "109 орчим дахин"
+        },
+        {
+          "en": "About 10 times",
+          "mn": "10 орчим дахин"
+        },
+        {
+          "en": "About 1,000 times",
+          "mn": "1,000 орчим дахин"
+        },
+        {
+          "en": "About 25 times",
+          "mn": "25 орчим дахин"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Sun is about 1.39 million km across, roughly 109 Earths side by side. By volume it could hold about 1.3 million Earths.",
+        "mn": "Нарны голч 1.39 орчим сая км буюу 109 Дэлхийг дараалуулан жагсаахтай тэнцэнэ. Эзлэхүүнээрээ 1.3 орчим сая Дэлхий багтана."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.sizes",
+      "key": "space.sizes.c16",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which planet’s average density is lower than water?",
+        "mn": "Аль гарагийн дундаж нягт уснаас бага вэ?"
+      },
+      "choices": [
+        {
+          "en": "Saturn",
+          "mn": "Санчир"
+        },
+        {
+          "en": "Earth",
+          "mn": "Дэлхий"
+        },
+        {
+          "en": "Mercury",
+          "mn": "Буд"
+        },
+        {
+          "en": "Neptune",
+          "mn": "Далайн ван"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Saturn’s average density is about 0.69 g/cm³, less than water’s 1 g/cm³. In a bathtub big enough, it would float.",
+        "mn": "Санчирын дундаж нягт 0.69 орчим г/см³ бөгөөд усныхаас (1 г/см³) бага. Хангалттай том ванн байсан бол хөвөх байлаа."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.sizes",
+      "key": "space.sizes.c17",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Uranus is slightly wider than Neptune. Which is more massive?",
+        "mn": "Тэнгэрийн ван Далайн вангаас бага зэрэг өргөн. Аль нь илүү масстай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Neptune",
+          "mn": "Далайн ван"
+        },
+        {
+          "en": "Uranus",
+          "mn": "Тэнгэрийн ван"
+        },
+        {
+          "en": "They are equal",
+          "mn": "Тэнцүү"
+        },
+        {
+          "en": "Neither has mass",
+          "mn": "Аль нь ч масс байхгүй"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Neptune is about 17 Earth masses against Uranus’s 14.5, so it is smaller but denser. Its stronger gravity squeezes it more tightly.",
+        "mn": "Далайн ван Дэлхийгээс 17 орчим, Тэнгэрийн ван 14.5 орчим дахин масстай тул Далайн ван жижиг ч илүү нягт. Хүчтэй таталцал нь түүнийг илүү шахдаг."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.sizes",
+      "key": "space.sizes.c18",
+      "difficulty": 3,
+      "prompt": {
+        "en": "How does Jupiter’s mass compare with all the other planets combined?",
+        "mn": "Бархасбадийн масс бусад бүх гарагийн нийлбэртэй харьцуулахад ямар вэ?"
+      },
+      "choices": [
+        {
+          "en": "About half as much",
+          "mn": "Хагас орчим"
+        },
+        {
+          "en": "More than twice as much",
+          "mn": "Хоёр дахин илүү"
+        },
+        {
+          "en": "Exactly equal",
+          "mn": "Яг тэнцүү"
+        },
+        {
+          "en": "About one tenth",
+          "mn": "Аравны нэг орчим"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Jupiter is about 318 Earth masses — over twice the mass of all other planets put together. Even so, it is only about a thousandth of the Sun’s mass.",
+        "mn": "Бархасбадь Дэлхийгээс 318 орчим дахин масстай бөгөөд бусад бүх гарагийг нийлүүлснээс хоёр дахин илүү. Гэсэн ч Нарны массын мянганы нэг орчим л болно."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.distances",
+      "key": "space.distances.c11",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which star is closest to Earth?",
+        "mn": "Дэлхийд хамгийн ойр од аль вэ?"
+      },
+      "choices": [
+        {
+          "en": "Sirius",
+          "mn": "Сириус"
+        },
+        {
+          "en": "Polaris",
+          "mn": "Алтан гадас"
+        },
+        {
+          "en": "Betelgeuse",
+          "mn": "Бетельгейзе"
+        },
+        {
+          "en": "The Sun",
+          "mn": "Нар"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Sun is a star, and at 150 million km it is by far the closest one. The next nearest star is about 270,000 times farther away.",
+        "mn": "Нар бол од бөгөөд 150 сая км зайтай тул хамгийн ойр од нь. Дараагийн хамгийн ойр од үүнээс 270,000 орчим дахин хол."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.distances",
+      "key": "space.distances.c12",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What does a light-year measure?",
+        "mn": "Гэрлийн жил юуг хэмждэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Time",
+          "mn": "Хугацаа"
+        },
+        {
+          "en": "Brightness",
+          "mn": "Гэрэлтэлт"
+        },
+        {
+          "en": "Distance",
+          "mn": "Зай"
+        },
+        {
+          "en": "Speed",
+          "mn": "Хурд"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Despite the name, a light-year is a distance: how far light travels in a year, about 9.46 trillion km. It is handy for the huge gaps between stars.",
+        "mn": "Нэр нь хугацаа мэт сонсогдох ч гэрлийн жил бол гэрлийн нэг жилд туулах зай буюу 9.46 орчим их наяд км. Одод хоорондын асар хол зайг хэмжихэд тохиромжтой."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.distances",
+      "key": "space.distances.c13",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which is the nearest large galaxy to our Milky Way?",
+        "mn": "Манай Сүүн замд хамгийн ойр том галактик аль вэ?"
+      },
+      "choices": [
+        {
+          "en": "Sombrero",
+          "mn": "Сомбреро"
+        },
+        {
+          "en": "Whirlpool",
+          "mn": "Эргүүлэг"
+        },
+        {
+          "en": "Pinwheel",
+          "mn": "Сэнс"
+        },
+        {
+          "en": "Andromeda",
+          "mn": "Андромеда"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Andromeda Galaxy is about 2.5 million light-years away and can be seen with the naked eye on dark nights. It is heading toward us and should merge with the Milky Way in a few billion years.",
+        "mn": "Андромеда галактик 2.5 орчим сая гэрлийн жилийн зайтай бөгөөд харанхуй шөнө нүцгэн нүдээр харагддаг. Бидэн рүү ойртож байгаа тул хэдэн тэрбум жилийн дараа Сүүн замтай нийлнэ."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.distances",
+      "key": "space.distances.c14",
+      "difficulty": 2,
+      "prompt": {
+        "en": "After the Sun, which star is nearest to us?",
+        "mn": "Нарны дараа бидэнд хамгийн ойр од аль вэ?"
+      },
+      "choices": [
+        {
+          "en": "Sirius",
+          "mn": "Сириус"
+        },
+        {
+          "en": "Vega",
+          "mn": "Вега"
+        },
+        {
+          "en": "Proxima Centauri",
+          "mn": "Проксима Кентавр"
+        },
+        {
+          "en": "Polaris",
+          "mn": "Алтан гадас"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Proxima Centauri is a small red dwarf, too faint to see without a telescope. It belongs to the Alpha Centauri system and has at least one Earth-sized planet.",
+        "mn": "Проксима Кентавр бол дурангүйгээр харагдахааргүй бүдэг жижиг улаан одой од. Альфа Кентаврын системд багтдаг бөгөөд Дэлхийн хэмжээний ядаж нэг гарагтай."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.distances",
+      "key": "space.distances.c15",
+      "difficulty": 2,
+      "prompt": {
+        "en": "About how long does light from the Moon take to reach Earth?",
+        "mn": "Сарнаас гэрэл Дэлхийд хүрэхэд ойролцоогоор хэр удаан хугацаа шаардах вэ?"
+      },
+      "choices": [
+        {
+          "en": "About 8 minutes",
+          "mn": "8 орчим минут"
+        },
+        {
+          "en": "About 1 hour",
+          "mn": "1 орчим цаг"
+        },
+        {
+          "en": "About 1.3 seconds",
+          "mn": "1.3 орчим секунд"
+        },
+        {
+          "en": "About 1 day",
+          "mn": "1 орчим хоног"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Moon is about 384,000 km away, so light covers it in about 1.3 seconds. That is why radio calls with Apollo astronauts had a noticeable delay.",
+        "mn": "Сар 384,000 орчим км зайтай тул гэрэл 1.3 орчим секундэд хүрдэг. Тиймээс «Аполлон»-ы сансрын нисэгчидтэй радиогоор ярихад мэдэгдэхүйц саатал гардаг байв."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.distances",
+      "key": "space.distances.c16",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Roughly how wide is our Milky Way galaxy?",
+        "mn": "Манай Сүүн зам галактик ойролцоогоор ямар өргөн бэ?"
+      },
+      "choices": [
+        {
+          "en": "About 100,000 light-years",
+          "mn": "100,000 орчим гэрлийн жил"
+        },
+        {
+          "en": "About 100 light-years",
+          "mn": "100 орчим гэрлийн жил"
+        },
+        {
+          "en": "About 1,000 light-years",
+          "mn": "1,000 орчим гэрлийн жил"
+        },
+        {
+          "en": "About 10 billion light-years",
+          "mn": "10 орчим тэрбум гэрлийн жил"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Milky Way’s disc is about 100,000 light-years across and holds roughly 100–400 billion stars. The Sun sits about 26,000 light-years from the centre.",
+        "mn": "Сүүн замын диск 100,000 орчим гэрлийн жил өргөн бөгөөд 100–400 орчим тэрбум одтой. Нар төвөөс 26,000 орчим гэрлийн жилийн зайд оршдог."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.distances",
+      "key": "space.distances.c17",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Averaged over time, which planet is closest to Earth?",
+        "mn": "Удаан хугацааны дунджаар аль гараг Дэлхийд хамгийн ойр байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Mercury",
+          "mn": "Буд"
+        },
+        {
+          "en": "Venus",
+          "mn": "Сугар"
+        },
+        {
+          "en": "Mars",
+          "mn": "Ангараг"
+        },
+        {
+          "en": "Jupiter",
+          "mn": "Бархасбадь"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Venus comes closest at times, but it spends long stretches on the far side of the Sun. Mercury never strays far from the Sun, so on average it is nearest to Earth — and to every other planet.",
+        "mn": "Сугар заримдаа хамгийн ойртдог ч удаан хугацаагаар Нарны цаад талд байдаг. Буд Нараас хэзээ ч хол холддоггүй тул дунджаар Дэлхийд, бас бусад бүх гарагт хамгийн ойр байдаг."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.distances",
+      "key": "space.distances.c18",
+      "difficulty": 3,
+      "prompt": {
+        "en": "About how far away is the nearest star after the Sun?",
+        "mn": "Нарны дараах хамгийн ойр од ойролцоогоор хэр хол вэ?"
+      },
+      "choices": [
+        {
+          "en": "About 4.2 light-minutes",
+          "mn": "4.2 орчим гэрлийн минут"
+        },
+        {
+          "en": "About 4.2 light-years",
+          "mn": "4.2 орчим гэрлийн жил"
+        },
+        {
+          "en": "About 42 light-years",
+          "mn": "42 орчим гэрлийн жил"
+        },
+        {
+          "en": "About 420 light-years",
+          "mn": "420 орчим гэрлийн жил"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Proxima Centauri is about 4.2 light-years, or 40 trillion km, away. Voyager 1 would need over 70,000 years to get there.",
+        "mn": "Проксима Кентавр 4.2 орчим гэрлийн жил буюу 40 орчим их наяд км зайтай. «Вояжер-1» тэнд хүрэхэд 70,000 гаруй жил шаардлагатай."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.sun",
+      "key": "space.sun.c11",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which gas makes up most of the Sun?",
+        "mn": "Нар голдуу ямар хийнээс тогтдог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Oxygen",
+          "mn": "Хүчилтөрөгч"
+        },
+        {
+          "en": "Hydrogen",
+          "mn": "Устөрөгч"
+        },
+        {
+          "en": "Carbon dioxide",
+          "mn": "Нүүрсхүчлийн хий"
+        },
+        {
+          "en": "Nitrogen",
+          "mn": "Азот"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "By mass the Sun is about 73% hydrogen and 25% helium, with only traces of everything else. It turns about 600 million tonnes of hydrogen into helium every second.",
+        "mn": "Нарны массын 73 орчим хувь нь устөрөгч, 25 орчим хувь нь гели бөгөөд бусад элемент маш бага. Секунд тутам 600 орчим сая тонн устөрөгчийг гели болгон хувиргадаг."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.sun",
+      "key": "space.sun.c12",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which glowing lights near the poles are caused by particles from the Sun?",
+        "mn": "Нараас ирэх бөөмсөөс болж туйлын ойролцоо ямар гэрэл тусдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Auroras",
+          "mn": "Туйлын туяа"
+        },
+        {
+          "en": "Rainbows",
+          "mn": "Солонго"
+        },
+        {
+          "en": "Shooting stars",
+          "mn": "Харвасан од"
+        },
+        {
+          "en": "Lightning",
+          "mn": "Аянга"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "When charged particles from the Sun hit Earth’s magnetic field, they make the upper air glow green, red and purple. In the north these are called the northern lights.",
+        "mn": "Нараас ирсэн цэнэгтэй бөөмс Дэлхийн соронзон оронд тулж, агаар мандлын дээд давхаргыг ногоон, улаан, ягаан өнгөөр гэрэлтүүлдэг. Хойд хагас бөмбөрцөгт үүнийг хойд туйлын туяа гэдэг."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.sun",
+      "key": "space.sun.c13",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the “solar wind”?",
+        "mn": "«Нарны салхи» гэж юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Storms on the Sun’s surface",
+          "mn": "Нарны гадарга дээрх шуурга"
+        },
+        {
+          "en": "Hot air on Earth",
+          "mn": "Дэлхий дээрх халуун агаар"
+        },
+        {
+          "en": "A stream of charged particles",
+          "mn": "Цэнэгтэй бөөмсийн урсгал"
+        },
+        {
+          "en": "Light from sunspots",
+          "mn": "Нарны толбоны гэрэл"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The solar wind is a flow of charged particles blowing out from the Sun at hundreds of km per second. It fills the whole solar system and pushes comet tails away from the Sun.",
+        "mn": "Нарны салхи бол Нараас секундэд хэдэн зуун км хурдтай урсах цэнэгтэй бөөмсийн урсгал. Тэр бүх Нарны аймгийг дүүргэж, сүүлт одны сүүлийг Нараас холдуулан түлхдэг."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.sun",
+      "key": "space.sun.c14",
+      "difficulty": 2,
+      "prompt": {
+        "en": "About how hot is the Sun’s core?",
+        "mn": "Нарны цөм ойролцоогоор хэр халуун бэ?"
+      },
+      "choices": [
+        {
+          "en": "About 5,500 °C",
+          "mn": "5,500 орчим °C"
+        },
+        {
+          "en": "About 150,000 °C",
+          "mn": "150,000 орчим °C"
+        },
+        {
+          "en": "About 15 million °C",
+          "mn": "15 орчим сая °C"
+        },
+        {
+          "en": "About 1 billion °C",
+          "mn": "1 орчим тэрбум °C"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The core reaches about 15 million °C, hot and dense enough for hydrogen nuclei to fuse. The visible surface is “only” about 5,500 °C.",
+        "mn": "Нарны цөм 15 орчим сая °C хүрдэг бөгөөд устөрөгчийн цөмүүд нийлэхэд хангалттай халуун, нягт. Харагдах гадарга нь «ердөө» 5,500 орчим °C."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.sun",
+      "key": "space.sun.c15",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Why do sunspots look dark?",
+        "mn": "Нарны толбо яагаад бараан харагддаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "They are holes into space",
+          "mn": "Сансар руу нээгдсэн нүх"
+        },
+        {
+          "en": "Planets cast shadows there",
+          "mn": "Гарагийн сүүдэр тусдаг"
+        },
+        {
+          "en": "They are cooler than their surroundings",
+          "mn": "Эргэн тойрноосоо хүйтэн"
+        },
+        {
+          "en": "They are made of soot",
+          "mn": "Тортогоос тогтдог"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Sunspots are regions where strong magnetic fields hold back heat, leaving them about 1,500 °C cooler. On their own they would still shine brighter than a full Moon.",
+        "mn": "Нарны толбо бол хүчтэй соронзон орон дулааныг хаадаг хэсэг тул орчноосоо 1,500 орчим °C хүйтэн. Тусад нь харвал тэргэл сарнаас ч гэрэлтэй байх байсан."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.sun",
+      "key": "space.sun.c16",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which NASA spacecraft became the first to fly through the Sun’s corona?",
+        "mn": "NASA-гийн аль аппарат Нарны титмээр анх нисэн өнгөрсөн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Voyager 2",
+          "mn": "«Вояжер-2»"
+        },
+        {
+          "en": "Juno",
+          "mn": "«Жуно»"
+        },
+        {
+          "en": "Parker Solar Probe",
+          "mn": "«Паркер» нарны зонд"
+        },
+        {
+          "en": "Cassini",
+          "mn": "«Кассини»"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Launched in 2018, Parker Solar Probe “touched the Sun” in 2021. It is also the fastest human-made object ever, reaching about 690,000 km/h.",
+        "mn": "2018 онд хөөрсөн «Паркер» зонд 2021 онд «Нарт хүрсэн». Мөн цагт 690,000 орчим км хурдалсан хүний бүтээсэн хамгийн хурдан биет."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.sun",
+      "key": "space.sun.c17",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which element was discovered in the Sun before it was found on Earth?",
+        "mn": "Аль элементийг Дэлхийгээс өмнө Нараас нээсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Hydrogen",
+          "mn": "Устөрөгч"
+        },
+        {
+          "en": "Neon",
+          "mn": "Неон"
+        },
+        {
+          "en": "Oxygen",
+          "mn": "Хүчилтөрөгч"
+        },
+        {
+          "en": "Helium",
+          "mn": "Гели"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Astronomers spotted an unknown yellow line in sunlight during the 1868 eclipse and named the element after Helios, the Greek Sun god. Helium was found on Earth only in 1895.",
+        "mn": "Одон орон судлаачид 1868 оны хиртэлтийн үеэр нарны гэрлээс үл мэдэгдэх шар зураас олж, элементийг Грекийн нарны бурхан Гелиосын нэрээр нэрлэсэн. Гелийг Дэлхий дээр 1895 онд л олсон."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.sun",
+      "key": "space.sun.c18",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Energy made in the Sun’s core takes how long to reach its surface?",
+        "mn": "Нарны цөмд үүссэн энерги гадаргуудаа хүрэхэд хэр удаан хугацаа шаардах вэ?"
+      },
+      "choices": [
+        {
+          "en": "Over 10,000 years",
+          "mn": "10,000 гаруй жил"
+        },
+        {
+          "en": "About 8 minutes",
+          "mn": "8 орчим минут"
+        },
+        {
+          "en": "About one day",
+          "mn": "Нэг орчим хоног"
+        },
+        {
+          "en": "About one year",
+          "mn": "Нэг орчим жил"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Light is absorbed and re-emitted countless times inside the dense Sun, so estimates run from about 10,000 to 170,000 years. Then it crosses to Earth in just 8 minutes.",
+        "mn": "Нягт Нарны дотор гэрэл тоо томшгүй олон удаа шингэж, дахин цацардаг тул 10,000-аас 170,000 орчим жил шаардана гэж үздэг. Харин дараа нь Дэлхийд ердөө 8 минутад хүрдэг."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.moon",
+      "key": "space.moon.c11",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Who was the first person to walk on the Moon?",
+        "mn": "Саран дээр анх алхсан хүн хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Buzz Aldrin",
+          "mn": "Базз Олдрин"
+        },
+        {
+          "en": "Yuri Gagarin",
+          "mn": "Юрий Гагарин"
+        },
+        {
+          "en": "John Glenn",
+          "mn": "Жон Гленн"
+        },
+        {
+          "en": "Neil Armstrong",
+          "mn": "Нил Армстронг"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Neil Armstrong stepped out of Apollo 11’s lander first, followed about 20 minutes later by Buzz Aldrin. Michael Collins stayed in orbit.",
+        "mn": "Нил Армстронг «Аполлон-11»-ийн буух модулиас анх гарч, 20 орчим минутын дараа Базз Олдрин гарсан. Майкл Коллинз тойрог замд үлджээ."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.moon",
+      "key": "space.moon.c12",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Where does moonlight come from?",
+        "mn": "Сарны гэрэл хаанаас ирдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "The Moon’s own fire",
+          "mn": "Сарны өөрийн гал"
+        },
+        {
+          "en": "Glowing Moon rocks",
+          "mn": "Гэрэлтдэг сарны чулуу"
+        },
+        {
+          "en": "Reflected sunlight",
+          "mn": "Ойсон нарны гэрэл"
+        },
+        {
+          "en": "Reflected Earth lava",
+          "mn": "Дэлхийн лаавын ойлт"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Moon makes no light of its own; it reflects sunlight. Its surface is actually quite dark — about as reflective as worn asphalt.",
+        "mn": "Сар өөрөө гэрэл үүсгэдэггүй, нарны гэрлийг ойлгодог. Гадарга нь үнэндээ нэлээд бараан — хуучирсан асфальттай адил ойлттой."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.moon",
+      "key": "space.moon.c13",
+      "difficulty": 1,
+      "prompt": {
+        "en": "About how strong is the Moon’s gravity compared with Earth’s?",
+        "mn": "Сарны таталцал Дэлхийнхтэй харьцуулахад ойролцоогоор ямар вэ?"
+      },
+      "choices": [
+        {
+          "en": "About the same",
+          "mn": "Бараг адилхан"
+        },
+        {
+          "en": "About twice",
+          "mn": "Хоёр орчим дахин"
+        },
+        {
+          "en": "About one hundredth",
+          "mn": "Зууны нэг орчим"
+        },
+        {
+          "en": "About one sixth",
+          "mn": "Зургааны нэг орчим"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "On the Moon you would weigh about a sixth of your Earth weight, which is why astronauts bounced as they walked. Apollo 14’s Alan Shepard even hit golf balls there.",
+        "mn": "Саран дээр та Дэлхий дээрх жингийнхээ зургааны нэг орчимтой тэнцэнэ, тиймээс сансрын нисэгчид үсэрч алхдаг байв. «Аполлон-14»-ийн Алан Шепард тэнд гольфын бөмбөг хүртэл цохисон."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.moon",
+      "key": "space.moon.c14",
+      "difficulty": 2,
+      "prompt": {
+        "en": "How many people have walked on the Moon?",
+        "mn": "Саран дээр хэдэн хүн алхсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "6",
+          "mn": "6"
+        },
+        {
+          "en": "24",
+          "mn": "24"
+        },
+        {
+          "en": "12",
+          "mn": "12"
+        },
+        {
+          "en": "2",
+          "mn": "2"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Twelve astronauts walked on the Moon during six Apollo landings from 1969 to 1972. All of them were American men.",
+        "mn": "1969–1972 онд «Аполлон»-ы зургаан удаагийн буултаар арван хоёр сансрын нисэгч Саран дээр алхсан. Бүгд Америкийн эрэгтэйчүүд."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.moon",
+      "key": "space.moon.c15",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The Moon’s dark patches are called “maria”. What does the word mean?",
+        "mn": "Сарны бараан толбыг «мариа» гэдэг. Энэ үг юу гэсэн утгатай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Mountains",
+          "mn": "Уулс"
+        },
+        {
+          "en": "Seas",
+          "mn": "Тэнгисүүд"
+        },
+        {
+          "en": "Shadows",
+          "mn": "Сүүдэр"
+        },
+        {
+          "en": "Craters",
+          "mn": "Тогоонууд"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Early astronomers thought the dark plains were seas, so they named them maria, Latin for “seas”. They are actually old lava flows; Apollo 11 landed in the Sea of Tranquillity.",
+        "mn": "Эртний одон орон судлаачид бараан тэгш талыг тэнгис гэж бодоод латинаар «тэнгисүүд» гэсэн утгатай «мариа» хэмээн нэрлэжээ. Үнэндээ эртний лаавын урсгал бөгөөд «Аполлон-11» Амар амгалангийн тэнгист буусан."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.moon",
+      "key": "space.moon.c16",
+      "difficulty": 2,
+      "prompt": {
+        "en": "According to the leading theory, how did the Moon form?",
+        "mn": "Гол онолоор Сар хэрхэн үүссэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "It was captured passing by",
+          "mn": "Хажуугаар өнгөрөхдөө баригдсан"
+        },
+        {
+          "en": "It split off the Sun",
+          "mn": "Нараас салж үүссэн"
+        },
+        {
+          "en": "A Mars-sized body hit Earth",
+          "mn": "Ангараг шиг биет Дэлхийг мөргөсөн"
+        },
+        {
+          "en": "It formed from a comet",
+          "mn": "Сүүлт одноос үүссэн"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "In the giant-impact hypothesis, a Mars-sized body called Theia struck the young Earth about 4.5 billion years ago. Debris from the crash gathered into the Moon.",
+        "mn": "Аварга мөргөлдөөний онолоор 4.5 орчим тэрбум жилийн өмнө Тейа хэмээх Ангараг шиг биет залуу Дэлхийг мөргөжээ. Мөргөлдөөнөөс үлдсэн хог хаягдал нийлж Сарыг үүсгэсэн."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.moon",
+      "key": "space.moon.c17",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Who was the last person to walk on the Moon, in 1972?",
+        "mn": "1972 онд Саран дээр хамгийн сүүлд алхсан хүн хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Neil Armstrong",
+          "mn": "Нил Армстронг"
+        },
+        {
+          "en": "Alan Shepard",
+          "mn": "Алан Шепард"
+        },
+        {
+          "en": "Eugene Cernan",
+          "mn": "Южин Сернан"
+        },
+        {
+          "en": "Michael Collins",
+          "mn": "Майкл Коллинз"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Eugene Cernan of Apollo 17 was the last to climb back into the lander in December 1972. He traced his daughter’s initials in the lunar dust.",
+        "mn": "«Аполлон-17»-гийн Южин Сернан 1972 оны 12-р сард буух модуль руугаа хамгийн сүүлд орсон. Тэр сарны тоосон дээр охиныхоо нэрийн эхний үсгийг зурж үлдээжээ."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.moon",
+      "key": "space.moon.c18",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which country first landed a spacecraft on the Moon’s far side?",
+        "mn": "Аль улс Сарны ар талд анх сансрын аппарат буулгасан бэ?"
+      },
+      "choices": [
+        {
+          "en": "China",
+          "mn": "Хятад"
+        },
+        {
+          "en": "USA",
+          "mn": "АНУ"
+        },
+        {
+          "en": "Russia",
+          "mn": "Орос"
+        },
+        {
+          "en": "India",
+          "mn": "Энэтхэг"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "China’s Chang’e 4 landed on the far side in January 2019 with a small rover. Because the far side never faces Earth, it used a relay satellite to send signals home.",
+        "mn": "Хятадын «Чан Э-4» 2019 оны 1-р сард жижиг ровертой хамт Сарны ар талд буусан. Ар тал Дэлхий рүү хэзээ ч хандахгүй тул дохиогоо дамжуулах хиймэл дагуул ашигласан."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.moons",
+      "key": "space.moons.c11",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Who discovered Jupiter’s four largest moons in 1610?",
+        "mn": "1610 онд Бархасбадийн дөрвөн том дагуулыг хэн нээсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Isaac Newton",
+          "mn": "Исаак Ньютон"
+        },
+        {
+          "en": "Galileo Galilei",
+          "mn": "Галилео Галилей"
+        },
+        {
+          "en": "Nicolaus Copernicus",
+          "mn": "Николай Коперник"
+        },
+        {
+          "en": "Edwin Hubble",
+          "mn": "Эдвин Хаббл"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Io, Europa, Ganymede and Callisto are still called the Galilean moons. Seeing moons circle Jupiter helped show that not everything orbits Earth.",
+        "mn": "Ио, Европа, Ганимед, Каллисто дагуулуудыг одоо ч Галилейн дагуулууд гэдэг. Бархасбадийг тойрох дагуулууд бүх зүйл Дэлхийг тойрдоггүйг харуулахад тусалсан."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.moons",
+      "key": "space.moons.c12",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which two planets have no moons at all?",
+        "mn": "Аль хоёр гараг огт дагуулгүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Mars and Venus",
+          "mn": "Ангараг, Сугар"
+        },
+        {
+          "en": "Mercury and Venus",
+          "mn": "Буд, Сугар"
+        },
+        {
+          "en": "Mercury and Mars",
+          "mn": "Буд, Ангараг"
+        },
+        {
+          "en": "Uranus and Neptune",
+          "mn": "Тэнгэрийн ван, Далайн ван"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Mercury and Venus are the only moonless planets. Being so close to the Sun, any moon they had would likely be pulled away or crash.",
+        "mn": "Буд, Сугар хоёр л дагуулгүй гарагууд. Нарт хэт ойр тул дагуултай байсан ч Нарны таталцалд татагдаж алга болох эсвэл мөргөлдөх магадлалтай."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.moons",
+      "key": "space.moons.c13",
+      "difficulty": 1,
+      "prompt": {
+        "en": "How many moons does Mars have?",
+        "mn": "Ангараг хэдэн дагуултай вэ?"
+      },
+      "choices": [
+        {
+          "en": "None",
+          "mn": "Нэг ч үгүй"
+        },
+        {
+          "en": "Two",
+          "mn": "Хоёр"
+        },
+        {
+          "en": "One",
+          "mn": "Нэг"
+        },
+        {
+          "en": "Twelve",
+          "mn": "Арван хоёр"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Mars has two small, potato-shaped moons, Phobos and Deimos, both found in 1877. They may be captured asteroids.",
+        "mn": "Ангараг 1877 онд нээгдсэн Фобос, Деймос гэсэн төмс шиг хэлбэртэй хоёр жижиг дагуултай. Тэд баригдсан астероид байж магадгүй."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.moons",
+      "key": "space.moons.c14",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the name of Pluto’s largest moon?",
+        "mn": "Плутоны хамгийн том дагуулыг юу гэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Triton",
+          "mn": "Тритон"
+        },
+        {
+          "en": "Titan",
+          "mn": "Титан"
+        },
+        {
+          "en": "Charon",
+          "mn": "Харон"
+        },
+        {
+          "en": "Phobos",
+          "mn": "Фобос"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Charon is about half Pluto’s width, so the pair orbit a point between them. It is named after the ferryman of the dead in Greek myth.",
+        "mn": "Харон Плутоны өргөний хагас орчим тул хоёулаа хоорондох нэг цэгийг тойрдог. Грекийн домгийн үхэгсдийг гатлуулагчийн нэрээр нэрлэгдсэн."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.moons",
+      "key": "space.moons.c15",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Most of Uranus’s moons are named after characters by which writer?",
+        "mn": "Тэнгэрийн вангийн ихэнх дагуулыг аль зохиолчийн баатруудаар нэрлэсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Homer",
+          "mn": "Гомер"
+        },
+        {
+          "en": "William Shakespeare",
+          "mn": "Уильям Шекспир"
+        },
+        {
+          "en": "Charles Dickens",
+          "mn": "Чарльз Диккенс"
+        },
+        {
+          "en": "Jules Verne",
+          "mn": "Жюль Верн"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Moons such as Miranda, Titania, Oberon and Juliet come from Shakespeare’s plays; a few, like Belinda, come from Alexander Pope. This breaks the usual habit of naming moons after myths.",
+        "mn": "Миранда, Титания, Оберон, Жульетта зэрэг дагуулууд Шекспирийн жүжгээс, Белинда зэрэг цөөхөн нь Александр Поупын бүтээлээс нэрээ авсан. Энэ нь дагуулыг домгийн баатраар нэрлэдэг заншлаас өөр."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.moons",
+      "key": "space.moons.c16",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which probe landed on Saturn’s moon Titan in 2005?",
+        "mn": "2005 онд аль зонд Санчирын дагуул Титан дээр буусан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Voyager 1",
+          "mn": "«Вояжер-1»"
+        },
+        {
+          "en": "Galileo",
+          "mn": "«Галилео»"
+        },
+        {
+          "en": "New Horizons",
+          "mn": "«Нью Хорайзонс»"
+        },
+        {
+          "en": "Huygens",
+          "mn": "«Гюйгенс»"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The European Huygens probe rode to Saturn on NASA’s Cassini and parachuted onto Titan. It is still the most distant landing ever made.",
+        "mn": "Европын «Гюйгенс» зонд NASA-гийн «Кассини»-тай хамт Санчирт хүрч, шүхрээр Титан дээр буусан. Энэ нь өнөөг хүртэл хамгийн алс газар хийсэн буулт хэвээр."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.moons",
+      "key": "space.moons.c17",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which moon is slowly spiralling toward its planet and may one day break apart?",
+        "mn": "Аль дагуул гараг руугаа аажмаар ойртож, нэг өдөр бутрах магадлалтай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Phobos",
+          "mn": "Фобос"
+        },
+        {
+          "en": "Ganymede",
+          "mn": "Ганимед"
+        },
+        {
+          "en": "Titan",
+          "mn": "Титан"
+        },
+        {
+          "en": "Callisto",
+          "mn": "Каллисто"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Phobos orbits Mars faster than Mars spins, so tides drag it closer by about 2 m each century. In some 30–50 million years it may crash or become a ring.",
+        "mn": "Фобос Ангарагийн эргэлтээс хурдан тойрдог тул түрлэгийн хүч түүнийг зуун жил тутам 2 орчим метрээр ойртуулдаг. 30–50 орчим сая жилийн дараа мөргөлдөх эсвэл цагираг болж магадгүй."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.moons",
+      "key": "space.moons.c18",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which moon of Saturn has one very dark side and one bright side?",
+        "mn": "Санчирын аль дагуул нэг тал нь маш бараан, нөгөө тал нь гэрэлтэй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Enceladus",
+          "mn": "Энцелад"
+        },
+        {
+          "en": "Iapetus",
+          "mn": "Иапет"
+        },
+        {
+          "en": "Mimas",
+          "mn": "Мимас"
+        },
+        {
+          "en": "Rhea",
+          "mn": "Рея"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Iapetus’s leading side is coated in dark material while the trailing side is bright ice. Giovanni Cassini noticed in 1671 that it vanished on one side of Saturn.",
+        "mn": "Иапетын урд тал бараан бодисоор бүрхэгдсэн, харин хойд тал нь гэрэлтэй мөс. Жованни Кассини 1671 онд түүнийг Санчирын нэг талд очихоороо харагдахгүй болдгийг анзаарсан."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.small-bodies",
+      "key": "space.small-bodies.c11",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is a “shooting star” really?",
+        "mn": "«Харвасан од» гэж үнэндээ юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "A star falling to Earth",
+          "mn": "Дэлхий рүү унаж буй од"
+        },
+        {
+          "en": "A distant exploding star",
+          "mn": "Алсад дэлбэрч буй од"
+        },
+        {
+          "en": "A satellite’s flashing light",
+          "mn": "Хиймэл дагуулын гэрэл"
+        },
+        {
+          "en": "A tiny rock burning up in air",
+          "mn": "Агаарт шатаж буй жижиг чулуу"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "A shooting star, or meteor, is usually a grain of space dust no bigger than a pebble burning up high in the atmosphere. It glows because it hits the air at tens of km per second.",
+        "mn": "Харвасан од буюу солир ихэвчлэн хайргаас ч жижиг сансрын тоос бөгөөд агаар мандлын өндөрт шатдаг. Секундэд хэдэн арван км хурдаар агаарт орж ирдэг тул гэрэлтдэг."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.small-bodies",
+      "key": "space.small-bodies.c12",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Comets are often nicknamed “dirty…” what?",
+        "mn": "Сүүлт одыг ихэвчлэн «бохир …» гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Snowballs",
+          "mn": "Цасан бөмбөг"
+        },
+        {
+          "en": "Diamonds",
+          "mn": "Алмаз"
+        },
+        {
+          "en": "Fireballs",
+          "mn": "Галт бөмбөг"
+        },
+        {
+          "en": "Sponges",
+          "mn": "Хөвөн"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "A comet’s nucleus is a mix of ice, dust and rock — astronomer Fred Whipple called it a “dirty snowball” in 1950. Near the Sun the ice turns to gas and forms the glowing tail.",
+        "mn": "Сүүлт одны цөм мөс, тоос, чулууны холимог тул одон орон судлаач Фред Уиппл 1950 онд түүнийг «бохир цасан бөмбөг» гэжээ. Нарт ойртоход мөс нь хий болж, гэрэлтэх сүүлийг үүсгэдэг."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.small-bodies",
+      "key": "space.small-bodies.c13",
+      "difficulty": 1,
+      "prompt": {
+        "en": "An asteroid impact about 66 million years ago helped wipe out which animals?",
+        "mn": "66 орчим сая жилийн өмнөх астероидын мөргөлт ямар амьтдыг устгахад нөлөөлсөн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Most dinosaurs",
+          "mn": "Ихэнх үлэг гүрвэл"
+        },
+        {
+          "en": "Woolly mammoths",
+          "mn": "Ноосон мамонт"
+        },
+        {
+          "en": "Sabre-toothed cats",
+          "mn": "Сэлэм шүдт бар"
+        },
+        {
+          "en": "Dodo birds",
+          "mn": "Додо шувуу"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "A rock about 10 km wide struck Earth and ended the age of the non-bird dinosaurs. Birds are the dinosaurs that survived.",
+        "mn": "10 орчим км өргөн чулуу Дэлхийг мөргөж, шувуу бус үлэг гүрвэлийн эринийг дуусгасан. Шувууд бол амьд үлдсэн үлэг гүрвэлүүд юм."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.small-bodies",
+      "key": "space.small-bodies.c14",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which famous meteor shower peaks every August?",
+        "mn": "Жил бүрийн 8-р сард оргилдоо хүрдэг алдартай солирын бороо аль вэ?"
+      },
+      "choices": [
+        {
+          "en": "Leonids",
+          "mn": "Леонид"
+        },
+        {
+          "en": "Perseids",
+          "mn": "Персейд"
+        },
+        {
+          "en": "Geminids",
+          "mn": "Геминид"
+        },
+        {
+          "en": "Quadrantids",
+          "mn": "Квадрантид"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Perseids happen when Earth passes through dust left by Comet Swift–Tuttle. At their peak you can see up to about 100 meteors an hour from a dark site.",
+        "mn": "Дэлхий Свифт–Туттлийн сүүлт одны үлдээсэн тоосоор дайрч өнгөрөхөд Персейд солирын бороо ордог. Оргил үедээ харанхуй газраас цагт 100 хүртэл солир харж болно."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.small-bodies",
+      "key": "space.small-bodies.c15",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In which country is the crater from the dinosaur-killing impact?",
+        "mn": "Үлэг гүрвэлийг устгасан мөргөлтийн тогоо аль улсад байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Australia",
+          "mn": "Австрали"
+        },
+        {
+          "en": "Mexico",
+          "mn": "Мексик"
+        },
+        {
+          "en": "Russia",
+          "mn": "Орос"
+        },
+        {
+          "en": "South Africa",
+          "mn": "Өмнөд Африк"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Chicxulub crater, about 180 km wide, lies buried under Mexico’s Yucatán Peninsula. It was confirmed as the impact site in the early 1990s.",
+        "mn": "180 орчим км өргөн Чикшулубын тогоо Мексикийн Юкатан хойгийн доор булагдсан байдаг. 1990-ээд оны эхээр мөргөлтийн газар болохыг нь баталсан."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.small-bodies",
+      "key": "space.small-bodies.c16",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the Oort cloud?",
+        "mn": "Оортын үүл гэж юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "A gas cloud on Jupiter",
+          "mn": "Бархасбадийн хийн үүл"
+        },
+        {
+          "en": "A far shell of icy bodies",
+          "mn": "Мөсөн биетийн алсын бүрхүүл"
+        },
+        {
+          "en": "Dust around Earth",
+          "mn": "Дэлхийг тойрсон тоос"
+        },
+        {
+          "en": "A nearby star nursery",
+          "mn": "Ойролцоох од үүсэх үүл"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Oort cloud is a vast, thought-to-exist sphere of icy objects far beyond Pluto, possibly reaching a light-year or more from the Sun. It is the likely source of long-period comets.",
+        "mn": "Оортын үүл бол Плутоноос хамаагүй цаана, Нараас гэрлийн жил ба түүнээс ч хол хүрч болох мөсөн биетийн асар том бөмбөрцөг гэж үздэг. Урт хугацааны сүүлт оддын эх үүсвэр нь байх магадлалтай."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.small-bodies",
+      "key": "space.small-bodies.c17",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In 2014 the Philae lander touched down on a comet carried by which mission?",
+        "mn": "2014 онд «Филэ» буух аппаратыг сүүлт од дээр аль номлол хүргэсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Giotto",
+          "mn": "«Жотто»"
+        },
+        {
+          "en": "Rosetta",
+          "mn": "«Розетта»"
+        },
+        {
+          "en": "Deep Impact",
+          "mn": "«Дийп Импакт»"
+        },
+        {
+          "en": "Stardust",
+          "mn": "«Стардаст»"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "ESA’s Rosetta orbited Comet 67P/Churyumov–Gerasimenko and dropped Philae onto it — the first soft landing on a comet. Philae bounced twice and came to rest in a shadow.",
+        "mn": "ESA-гийн «Розетта» 67P/Чурюмов–Герасименкогийн сүүлт одыг тойрч, «Филэ»-г буулгасан нь сүүлт од дээрх анхны зөөлөн буулт байв. «Филэ» хоёр удаа ойж, сүүдэрт тогтжээ."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.small-bodies",
+      "key": "space.small-bodies.c18",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which 1908 blast flattened about 2,000 km² of Siberian forest?",
+        "mn": "1908 онд Сибирийн 2,000 орчим км² ойг хэвтүүлсэн дэлбэрэлт аль вэ?"
+      },
+      "choices": [
+        {
+          "en": "The Chelyabinsk event",
+          "mn": "Челябинскийн үзэгдэл"
+        },
+        {
+          "en": "The Tunguska event",
+          "mn": "Тунгусын үзэгдэл"
+        },
+        {
+          "en": "The Barringer impact",
+          "mn": "Баррингерийн мөргөлт"
+        },
+        {
+          "en": "The Vredefort impact",
+          "mn": "Вредефортын мөргөлт"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "A space rock exploded in the air over the Tunguska River, knocking down about 80 million trees. Because it blew up before hitting the ground, it left no crater.",
+        "mn": "Сансрын чулуу Тунгус мөрний дээгүүр агаарт дэлбэрч, 80 орчим сая модыг унагасан. Газарт хүрэхээсээ өмнө дэлбэрсэн тул тогоо үлдээгээгүй."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.exploration",
+      "key": "space.exploration.c11",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Who was the first woman in space?",
+        "mn": "Сансарт ниссэн анхны эмэгтэй хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Sally Ride",
+          "mn": "Салли Райд"
+        },
+        {
+          "en": "Svetlana Savitskaya",
+          "mn": "Светлана Савицкая"
+        },
+        {
+          "en": "Valentina Tereshkova",
+          "mn": "Валентина Терешкова"
+        },
+        {
+          "en": "Mae Jemison",
+          "mn": "Мэй Жемисон"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Soviet cosmonaut Valentina Tereshkova flew on Vostok 6 in June 1963 and orbited Earth 48 times. She remains the only woman to have flown solo in space.",
+        "mn": "Зөвлөлтийн сансрын нисэгч Валентина Терешкова 1963 оны 6-р сард «Восток-6» хөлгөөр ниссэн бөгөөд Дэлхийг 48 удаа тойрсон. Сансарт ганцаараа ниссэн цорын ганц эмэгтэй хэвээр."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.exploration",
+      "key": "space.exploration.c12",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What kind of animal was Laika, the first animal to orbit Earth?",
+        "mn": "Дэлхийг анх тойрсон амьтан Лайка ямар амьтан байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "A monkey",
+          "mn": "Сармагчин"
+        },
+        {
+          "en": "A cat",
+          "mn": "Муур"
+        },
+        {
+          "en": "A dog",
+          "mn": "Нохой"
+        },
+        {
+          "en": "A mouse",
+          "mn": "Хулгана"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Laika, a stray dog from Moscow, flew on Sputnik 2 in November 1957. She did not survive the flight, but she showed a living being could endure launch and weightlessness.",
+        "mn": "Москвагийн золбин нохой Лайка 1957 оны 11-р сард «Спутник-2»-оор ниссэн. Тэр амьд үлдээгүй ч амьд биет хөөрөлт, жингүйдлийг тэсвэрлэж чадахыг харуулсан."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.exploration",
+      "key": "space.exploration.c13",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which space telescope launched in 2021 as Hubble’s successor?",
+        "mn": "2021 онд «Хаббл»-ын залгамжлагч болж хөөрсөн сансрын дуран аль вэ?"
+      },
+      "choices": [
+        {
+          "en": "Kepler",
+          "mn": "«Кеплер»"
+        },
+        {
+          "en": "James Webb",
+          "mn": "«Жеймс Уэбб»"
+        },
+        {
+          "en": "Spitzer",
+          "mn": "«Спитцер»"
+        },
+        {
+          "en": "Chandra",
+          "mn": "«Чандра»"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The James Webb Space Telescope sees mainly in infrared and sits about 1.5 million km from Earth. Its gold-coated mirror is 6.5 metres wide.",
+        "mn": "«Жеймс Уэбб» сансрын дуран голдуу хэт улаан туяагаар ажиглаж, Дэлхийгээс 1.5 орчим сая км зайд байрладаг. Алтаар бүрсэн толь нь 6.5 метр өргөн."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.exploration",
+      "key": "space.exploration.c14",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Who made the first spacewalk, in 1965?",
+        "mn": "1965 онд сансарт анх гарч алхсан хүн хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Yuri Gagarin",
+          "mn": "Юрий Гагарин"
+        },
+        {
+          "en": "Ed White",
+          "mn": "Эд Уайт"
+        },
+        {
+          "en": "Alexei Leonov",
+          "mn": "Алексей Леонов"
+        },
+        {
+          "en": "Neil Armstrong",
+          "mn": "Нил Армстронг"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Alexei Leonov floated outside Voskhod 2 for about 12 minutes in March 1965. His suit ballooned so much that he had to let air out to squeeze back inside.",
+        "mn": "Алексей Леонов 1965 оны 3-р сард «Восход-2»-ын гадна 12 орчим минут хөвсөн. Скафандр нь хэт хийлдэж, буцаж орохын тулд хийг нь гаргах хэрэгтэй болжээ."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.exploration",
+      "key": "space.exploration.c15",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which NASA rover landed on Mars in 2021 carrying a small helicopter?",
+        "mn": "NASA-гийн аль ровер 2021 онд жижиг нисдэг тэрэг авч Ангараг дээр буусан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Curiosity",
+          "mn": "«Кюриосити»"
+        },
+        {
+          "en": "Opportunity",
+          "mn": "«Оппортюнити»"
+        },
+        {
+          "en": "Sojourner",
+          "mn": "«Соджорнер»"
+        },
+        {
+          "en": "Perseverance",
+          "mn": "«Персевиранс»"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Perseverance landed in Jezero Crater to look for signs of ancient life and collect rock samples. Its helicopter Ingenuity made the first powered flight on another planet.",
+        "mn": "«Персевиранс» эртний амьдралын ул мөр хайж, чулуулгийн дээж цуглуулахаар Езеро тогоонд буусан. Түүний «Инженюити» нисдэг тэрэг өөр гараг дээр хөдөлгүүртэй анхны нислэг хийсэн."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.exploration",
+      "key": "space.exploration.c16",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which space station has had people aboard continuously since 2000?",
+        "mn": "2000 оноос хойш тасралтгүй хүнтэй байгаа сансрын станц аль вэ?"
+      },
+      "choices": [
+        {
+          "en": "Mir",
+          "mn": "«Мир»"
+        },
+        {
+          "en": "International Space Station",
+          "mn": "Олон улсын сансрын станц"
+        },
+        {
+          "en": "Skylab",
+          "mn": "«Скайлэб»"
+        },
+        {
+          "en": "Salyut 6",
+          "mn": "«Салют-6»"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The ISS circles Earth about every 90 minutes, about 16 times a day. It is the largest structure humans have built in space, roughly the size of a football field.",
+        "mn": "Олон улсын сансрын станц Дэлхийг 90 орчим минутад, өөрөөр хэлбэл өдөрт 16 орчим удаа тойрдог. Хүний сансарт барьсан хамгийн том байгууламж бөгөөд хөлбөмбөгийн талбайн хэмжээтэй."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.exploration",
+      "key": "space.exploration.c17",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which country was the first to reach Mars orbit on its very first try?",
+        "mn": "Аль улс Ангарагийн тойрог замд анхны оролдлогоороо хүрсэн анхны улс вэ?"
+      },
+      "choices": [
+        {
+          "en": "USA",
+          "mn": "АНУ"
+        },
+        {
+          "en": "China",
+          "mn": "Хятад"
+        },
+        {
+          "en": "India",
+          "mn": "Энэтхэг"
+        },
+        {
+          "en": "Japan",
+          "mn": "Япон"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "India’s Mangalyaan (Mars Orbiter Mission) entered Mars orbit in September 2014. It cost less than many Hollywood space films.",
+        "mn": "Энэтхэгийн «Мангальяан» буюу Ангарагийн тойрог замын номлол 2014 оны 9-р сард Ангарагийн тойрог замд орсон. Түүний зардал Холливудын сансрын олон киноныхоос бага байв."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.exploration",
+      "key": "space.exploration.c18",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which was the first spacecraft to land and send data from another planet’s surface?",
+        "mn": "Өөр гарагийн гадарга дээр буун мэдээлэл дамжуулсан анхны аппарат аль вэ?"
+      },
+      "choices": [
+        {
+          "en": "Viking 1",
+          "mn": "«Викинг-1»"
+        },
+        {
+          "en": "Venera 7",
+          "mn": "«Венера-7»"
+        },
+        {
+          "en": "Mars 3",
+          "mn": "«Марс-3»"
+        },
+        {
+          "en": "Pioneer 10",
+          "mn": "«Пионер-10»"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Soviet Venera 7 landed on Venus in December 1970 and sent signals for about 23 minutes. It measured a surface temperature of about 475 °C.",
+        "mn": "Зөвлөлтийн «Венера-7» 1970 оны 12-р сард Сугар дээр буун 23 орчим минут дохио дамжуулсан. Гадаргын 475 орчим °C хэмийг хэмжжээ."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.records",
+      "key": "space.records.c11",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which planet takes the longest to go once around the Sun?",
+        "mn": "Аль гараг Нарыг нэг тойроход хамгийн удаан хугацаа зарцуулдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Saturn",
+          "mn": "Санчир"
+        },
+        {
+          "en": "Jupiter",
+          "mn": "Бархасбадь"
+        },
+        {
+          "en": "Neptune",
+          "mn": "Далайн ван"
+        },
+        {
+          "en": "Mars",
+          "mn": "Ангараг"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "A year on Neptune lasts about 165 Earth years. Since its discovery in 1846, it completed its first full orbit only in 2011.",
+        "mn": "Далайн вангийн нэг жил Дэлхийн 165 орчим жилтэй тэнцэнэ. 1846 онд нээгдсэнээс хойш анхны бүтэн тойргоо 2011 онд л дуусгасан."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.records",
+      "key": "space.records.c12",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which planet shines brightest in our night sky?",
+        "mn": "Шөнийн тэнгэрт аль гараг хамгийн тод гэрэлтдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Venus",
+          "mn": "Сугар"
+        },
+        {
+          "en": "Mars",
+          "mn": "Ангараг"
+        },
+        {
+          "en": "Saturn",
+          "mn": "Санчир"
+        },
+        {
+          "en": "Uranus",
+          "mn": "Тэнгэрийн ван"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "After the Moon, Venus is the brightest natural object in the night sky, thanks to its reflective clouds. It is often called the “morning star” or “evening star”.",
+        "mn": "Сарны дараа Сугар шөнийн тэнгэрийн хамгийн тод байгалийн биет бөгөөд гэрэл сайн ойлгодог үүлтэй. Түүнийг ихэвчлэн «үүрийн од», «үдшийн од» гэдэг."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.records",
+      "key": "space.records.c13",
+      "difficulty": 2,
+      "prompt": {
+        "en": "On which planet is Valles Marineris, the solar system’s biggest canyon?",
+        "mn": "Нарны аймгийн хамгийн том хавцал болох Маринерийн хөндий аль гараг дээр байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Venus",
+          "mn": "Сугар"
+        },
+        {
+          "en": "Mercury",
+          "mn": "Буд"
+        },
+        {
+          "en": "Earth",
+          "mn": "Дэлхий"
+        },
+        {
+          "en": "Mars",
+          "mn": "Ангараг"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Valles Marineris stretches about 4,000 km and is up to 7 km deep. On Earth it would reach across the entire United States.",
+        "mn": "Маринерийн хөндий 4,000 орчим км урт, 7 км хүртэл гүн. Дэлхий дээр байсан бол АНУ-ыг бүхэлд нь хөндлөн гатлах байлаа."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.records",
+      "key": "space.records.c14",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which planet is tilted so far that it spins on its side?",
+        "mn": "Аль гараг тэнхлэгээрээ хэт хазайсан тул хажуугаараа эргэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Jupiter",
+          "mn": "Бархасбадь"
+        },
+        {
+          "en": "Mercury",
+          "mn": "Буд"
+        },
+        {
+          "en": "Mars",
+          "mn": "Ангараг"
+        },
+        {
+          "en": "Uranus",
+          "mn": "Тэнгэрийн ван"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Uranus is tilted about 98°, probably after a giant collision long ago. Each pole gets about 42 years of sunlight followed by 42 years of darkness.",
+        "mn": "Тэнгэрийн ван 98 орчим градус хазайсан нь эрт дээр үеийн аварга мөргөлдөөний үр дагавар байж болох юм. Туйл бүр 42 орчим жил гэрэлтэй, дараа нь 42 жил харанхуй байдаг."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.records",
+      "key": "space.records.c15",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which planet has the strongest magnetic field?",
+        "mn": "Аль гараг хамгийн хүчтэй соронзон оронтой вэ?"
+      },
+      "choices": [
+        {
+          "en": "Earth",
+          "mn": "Дэлхий"
+        },
+        {
+          "en": "Mars",
+          "mn": "Ангараг"
+        },
+        {
+          "en": "Jupiter",
+          "mn": "Бархасбадь"
+        },
+        {
+          "en": "Venus",
+          "mn": "Сугар"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Jupiter’s magnetic field is about 20,000 times stronger than Earth’s. If we could see its magnetosphere, it would look bigger than the full Moon in our sky.",
+        "mn": "Бархасбадийн соронзон орон Дэлхийнхээс 20,000 орчим дахин хүчтэй. Түүний соронзон бүрхүүлийг харж чаддаг бол манай тэнгэрт тэргэл сарнаас том харагдах байлаа."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.records",
+      "key": "space.records.c16",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which is the largest known dwarf planet by diameter?",
+        "mn": "Голчоороо хамгийн том мэдэгдэж буй одой гараг аль вэ?"
+      },
+      "choices": [
+        {
+          "en": "Ceres",
+          "mn": "Церера"
+        },
+        {
+          "en": "Makemake",
+          "mn": "Макемаке"
+        },
+        {
+          "en": "Haumea",
+          "mn": "Хаумеа"
+        },
+        {
+          "en": "Pluto",
+          "mn": "Плутон"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "New Horizons measured Pluto at about 2,377 km across, slightly wider than Eris. Eris, however, is a little more massive.",
+        "mn": "«Нью Хорайзонс» Плутоны голчийг 2,377 орчим км гэж хэмжсэн нь Эридээс бага зэрэг өргөн. Гэхдээ Эрид арай илүү масстай."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.records",
+      "key": "space.records.c17",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which planet has the coldest recorded atmosphere, even though Neptune is farther out?",
+        "mn": "Далайн ван илүү хол байдаг ч аль гараг хамгийн хүйтэн агаар мандалтай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Saturn",
+          "mn": "Санчир"
+        },
+        {
+          "en": "Jupiter",
+          "mn": "Бархасбадь"
+        },
+        {
+          "en": "Uranus",
+          "mn": "Тэнгэрийн ван"
+        },
+        {
+          "en": "Mars",
+          "mn": "Ангараг"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Uranus has dipped to about −224 °C, colder than Neptune. Unlike the other giants, it gives off almost no heat from inside.",
+        "mn": "Тэнгэрийн ван −224 орчим °C хүртэл хүйтэрдэг нь Далайн вангаас хүйтэн. Бусад аварга гарагаас ялгаатай нь дотроосоо бараг дулаан ялгаруулдаггүй."
+      }
+    },
+    {
+      "topicSlug": "space",
+      "lessonKey": "space.records",
+      "key": "space.records.c18",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of the eight planets has the most stretched (eccentric) orbit?",
+        "mn": "Найман гарагаас аль нь хамгийн сунгуу (эксцентрик) тойрог замтай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Earth",
+          "mn": "Дэлхий"
+        },
+        {
+          "en": "Venus",
+          "mn": "Сугар"
+        },
+        {
+          "en": "Neptune",
+          "mn": "Далайн ван"
+        },
+        {
+          "en": "Mercury",
+          "mn": "Буд"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Mercury’s distance from the Sun swings between about 46 and 70 million km. A tiny wobble in its orbit was explained only by Einstein’s general relativity.",
+        "mn": "Буд Нараас 46-аас 70 орчим сая км хооронд зайтай хэлбэлздэг. Түүний тойрог замын бага зэргийн хазайлтыг зөвхөн Эйнштейний харьцангуйн ерөнхий онол тайлбарласан."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.western-zodiac",
+      "key": "astrology.western-zodiac.c11",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which zodiac sign is symbolised by a bull?",
+        "mn": "Аль орд бухаар дүрслэгддэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Taurus",
+          "mn": "Үхэр"
+        },
+        {
+          "en": "Aries",
+          "mn": "Хонь"
+        },
+        {
+          "en": "Capricorn",
+          "mn": "Матар"
+        },
+        {
+          "en": "Leo",
+          "mn": "Арслан"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Taurus means “bull” in Latin. In Greek myth it is linked to the bull whose form Zeus took to carry off Europa.",
+        "mn": "Taurus нь латинаар «бух» гэсэн утгатай. Грекийн домогт Зевс Европыг авч одохдоо хувирсан бухтай холбогддог."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.western-zodiac",
+      "key": "astrology.western-zodiac.c12",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which sign is the archer?",
+        "mn": "Аль орд харваач вэ?"
+      },
+      "choices": [
+        {
+          "en": "Gemini",
+          "mn": "Ихэр"
+        },
+        {
+          "en": "Sagittarius",
+          "mn": "Нум"
+        },
+        {
+          "en": "Virgo",
+          "mn": "Охин"
+        },
+        {
+          "en": "Aquarius",
+          "mn": "Хумх"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Sagittarius is drawn as a centaur — half human, half horse — aiming a bow. Its name is Latin for “archer”.",
+        "mn": "Нум ордыг нум сумаа шагайсан кентавр буюу хагас хүн, хагас морь дүрээр зурдаг. Нэр нь латинаар «харваач» гэсэн утгатай."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.western-zodiac",
+      "key": "astrology.western-zodiac.c13",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which is the twelfth and last sign of the zodiac?",
+        "mn": "Зурхайн арван хоёр дахь буюу сүүлчийн орд аль вэ?"
+      },
+      "choices": [
+        {
+          "en": "Pisces",
+          "mn": "Загас"
+        },
+        {
+          "en": "Aquarius",
+          "mn": "Хумх"
+        },
+        {
+          "en": "Capricorn",
+          "mn": "Матар"
+        },
+        {
+          "en": "Aries",
+          "mn": "Хонь"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Pisces closes the cycle, just before Aries begins again at the spring equinox. Tradition gives its dates as about 19 February to 20 March.",
+        "mn": "Загас орд мөчлөгийг хааж, дараа нь хаврын тэгшитгэлээр Хонь орд дахин эхэлдэг. Уламжлалаар 2-р сарын 19-өөс 3-р сарын 20 орчим."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.western-zodiac",
+      "key": "astrology.western-zodiac.c14",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which sign is pictured as a goat with a fish’s tail?",
+        "mn": "Аль ордыг загасны сүүлтэй ямаагаар дүрсэлдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Taurus",
+          "mn": "Үхэр"
+        },
+        {
+          "en": "Aries",
+          "mn": "Хонь"
+        },
+        {
+          "en": "Pisces",
+          "mn": "Загас"
+        },
+        {
+          "en": "Capricorn",
+          "mn": "Матар"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Capricorn’s sea-goat goes back to Babylonian images of the god Enki. In Greek myth it is sometimes linked to the goat-god Pan.",
+        "mn": "Матар ордын далайн ямаа Вавилоны Энки бурхны дүрслэлээс гаралтай. Грекийн домогт заримдаа ямаан бурхан Пантай холбодог."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.western-zodiac",
+      "key": "astrology.western-zodiac.c15",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Someone born on 14 February has which Western Sun sign?",
+        "mn": "2-р сарын 14-нд төрсөн хүн барууны зурхайгаар аль ордтой вэ?"
+      },
+      "choices": [
+        {
+          "en": "Pisces",
+          "mn": "Загас"
+        },
+        {
+          "en": "Aquarius",
+          "mn": "Хумх"
+        },
+        {
+          "en": "Capricorn",
+          "mn": "Матар"
+        },
+        {
+          "en": "Aries",
+          "mn": "Хонь"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Tradition gives Aquarius about 20 January to 18 February, so Valentine’s Day falls in it. Exact cut-off dates shift by a day in some years.",
+        "mn": "Уламжлалаар Хумх орд 1-р сарын 20-оос 2-р сарын 18 орчим тул Гэгээн Валентины өдөр түүнд багтдаг. Зарим жил хил хязгаар нэг өдрөөр зөрдөг."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.western-zodiac",
+      "key": "astrology.western-zodiac.c16",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which mythical lion does Leo usually represent?",
+        "mn": "Арслан орд ихэвчлэн домгийн аль арсланг дүрсэлдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "The Nemean lion",
+          "mn": "Немейн арслан"
+        },
+        {
+          "en": "The lion of Narnia",
+          "mn": "Нарнийн арслан"
+        },
+        {
+          "en": "The Sphinx",
+          "mn": "Сфинкс"
+        },
+        {
+          "en": "The Chimera",
+          "mn": "Химер"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Leo is the Nemean lion, whose skin no weapon could pierce; Heracles strangled it as his first labour. He then wore its hide as armour.",
+        "mn": "Арслан орд бол ямар ч зэвсэг нэвтэлдэггүй арьстай Немейн арслан бөгөөд Геракл анхны гавьяагаа хийхдээ түүнийг боож алсан. Дараа нь түүний арьсыг хуяг болгон өмссөн."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.western-zodiac",
+      "key": "astrology.western-zodiac.c17",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which red giant star marks the heart of the Scorpion?",
+        "mn": "Хилэнц ордны зүрхэнд ямар улаан аварга од байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Aldebaran",
+          "mn": "Альдебаран"
+        },
+        {
+          "en": "Betelgeuse",
+          "mn": "Бетельгейзе"
+        },
+        {
+          "en": "Arcturus",
+          "mn": "Арктур"
+        },
+        {
+          "en": "Antares",
+          "mn": "Антарес"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Antares means “rival of Mars” because its red colour resembles the planet. It is hundreds of times wider than the Sun.",
+        "mn": "Антарес гэдэг нь «Ангарагийн өрсөлдөгч» гэсэн утгатай, учир нь улаан өнгө нь тэр гарагтай төстэй. Нарнаас хэдэн зуу дахин өргөн."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.western-zodiac",
+      "key": "astrology.western-zodiac.c18",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The Tropic of Capricorn is named because the Sun entered Capricorn at which time, long ago?",
+        "mn": "Матарын бэлүүсийг эрт үед Нар Матар ордонд ямар үед ордог байснаас нэрлэсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "The June solstice",
+          "mn": "6-р сарын туйл"
+        },
+        {
+          "en": "The March equinox",
+          "mn": "3-р сарын тэгшитгэл"
+        },
+        {
+          "en": "The September equinox",
+          "mn": "9-р сарын тэгшитгэл"
+        },
+        {
+          "en": "The December solstice",
+          "mn": "12-р сарын туйл"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "About 2,000 years ago the Sun stood in Capricorn at the December solstice, when it is overhead at that tropic. Because of precession, it is now in Sagittarius at that date.",
+        "mn": "2,000 орчим жилийн өмнө 12-р сарын туйлын үед, Нар тэр бэлүүсийн яг дээр байхад Матар ордонд байсан. Прецессийн улмаас одоо тэр өдөр Нум одны ордонд байдаг."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.elements-modalities",
+      "key": "astrology.elements-modalities.c11",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which element does tradition give Pisces?",
+        "mn": "Уламжлалаар Загас орд аль махбодод хамаардаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Fire",
+          "mn": "Гал"
+        },
+        {
+          "en": "Water",
+          "mn": "Ус"
+        },
+        {
+          "en": "Air",
+          "mn": "Хий"
+        },
+        {
+          "en": "Earth",
+          "mn": "Шороо"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Pisces is a water sign along with Cancer and Scorpio. Tradition describes water signs as emotional and intuitive.",
+        "mn": "Загас бол Мэлхий, Хилэнцийн хамт усны орд. Уламжлалаар усны ордуудыг мэдрэмжтэй, зөн совинтой гэж тодорхойлдог."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.elements-modalities",
+      "key": "astrology.elements-modalities.c12",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which element does tradition give Virgo?",
+        "mn": "Уламжлалаар Охин орд аль махбодод хамаардаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Water",
+          "mn": "Ус"
+        },
+        {
+          "en": "Fire",
+          "mn": "Гал"
+        },
+        {
+          "en": "Air",
+          "mn": "Хий"
+        },
+        {
+          "en": "Earth",
+          "mn": "Шороо"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Virgo shares the earth element with Taurus and Capricorn. Earth signs are traditionally described as practical and grounded.",
+        "mn": "Охин орд Үхэр, Матартай хамт шороон махбодтой. Шороон ордуудыг уламжлалаар бодит, тогтуун гэж тайлбарладаг."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.elements-modalities",
+      "key": "astrology.elements-modalities.c13",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which of these is a fire sign?",
+        "mn": "Эдгээрээс аль нь галын орд вэ?"
+      },
+      "choices": [
+        {
+          "en": "Cancer",
+          "mn": "Мэлхий"
+        },
+        {
+          "en": "Aries",
+          "mn": "Хонь"
+        },
+        {
+          "en": "Libra",
+          "mn": "Жинлүүр"
+        },
+        {
+          "en": "Capricorn",
+          "mn": "Матар"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Aries, Leo and Sagittarius are the three fire signs. Aries also opens the zodiac at the spring equinox.",
+        "mn": "Хонь, Арслан, Нум гурав галын ордууд. Хонь орд мөн хаврын тэгшитгэлээр зурхайн мөчлөгийг нээдэг."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.elements-modalities",
+      "key": "astrology.elements-modalities.c14",
+      "difficulty": 2,
+      "prompt": {
+        "en": "How many modalities (qualities) does astrology use?",
+        "mn": "Зурхай хэдэн хэв шинж (чанар) ашигладаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Three",
+          "mn": "Гурав"
+        },
+        {
+          "en": "Two",
+          "mn": "Хоёр"
+        },
+        {
+          "en": "Four",
+          "mn": "Дөрөв"
+        },
+        {
+          "en": "Twelve",
+          "mn": "Арван хоёр"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The three modalities are cardinal, fixed and mutable, with four signs each. Three modalities times four elements gives the twelve signs.",
+        "mn": "Гурван хэв шинж нь эхлэгч, тогтвортой, хувирамтгай бөгөөд тус бүр дөрвөн ордтой. Гурван хэв шинжийг дөрвөн махбодоор үржүүлэхэд арван хоёр орд гардаг."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.elements-modalities",
+      "key": "astrology.elements-modalities.c15",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which group lists the four cardinal signs?",
+        "mn": "Аль бүлэг дөрвөн эхлэгч ордыг жагсаасан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Taurus, Leo, Scorpio, Aquarius",
+          "mn": "Үхэр, Арслан, Хилэнц, Хумх"
+        },
+        {
+          "en": "Gemini, Virgo, Sagittarius, Pisces",
+          "mn": "Ихэр, Охин, Нум, Загас"
+        },
+        {
+          "en": "Aries, Leo, Virgo, Pisces",
+          "mn": "Хонь, Арслан, Охин, Загас"
+        },
+        {
+          "en": "Aries, Cancer, Libra, Capricorn",
+          "mn": "Хонь, Мэлхий, Жинлүүр, Матар"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The cardinal signs fall at the two equinoxes and two solstices. One of each element appears among them: fire, water, air and earth.",
+        "mn": "Эхлэгч ордууд хоёр тэгшитгэл, хоёр туйлын үед таардаг. Тэдний дунд махбод бүрээс нэг нэг нь бий: гал, ус, хий, шороо."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.elements-modalities",
+      "key": "astrology.elements-modalities.c16",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which modality does tradition give Taurus?",
+        "mn": "Уламжлалаар Үхэр орд аль хэв шинжид хамаардаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Fixed",
+          "mn": "Тогтвортой"
+        },
+        {
+          "en": "Cardinal",
+          "mn": "Эхлэгч"
+        },
+        {
+          "en": "Mutable",
+          "mn": "Хувирамтгай"
+        },
+        {
+          "en": "Lunar",
+          "mn": "Сарны"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Taurus is “fixed earth”, falling in the settled middle of spring. Fixed signs are traditionally described as steady and stubborn.",
+        "mn": "Үхэр бол хаврын тогтсон дунд үед таардаг «тогтвортой шороо». Тогтвортой ордуудыг уламжлалаар тууштай, зөрүүд гэж тайлбарладаг."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.elements-modalities",
+      "key": "astrology.elements-modalities.c17",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which sign is “mutable fire”?",
+        "mn": "Аль орд «хувирамтгай гал» вэ?"
+      },
+      "choices": [
+        {
+          "en": "Leo",
+          "mn": "Арслан"
+        },
+        {
+          "en": "Aries",
+          "mn": "Хонь"
+        },
+        {
+          "en": "Sagittarius",
+          "mn": "Нум"
+        },
+        {
+          "en": "Gemini",
+          "mn": "Ихэр"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Sagittarius closes autumn in the northern hemisphere, so it is mutable, and it is the last of the three fire signs. Aries is cardinal fire and Leo fixed fire.",
+        "mn": "Нум хойд хагас бөмбөрцгийн намрыг хаадаг тул хувирамтгай, мөн галын гурван ордын сүүлчийнх. Хонь бол эхлэгч гал, Арслан тогтвортой гал."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.elements-modalities",
+      "key": "astrology.elements-modalities.c18",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Signs directly opposite each other on the wheel always share the same what?",
+        "mn": "Хүрдэн дээр яг эсрэг талд байрлах ордууд үргэлж юугаараа ижил байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Element",
+          "mn": "Махбод"
+        },
+        {
+          "en": "Ruling planet",
+          "mn": "Захирагч гараг"
+        },
+        {
+          "en": "Modality",
+          "mn": "Хэв шинж"
+        },
+        {
+          "en": "Symbol animal",
+          "mn": "Бэлгэ амьтан"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Opposite signs are six places apart, and modalities repeat every three, so pairs like Aries–Libra are both cardinal. Their elements differ but are paired: fire with air, earth with water.",
+        "mn": "Эсрэг ордууд зургаан байрын зайтай, хэв шинж гурав тутам давтагддаг тул Хонь–Жинлүүр зэрэг хос хоёулаа эхлэгч. Махбод нь өөр ч хосолдог: гал хийтэй, шороо устай."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.planets-houses",
+      "key": "astrology.planets-houses.c11",
+      "difficulty": 1,
+      "prompt": {
+        "en": "How many houses is a birth chart divided into?",
+        "mn": "Төрөлтийн зурхайн хүснэгтийг хэдэн гэрт хуваадаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "7",
+          "mn": "7"
+        },
+        {
+          "en": "12",
+          "mn": "12"
+        },
+        {
+          "en": "9",
+          "mn": "9"
+        },
+        {
+          "en": "24",
+          "mn": "24"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "A chart has twelve houses, each traditionally tied to an area of life such as money, home or career. Houses are set by the time and place of birth, not just the date.",
+        "mn": "Зурхайн хүснэгт арван хоёр гэртэй бөгөөд гэр бүр уламжлалаар мөнгө, гэр орон, ажил мэргэжил зэрэг амьдралын нэг хүрээтэй холбогддог. Гэрүүдийг зөвхөн огноо биш, төрсөн цаг, газраар тогтоодог."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.planets-houses",
+      "key": "astrology.planets-houses.c12",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In astrology, which planet is linked with communication and thinking?",
+        "mn": "Зурхайд аль гараг харилцаа, сэтгэлгээтэй холбогддог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Saturn",
+          "mn": "Санчир"
+        },
+        {
+          "en": "Mars",
+          "mn": "Ангараг"
+        },
+        {
+          "en": "Mercury",
+          "mn": "Буд"
+        },
+        {
+          "en": "Neptune",
+          "mn": "Далайн ван"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Mercury was the Roman messenger god, so astrologers give it speech, writing and travel. It traditionally rules Gemini and Virgo.",
+        "mn": "Меркурий бол Ромын элч бурхан тул зурхайчид Буд гарагт яриа, бичиг, аяллыг хамааруулдаг. Уламжлалаар Ихэр, Охин ордыг захирдаг."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.planets-houses",
+      "key": "astrology.planets-houses.c13",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which planet does astrology cast as the stern “taskmaster” of limits and discipline?",
+        "mn": "Зурхайд аль гарагийг хязгаар, сахилга баттай холбоотой хатуу «багш» гэж үздэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Saturn",
+          "mn": "Санчир"
+        },
+        {
+          "en": "Venus",
+          "mn": "Сугар"
+        },
+        {
+          "en": "Jupiter",
+          "mn": "Бархасбадь"
+        },
+        {
+          "en": "Mercury",
+          "mn": "Буд"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Saturn, the slowest planet the ancients could see, became linked with time, duty and hard lessons. Jupiter, by contrast, is the “great benefic” of luck and growth.",
+        "mn": "Эртний хүмүүсийн харж чаддаг хамгийн удаан гараг Санчир цаг хугацаа, үүрэг, хатуу сургамжтай холбогдсон. Харин Бархасбадь бол аз, өсөлтийн «их сайн гараг»."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.planets-houses",
+      "key": "astrology.planets-houses.c14",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which body does tradition name as the ruler of Leo?",
+        "mn": "Уламжлалаар Арслан ордыг аль биет захирдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "The Moon",
+          "mn": "Сар"
+        },
+        {
+          "en": "Mars",
+          "mn": "Ангараг"
+        },
+        {
+          "en": "Jupiter",
+          "mn": "Бархасбадь"
+        },
+        {
+          "en": "The Sun",
+          "mn": "Нар"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "In the traditional scheme the Sun rules Leo, fitting the lion’s image of kingship. Each of the other “planets” rules two signs.",
+        "mn": "Уламжлалт тогтолцоонд Нар Арслан ордыг захирдаг нь арслангийн хаант дүртэй нийцдэг. Бусад «гараг» тус бүр хоёр ордыг захирдаг."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.planets-houses",
+      "key": "astrology.planets-houses.c15",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which body traditionally rules Cancer?",
+        "mn": "Мэлхий ордыг уламжлалаар аль биет захирдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "The Sun",
+          "mn": "Нар"
+        },
+        {
+          "en": "Venus",
+          "mn": "Сугар"
+        },
+        {
+          "en": "The Moon",
+          "mn": "Сар"
+        },
+        {
+          "en": "Saturn",
+          "mn": "Санчир"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Moon rules Cancer, a water sign tied to home, family and feelings. The Sun and Moon are the only bodies that rule a single sign each.",
+        "mn": "Сар гэр орон, гэр бүл, сэтгэл хөдлөлтэй холбоотой усны орд Мэлхийг захирдаг. Нар, Сар хоёр л тус бүр ганц орд захирдаг."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.planets-houses",
+      "key": "astrology.planets-houses.c16",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Astrologers speak of a “Saturn return”. Roughly how many years apart do these come?",
+        "mn": "Зурхайчид «Санчирын эргэлт»-ийн тухай ярьдаг. Энэ хэдэн жил тутам болдог вэ?"
+      },
+      "choices": [
+        {
+          "en": "About 29",
+          "mn": "29 орчим"
+        },
+        {
+          "en": "About 12",
+          "mn": "12 орчим"
+        },
+        {
+          "en": "About 7",
+          "mn": "7 орчим"
+        },
+        {
+          "en": "About 84",
+          "mn": "84 орчим"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Saturn takes about 29.5 years to circle the Sun, so it returns to its birth position around ages 29 and 58. Tradition treats these as turning points in life.",
+        "mn": "Санчир Нарыг 29.5 орчим жилд тойрдог тул 29, 58 орчим насанд төрсөн байрлалдаа эргэн ирдэг. Уламжлал эдгээрийг амьдралын эргэлтийн цэг гэж үздэг."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.planets-houses",
+      "key": "astrology.planets-houses.c17",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Before Pluto was discovered, which planet was the traditional ruler of Scorpio?",
+        "mn": "Плутоныг нээхээс өмнө Хилэнц ордыг уламжлалаар аль гараг захирдаг байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Saturn",
+          "mn": "Санчир"
+        },
+        {
+          "en": "Venus",
+          "mn": "Сугар"
+        },
+        {
+          "en": "Mars",
+          "mn": "Ангараг"
+        },
+        {
+          "en": "Mercury",
+          "mn": "Буд"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Classical astrology gave Mars both Aries and Scorpio. After 1930, many modern astrologers handed Scorpio to Pluto, while traditional ones still use Mars.",
+        "mn": "Сонгодог зурхайд Ангараг Хонь, Хилэнц хоёр ордыг захирдаг байв. 1930 оноос хойш орчин үеийн олон зурхайч Хилэнцийг Плутонд шилжүүлсэн бол уламжлалт зурхайчид Ангарагийг хэрэглэсээр байна."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.planets-houses",
+      "key": "astrology.planets-houses.c18",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In a birth chart, what is the “midheaven” (MC)?",
+        "mn": "Төрөлтийн зурхайд «тэнгэрийн оройн цэг» (MC) гэж юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Where the ecliptic meets the meridian",
+          "mn": "Эклиптик меридиантай огтлолцох цэг"
+        },
+        {
+          "en": "The sign on the eastern horizon",
+          "mn": "Зүүн тэнгэрийн хаяан дахь орд"
+        },
+        {
+          "en": "The Moon’s position at birth",
+          "mn": "Төрөхөд Сарны байрлал"
+        },
+        {
+          "en": "The point opposite the Sun",
+          "mn": "Нарны эсрэг цэг"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The MC is where the ecliptic crosses the local meridian — the part of the zodiac culminating due south for northern observers at birth. Tradition ties it to career and public reputation.",
+        "mn": "MC бол эклиптик орон нутгийн меридиантай огтлолцох цэг буюу төрөх агшинд хойд хагас бөмбөрцгийн ажиглагчийн хувьд яг өмнө зүгт оргилдоо хүрсэн зурхайн хэсэг. Уламжлал түүнийг ажил мэргэжил, нэр хүндтэй холбодог."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.history",
+      "key": "astrology.history.c11",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which 16th-century French seer published a famous book of prophecies in 1555?",
+        "mn": "1555 онд алдарт зөгнөлийн ном хэвлүүлсэн XVI зууны Францын зөнч хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Nostradamus",
+          "mn": "Нострадамус"
+        },
+        {
+          "en": "Copernicus",
+          "mn": "Коперник"
+        },
+        {
+          "en": "Paracelsus",
+          "mn": "Парацельс"
+        },
+        {
+          "en": "Tycho Brahe",
+          "mn": "Тихо Браге"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Nostradamus was an apothecary and astrologer whose Les Prophéties are written in vague four-line verses. Their vagueness is why people keep “finding” events in them.",
+        "mn": "Нострадамус бол эмийн сангийн ажилтан, зурхайч байсан бөгөөд түүний «Зөгнөлүүд» бүдэг бадаг дөрвөн мөрт шүлгээр бичигдсэн. Ийм бүдэг учраас хүмүүс тэндээс үйл явдлыг «олсоор» байдаг."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.history",
+      "key": "astrology.history.c12",
+      "difficulty": 1,
+      "prompt": {
+        "en": "From which language do the English names of the zodiac signs come?",
+        "mn": "Зурхайн ордуудын англи нэр аль хэлнээс гаралтай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Arabic",
+          "mn": "Араб"
+        },
+        {
+          "en": "Latin",
+          "mn": "Латин"
+        },
+        {
+          "en": "Sanskrit",
+          "mn": "Санскрит"
+        },
+        {
+          "en": "Hebrew",
+          "mn": "Еврей"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Names like Leo, Virgo and Sagittarius are Latin words for lion, maiden and archer. Many star names, such as Aldebaran, come from Arabic instead.",
+        "mn": "Leo, Virgo, Sagittarius зэрэг нэрс нь латинаар арслан, охин, харваач гэсэн үгс. Харин Альдебаран зэрэг олон одны нэр араб хэлнээс гаралтай."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.history",
+      "key": "astrology.history.c13",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which 1960s musical made “the Age of Aquarius” a famous phrase?",
+        "mn": "1960-аад оны аль мюзикл «Хумхын эрин» хэллэгийг алдаршуулсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Cats",
+          "mn": "«Муурнууд» (Cats)"
+        },
+        {
+          "en": "Grease",
+          "mn": "«Гриз» (Grease)"
+        },
+        {
+          "en": "Cabaret",
+          "mn": "«Кабаре» (Cabaret)"
+        },
+        {
+          "en": "Hair",
+          "mn": "«Үс» (Hair)"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Hair opened in 1967, and its song “Aquarius” became a hit for The 5th Dimension in 1969. The phrase refers to the spring equinox slowly moving toward Aquarius.",
+        "mn": "«Үс» мюзикл 1967 онд тавигдсан бөгөөд «Aquarius» дуу нь 1969 онд The 5th Dimension хамтлагийн хит болсон. Энэ хэллэг хаврын тэгшитгэл аажмаар Хумх руу шилжиж буйг хэлдэг."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.history",
+      "key": "astrology.history.c14",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What did the Greek word hōroskopos, the root of “horoscope”, mean?",
+        "mn": "«Гороскоп» гэдэг үгийн үндэс Грекийн hōroskopos юу гэсэн утгатай байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Map of the stars",
+          "mn": "Одны газрын зураг"
+        },
+        {
+          "en": "Watcher of the hour",
+          "mn": "Цагийг ажиглагч"
+        },
+        {
+          "en": "Voice of fate",
+          "mn": "Хувь заяаны дуу хоолой"
+        },
+        {
+          "en": "Circle of animals",
+          "mn": "Амьтдын тойрог"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Hōroskopos meant “hour-watcher” and first referred to the sign rising at the moment of birth — what we now call the ascendant. Only later did it mean the whole chart.",
+        "mn": "Hōroskopos нь «цагийг ажиглагч» гэсэн утгатай бөгөөд эхэндээ төрөх агшинд мандаж буй ордыг, өөрөөр хэлбэл одоогийн асцендантыг хэлдэг байв. Хожим л бүх хүснэгтийг нэрлэх болжээ."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.history",
+      "key": "astrology.history.c15",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In medieval medicine, what did the “Zodiac Man” chart link to each sign?",
+        "mn": "Дундад зууны анагаах ухаанд «Зурхайн хүн» зураг орд бүрийг юутай холбосон бэ?"
+      },
+      "choices": [
+        {
+          "en": "A type of illness",
+          "mn": "Нэг төрлийн өвчин"
+        },
+        {
+          "en": "A healing herb",
+          "mn": "Эмийн ургамал"
+        },
+        {
+          "en": "A saint’s feast day",
+          "mn": "Гэгээнтний баярын өдөр"
+        },
+        {
+          "en": "A part of the body",
+          "mn": "Биеийн нэг хэсэг"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The chart ran from Aries at the head down to Pisces at the feet. Doctors used it to decide when to bleed patients or avoid surgery.",
+        "mn": "Зураг толгойд Хонь ордоос эхлээд хөлд Загас орд хүртэл үргэлжилдэг байв. Эмч нар үүгээр хэзээ цус гаргах, хэзээ мэс засал хийхгүй байхаа шийддэг байжээ."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.history",
+      "key": "astrology.history.c16",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which US First Lady was revealed in 1988 to have used an astrologer to plan the President’s schedule?",
+        "mn": "1988 онд АНУ-ын аль тэргүүн хатагтай Ерөнхийлөгчийн хуваарийг зурхайчаар төлөвлүүлдэг байсан нь илэрсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Jackie Kennedy",
+          "mn": "Жеки Кеннеди"
+        },
+        {
+          "en": "Hillary Clinton",
+          "mn": "Хиллари Клинтон"
+        },
+        {
+          "en": "Nancy Reagan",
+          "mn": "Нэнси Рейган"
+        },
+        {
+          "en": "Barbara Bush",
+          "mn": "Барбара Буш"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "After the 1981 assassination attempt on Ronald Reagan, Nancy Reagan consulted astrologer Joan Quigley about timing. Chief of staff Donald Regan made it public in his 1988 memoir.",
+        "mn": "1981 онд Рональд Рейганы амь насанд халдсаны дараа Нэнси Рейган цаг товлохдоо зурхайч Жоан Квиглитэй зөвлөлддөг болжээ. Тамгын газрын дарга Доналд Риган 1988 оны дурсамждаа үүнийг ил болгосон."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.history",
+      "key": "astrology.history.c17",
+      "difficulty": 3,
+      "prompt": {
+        "en": "What is Enūma Anu Enlil?",
+        "mn": "«Энума Ану Энлиль» гэж юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "A Babylonian series of sky omens",
+          "mn": "Вавилоны тэнгэрийн шинжийн цуврал"
+        },
+        {
+          "en": "A Greek astronomy textbook",
+          "mn": "Грекийн одон орны сурах бичиг"
+        },
+        {
+          "en": "An Indian lunar calendar",
+          "mn": "Энэтхэгийн сарны хуанли"
+        },
+        {
+          "en": "An Egyptian star clock",
+          "mn": "Египетийн одны цаг"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "This collection of about 70 clay tablets lists thousands of omens drawn from the Moon, Sun, planets and weather. It was compiled in Mesopotamia by the late 2nd millennium BCE.",
+        "mn": "70 орчим шавар хавтангаас бүрдэх энэ цуврал Сар, Нар, гараг, цаг агаараас уншсан мянга мянган шинжийг жагсаадаг. Месопотамид МЭӨ II мянганы сүүлч гэхэд эмхэтгэгджээ."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.history",
+      "key": "astrology.history.c18",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which 9th-century Persian astrologer, known in Latin as Albumasar, shaped medieval European astrology?",
+        "mn": "Латинаар Альбумасар хэмээн алдаршсан, Европын дундад зууны зурхайд нөлөөлсөн IX зууны Персийн зурхайч хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Avicenna",
+          "mn": "Авиценна"
+        },
+        {
+          "en": "Abu Ma’shar",
+          "mn": "Абу Машар"
+        },
+        {
+          "en": "Omar Khayyam",
+          "mn": "Омар Хайям"
+        },
+        {
+          "en": "Al-Khwarizmi",
+          "mn": "Аль-Хорезми"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Abu Ma’shar worked in Baghdad, and Latin translations of his books spread across Europe in the 12th century. He also explained tides as linked to the Moon.",
+        "mn": "Абу Машар Багдадад ажиллаж байсан бөгөөд түүний номын латин орчуулга XII зуунд Европ даяар тарсан. Тэр мөн далайн түрлэгийг Сартай холбон тайлбарлаж байжээ."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.mongol-years",
+      "key": "astrology.mongol-years.c11",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which animal is the twelfth and last in the cycle?",
+        "mn": "Арван хоёр жилийн мөчлөгийн сүүлчийн амьтан аль вэ?"
+      },
+      "choices": [
+        {
+          "en": "Dog",
+          "mn": "Нохой"
+        },
+        {
+          "en": "Pig",
+          "mn": "Гахай"
+        },
+        {
+          "en": "Rat",
+          "mn": "Хулгана"
+        },
+        {
+          "en": "Rooster",
+          "mn": "Тахиа"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The cycle runs Rat, Ox, Tiger, Rabbit, Dragon, Snake, Horse, Sheep, Monkey, Rooster, Dog and Pig. In the race legend the Pig came last after stopping to eat and nap.",
+        "mn": "Мөчлөг Хулгана, Үхэр, Бар, Туулай, Луу, Могой, Морь, Хонь, Бич, Тахиа, Нохой, Гахай гэсэн дараалалтай. Уралдааны домогт Гахай идэж, унтаж саатсан тул хамгийн сүүлд иржээ."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.mongol-years",
+      "key": "astrology.mongol-years.c12",
+      "difficulty": 1,
+      "prompt": {
+        "en": "At least how many years apart are two people with the same year animal?",
+        "mn": "Ижил жилтэй хоёр хүний насны зөрүү хамгийн багадаа хэдэн жил байх вэ?"
+      },
+      "choices": [
+        {
+          "en": "6",
+          "mn": "6"
+        },
+        {
+          "en": "10",
+          "mn": "10"
+        },
+        {
+          "en": "60",
+          "mn": "60"
+        },
+        {
+          "en": "12",
+          "mn": "12"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The twelve animals repeat every 12 years, so people sharing an animal are 0, 12, 24… years apart. The full element-and-animal combination repeats only every 60 years.",
+        "mn": "Арван хоёр амьтан 12 жил тутам давтагддаг тул ижил жилтэй хүмүүсийн насны зөрүү 0, 12, 24… байна. Махбод, амьтны бүтэн хослол харин 60 жил тутамд л давтагдана."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.mongol-years",
+      "key": "astrology.mongol-years.c13",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which animal’s year is 2027?",
+        "mn": "2027 он аль амьтны жил вэ?"
+      },
+      "choices": [
+        {
+          "en": "Monkey",
+          "mn": "Бич"
+        },
+        {
+          "en": "Snake",
+          "mn": "Могой"
+        },
+        {
+          "en": "Rooster",
+          "mn": "Тахиа"
+        },
+        {
+          "en": "Sheep",
+          "mn": "Хонь"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Sheep follows the Horse, so 2027 is a Sheep year, beginning at Tsagaan Sar. The previous Sheep year was 2015.",
+        "mn": "Хонь Морины дараа ордог тул 2027 он Цагаан сараас эхлэн Хонин жил болно. Өмнөх Хонин жил 2015 он байсан."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.mongol-years",
+      "key": "astrology.mongol-years.c14",
+      "difficulty": 2,
+      "prompt": {
+        "en": "A baby born in mid-2000 belongs to which animal year?",
+        "mn": "2000 оны дундуур төрсөн хүүхэд аль амьтны жилтэй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Rabbit",
+          "mn": "Туулай"
+        },
+        {
+          "en": "Snake",
+          "mn": "Могой"
+        },
+        {
+          "en": "Dragon",
+          "mn": "Луу"
+        },
+        {
+          "en": "Horse",
+          "mn": "Морь"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "2000 was a metal Dragon year, 12 years before 2012 and 24 before 2024. Dragon years were especially popular for births in East Asia.",
+        "mn": "2000 он бол төмөр Луу жил байсан бөгөөд 2012 оноос 12, 2024 оноос 24 жилийн өмнө. Зүүн Азид Луу жилд хүүхэд төрүүлэхийг онцгой эрхэмлэдэг."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.mongol-years",
+      "key": "astrology.mongol-years.c15",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In the popular legend of the race, how did the Rat win first place?",
+        "mn": "Уралдааны тухай домогт Хулгана яаж түрүүлсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "It flew across the river",
+          "mn": "Голыг нисэн гатласан"
+        },
+        {
+          "en": "It started the night before",
+          "mn": "Өмнөх шөнө эрт гарсан"
+        },
+        {
+          "en": "The Cat carried it",
+          "mn": "Муур үүрч явсан"
+        },
+        {
+          "en": "It rode on the Ox and leapt off",
+          "mn": "Үхрийн нуруун дээр гараад үсэрсэн"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Rat hitched a ride on the kind Ox across the river and jumped ahead at the finish. That is why the Ox comes second.",
+        "mn": "Хулгана сайхан сэтгэлт Үхрийн нуруун дээр гарч голыг гатлаад, барианы өмнө үсрэн түрүүлжээ. Тийм ч учраас Үхэр хоёрт ордог."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.mongol-years",
+      "key": "astrology.mongol-years.c16",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which animal comes right after the Monkey?",
+        "mn": "Бичний дараа аль амьтан ордог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Dog",
+          "mn": "Нохой"
+        },
+        {
+          "en": "Rooster",
+          "mn": "Тахиа"
+        },
+        {
+          "en": "Sheep",
+          "mn": "Хонь"
+        },
+        {
+          "en": "Pig",
+          "mn": "Гахай"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The order runs Sheep, Monkey, Rooster, Dog. The Rooster is the only bird among the twelve animals.",
+        "mn": "Дараалал нь Хонь, Бич, Тахиа, Нохой. Тахиа бол арван хоёр амьтны дундах цорын ганц шувуу."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.mongol-years",
+      "key": "astrology.mongol-years.c17",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In the traditional trines, which two animals are grouped with the Snake?",
+        "mn": "Уламжлалт гурвалд Могойтой аль хоёр амьтан нэг бүлэгт ордог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Tiger and Dog",
+          "mn": "Бар, Нохой"
+        },
+        {
+          "en": "Ox and Rooster",
+          "mn": "Үхэр, Тахиа"
+        },
+        {
+          "en": "Rat and Monkey",
+          "mn": "Хулгана, Бич"
+        },
+        {
+          "en": "Rabbit and Pig",
+          "mn": "Туулай, Гахай"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Snake trine is Ox (2nd), Snake (6th) and Rooster (10th), each four places apart. Tradition calls them friendly, compatible signs.",
+        "mn": "Могойн гурвал нь Үхэр (2), Могой (6), Тахиа (10) бөгөөд тус бүр дөрвөн байрын зайтай. Уламжлал тэднийг найрсаг, тохирох жилүүд гэж үздэг."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.mongol-years",
+      "key": "astrology.mongol-years.c18",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Tradition says the Rat “clashes” with the animal six places away. Which one?",
+        "mn": "Уламжлалаар Хулгана зургаан байрын зайтай амьтантай «харшдаг». Аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Ox",
+          "mn": "Үхэр"
+        },
+        {
+          "en": "Dragon",
+          "mn": "Луу"
+        },
+        {
+          "en": "Horse",
+          "mn": "Морь"
+        },
+        {
+          "en": "Pig",
+          "mn": "Гахай"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Each animal is said to clash with the one directly opposite it on the wheel, such as Rat–Horse and Ox–Sheep. This is a folk belief, not a measured effect.",
+        "mn": "Амьтан бүр хүрдэн дээрх яг эсрэг талын амьтантайгаа харшдаг гэж үздэг: Хулгана–Морь, Үхэр–Хонь гэх мэт. Энэ бол ардын итгэл үнэмшил, хэмжиж баталсан зүйл биш."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.mongol-calendar",
+      "key": "astrology.mongol-calendar.c11",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In Mongolian year names, which colour stands for the water element?",
+        "mn": "Монгол жилийн нэрэнд усны махбодыг аль өнгө илэрхийлдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Хөх (blue)",
+          "mn": "Хөх"
+        },
+        {
+          "en": "Цагаан (white)",
+          "mn": "Цагаан"
+        },
+        {
+          "en": "Шар (yellow)",
+          "mn": "Шар"
+        },
+        {
+          "en": "Хар (black)",
+          "mn": "Хар"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Water years are “black” years, such as Хар бар (2022). Хөх is wood, not water — a common trap.",
+        "mn": "Усны жилийг «хар» жил гэдэг, жишээ нь Хар бар жил (2022). Хөх нь усны биш, модны өнгө гэдгийг андуурах нь элбэг."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.mongol-calendar",
+      "key": "astrology.mongol-calendar.c12",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which colour stands for the metal (iron) element?",
+        "mn": "Төмөр махбодыг аль өнгө илэрхийлдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Шар (yellow)",
+          "mn": "Шар"
+        },
+        {
+          "en": "Цагаан (white)",
+          "mn": "Цагаан"
+        },
+        {
+          "en": "Улаан (red)",
+          "mn": "Улаан"
+        },
+        {
+          "en": "Хар (black)",
+          "mn": "Хар"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Metal years are white, so 2020 was Цагаан хулгана, the white (metal) Rat. The pairing matches the classical Chinese five-element colours.",
+        "mn": "Төмөр жил цагаан өнгөтэй тул 2020 он Цагаан хулгана жил байв. Энэ хослол Хятадын сонгодог таван махбодын өнгөтэй таардаг."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.mongol-calendar",
+      "key": "astrology.mongol-calendar.c13",
+      "difficulty": 1,
+      "prompt": {
+        "en": "How many elements does the Mongolian calendar cycle through?",
+        "mn": "Монгол хуанли хэдэн махбодоор эргэлддэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Five",
+          "mn": "Тав"
+        },
+        {
+          "en": "Four",
+          "mn": "Дөрөв"
+        },
+        {
+          "en": "Three",
+          "mn": "Гурав"
+        },
+        {
+          "en": "Twelve",
+          "mn": "Арван хоёр"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The five elements are wood, fire, earth, metal and water, each lasting two years. Five elements over twelve animals make the 60-year cycle.",
+        "mn": "Таван махбод нь мод, гал, шороо, төмөр, ус бөгөөд тус бүр хоёр жил үргэлжилдэг. Таван махбод арван хоёр амьтантай хослон жаран жилийн мөчлөгийг бүрдүүлдэг."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.mongol-calendar",
+      "key": "astrology.mongol-calendar.c14",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which colour stands for the earth element?",
+        "mn": "Шороон махбодыг аль өнгө илэрхийлдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Хүрэн (brown)",
+          "mn": "Хүрэн"
+        },
+        {
+          "en": "Ногоон (green)",
+          "mn": "Ногоон"
+        },
+        {
+          "en": "Улаан (red)",
+          "mn": "Улаан"
+        },
+        {
+          "en": "Шар (yellow)",
+          "mn": "Шар"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Earth years are yellow, such as Шар нохой (2018). Yellow was also the imperial colour linked to the centre in the five-element system.",
+        "mn": "Шороон жил шар өнгөтэй, жишээ нь Шар нохой жил (2018). Таван махбодын тогтолцоонд шар нь төвтэй холбоотой эзэн хааны өнгө ч байсан."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.mongol-calendar",
+      "key": "astrology.mongol-calendar.c15",
+      "difficulty": 2,
+      "prompt": {
+        "en": "2025 was a wood Snake year. What is its Mongolian name?",
+        "mn": "2025 он модон Могой жил байв. Монголоор юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Хөх могой",
+          "mn": "Хөх могой"
+        },
+        {
+          "en": "Хөхөгчин могой",
+          "mn": "Хөхөгчин могой"
+        },
+        {
+          "en": "Улаан могой",
+          "mn": "Улаан могой"
+        },
+        {
+          "en": "Шарагчин могой",
+          "mn": "Шарагчин могой"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "2024 was Хөх луу, the first wood year, so 2025, the second (female) wood year, is Хөхөгчин могой. The -гчин ending marks the female form.",
+        "mn": "2024 он модны эхний жил Хөх луу байсан тул модны хоёр дахь (эм) жил болох 2025 он Хөхөгчин могой. «-гчин» дагавар эм хэлбэрийг заадаг."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.mongol-calendar",
+      "key": "astrology.mongol-calendar.c16",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the first day of Tsagaan Sar called?",
+        "mn": "Цагаан сарын эхний өдрийг юу гэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Битүүн",
+          "mn": "Битүүн"
+        },
+        {
+          "en": "Хуучин он",
+          "mn": "Хуучин он"
+        },
+        {
+          "en": "Билгийн тэргүүн",
+          "mn": "Билгийн тэргүүн"
+        },
+        {
+          "en": "Шинийн нэгэн",
+          "mn": "Шинийн нэгэн"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Шинийн нэгэн follows Битүүн and begins with greeting elders (золгох) at dawn. Many families also walk in the direction the calendar names as lucky that year.",
+        "mn": "Шинийн нэгэн Битүүний маргааш болж, үүрээр ахмадуудтайгаа золгож эхэлдэг. Олон айл тухайн жил хуанлид заасан сайн зүг рүү мөр гаргадаг."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.mongol-calendar",
+      "key": "astrology.mongol-calendar.c17",
+      "difficulty": 3,
+      "prompt": {
+        "en": "What was the Mongolian name of the year 1960?",
+        "mn": "1960 оныг монголоор юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Хар хулгана",
+          "mn": "Хар хулгана"
+        },
+        {
+          "en": "Шар үхэр",
+          "mn": "Шар үхэр"
+        },
+        {
+          "en": "Цагаан хулгана",
+          "mn": "Цагаан хулгана"
+        },
+        {
+          "en": "Хөх бар",
+          "mn": "Хөх бар"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The cycle repeats every 60 years, so 1960 matches 2020: both are white (metal) Rat years. Your “жаран” comes round once in a lifetime at age 60.",
+        "mn": "Мөчлөг 60 жил тутам давтагддаг тул 1960 он 2020 онтой адил Цагаан хулгана жил. Хүний насанд жаран нас хүрэхэд төрсөн жил бүтнээрээ давтагддаг."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.mongol-calendar",
+      "key": "astrology.mongol-calendar.c18",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The current жаран began with the fire Rabbit year 1987. When does the next one start?",
+        "mn": "Одоогийн жаран 1987 оны гал Туулай жилээр эхэлсэн. Дараагийнх хэзээ эхлэх вэ?"
+      },
+      "choices": [
+        {
+          "en": "2047",
+          "mn": "2047"
+        },
+        {
+          "en": "2027",
+          "mn": "2027"
+        },
+        {
+          "en": "2035",
+          "mn": "2035"
+        },
+        {
+          "en": "2059",
+          "mn": "2059"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Each жаран lasts 60 years, so the next starts with the fire Rabbit year 2047. Counting jaran this way follows the Tibetan rabjung system begun in 1027.",
+        "mn": "Жаран бүр 60 жил үргэлжилдэг тул дараагийнх нь 2047 оны гал Туулай жилээр эхэлнэ. Жараныг ингэж тоолох нь 1027 онд эхэлсэн Төвдийн рабжүнгийн тогтолцоог дагадаг."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.chinese-vs-western",
+      "key": "astrology.chinese-vs-western.c11",
+      "difficulty": 1,
+      "prompt": {
+        "en": "How many signs are in the Western zodiac and animals in the Eastern cycle?",
+        "mn": "Барууны зурхай хэдэн ордтой, дорнын мөчлөг хэдэн амьтантай вэ?"
+      },
+      "choices": [
+        {
+          "en": "12 and 10",
+          "mn": "12 ба 10"
+        },
+        {
+          "en": "10 and 12",
+          "mn": "10 ба 12"
+        },
+        {
+          "en": "13 each",
+          "mn": "Тус бүр 13"
+        },
+        {
+          "en": "12 each",
+          "mn": "Тус бүр 12"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Both systems use twelve, a number tied to the roughly twelve lunar months in a year. Jupiter, which takes about 12 years to orbit, also shaped the Eastern cycle.",
+        "mn": "Хоёр тогтолцоо хоёулаа арван хоёрыг ашигладаг нь жилд 12 орчим сар байдагтай холбоотой. Нарыг 12 орчим жилд тойрдог Бархасбадь ч дорнын мөчлөгт нөлөөлсөн."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.chinese-vs-western",
+      "key": "astrology.chinese-vs-western.c12",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which animal appears in the Eastern cycle but not among the Western signs?",
+        "mn": "Аль амьтан дорнын мөчлөгт байдаг ч барууны ордод байдаггүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Lion",
+          "mn": "Арслан"
+        },
+        {
+          "en": "Crab",
+          "mn": "Хавч"
+        },
+        {
+          "en": "Dog",
+          "mn": "Нохой"
+        },
+        {
+          "en": "Scorpion",
+          "mn": "Хилэнц"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Dog is one of the twelve Eastern animals, while the Western zodiac has no dog. Lion, crab and scorpion are Western signs that have no Eastern year.",
+        "mn": "Нохой дорнын арван хоёр амьтны нэг бол барууны зурхайд нохой байхгүй. Арслан, хавч, хилэнц барууны орд боловч дорнод тийм жил байхгүй."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.chinese-vs-western",
+      "key": "astrology.chinese-vs-western.c13",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which Western element has no place in the East Asian five elements?",
+        "mn": "Барууны аль махбод Зүүн Азийн таван махбодод байдаггүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Fire",
+          "mn": "Гал"
+        },
+        {
+          "en": "Water",
+          "mn": "Ус"
+        },
+        {
+          "en": "Earth",
+          "mn": "Шороо"
+        },
+        {
+          "en": "Air",
+          "mn": "Хий"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Eastern five are wood, fire, earth, metal and water — no air. Fire, earth and water appear in both systems.",
+        "mn": "Дорнын таван махбод нь мод, гал, шороо, төмөр, ус бөгөөд хий байхгүй. Гал, шороо, ус хоёр тогтолцоонд хоёуланд нь бий."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.chinese-vs-western",
+      "key": "astrology.chinese-vs-western.c14",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Besides metal, which East Asian element is missing from the Western four?",
+        "mn": "Төмрөөс гадна Зүүн Азийн аль махбод барууны дөрвөнд байдаггүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Fire",
+          "mn": "Гал"
+        },
+        {
+          "en": "Water",
+          "mn": "Ус"
+        },
+        {
+          "en": "Earth",
+          "mn": "Шороо"
+        },
+        {
+          "en": "Wood",
+          "mn": "Мод"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Wood and metal are unique to the five-element system, giving the Mongolian colours хөх and цагаан. Wood is linked with spring and the east.",
+        "mn": "Мод, төмөр хоёр зөвхөн таван махбодын тогтолцоонд байдаг бөгөөд монгол хуанлид хөх, цагаан өнгө болдог. Мод нь хавар, зүүн зүгтэй холбогддог."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.chinese-vs-western",
+      "key": "astrology.chinese-vs-western.c15",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the traditional Sanskrit name for Indian (Vedic) astrology?",
+        "mn": "Энэтхэгийн (Ведийн) зурхайн уламжлалт санскрит нэр юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Ayurveda",
+          "mn": "Аюурведа"
+        },
+        {
+          "en": "Jyotisha",
+          "mn": "Жётиш"
+        },
+        {
+          "en": "Mandala",
+          "mn": "Мандал"
+        },
+        {
+          "en": "Vastu",
+          "mn": "Васту"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Jyotisha means roughly “science of light” and is one of the traditional auxiliary disciplines of the Vedas. Mongolian зурхай absorbed much of it through Tibet.",
+        "mn": "Жётиш нь ойролцоогоор «гэрлийн ухаан» гэсэн утгатай бөгөөд Ведийн туслах уламжлалт ухаануудын нэг. Монгол зурхай түүнээс Төвдөөр дамжин ихийг өвлөсөн."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.chinese-vs-western",
+      "key": "astrology.chinese-vs-western.c16",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In the Japanese version of the cycle, which animal stands in for the Pig?",
+        "mn": "Япон мөчлөгт Гахайн оронд аль амьтан ордог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Bear",
+          "mn": "Баавгай"
+        },
+        {
+          "en": "Fox",
+          "mn": "Үнэг"
+        },
+        {
+          "en": "Wild boar",
+          "mn": "Зэрлэг гахай"
+        },
+        {
+          "en": "Deer",
+          "mn": "Буга"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Japan’s twelfth animal is the inoshishi, the wild boar. The animals still mark years in Japan, which otherwise uses the Western calendar.",
+        "mn": "Японы арван хоёр дахь амьтан бол иношиши буюу зэрлэг гахай. Япон барууны хуанли хэрэглэдэг ч жилийг амьтнаар нэрлэсээр байна."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.chinese-vs-western",
+      "key": "astrology.chinese-vs-western.c17",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Because of the sidereal shift, someone with a Western Sun in Leo is most often which sign in Vedic astrology?",
+        "mn": "Одны шилжилтийн улмаас барууны зурхайгаар Нар нь Арслан ордонд байгаа хүн Ведийн зурхайгаар ихэвчлэн аль ордтой вэ?"
+      },
+      "choices": [
+        {
+          "en": "Cancer",
+          "mn": "Мэлхий"
+        },
+        {
+          "en": "Virgo",
+          "mn": "Охин"
+        },
+        {
+          "en": "Leo",
+          "mn": "Арслан"
+        },
+        {
+          "en": "Aquarius",
+          "mn": "Хумх"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The sidereal zodiac now lags the tropical one by about 24°, almost a whole sign. So most people’s Vedic sign is the one before their Western sign.",
+        "mn": "Одны зурхай одоо тропик зурхайгаас 24 орчим градусаар буюу бараг бүтэн ордоор хоцорч байна. Тиймээс ихэнх хүний Ведийн орд нь барууны ордынхоо өмнөх орд байдаг."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.chinese-vs-western",
+      "key": "astrology.chinese-vs-western.c18",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In Indian and Mongolian tradition, Rahu’s partner Ketu is linked with which point?",
+        "mn": "Энэтхэг, монгол уламжлалд Рахүгийн хамтрагч Кету ямар цэгтэй холбогддог вэ?"
+      },
+      "choices": [
+        {
+          "en": "The Moon’s south node",
+          "mn": "Сарны өмнөд зангилаа"
+        },
+        {
+          "en": "The North Star",
+          "mn": "Алтан гадас"
+        },
+        {
+          "en": "The Sun’s centre",
+          "mn": "Нарны төв"
+        },
+        {
+          "en": "Earth’s north pole",
+          "mn": "Дэлхийн хойд туйл"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Rahu and Ketu are the two points where the Moon’s path crosses the Sun’s — eclipses happen only near them. Myth says they are the head and tail of one cut-apart demon.",
+        "mn": "Рахү, Кету бол Сарны зам Нарны замтай огтлолцох хоёр цэг бөгөөд хиртэлт зөвхөн тэдгээрийн ойролцоо болдог. Домогт тэд хоёр хуваагдсан нэг мангасын толгой, сүүл гэж үздэг."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.science",
+      "key": "astrology.science.c11",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which is the scientific study of stars, planets and space?",
+        "mn": "Од, гараг, сансрыг шинжлэх ухаанчаар судалдаг салбар аль вэ?"
+      },
+      "choices": [
+        {
+          "en": "Astrology",
+          "mn": "Зурхай"
+        },
+        {
+          "en": "Numerology",
+          "mn": "Тоон зурхай"
+        },
+        {
+          "en": "Astronomy",
+          "mn": "Одон орон судлал"
+        },
+        {
+          "en": "Alchemy",
+          "mn": "Алхими"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Astronomy measures and explains objects in space using observation and physics. Astrology claims that sky positions shape human lives, which tests have not supported.",
+        "mn": "Одон орон судлал ажиглалт, физикт тулгуурлан сансрын биетийг хэмжиж тайлбарладаг. Зурхай тэнгэрийн байрлал хүний амьдралд нөлөөлдөг гэдэг ч туршилтаар батлагдаагүй."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.science",
+      "key": "astrology.science.c12",
+      "difficulty": 1,
+      "prompt": {
+        "en": "How do scientists classify astrology today?",
+        "mn": "Эрдэмтэд өнөөдөр зурхайг юу гэж ангилдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "A pseudoscience",
+          "mn": "Хуурмаг шинжлэх ухаан"
+        },
+        {
+          "en": "A branch of physics",
+          "mn": "Физикийн салбар"
+        },
+        {
+          "en": "A proven theory",
+          "mn": "Батлагдсан онол"
+        },
+        {
+          "en": "A form of geology",
+          "mn": "Геологийн нэг хэлбэр"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Astrology makes claims that sound scientific but fail controlled tests, so it is called a pseudoscience. Many people still enjoy it as culture or entertainment.",
+        "mn": "Зурхай шинжлэх ухаан мэт сонсогдох ч хяналттай туршилтад тэнцдэггүй тул хуурмаг шинжлэх ухаан гэж үздэг. Олон хүн үүнийг соёл, зугаа болгон сонирхсоор байдаг."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.science",
+      "key": "astrology.science.c13",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Why does the Sun seem to move through the zodiac during the year?",
+        "mn": "Нар жилийн туршид зурхайн ордуудаар дамжин хөдөлж буй мэт яагаад харагддаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Earth orbits the Sun",
+          "mn": "Дэлхий Нарыг тойрдог"
+        },
+        {
+          "en": "The Sun orbits Earth",
+          "mn": "Нар Дэлхийг тойрдог"
+        },
+        {
+          "en": "The stars move daily",
+          "mn": "Одод өдөр бүр хөдөлдөг"
+        },
+        {
+          "en": "The Moon pushes it",
+          "mn": "Сар түүнийг түлхдэг"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "As Earth travels around the Sun, we see the Sun against different background stars through the year. Those background constellations form the zodiac.",
+        "mn": "Дэлхий Нарыг тойрох явцад бид жилийн туршид Нарыг өөр өөр одны дэвсгэр дээр хардаг. Тэр дэвсгэр одны ордууд зурхайн тойргийг бүрдүүлдэг."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.science",
+      "key": "astrology.science.c14",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the ecliptic?",
+        "mn": "Эклиптик гэж юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "A type of eclipse",
+          "mn": "Хиртэлтийн нэг төрөл"
+        },
+        {
+          "en": "The Moon’s dark side",
+          "mn": "Сарны харанхуй тал"
+        },
+        {
+          "en": "A ring around Saturn",
+          "mn": "Санчирын цагираг"
+        },
+        {
+          "en": "The Sun’s yearly path across the sky",
+          "mn": "Нарны тэнгэрт жил бүр туулах зам"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The ecliptic is the Sun’s apparent path over a year, really the plane of Earth’s orbit. It is named this because eclipses happen only when the Moon is on or near it.",
+        "mn": "Эклиптик бол Нарны жилийн илэрхий зам буюу үнэндээ Дэлхийн тойрог замын хавтгай. Сар түүн дээр эсвэл ойролцоо байхад л хиртэлт болдог тул ингэж нэрлэсэн."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.science",
+      "key": "astrology.science.c15",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Are the stars of a zodiac constellation close to one another?",
+        "mn": "Нэг одны ордны одод хоорондоо ойр байдаг уу?"
+      },
+      "choices": [
+        {
+          "en": "Yes, they touch each other",
+          "mn": "Тийм, бие биедээ шүргэлцдэг"
+        },
+        {
+          "en": "Yes, they orbit one star",
+          "mn": "Тийм, нэг одыг тойрдог"
+        },
+        {
+          "en": "Yes, all are equally far",
+          "mn": "Тийм, бүгд адил зайтай"
+        },
+        {
+          "en": "No, they lie at very different distances",
+          "mn": "Үгүй, тэс өөр зайд байдаг"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "A constellation is only a pattern seen from Earth; its stars can be dozens or thousands of light-years apart. Seen from elsewhere in the galaxy, the shapes would fall apart.",
+        "mn": "Одны орд бол Дэлхийгээс харагдах хээ л бөгөөд одод нь хоорондоо хэдэн арваас хэдэн мянган гэрлийн жилийн зайтай байж болно. Галактикийн өөр газраас харвал эдгээр дүрс задарна."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.science",
+      "key": "astrology.science.c16",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Critics note that at birth, which pulls on a baby more strongly than Mars does?",
+        "mn": "Шүүмжлэгчид төрөх үед нярайг Ангарагаас илүү хүчтэй юу татдаг гэж онцолдог вэ?"
+      },
+      "choices": [
+        {
+          "en": "The doctor in the room",
+          "mn": "Өрөөнд байгаа эмч"
+        },
+        {
+          "en": "Nothing at all",
+          "mn": "Юу ч биш"
+        },
+        {
+          "en": "The Pole Star",
+          "mn": "Алтан гадас"
+        },
+        {
+          "en": "The planet Neptune",
+          "mn": "Далайн ван гараг"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Gravity weakens with distance, so a nearby doctor or midwife exerts more pull on a newborn than distant Mars. The point is that no known force could carry astrology’s claimed influence.",
+        "mn": "Таталцал зайнаас хамаарч сулардаг тул ойр байгаа эмч, эх баригч алс холын Ангарагаас илүү хүчтэй татдаг. Зурхайн нөлөөг дамжуулах мэдэгдэж буй хүч байхгүй гэдгийг энэ жишээ харуулдаг."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.science",
+      "key": "astrology.science.c17",
+      "difficulty": 3,
+      "prompt": {
+        "en": "A study of over 2,000 “time twins”, born minutes apart in 1958 London, found what?",
+        "mn": "1958 онд Лондонд хэдхэн минутын зөрүүтэй төрсөн 2,000 гаруй «цагийн ихэр»-ийн судалгаа юу олсон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Nearly identical personalities",
+          "mn": "Бараг ижил зан чанартай"
+        },
+        {
+          "en": "No more alike than chance",
+          "mn": "Санамсаргүйгээс илүү төстэй биш"
+        },
+        {
+          "en": "The same careers",
+          "mn": "Ижил мэргэжилтэй"
+        },
+        {
+          "en": "Identical life spans",
+          "mn": "Ижил насалсан"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Researchers Geoffrey Dean and Ivan Kelly compared over 100 traits of people born almost together and found no special similarity. If birth charts shaped lives, these people should have matched.",
+        "mn": "Судлаач Жеффри Дин, Иван Келли нар бараг зэрэг төрсөн хүмүүсийн 100 гаруй шинжийг харьцуулаад онцгой төстэй зүйл олоогүй. Төрөлтийн зурхай амьдралыг тодорхойлдог бол эдгээр хүн адилхан байх ёстой байв."
+      }
+    },
+    {
+      "topicSlug": "astrology",
+      "lessonKey": "astrology.science",
+      "key": "astrology.science.c18",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Michel Gauquelin’s disputed “Mars effect” claimed a link between Mars and whom?",
+        "mn": "Мишель Гокленийн маргаантай «Ангарагийн нөлөө» Ангарагийг хэнтэй холбосон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Famous painters",
+          "mn": "Алдартай зураачид"
+        },
+        {
+          "en": "Twins",
+          "mn": "Ихрүүд"
+        },
+        {
+          "en": "Left-handed people",
+          "mn": "Солгой хүмүүс"
+        },
+        {
+          "en": "Sports champions",
+          "mn": "Спортын аваргууд"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Gauquelin reported that top athletes were born slightly more often with Mars rising or overhead. Later checks found the effect likely came from biased data selection.",
+        "mn": "Гоклен шилдэг тамирчид Ангараг мандах эсвэл оройд байх үед арай олон төрсөн гэж мэдээлжээ. Хожмын шалгалтаар энэ нь өгөгдлийг өрөөсгөл сонгосноос үүссэн байх магадлалтай болох нь тогтоогдсон."
+      }
+    }
+  ]
+}

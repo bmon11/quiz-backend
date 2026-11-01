@@ -1,0 +1,2466 @@
+{
+  "lessons": [
+    {
+      "topicSlug": "ulaanbaatar",
+      "key": "ulaanbaatar.from-ikh-khuree-to-ulaanbaatar",
+      "order": 1,
+      "title": {
+        "en": "From Ikh Khüree to Ulaanbaatar: City History",
+        "mn": "Их Хүрээнээс Улаанбаатар хүртэл: Хотын түүх"
+      },
+      "summary": {
+        "en": "Trace the nomadic journey of Mongolia's capital from a mobile monastery to a modern metropolis.",
+        "mn": "Монгол Улсын нийслэл нүүдэлчин хийдээс орчин үеийн их хот болон хөгжсөн түүхэн замнал."
+      },
+      "body": {
+        "en": "Founded in 1639 as Örgöö (Urga), the city was originally a nomadic monastic center. It changed locations over 25 times before settling near the confluence of the Tuul and Selbe rivers in 1778. In 1924, it was renamed Ulaanbaatar ('Red Hero') in honor of the revolutionary leader Damdin Sükhbaatar.",
+        "mn": "Анх 1639 онд Өргөө нэртэйгээр үүсгэн байгуулагдсан тус хот нь нүүдэллэж явдаг шашны төв байв. 1778 онд Туул, Сэлбэ голын бэлчирт суурьшихаасаа өмнө 25 гаруй удаа байршлаа сольжээ. 1924 онд хувьсгалын удирдагч Дамдины Сүхбаатарыг хүндэтгэн Улаанбаатар ('Улаан баатар') хэмээн нэрлэжээ."
+      },
+      "visual": {
+        "kind": "timeline",
+        "items": [
+          {
+            "when": {
+              "en": "1639",
+              "mn": "1639 он"
+            },
+            "title": {
+              "en": "Foundation at Shireet Tsagaan Nuur",
+              "mn": "Ширээт Цагаан нуурт үүсгэн байгуулагдав"
+            },
+            "body": {
+              "en": "Established as a yurt monastery for Zanabazar, the first Bogd Gegeen of Mongolia.",
+              "mn": "Монголын анхны Богд Гэгээн Занабазарт зориулсан гэр өргөө, хийд болон байгуулагджээ."
+            }
+          },
+          {
+            "when": {
+              "en": "1778",
+              "mn": "1778 он"
+            },
+            "title": {
+              "en": "Settling at the Present Site",
+              "mn": "Одоогийн байршилд суурьшив"
+            },
+            "body": {
+              "en": "After moving dozens of times, the mobile city officially settled permanently in the Tuul River valley.",
+              "mn": "Олон арван удаа нүүдэллэсний эцэст тус хот Туул голын хөндийд албан ёсоор бүрмөсөн суурьшжээ."
+            }
+          },
+          {
+            "when": {
+              "en": "1911",
+              "mn": "1911 он"
+            },
+            "title": {
+              "en": "Capital of the Bogd Khanate",
+              "mn": "Богд Хаант Монгол Улсын нийслэл"
+            },
+            "body": {
+              "en": "Renamed Niislel Khüree after Mongolia declared independence from the Qing Dynasty.",
+              "mn": "Монгол Улс Манж Чин гүрнээс тусгаар тогтнолоо зарласны дараа Нийслэл Хүрээ хэмээн нэрлэжээ."
+            }
+          },
+          {
+            "when": {
+              "en": "1924",
+              "mn": "1924 он"
+            },
+            "title": {
+              "en": "Becoming Ulaanbaatar",
+              "mn": "Улаанбаатар нэртэй болов"
+            },
+            "body": {
+              "en": "The Mongolian People's Republic is declared, and the capital officially receives its current name.",
+              "mn": "БНМАУ-ыг тунхаглаж, нийслэл хот албан ёсоор одоогийн нэрээ авчээ."
+            }
+          },
+          {
+            "when": {
+              "en": "1940s-1950s",
+              "mn": "1940-1950-иад он"
+            },
+            "title": {
+              "en": "Soviet-Era Urban Planning",
+              "mn": "Зөвлөлтийн үеийн хот төлөвлөлт"
+            },
+            "body": {
+              "en": "The city transforms with neoclassical government buildings, apartment blocks, and wide avenues.",
+              "mn": "Неоклассик загвартай засгийн газрын барилгууд, орон сууцны хорооллууд, өргөн чөлөөнүүдээр хот шинэчлэгдэв."
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "The city was once known as 'Nomiin Khüree' and 'Ikh Khüree' as it grew into a major trade hub between Russia and China.",
+          "mn": "Энэхүү хот нь Орос, Хятадын хоорондох худалдааны томоохон зангилаа болж өргөжихдөө урьд нь 'Номын Хүрээ', 'Их Хүрээ' гэж нэрлэгддэг байв."
+        },
+        {
+          "en": "The landmark 1924 decision to rename the capital was suggested by Soviet delegate T. Ryskulov during the first State Great Khural.",
+          "mn": "Нийслэлийг шинээр нэрлэх 1924 оны түүхэн шийдвэрийг анхдугаар Их Хурлын үеэр Зөвлөлтийн төлөөлөгч Т. Рыскулов санал болгож байжээ."
+        }
+      ]
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "key": "ulaanbaatar.the-nine-districts",
+      "order": 2,
+      "title": {
+        "en": "The Nine Districts",
+        "mn": "Нийслэлийн есөн дүүрэг"
+      },
+      "summary": {
+        "en": "Explore how the capital of Mongolia is divided administratively into central and satellite districts.",
+        "mn": "Монгол Улсын нийслэл засаг захиргааны хувьд төвийн болон алслагдсан дүүргүүдэд хэрхэн хуваагддагтай танилцаарай."
+      },
+      "body": {
+        "en": "Ulaanbaatar is divided into nine administrative districts ('düüreg'). Six are core urban areas, while three (Baganuur, Bagakhangai, and Nalaikh) function as non-contiguous satellite municipalities situated further away but still under the capital's official jurisdiction.",
+        "mn": "Улаанбаатар хот засаг захиргааны есөн дүүрэгт хуваагддаг. Үүний зургаа нь хотын төвийн дүүргүүд бөгөөд үлдсэн гурав нь (Багануур, Багахангай, Налайх) алслагдсан дагуул хотууд боловч нийслэлийн харьяанд явдаг."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "🏢",
+            "title": {
+              "en": "Sükhbaatar",
+              "mn": "Сүхбаатар"
+            },
+            "facts": [
+              {
+                "en": "The political and cultural heart of the city, containing Parliament and the central square.",
+                "mn": "Төрийн ордон болон төв талбайг багтаасан хотын улс төр, соёлын гол төв юм."
+              },
+              {
+                "en": "Named after the revolutionary leader Damdin Sükhbaatar.",
+                "mn": "Хувьсгалын удирдагч Дамдины Сүхбаатарын нэрээр нэрлэгдсэн."
+              }
+            ],
+            "subtitle": {
+              "en": "The Downtown Core",
+              "mn": "Хотын төв хэсэг"
+            }
+          },
+          {
+            "icon": "🏔️",
+            "title": {
+              "en": "Bayangol",
+              "mn": "Баянгол"
+            },
+            "facts": [
+              {
+                "en": "One of the most densely populated residential districts, home to the main railway station.",
+                "mn": "Хүн амын нягтрал ихтэй орон сууцны дүүрэг бөгөөд төв вокзал энд байрладаг."
+              },
+              {
+                "en": "Formerly known as Oktyabrsky District during the socialist period.",
+                "mn": "Социализмын үед Октябрийн район гэж нэрлэгддэг байсан."
+              }
+            ],
+            "subtitle": {
+              "en": "Densely Populated Hub",
+              "mn": "Хүн ам шигүү суурьшсан төв"
+            }
+          },
+          {
+            "icon": "⛏️",
+            "title": {
+              "en": "Nalaikh",
+              "mn": "Налайх"
+            },
+            "facts": [
+              {
+                "en": "A satellite district located 35 km southeast of the city center.",
+                "mn": "Хотын төвөөс зүүн урд зүгт 35 км-ийн зайд орших дагуул дүүрэг."
+              },
+              {
+                "en": "Historically famous for its major coal mining industry.",
+                "mn": "Түүхэндээ нүүрсний уурхайн салбараараа алдартай байсан."
+              }
+            ],
+            "subtitle": {
+              "en": "The Historic Coal District",
+              "mn": "Түүхт уурхайчдын дүүрэг"
+            }
+          },
+          {
+            "icon": "🏭",
+            "title": {
+              "en": "Songinokhairkhan",
+              "mn": "Сонгинохайрхан"
+            },
+            "facts": [
+              {
+                "en": "Located in the western part of the city, named after one of the four sacred mountains.",
+                "mn": "Хотын баруун хэсэгт орших бөгөөд дөрвөн тахилгат уулын нэгний нэрээр нэрлэгдсэн."
+              },
+              {
+                "en": "It contains major industrial zones and extensive suburban ger areas.",
+                "mn": "Аж үйлдвэрийн томоохон бүсүүд болон гэр хорооллын өргөн уудам нутгийг хамардаг."
+              }
+            ],
+            "subtitle": {
+              "en": "Western Gateway",
+              "mn": "Баруун үүд хаалга"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "Bayanzürkh is the most populous district in Ulaanbaatar, housing over 400,000 residents.",
+          "mn": "Баянзүрх дүүрэг нь 400,000 гаруй оршин суугчтай бөгөөд Улаанбаатар хотын хамгийн олон хүн амтай дүүрэг юм."
+        },
+        {
+          "en": "Bagakhangai is the smallest district by land area and population, originally built around a Soviet military airbase.",
+          "mn": "Багахангай дүүрэг нь газар нутаг болон хүн амын тоогоор хамгийн жижиг нь бөгөөд анх Зөвлөлтийн цэргийн нисэх баазыг түшиглэн байгуулагджээ."
+        }
+      ]
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "key": "ulaanbaatar.landmarks-and-monuments",
+      "order": 3,
+      "title": {
+        "en": "Landmarks and Monuments",
+        "mn": "Түүхэн дурсгалт газрууд ба хөшөө дурсгал"
+      },
+      "summary": {
+        "en": "Discover the iconic statues and historic sites that define Ulaanbaatar's skyline.",
+        "mn": "Улаанбаатар хотын өнгө төрхийг тодорхойлдог алдартай хөшөө дурсгал, түүхэн газруудтай танилцаарай."
+      },
+      "body": {
+        "en": "From the soaring Soviet-era Zaisan Memorial to the giant Genghis Khan statue complex at the Government Palace, Ulaanbaatar's public spaces reflect its complex heritage. These landmarks represent the intersection of nomadic history, Buddhist traditions, and 20th-century political shifts.",
+        "mn": "Зөвлөлтийн үеийн Зайсан толгойгоос эхлээд Төрийн ордны өмнөх Чингис хааны аварга том хөшөө хүртэлх Улаанбаатарын дурсгалт газрууд нь хотын баялаг түүхийг илтгэнэ. Эдгээр газрууд нь нүүдэлчдийн түүх, буддын шашны уламжлал, XX зууны улс төрийн өөрчлөлтийн уулзвар юм."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "🏛️",
+            "title": {
+              "en": "Sükhbaatar Square",
+              "mn": "Сүхбаатарын талбай"
+            },
+            "facts": [
+              {
+                "en": "The central square of Ulaanbaatar, featuring the Government Palace.",
+                "mn": "Төрийн ордон байрладаг Улаанбаатар хотын төв талбай."
+              },
+              {
+                "en": "Briefly renamed Chinggis Khaan Square from 2013 to 2016 before reverting back.",
+                "mn": "2013-2016 оны хооронд Чингис хааны талбай нэртэй байгаад буцаж хуучин нэрээ авсан."
+              }
+            ],
+            "subtitle": {
+              "en": "The Heart of the Nation",
+              "mn": "Улсын төв цэг"
+            }
+          },
+          {
+            "icon": "🛕",
+            "title": {
+              "en": "Gandantegchinlen Monastery",
+              "mn": "Гандантэгчинлэн хийд"
+            },
+            "facts": [
+              {
+                "en": "A prominent Tibetan-style Buddhist monastery that was one of the few allowed to function during the socialist era.",
+                "mn": "Социализмын үед үйл ажиллагаа явуулахыг зөвшөөрсөн цөөхөн хийдийн нэг болох Төвөд загварын буддын шашны хийд."
+              },
+              {
+                "en": "Houses a 26.5-meter-high gilded statue of Megjid Janraisig.",
+                "mn": "Дотор нь 26.5 метр өндөртэй Мэгжид Жанрайсиг бурхны алтадмал хөшөө байдаг."
+              }
+            ],
+            "subtitle": {
+              "en": "Center of Mongolian Buddhism",
+              "mn": "Монголын буддын шашны төв"
+            }
+          },
+          {
+            "icon": "🗽",
+            "title": {
+              "en": "Beatles Monument",
+              "mn": "Битлзийн хөшөө"
+            },
+            "facts": [
+              {
+                "en": "A unique bronze monument dedicated to the legendary British band, erected in 2008.",
+                "mn": "Английн алдарт хамтлагт зориулан 2008 онд босгосон өвөрмөц хүрэл хөшөө."
+              },
+              {
+                "en": "It symbolizes the generation of Mongolians who listened to Western rock music during socialism.",
+                "mn": "Энэ нь социализмын үед барууны рок хөгжмийг сонсож өссөн монгол залуусын үеийг бэлгэддэг."
+              }
+            ],
+            "subtitle": {
+              "en": "Tribute to Rock & Roll",
+              "mn": "Рок-н-роллд зориулсан хүндэтгэл"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "The equestrian statue of Damdin Sükhbaatar in the central square features him holding his hand high, marking the spot where his horse urinated, which was considered an auspicious sign.",
+          "mn": "Төв талбай дахь Д. Сүхбаатарын морьт хөшөөг түүний морины шээсэн газарт буюу бэлгэтэй сайн газарт босгосон түүхтэй."
+        },
+        {
+          "en": "The Zaisan Memorial features a circular mosaic depicting scenes of friendship between the Soviet Union and Mongolia.",
+          "mn": "Зайсан толгойн дурсгалын цогцолбор дээр Зөвлөлт, Монголын найрамдалт харилцааг дүрсэлсэн дугуй хэлбэртэй шигтгэмэл зураг байдаг."
+        }
+      ]
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "key": "ulaanbaatar.museums-theatres-and-culture",
+      "order": 4,
+      "title": {
+        "en": "Museums, Theatres and Culture",
+        "mn": "Музей, театр ба соёл урлаг"
+      },
+      "summary": {
+        "en": "Delve into the rich artistic heritage and museums of Mongolia's cultural hub.",
+        "mn": "Монголын соёлын төв цэг болсон нийслэл хотын баялаг урлагийн өв, музейнүүдтэй танилцаарай."
+      },
+      "body": {
+        "en": "Ulaanbaatar houses the country's finest cultural institutions. The State Opera and Ballet Theatre, with its distinct salmon-pink facade, offers world-class performances. Meanwhile, modern institutions like the Chinggis Khaan National Museum preserve thousands of years of nomadic statehood history.",
+        "mn": "Улаанбаатар хотод Монголын соёл урлагийн шилдэг байгууллагууд байрладаг. Улсын Дуурь Бүжгийн Эрдмийн Театр нь дэлхийн хэмжээний тоглолтуудыг толилуулдаг бол Чингис хаан үндэсний музей нь нүүдэлчдийн төрт ёсны олон мянган жилийн түүхийг хадгалан үлдээжээ."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "🏛️",
+            "title": {
+              "en": "Chinggis Khaan National Museum",
+              "mn": "Чингис хаан үндэсний музей"
+            },
+            "facts": [
+              {
+                "en": "Opened in 2022, it is one of the largest and most modern museums in Inner Asia.",
+                "mn": "2022 онд нээгдсэн бөгөөд Төв Азийн хамгийн том, хамгийн орчин үеийн музейнүүдийн нэг юм."
+              },
+              {
+                "en": "It displays over 10,000 artifacts tracing the history of Mongolian khans and empires.",
+                "mn": "Энд Монголын хаад, язгууртнуудын түүхийг харуулсан 10,000 гаруй үзмэрийг дэлгэн үзүүлжээ."
+              }
+            ],
+            "subtitle": {
+              "en": "The Modern National Treasure",
+              "mn": "Орчин үеийн үндэсний эрдэнэс"
+            }
+          },
+          {
+            "icon": "🎭",
+            "title": {
+              "en": "State Opera and Ballet Theatre",
+              "mn": "Дуурь Бүжгийн Эрдмийн Театр"
+            },
+            "facts": [
+              {
+                "en": "Established in 1963, it stages classical Western operas and traditional Mongolian masterpieces.",
+                "mn": "1963 онд байгуулагдсан бөгөөд барууны сонгодог дуурь болон монголын үндэсний шилдэг бүтээлүүдийг толилуулдаг."
+              },
+              {
+                "en": "Known for its distinctive pink neoclassical building designed by Soviet architects.",
+                "mn": "Зөвлөлтийн архитекторуудын зургаар баригдсан ягаан өнгийн сонгодог загварын барилгаараа алдартай."
+              }
+            ],
+            "subtitle": {
+              "en": "Pink Neoclassical Landmark",
+              "mn": "Ягаан өнгийн түүхэн барилга"
+            }
+          },
+          {
+            "icon": "🦖",
+            "title": {
+              "en": "Central Museum of Mongolian Dinosaurs",
+              "mn": "Үлэг гүрвэлийн төв музей"
+            },
+            "facts": [
+              {
+                "en": "Famous for housing the Tarbosaurus bataar skeleton that was illegally smuggled and returned in 2013.",
+                "mn": "Хууль бусаар хил давуулсан Тарбозавр батаарын араг ясыг 2013 онд эх оронд нь буцаан авчирч энд байрлуулснаараа алдартай."
+              },
+              {
+                "en": "Located in the former Lenin Museum building.",
+                "mn": "Хуучнаар Лениний музей байсан барилгад байрладаг."
+              }
+            ],
+            "subtitle": {
+              "en": "Prehistoric Giants",
+              "mn": "Балар эртний аваргууд"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "The Bogd Khan Palace Museum is the only surviving imperial palace of Mongolia's last king, Bogd Khan.",
+          "mn": "Богд Хааны Ордон Музей нь Монголын сүүлчийн хаан VIII Богд Жавзандамба хутагтын амьдарч байсан хааны ордноос үлдэж хоцорсон цорын ганц нь юм."
+        },
+        {
+          "en": "The National Drama Theatre's building features a classic Soviet socialist-realist design with traditional Mongolian motifs.",
+          "mn": "Улсын Драмын Эрдмийн Театрын барилга нь монгол үндэсний хээ уаргал бүхий Зөвлөлтийн социалист реализмын сонгодог загвартай."
+        }
+      ]
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "key": "ulaanbaatar.city-facts-and-numbers",
+      "order": 5,
+      "title": {
+        "en": "City Facts and Numbers",
+        "mn": "Хотын тухай сонирхолтой тоо баримтууд"
+      },
+      "summary": {
+        "en": "Take a look at the climate, altitude, and population statistics of the world's coldest capital.",
+        "mn": "Дэлхийн хамгийн хүйтэн нийслэл хотын уур амьсгал, өндөрлөг газар, хүн амын статистик мэдээллийг сонирхоорой."
+      },
+      "body": {
+        "en": "Ulaanbaatar holds the title of the coldest national capital city in the world, experiencing extreme sub-zero temperatures in winter. Despite this, it enjoys over 250 sunny days a year, earning Mongolia the nickname 'Land of the Blue Sky.' It sits at an altitude of about 1,350 meters above sea level.",
+        "mn": "Улаанбаатар хот нь өвлийн улиралд маш хүйтэн байдаг тул дэлхийн хамгийн хүйтэн нийслэлд тооцогддог. Гэсэн хэдий ч жилд 250 гаруй хоног шууд нар тусдаг нь Монгол орныг 'Мөнх хөх тэнгэрийн орон' гэж нэрлэх шалтгаан болдог. Далайн түвшнээс дээш 1,350 орчим метрийн өндөрт оршдог."
+      },
+      "visual": {
+        "kind": "bar",
+        "unit": {
+          "en": "Average Annual Temperature (°C)",
+          "mn": "Жилийн дундаж температур (°C)"
+        },
+        "horizontal": true,
+        "items": [
+          {
+            "label": {
+              "en": "Ulaanbaatar (Mongolia)",
+              "mn": "Улаанбаатар (Монгол)"
+            },
+            "value": -1.3
+          },
+          {
+            "label": {
+              "en": "Astana (Kazakhstan)",
+              "mn": "Астана (Казахстан)"
+            },
+            "value": 3.5
+          },
+          {
+            "label": {
+              "en": "Moscow (Russia)",
+              "mn": "Москва (Орос)"
+            },
+            "value": 5.8
+          },
+          {
+            "label": {
+              "en": "Ottawa (Canada)",
+              "mn": "Оттава (Канад)"
+            },
+            "value": 6.4
+          },
+          {
+            "label": {
+              "en": "Helsinki (Finland)",
+              "mn": "Хельсинки (Финланд)"
+            },
+            "value": 5.9
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "Nearly half of Mongolia's entire population lives in Ulaanbaatar.",
+          "mn": "Монгол Улсын нийт хүн амын бараг тал хувь нь нийслэл Улаанбаатар хотод амьдардаг."
+        },
+        {
+          "en": "The city experiences winter temperatures that regularly drop below -40 degrees Celsius.",
+          "mn": "Тус хотод өвлийн агаарын температур тогтмол цельсийн -40 хэмээс доош унадаг."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.the-nine-districts",
+      "key": "ulaanbaatar.the-nine-districts.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "How many administrative districts (\"düüreg\") is the capital city of Ulaanbaatar officially divided into?",
+        "mn": "Улаанбаатар хот засаг захиргааны хувьд албан ёсоор хэдэн дүүрэгт хуваагддаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "6",
+          "mn": "6"
+        },
+        {
+          "en": "21",
+          "mn": "21"
+        },
+        {
+          "en": "12",
+          "mn": "12"
+        },
+        {
+          "en": "9",
+          "mn": "9"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Ulaanbaatar is divided into nine districts. Six of these make up the central urban area, while three are outlying satellite districts.",
+        "mn": "Улаанбаатар хот нь засаг захиргааны 9 дүүрэгт хуваагддаг. Үүний 6 нь хотын төвийн дүүрэг бөгөөд үлдсэн 3 нь алслагдсан дагуул дүүрэг юм."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.the-nine-districts",
+      "key": "ulaanbaatar.the-nine-districts.g2",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which district is considered the political and cultural heart of Ulaanbaatar, containing the Government Palace and Sukhbaatar Square?",
+        "mn": "Төрийн ордон болон Сүхбаатарын талбайг багтаасан, Улаанбаатар хотын улс төр, соёлын гол төв нь аль дүүрэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Khan Uul",
+          "mn": "Хан-Уул"
+        },
+        {
+          "en": "Sükhbaatar",
+          "mn": "Сүхбаатар"
+        },
+        {
+          "en": "Bayanzürkh",
+          "mn": "Баянзүрх"
+        },
+        {
+          "en": "Chingeltei",
+          "mn": "Чингэлтэй"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Sükhbaatar District is the central core of the city. It is named after Damdin Sükhbaatar, the leader of Mongolia's 1921 revolution.",
+        "mn": "Сүхбаатар дүүрэг нь хотын төв хэсэг бөгөөд 1921 оны Ардын хувьсгалын удирдагч Дамдины Сүхбаатарын нэрээр нэрлэгдсэн юм."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.the-nine-districts",
+      "key": "ulaanbaatar.the-nine-districts.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of the following is NOT one of the three non-contiguous satellite districts of Ulaanbaatar?",
+        "mn": "Дараах дүүргүүдээс аль нь Улаанбаатар хотын алслагдсан гурван дагуул дүүргийн нэг биш вэ?"
+      },
+      "choices": [
+        {
+          "en": "Baganuur",
+          "mn": "Багануур"
+        },
+        {
+          "en": "Bagakhangai",
+          "mn": "Багахангай"
+        },
+        {
+          "en": "Nalaikh",
+          "mn": "Налайх"
+        },
+        {
+          "en": "Khan Uul",
+          "mn": "Хан-Уул"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Khan Uul is one of the six core urban districts of Ulaanbaatar. Baganuur, Bagakhangai, and Nalaikh are located further away as satellite municipalities.",
+        "mn": "Хан-Уул нь хотын төвийн 6 дүүргийн нэг юм. Харин Багануур, Багахангай, Налайх нь хотоос алслагдсан дагуул дүүргүүд юм."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.the-nine-districts",
+      "key": "ulaanbaatar.the-nine-districts.g4",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of Ulaanbaatar's districts is the most populous, home to over 400,000 residents?",
+        "mn": "Улаанбаатар хотын хамгийн олон хүн амтай, 400 гаруй мянган оршин суугчтай дүүрэг аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Bayanzürkh",
+          "mn": "Баянзүрх"
+        },
+        {
+          "en": "Songinokhairkhan",
+          "mn": "Сонгинохайрхан"
+        },
+        {
+          "en": "Bayangol",
+          "mn": "Баянгол"
+        },
+        {
+          "en": "Chingeltei",
+          "mn": "Чингэлтэй"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Bayanzürkh is the largest district by population. Its name translates to 'Rich Heart' in Mongolian.",
+        "mn": "Баянзүрх дүүрэг нь хүн амын тоогоор хамгийн том нь юм. Энэхүү дүүргийн нэр нь монгол хэлээр 'Баян зүрх' гэсэн утгатай."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.the-nine-districts",
+      "key": "ulaanbaatar.the-nine-districts.g5",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Named after one of the four sacred mountains surrounding the capital, which western district is known for its major industrial zones and expansive ger areas?",
+        "mn": "Нийслэлийг хүрээлэн буй дөрвөн тахилгат уулын нэгний нэрээр нэрлэгдсэн, аж үйлдвэрийн бүс болон том гэр хороолол бүхий баруун талын дүүрэг аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Khan Uul",
+          "mn": "Хан-Уул"
+        },
+        {
+          "en": "Sükhbaatar",
+          "mn": "Сүхбаатар"
+        },
+        {
+          "en": "Songinokhairkhan",
+          "mn": "Сонгинохайрхан"
+        },
+        {
+          "en": "Chingeltei",
+          "mn": "Чингэлтэй"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Songinokhairkhan is named after Songinokhairkhan Mountain, one of the four holy peaks around Ulaanbaatar. It serves as the city's western gateway.",
+        "mn": "Сонгинохайрхан дүүргийг Улаанбаатар хотыг тойрсон дөрвөн тахилгат уулын нэг болох Сонгинохайрхан уулын нэрээр нэрлэсэн бөгөөд хотын баруун үүд хаалга болдог."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.the-nine-districts",
+      "key": "ulaanbaatar.the-nine-districts.g6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which satellite district, located 35 km southeast of the city center, is historically famous for its coal mining history?",
+        "mn": "Хотын төвөөс зүүн урд зүгт 35 км-ийн зайд орших, нүүрсний уурхайн түүхээрээ алдартай дагуул дүүрэг аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Nalaikh",
+          "mn": "Налайх"
+        },
+        {
+          "en": "Bayangol",
+          "mn": "Баянгол"
+        },
+        {
+          "en": "Bagakhangai",
+          "mn": "Багахангай"
+        },
+        {
+          "en": "Baganuur",
+          "mn": "Багануур"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Nalaikh was founded as a coal mining town to supply the capital's power plants. It officially became a district of Ulaanbaatar in 1992.",
+        "mn": "Налайх нь анх нийслэлийн цахилгаан станцуудыг нүүрсээр хангах уурхайчдын суурин болон үүсэж байжээ. Хожим нь 1992 онд Улаанбаатар хотын дүүрэг болсон."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.the-nine-districts",
+      "key": "ulaanbaatar.the-nine-districts.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "During the socialist period, Ulaanbaatar's districts had Soviet-inspired names. Which district was known as \"Oktyabrsky District\" (October District)?",
+        "mn": "Социализмын үед Улаанбаатар хотын дүүргүүд зөвлөлт загварын нэртэй байв. Аль дүүргийг өмнө нь \"Октябрийн район\" гэж нэрлэдэг байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Songinokhairkhan",
+          "mn": "Сонгинохайрхан"
+        },
+        {
+          "en": "Sükhbaatar",
+          "mn": "Сүхбаатар"
+        },
+        {
+          "en": "Bayangol",
+          "mn": "Баянгол"
+        },
+        {
+          "en": "Chingeltei",
+          "mn": "Чингэлтэй"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Bayangol District was called Oktyabrsky District until 1992. It is home to the main Ulaanbaatar Railway Station.",
+        "mn": "Баянгол дүүргийг 1992 он хүртэл Октябрийн район гэж нэрлэдэг байв. Тус дүүрэгт Улаанбаатар төв вокзал байрладаг."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.the-nine-districts",
+      "key": "ulaanbaatar.the-nine-districts.g8",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Bagakhangai, the smallest district by both area and population, was originally established around what Soviet facility?",
+        "mn": "Газар нутаг болон хүн амын тоогоор хамгийн жижигт тооцогдох Багахангай дүүрэг нь анх Зөвлөлтийн ямар байгууламжийг түшиглэн байгуулагдсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "A military airbase",
+          "mn": "Цэргийн аэродром"
+        },
+        {
+          "en": "A gold mine",
+          "mn": "Алтных уурхай"
+        },
+        {
+          "en": "A steel factory",
+          "mn": "Гангийн үйлдвэр"
+        },
+        {
+          "en": "A space tracking station",
+          "mn": "Сансрын холбооны станц"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Bagakhangai was built around a Soviet military airbase. After Soviet troops withdrew in the early 1990s, it was designated as a district of the capital.",
+        "mn": "Багахангай нь Зөвлөлтийн цэргийн аэродромыг түшиглэн байгуулагдсан суурин юм. 1990-ээд оны эхээр Зөвлөлтийн цэрэг гарсаны дараа нийслэлийн дүүрэг болгон өөрчилжээ."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.the-nine-districts",
+      "key": "ulaanbaatar.the-nine-districts.g9",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which district is home to the main Ulaanbaatar Railway Station, making it a vital transportation hub?",
+        "mn": "Улаанбаатар хотын төв вокзал байрладаг бөгөөд тээврийн чухал зангилаа болдог дүүрэг аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Khan Uul",
+          "mn": "Хан-Уул"
+        },
+        {
+          "en": "Bayangol",
+          "mn": "Баянгол"
+        },
+        {
+          "en": "Sükhbaatar",
+          "mn": "Сүхбаатар"
+        },
+        {
+          "en": "Chingeltei",
+          "mn": "Чингэлтэй"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Bayangol District houses the main railway station of the Trans-Mongolian Railway. It is also one of the most densely populated residential areas in the city.",
+        "mn": "Баянгол дүүрэгт Монгол-Оросын хувь нийлүүлсэн нийгэмлэгийн төв вокзал байрладаг. Энэ нь хотын хамгийн их хүн амын нягтралтай орон сууцны хорооллуудын нэг юм."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.the-nine-districts",
+      "key": "ulaanbaatar.the-nine-districts.g10",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of the nine districts is the smallest in terms of land area and population?",
+        "mn": "Улаанбаатар хотын 9 дүүргээс газар нутаг болон хүн амын тоогоор хамгийн жижиг нь аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Bagakhangai",
+          "mn": "Багахангай"
+        },
+        {
+          "en": "Sükhbaatar",
+          "mn": "Сүхбаатар"
+        },
+        {
+          "en": "Chingeltei",
+          "mn": "Чингэлтэй"
+        },
+        {
+          "en": "Nalaikh",
+          "mn": "Налайх"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Bagakhangai is the smallest district, located about 90 kilometers southeast of the city center. It has a population of only a few thousand people.",
+        "mn": "Багахангай нь хотын төвөөс зүүн урд зүгт 90 орчим км-т орших хамгийн жижиг дүүрэг юм. Энд ердөө цөөн хэдэн мянган хүн оршин суудаг."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.the-nine-districts",
+      "key": "ulaanbaatar.the-nine-districts.g11",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which district's name translates to \"Rich Heart\" and is the easternmost of the core urban districts?",
+        "mn": "Монгол хэлнээс орчуулбал \"Баян зүрх\" гэсэн утгатай, хотын төвийн дүүргүүдээс хамгийн зүүн талд байрладаг нь аль вэ?"
+      },
+      "choices": [
+        {
+          "en": "Bayangol",
+          "mn": "Баянгол"
+        },
+        {
+          "en": "Songinokhairkhan",
+          "mn": "Сонгинохайрхан"
+        },
+        {
+          "en": "Bayanzürkh",
+          "mn": "Баянзүрх"
+        },
+        {
+          "en": "Khan Uul",
+          "mn": "Хан-Уул"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Bayanzürkh District is the eastern gateway of the city's urban core. It is the most populous district in Ulaanbaatar.",
+        "mn": "Баянзүрх дүүрэг нь хотын төв хэсгийн зүүн үүд хаалга бөгөөд Улаанбаатар хотын хамгийн олон хүн амтай дүүрэг юм."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.the-nine-districts",
+      "key": "ulaanbaatar.the-nine-districts.g12",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which district is named after the revolutionary leader whose statue stands in the center of Ulaanbaatar's main square?",
+        "mn": "Улаанбаатар хотын төв талбайн голд хөшөө нь байдаг хувьсгалын удирдагчийн нэрээр нэрлэгдсэн дүүрэг аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Sükhbaatar",
+          "mn": "Сүхбаатар"
+        },
+        {
+          "en": "Chingeltei",
+          "mn": "Чингэлтэй"
+        },
+        {
+          "en": "Baganuur",
+          "mn": "Багануур"
+        },
+        {
+          "en": "Khan Uul",
+          "mn": "Хан-Уул"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Sükhbaatar District is named after Damdin Sükhbaatar. His famous equestrian statue was sculpted by Sonomyn Choimbol and erected in 1946.",
+        "mn": "Сүхбаатар дүүрэг нь Дамдины Сүхбаатарын нэрээр нэрлэгдсэн. Түүний морьт хөшөөг барималч С.Чоймбол бүтээж, 1946 онд төв талбайд босгожээ."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.landmarks-and-monuments",
+      "key": "ulaanbaatar.landmarks-and-monuments.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which famous British band is honored with a unique bronze monument in Ulaanbaatar, erected in 2008 in front of the State Department Store?",
+        "mn": "Улсын их дэлгүүрийн урд 2008 онд босгосон, Их Британийн аль алдартай хамтлагт зориулсан өвөрмөц хүрэл хөшөө Улаанбаатарт байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "The Rolling Stones",
+          "mn": "The Rolling Stones"
+        },
+        {
+          "en": "The Beatles",
+          "mn": "The Beatles"
+        },
+        {
+          "en": "Queen",
+          "mn": "Queen"
+        },
+        {
+          "en": "Pink Floyd",
+          "mn": "Pink Floyd"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Beatles Monument was built from public donations to honor the generation of Mongolians who listened to Western rock music during the socialist era. The back of the monument is shaped like a guitar.",
+        "mn": "Битлзийн хөшөөг социализмын үед барууны рок хөгжмийг нууцаар сонсож өссөн монгол залуусын үеийнхэнд зориулж олон нийтийн хандиваар босгожээ. Хөшөөний ар тал нь гитар хэлбэртэй байдаг."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.landmarks-and-monuments",
+      "key": "ulaanbaatar.landmarks-and-monuments.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which prominent Buddhist monastery in Ulaanbaatar houses a magnificent 26.5-meter-high gilded statue of Megjid Janraisig?",
+        "mn": "Улаанбаатар хотод байдаг, дотроо 26.5 метр өндөр Мэгжид Жанрайсиг бурхны алтадмал хөшөөг залсан буддын шашны гол хийд аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Dambadarjaa Monastery",
+          "mn": "Дамбадаржаалин хийд"
+        },
+        {
+          "en": "Gandantegchinlen Monastery",
+          "mn": "Гандантэгчинлэн хийд"
+        },
+        {
+          "en": "Manzushir Monastery",
+          "mn": "Манзушир хийд"
+        },
+        {
+          "en": "Choijin Lama Temple",
+          "mn": "Чойжин ламын сүм музей"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Gandantegchinlen Monastery was one of the very few monasteries permitted to function as a showcase during the socialist period. The original Janraisig statue was destroyed in 1938, but it was rebuilt in 1996 using donations.",
+        "mn": "Гандантэгчинлэн хийд нь социализмын үед үйл ажиллагаа явуулахыг зөвшөөрсөн цөөхөн хийдийн нэг байв. Анхны Жанрайсиг бурхны хөшөөг 1938 онд устгасан бөгөөд 1996 онд ард түмний хандиваар дахин бүтээжээ."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.landmarks-and-monuments",
+      "key": "ulaanbaatar.landmarks-and-monuments.g3",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Whose massive equestrian statue stands at the center of Ulaanbaatar's main public square?",
+        "mn": "Улаанбаатар хотын төв талбайн голд хэний морьт хөшөө байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Damdin Sükhbaatar",
+          "mn": "Дамдины Сүхбаатар"
+        },
+        {
+          "en": "Khorloogiin Choibalsan",
+          "mn": "Хорлоогийн Чойбалсан"
+        },
+        {
+          "en": "Chinggis Khaan",
+          "mn": "Чингис хаан"
+        },
+        {
+          "en": "Sukhbaataryn Yanjmaa",
+          "mn": "Сүхбаатарын Янжмаа"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The equestrian statue of revolutionary leader Damdin Sükhbaatar was sculpted by Sonomyn Choimbol and erected in 1946. It marks the exact spot where Sükhbaatar's horse urinated during a rally, which was seen as a lucky sign.",
+        "mn": "Хувьсгалын удирдагч Д.Сүхбаатарын морьт хөшөөг барималч С.Чоймбол бүтээж, 1946 онд босгожээ. Энэхүү газрыг Сүхбаатарын морь бие зассан бэлгэшээлтэй газар хэмээн сонгосон түүхтэй."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.landmarks-and-monuments",
+      "key": "ulaanbaatar.landmarks-and-monuments.g4",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Between 2013 and 2016, Sükhbaatar Square was officially renamed after which historical figure?",
+        "mn": "Сүхбаатарын талбайг 2013-2016 оны хооронд албан ёсоор хэний нэрээр нэрлэж байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Chinggis Khaan",
+          "mn": "Чингис хаан"
+        },
+        {
+          "en": "Zanabazar",
+          "mn": "Занабазар"
+        },
+        {
+          "en": "Bogd Khan",
+          "mn": "Богд хаан"
+        },
+        {
+          "en": "Ögedei Khaan",
+          "mn": "Өгөдэй хаан"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The central square was renamed Chinggis Khaan Square in 2013, but the decision was reversed in 2016 following a court ruling, returning it to its original name honoring Damdin Sükhbaatar.",
+        "mn": "Төв талбайг 2013 онд Чингис хааны талбай болгон өөрчилсөн боловч шүүхийн шийдвэрээр 2016 онд буцаан Д.Сүхбаатарын нэрэмжит болгожээ."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.landmarks-and-monuments",
+      "key": "ulaanbaatar.landmarks-and-monuments.g5",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which landmark monument in Ulaanbaatar, built in 1971, features a circular mosaic depicting scenes of friendship between the USSR and Mongolia?",
+        "mn": "Зөвлөлт-Монголын найрамдал, хамтын ажиллагааг харуулсан дугуй шигтгэмэл зураг бүхий 1971 онд босгосон Улаанбаатарын дурсгалт цогцолбор аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Zaisan Memorial",
+          "mn": "Зайсан толгойн дурсгалын цогцолбор"
+        },
+        {
+          "en": "Soviet Soldier Monument",
+          "mn": "Зөвлөлтийн дайчдын хөшөө"
+        },
+        {
+          "en": "The Moscow Street Arch",
+          "mn": "Москвагийн гудамжны арк"
+        },
+        {
+          "en": "Marshal Zhukov Museum",
+          "mn": "Жуковын музей"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Zaisan Memorial sits on a hill south of the city and honors Soviet soldiers killed in World War II. Its circular concrete ring features colorful glass mosaic murals.",
+        "mn": "Зайсан толгойн дурсгалын цогцолбор нь хотын өмнөд хэсэгт байрлах бөгөөд Дэлхийн II дайнд амь үрэгдсэн зөвлөлтийн дайчдын дурсгалд зориулагдсан. Түүний дугуй цагираг дотор өнгөт шигтгэмэл зураг байдаг."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.landmarks-and-monuments",
+      "key": "ulaanbaatar.landmarks-and-monuments.g6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which historic building is located directly on the north side of Sükhbaatar Square, featuring a large colonnade and statues of Mongolian Khans?",
+        "mn": "Сүхбаатарын талбайн хойд талд байрлах, урдаа том багана бүхий галерей болон Монголын хаадын хөшөөнүүдтэй түүхэн барилга аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "The City Hall",
+          "mn": "Хангарьд ордон"
+        },
+        {
+          "en": "The National Museum of Mongolia",
+          "mn": "Монголын үндэсний музей"
+        },
+        {
+          "en": "The Government Palace",
+          "mn": "Төрийн ордон"
+        },
+        {
+          "en": "The National Opera and Ballet Theatre",
+          "mn": "Дуурь бүжгийн эрдмийн театр"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Government Palace houses the Parliament, the President's office, and the Prime Minister's office. The grand colonnade on its southern facade was completed in 2006 to mark the 800th anniversary of the Mongol Empire.",
+        "mn": "Төрийн ордонд Улсын Их Хурал, Ерөнхийлөгч, Ерөнхий сайдын ажлын алба байрладаг. Ордны урд талын сүрлэг баганат цогцолборыг Их Монгол Улс байгуулагдсаны 800 жилийн ойгоор буюу 2006 онд барьж дуусгажээ."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.landmarks-and-monuments",
+      "key": "ulaanbaatar.landmarks-and-monuments.g7",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which architectural landmark in Ulaanbaatar, built in 1904, served as the residence of Mongolia's last king and spiritual leader?",
+        "mn": "Улаанбаатарт байдаг, 1904 онд баригдсан, Монголын хамгийн сүүлчийн хаан бөгөөд шашны тэргүүний амьдарч байсан түүхэн дурсгалт газар аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "The Hunnu Palace",
+          "mn": "Хүннү ордон"
+        },
+        {
+          "en": "The Winter Palace of the Bogd Khan",
+          "mn": "Богд хааны ордон музей"
+        },
+        {
+          "en": "The Green Palace",
+          "mn": "Ногоон ордон"
+        },
+        {
+          "en": "The Summer Temple",
+          "mn": "Зуны сүм"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Winter Palace of the Bogd Khan is one of the few historical structures in Mongolia that completely escaped destruction by Soviet-aligned forces. It is now a museum displaying the royal couple's personal belongings.",
+        "mn": "Богд хааны өвлийн ордон нь хуучин цагийн барилгуудаас устгагдалгүй үлдсэн цөөхөн түүхэн дурсгалт газрын нэг юм. Одоо энд Богд хаан болон Дондогдулам хатны эдэлж хэрэглэж байсан зүйлсийг дэлгэн үзүүлдэг музей ажиллаж байна."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.landmarks-and-monuments",
+      "key": "ulaanbaatar.landmarks-and-monuments.g8",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The bronze statues of which two historical figures flank the giant seated statue of Chinggis Khaan at the Government Palace colonnade?",
+        "mn": "Төрийн ордны баганат цогцолборт сууж буй Чингис хааны том хөшөөний хоёр талд ямар хоёр түүхэн хүний хүрэл хөшөө байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Ögedei Khaan and Kublai Khaan",
+          "mn": "Өгөдэй хаан, Хубилай хаан"
+        },
+        {
+          "en": "Borte Ujin and Yesugei Baghatur",
+          "mn": "Бөртэ үжин, Есүхэй баатар"
+        },
+        {
+          "en": "Sükhbaatar and Choibalsan",
+          "mn": "Сүхбаатар, Чойбалсан"
+        },
+        {
+          "en": "Jochi and Tolui",
+          "mn": "Зүчи, Тулуй"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The colonnade features Chinggis Khaan in the center, flanked by his son Ögedei Khaan on the west and his grandson Kublai Khaan on the east.",
+        "mn": "Төрийн ордны хойд талын цогцолборт Чингис хааны хөшөө голд нь байх бөгөөд баруун талд нь түүний хүү Өгөдэй хаан, зүүн талд нь ач хүү Хубилай хааны хөшөөг байрлуулжээ."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.landmarks-and-monuments",
+      "key": "ulaanbaatar.landmarks-and-monuments.g9",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which unique temple complex in Ulaanbaatar, built between 1904 and 1908, was dedicated to the state oracle who was the younger brother of the 8th Bogd Khan?",
+        "mn": "Улаанбаатар хотод байдаг, 1904-1908 оны хооронд баригдсан, VIII Богд хааны төрсөн дүү, төрийн чойжин (сахиус буулгагч)-д зориулсан сүм музей аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Dashchoilin Monastery",
+          "mn": "Дашчойлин хийд"
+        },
+        {
+          "en": "Choijin Lama Temple",
+          "mn": "Чойжин ламын сүм"
+        },
+        {
+          "en": "Geser Temple",
+          "mn": "Гэсэр сүм"
+        },
+        {
+          "en": "Bakula Rinpoche Temple",
+          "mn": "Бакула Ринбүүчийн сүм"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Choijin Lama Temple was built for Luvsanhaidav, the state oracle. It was converted into a museum in 1938, which saved it from being demolished during the socialist religious purges.",
+        "mn": "Чойжин ламын сүмийг төрийн чойжин Лувсанхайдавт зориулан барьжээ. Энэхүү сүмийг 1938 онд музей болгон өөрчилсөн нь социализмын үеийн их хэлмэгдүүлэлтээс аврагдах гол шалтгаан болсон байна."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.landmarks-and-monuments",
+      "key": "ulaanbaatar.landmarks-and-monuments.g10",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What color is the prominent building of the State Opera and Ballet Theatre located on the southeast corner of Sükhbaatar Square?",
+        "mn": "Сүхбаатарын талбайн зүүн өмнөд буланд байрлах Улсын Дуурь Бүжгийн Эрдмийн Театрын барилга ямар өнгөтэй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Bright yellow",
+          "mn": "Шар"
+        },
+        {
+          "en": "Salmon pink",
+          "mn": "Ягаан"
+        },
+        {
+          "en": "Dark red",
+          "mn": "Улаан"
+        },
+        {
+          "en": "Sky blue",
+          "mn": "Цэнхэр"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The iconic salmon-pink and white building of the State Opera and Ballet Theatre opened in 1946. It was designed in the neoclassical style by Soviet architect Gerhard Kozel.",
+        "mn": "Улсын Дуурь Бүжгийн Эрдмийн Театрын ягаан, цагаан өнгөтэй барилга 1946 онд ашиглалтад орсон. Түүний зураг төслийг Зөвлөлтийн архитектор Герхард Козель неоклассик хэв маягаар гаргажээ."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.landmarks-and-monuments",
+      "key": "ulaanbaatar.landmarks-and-monuments.g11",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The dynamic horseman statues flanking the steps of the Government Palace represent generals of which historical era?",
+        "mn": "Төрийн ордны шатны хоёр талд байрлах морьт баатруудын хөшөө нь аль цаг үеийн жанжнуудыг дүрсэлсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "The Mongol Empire (13th century)",
+          "mn": "Их Монгол Улсын үе (XIII зуун)"
+        },
+        {
+          "en": "The Xiongnu Empire (3rd century BC)",
+          "mn": "Хүннү гүрний үе (НТӨ III зуун)"
+        },
+        {
+          "en": "The 1921 People's Revolution",
+          "mn": "1921 оны Ардын хувьсгал"
+        },
+        {
+          "en": "The Bogd Khanate (1911)",
+          "mn": "Богд хаант Монгол улсын үе (1911)"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The two equestrian statues represent Chinggis Khaan's famous generals, Muqali and Bo'orchu, guarding the entrance. They represent the height of the Mongol Empire.",
+        "mn": "Төрийн ордны үүдэнд байх хоёр морьт баатрын хөшөө нь Чингис хааны алдарт хүлэг баатрууд болох Мухулай, Боорчи нарыг дүрсэлсэн бөгөөд Их Монгол Улсын мандал бадралыг бэлгэддэг."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.landmarks-and-monuments",
+      "key": "ulaanbaatar.landmarks-and-monuments.g12",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which giant landmark, located 54 km east of Ulaanbaatar, is the world's tallest equestrian statue?",
+        "mn": "Улаанбаатар хотоос зүүн тийш 54 км-т байрлах, дэлхийн хамгийн өндөр морьт хөшөө болох дурсгалт цогцолбор аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Modu Chanyu Statue at Terelj",
+          "mn": "Тэрэлж дэх Модун шаньюйн хөшөө"
+        },
+        {
+          "en": "The Great Khan Statue at Bogd Khan Mountain",
+          "mn": "Богд уул дахь Их хааны хөшөө"
+        },
+        {
+          "en": "Sükhbaatar Monument at Khalkh Gol",
+          "mn": "Халх гол дахь Сүхбаатарын хөшөө"
+        },
+        {
+          "en": "Genghis Khan Equestrian Statue at Tsonjin Boldog",
+          "mn": "Цонжин болдог дахь Чингис хааны морьт хөшөө"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Genghis Khan Equestrian Statue is 40 meters tall and wrapped in stainless steel. Visitors can take an elevator up to the head of the horse for a panoramic view.",
+        "mn": "Цонжин болдог дахь Чингис хааны морьт хөшөө нь 40 метр өндөр бөгөөд зэвэрдэггүй гангаар бүрэгдсэн. Жуулчид цахилгаан шатаар морины дэлэн дээр гарч, орчныг тольдон харах боломжтой байдаг."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.museums-theatres-and-culture",
+      "key": "ulaanbaatar.museums-theatres-and-culture.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What distinctive facade color is the State Opera and Ballet Theatre in Ulaanbaatar famous for?",
+        "mn": "Улаанбаатар хотын Дуурь бүжгийн эрдмийн театрын барилга ямар өвөрмөц өнгөөрөө алдартай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Salmon pink",
+          "mn": "Хясаан ягаан"
+        },
+        {
+          "en": "Emerald green",
+          "mn": "Маргад ногоон"
+        },
+        {
+          "en": "Golden yellow",
+          "mn": "Алтан шар"
+        },
+        {
+          "en": "Sky blue",
+          "mn": "Тэнгэрийн хөх"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The State Opera and Ballet Theatre features a distinct salmon-pink neoclassical facade. It was designed by Soviet architects and opened in its current style in the mid-20th century.",
+        "mn": "Дуурь бүжгийн эрдмийн театрын барилга нь хясаан ягаан өнгөтэй, неоклассик загвартай. Тус барилгын зураг төслийг Зөвлөлтийн архитекторууд гаргасан бөгөөд хотын төвийн өнгө төрхийг тодорхойлдог."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.museums-theatres-and-culture",
+      "key": "ulaanbaatar.museums-theatres-and-culture.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In 2013, a famous smuggled dinosaur skeleton was returned to Mongolia. Which species did this fossil belong to?",
+        "mn": "2013 онд АНУ-аас хууль бусаар хил давуулсан алдартай үлэг гүрвэлийн араг ясыг Монголд буцаан авчирсан бөгөөд энэ нь ямар төрлийн үлэг гүрвэл байсан вэ?"
+      },
+      "choices": [
+        {
+          "en": "Protoceratops",
+          "mn": "Протоцератопс"
+        },
+        {
+          "en": "Tarbosaurus bataar",
+          "mn": "Тарбозавр батаар"
+        },
+        {
+          "en": "Velociraptor mongoliensis",
+          "mn": "Велосираптор монголиенсис"
+        },
+        {
+          "en": "Saurolophus",
+          "mn": "Зауролофус"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Tarbosaurus bataar skeleton was smuggled out of Mongolia and put up for auction in New York before being repatriated in 2013. It became the centerpiece of the Central Museum of Mongolian Dinosaurs.",
+        "mn": "АНУ-ын дуудлага худалдаанаас эргүүлэн авчирсан Тарбозавр батаарын араг яс нь Үлэг гүрвэлийн төв музейн гол үзмэр болсон юм. Энэхүү олдвор нь Цэрдийн галавын сүүл үед хамаардаг."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.museums-theatres-and-culture",
+      "key": "ulaanbaatar.museums-theatres-and-culture.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The Bogd Khan Palace Museum is famous for being the only surviving residence of Mongolia's last king. What is unique about its architectural style?",
+        "mn": "Богд хааны ордон музей нь Монголын хамгийн сүүлчийн хааны амьдарч байсан ордон гэдгээрээ алдартай. Энэхүү цогцолборын архитектурын гол онцлог юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Built entirely of imported concrete",
+          "mn": "Дангаар нь цутгамал бетоноор барьсан"
+        },
+        {
+          "en": "It has no traditional temples",
+          "mn": "Дотор нь ямар ч сүм дуган байхгүй"
+        },
+        {
+          "en": "Built entirely of wood without nails",
+          "mn": "Хумс хадаас хэрэглэлгүй модоор барьсан"
+        },
+        {
+          "en": "Designed by French architects",
+          "mn": "Францын архитекторууд зураг төслийг гаргасан"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Summer Palace temples within the complex were constructed entirely of wood without using a single metal nail. The palace holds valuable personal belongings of the 8th Bogd Jebtsundamba Khutuktu.",
+        "mn": "Тус цогцолборын Зуны ордны сүмүүдийг барихдаа нэг ч төмөр хадаас ашиглалгүй, зөвхөн модон углуургаар угсарчээ. Энэхүү ордонд 8-р Богд Жавзандамба хутагтын ховор нандин эд өлгийн зүйлс хадгалагддаг."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.museums-theatres-and-culture",
+      "key": "ulaanbaatar.museums-theatres-and-culture.g4",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The National Drama Theatre features a distinctive classic Soviet design. Which mythical creature sits atop its main facade columns?",
+        "mn": "Улсын Драмын Эрдмийн Театрын барилга нь Зөвлөлтийн сонгодог загвартай. Барилгын нүүрэн талын багануудын орой дээр ямар домогт амьтны дүрс байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Pegasus",
+          "mn": "Пегас (Далавчит морь)"
+        },
+        {
+          "en": "Lion",
+          "mn": "Арслан"
+        },
+        {
+          "en": "Dragon",
+          "mn": "Луу"
+        },
+        {
+          "en": "Garuda (Khangarid)",
+          "mn": "Хангарьд"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The entrance of the National Drama Theatre is flanked by traditional stone lions, and lion reliefs sit atop the columns, blending Soviet Socialist Realism with Mongolian motifs.",
+        "mn": "Улсын Драмын Эрдмийн Театрын үүдэнд чулуун арслангууд байхаас гадна баганын орой дээр арслангийн дүрсийг урласан байдаг. Энэ нь Зөвлөлтийн социалист реализм болон монгол үндэсний хээ угалзыг хослуулсан өвөрмөц шийдэл юм."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.museums-theatres-and-culture",
+      "key": "ulaanbaatar.museums-theatres-and-culture.g5",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Opened in 2022, the Chinggis Khaan National Museum is one of the largest in Inner Asia. How many historical artifacts does it display?",
+        "mn": "2022 онд нээлтээ хийсэн Чингис хаан үндэсний музей нь Төв Азийн хамгийн том музейнүүдийн нэг юм. Тус музейд нийт хэд орчим түүхэн үзмэр дэлгэгдсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Around 2,000",
+          "mn": "2,000 орчим"
+        },
+        {
+          "en": "Exactly 500",
+          "mn": "Яг 500"
+        },
+        {
+          "en": "Over 100,000",
+          "mn": "100,000 гаруй"
+        },
+        {
+          "en": "Over 10,000",
+          "mn": "10,000 гаруй"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The museum displays over 10,000 artifacts tracing the history of Mongolian khans, nobles, and nomadic states. It features interactive virtual reality zones for visitors.",
+        "mn": "Тус музейд Монголын хаад, язгууртнуудын түүхийг харуулсан 10,000 гаруй үзмэрийг дэлгэн үзүүлжээ. Мөн үзэгчдэд зориулсан виртуал бодит байдлын (VR) танхимуудтай."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.museums-theatres-and-culture",
+      "key": "ulaanbaatar.museums-theatres-and-culture.g6",
+      "difficulty": 1,
+      "prompt": {
+        "en": "The Choijin Lama Temple Museum in downtown Ulaanbaatar is a stunning architectural complex. What was its original purpose before becoming a museum?",
+        "mn": "Улаанбаатар хотын төвд байрлах Чойжин ламын сүм музей нь архитектурын гайхалтай цогцолбор билээ. Музей болохоосоо өмнө энэ газар ямар зориулалттай байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Public school",
+          "mn": "Нийтийн сургууль"
+        },
+        {
+          "en": "Russian diplomatic residency",
+          "mn": "Оросын элчин сайдын өргөө"
+        },
+        {
+          "en": "Military weapons depot",
+          "mn": "Цэргийн зэвсгийн агуулах"
+        },
+        {
+          "en": "State Oracle temple",
+          "mn": "Төрийн чойжин буух сүм хийд"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Built between 1904 and 1908, the temple was dedicated to Luvsanhaidav, the State Oracle (Choijin) of Mongolia and brother of the 8th Bogd Khan. It escaped demolition during the 1930s purges by being converted into a museum.",
+        "mn": "1904-1908 онд баригдсан энэхүү сүм нь 8-р Богд хааны дүү, Төрийн чойжин Лувсанхайдавын номын өргөө байв. 1930-аад оны хэлмэгдүүлэлтийн үеэр музей болж хувирсны ачаар нураалгүй үлдэж хоцорчээ."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.museums-theatres-and-culture",
+      "key": "ulaanbaatar.museums-theatres-and-culture.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which famous Mongolian opera, traditionally staged at the State Opera and Ballet Theatre, is based on a play by D. Natsagdorj?",
+        "mn": "Дуурь бүжгийн эрдмийн театрын тайзнаа олон жил тоглогдож буй, Д.Нацагдоржийн зохиолоос сэдэвлэсэн Монголын алдартай сонгодог дуурь аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Tears of the Lama",
+          "mn": "Ламын нулимс"
+        },
+        {
+          "en": "Blue Silk Deel",
+          "mn": "Хөх торгон дээл"
+        },
+        {
+          "en": "Genghis Khan",
+          "mn": "Чингис хаан"
+        },
+        {
+          "en": "Three Sad Hills",
+          "mn": "Учиртай гурван толгой"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "\"Three Sad Hills\" (Uchirtay Gurvan Tolgoy) is Mongolia's most famous national opera, composed by B. Damdinsuren and B. Smirnov. It represents a tragic love story set in pre-revolutionary Mongolia.",
+        "mn": "Төрийн шагналт хөгжмийн зохиолч Б.Дамдинсүрэн, Б.Смирнов нарын хөгжим, Д.Нацагдоржийн цомнол \"Учиртай гурван толгой\" дуурь нь Монголын үндэсний сонгодог урлагийн оргил бүтээл юм."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.museums-theatres-and-culture",
+      "key": "ulaanbaatar.museums-theatres-and-culture.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The Fine Arts Zanabazar Museum is named after G. Zanabazar. What is he most famous for in Mongolian cultural history?",
+        "mn": "Дүрслэх урлагийн Занабазарын нэрэмжит музей нь Г.Занабазарын нэрээр нэрлэгдсэн. Тэрээр Монголын соёлын түүхэнд юугаараа хамгийн алдартай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Sculptor and first Bogd Gegeen",
+          "mn": "Барималч, анхны Богд Гэгээн"
+        },
+        {
+          "en": "Military general",
+          "mn": "Цэргийн жанжин"
+        },
+        {
+          "en": "Modern landscape painter",
+          "mn": "Орчин үеийн байгалийн зураач"
+        },
+        {
+          "en": "First Prime Minister of Mongolia",
+          "mn": "Монголын анхны Ерөнхий сайд"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "G. Zanabazar was a master Buddhist sculptor, creator of the Soyombo script, and the first Bogd Gegeen of Mongolia. His exquisite bronze statues, such as the White Tara, are housed in the museum.",
+        "mn": "Өндөр гэгээн Г.Занабазар нь Бурхан шашны нэрт зүтгэлтэн, Соёмбо үсгийг зохиогч, Монголын анхны Богд гэгээн бөгөөд түүний урласан Цагаан дара эх зэрэг хосгүй хүрэл баримлууд тус музейд хадгалагддаг."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.museums-theatres-and-culture",
+      "key": "ulaanbaatar.museums-theatres-and-culture.g9",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The Central Museum of Mongolian Dinosaurs was housed in a building that originally had a completely different purpose. Whose museum was it during the Soviet era?",
+        "mn": "Үлэг гүрвэлийн төв музейн байрлаж байсан барилга нь анх огт өөр зориулалттай байсан. Зөвлөлтийн үед энэ барилга хэнд зориулсан музей байсан вэ?"
+      },
+      "choices": [
+        {
+          "en": "Vladimir Lenin",
+          "mn": "Владимир Ленин"
+        },
+        {
+          "en": "Joseph Stalin",
+          "mn": "Иосиф Сталин"
+        },
+        {
+          "en": "Karl Marx",
+          "mn": "Карл Маркс"
+        },
+        {
+          "en": "Damdin Sükhbaatar",
+          "mn": "Дамдины Сүхбаатар"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The building was constructed in 1980 as the Ulaanbaatar branch of the Central Lenin Museum. After the transition to democracy, it served various purposes before housing dinosaur fossils in 2013.",
+        "mn": "Тус барилга нь анх 1980 онд В.И.Лениний төв музейн салбар болон баригдаж байжээ. Ардчилсан хувьсгалын дараа өөр зориулалтаар ашиглагдаж байгаад 2013 онд Үлэг гүрвэлийн музей болсон байна."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.museums-theatres-and-culture",
+      "key": "ulaanbaatar.museums-theatres-and-culture.g10",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which museum, located just west of the Government Palace, is famous for its extensive collection of traditional Mongolian ethnic costumes and historical tools?",
+        "mn": "Төрийн ордны баруун талд байрлах, Монголын олон ястны уламжлалт хувцас хэрэглэл, түүхийн олдворуудын баялаг цуглуулгаараа алдартай музей аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "National Museum of Mongolia",
+          "mn": "Монголын Үндэсний музей"
+        },
+        {
+          "en": "Railway Museum",
+          "mn": "Төмөр замын музей"
+        },
+        {
+          "en": "Space Museum",
+          "mn": "Сансрын музей"
+        },
+        {
+          "en": "Military Museum",
+          "mn": "Цэргийн музей"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Established in 1924, the National Museum of Mongolia is one of the oldest cultural institutions in the country, showcasing history from the Stone Age to the modern era.",
+        "mn": "1924 онд байгуулагдсан Монголын Үндэсний музей нь улсынхаа хамгийн ууган соёлын байгууллагуудын нэг бөгөөд чулуун зэвсгийн үеэс өнөөг хүртэлх түүхийг харуулдаг."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.museums-theatres-and-culture",
+      "key": "ulaanbaatar.museums-theatres-and-culture.g11",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The Mongolian State Philharmonic, located in Ulaanbaatar, houses the famous \"Morin Khuur Ensemble\". In what year was this unique ensemble founded?",
+        "mn": "Улаанбаатар хотод байрлах Монгол Улсын Улсын Филармони нь алдарт \"Морин хуурын чуулга\"-ыг эгнээндээ нэгтгэдэг. Энэхүү өвөрмөц чуулга анх хэдэн онд байгуулагдсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "1963",
+          "mn": "1963 он"
+        },
+        {
+          "en": "1945",
+          "mn": "1945 он"
+        },
+        {
+          "en": "1992",
+          "mn": "1992 он"
+        },
+        {
+          "en": "2010",
+          "mn": "2010 он"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Morin Khuur Ensemble was founded in 1992 to preserve and promote the traditional horsehead fiddle. It has performed at prestigious venues worldwide, including Carnegie Hall.",
+        "mn": "Морин хуурын чуулга нь морин хуур хөгжмийг сурталчлах зорилгоор 1992 онд байгуулагдсан. Тус чуулга нь Карнеги Холл зэрэг дэлхийн нэр хүндтэй тайзнаа тоглож байсан түүхтэй."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.museums-theatres-and-culture",
+      "key": "ulaanbaatar.museums-theatres-and-culture.g12",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The famous \"Fighting Dinosaurs\" fossil, showing a Velociraptor locked in combat with a Protoceratops, was discovered in Mongolia. In which desert was this world-famous specimen found?",
+        "mn": "Велосираптор болон Протоцератопс үлэг гүрвэлүүдийн үхлийн тулааныг харуулсан алдарт \"Тэмцэлдэж буй үлэг гүрвэлүүд\" олдвор Монголоос олдсон. Энэхүү дэлхийд алдартай олдворыг аль цөлөөс олсон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Atacama Desert",
+          "mn": "Атакамагийн цөл"
+        },
+        {
+          "en": "Gobi Desert",
+          "mn": "Говийн элсэн цөл"
+        },
+        {
+          "en": "Sahara Desert",
+          "mn": "Сахарын цөл"
+        },
+        {
+          "en": "Karakum Desert",
+          "mn": "Каракумын цөл"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Discovered in the Gobi Desert in 1971 by a Polish-Mongolian team, this unique fossil captures a predator and prey buried instantly by a collapsing sand dune mid-fight.",
+        "mn": "1971 онд Говийн элсэн цөлөөс Польш-Монголын хамтарсан экспедицийн олсон энэхүү ховор олдвор нь хоёр үлэг гүрвэл тулалдаж байх үедээ элсэн нурангид дарагдан үлдсэнийг харуулдаг."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.from-ikh-khuree-to-ulaanbaatar",
+      "key": "ulaanbaatar.from-ikh-khuree-to-ulaanbaatar.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In which year was the city that would become Ulaanbaatar first founded as a nomadic monastery named Örgöö?",
+        "mn": "Хожим нь Улаанбаатар хот болсон нүүдлийн хийд болох Өргөөг анх хэдэн онд байгуулсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "1924",
+          "mn": "1924 он"
+        },
+        {
+          "en": "1639",
+          "mn": "1639 он"
+        },
+        {
+          "en": "1206",
+          "mn": "1206 он"
+        },
+        {
+          "en": "1778",
+          "mn": "1778 он"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The city was founded in 1639 as a yurt-palace monastery for Zanabazar, the first Bogd Gegeen. It was originally located at Shireet Tsagaan Nuur, over 400 kilometers from its current site.",
+        "mn": "Тус хотыг анх 1639 онд Анхны Богд Гэгээн Занабазарт зориулсан гэр өргөө, хийд хэлбэрээр байгуулжээ. Анх одоогийн байршлаасаа 400 гаруй км-ийн зайд орших Ширээт Цагаан нуурт суурийг нь тавьж байв."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.from-ikh-khuree-to-ulaanbaatar",
+      "key": "ulaanbaatar.from-ikh-khuree-to-ulaanbaatar.g2",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What does the name 'Ulaanbaatar', given to the capital city in 1924, literally translate to?",
+        "mn": "1924 онд нийслэл хотод өгсөн 'Улаанбаатар' хэмээх нэр нь шууд утгаараа ямар утгатай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Golden Temple",
+          "mn": "Алтан сүм"
+        },
+        {
+          "en": "Sacred Valley",
+          "mn": "Ариун хөндий"
+        },
+        {
+          "en": "Red Hero",
+          "mn": "Улаан баатар"
+        },
+        {
+          "en": "Blue Sky",
+          "mn": "Хөх тэнгэр"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The name translates to 'Red Hero' in honor of the revolutionary leader Damdin Sükhbaatar. The decision was made during the transition of Mongolia to a People's Republic.",
+        "mn": "Энэхүү нэр нь хувьсгалын удирдагч Дамдины Сүхбаатарын дурсгалыг хүндэтгэсэн 'Улаан баатар' гэсэн утгатай юм. Энэхүү шийдвэрийг Монгол Улс Бүгд Найрамдах Улсаа тунхаглах үеэр гаргажээ."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.from-ikh-khuree-to-ulaanbaatar",
+      "key": "ulaanbaatar.from-ikh-khuree-to-ulaanbaatar.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Ulaanbaatar is surrounded by four sacred peaks. Which of the following mountains is NOT one of these traditional guardian peaks?",
+        "mn": "Улаанбаатар хот дөрвөн талдаа тахилгат уулсаар хүрээлэгдсэн байдаг. Дараах уулсын аль нь эдгээр уламжлалт дөрвөн хайрхны нэг биш вэ?"
+      },
+      "choices": [
+        {
+          "en": "Songinokhairkhan",
+          "mn": "Сонгинохайрхан"
+        },
+        {
+          "en": "Bogd Khan Mountain",
+          "mn": "Богдхан уул"
+        },
+        {
+          "en": "Chingeltei",
+          "mn": "Чингэлтэй"
+        },
+        {
+          "en": "Altai Tavan Bogd",
+          "mn": "Алтай Таван Богд"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The four sacred peaks surrounding the city are Bogd Khan, Songinokhairkhan, Chingeltei, and Bayanzurkh. Altai Tavan Bogd is located in the far west of Mongolia.",
+        "mn": "Нийслэл хотыг хүрээлэх дөрвөн хайрхан нь Богдхан уул, Сонгинохайрхан, Чингэлтэй, Баянзүрх юм. Харин Алтай Таван Богд нь Монголын хамгийн баруун хязгаарт оршдог."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.from-ikh-khuree-to-ulaanbaatar",
+      "key": "ulaanbaatar.from-ikh-khuree-to-ulaanbaatar.g4",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The nomadic monastery that eventually grew into Ulaanbaatar was originally established as the residence for which prominent spiritual and artistic leader?",
+        "mn": "Хожим Улаанбаатар хот болон өргөжсөн нүүдлийн хийдийг анх Монголын аль нөлөө бүхий шашны зүтгэлтэн, урлагийн сод туурвигчийн ордон болгон байгуулсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Galdan Boshugtu",
+          "mn": "Галдан Бошигт"
+        },
+        {
+          "en": "Amur bayasgalant",
+          "mn": "Амарбаясгалант"
+        },
+        {
+          "en": "Sodnomravdan",
+          "mn": "Содномравдан"
+        },
+        {
+          "en": "Zanabazar",
+          "mn": "Занабазар"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The city began as a mobile palace-monastery for Zanabazar, the first Bogd Gegeen of Mongolia. He was a master sculptor, architect, and the creator of the Soyombo script.",
+        "mn": "Тус хот нь анх Монголын анхны Богд Гэгээн Занабазарын өргөө гэрээс эхэлсэн түүхтэй. Тэрээр сод барималч, уран барилгач бөгөөд Соёмбо үсгийг зохиосон билээ."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.from-ikh-khuree-to-ulaanbaatar",
+      "key": "ulaanbaatar.from-ikh-khuree-to-ulaanbaatar.g5",
+      "difficulty": 3,
+      "prompt": {
+        "en": "During the first State Great Khural in 1924, which Soviet delegate suggested renaming the capital to 'Ulaanbaatar' instead of 'Sükhbaatar City'?",
+        "mn": "1924 оны Анхдугаар Их Хурлын үеэр нийслэлийг 'Сүхбаатар хот' биш, харин 'Улаанбаатар' гэж нэрлэх саналыг Зөвлөлтийн ямар төлөөлөгч гаргасан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Joseph Stalin",
+          "mn": "Иосиф Сталин"
+        },
+        {
+          "en": "Vladimir Lenin",
+          "mn": "Владимир Ленин"
+        },
+        {
+          "en": "Pyotr Kozlov",
+          "mn": "Пётр Козлов"
+        },
+        {
+          "en": "Turar Ryskulov",
+          "mn": "Турар Рыскулов"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Turar Ryskulov, a Soviet delegate of Kazakh origin, suggested 'Ulaanbaatar' as a compromise to avoid naming the city directly after a single living or recently deceased leader.",
+        "mn": "Хасаг гаралтай Зөвлөлтийн төлөөлөгч Турар Рыскулов хотыг шууд нэг хүний нэрээр нэрлэхээс зайлсхийж, 'Улаанбаатар' хэмээх нэрийг санал болгосон нь дэмжигджээ."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.from-ikh-khuree-to-ulaanbaatar",
+      "key": "ulaanbaatar.from-ikh-khuree-to-ulaanbaatar.g6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "After moving more than 25 times, the mobile capital finally settled at its current location at the confluence of the Tuul and Selbe rivers in which year?",
+        "mn": "Нүүдлийн нийслэл 25 гаруй удаа нүүсний эцэст Туул болон Сэлбэ голын бэлчир буюу одоогийн байршилдаа хэдэн онд бүрмөсөн суурьшсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "1778",
+          "mn": "1778 он"
+        },
+        {
+          "en": "1639",
+          "mn": "1639 он"
+        },
+        {
+          "en": "1911",
+          "mn": "1911 он"
+        },
+        {
+          "en": "1921",
+          "mn": "1921 он"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The city settled at its current location in 1778 by royal decree of the Qing Emperor. It was previously located at Khui Mandal just before this final move.",
+        "mn": "Тус хот Манжийн хааны зарлигаар 1778 онд одоогийн байршилдаа бүрмөсөн суурьшжээ. Үүнээс өмнөхөн Хүй Мандалд байрлаж байсан түүхтэй."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.from-ikh-khuree-to-ulaanbaatar",
+      "key": "ulaanbaatar.from-ikh-khuree-to-ulaanbaatar.g7",
+      "difficulty": 1,
+      "prompt": {
+        "en": "After Mongolia declared independence from the Qing Dynasty in 1911, what was the capital city officially renamed?",
+        "mn": "Монгол Улс 1911 онд Манж Чин гүрнээс тусгаар тогтнолоо зарласны дараа нийслэл хотыг албан ёсоор хэрхэн нэрлэсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Niislel Khüree",
+          "mn": "Нийслэл Хүрээ"
+        },
+        {
+          "en": "Örgöö",
+          "mn": "Өргөө"
+        },
+        {
+          "en": "Ulaanbaatar",
+          "mn": "Улаанбаатар"
+        },
+        {
+          "en": "Janjin Khüree",
+          "mn": "Жанжин Хүрээ"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The city was renamed Niislel Khüree ('Capital Camp') in 1911 when the Bogd Khanate was established. It served as the political and religious heart of the newly independent nation.",
+        "mn": "1911 онд Богд Хаант Монгол Улс байгуулагдахад хотыг 'Нийслэл Хүрээ' хэмээн нэрлэжээ. Энэ нь шинэ тусгаар улсын улс төр, шашны гол төв болсон юм."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.from-ikh-khuree-to-ulaanbaatar",
+      "key": "ulaanbaatar.from-ikh-khuree-to-ulaanbaatar.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Western historical sources and travelers frequently referred to the Mongolian capital as 'Urga'. This name is a corruption of which Mongolian word?",
+        "mn": "Өрнөдийн түүхэн сурвалж, аялагчид Монголын нийслэлээр аялахдаа 'Урга' (Urga) гэж тэмдэглэдэг байсан нь монгол хэлний аль үгний сунжирсан дуудлага вэ?"
+      },
+      "choices": [
+        {
+          "en": "Örgöö",
+          "mn": "Өргөө"
+        },
+        {
+          "en": "Khüree",
+          "mn": "Хүрээ"
+        },
+        {
+          "en": "Uus",
+          "mn": "Уус"
+        },
+        {
+          "en": "Ger",
+          "mn": "Гэр"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "'Urga' is a Russian and Western adaptation of the Mongolian word 'Örgöö', which means palace or noble residence. It remained the city's common international name until the 1920s.",
+        "mn": "'Урга' гэдэг нь орд өргөө гэсэн утгатай монгол хэлний 'Өргөө' гэдэг үгний орос болон өрнөдийн сунжирсан дуудлага юм. Энэ нэрээрээ 1920-иод он хүртэл олон улсад алдартай байв."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.from-ikh-khuree-to-ulaanbaatar",
+      "key": "ulaanbaatar.from-ikh-khuree-to-ulaanbaatar.g9",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In 1639, the foundation of the city was laid at a lake located in the territory of modern-day Övörkhangai Province. What is the name of this historic lake?",
+        "mn": "1639 онд хотын суурийг одоогийн Өвөрхангай аймгийн нутагт орших нэгэн нуурын дэргэд тавьжээ. Энэхүү түүхэн нуурыг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Shireet Tsagaan Nuur",
+          "mn": "Ширээт Цагаан нуур"
+        },
+        {
+          "en": "Khövsgöl Nuur",
+          "mn": "Хөвсгөл нуур"
+        },
+        {
+          "en": "Terkhiin Tsagaan Nuur",
+          "mn": "Тэрхийн Цагаан нуур"
+        },
+        {
+          "en": "Uvs Nuur",
+          "mn": "Увс нуур"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The city's history began at Shireet Tsagaan Nuur in Övörkhangai Province. Today, a historical monument stands at this site to mark the birthplace of the capital.",
+        "mn": "Нийслэл хотын түүх Өвөрхангай аймгийн нутагт орших Ширээт Цагаан нуураас эхэлсэн юм. Өдгөө тус нуурын дэргэд хотын үүслийг тэмдэглэсэн түүхэн гэрэлт хөшөө байдаг."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.from-ikh-khuree-to-ulaanbaatar",
+      "key": "ulaanbaatar.from-ikh-khuree-to-ulaanbaatar.g10",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Ulaanbaatar was permanently settled in 1778 at the confluence of the Tuul River and which other river that flows through the city?",
+        "mn": "Улаанбаатар хот 1778 онд Туул гол болон хотын дундуур урсах өөр ямар голын бэлчирт бүрмөсөн суурьшсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Selbe River",
+          "mn": "Сэлбэ гол"
+        },
+        {
+          "en": "Eg River",
+          "mn": "Эг гол"
+        },
+        {
+          "en": "Orkhon River",
+          "mn": "Орхон гол"
+        },
+        {
+          "en": "Kherlen River",
+          "mn": "Хэрлэн гол"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The city settled at the confluence of the Tuul and Selbe rivers. The Selbe River flows from the north of the city and is a vital part of Ulaanbaatar's geography.",
+        "mn": "Тус хот Туул болон Сэлбэ голын бэлчирт суурьшжээ. Сэлбэ гол нь хотын хойд талаас урсан орж ирдэг бөгөөд нийслэлийн газар зүйн чухал хэсэг юм."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.from-ikh-khuree-to-ulaanbaatar",
+      "key": "ulaanbaatar.from-ikh-khuree-to-ulaanbaatar.g11",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Built between 1893 and 1903, this complex is the only remaining residence of Mongolia's last king. What is it called?",
+        "mn": "1893-1903 оны хооронд баригдсан, Монголын хамгийн сүүлчийн хааны амьдарч байсан ордноос үлдсэн цорын ганц цогцолбор юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Green Palace",
+          "mn": "Ногоон ордон"
+        },
+        {
+          "en": "Gandantegchinlen Monastery",
+          "mn": "Гандантэгчинлэн хийд"
+        },
+        {
+          "en": "Choijin Lama Temple",
+          "mn": "Чойжин ламын сүм"
+        },
+        {
+          "en": "Winter Palace of the Bogd Khan",
+          "mn": "Богд Хааны өвлийн ордон"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Winter Palace of the Bogd Khan is the only surviving palace of the last Mongolian monarch, Bogd Khan. It now operates as a museum displaying his personal items and royal artifacts.",
+        "mn": "Богд Хааны өвлийн ордон нь Монголын хамгийн сүүлчийн хаан VIII Богд Жавзандамба хутагтын амьдарч байсан ордноос үлдсэн цор ганц нь юм. Өдгөө энд түүний хэрэглэж байсан эд өлгийн зүйлсийн музей ажилладаг."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.from-ikh-khuree-to-ulaanbaatar",
+      "key": "ulaanbaatar.from-ikh-khuree-to-ulaanbaatar.g12",
+      "difficulty": 1,
+      "prompt": {
+        "en": "The central square of Ulaanbaatar, featuring a famous statue of a revolutionary leader on a horse, is named after whom?",
+        "mn": "Улаанбаатар хотын төв талбайг морьтой хувьсгалчийн хөшөөгөөр нь алдаршсан хэний нэрээр нэрлэсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Damdin Sükhbaatar",
+          "mn": "Дамдин Сүхбаатар"
+        },
+        {
+          "en": "Zanabazar",
+          "mn": "Занабазар"
+        },
+        {
+          "en": "Chinggis Khaan",
+          "mn": "Чингис хаан"
+        },
+        {
+          "en": "Khorloogiin Choibalsan",
+          "mn": "Хорлоогийн Чойбалсан"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The central square is named after Damdin Sükhbaatar, the leader of the 1921 Mongolian Revolution. His equestrian statue stands at the exact spot where his horse urinated during a rally, which was considered a lucky omen.",
+        "mn": "Төв талбайг 1921 оны Ардын хувьсгалын удирдагч Дамдины Сүхбаатарын нэрээр нэрлэжээ. Түүний морьтой хөшөөг хувьсгалчид цуглах үеэр морь нь шээсэн бэлгэтэй газарт босгосон түүхтэй."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.city-facts-and-numbers",
+      "key": "ulaanbaatar.city-facts-and-numbers.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which city is officially the coldest national capital in the world by average annual temperature?",
+        "mn": "Жилийн дундаж температураараа дэлхийн хамгийн хүйтэн нийслэл хотод тооцогддог хот аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Ulaanbaatar",
+          "mn": "Улаанбаатар"
+        },
+        {
+          "en": "Astana",
+          "mn": "Астана"
+        },
+        {
+          "en": "Ottawa",
+          "mn": "Оттава"
+        },
+        {
+          "en": "Moscow",
+          "mn": "Москва"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Ulaanbaatar has an average annual temperature of around -1.3°C, making it the coldest capital city in the world. It experiences long, dry, and extremely cold winters.",
+        "mn": "Улаанбаатар хотын жилийн дундаж температур ойролцоогоор -1.3°C байдаг тул дэлхийн хамгийн хүйтэн нийслэлд тооцогддог. Өвөл нь урт, хуурай бөгөөд маш хүйтэн болдог."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.city-facts-and-numbers",
+      "key": "ulaanbaatar.city-facts-and-numbers.g2",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Mongolia is known as the 'Land of the Blue Sky.' Approximately how many sunny days does Ulaanbaatar experience per year?",
+        "mn": "Монгол улсыг 'Мөнх хөх тэнгэрийн орон' гэж нэрлэдэг. Улаанбаатар хотод жилд дунджаар хэдэн өдөр цэлмэг, нарлаг байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Over 150",
+          "mn": "150 гаруй"
+        },
+        {
+          "en": "Over 200",
+          "mn": "200 гаруй"
+        },
+        {
+          "en": "Over 100",
+          "mn": "100 гаруй"
+        },
+        {
+          "en": "Over 250",
+          "mn": "250 гаруй"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Despite its extreme cold, Ulaanbaatar enjoys over 250 sunny days a year. This unique combination of cold temperatures and high sunshine is due to the strong Siberian High pressure system.",
+        "mn": "Улаанбаатар хот маш хүйтэн уур амьсгалтай хэдий ч жилд 250 гаруй нарлаг өдөртэй байдаг. Энэхүү хүйтэн бөгөөд нарлаг хослол нь Сибирийн өндөр даралтын системтэй холбоотой."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.city-facts-and-numbers",
+      "key": "ulaanbaatar.city-facts-and-numbers.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Approximately what fraction of Mongolia's entire population lives in the capital city of Ulaanbaatar?",
+        "mn": "Монгол улсын нийт хүн амын ойролцоогоор хэдэн хувь нь нийслэл Улаанбаатар хотод амьдарч байна вэ?"
+      },
+      "choices": [
+        {
+          "en": "One-fourth",
+          "mn": "Дөрвөн хуваасны нэг"
+        },
+        {
+          "en": "One-tenth",
+          "mn": "Аравны нэг"
+        },
+        {
+          "en": "Nearly half",
+          "mn": "Тал шахуу хувь нь"
+        },
+        {
+          "en": "Three-quarters",
+          "mn": "Дөрвний гурав нь"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Nearly half of Mongolia's population lives in Ulaanbaatar, making it one of the most centralized capitals in the world. The city's population has grown rapidly over the last few decades.",
+        "mn": "Монгол улсын нийт хүн амын бараг тал хувь нь Улаанбаатарт амьдардаг бөгөөд энэ нь дэлхийн хамгийн их төвлөрөлтэй нийслэлүүдийн нэг юм. Сүүлийн хэдэн арван жилд хотын хүн ам маш хурдтай өссөн."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.city-facts-and-numbers",
+      "key": "ulaanbaatar.city-facts-and-numbers.g4",
+      "difficulty": 2,
+      "prompt": {
+        "en": "At what approximate altitude above sea level does the city of Ulaanbaatar sit?",
+        "mn": "Улаанбаатар хот далайн түвшнээс дээш ойролцоогоор хэдэн метрийн өндөрт оршдог вэ?"
+      },
+      "choices": [
+        {
+          "en": "2,200 meters",
+          "mn": "2,200 метр"
+        },
+        {
+          "en": "1,350 meters",
+          "mn": "1,350 метр"
+        },
+        {
+          "en": "500 meters",
+          "mn": "500 метр"
+        },
+        {
+          "en": "3,100 meters",
+          "mn": "3,100 метр"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Ulaanbaatar lies at an altitude of about 1,350 meters (4,430 feet) above sea level. It is situated in a valley surrounded by four sacred mountains.",
+        "mn": "Улаанбаатар хот далайн түвшнээс дээш 1,350 орчим метрийн өндөрт оршдог. Тус хот нь дөрвөн талдаа тахилгат уулсаар хүрээлэгдсэн хөндийд байрладаг."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.city-facts-and-numbers",
+      "key": "ulaanbaatar.city-facts-and-numbers.g5",
+      "difficulty": 2,
+      "prompt": {
+        "en": "According to average annual temperature data, which city is the second coldest national capital in the world, right after Ulaanbaatar?",
+        "mn": "Жилийн дундаж температураараа Улаанбаатарын дараа ордог дэлхийн хоёр дахь хамгийн хүйтэн нийслэл хот аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Ottawa",
+          "mn": "Оттава"
+        },
+        {
+          "en": "Moscow",
+          "mn": "Москва"
+        },
+        {
+          "en": "Helsinki",
+          "mn": "Хельсинки"
+        },
+        {
+          "en": "Astana",
+          "mn": "Астана"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Astana, the capital of Kazakhstan, is the second coldest national capital in the world. It features extremely continental climates with hot summers and freezing, windy winters.",
+        "mn": "Казахстаны нийслэл Астана хот нь дэлхийн хоёр дахь хамгийн хүйтэн нийслэл юм. Энд зундаа халуун, өвөлдөө маш хүйтэн, салхитай эрс тэс уур амьсгалтай байдаг."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.city-facts-and-numbers",
+      "key": "ulaanbaatar.city-facts-and-numbers.g6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Winter temperatures in Ulaanbaatar regularly drop below which extreme Celsius threshold?",
+        "mn": "Улаанбаатар хотын өвлийн температур ихэвчлэн Цельсийн хэдэн хэмээс доош орж хүйтэрдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "-40 °C",
+          "mn": "-40 °C"
+        },
+        {
+          "en": "-30 °C",
+          "mn": "-30 °C"
+        },
+        {
+          "en": "-20 °C",
+          "mn": "-20 °C"
+        },
+        {
+          "en": "-10 °C",
+          "mn": "-10 °C"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "During December and January, temperatures in Ulaanbaatar regularly drop below -40 °C. The city's geography causes cold air to pool in the valley floor.",
+        "mn": "Арванхоёр болон нэгдүгээр сард Улаанбаатар хотын агаарын температур тогтмол -40 °C-ээс доош орж хүйтэрдэг. Хотын байршил, газар нутгийн онцлогоос шалтгаалж хүйтэн агаар хөндийдөө хуримтлагддаг."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.city-facts-and-numbers",
+      "key": "ulaanbaatar.city-facts-and-numbers.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In which year was the capital of Mongolia officially renamed from Niislel Khüree to Ulaanbaatar?",
+        "mn": "Монгол Улсын нийслэлийг Нийслэл Хүрээнээс Улаанбаатар хэмээн хэдэн онд албан ёсоор өөрчлөн нэрлэсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "1921",
+          "mn": "1921 он"
+        },
+        {
+          "en": "1924",
+          "mn": "1924 он"
+        },
+        {
+          "en": "1940",
+          "mn": "1940 он"
+        },
+        {
+          "en": "1911",
+          "mn": "1911 он"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The city was renamed Ulaanbaatar in 1924, when the First National Great Khural approved the first constitution of the Mongolian People's Republic.",
+        "mn": "Анхдугаар Их Хурлаар Бүгд Найрамдах Монгол Ард Улсын анхны үндсэн хуулийг баталж, 1924 онд нийслэлийн нэрийг Улаанбаатар болгон өөрчилжээ."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.city-facts-and-numbers",
+      "key": "ulaanbaatar.city-facts-and-numbers.g8",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What does the name 'Ulaanbaatar' translate to in English?",
+        "mn": "'Улаанбаатар' гэдэг нэр ямар утгатай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Golden Temple",
+          "mn": "Алтан Сүм"
+        },
+        {
+          "en": "Red Hero",
+          "mn": "Улаан Баатар"
+        },
+        {
+          "en": "Blue Sky",
+          "mn": "Хөх Тэнгэр"
+        },
+        {
+          "en": "Great Settlement",
+          "mn": "Их Суурин"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The name 'Ulaanbaatar' means 'Red Hero' in Mongolian. It was named in honor of Damdin Sükhbaatar and the revolutionary forces.",
+        "mn": "'Улаанбаатар' гэдэг нь 'Улаан баатар' (Red Hero) гэсэн утгатай бөгөөд жанжин Д.Сүхбаатар болон хувьсгалчдын гавьяаг алдаршуулан ийнхүү нэрлэжээ."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.city-facts-and-numbers",
+      "key": "ulaanbaatar.city-facts-and-numbers.g9",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which sacred mountain, one of the oldest continuously protected areas in the world, borders Ulaanbaatar to the south?",
+        "mn": "Улаанбаатар хотын урд талаар хиллэдэг, дэлхийн хамгийн эртний дархан цаазат газруудын нэг болох тахилгат уул аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Burkhan Khaldun",
+          "mn": "Бурхан Халдун"
+        },
+        {
+          "en": "Bogd Khan",
+          "mn": "Богдхан уул"
+        },
+        {
+          "en": "Otgontenger",
+          "mn": "Отгонтэнгэр"
+        },
+        {
+          "en": "Khustai",
+          "mn": "Хустай нуруу"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Bogd Khan Mountain has been legally protected since at least 1778, making it older than Yellowstone National Park. It lies directly south of Ulaanbaatar.",
+        "mn": "Богдхан уулыг 1778 оноос албан ёсоор хамгаалалтад авсан нь АНУ-ын Йеллоустоуны үндэсний паркаас ч эртний түүхтэй юм."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.city-facts-and-numbers",
+      "key": "ulaanbaatar.city-facts-and-numbers.g10",
+      "difficulty": 2,
+      "prompt": {
+        "en": "How many official districts (dүүрэг) is the capital city of Ulaanbaatar divided into?",
+        "mn": "Нийслэл Улаанбаатар хот засаг захиргааны хувьд албан ёсны хэдэн дүүрэгт хуваагддаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "5",
+          "mn": "5"
+        },
+        {
+          "en": "7",
+          "mn": "7"
+        },
+        {
+          "en": "9",
+          "mn": "9"
+        },
+        {
+          "en": "12",
+          "mn": "12"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Ulaanbaatar is divided into 9 districts. Some districts, like Baganuur and Bagakhangai, are located as enclaves far outside the main city area.",
+        "mn": "Улаанбаатар хот нь засаг захиргааны 9 дүүрэгт хуваагддаг. Багануур, Багахангай зэрэг зарим дүүргүүд нь хотын төв хэсгээс алслагдсан байршилтай байдаг."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.city-facts-and-numbers",
+      "key": "ulaanbaatar.city-facts-and-numbers.g11",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which major river flows through the southern part of Ulaanbaatar?",
+        "mn": "Улаанбаатар хотын урд хэсгээр урсан өнгөрдөг хамгийн том гол аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Selenge River",
+          "mn": "Сэлэнгэ мөрөн"
+        },
+        {
+          "en": "Tuul River",
+          "mn": "Туул гол"
+        },
+        {
+          "en": "Orkhon River",
+          "mn": "Орхон гол"
+        },
+        {
+          "en": "Kherlen River",
+          "mn": "Хэрлэн гол"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Tuul River flows through Ulaanbaatar and is historically known as the 'Queen Tuul.' It is an essential source of water for the capital.",
+        "mn": "Туул гол нь Улаанбаатар хотын дундуур урсан өнгөрдөг бөгөөд түүхэнд 'Хатан Туул' хэмээн алдаршжээ. Энэ гол нь нийслэлийн усны гол эх үүсвэр юм."
+      }
+    },
+    {
+      "topicSlug": "ulaanbaatar",
+      "lessonKey": "ulaanbaatar.city-facts-and-numbers",
+      "key": "ulaanbaatar.city-facts-and-numbers.g12",
+      "difficulty": 3,
+      "prompt": {
+        "en": "By what name was the Mongolian capital historically known to Westerners and Russian travelers before the 20th century?",
+        "mn": "20-р зуунаас өмнө барууныхан болон Оросын аялагчид Монголын нийслэлийг түүхэнд ямар нэрээр нэрлэдэг байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Karakorum",
+          "mn": "Хархорум"
+        },
+        {
+          "en": "Shangdu",
+          "mn": "Шанду"
+        },
+        {
+          "en": "Urga",
+          "mn": "Өргөө (Urga)"
+        },
+        {
+          "en": "Khovd",
+          "mn": "Ховд"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Western and Russian historical texts referred to the city as 'Urga,' which is a Russian corruption of the Mongolian word 'Örgöö' (palace-yurt).",
+        "mn": "Барууны болон Оросын түүхийн сурвалжид уг хотыг 'Өргөө' (Urga) гэж нэрлэдэг байсан бөгөөд энэ нь орд өргөө гэсэн үгнээс гаралтай нэршил юм."
+      }
+    }
+  ]
+}

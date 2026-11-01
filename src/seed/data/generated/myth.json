@@ -1,0 +1,2486 @@
+{
+  "lessons": [
+    {
+      "topicSlug": "myth",
+      "key": "myth.norse-gods-ragnarok",
+      "order": 2,
+      "title": {
+        "en": "Norse Gods & Ragnarök",
+        "mn": "Нордийн бурхад ба Рагнарок"
+      },
+      "summary": {
+        "en": "The epic tales of Odin, Thor, Loki, and the inevitable doom of the cosmos.",
+        "mn": "Один, Тор, Локи нарын туульс болон ертөнцийн гарцаагүй мөхлийн түүх."
+      },
+      "body": {
+        "en": "Norse mythology centers on the Aesir gods of Asgard, led by the all-father Odin. Unlike many pantheons, these gods are not immortal; they are destined to fight and die in Ragnarök, a cataclysmic battle that ends the world before a new one is reborn from the waters.",
+        "mn": "Нордийн үлгэр домог нь Асгардын тэргүүн тэнгэр Один тэргүүтэй Аэсир бурхдын эргэн тойронд өрнөдөг. Бусад соёлын бурхдаас ялгаатай нь тэд мөнх бус бөгөөд Рагнарок буюу ертөнцийг мөхөөж, дахин шинээр төрүүлэх агуу тулаанд үрэгдэх тавилантай байжээ."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "👁️",
+            "title": {
+              "en": "Odin",
+              "mn": "Один"
+            },
+            "facts": [
+              {
+                "en": "The All-Father of the Norse gods who traded one of his eyes for wisdom at Mimir's well.",
+                "mn": "Мимирийн худгаас ухаан уухын тулд нэг нүдээ өгсөн, Нордийн бурхдын тэргүүн эцэг."
+              },
+              {
+                "en": "He is accompanied by two ravens, Huginn and Muninn, representing thought and memory.",
+                "mn": "Түүнийг бодол болон санамжийг бэлгэдэх Хүгин, Мүнин гэх хоёр хэрээ дагаж явдаг."
+              }
+            ],
+            "subtitle": {
+              "en": "God of Wisdom & War",
+              "mn": "Мэргэн ухаан, дайны бурхан"
+            }
+          },
+          {
+            "icon": "⚡",
+            "title": {
+              "en": "Thor",
+              "mn": "Тор"
+            },
+            "facts": [
+              {
+                "en": "The red-haired god of thunder who protects mankind in Midgard with his hammer Mjölnir.",
+                "mn": "Мьёлнир алхаараа Мидгардын хүн төрөлхтнийг хамгаалагч, улаан үст аянга цахилгааны бурхан."
+              },
+              {
+                "en": "He rides a chariot pulled by two goats, Tanngrisnir and Tanngnjóstr.",
+                "mn": "Тэрээр Таннгриснир, Таннгнйостр гэх хоёр ямаа хөллөсөн тэргээр аялдаг."
+              }
+            ],
+            "subtitle": {
+              "en": "God of Thunder",
+              "mn": "Аянга цахилгааны бурхан"
+            }
+          },
+          {
+            "icon": "🐍",
+            "title": {
+              "en": "Loki",
+              "mn": "Локи"
+            },
+            "facts": [
+              {
+                "en": "A shape-shifting giant who was adopted into the Aesir pantheon as Odin's blood brother.",
+                "mn": "Одины цусан анд болж Аэсир бурхдын дунд орсон, зүсээ хувиргагч аварга биет."
+              },
+              {
+                "en": "Father to the wolf Fenrir, the world serpent Jörmungandr, and the death goddess Hel.",
+                "mn": "Фенрир чоно, Ёрмунганд далайн могой, үхлийн даяанч Хел нарын эцэг."
+              }
+            ],
+            "subtitle": {
+              "en": "The Trickster",
+              "mn": "Хууран мэхлэгч"
+            }
+          },
+          {
+            "icon": "💀",
+            "title": {
+              "en": "Hel",
+              "mn": "Хел"
+            },
+            "facts": [
+              {
+                "en": "Ruler of Niflheim, the cold underworld where those who die of old age or sickness go.",
+                "mn": "Өвчин эмгэг, өтлөлтөөр өөд бологсдын очдог хүйтэн газар доорх ертөнц Нифлхеймийн захирагч."
+              },
+              {
+                "en": "Half of her body is described as living flesh, while the other half is decayed and dead.",
+                "mn": "Түүний биеийн тал хэсэг нь амьд махбод, харин нөгөө тал нь үхэж ялзарсан байдаг гэж дүрсэлдэг."
+              }
+            ],
+            "subtitle": {
+              "en": "Ruler of the Underworld",
+              "mn": "Эрлэг номун хаан"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "Thursday is named after Thor (Thor's day), while Wednesday comes from Odin's Germanic name, Woden (Woden's day).",
+          "mn": "Англи хэлний Пүрэв гараг (Thursday) нь Тор бурхны (Thor's day), харин Лхагва гараг (Wednesday) нь Одны герман нэр болох Воденоос (Woden's day) гаралтай."
+        },
+        {
+          "en": "Thor's hammer, Mjölnir, was forged by dwarves and had a short handle because Loki interfered with its creation.",
+          "mn": "Торын алх Мьёлнирыг одойнууд урласан бөгөөд Локи саад болсны улмаас бариул нь богино болсон гэдэг."
+        }
+      ]
+    },
+    {
+      "topicSlug": "myth",
+      "key": "myth.egyptian-afterlife",
+      "order": 3,
+      "title": {
+        "en": "Egyptian Gods & the Afterlife",
+        "mn": "Египетийн бурхад ба хойд нас"
+      },
+      "summary": {
+        "en": "The complex journey of the soul through the underworld to reach the fields of Osiris.",
+        "mn": "Осирисын диваажинд хүрэх сүнсний газар доорх аяллын ээдрээт түүх."
+      },
+      "body": {
+        "en": "Ancient Egyptians viewed death not as an end, but as a transition. Under the guidance of Anubis, the dead traveled through the underworld to face the Weighing of the Heart ceremony, where their morality was tested against the feather of truth.",
+        "mn": "Эртний Египетчүүд үхлийг төгсгөл бус, харин шилжилт гэж үздэг байв. Анубисын удирдлага дор талийгаачид эрлэгийн орноор аялж, зүрхээ үнэний өдтэй жигнүүлэх шүүх хуралд ордог байжээ."
+      },
+      "visual": {
+        "kind": "timeline",
+        "items": [
+          {
+            "when": {
+              "en": "Step 1",
+              "mn": "Алхам 1"
+            },
+            "title": {
+              "en": "Mummification",
+              "mn": "Мумижуулалт"
+            },
+            "body": {
+              "en": "Anubis oversees the preservation of the body so the soul (Ka and Ba) can recognize its physical vessel.",
+              "mn": "Сүнс (Ка ба Ба) өөрийн бие махбодыг танихын тулд Анубис бурхан цогцсыг мумижуулах үйлийг ивээдэг."
+            }
+          },
+          {
+            "when": {
+              "en": "Step 2",
+              "mn": "Алхам 2"
+            },
+            "title": {
+              "en": "Entering Duat",
+              "mn": "Дуат руу нэвтрэх"
+            },
+            "body": {
+              "en": "The soul enters the dangerous Egyptian underworld, facing monsters, demons, and gates of fire.",
+              "mn": "Сүнс Египетийн аюулт эрлэгийн орон болох Дуат руу нэвтэрч, мангасууд болон галт хаалгануудтай тулгарна."
+            }
+          },
+          {
+            "when": {
+              "en": "Step 3",
+              "mn": "Алхам 3"
+            },
+            "title": {
+              "en": "Weighing of the Heart",
+              "mn": "Зүрхийг жигнэх"
+            },
+            "body": {
+              "en": "The jackal-headed god Anubis weighs the deceased's heart against the feather of Ma'at (truth and justice).",
+              "mn": "Чоно толгойт Анубис бурхан талийгаачийн зүрхийг Маат бурхны үнэний өдтэй жигнэнэ."
+            }
+          },
+          {
+            "when": {
+              "en": "Step 4",
+              "mn": "Алхам 4"
+            },
+            "title": {
+              "en": "Recording the Verdict",
+              "mn": "Шийдвэрийг тэмдэглэх"
+            },
+            "body": {
+              "en": "Thoth, the ibis-headed god of wisdom and writing, records the result of the judgment.",
+              "mn": "Ибис шувуун толгойт мэргэн ухаан, бичиг үсгийн бурхан Тот шүүлтийн үр дүнг тэмдэглэн авна."
+            }
+          },
+          {
+            "when": {
+              "en": "Step 5",
+              "mn": "Алхам 5"
+            },
+            "title": {
+              "en": "The Fields of Aaru",
+              "mn": "Ааругийн тал"
+            },
+            "body": {
+              "en": "If judged worthy, Osiris welcomes the soul into the eternal paradise, a perfect version of Egypt.",
+              "mn": "Хэрэв зөвт гэж тооцогдвол Осирис бурхан сүнсийг Египетийн төгс хувилбар болох мөнхийн диваажинд угтан авна."
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "The 'Book of the Dead' was actually a collection of spells and magic formulas buried with the deceased to help them navigate the underworld.",
+          "mn": "'Үхэгсдийн ном' нь үнэндээ талийгаачийг эрлэгийн орныг саадгүй туулахад нь туслах зорилгоор хамт оршуулдаг шившлэг, тарниудын цуглуулга байв."
+        },
+        {
+          "en": "If a heart was found to be heavier than the feather of Ma'at, it was immediately eaten by the monster Ammit, ending the soul's existence forever.",
+          "mn": "Хэрэв хүний зүрх Маатын өднөөс хүнд байвал түүнийг Аммит мангас шууд залгиж, сүнсийг нь үүрд үгүй хийдэг байжээ."
+        }
+      ]
+    },
+    {
+      "topicSlug": "myth",
+      "key": "myth.hindu-gods-epics",
+      "order": 4,
+      "title": {
+        "en": "Hindu Gods & Epics",
+        "mn": "Энэтхэг бурхад ба туульс"
+      },
+      "summary": {
+        "en": "The supreme Trimurti and the ancient heroic sagas of the Ramayana and Mahabharata.",
+        "mn": "Энэтхэгийн гурвал бурхад болон Рамаяна, Махабхарата хэмээх эртний баатруудын туульс."
+      },
+      "body": {
+        "en": "Hinduism features a vast pantheon led by the Trimurti: Brahma the Creator, Vishnu the Preserver, and Shiva the Destroyer. Their cosmic battles, moral lessons, and divine interventions are recorded in epic poems that remain cultural foundations today.",
+        "mn": "Хиндү шашинд Бүтээгч Брахма, Тэтгэгч Вишнү, Сүйтгэгч Шива хэмээх гурвал бурхан тэргүүтэй асар том ертөнц оршдог. Тэдний сансрын тулаан, сургаал номлол нь өнөөгийн соёлын тулгуур болсон агуу туульсуудад бичигдэн үлджээ."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "🕉️",
+            "title": {
+              "en": "Brahma",
+              "mn": "Брахма"
+            },
+            "facts": [
+              {
+                "en": "The creator god of the cosmos, often depicted with four heads facing the four cardinal directions.",
+                "mn": "Ертөнцийг бүтээгч бурхан бөгөөд зүг зүг рүү харсан дөрвөн толгойтойгоор дүрслэгддэг."
+              },
+              {
+                "en": "He is rarely worshipped in modern India compared to Vishnu and Shiva.",
+                "mn": "Орчин үеийн Энэтхэгт Вишнү, Шива нартай харьцуулахад түүнд зориулсан шүтлэг харьцангуй цөөн байдаг."
+              }
+            ],
+            "subtitle": {
+              "en": "The Creator",
+              "mn": "Бүтээгч"
+            }
+          },
+          {
+            "icon": "🛡️",
+            "title": {
+              "en": "Vishnu",
+              "mn": "Вишнү"
+            },
+            "facts": [
+              {
+                "en": "The preserver and protector of the universe who descends to Earth in various avatars to restore cosmic order (Dharma).",
+                "mn": "Ертөнцийн дэг журмыг (Дхарма) хамгаалахаар дэлхийд янз бүрийн дүрээр залардаг тэтгэгч бурхан."
+              },
+              {
+                "en": "He is traditionally depicted with blue skin and holding a conch shell and a discus.",
+                "mn": "Түүнийг уламжлалт ёсоор хөх арьстай, гартаа лавай болон чакра барьснаар дүрсэлдэг."
+              }
+            ],
+            "subtitle": {
+              "en": "The Preserver",
+              "mn": "Тэтгэгч"
+            }
+          },
+          {
+            "icon": "🔱",
+            "title": {
+              "en": "Shiva",
+              "mn": "Шива"
+            },
+            "facts": [
+              {
+                "en": "The destroyer of evil and the transformer within the Trimurti, associated with yoga and meditation.",
+                "mn": "Бузар мууг сүйтгэгч, бясалгал болон иогийн эзэн хэмээн шүтэгддэг өөрчлөн шинэчлэгч бурхан."
+              },
+              {
+                "en": "He has a third eye on his forehead which can burn enemies to ashes when opened.",
+                "mn": "Түүний духан дахь гурав дахь нүд нээгдэхэд дайснуудыг үнс нурам болгон хувиргах хүчтэй."
+              }
+            ],
+            "subtitle": {
+              "en": "The Destroyer",
+              "mn": "Сүйтгэгч"
+            }
+          },
+          {
+            "icon": "🐘",
+            "title": {
+              "en": "Ganesha",
+              "mn": "Ганеша"
+            },
+            "facts": [
+              {
+                "en": "The elephant-headed god of beginnings, wisdom, and the remover of obstacles.",
+                "mn": "Эхлэл, мэргэн ухаан болон саад бэрхшээлийг арилгагч заан толгойт бурхан."
+              },
+              {
+                "en": "He is the son of Shiva and Parvati, and rides on a small mouse.",
+                "mn": "Тэрээр Шива болон Парвати нарын хүү бөгөөд жижигхэн хулгана хөлөглөдөг."
+              }
+            ],
+            "subtitle": {
+              "en": "Remover of Obstacles",
+              "mn": "Саад бэрхшээлийг арилгагч"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "The Mahabharata is the longest epic poem ever written, containing roughly 100,000 verses—about ten times the length of the Iliad and Odyssey combined.",
+          "mn": "Махабхарата бол дэлхийн хамгийн урт туульс бөгөөд 100,000 орчим бадагтай. Энэ нь Илиада болон Одиссейг нийлүүлснээс арав дахин урт гэсэн үг юм."
+        },
+        {
+          "en": "Vishnu's seventh and eighth avatars are Rama and Krishna, who serve as the main heroes of the Ramayana and Mahabharata respectively.",
+          "mn": "Вишнү бурхны 7 болон 8 дахь дүрүүд болох Рама, Кришна нар нь Рамаяна болон Махабхарата туульсын гол баатрууд юм."
+        }
+      ]
+    },
+    {
+      "topicSlug": "myth",
+      "key": "myth.japanese-folklore-yokai",
+      "order": 5,
+      "title": {
+        "en": "Japanese Folklore & Yokai",
+        "mn": "Японы ардын аман зохиол ба Ёокай"
+      },
+      "summary": {
+        "en": "The mysterious world of supernatural monsters, spirits, and tricksters in Japan.",
+        "mn": "Японы ер бусын мангасууд, сүнснүүд болон зальтай ад зэтгэрүүдийн нууцлаг ертөнц."
+      },
+      "body": {
+        "en": "Japanese folklore is populated by 'yokai'—a broad category of supernatural entities ranging from mischievous animal spirits to terrifying malevolent demons. Rooted in Shinto animism, these spirits explain the strange, unexplained phenomena of daily life.",
+        "mn": "Японы ардын аман зохиолд 'ёокай' буюу дүрсгүй амьтны сүнснээс эхлээд аймшигт чөтгөр хүртэлх ер бусын биетүүд гардаг. Шинто шашны анимизмд тулгуурласан эдгээр сүнснүүд нь өдөр тутмын амьдралын тайлбарлагдашгүй үзэгдлүүдийг тайлбарладаг байв."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "🐢",
+            "title": {
+              "en": "Kappa",
+              "mn": "Каппа"
+            },
+            "facts": [
+              {
+                "en": "A water sprite with a turtle-like shell and a cavity on its head that must remain filled with water to keep its power.",
+                "mn": "Яст мэлхийн хуягтай, толгойн оройдоо ус агуулсан хонхорхойтой усан мандал дахь сүнс."
+              },
+              {
+                "en": "Known to pull people into rivers but can be appeased with offerings of cucumbers.",
+                "mn": "Хүмүүсийг гол руу татаж оруулдаг гэгддэг ч өргөст хэмх өгч аргадаж болдог."
+              }
+            ],
+            "subtitle": {
+              "en": "River Imp",
+              "mn": "Усны чөтгөр"
+            }
+          },
+          {
+            "icon": "🦊",
+            "title": {
+              "en": "Kitsune",
+              "mn": "Кицүнэ"
+            },
+            "facts": [
+              {
+                "en": "Intelligent, magical foxes that possess shape-shifting abilities and often trick humans.",
+                "mn": "Хүмүүсийг хуурч мэхэлдэг, зүсээ хувиргах чадвартай ухаалаг, шидтэй үнэгнүүд."
+              },
+              {
+                "en": "They are closely associated with Inari, the Shinto god of rice and agriculture.",
+                "mn": "Тэд Шинто шашны будаа, газар тариалангийн бурхан Инаритай нягт холбоотой байдаг."
+              }
+            ],
+            "subtitle": {
+              "en": "Fox Spirit",
+              "mn": "Үнэгэн сүнс"
+            }
+          },
+          {
+            "icon": "👺",
+            "title": {
+              "en": "Tengu",
+              "mn": "Тэнгү"
+            },
+            "facts": [
+              {
+                "en": "Mountain spirits depicted with long noses, red faces, and wings, carrying magical fans.",
+                "mn": "Урт хамар, улаан нүүр, далавчтай бөгөөд шидэт дэвүүр барьсан уулын савдаг."
+              },
+              {
+                "en": "Originally seen as disruptive demons, they evolved into protective spirits of sacred forests.",
+                "mn": "Анх бузар чөтгөр гэгддэг байсан ч хожим ариун дагшин ойг хамгаалагч сүнс болж хувирчээ."
+              }
+            ],
+            "subtitle": {
+              "en": "Heavenly Sentinel",
+              "mn": "Тэнгэрийн харуул"
+            }
+          },
+          {
+            "icon": "👹",
+            "title": {
+              "en": "Oni",
+              "mn": "Они"
+            },
+            "facts": [
+              {
+                "en": "Ogre-like monsters with horns, wild hair, and iron clubs, often colored red or blue.",
+                "mn": "Эвэр, сэгсгэр үс, төмөр шийдэмтэй, улаан эсвэл хөх өнгөтэй аварга мангасууд."
+              },
+              {
+                "en": "They act as punishers of the wicked in the Buddhist underworld.",
+                "mn": "Тэд Буддын шашны тамын оронд нүгэлтнүүдийг шийтгэх үүрэг гүйцэтгэдэг."
+              }
+            ],
+            "subtitle": {
+              "en": "Demon Ogre",
+              "mn": "Ад зэтгэр, мангас"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "The famous 'yokai' Kappa is obsessed with cucumbers and sumo wrestling, and can be defeated simply by bowing to it, which spills the water on its head.",
+          "mn": "Каппа хэмээх ёокай нь өргөст хэмх болон сумо барилдаанд дуртай бөгөөд түүнд мэхийж ёслоход толгой дээрх ус нь асгарч, хүчгүй болдог байна."
+        },
+        {
+          "en": "Kitsune (fox spirits) are said to grow more tails as they age and gain wisdom, up to a maximum of nine tails.",
+          "mn": "Кицүнэ буюу үнэгэн сүнс нь нас ахих тусам мэргэн ухаан сууж, сүүлний тоо нь нэмэгдсээр дээд тал нь есөн сүүлтэй болдог гэдэг."
+        }
+      ]
+    },
+    {
+      "topicSlug": "myth",
+      "key": "myth.legendary-creatures-world",
+      "order": 6,
+      "title": {
+        "en": "Legendary Creatures of the World",
+        "mn": "Дэлхийн домогт амьтад"
+      },
+      "summary": {
+        "en": "From the ashes of the Phoenix to the majestic horns of the Unicorn.",
+        "mn": "Галт шувууны үнсэн товрогоос эхлээд Ганц эвэртний сүр жавхлант дүр төрх хүртэл."
+      },
+      "body": {
+        "en": "Every culture has populated its wilderness and oceans with fantastic beasts. These legendary creatures often embodied human fears, hopes, or the untamed power of the natural world, leaving an enduring mark on global literature.",
+        "mn": "Соёл иргэншил бүр өөрсдийн онгон зэрлэг байгаль, далай тэнгисийг ер бусын амьтдаар төсөөлөн дүүргэж иржээ. Эдгээр домогт амьтад нь хүний айдсыг бэлгэдэж, уран зохиолд мөнхрөн үлджээ."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "🦄",
+            "title": {
+              "en": "Unicorn",
+              "mn": "Ганц эвэрт"
+            },
+            "facts": [
+              {
+                "en": "A mythical horse-like beast with a single spiraled horn believed to purify poisoned water.",
+                "mn": "Хордсон усыг цэвэршүүлэх шидтэй, мушгирсан ганц эвэртэй морин хэлбэрт домогт амьтан."
+              },
+              {
+                "en": "Historically, narwhal tusks were sold by Viking merchants as genuine unicorn horns.",
+                "mn": "Түүхэнд Викингчүүд нарвал халимны соёог жинхэнэ ганц эвэртний эвэр хэмээн зардаг байжээ."
+              }
+            ],
+            "subtitle": {
+              "en": "Symbol of Purity",
+              "mn": "Ариун байдлын бэлгэдэл"
+            }
+          },
+          {
+            "icon": "🔥",
+            "title": {
+              "en": "Phoenix",
+              "mn": "Галт шувуу"
+            },
+            "facts": [
+              {
+                "en": "A legendary bird that periodically dies in a burst of flames and is reborn from its own ashes.",
+                "mn": "Тодорхой хугацааны дараа гал дунд шатаж, өөрийн үнснээс дахин төрдөг домогт шувуу."
+              },
+              {
+                "en": "Associated with the sun, it represents renewal, resurrection, and immortality.",
+                "mn": "Наран урсах гэрэлтэй холбогдож, шинэчлэл, дахин төрөлт, мөнх амьдралыг бэлгэддэг."
+              }
+            ],
+            "subtitle": {
+              "en": "The Firebird",
+              "mn": "Галт шувуу"
+            }
+          },
+          {
+            "icon": "🦅",
+            "title": {
+              "en": "Griffin",
+              "mn": "Грифон"
+            },
+            "facts": [
+              {
+                "en": "A creature with the body of a lion and the head and wings of an eagle.",
+                "mn": "Арслангийн биетэй, бүргэдийн толгой болон далавчтай домогт амьтан."
+              },
+              {
+                "en": "Known as the king of beasts and birds, often depicted guarding gold and treasures.",
+                "mn": "Араатан ба жигүүртний хаан гэгддэг бөгөөд алт эрдэнэсийг хамгаалагчаар дүрслэгддэг."
+              }
+            ],
+            "subtitle": {
+              "en": "Guardian of Treasures",
+              "mn": "Эрдэнэсийн манаач"
+            }
+          },
+          {
+            "icon": "🐉",
+            "title": {
+              "en": "Leviathan",
+              "mn": "Левиафан"
+            },
+            "facts": [
+              {
+                "en": "A colossal sea monster from ancient Near Eastern mythology and the Hebrew Bible.",
+                "mn": "Ойрх Дорнодын эртний домог болон Еврейн Библид гардаг аварга том далайн мангас."
+              },
+              {
+                "en": "Often used as a metaphor for immense power or the chaotic, untameable ocean.",
+                "mn": "Ихэвчлэн агуу хүч чадал эсвэл далай тэнгисийн догшин ширүүн хүчийг бэлгэдэхэд ашиглагддаг."
+              }
+            ],
+            "subtitle": {
+              "en": "The Sea Serpent",
+              "mn": "Далайн аварга могой"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "The unicorn is the official national animal of Scotland, chosen in the 15th century to represent purity and strength.",
+          "mn": "Ганц эвэрт нь Шотландын албан ёсны үндэсний амьтан бөгөөд 15-р зуунд ариун тунгалаг, хүч чадлыг бэлгэдэн сонгожээ."
+        },
+        {
+          "en": "In Chinese mythology, the Dragon represents imperial power and good fortune, unlike the destructive dragons of Western folklore.",
+          "mn": "Өрнөдийн домог дахь сүйтгэгч луунуудаас ялгаатай нь Хятадын соёлд Луу нь эзэн хааны эрх мэдэл, аз хийморийг бэлгэддэг."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.norse-gods-ragnarok",
+      "key": "myth.norse-gods-ragnarok.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Who is the Norse god of thunder who wields the mighty hammer Mjölnir?",
+        "mn": "Мьёлнир хэмээх хүчит алхыг эзэмшдэг, Нордийн аянга цахилгааны бурхан хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Loki",
+          "mn": "Локи"
+        },
+        {
+          "en": "Thor",
+          "mn": "Тор"
+        },
+        {
+          "en": "Baldur",
+          "mn": "Бальдур"
+        },
+        {
+          "en": "Odin",
+          "mn": "Один"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Thor is the protector of humanity in Midgard. His hammer, Mjölnir, was forged by dwarves and always returns to his hand when thrown.",
+        "mn": "Тор бол Мидгард дахь хүн төрөлхтнийг хамгаалагч юм. Түүний Мьёлнир алхыг одойчууд урласан бөгөөд шидсэн ч гарж буцаж ирдэг шидтэй."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.norse-gods-ragnarok",
+      "key": "myth.norse-gods-ragnarok.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "This god is known as the All-Father. To gain ultimate wisdom from Mimir's well, he sacrificed one of his eyes. Who is he?",
+        "mn": "Түүнийг тэргүүн эцэг гэж нэрлэдэг. Мимирийн худгаас хязгааргүй мэргэн ухаан хүртэхийн тулд тэрээр нэг нүдээ золиосолсон бөгөөд тэр хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Heimdall",
+          "mn": "Хеймдалль"
+        },
+        {
+          "en": "Freyr",
+          "mn": "Фрейр"
+        },
+        {
+          "en": "Tyr",
+          "mn": "Тюр"
+        },
+        {
+          "en": "Odin",
+          "mn": "Один"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Odin is the chief of the Aesir gods. He hung himself from the world tree Yggdrasil for nine nights to discover the secrets of the runes.",
+        "mn": "Один бол Аэсир бурхдын тэргүүн юм. Тэрээр руни бичгийн нууцыг тайлахын тулд Иггдрасил хэмээх ертөнцийн модноос есөн шөнө дүүжлэгдэн зовсон байдаг."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.norse-gods-ragnarok",
+      "key": "myth.norse-gods-ragnarok.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of the following is NOT one of the monstrous children of the trickster Loki?",
+        "mn": "Дараах дүрүүдээс аль нь хууран мэхлэгч Локи бурхны аймшигт хүүхдүүдийн нэг биш вэ?"
+      },
+      "choices": [
+        {
+          "en": "Jörmungandr",
+          "mn": "Ёрмунганд"
+        },
+        {
+          "en": "Hel",
+          "mn": "Хел"
+        },
+        {
+          "en": "Baldur",
+          "mn": "Бальдур"
+        },
+        {
+          "en": "Fenrir",
+          "mn": "Фенрир"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Baldur is the beloved god of light and the son of Odin and Frigg. Loki actually plotted Baldur's death using mistletoe.",
+        "mn": "Бальдур бол Один, Фригг хоёрын хайртай хүү, гэрлийн бурхан юм. Локи харин ч эсрэгээрээ түүнийг шимэгч өвсөөр хорлож амийг нь бүрэлгэсэн байдаг."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.norse-gods-ragnarok",
+      "key": "myth.norse-gods-ragnarok.g4",
+      "difficulty": 3,
+      "prompt": {
+        "en": "What is the name of Odin's mythical eight-legged horse, which was actually born of Loki?",
+        "mn": "Одины унадаг, найман хөлтэй шидэт хүлгийг хэн гэдэг вэ? Түүнийг уг нь Локи төрүүлсэн гэдэг."
+      },
+      "choices": [
+        {
+          "en": "Sleipnir",
+          "mn": "Слейпнир"
+        },
+        {
+          "en": "Skinfaxi",
+          "mn": "Скинфакси"
+        },
+        {
+          "en": "Alsvid",
+          "mn": "Альсвид"
+        },
+        {
+          "en": "Pegasus",
+          "mn": "Пегас"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Sleipnir is the fastest horse in the world. Loki took the form of a mare to distract a giant's stallion and ended up giving birth to Sleipnir.",
+        "mn": "Слейпнир бол хорвоогийн хамгийн хурдан хүлэг юм. Локи аварга биетийн азарганы анхаарлыг сарниулахын тулд гүү болж хувираад, улмаар Слейпнирийг төрүүлжээ."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.norse-gods-ragnarok",
+      "key": "myth.norse-gods-ragnarok.g5",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What cataclysmic event in Norse mythology represents the end of the world and the death of many major gods?",
+        "mn": "Нордийн домог зүйд олон гол бурхдын үхэл болон хорвоо ертөнцийн төгсгөлийг зөгнөдөг сүйрлийн үйл явдлыг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Ragnarök",
+          "mn": "Рагнарёк"
+        },
+        {
+          "en": "The wedding of Thor",
+          "mn": "Торын хурим"
+        },
+        {
+          "en": "The birth of Odin",
+          "mn": "Одины мэндэлсэн өдөр"
+        },
+        {
+          "en": "The creation of Earth",
+          "mn": "Дэлхийн үүсэл"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Ragnarök is a series of future events, including a great battle, that ultimately results in the world being submerged in water before rising anew.",
+        "mn": "Рагнарёк бол агуу тулааныг багтаасан цуврал үйл явдал бөгөөд эцэст нь дэлхий ертөнц усанд автаж, дахин шинээр төрөх болно."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.norse-gods-ragnarok",
+      "key": "myth.norse-gods-ragnarok.g6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which Norse god guards the Bifröst, the burning rainbow bridge that connects Asgard to Midgard?",
+        "mn": "Асгард болон Мидгардыг холбодог солонгон гүүр Бифрёстийг аль бурхан манан хамгаалдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Tyr",
+          "mn": "Тюр"
+        },
+        {
+          "en": "Bragi",
+          "mn": "Браги"
+        },
+        {
+          "en": "Heimdall",
+          "mn": "Хеймдалль"
+        },
+        {
+          "en": "Vidar",
+          "mn": "Видар"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Heimdall has incredibly sharp senses, requiring less sleep than a bird and being able to see for hundreds of miles, even in the dark.",
+        "mn": "Хеймдалль маш соргог мэдрэхүйтэй тул шувуунаас ч бага унтдаг бөгөөд харанхуйд ч хэдэн зуун бээрийн цаадахыг харж чаддаг."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.norse-gods-ragnarok",
+      "key": "myth.norse-gods-ragnarok.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "He is the Norse god of war and justice who famously sacrificed his right hand to bind the monstrous wolf Fenrir. Who is he?",
+        "mn": "Аймшигт аварга чоно Фенририйг хүлж хязгаарлахын тулд баруун гараа золиосолсон, дайн болон шударга ёсны бурхныг хэн гэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Tyr",
+          "mn": "Тюр"
+        },
+        {
+          "en": "Njord",
+          "mn": "Ньёрд"
+        },
+        {
+          "en": "Thor",
+          "mn": "Тор"
+        },
+        {
+          "en": "Odin",
+          "mn": "Один"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Tyr was the only god brave enough to place his hand in Fenrir's mouth as a sign of good faith while the other gods bound the beast.",
+        "mn": "Бусад бурхад чоныг хүлж байх хооронд Фенрирт итгэл төрүүлэхийн тулд түүний ам руу гараа хийх зоригтой ганц бурхан нь Тюр байв."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.norse-gods-ragnarok",
+      "key": "myth.norse-gods-ragnarok.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The English word 'Wednesday' is derived from the Germanic name of which Norse god?",
+        "mn": "Англи хэлний 'Wednesday' (Лхагва гараг) гэх үг нь Нордийн аль бурхны герман нэршлээс гаралтай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Odin",
+          "mn": "Один"
+        },
+        {
+          "en": "Frigg",
+          "mn": "Фригг"
+        },
+        {
+          "en": "Tyr",
+          "mn": "Тюр"
+        },
+        {
+          "en": "Thor",
+          "mn": "Тор"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Wednesday comes from 'Woden's day'. Woden (or Wodan) is the West Germanic name for Odin.",
+        "mn": "Лхагва гараг нь 'Woden's day' буюу Водений өдөр гэх үгнээс гаралтай. Воден нь Одины баруун герман нэршил юм."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.norse-gods-ragnarok",
+      "key": "myth.norse-gods-ragnarok.g9",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the name of the majestic hall in Asgard where Odin houses the souls of warriors slain in battle?",
+        "mn": "Дайнд амь үрэгдсэн баатруудын сүнсийг Один бурхан Асгард дахь ямар сүрлэг ордонд хүлээн авдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Alfheim",
+          "mn": "Альфхейм"
+        },
+        {
+          "en": "Valhalla",
+          "mn": "Валхалла"
+        },
+        {
+          "en": "Helheim",
+          "mn": "Хелхейм"
+        },
+        {
+          "en": "Jotunheim",
+          "mn": "Ётунхейм"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Valhalla has 540 doors, and the slain warriors (the Einherjar) feast there and practice fighting to prepare for Ragnarök.",
+        "mn": "Валхалла нь 540 хаалгатай бөгөөд тэнд амь үрэгдсэн баатрууд (Эйнхерьяр) Рагнарёкт бэлтгэн найрлаж, тулааны бэлтгэл хийдэг."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.norse-gods-ragnarok",
+      "key": "myth.norse-gods-ragnarok.g10",
+      "difficulty": 3,
+      "prompt": {
+        "en": "During Ragnarök, Thor is destined to slay the World Serpent, Jörmungandr, but how does Thor die shortly after?",
+        "mn": "Рагнарёкийн үеэр Тор бурхан дэлхийг ороосон Ёрмунганд могойг устгах тавилантай боловч удалгүй өөрөө яаж амь үрэгддэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Slain by the wolf Fenrir",
+          "mn": "Фенрир чононд бариулж"
+        },
+        {
+          "en": "Crushed by the serpent's tail",
+          "mn": "Могойн сүүлэнд даруулж"
+        },
+        {
+          "en": "From the serpent's venom",
+          "mn": "Могойн хордож"
+        },
+        {
+          "en": "Betrayed by Loki",
+          "mn": "Локид хууртаж"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "After killing the Midgard Serpent, Thor takes only nine steps before collapsing and dying from the creature's deadly venom.",
+        "mn": "Тор Мидгардын аварга могойг алсныхаа дараа ердөө есөн алхам алхаад, түүний үхлийн хорноос болж унан амьсгал хураадаг."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.norse-gods-ragnarok",
+      "key": "myth.norse-gods-ragnarok.g11",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Loki is famous for his ability to change his appearance and gender. What is his primary mythological role?",
+        "mn": "Локи нь зүсээ хувиргах, хүйсийг өөрчлөх чадвараараа алдартай. Түүний домог зүйн гол үүрэг юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "God of Agriculture",
+          "mn": "Газар тариалангийн бурхан"
+        },
+        {
+          "en": "Patron of Blacksmiths",
+          "mn": "Дархчуудын ивээгч"
+        },
+        {
+          "en": "The Trickster",
+          "mn": "Хууран мэхлэгч"
+        },
+        {
+          "en": "Ruler of the Oceans",
+          "mn": "Далайн эзэн"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Loki is a master of schemes. Sometimes he helps the gods, and other times he behaves maliciously, eventually leading them to Ragnarök.",
+        "mn": "Локи бол заль мэхний мастер юм. Тэрээр заримдаа бурхдад тусалдаг ч, заримдаа хор хөнөөл тарьж, эцэст нь тэднийг Рагнарёкт хүргэдэг."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.norse-gods-ragnarok",
+      "key": "myth.norse-gods-ragnarok.g12",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What are the names of Odin's two ravens who fly across the world and bring him daily information?",
+        "mn": "Дэлхийг тойрон нисэж, Одинд өдөр бүр мэдээлэл хүргэдэг түүний хоёр хэрээг хэн гэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Huginn and Muninn",
+          "mn": "Хүгин ба Мүнин"
+        },
+        {
+          "en": "Hati and Sköll",
+          "mn": "Хати ба Скёлл"
+        },
+        {
+          "en": "Tanngrisnir and Tanngnjóstr",
+          "mn": "Таннгриснир ба Таннгнйостр"
+        },
+        {
+          "en": "Geri and Freki",
+          "mn": "Гери ба Фреки"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Their names, Huginn and Muninn, translate to 'Thought' and 'Memory' respectively. They return every evening to whisper news into Odin's ears.",
+        "mn": "Тэдний нэр болох Хүгин, Мүнин нь 'Бодол' болон 'Санамж' гэсэн утгатай. Тэд орой бүр эргэн ирж Одины чихэнд мэдээ шивнэдэг."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.hindu-gods-epics",
+      "key": "myth.hindu-gods-epics.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Who is the elephant-headed Hindu deity of wisdom, beginnings, and the remover of obstacles?",
+        "mn": "Саад бэрхшээлийг арилгагч, мэргэн ухааныг бэлгэдэгч заан толгойт Хинду шашны бурхан хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Brahma",
+          "mn": "Брахма"
+        },
+        {
+          "en": "Vishnu",
+          "mn": "Вишнү"
+        },
+        {
+          "en": "Shiva",
+          "mn": "Шива"
+        },
+        {
+          "en": "Ganesha",
+          "mn": "Ганеша"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Ganesha is one of the most widely worshipped deities in Hinduism, easily identified by his elephant head. He is traditionally worshipped at the beginning of any new venture.",
+        "mn": "Ганеша бол Хинду шашны хамгийн өргөн шүтэгддэг бурхдын нэг бөгөөд түүнийг заан толгойгоор нь амархан таньж болно. Түүнийг аливаа шинэ ажил хэргийг эхлүүлэхийн өмнө тахиж шүтдэг уламжлалтай."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.hindu-gods-epics",
+      "key": "myth.hindu-gods-epics.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which sacred Hindu scripture, consisting of a 700-verse dialogue between Prince Arjuna and Krishna, is part of the epic Mahabharata?",
+        "mn": "Ханхүү Аржуна болон Кришна бурхан хоорондын 700 бадаг харилцан ярианаас бүрдэх, Махабхарата туульсын нэг хэсэг болох судар аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Ramayana",
+          "mn": "Рамаяна"
+        },
+        {
+          "en": "Bhagavad Gita",
+          "mn": "Бхагавад Гита"
+        },
+        {
+          "en": "Rigveda",
+          "mn": "Ригведа"
+        },
+        {
+          "en": "Upanishads",
+          "mn": "Упанишад"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Bhagavad Gita is a core philosophical text of Hinduism, spoken on the battlefield of Kurukshetra. It guides Arjuna on duty, righteousness, and devotion.",
+        "mn": "Бхагавад Гита бол Курукшетрагийн тулааны талбарт өрнөсөн Хинду гүн ухааны гол эх сурвалж юм. Энд Кришна бурхан Аржунад үүрэг хариуцлага, чин бишрэлийн тухай сургадаг."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.hindu-gods-epics",
+      "key": "myth.hindu-gods-epics.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which loyal monkey deity and devoted follower of Rama plays a central role in rescuing Sita from the demon king Ravana in the Ramayana?",
+        "mn": "Рамаяна туульст Рама бурханд тусалж, чөтгөрийн хаан Раванагаас Ситаг аврахад гол үүрэг гүйцэтгэдэг үнэнч сармагчин бурхан хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Garuda",
+          "mn": "Гаруда"
+        },
+        {
+          "en": "Sugriva",
+          "mn": "Сугрива"
+        },
+        {
+          "en": "Hanuman",
+          "mn": "Хануман"
+        },
+        {
+          "en": "Vali",
+          "mn": "Вали"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Hanuman is revered for his incredible strength, devotion, and courage. He leaped across the ocean to Lanka to find Sita.",
+        "mn": "Хануман нь агуу хүч чадал, чин бишрэл, зориг зүрхээрээ шүтэгддэг. Тэрээр Ситаг олохоор далайг алгасан Ланка арал руу үсэрсэн гэдэг."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.hindu-gods-epics",
+      "key": "myth.hindu-gods-epics.g4",
+      "difficulty": 3,
+      "prompt": {
+        "en": "According to Hindu tradition, Vishnu has ten primary avatars (Dashavatara). Which of the following is NOT one of them?",
+        "mn": "Хинду уламжлалаар Вишнү бурхан арван гол дүрээр (Дашаватара) заларсан байдаг. Дараах бурхдын аль нь түүний дүр БИШ вэ?"
+      },
+      "choices": [
+        {
+          "en": "Rama",
+          "mn": "Рама"
+        },
+        {
+          "en": "Krishna",
+          "mn": "Кришна"
+        },
+        {
+          "en": "Kurma",
+          "mn": "Курма"
+        },
+        {
+          "en": "Ganesha",
+          "mn": "Ганеша"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Ganesha is the son of Shiva and Parvati, not an avatar of Vishnu. Vishnu's avatars include Rama, Krishna, and Kurma (the tortoise).",
+        "mn": "Ганеша бол Шива болон Парвати нарын хүү бөгөөд Вишнүгийн дүр биш юм. Вишнүгийн дүрүүдэд Рама, Кришна, мөн Курма (яст мэлхий) зэрэг багтдаг."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.hindu-gods-epics",
+      "key": "myth.hindu-gods-epics.g5",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Shiva's consort is known by many names and forms. What is her name in her most terrifying and fierce warrior form, often depicted with a tongue sticking out?",
+        "mn": "Шива бурхны гэргий олон нэр, дүрээрээ алдартай. Түүний хамгийн догшин, дайчин, хэлээ гаргаснаар дүрслэгддэг дүр хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Kali",
+          "mn": "Кали"
+        },
+        {
+          "en": "Lakshmi",
+          "mn": "Лакшми"
+        },
+        {
+          "en": "Radha",
+          "mn": "Радха"
+        },
+        {
+          "en": "Saraswati",
+          "mn": "Сарасвати"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Kali is the goddess of ultimate power, time, and destruction of evil. She is a fierce form of Parvati (Shiva's consort).",
+        "mn": "Кали бол бузар мууг устгагч, цаг хугацаа болон хүч чадлын догшин дарь эх юм. Тэрээр Шивагийн гэргий Парватигийн догшин дүр билээ."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.hindu-gods-epics",
+      "key": "myth.hindu-gods-epics.g6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which goddess is worshipped during the festival of Diwali as the bringer of wealth, fortune, and prosperity, and is the consort of Vishnu?",
+        "mn": "Дивали баяраар голчлон тахидаг, эд баялаг, аз хийморь, хөгжил цэцэглэлтийн дарь эх бөгөөд Вишнүгийн гэргий хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Parvati",
+          "mn": "Парвати"
+        },
+        {
+          "en": "Saraswati",
+          "mn": "Сарасвати"
+        },
+        {
+          "en": "Durga",
+          "mn": "Дурга"
+        },
+        {
+          "en": "Lakshmi",
+          "mn": "Лакшми"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Lakshmi is worshipped widely during Diwali, the festival of lights. People light lamps to welcome her into their homes.",
+        "mn": "Лакшмиг гэрлийн баяр болох Дивалигаар өргөн шүтдэг. Хүмүүс түүнийг гэртээ урин залахын тулд дэнлүү асаадаг уламжлалтай."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.hindu-gods-epics",
+      "key": "myth.hindu-gods-epics.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Who is the king of the Devas (gods), associated with lightning, thunder, and rains, carrying the thunderbolt weapon called Vajra?",
+        "mn": "Тэнгэр нарын хаан, аянга цахилгаан, бороо хурны бурхан бөгөөд Важра (Очир) хэмээх зэвсэг барьдаг бурхан хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Indra",
+          "mn": "Индра"
+        },
+        {
+          "en": "Agni",
+          "mn": "Агни"
+        },
+        {
+          "en": "Varuna",
+          "mn": "Варуна"
+        },
+        {
+          "en": "Yama",
+          "mn": "Яма"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Indra was the supreme king of gods in the early Vedic period, sharing many similarities with the Greek god Zeus and Norse god Thor.",
+        "mn": "Индра бол Эртний Ведийн үеийн тэнгэр нарын дээд хаан бөгөөд Грекийн Зевс, Норсын Тор бурхадтай маш төстэй юм."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.hindu-gods-epics",
+      "key": "myth.hindu-gods-epics.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Every major Hindu deity has a sacred animal vehicle (vahana). What is the name of the sacred white bull that serves as Shiva's mount?",
+        "mn": "Хинду шашны гол бурхад бүгд хөлөглөдөг ариун амьтантай (вахана). Шива бурхны хөлөглөдөг ариун цагаан бухыг хэн гэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Airavata",
+          "mn": "Айравата"
+        },
+        {
+          "en": "Mushika",
+          "mn": "Мушика"
+        },
+        {
+          "en": "Garuda",
+          "mn": "Гаруда"
+        },
+        {
+          "en": "Nandi",
+          "mn": "Нанди"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Nandi is the gatekeeper and vehicle of Lord Shiva, and statues of a kneeling bull are placed facing the main shrine in Shiva temples.",
+        "mn": "Нанди бол Шива бурхны харуул хамгаалагч ба хөлөг бөгөөд Шивагийн сүмүүдийн үүдэнд сөхрөн суугаа бухны хөшөөг заавал байрлуулдаг."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.hindu-gods-epics",
+      "key": "myth.hindu-gods-epics.g9",
+      "difficulty": 3,
+      "prompt": {
+        "en": "According to tradition, which ancient sage and poet composed the Sanskrit epic Ramayana?",
+        "mn": "Уламжлалт ёсоор Санскрит хэлээр бичигдсэн Рамаяна туулийг аль эртний мэргэн, найрагч зохиосон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Valmiki",
+          "mn": "Вальмики"
+        },
+        {
+          "en": "Tulsidas",
+          "mn": "Тулсидас"
+        },
+        {
+          "en": "Kalidasa",
+          "mn": "Калидаса"
+        },
+        {
+          "en": "Vyasa",
+          "mn": "Вьяса"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Valmiki is revered as the \"Adi Kavi\" (first poet) in Sanskrit literature for composing the Ramayana. The Mahabharata was composed by sage Vyasa.",
+        "mn": "Вальмикиг Рамаяна туулийг туурвиснаар нь Санскрит уран зохиолын \"Анхны яруу найрагч\" гэж хүндэтгэдэг. Харин Махабхаратаг Вьяса зохиожээ."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.hindu-gods-epics",
+      "key": "myth.hindu-gods-epics.g10",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Who is the multi-headed demon king of Lanka who abducts Rama's wife, Sita, triggering the great war in the Ramayana?",
+        "mn": "Рамаяна туульст Рамагийн гэргий Ситаг хулгайлж, их дайн дэгдээдэг Ланка арлын олон толгойт чөтгөрийн хаан хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Kansa",
+          "mn": "Канса"
+        },
+        {
+          "en": "Kumbhakarna",
+          "mn": "Кумбхакарна"
+        },
+        {
+          "en": "Ravana",
+          "mn": "Равана"
+        },
+        {
+          "en": "Mahishasura",
+          "mn": "Махишасура"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Ravana is depicted as a learned scholar and devotee of Shiva, but his arrogance and abduction of Sita led to his downfall.",
+        "mn": "Раванаг эрдэм номтой, Шива бурхны үнэнч шүтэгч гэж дүрсэлдэг ч түүний их зан, Ситаг хулгайлсан нүгэл нь мөхөлд хүргэсэн юм."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.hindu-gods-epics",
+      "key": "myth.hindu-gods-epics.g11",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which major river in India is personified as a goddess and is considered the most sacred river, believed to purify sins?",
+        "mn": "Энэтхэгийн аль гол мөрнийг дарь эх хэмээн шүтэж, нүгэл хилэнцийг ариусгагч Хинду шашны хамгийн ариун гол гэж үздэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Yamuna",
+          "mn": "Ямуна"
+        },
+        {
+          "en": "Brahmaputra",
+          "mn": "Брахмапутра"
+        },
+        {
+          "en": "Indus",
+          "mn": "Инд"
+        },
+        {
+          "en": "Ganges",
+          "mn": "Ганг"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Ganges (Ganga) is worshipped as a goddess who descended from heaven, with Shiva catching her waters in his hair to break her fall.",
+        "mn": "Ганг мөрнийг тэнгэрээс бууж ирсэн дарь эх гэж шүтдэг бөгөөд түүний хүчтэй уналтыг зөөлрүүлэхийн тулд Шива бурхан усыг нь үсэндээ тогтоосон гэдэг."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.hindu-gods-epics",
+      "key": "myth.hindu-gods-epics.g12",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which three-pronged weapon is held by Lord Shiva, representing the three gunas (qualities) and the acts of creation, preservation, and destruction?",
+        "mn": "Шива бурхны мутартаа барьдаг, ертөнцийн бүтээх, тэтгэх, сүйтгэх гурван хүчийг бэлгэддэг гурван салаа жад юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Trishula",
+          "mn": "Тришула"
+        },
+        {
+          "en": "Vajra",
+          "mn": "Важра"
+        },
+        {
+          "en": "Sudarshana Chakra",
+          "mn": "Сударшана Чакра"
+        },
+        {
+          "en": "Pinaka",
+          "mn": "Пинака"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Trishula (trident) is Shiva's primary weapon. It represents his control over past, present, and future, as well as the three channels of spiritual energy.",
+        "mn": "Тришула (гурван салаа жад) бол Шивагийн гол зэвсэг юм. Энэ нь түүний өнгөрсөн, одоо, ирээдүйг захирах хүчийг илэрхийлдэг."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.egyptian-afterlife",
+      "key": "myth.egyptian-afterlife.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Who is the ruler of the Egyptian underworld (Duat) and the ultimate judge of the dead, usually depicted with green skin?",
+        "mn": "Египетийн эрлэгийн орон (Дуат)-ыг захирагч, сүнснүүдийг шүүгч, ихэвчлэн ногоон арьстайгаар дүрслэгддэг бурхан хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Seth",
+          "mn": "Сет"
+        },
+        {
+          "en": "Thoth",
+          "mn": "Тот"
+        },
+        {
+          "en": "Osiris",
+          "mn": "Осирис"
+        },
+        {
+          "en": "Anubis",
+          "mn": "Анубис"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Osiris was murdered by his brother Seth but resurrected by Isis, becoming the lord of the underworld. His green skin represents rebirth and vegetation.",
+        "mn": "Осирисийг түүний дүү Сет хөнөөсөн ч Исис бурхан түүнийг амилуулж, улмаар тэрээр эрлэгийн орны хаан болжээ. Түүний ногоон арьс нь байгалийн сэргэлт, ургамал ургахыг бэлгэддэг."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.egyptian-afterlife",
+      "key": "myth.egyptian-afterlife.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "During the Weighing of the Heart ceremony, the deceased's heart is weighed against the feather of which goddess of truth, balance, and justice?",
+        "mn": "Зүрхийг жигнэх шүүлтийн үеэр талийгаачийн зүрхийг үнэн, шударга ёс, тэнцвэрт байдлын бурхан болох аль дагины өдтэй жигнэдэг байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Ma'at",
+          "mn": "Маат"
+        },
+        {
+          "en": "Isis",
+          "mn": "Исис"
+        },
+        {
+          "en": "Bastet",
+          "mn": "Бастет"
+        },
+        {
+          "en": "Hathor",
+          "mn": "Хатор"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The heart was weighed against the feather of Ma'at. If the heart was heavy with sin and failed the test, the soul was destroyed forever.",
+        "mn": "Зүрхийг Маат бурхны өдтэй жигнэдэг байв. Хэрэв зүрх нь нүгэлдээ дарагдан хүнд жинтэй байвал тухайн сүнс үүрд устгагддаг байжээ."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.egyptian-afterlife",
+      "key": "myth.egyptian-afterlife.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In the Weighing of the Heart ceremony, which ibis-headed god of wisdom and writing acts as the divine scribe to record the final verdict?",
+        "mn": "Зүрхийг жигнэх шүүлтийн үеэр эцсийн шийдвэрийг тэмдэглэж авдаг, ибис шувуун толгойт мэргэн ухаан, бичиг үсгийн бурхан хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Ra",
+          "mn": "Ра"
+        },
+        {
+          "en": "Anubis",
+          "mn": "Анубис"
+        },
+        {
+          "en": "Horus",
+          "mn": "Гор"
+        },
+        {
+          "en": "Thoth",
+          "mn": "Тот"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Thoth recorded all the judgments of the dead. He is also credited with inventing writing, medicine, and the Egyptian calendar.",
+        "mn": "Тот бурхан талийгаачдын шүүлтийн үр дүнг тэмдэглэн авдаг байв. Мөн түүнийг бичиг үсэг, анагаах ухаан, Египетийн хуанлийг зохиосон гэж үздэг."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.egyptian-afterlife",
+      "key": "myth.egyptian-afterlife.g4",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the modern name given to the ancient Egyptian collection of spells, charms, and formulas buried with the dead to guide them through the underworld?",
+        "mn": "Талийгаачдыг эрлэгийн орныг аюулгүй туулахад нь туслах зорилгоор хамт оршуулдаг байсан тарни, шившлэгийн цуглуулгыг орчин үед юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "The Book of the Dead",
+          "mn": "Нас барагсдын ном"
+        },
+        {
+          "en": "The Book of Gates",
+          "mn": "Хаалганы ном"
+        },
+        {
+          "en": "The Pyramid Texts",
+          "mn": "Пирамидын бичээсүүд"
+        },
+        {
+          "en": "The Epic of Gilgamesh",
+          "mn": "Гильгамешийн туульс"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The original Egyptian title translates roughly to 'The Book of Coming Forth by Day'. It contained personalized spells to help the soul pass various underworld trials.",
+        "mn": "Үүнийг эртний Египетчүүд 'Өдрөөр урагшлах ном' гэж нэрлэдэг байжээ. Энэхүү ном нь сүнсийг эрлэгийн орны саад бэрхшээлийг давахад туслах тусгай шившлэгүүдээс бүрддэг байв."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.egyptian-afterlife",
+      "key": "myth.egyptian-afterlife.g5",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of these is NOT one of the spiritual parts of a human being in ancient Egyptian belief, unlike 'Ka' and 'Ba'?",
+        "mn": "Эртний Египетийн итгэл үнэмшлээр хүний сүнслэг бүрэлдэхүүн хэсгүүдэд ('Ка' ба 'Ба' гэх мэт) доорх хувилбаруудын аль нь хамаарахгүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Ragnarok",
+          "mn": "Рагнарёк"
+        },
+        {
+          "en": "Sheut",
+          "mn": "Шеут"
+        },
+        {
+          "en": "Ib",
+          "mn": "Иб"
+        },
+        {
+          "en": "Akh",
+          "mn": "Ах"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Ragnarok is the apocalyptic end-of-the-world event in Norse mythology, not an Egyptian concept. Egyptians believed the soul had up to nine distinct parts.",
+        "mn": "Рагнарёк нь Скандинавын гол домогт гардаг ертөнцийн төгсгөл бөгөөд Египетийн соёлд хамааралгүй юм. Египетчүүд хүний сүнсийг 9 өөр хэсгээс бүрддэг гэж үздэг байв."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.egyptian-afterlife",
+      "key": "myth.egyptian-afterlife.g6",
+      "difficulty": 3,
+      "prompt": {
+        "en": "What is the name of the eternal paradise in the afterlife, ruled by Osiris, which was envisioned as a perfect, lush version of the Nile Delta?",
+        "mn": "Осирис бурхны захирдаг, Нил мөрний бэлчирийн хамгийн төгс, үржил шимт хувилбар гэж төсөөлөгддөг хойд насны мөнхийн диваажинг юу гэж нэрлэдэг байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Asgard",
+          "mn": "Асгард"
+        },
+        {
+          "en": "Fields of Aaru",
+          "mn": "Ааругийн тал"
+        },
+        {
+          "en": "Elysium",
+          "mn": "Элизиум"
+        },
+        {
+          "en": "Valhalla",
+          "mn": "Валхалла"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Fields of Aaru (or Reed Fields) was the heavenly realm where the righteous spent eternity farming, feasting, and living with their loved ones.",
+        "mn": "Ааругийн тал (эсвэл Зэгст тал) нь зөвт сүнснүүд мөнхөд газар тариалан эрхэлж, найрлаж, хайртай хүмүүстэйгээ хамт амьдардаг диваажингийн орон байв."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.egyptian-afterlife",
+      "key": "myth.egyptian-afterlife.g7",
+      "difficulty": 2,
+      "prompt": {
+        "en": "During the mummification process, which organs were placed inside four special containers known as canopic jars?",
+        "mn": "Мумижуулах явцад дотор эрхтнүүдийг канопик хэмээх дөрвөн тусгай саванд хийж хадгалдаг байв. Дараах эрхтнүүдийн аль нь үүнд багтдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Heart, lungs, liver, brain",
+          "mn": "Зүрх, уушиг, элэг, тархи"
+        },
+        {
+          "en": "Eyes, ears, tongue, throat",
+          "mn": "Нүд, чих, хэл, хоолой"
+        },
+        {
+          "en": "Lungs, liver, stomach, intestines",
+          "mn": "Уушиг, элэг, ходоод, гэдэс"
+        },
+        {
+          "en": "Brain, heart, kidneys, spleen",
+          "mn": "Тархи, зүрх, бөөр, дэлүү"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The lungs, liver, stomach, and intestines were preserved in four jars representing the sons of Horus. The heart was left inside the body, and the brain was discarded.",
+        "mn": "Уушиг, элэг, ходоод, гэдсийг Гор бурхны дөрвөн хүүг бэлгэдсэн саванд хийж хадгалдаг байв. Харин зүрхийг бие дотор нь үлдээж, тархийг хэрэггүй гэж үзэн хаядаг байжээ."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.egyptian-afterlife",
+      "key": "myth.egyptian-afterlife.g8",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which fearsome giant serpent of chaos was the ultimate enemy of the sun god Ra, attempting to swallow his solar barge every night in the underworld?",
+        "mn": "Нарны бурхан Ра-гийн гол дайсан болох, шөнө бүр эрлэгийн оронд түүний нарны завийг залгихыг оролддог эмх замбараагүй байдлын аварга могойг хэн гэдэг байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Jormungandr",
+          "mn": "Ёрмунганд"
+        },
+        {
+          "en": "Seth",
+          "mn": "Сет"
+        },
+        {
+          "en": "Sobek",
+          "mn": "Собек"
+        },
+        {
+          "en": "Apophis",
+          "mn": "Апофис"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Apophis (or Apep) embodied chaos and non-existence. Every night, Ra and his protectors had to battle Apophis to ensure the sun would rise the next morning.",
+        "mn": "Апофис (эсвэл Апеп) нь эмх замбараагүй байдал, хоосон чанарыг илэрхийлдэг байв. Өглөө нар мандахыг баталгаажуулахын тулд Ра болон түүний хамгаалагчид шөнө бүр Апофистой тулалддаг байжээ."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.egyptian-afterlife",
+      "key": "myth.egyptian-afterlife.g9",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Why did ancient Egyptians leave the heart inside the body during the mummification process?",
+        "mn": "Эртний Египетчүүд мумижуулах явцад яагаад зүрхийг цогцос дотор нь үлдээдэг байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "It was considered poison",
+          "mn": "Үүнийг хортой гэж үздэг байсан тул"
+        },
+        {
+          "en": "It was needed for judgment",
+          "mn": "Шүүлтийн үеэр хэрэг болдог тул"
+        },
+        {
+          "en": "They could not extract it",
+          "mn": "Гаргаж авч чаддаггүй байсан тул"
+        },
+        {
+          "en": "To pump blood in the afterlife",
+          "mn": "Хойд насанд цус шахуулахын тулд"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Egyptians believed the heart was the center of intelligence and memory. It had to be present for the Weighing of the Heart ceremony to determine the soul's fate.",
+        "mn": "Египетчүүд зүрхийг хүний ухаан бодол, дурсамжийн төв гэж үздэг байв. Сүнсний хувь заяаг шийдэх Зүрхийг жигнэх шүүлтийн үеэр зүрх заавал биедээ байх ёстой байжээ."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.egyptian-afterlife",
+      "key": "myth.egyptian-afterlife.g10",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In Egyptian myth, who is the goddess of magic and motherhood who gathered her husband Osiris's scattered body parts to perform the first mummification?",
+        "mn": "Египетийн домогт нөхөр Осирисийнхоо тасарч бутарсан биеийн хэсгүүдийг цуглуулж, анхны мумижуулалтыг хийсэн шид шившлэг, эх үрийн дагина хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Isis",
+          "mn": "Исис"
+        },
+        {
+          "en": "Nut",
+          "mn": "Нут"
+        },
+        {
+          "en": "Nephthys",
+          "mn": "Нефтида"
+        },
+        {
+          "en": "Sekhmet",
+          "mn": "Сехмет"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Isis used her powerful magic, with the help of Anubis and Nephthys, to piece Osiris back together, creating the archetype of the mummy.",
+        "mn": "Исис өөрийн хүчирхэг шид шившлэгийг ашиглан Анубис болон Нефтидагийн тусламжтайгаар Осирисийг эргүүлэн угсарч, анхны мумиг бүтээжээ."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.japanese-folklore-yokai",
+      "key": "myth.japanese-folklore-yokai.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the favorite food of the water-dwelling Kappa, which also shares its name with a popular type of cucumber sushi roll in Japan?",
+        "mn": "Усны чөтгөр Каппагийн хамгийн дуртай хоол бөгөөд Японд өргөст хэмхтэй сушиг үүгээр нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Egg",
+          "mn": "Өндөг"
+        },
+        {
+          "en": "Sweet potato",
+          "mn": "Амтат төмс"
+        },
+        {
+          "en": "Tuna",
+          "mn": "Туна загас"
+        },
+        {
+          "en": "Cucumber",
+          "mn": "Өргөст хэмх"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Kappa are famously obsessed with cucumbers. Because of this, a simple seaweed roll filled with cucumber is called 'Kappamaki' in sushi restaurants.",
+        "mn": "Каппа өргөст хэмхэнд маш дуртай гэгддэг. Үүнээс үүдэн өргөст хэмхтэй ороомог сушиг Японд 'Каппамаки' гэж нэрлэдэг байна."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.japanese-folklore-yokai",
+      "key": "myth.japanese-folklore-yokai.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In Japanese folklore, kitsune (fox spirits) are believed to grow more powerful and wise as they age. What is the maximum number of tails a kitsune can grow?",
+        "mn": "Японы ардын аман зохиолд кицүнэ (үнэгэн сүнс) нас ахих тусам хүч чадал, оюун ухаан нь нэмэгддэг гэдэг. Кицүнэ хамгийн ихдээ хэдэн сүүлтэй болж чадах вэ?"
+      },
+      "choices": [
+        {
+          "en": "Three tails",
+          "mn": "Гурван сүүл"
+        },
+        {
+          "en": "Five tails",
+          "mn": "Таван сүүл"
+        },
+        {
+          "en": "Nine tails",
+          "mn": "Есөн сүүл"
+        },
+        {
+          "en": "Twelve tails",
+          "mn": "Арван хоёр сүүл"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "A kitsune can grow up to nine tails. When it gains its ninth tail, its fur often turns white or gold, and it gains infinite vision and wisdom.",
+        "mn": "Кицүнэ хамгийн ихдээ есөн сүүлтэй болдог. Ес дэх сүүлээ ургуулахад түүний үс нь цагаан эсвэл алтан шаргал өнгөтэй болж, хязгааргүй мэргэн ухааныг олдог байна."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.japanese-folklore-yokai",
+      "key": "myth.japanese-folklore-yokai.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which Shinto deity of agriculture, rice, and prosperity is closely associated with Kitsune, who serve as this god's messengers?",
+        "mn": "Шинто шашны газар тариалан, будаа, элбэг дэлбэг байдлын аль бурхан нь Кицүнэтэй нягт холбоотой бөгөөд үнэгнүүд түүний элч болдог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Amaterasu",
+          "mn": "Аматерасү"
+        },
+        {
+          "en": "Inari",
+          "mn": "Инари"
+        },
+        {
+          "en": "Susanoo",
+          "mn": "Сусаноо"
+        },
+        {
+          "en": "Izanagi",
+          "mn": "Изанаги"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Kitsune are the sacred messengers of Inari, the Shinto god of rice. Shrines dedicated to Inari always feature statues of these foxes wearing red bibs.",
+        "mn": "Кицүнэ бол будааны бурхан Инаригийн ариун элч юм. Инари бурхны сүмүүдэд улаан хормогч зүүсэн үнэгний хөшөөнүүд заавал байдаг."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.japanese-folklore-yokai",
+      "key": "myth.japanese-folklore-yokai.g4",
+      "difficulty": 3,
+      "prompt": {
+        "en": "If you encounter a dangerous Kappa near a river, what simple polite gesture can you perform to trick it and drain its power?",
+        "mn": "Хэрэв та голын эрэгт аюултай Каппатай тааралдвал ямар энгийн боловсон үйлдлээр түүнийг хуурч, хүчийг нь сулруулж болох вэ?"
+      },
+      "choices": [
+        {
+          "en": "Shake its hand",
+          "mn": "Гар барих"
+        },
+        {
+          "en": "Bow deeply",
+          "mn": "Бөхийж ёслох"
+        },
+        {
+          "en": "Offer a gift",
+          "mn": "Бэлэг өгөх"
+        },
+        {
+          "en": "Clap loudly",
+          "mn": "Чанга алга таших"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Kappa are obsessed with politeness. If you bow to a Kappa, it will bow back out of courtesy, spilling the water kept in the cavity on its head, which deprives it of its power.",
+        "mn": "Каппа маш ёсорхуу амьтан тул таныг бөхийхөд зөрүүлээд бөхийдөг. Энэ үед толгойн орой дээрх хонхорхойтой ус нь асгарч, тэрээр хүч чадалгүй болдог байна."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.japanese-folklore-yokai",
+      "key": "myth.japanese-folklore-yokai.g5",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which famous yokai is depicted as a mountain spirit with a bright red face, an incredibly long nose, and wings, often carrying a magical feather fan?",
+        "mn": "Улаан нүүр, урт хамар, далавчтай бөгөөд шидэт өдөн дэвүүр барьсан ямар алдартай уулын савдаг байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Tanuki",
+          "mn": "Танүки"
+        },
+        {
+          "en": "Yuki-onna",
+          "mn": "Юки-онна"
+        },
+        {
+          "en": "Tengu",
+          "mn": "Тэнгү"
+        },
+        {
+          "en": "Rokurokubi",
+          "mn": "Рокүрокүби"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Tengu are powerful mountain spirits known for their long noses. Originally feared as dangerous demons, they later came to be revered as protectors of sacred mountains.",
+        "mn": "Тэнгү бол урт хамраараа алдартай уулын хүчирхэг савдаг юм. Анх тэднийг аюултай чөтгөр гэж айдаг байсан ч хожим ариун дагшин уулсыг хамгаалагч гэж шүтэх болжээ."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.japanese-folklore-yokai",
+      "key": "myth.japanese-folklore-yokai.g6",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What are the giant, horned, ogre-like demons of Japanese folklore called, typically carrying iron clubs and colored red or blue?",
+        "mn": "Японы үлгэр домогт гардаг эвэртэй, сэгсгэр үстэй, төмөр шийдэм барьсан, ихэвчлэн улаан эсвэл хөх өнгөтэй аварга мангасуудыг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Oni",
+          "mn": "Они"
+        },
+        {
+          "en": "Kappa",
+          "mn": "Каппа"
+        },
+        {
+          "en": "Kitsune",
+          "mn": "Кицүнэ"
+        },
+        {
+          "en": "Tanuki",
+          "mn": "Танүки"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Oni are demonic ogres in Japanese folklore. They are often depicted wearing tiger-skin loincloths and carrying giant spiked iron clubs called kanabo.",
+        "mn": "Они бол Японы домог дахь ад зэтгэр, мангас юм. Тэднийг ихэвчлэн барын арьсан дотуур өмдтэй, 'канабо' хэмээх хадаастай төмөр шийдэм барьснаар дүрсэлдэг."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.japanese-folklore-yokai",
+      "key": "myth.japanese-folklore-yokai.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "During the Japanese spring festival of Setsubun, people throw roasted soybeans out of their houses to ward off evil spirits while chanting a famous phrase. What is this phrase meant to banish?",
+        "mn": "Японы хаврын Сэцүбүн баяраар хүмүүс гэрээсээ муу сүнсийг хөөж, шарсан шар буурцаг цацаж уриа хэлдэг. Энэ зан үйлээр ямар мангасыг хөөн зайлуулдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Tengu",
+          "mn": "Тэнгү"
+        },
+        {
+          "en": "Kappa",
+          "mn": "Каппа"
+        },
+        {
+          "en": "Oni",
+          "mn": "Они"
+        },
+        {
+          "en": "Kitsune",
+          "mn": "Кицүнэ"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "During Setsubun, people throw soybeans while chanting 'Oni wa soto! Fuku wa uchi!', which means 'Demons out! Fortune in!' to purify their homes.",
+        "mn": "Сэцүбүн баяраар хүмүүс 'Они ва сото! Фүкү ва учи!' буюу 'Мангасууд гадагшаа! Аз хийморь дотогшоо!' гэж хашхиран буурцаг цацаж гэрээ ариусгадаг."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.japanese-folklore-yokai",
+      "key": "myth.japanese-folklore-yokai.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which mischievous, shape-shifting yokai is inspired by the Japanese raccoon dog and often depicted with a straw hat and a bottle of sake?",
+        "mn": "Японы элбэнхэн нохойгоос сэдэвлэсэн, зүсээ хувиргах чадвартай, сүрлэн малгай, сакэны лонх барьснаар дүрслэгддэг ямар сахилгагүй ёокай байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Tanuki",
+          "mn": "Танүки"
+        },
+        {
+          "en": "Kitsune",
+          "mn": "Кицүнэ"
+        },
+        {
+          "en": "Kappa",
+          "mn": "Каппа"
+        },
+        {
+          "en": "Bakeneko",
+          "mn": "Бакэнэко"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Tanuki are real raccoon dogs, but in folklore, they are jolly, magical tricksters. Statues of them are placed outside shops and restaurants to bring good luck.",
+        "mn": "Танүки бол бодит элбэнхэн нохой боловч домогт тэднийг ид шидтэй, наргианч амьтан гэдэг. Аз дуудах бэлгэдэл болгон тэдний хөшөөг дэлгүүр, зоогийн газрын гадаа тавьдаг."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.japanese-folklore-yokai",
+      "key": "myth.japanese-folklore-yokai.g9",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Meaning 'snow woman' in Japanese, which beautiful but terrifying yokai appears on snowy nights to freeze travelers to death with her icy breath?",
+        "mn": "Японоор 'цасан эмэгтэй' гэсэн утгатай, цастай шөнө гарч ирэн аялагчдыг хүйтэн амьсгалаараа хөлдөөж алдаг ямар үзэсгэлэнтэй хэрнээ аймшигт ёокай байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Jorogumo",
+          "mn": "Жорогүмо"
+        },
+        {
+          "en": "Kuchisake-onna",
+          "mn": "Күчисакэ-онна"
+        },
+        {
+          "en": "Yuki-onna",
+          "mn": "Юки-онна"
+        },
+        {
+          "en": "Kiyohime",
+          "mn": "Киёхимэ"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Yuki-onna is a famous winter spirit who floats across the snow. She is depicted as a pale, beautiful woman who can freeze victims with her breath.",
+        "mn": "Юки-онна бол цасан дээгүүр хөвөн явдаг алдартай өвлийн сүнс юм. Түүнийг хүмүүсийг амьсгалаараа хөлдөөдөг цайвар арьстай, үзэсгэлэнтэй бүсгүйгээр дүрсэлдэг."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.japanese-folklore-yokai",
+      "key": "myth.japanese-folklore-yokai.g10",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which creepy urban legend asks victims, 'Am I beautiful?' while wearing a surgical mask, and reveals a mouth slit from ear to ear if they answer?",
+        "mn": "Амны хаалт зүүчихээд хүмүүсээс 'Би хөөрхөн байна уу?' гэж асуун, хариулахад нь чих хүртлээ цуурсан амаа харуулдаг ямар аймшигт хотын домог байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Futakuchi-onna",
+          "mn": "Фүтакүчи-онна"
+        },
+        {
+          "en": "Kuchisake-onna",
+          "mn": "Күчисакэ-онна"
+        },
+        {
+          "en": "Yuki-onna",
+          "mn": "Юки-онна"
+        },
+        {
+          "en": "Rokurokubi",
+          "mn": "Рокүрокүби"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Kuchisake-onna, or the 'Slit-Mouthed Woman', is a famous modern yokai. Answering that she looks 'average' confuses her, giving you time to escape.",
+        "mn": "Күчисакэ-онна буюу 'Урагдсан амт бүсгүй' бол орчин үеийн алдартай ёокай юм. Түүнд 'хэвийн харагдаж байна' гэж хариулвал тэрээр эргэлзэж, энэ хооронд зугтах боломж олддог."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.japanese-folklore-yokai",
+      "key": "myth.japanese-folklore-yokai.g11",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which yokai appears as a normal human by day, but has a neck that stretches to incredible lengths at night?",
+        "mn": "Өдөр нь жирийн хүн шиг харагддаг ч шөнө нь хүзүү нь маш урт сунадаг ямар ёокай байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Karakasa-obake",
+          "mn": "Каракаса-обакэ"
+        },
+        {
+          "en": "Nurikabe",
+          "mn": "Нүрикабэ"
+        },
+        {
+          "en": "Gashadokuro",
+          "mn": "Гашадокро"
+        },
+        {
+          "en": "Rokurokubi",
+          "mn": "Рокүрокүби"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Rokurokubi look like ordinary people during the day, but at night their necks stretch like snakes, allowing their heads to move independently and scare humans.",
+        "mn": "Рокүрокүби өдөр нь жирийн хүмүүс шиг амьдардаг ч шөнө нь хүзүү нь могой шиг сунаж, толгой нь дураараа хөдлөн хүмүүсийг айлгадаг байна."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.japanese-folklore-yokai",
+      "key": "myth.japanese-folklore-yokai.g12",
+      "difficulty": 2,
+      "prompt": {
+        "en": "According to Japanese folklore, after how many years of use does an ordinary household object acquire a soul and become a 'Tsukumogami'?",
+        "mn": "Японы ардын аман зохиолд ахуйн хэрэглээний эд зүйлсийг хэдэн жил хэрэглэсний дараа тэдгээр нь амь орж, 'Цүкүмогами' хэмээх сүнс болдог гэж үздэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "100 years",
+          "mn": "100 жил"
+        },
+        {
+          "en": "50 years",
+          "mn": "50 жил"
+        },
+        {
+          "en": "1000 years",
+          "mn": "1000 жил"
+        },
+        {
+          "en": "10 years",
+          "mn": "10 жил"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Tsukumogami are tools or household objects (like umbrellas or lanterns) that acquire a spirit after reaching their 100th year. This belief encouraged people to care for their belongings.",
+        "mn": "Цүкүмогами нь 100 нас хүрсэн багаж зэвсэг, ахуйн хэрэглэл (шүхэр, дэнлүү гэх мэт) амь орж хувирсан сүнс юм. Энэхүү итгэл үнэмшил нь хүмүүсийг эд зүйлдээ гамтай хандахыг сургадаг байв."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.legendary-creatures-world",
+      "key": "myth.legendary-creatures-world.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In Greek mythology, which magnificent bird is known for periodically bursting into flames and being reborn from its own ashes?",
+        "mn": "Грекийн домогт гардаг, тодорхой хугацааны дараа гал дунд шатаж, өөрийн үнснээс дахин төрдөг ямар гайхамшигт шувуу байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Phoenix",
+          "mn": "Галт шувуу (Феникс)"
+        },
+        {
+          "en": "Griffin",
+          "mn": "Грифон"
+        },
+        {
+          "en": "Harpy",
+          "mn": "Харпи"
+        },
+        {
+          "en": "Pegasus",
+          "mn": "Пегас"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The phoenix is a legendary bird associated with the sun that represents renewal and immortality. In many traditions, only one phoenix can live at any given time.",
+        "mn": "Галт шувуу нь нартай холбогддог, шинэчлэл болон мөнх амьдралыг бэлгэддэг домогт амьтан юм. Ихэнх домогт нэг цаг үед зөвхөн нэг л галт шувуу амьдардаг гэж гардаг."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.legendary-creatures-world",
+      "key": "myth.legendary-creatures-world.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which European country officially adopted the mythical unicorn as its national animal in the 15th century?",
+        "mn": "XV зуунд аль Европын улс домогт ганц эвэрт (unicorn)-ийг өөрийн улсын албан ёсны үндэсний амьтнаар сонгон тунхагласан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Scotland",
+          "mn": "Шотланд"
+        },
+        {
+          "en": "Wales",
+          "mn": "Уэльс"
+        },
+        {
+          "en": "Ireland",
+          "mn": "Ирланд"
+        },
+        {
+          "en": "Iceland",
+          "mn": "Исланд"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Scotland chose the unicorn as its national symbol to represent purity and strength. On the royal coat of arms, the unicorn is depicted wrapped in gold chains because a free unicorn was considered a highly dangerous beast.",
+        "mn": "Шотланд улс ариун байдал, хүч чадлыг бэлгэдэн ганц эвэртийг үндэсний бэлгэдэл болгожээ. Хааны сүлдэнд ганц эвэртийг алтан гинжээр ороосон байдаг нь зэрлэг, чөлөөтэй ганц эвэрт маш аюултай амьтан гэж тооцогддог байсантай холбоотой."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.legendary-creatures-world",
+      "key": "myth.legendary-creatures-world.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In Norse mythology, what is the name of the colossal world serpent that surrounds Midgard and bites its own tail?",
+        "mn": "Скандиновын домогт гардаг, Мидгард (хүмүүсийн ертөнц)-ийг тойрон хүрээлж, өөрийн сүүлээ зууж байдаг аварга том далайн могойг хэн гэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Níðhöggr",
+          "mn": "Нидхөгг"
+        },
+        {
+          "en": "Kraken",
+          "mn": "Кракен"
+        },
+        {
+          "en": "Jörmungandr",
+          "mn": "Ёрмунганд"
+        },
+        {
+          "en": "Leviathan",
+          "mn": "Левиафан"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Jörmungandr, also known as the Midgard Serpent, is a child of Loki. According to legend, when the serpent lets go of its tail, Ragnarök (the end of the world) will begin.",
+        "mn": "Ёрмунганд буюу Мидгардын могой нь Локи бурхны хүүхэд юм. Домогт өгүүлснээр, хэрэв энэ аварга могой сүүлнээсээ тавих юм бол Рагнарок буюу ертөнцийн төгсгөл эхэлнэ гэдэг."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.legendary-creatures-world",
+      "key": "myth.legendary-creatures-world.g4",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of the following creatures is a hybrid featuring the body of a lion and the head and wings of an eagle?",
+        "mn": "Дараах домогт амьтдаас аль нь арслангийн биетэй, бүргэдийн толгой болон далавчтай эрлийз амьтан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Sphinx",
+          "mn": "Сфинкс"
+        },
+        {
+          "en": "Chimera",
+          "mn": "Химера"
+        },
+        {
+          "en": "Pegasus",
+          "mn": "Пегас"
+        },
+        {
+          "en": "Griffin",
+          "mn": "Грифон"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The griffin was considered an especially majestic creature because the lion was the king of beasts and the eagle was the king of birds. They were often depicted guarding gold mines and treasures.",
+        "mn": "Арслан нь араатны хаан, бүргэд нь жигүүртний хаан тул грифоныг хамгийн сүр жавхлантай амьтанд тооцдог байв. Тэднийг ихэвчлэн алтны уурхай, эрдэнэсийг хамгаалагчаар дүрсэлдэг."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.legendary-creatures-world",
+      "key": "myth.legendary-creatures-world.g5",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Historically, Viking merchants and European traders often sold the tusks of which marine animal as genuine unicorn horns?",
+        "mn": "Түүхэнд Викингчүүд болон Европын худалдаачид аль далайн амьтны соёог жинхэнэ ганц эвэртний эвэр хэмээн зардаг байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Swordfish",
+          "mn": "Сэлэмт загас"
+        },
+        {
+          "en": "Beluga",
+          "mn": "Цагаан халим"
+        },
+        {
+          "en": "Walrus",
+          "mn": "Далайн морь"
+        },
+        {
+          "en": "Narwhal",
+          "mn": "Нарвал халим"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The long, spiraled tusk of the male narwhal perfectly matched the medieval descriptions of a unicorn's horn. These tusks were highly prized for their supposed ability to detect and neutralize poisons.",
+        "mn": "Эрэгчин нарвал халимны мушгирсан урт соёо нь дундад зууны үеийн ганц эвэртний эврийн дүрслэлтэй яв цав таардаг байв. Энэхүү соёог хорыг илрүүлж, саармагжуулах шидтэй хэмээн маш өндөр үнээр зардаг байжээ."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.legendary-creatures-world",
+      "key": "myth.legendary-creatures-world.g6",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which famous multi-headed serpent from Greek mythology regrows two heads every time one of its heads is cut off?",
+        "mn": "Грекийн домогт гардаг, нэг толгойг нь тасдах бүрт оронд нь хоёр толгой ургадаг олон толгойтой аварга могойг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Minotaur",
+          "mn": "Минотавр"
+        },
+        {
+          "en": "Cerberus",
+          "mn": "Цербер"
+        },
+        {
+          "en": "Medusa",
+          "mn": "Медуза"
+        },
+        {
+          "en": "Hydra",
+          "mn": "Гидра"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Lernaean Hydra was a terrifying water monster slain by Heracles as his second labor. He defeated it by cauterizing the neck stumps with fire to prevent the heads from growing back.",
+        "mn": "Лернейн Гидра нь Гераклын гүйцэтгэсэн 12 баатарлаг үйлсийн хоёр дахь нь байсан бөгөөд тэрээр толгойг нь тасдсаны дараа хүзүүг нь галаар түлж, дахин толгой ургахаас сэргийлэн ялж байжээ."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.legendary-creatures-world",
+      "key": "myth.legendary-creatures-world.g7",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In Japanese folklore, what is the name of the mischievous, turtle-like water spirit that has a water-filled cavity on its head?",
+        "mn": "Японы ардын аман зохиолд гардаг, толгой дээрээ устай хонхорхойтой, яст мэлхийтэй төстэй, усанд амьдардаг дүрсгүй ёокай (ээдрээтэй сүнс)-г юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Tengu",
+          "mn": "Тэнгу"
+        },
+        {
+          "en": "Kappa",
+          "mn": "Каппа"
+        },
+        {
+          "en": "Tanuki",
+          "mn": "Тануки"
+        },
+        {
+          "en": "Kitsune",
+          "mn": "Кицүнэ"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Kappa is a water yōkai that loses its immense strength if the water in the cavity on its head spills out. According to legend, they are obsessed with cucumbers and polite manners.",
+        "mn": "Каппа нь толгой дээрх хонхорхойтой ус нь асгарвал хамаг хүч чадлаа алддаг усан доорх ёокай юм. Домогт тэднийг өргөст хэмхэнд маш дуртай, мөн маш ёсорхуу зантай гэж дүрсэлдэг."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.legendary-creatures-world",
+      "key": "myth.legendary-creatures-world.g8",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In Chinese mythology, which of the Four Auspicious Beasts is a hybrid creature with the body of a deer, the tail of an ox, and the hooves of a horse, often appearing to signal the birth of a great ruler?",
+        "mn": "Хятадын домогт гардаг дөрвөн ариун амьтны нэг болох бугын биетэй, үхрийн сүүлтэй, морины туурайтай, агуу удирдагч төрөх үед үзэгддэг домогт амьтныг юу гэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Qilin",
+          "mn": "Цилин (Килин)"
+        },
+        {
+          "en": "Fenghuang",
+          "mn": "Фэнхуан"
+        },
+        {
+          "en": "Pixiu",
+          "mn": "Пишю"
+        },
+        {
+          "en": "Xuanwu",
+          "mn": "Шуанву"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Qilin (often called the Chinese unicorn in the West) is a symbol of luck, prosperity, and longevity. It is said to walk so gently that it does not disturb a single blade of grass.",
+        "mn": "Цилин (баруунд Хятад ганц эвэрт гэж нэрлэх нь бий) нь аз хийморь, хөгжил цэцэглэлт, урт наслалтын бэлгэдэл юм. Түүнийг явахдаа өвсний соёог ч гэмтээхгүй маш зөөлөн алхдаг гэж ярьдаг."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.legendary-creatures-world",
+      "key": "myth.legendary-creatures-world.g9",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The colossal sea monster 'Leviathan' is famously described in detail in which ancient religious text?",
+        "mn": "Аварга том далайн мангас болох 'Левиафан'-ы тухай хамгийн анх аль эртний шашны судар бичигт дэлгэрэнгүй дүрслэн бичсэн байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "The Egyptian Book of the Dead",
+          "mn": "Египетийн Нас барагсдын ном"
+        },
+        {
+          "en": "The Rigveda",
+          "mn": "Ригведа"
+        },
+        {
+          "en": "The Epic of Gilgamesh",
+          "mn": "Гильгамешийн тууль"
+        },
+        {
+          "en": "The Hebrew Bible",
+          "mn": "Еврейн Библи"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Leviathan is described in the Hebrew Bible (specifically in the Book of Job) as a massive, fire-breathing sea monster that represents the untamable forces of nature.",
+        "mn": "Левиафаныг Еврейн Библийн (ялангуяа Иовын номд) байгалийн дийлдэшгүй хүчийг бэлгэдсэн, галаар тургидаг аварга том далайн мангас хэмээн дүрсэлсэн байдаг."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.legendary-creatures-world",
+      "key": "myth.legendary-creatures-world.g10",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In Greek mythology, which creature is a fire-breathing hybrid with the body and head of a lion, a goat's head emerging from its back, and a snake for a tail?",
+        "mn": "Грекийн домогт гардаг, арслангийн бие ба толгойтой, нуруун дээрээс нь ямааны толгой ургасан, могой сүүлтэй, галаар тургидаг ямар амьтан байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Chimera",
+          "mn": "Химера"
+        },
+        {
+          "en": "Gorgon",
+          "mn": "Горгон"
+        },
+        {
+          "en": "Manticore",
+          "mn": "Мантикор"
+        },
+        {
+          "en": "Minotaur",
+          "mn": "Минотавр"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Chimera was a devastating beast of Lycia slain by the hero Bellerophon riding the winged horse Pegasus. Today, the word 'chimera' is used in biology to describe organisms with diverse genetic tissues.",
+        "mn": "Химера бол Лики нутгийг түйвээж байсан аймшигт араатан бөгөөд түүнийг баатар Беллерофон далавчит Пегас морийг унан устгасан байдаг. Өнөө үед биологийн шинжлэх ухаанд өөр өөр генийн эд эсээс бүрдсэн организмыг 'химера' гэж нэрлэдэг."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.legendary-creatures-world",
+      "key": "myth.legendary-creatures-world.g11",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In European folklore, which legendary creature is a half-human, half-fish being that lives in the ocean?",
+        "mn": "Европын ардын аман зохиолд гардаг, далайд амьдардаг тал бие нь хүн, тал бие нь загас домогт амьтныг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Mermaid",
+          "mn": "Лусын дагина"
+        },
+        {
+          "en": "Siren",
+          "mn": "Сирен"
+        },
+        {
+          "en": "Selkie",
+          "mn": "Селки"
+        },
+        {
+          "en": "Harpy",
+          "mn": "Харпи"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Mermaids are legendary aquatic creatures. While modern pop culture often depicts them as gentle, older folklore warned that they could cause shipwrecks and drown sailors.",
+        "mn": "Лусын дагина нь далай тэнгисийн домогт амьтан юм. Орчин үеийн соёлд тэднийг эелдэг зөөлнөөр дүрсэлдэг ч хуучны домог ярианд усан онгоцыг сүйрүүлж, далайчдыг живүүлдэг аюултай амьтан гэж анхааруулдаг байжээ."
+      }
+    },
+    {
+      "topicSlug": "myth",
+      "lessonKey": "myth.legendary-creatures-world",
+      "key": "myth.legendary-creatures-world.g12",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which legendary creature from French folklore is a heavy, turtle-like dragon with six bear-like legs, a lion's head, and a spiked shell, famously defeated by Saint Martha?",
+        "mn": "Францын домогт гардаг, баавгайнх шиг зургаан хөлтэй, арслангийн толгойтой, өргөст хуягтай, Гэгээн Мартад ялагддаг яст мэлхийтэй төстэй лууг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Gargoyle",
+          "mn": "Гаргойл"
+        },
+        {
+          "en": "Basilisk",
+          "mn": "Басилиск"
+        },
+        {
+          "en": "Wyvern",
+          "mn": "Виверн"
+        },
+        {
+          "en": "Tarasque",
+          "mn": "Тараск"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Tarasque was said to inhabit the region of Tarascon. Saint Martha tamed the beast using only holy water and a cross, leading to the town being named after the monster.",
+        "mn": "Тараск нь Тараскон мужид амьдардаг байсан гэгддэг. Гэгээн Марта зөвхөн ариун ус болон загалмай ашиглан энэ араатныг номхотгосон бөгөөд хотыг уг мангасын нэрээр нэрлэжээ."
+      }
+    }
+  ]
+}

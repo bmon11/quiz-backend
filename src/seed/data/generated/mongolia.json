@@ -1,0 +1,2819 @@
+{
+  "lessons": [
+    {
+      "topicSlug": "mongolia",
+      "key": "mongolia.aimags-and-their-centres",
+      "order": 4,
+      "title": {
+        "en": "Aimags and Their Centres",
+        "mn": "Аймгууд ба тэдгээрийн төвүүд"
+      },
+      "summary": {
+        "en": "Learn the geography of Mongolia's 21 provinces, known as aimags, and their administrative capitals.",
+        "mn": "Монгол улсын засаг захиргааны 21 аймаг, тэдгээрийн төв хотуудын газар зүйн онцлогтой танилцаарай."
+      },
+      "body": {
+        "en": "Mongolia is divided into 21 aimags (provinces), which are further subdivided into soums. Each aimag has an administrative centre (capital city), some of which share the aimag's name, while others have completely different, historical names. Knowing these pairings is a staple of Mongolian trivia and essential for navigating the vast country.",
+        "mn": "Монгол улс засаг захиргааны хувьд 21 аймаг, тэдгээрийн доторх сумдад хуваагддаг. Аймаг бүр өөрийн засаг захиргааны төвтэй бөгөөд заримынх нь нэр аймгийнхаа нэртэй ижил байхад, зарим нь түүхэн өөр нэртэй байдаг. Эдгээр хослолыг мэдэх нь Монголын газар зүйн мэдлэгийн суурь бөгөөд аялагчдад зайлшгүй хэрэгтэй мэдлэг юм."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "🏔️",
+            "title": {
+              "en": "Bayan-Olgii",
+              "mn": "Баян-Өлгий"
+            },
+            "facts": [
+              {
+                "en": "The westernmost aimag of Mongolia, famous for its high Altai mountains.",
+                "mn": "Монгол орны хамгийн баруун захын аймаг бөгөөд өндөр Алтайн нуруугаараа алдартай."
+              },
+              {
+                "en": "Its administrative centre is Olgii.",
+                "mn": "Засаг захиргааны төв нь Өлгий хот юм."
+              }
+            ],
+            "subtitle": {
+              "en": "Centre: Olgii",
+              "mn": "Төв нь: Өлгий"
+            }
+          },
+          {
+            "icon": "🌲",
+            "title": {
+              "en": "Khovsgol",
+              "mn": "Хөвсгөл"
+            },
+            "facts": [
+              {
+                "en": "Known as the Switzerland of Mongolia, home to the deepest freshwater lake.",
+                "mn": "Хамгийн гүн цэнгэг уст нууртай, Монголын Швейцарь гэгддэг аймаг."
+              },
+              {
+                "en": "Its administrative centre is Moron.",
+                "mn": "Засаг захиргааны төв нь Мөрөн хот юм."
+              }
+            ],
+            "subtitle": {
+              "en": "Centre: Moron",
+              "mn": "Төв нь: Мөрөн"
+            }
+          },
+          {
+            "icon": "🐪",
+            "title": {
+              "en": "Umnugovi",
+              "mn": "Өмнөговь"
+            },
+            "facts": [
+              {
+                "en": "The largest aimag by land area, situated in the heart of the Gobi Desert.",
+                "mn": "Монгол улсын хамгийн том газар нутагтай, Говийн элсэн цөлийн зүрхэнд орших аймаг."
+              },
+              {
+                "en": "Its administrative centre is Dalanzadgad.",
+                "mn": "Засаг захиргааны төв нь Даланзадгад хот юм."
+              }
+            ],
+            "subtitle": {
+              "en": "Centre: Dalanzadgad",
+              "mn": "Төв нь: Даланзадгад"
+            }
+          },
+          {
+            "icon": "🌾",
+            "title": {
+              "en": "Dornod",
+              "mn": "Дорнод"
+            },
+            "facts": [
+              {
+                "en": "The easternmost aimag, characterized by vast, flat grasslands and steppes.",
+                "mn": "Уудам тал хээр хосолсон, Монгол улсын хамгийн зүүн захын аймаг."
+              },
+              {
+                "en": "Its administrative centre is Choibalsan, named after the historical leader.",
+                "mn": "Засаг захиргааны төв нь түүхэн удирдагчийн нэрээр нэрлэгдсэн Чойбалсан хот юм."
+              }
+            ],
+            "subtitle": {
+              "en": "Centre: Choibalsan",
+              "mn": "Төв нь: Чойбалсан"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "Tuv Aimag surrounds the national capital, Ulaanbaatar, but its own aimag centre is Zuunmod.",
+          "mn": "Төв аймаг нь улсын нийслэл Улаанбаатар хотыг хүрээлэн оршдог ч өөрийн аймгийн төв нь Зуунмод хот юм."
+        },
+        {
+          "en": "Sukhbaatar Aimag's centre is Baruun-Urt, named after the 'West Long' river valley.",
+          "mn": "Сүхбаатар аймгийн төв Баруун-Урт хот нь баруун тийш урссан урт хөндийн нэрээр нэрлэгджээ."
+        }
+      ]
+    },
+    {
+      "topicSlug": "mongolia",
+      "key": "mongolia.national-parks-and-natural-wonders",
+      "order": 5,
+      "title": {
+        "en": "National Parks and Natural Wonders",
+        "mn": "Байгалийн цогцолбор газрууд ба гайхамшгууд"
+      },
+      "summary": {
+        "en": "Discover Mongolia's pristine protected areas, from dinosaur fossil beds to volcanic landscapes.",
+        "mn": "Үлэг гүрвэлийн олдворт газраас эхлээд галт уулын тогтоц бүхий Монголын онгон дагшин байгалийн цогцолбор газруудтай танилцаарай."
+      },
+      "body": {
+        "en": "Mongolia boasts an array of strictly protected areas and national parks that preserve its unique ecosystems. These range from the towering sand dunes of the Gobi to the ancient volcanic craters in the central highlands and the dense Siberian larch forests of the north.",
+        "mn": "Монгол улс өөрийн өвөрмөц экосистемийг хамгаалах олон тооны дархан цаазат болон байгалийн цогцолбор газруудтай. Үүнд Говийн өндөр элсэн манхнууд, төвийн нутгийн галт уулын тогоонууд, хойд зүгийн Сибирийн шинэсэн ой хөвч багтана."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "🦕",
+            "title": {
+              "en": "Bayanzag",
+              "mn": "Баянзаг"
+            },
+            "facts": [
+              {
+                "en": "Also known as the Flaming Cliffs for its glowing orange-red sandstone.",
+                "mn": "Улбар улаан элсэн хадан тогтоцтой тул гадаадынхан 'Асаж буй хад' (Flaming Cliffs) гэж нэрлэдэг."
+              },
+              {
+                "en": "The site of the world's first discovery of dinosaur eggs in the 1920s.",
+                "mn": "1920-иод онд дэлхийд анх удаа үлэг гүрвэлийн өндөг олдсон түүхэн газар."
+              }
+            ],
+            "subtitle": {
+              "en": "Flaming Cliffs",
+              "mn": "Улаан шавар хавцал"
+            }
+          },
+          {
+            "icon": "🐎",
+            "title": {
+              "en": "Khustain Nuruu",
+              "mn": "Хустайн нуруу"
+            },
+            "facts": [
+              {
+                "en": "A national park dedicated to the reintroduction of the Przewalski's horse (Takhi).",
+                "mn": "Дэлхийн цорын ганц зэрлэг адуу болох Тахийг сэргээн нутагшуулах зорилготой байгалийн цогцолбор газар."
+              },
+              {
+                "en": "Located just 100 kilometers west of Ulaanbaatar.",
+                "mn": "Улаанбаатар хотоос баруун тийш ердөө 100 орчим километрийн зайд оршдог."
+              }
+            ],
+            "subtitle": {
+              "en": "Home of the Takhi",
+              "mn": "Тахийн өлгий нутаг"
+            }
+          },
+          {
+            "icon": "🌊",
+            "title": {
+              "en": "Lake Khovsgol",
+              "mn": "Хөвсгөл нуур"
+            },
+            "facts": [
+              {
+                "en": "Contains over 1% of the world's entire fresh water reserve.",
+                "mn": "Дэлхийн нийт цэнгэг усны нөөцийн 1 гаруй хувийг дангаараа агуулдаг."
+              },
+              {
+                "en": "Often referred to as the 'Blue Pearl' of Mongolia.",
+                "mn": "Монголын байгалийн 'Хөх сувд' хэмээн өргөмжлөгддөг."
+              }
+            ],
+            "subtitle": {
+              "en": "The Blue Pearl",
+              "mn": "Хөх сувд"
+            }
+          },
+          {
+            "icon": "🌋",
+            "title": {
+              "en": "Khorgo-Terkhiin Tsagaan Nuur",
+              "mn": "Хорго-Тэрхийн Цагаан Нуур"
+            },
+            "facts": [
+              {
+                "en": "Features an extinct volcano crater (Khorgo) next to a beautiful freshwater lake.",
+                "mn": "Сөнөсөн галт уулын тогоо болон түүний хажууд үүссэн үзэсгэлэнт нуурын хослол."
+              },
+              {
+                "en": "The lake was formed by basalt lava flows damming the Terkh River.",
+                "mn": "Тэрхийн голыг галт уулын халуун хайлмаг хааснаар энэхүү нуур үүсчээ."
+              }
+            ],
+            "subtitle": {
+              "en": "Volcanic Wonder",
+              "mn": "Галт уулын тогтоц"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "Gorkhi-Terelj National Park is famous for 'Melkhii Khad' (Turtle Rock), a giant natural stone formation.",
+          "mn": "Горхи-Тэрэлжийн байгалийн цогцолбор газар нь аварга том яст мэлхийн хэлбэртэй байгалийн бүтээл болох 'Мэлхий хад'-аараа алдартай."
+        },
+        {
+          "en": "The Yolyn Am gorge in the Gobi Desert is so deep and shaded that it used to keep ice frozen year-round.",
+          "mn": "Говьд байдаг Ёлын ам нь маш гүн, нар тусдаггүй сүүдэрлэг хавцал тул урьд өмнө жилийн турш мөстэй байдаг байв."
+        }
+      ]
+    },
+    {
+      "topicSlug": "mongolia",
+      "key": "mongolia.naadam-and-national-symbols",
+      "order": 6,
+      "title": {
+        "en": "Naadam and National Symbols",
+        "mn": "Наадам ба үндэсний бэлгэдэл"
+      },
+      "summary": {
+        "en": "Explore the three manly sports of the Naadam festival and the deep meaning behind Mongolia's national symbols.",
+        "mn": "Үндэсний их баяр наадмын 'Эрийн гурван наадам' болон Монгол улсын төрийн бэлгэдлийн гүн утга учрыг мэдэж аваарай."
+      },
+      "body": {
+        "en": "The Naadam Festival, celebrated in July, is Mongolia's most important cultural event, featuring the 'Three Manly Games'. Alongside these living traditions, Mongolia's national identity is deeply represented by symbols like the Soyombo, which appears on the national flag and dates back to the 17th century.",
+        "mn": "Долдугаар сард тэмдэглэдэг Үндэсний их баяр наадам нь 'Эрийн гурван наадам'-аар дамжуулан монгол соёлыг харуулдаг хамгийн чухал баяр юм. Үүнээс гадна XVII зуунаас эхтэй, төрийн далбаан дээр дүрслэгдсэн Соёмбо бэлгэдэл нь үндэсний ижилсэл, тусгаар тогтнолын илэрхийлэл болдог."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "🤼",
+            "title": {
+              "en": "Bokh (Wrestling)",
+              "mn": "Үндэсний бөх"
+            },
+            "facts": [
+              {
+                "en": "A traditional wrestling style with no weight classes and no time limits.",
+                "mn": "Жингийн ангилал, цагийн хязгаарлалт байдаггүй уламжлалт барилдаан."
+              },
+              {
+                "en": "Wrestlers wear unique open-chested jackets called 'zodog' and shorts called 'shuudag'.",
+                "mn": "Бөхчүүд 'зодог' хэмээх цээж задгай цамц, 'шуудаг' хэмээх богино өмд өмсдөг."
+              }
+            ],
+            "subtitle": {
+              "en": "No weight limits",
+              "mn": "Жингийн зааггүй"
+            }
+          },
+          {
+            "icon": "🏇",
+            "title": {
+              "en": "Horse Racing",
+              "mn": "Хурдан морины уралдаан"
+            },
+            "facts": [
+              {
+                "en": "Races are long-distance cross-country events, ranging from 10 to 28 kilometers.",
+                "mn": "10-аас 28 километр хүртэлх хол зайд хээр тал дундуур уралддаг."
+              },
+              {
+                "en": "The jockeys are children, usually aged between 7 and 13.",
+                "mn": "Уралдаанч хүүхдүүд нь ихэвчлэн 7-оос 13 насны охид, хөвгүүд байдаг."
+              }
+            ],
+            "subtitle": {
+              "en": "Child jockeys",
+              "mn": "Уралдаанч хүүхдүүд"
+            }
+          },
+          {
+            "icon": "🏹",
+            "title": {
+              "en": "Archery",
+              "mn": "Үндэсний сур харваа"
+            },
+            "facts": [
+              {
+                "en": "Both men and women compete, using composite bows made of horn, wood, and sinew.",
+                "mn": "Эрэгтэй, эмэгтэй харваачид эвэр, мод, шөрмөсөөр хийсэн нумаар өрсөлддөг."
+              },
+              {
+                "en": "Referees stand near the targets and raise their hands to signal a hit.",
+                "mn": "Байны дэргэд зогсох уухайчид сум байнд тусах үед гар өргөн уухайлж дохио өгдөг."
+              }
+            ],
+            "subtitle": {
+              "en": "Composite bows",
+              "mn": "Эвэр элэгт нум"
+            }
+          },
+          {
+            "icon": "🇲🇳",
+            "title": {
+              "en": "The Soyombo",
+              "mn": "Соёмбо бэлгэдэл"
+            },
+            "facts": [
+              {
+                "en": "A special ideogram created by Zanabazar in 1686.",
+                "mn": "Анхдугаар Богд Занабазарын 1686 онд зохиосон тусгай тэмдэгт үсэг."
+              },
+              {
+                "en": "Features elements representing fire, sun, moon, earth, water, and the Yin-Yang.",
+                "mn": "Гал, нар, сар, шороо, ус болон арга билгийг илэрхийлсэн элементүүдээс бүрддэг."
+              }
+            ],
+            "subtitle": {
+              "en": "National Symbol",
+              "mn": "Үндэсний бэлгэдэл"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "Unlike Western archery, traditional Mongolian archery targets are small cylinders called 'khana' and 'hasaa' placed on the ground.",
+          "mn": "Өрнөдийн сур харваанаас ялгаатай нь монгол сурын харваанд газарт өрж тавьсан 'хана', 'хасаа' гэх жижиг суран бортогуудыг бай болгон харвадаг."
+        },
+        {
+          "en": "The fire symbol at the top of the Soyombo represents past, present, and future prosperity.",
+          "mn": "Соёмбо бэлгэдлийн оройд байх гал нь өнгөрсөн, одоо, ирээдүй гурван цагт мандан бадрахыг бэлгэддэг."
+        }
+      ]
+    },
+    {
+      "topicSlug": "mongolia",
+      "key": "mongolia.famous-mongolians",
+      "order": 7,
+      "title": {
+        "en": "Famous Mongolians",
+        "mn": "Монголын алдартнууд"
+      },
+      "summary": {
+        "en": "Meet key figures of Mongolian history, art, and modern achievements who shaped the nation's identity.",
+        "mn": "Монгол улсын түүх, урлаг соёл, орчин үеийн амжилтыг тодорхойлсон түүхэн болон алдартай хүмүүстэй танилцаарай."
+      },
+      "body": {
+        "en": "Throughout its history, Mongolia has produced exceptional leaders, spiritual masters, and modern pioneers. From the great military and political leaders of the 20th century to the first space explorer and world-class opera singers, these individuals have left an indelible mark on both domestic and global stages.",
+        "mn": "Монголын түүхийн туршид гарамгай удирдагчид, шашны зүтгэлтнүүд, орчин үеийн анхдагчид төрөн гарсан билээ. XX зууны төр, цэргийн зүтгэлтнүүдээс эхлээд сансарт ниссэн анхны монгол хүн, дэлхийн хэмжээний дуурийн дуучид хүртэлх алдартнууд эх орондоо болон дэлхийн тавцанд нэрээ цуурайтуулсаар байна."
+      },
+      "visual": {
+        "kind": "timeline",
+        "items": [
+          {
+            "when": {
+              "en": "1635–1723",
+              "mn": "1635–1723"
+            },
+            "title": {
+              "en": "Undur Gegeen Zanabazar",
+              "mn": "Өндөр гэгээн Занабазар"
+            },
+            "body": {
+              "en": "The first Jebtsundamba Khutuktu (spiritual leader of Tibetan Buddhism in Mongolia) and a polymath who created the Soyombo script.",
+              "mn": "Монгол дахь Төвөдийн буддын шашны анхдугаар Жавзандамба хутагт бөгөөд Соёмбо үсгийг зохиосон соён гэгээрүүлэгч, урлагийн их мастер."
+            }
+          },
+          {
+            "when": {
+              "en": "1893–1923",
+              "mn": "1893–1923"
+            },
+            "title": {
+              "en": "Damdin Sukhbaatar",
+              "mn": "Дамдины Сүхбаатар"
+            },
+            "body": {
+              "en": "A founding leader of the Mongolian People's Party and a national hero of the 1921 People's Revolution.",
+              "mn": "Монгол Ардын Намыг үүсгэн байгуулагчдын нэг, 1921 оны Ардын хувьсгалын удирдагч, үндэсний баатар."
+            }
+          },
+          {
+            "when": {
+              "en": "1981",
+              "mn": "1981"
+            },
+            "title": {
+              "en": "Jugderdemidiin Gurragchaa",
+              "mn": "Жүгдэрдемидийн Гүррагчаа"
+            },
+            "body": {
+              "en": "The first Mongolian in space, orbiting aboard the Soviet Soyuz 39 mission as a research cosmonaut.",
+              "mn": "Зөвлөлтийн 'Союз-39' хөлгөөр сансарт ниссэн Монголын анхны, дэлхийн 101 дэх сансрын нисгэгч."
+            }
+          },
+          {
+            "when": {
+              "en": "2008",
+              "mn": "2008"
+            },
+            "title": {
+              "en": "Naidangiin Tuvshinbayar",
+              "mn": "Найдангийн Түвшинбаяр"
+            },
+            "body": {
+              "en": "Won Mongolia's first-ever Olympic gold medal in judo at the Beijing 2008 Summer Games.",
+              "mn": "Бээжин-2008 Зуны Олимпын наадмаас жүдо бөхийн төрлөөр Монгол улсын түүхэн дэх анхны алтан медалийг хүртсэн."
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "Zanabazar was not only a spiritual leader but also a master sculptor, often called the 'Michelangelo of Asia'.",
+          "mn": "Занабазар нь шашны удирдагч байгаад зогсохгүй гарамгай барималч байсан тул түүнийг 'Азийн Микеланжело' гэж нэрлэх нь бий."
+        },
+        {
+          "en": "Jugderdemidiin Gurragchaa became the second Asian in space, carrying traditional Mongolian food (dried curd) to orbit.",
+          "mn": "Жүгдэрдемидийн Гүррагчаа нь сансарт ниссэн Ази тивийн хоёр дахь хүн бөгөөд сансарт монгол үндэсний идээ болох ааруул авч явжээ."
+        }
+      ]
+    },
+    {
+      "topicSlug": "mongolia",
+      "key": "mongolia.national-sports",
+      "order": 8,
+      "title": {
+        "en": "Mongolian National Sports",
+        "mn": "Монгол үндэсний спорт"
+      },
+      "summary": {
+        "en": "The traditional sports of Mongolia, known as the 'Three Manly Games' (Naadam), along with shagai archery.",
+        "mn": "Эрийн гурван наадам болон шагайн харвааны соёл, уламжлалт спортын онцлог."
+      },
+      "body": {
+        "en": "Mongolian traditional sports are deeply rooted in the nomadic lifestyle. The core events are wrestling, horse racing, and archery, collectively known as Naadam. Shagai (knucklebone) shooting is also an official national sport with its own strict rules and titles.",
+        "mn": "Монгол үндэсний спорт нь нүүдэлчин ахуйтай салшгүй холбоотой. Үндсэн төрлүүд нь эрийн гурван наадам болох бөх, морин уралдаан, сур харваа бөгөөд үүн дээр шагайн харваа албан ёсны дөрөв дэх спорт болон хөгжиж байна."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "🤼",
+            "title": {
+              "en": "National Wrestling",
+              "mn": "Үндэсний бөх"
+            },
+            "facts": [
+              {
+                "en": "Wrestlers wear traditional costumes called zodog and shuudag to show respect and ensure fair grips.",
+                "mn": "Бөхчүүд зодог, шуудаг өмсөж барилддаг бөгөөд энэ нь өрсөлдөгчөө шударгаар барьж авах нөхцөлийг бүрдүүлдэг."
+              },
+              {
+                "en": "Titles are awarded based on the number of rounds won at the National Naadam: Nachin (Falcon), Khartsaga (Hawk), Zaan (Elephant), Arslan (Lion), and Avarga (Champion).",
+                "mn": "Улсын наадамд давсан даваагаар нь начин, харцага, заан, арслан, аварга зэрэг цолыг олгодог."
+              }
+            ],
+            "subtitle": {
+              "en": "Undesniikh",
+              "mn": "Хүч чадал, уран мэх"
+            }
+          },
+          {
+            "icon": "🐎",
+            "title": {
+              "en": "Horse Racing",
+              "mn": "Морин уралдаан"
+            },
+            "facts": [
+              {
+                "en": "Horses race in six age categories: Daaga (2-year-olds), Shudlen (3), Khyazaalan (4), Soyolon (5), Ikh Nas (6+), and Azarga (stallions).",
+                "mn": "Хурдан морийг даага, шүдлэн, хязаалан, соёолон, их нас, азарга гэсэн зургаан насны ангиллаар уралдуулдаг."
+              },
+              {
+                "en": "The Soyolon race is considered the most prestigious, and spectators believe getting covered in its dust brings good luck.",
+                "mn": "Соёолон насны морины уралдаан хамгийн их хүндлэгддэг бөгөөд соёолонгийн тоосонд дарагдвал хийморь сэргэдэг гэж үздэг."
+              }
+            ],
+            "subtitle": {
+              "en": "6 age categories",
+              "mn": "Зургаан насны ангилал"
+            }
+          },
+          {
+            "icon": "🏹",
+            "title": {
+              "en": "Archery",
+              "mn": "Сур харваа"
+            },
+            "facts": [
+              {
+                "en": "Archers shoot at small cylindrical targets made of woven leather, called 'khana' and 'khasag'.",
+                "mn": "Харваачид сур хэмээх суран сүлжмэл жижиг цилиндр байнуудыг онохоор харвадаг."
+              },
+              {
+                "en": "Both men and women participate, shooting from distances of 75 meters and 65 meters respectively.",
+                "mn": "Эрэгтэйчүүд 75 метр, эмэгтэйчүүд 65 метрийн зайнаас харван цэц мэргэнээ сорьдог."
+              }
+            ],
+            "subtitle": {
+              "en": "Composite bows",
+              "mn": "Эртний уламжлалт зэвсэг"
+            }
+          },
+          {
+            "icon": "🐑",
+            "title": {
+              "en": "Shagai Shooting",
+              "mn": "Шагай харваа"
+            },
+            "facts": [
+              {
+                "en": "Players flick a small piece of deer horn to hit sheep knucklebone targets placed on a low wooden stand.",
+                "mn": "Харваачид хашлага дээрх хаш модон дээр суулгасан сумыг хуруугаараа нясалж, тусгай тавцан дээрх шагайг онодог."
+              },
+              {
+                "en": "It requires immense focus and is accompanied by traditional songs called 'uukhai' to cheer and distract.",
+                "mn": "Энэ спорт нь асар их анхаарал шаарддаг бөгөөд харвах үед уухайлан дэмжиж, уур амьсгал оруулдаг."
+              }
+            ],
+            "subtitle": {
+              "en": "Knucklebone archery",
+              "mn": "Шагайн харваа"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "Mongolian wrestling has no weight classes and no time limits; matches continue until one wrestler touches the ground with their elbow or knee.",
+          "mn": "Монгол бөхөд жингийн ангилал, хугацааны хязгаар гэж байдаггүй бөгөөд хэн нэгний өвдөг, тохой газар хүртэл барилддаг."
+        },
+        {
+          "en": "The horses in Naadam are ridden by children, usually aged 7 to 12, because their light weight allows the horses to run at maximum speed over long distances.",
+          "mn": "Наадмын хурдан морийг ихэвчлэн 7-оос 12 насны хүүхдүүд унадаг нь хөнгөн жинтэй байж, морийг хол зайд дээд хурдаараа давхихад тусалдаг байна."
+        }
+      ]
+    },
+    {
+      "topicSlug": "mongolia",
+      "key": "mongolia.mongolian-folk-tales",
+      "order": 9,
+      "title": {
+        "en": "Mongolian Folk Tales and Legends",
+        "mn": "Монгол ардын үлгэр, домог"
+      },
+      "summary": {
+        "en": "The rich oral tradition of Mongolia, featuring heroic epics, origin myths, and the creation of the horsehead fiddle.",
+        "mn": "Баатарлаг туульс, үүсэл гарлын домог болон морин хуурын үүслийн тухай монгол ардын аман зохиол."
+      },
+      "body": {
+        "en": "Mongolian folklore is rich with tales that explain natural phenomena, historical events, and moral lessons. From the heroic epics of Jangar and Geser to the tragic origin of the horsehead fiddle, these stories have been passed down through generations by nomadic storytellers.",
+        "mn": "Монгол аман зохиол нь байгалийн үзэгдэл, түүхэн үйл явдал, ёс суртахууны сургамжийг тайлбарласан үлгэр домгоор баялаг юм. Жангар, Гэсэр гэх мэт баатарлаг туульсаас эхлээд морин хуурын гунигт түүх хүртэлх эдгээр түүхүүд үе дамжин өвлөгдсөөр иржээ."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "🏹",
+            "title": {
+              "en": "Erkhii Mergen",
+              "mn": "Эрхий мэргэн"
+            },
+            "facts": [
+              {
+                "en": "A legendary archer who vowed to shoot down seven suns that were burning the Earth.",
+                "mn": "Дэлхийг шатааж байсан долоон нарыг харваж унагаахаар тангарагласан домогт харваач юм."
+              },
+              {
+                "en": "After missing the last sun, he cut off his thumbs and turned into a marmot (tarbagan) that lives underground.",
+                "mn": "Хамгийн сүүлчийн нарыг алдаж харваад эрхий хуруугаа огтолж, газар доор амьдардаг тарвага болон хувирчээ."
+              }
+            ],
+            "subtitle": {
+              "en": "The archer who shot the suns",
+              "mn": "Нарыг харвасан харваач"
+            }
+          },
+          {
+            "icon": "🎻",
+            "title": {
+              "en": "Khökhöö Namjil",
+              "mn": "Хөхөө Намжил"
+            },
+            "facts": [
+              {
+                "en": "A talented singer who received a magical winged horse from his beloved fairy princess.",
+                "mn": "Хайртай дагинаасаа нисдэг шидэт далавчит морь бэлгэнд авсан авьяаслаг дуучин залуугийн түүх."
+              },
+              {
+                "en": "When a jealous woman cut off the horse's wings, causing its death, Namjil created the first horsehead fiddle (morin khuur) from its bones and hair.",
+                "mn": "Атаархсан эмэгтэй морины далавчийг хайчлан алсны дараа, Намжил мориныхоо яс, хялгасаар анхны морин хуурыг урлажээ."
+              }
+            ],
+            "subtitle": {
+              "en": "Origin of the horsehead fiddle",
+              "mn": "Морин хуурын домог"
+            }
+          },
+          {
+            "icon": "🛡️",
+            "title": {
+              "en": "Epic of Jangar",
+              "mn": "Жангар тууль"
+            },
+            "facts": [
+              {
+                "en": "An epic saga about the legendary hero Jangar and his twelve brave warriors defending their utopian land of Bumba.",
+                "mn": "Домогт баатар Жангар болон түүний арван хоёр хүчтэн Бумбын орныг хамгаалж буй тухай баатарлаг тууль юм."
+              },
+              {
+                "en": "It represents the dream of eternal youth, peace, and prosperity, where there is no winter or old age.",
+                "mn": "Энэхүү тууль нь өвөлгүй, өтлөхгүй, мөнхийн залуу нас, амар амгалан, хөгжил цэцэглэлтийн мөрөөдлийг илэрхийлдэг."
+              }
+            ],
+            "subtitle": {
+              "en": "The utopian epic",
+              "mn": "Бумбын орны тууль"
+            }
+          },
+          {
+            "icon": "🌌",
+            "title": {
+              "en": "Khukhdei Mergen",
+              "mn": "Хүхдэй мэргэн"
+            },
+            "facts": [
+              {
+                "en": "A celestial hunter associated with the constellation Orion, chasing three deer across the night sky.",
+                "mn": "Тэнгэрийн анчин Хүхдэй мэргэн нь Орион одны ордтой холбогддог бөгөөд тэнгэрт гурван бугыг хөөж буй дүрээр дүрслэгддэг."
+              },
+              {
+                "en": "The myth explains the movement of stars and the seasonal changes in the Mongolian sky.",
+                "mn": "Энэхүү домог нь оддын хөдөлгөөн болон монгол орны тэнгэр дэх улирлын өөрчлөлтийг тайлбарладаг байна."
+              }
+            ],
+            "subtitle": {
+              "en": "The celestial hunter",
+              "mn": "Тэнгэрийн анчин"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "The epic of Jangar is so long and detailed that professional epic singers, known as Jangarchi, spend years memorizing its thousands of verses.",
+          "mn": "Жангар тууль нь маш урт бөгөөд Жангарч хэмээх мэргэжлийн туульчид түүний олон мянган бадаг шүлгийг цээжлэхийн тулд олон жилийг зарцуулдаг."
+        },
+        {
+          "en": "In Mongolian folklore, the Ursa Major constellation is known as 'Seven Gods' (Doloor Burkhan) and is linked to the myth of the archer Erkhii Mergen.",
+          "mn": "Монгол аман зохиолд Долоон бурхан одыг Эрхий мэргэн харваачийн домогтой холбон тайлбарладаг."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimags-and-their-centres",
+      "key": "mongolia.aimags-and-their-centres.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which of the following aimags does NOT share its name with its administrative centre?",
+        "mn": "Дараах аймгуудын аль нь засаг захиргааны төвтэйгөө адилгүй нэртэй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Bayan-Olgii",
+          "mn": "Баян-Өлгий"
+        },
+        {
+          "en": "Uvs",
+          "mn": "Увс"
+        },
+        {
+          "en": "Umnugovi",
+          "mn": "Өмнөговь"
+        },
+        {
+          "en": "Sukhbaatar",
+          "mn": "Сүхбаатар"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The administrative centre of Umnugovi is Dalanzadgad, while the other three aimags listed also have different centre names (Ulaangom, Olgii, and Baruun-Urt respectively), but Umnugovi is a classic example of a completely distinct name.",
+        "mn": "Өмнөговь аймгийн төв нь Даланзадгад хот юм. Бусад сонголтод буй аймгуудын төвүүд нь мөн өөр нэртэй (Улаангом, Өлгий, Баруун-Урт) боловч Өмнөговь нь огт өөр нэртэй төвтэй хамгийн тод жишээ юм."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimags-and-their-centres",
+      "key": "mongolia.aimags-and-their-centres.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the administrative centre of Khovsgol aimag, often called the 'Switzerland of Mongolia'?",
+        "mn": "Монголын Швейцарь гэгддэг Хөвсгөл аймгийн засаг захиргааны төв аль хот вэ?"
+      },
+      "choices": [
+        {
+          "en": "Bulgan",
+          "mn": "Булган"
+        },
+        {
+          "en": "Khatgal",
+          "mn": "Хатгал"
+        },
+        {
+          "en": "Moron",
+          "mn": "Мөрөн"
+        },
+        {
+          "en": "Tosontsengel",
+          "mn": "Тосонцэнгэл"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The administrative centre of Khovsgol is Moron. Khatgal is another famous settlement located right on the shore of Lake Khovsgol, but it is not the aimag centre.",
+        "mn": "Хөвсгөл аймгийн төв нь Мөрөн хот юм. Хатгал нь Хөвсгөл нуурын эрэг дээрх алдартай суурин боловч аймгийн төв биш юм."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimags-and-their-centres",
+      "key": "mongolia.aimags-and-their-centres.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which aimag completely surrounds Mongolia's national capital, Ulaanbaatar, yet has its own centre in Zuunmod?",
+        "mn": "Монгол улсын нийслэл Улаанбаатар хотыг бүрэн хүрээлж оршдог ч засаг захиргааны төв нь Зуунмод хотод байдаг аймаг аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Khentii",
+          "mn": "Хэнтий"
+        },
+        {
+          "en": "Tuv",
+          "mn": "Төв"
+        },
+        {
+          "en": "Arkhangai",
+          "mn": "Архангай"
+        },
+        {
+          "en": "Selenge",
+          "mn": "Сэлэнгэ"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Tuv Aimag (meaning 'Central') surrounds Ulaanbaatar. Its administrative centre was established in Zuunmod in 1942, which is located just south of the Bogd Khan Mountain.",
+        "mn": "Төв аймаг нь Улаанбаатар хотыг тойрон хүрээлдэг. Тус аймгийн төв нь Богд хан уулын ард орших Зуунмод хотод 1942 онд байгуулагджээ."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimags-and-their-centres",
+      "key": "mongolia.aimags-and-their-centres.g4",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Choibalsan, named after the historical Mongolian leader, is the administrative centre of which eastern aimag?",
+        "mn": "Монголын түүхэн удирдагчийн нэрээр нэрлэгдсэн Чойбалсан хот аль зүүн аймгийн засаг захиргааны төв вэ?"
+      },
+      "choices": [
+        {
+          "en": "Dornod",
+          "mn": "Дорнод"
+        },
+        {
+          "en": "Sukhbaatar",
+          "mn": "Сүхбаатар"
+        },
+        {
+          "en": "Khentii",
+          "mn": "Хэнтий"
+        },
+        {
+          "en": "Dornogovi",
+          "mn": "Дорноговь"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Choibalsan is the administrative centre of Dornod aimag. It is the fourth-largest city in Mongolia and was renamed in 1941 to honor Khorloogiin Choibalsan.",
+        "mn": "Чойбалсан хот нь Дорнод аймгийн засаг захиргааны төв юм. Энэ нь Монголын дөрөв дэх том хот бөгөөд 1941 онд Хорлоогийн Чойбалсангийн алдраар нэрлэжээ."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimags-and-their-centres",
+      "key": "mongolia.aimags-and-their-centres.g5",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of these aimags is unique because its administrative centre shares the exact same name as the aimag itself?",
+        "mn": "Дараах аймгуудын аль нь засаг захиргааны төвтэйгөө яг ижил нэртэй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Dundgovi",
+          "mn": "Дундговь"
+        },
+        {
+          "en": "Zavkhan",
+          "mn": "Завхан"
+        },
+        {
+          "en": "Govi-Altai",
+          "mn": "Говь-Алтай"
+        },
+        {
+          "en": "Bulgan",
+          "mn": "Булган"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Bulgan is one of the few aimags where the aimag and its administrative centre share the same name. For others, like Zavkhan, the centre is Uliastai.",
+        "mn": "Булган аймаг нь төвтэйгөө ижил нэртэй цөөн аймгуудын нэг юм. Жишээлбэл, Завхан аймгийн төв нь Улиастай хот байдаг."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimags-and-their-centres",
+      "key": "mongolia.aimags-and-their-centres.g6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the administrative centre of Sukhbaatar aimag, named after a long valley river flowing west?",
+        "mn": "Баруун тийш урсах урт хөндийн голын нэрээр нэрлэгдсэн, Сүхбаатар аймгийн засаг захиргааны төв аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Baruun-Urt",
+          "mn": "Баруун-Урт"
+        },
+        {
+          "en": "Undurkhaan",
+          "mn": "Өндөрхаан"
+        },
+        {
+          "en": "Choir",
+          "mn": "Чойр"
+        },
+        {
+          "en": "Sainshand",
+          "mn": "Сайншанд"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The administrative centre of Sukhbaatar aimag is Baruun-Urt. It was founded in 1942 and historically named after the local 'West Long' valley.",
+        "mn": "Сүхбаатар аймгийн засаг захиргааны төв нь Баруун-Урт хот юм. Тус хот нь 1942 онд байгуулагдсан бөгөөд баруун тийш урсах урт хөндийн нэрээр нэрлэгджээ."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimags-and-their-centres",
+      "key": "mongolia.aimags-and-their-centres.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which city serves as the administrative centre of Khentii aimag, but was historically known as Undurkhaan?",
+        "mn": "Хэнтий аймгийн засаг захиргааны төв бөгөөд түүхэнд Өндөрхаан нэрээрээ алдартай байсан хотыг одоо хэрхэн нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Altai",
+          "mn": "Алтай"
+        },
+        {
+          "en": "Chinggis City",
+          "mn": "Чингис хот"
+        },
+        {
+          "en": "Sukhbaatar",
+          "mn": "Сүхбаатар"
+        },
+        {
+          "en": "Uliastai",
+          "mn": "Улиастай"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "In 2013, the administrative centre of Khentii aimag, Undurkhaan, was officially renamed to Chinggis City to honor Genghis Khan, who was born in the region.",
+        "mn": "2013 онд Хэнтий аймгийн төв Өндөрхаан хотыг тус нутагт төрсөн Чингис хааны алдраар албан ёсоор 'Чингис хот' болгон өөрчилжээ."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimags-and-their-centres",
+      "key": "mongolia.aimags-and-their-centres.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of the following southern Gobi aimags has Sainshand as its administrative centre?",
+        "mn": "Дараах говийн аймгуудын аль нь Сайншанд хотыг засаг захиргааны төвөө болгосон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Govi-Altai",
+          "mn": "Говь-Алтай"
+        },
+        {
+          "en": "Dundgovi",
+          "mn": "Дундговь"
+        },
+        {
+          "en": "Dornogovi",
+          "mn": "Дорноговь"
+        },
+        {
+          "en": "Umnugovi",
+          "mn": "Өмнөговь"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Sainshand is the administrative centre of Dornogovi (East Gobi) aimag. It is an important stop on the Trans-Mongolian Railway.",
+        "mn": "Сайншанд нь Дорноговь аймгийн засаг захиргааны төв юм. Энэ хот нь Транс-Монголын төмөр замын чухал өртөө бөгөөд аялал жуулчлалын гол төвүүдийн нэг билээ."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimags-and-their-centres",
+      "key": "mongolia.aimags-and-their-centres.g9",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which historic western aimag has its administrative centre in Uliastai, one of the oldest cities in Mongolia?",
+        "mn": "Монголын хамгийн эртний хотуудын нэг болох Улиастай хотод төвлөрдөг баруун бүсийн аймаг аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Zavkhan",
+          "mn": "Завхан"
+        },
+        {
+          "en": "Uvs",
+          "mn": "Увс"
+        },
+        {
+          "en": "Khovd",
+          "mn": "Ховд"
+        },
+        {
+          "en": "Govi-Altai",
+          "mn": "Говь-Алтай"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Uliastai is the administrative centre of Zavkhan aimag. Founded in 1733 as a military garrison by the Qing Dynasty, it is one of the oldest urban settlements in the country.",
+        "mn": "Улиастай бол Завхан аймгийн засаг захиргааны төв юм. Манж Чин улсын үед 1733 онд цэргийн цайз хэлбэрээр байгуулагдсан тус хот нь Монголын хамгийн эртний суурингуудын нэг билээ."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimags-and-their-centres",
+      "key": "mongolia.aimags-and-their-centres.g10",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which aimag's administrative centre is Altai, named after the famous mountain range, despite the aimag itself having a double-barrelled name?",
+        "mn": "Аймгийнх нь нэр хоёр үгнээс бүтдэг боловч засаг захиргааны төв нь алдарт нурууны нэрээр нэрлэгдсэн Алтай хот байдаг аймаг аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Govi-Altai",
+          "mn": "Говь-Алтай"
+        },
+        {
+          "en": "Bayan-Olgii",
+          "mn": "Баян-Өлгий"
+        },
+        {
+          "en": "Uvurkhangai",
+          "mn": "Өвөрхангай"
+        },
+        {
+          "en": "Bayankhongor",
+          "mn": "Баянхонгор"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The administrative centre of Govi-Altai aimag is Altai. It is situated at a high altitude of over 2,100 meters above sea level.",
+        "mn": "Говь-Алтай аймгийн засаг захиргааны төв нь Алтай хот юм. Тус хот нь далайн түвшнээс дээш 2100 гаруй метрийн өндөрт оршдог Монголын хамгийн өндөрлөг хотуудын нэг юм."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimags-and-their-centres",
+      "key": "mongolia.aimags-and-their-centres.g11",
+      "difficulty": 3,
+      "prompt": {
+        "en": "What is the administrative centre of Dundgovi (Middle Gobi) aimag, located in the semi-desert zone?",
+        "mn": "Говийн хагас цөлийн бүсэд орших Дундговь аймгийн засаг захиргааны төв аль хот вэ?"
+      },
+      "choices": [
+        {
+          "en": "Sainshand",
+          "mn": "Сайншанд"
+        },
+        {
+          "en": "Choir",
+          "mn": "Чойр"
+        },
+        {
+          "en": "Mandalgovi",
+          "mn": "Мандалговь"
+        },
+        {
+          "en": "Dalanzadgad",
+          "mn": "Даланзадгад"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Mandalgovi is the administrative centre of Dundgovi aimag, located about 260 kilometres south of Ulaanbaatar.",
+        "mn": "Дундговь аймгийн засаг захиргааны төв нь Мандалговь хот юм. Энэ нь Улаанбаатар хотоос урагш 260 орчим километрийн зайд оршдог."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.naadam-and-national-symbols",
+      "key": "mongolia.naadam-and-national-symbols.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "How many 'Manly Games' are traditionally played during the Mongolian Naadam Festival?",
+        "mn": "Монголчуудын уламжлалт Наадмаар эр хүний хэдэн төрлийн наадмаар өрсөлддөг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Three",
+          "mn": "Гурван"
+        },
+        {
+          "en": "Five",
+          "mn": "Таван"
+        },
+        {
+          "en": "Nine",
+          "mn": "Есөн"
+        },
+        {
+          "en": "Four",
+          "mn": "Дөрвөн"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The festival features the 'Three Manly Games': wrestling, horse racing, and archery. In modern times, knucklebone shooting (shagai) is also officially included, but the historic term remains 'Three'.",
+        "mn": "Наадмаар бөх, морь, сур харваа гэсэн 'Эрийн гурван наадам'-аар өрсөлддөг. Орчин үед шагайн харваа албан ёсоор ордог болсон ч түүхэн нэршил нь хэвээр үлдсэн юм."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.naadam-and-national-symbols",
+      "key": "mongolia.naadam-and-national-symbols.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of these is NOT an official element depicted in the Soyombo symbol?",
+        "mn": "Дараах элементүүдийн аль нь Соёмбо бэлгэдэлд байдаггүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "A snow leopard",
+          "mn": "Ирвэс"
+        },
+        {
+          "en": "The sun and moon",
+          "mn": "Нар, сар"
+        },
+        {
+          "en": "A fish (Yin-Yang)",
+          "mn": "Загас (арга билэг)"
+        },
+        {
+          "en": "A flame",
+          "mn": "Гал"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Soyombo contains fire, sun, moon, triangles, rectangles, and two fish representing Yin-Yang. It does not feature a snow leopard, which is instead the symbol of Ulaanbaatar.",
+        "mn": "Соёмбод гал, нар, сар, гурвалжин, тэгш өнцөгт болон арга билгийг илэрхийлсэн хоёр загас байдаг. Ирвэс нь Соёмбод байдаггүй бөгөөд харин Улаанбаатар хотын бэлгэдэл юм."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.naadam-and-national-symbols",
+      "key": "mongolia.naadam-and-national-symbols.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Who designed the Soyombo symbol in 1686?",
+        "mn": "Соёмбо бэлгэдлийг 1686 онд хэн зохиосон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Zanabazar",
+          "mn": "Өндөр гэгээн Занабазар"
+        },
+        {
+          "en": "Chinggis Khaan",
+          "mn": "Чингис хаан"
+        },
+        {
+          "en": "Ligdan Khaan",
+          "mn": "Лигдэн хаан"
+        },
+        {
+          "en": "Sukhbaatar",
+          "mn": "Д. Сүхбаатар"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Undur Gegeen Zanabazar, the first Bogd Gegeen of Mongolia, designed the Soyombo script and symbol. The symbol is now the national emblem on Mongolia's flag.",
+        "mn": "Монголын анхдугаар Богд Өндөр гэгээн Занабазар Соёмбо үсэг болон бэлгэдлийг зохиосон юм. Энэхүү бэлгэдэл нь өдгөө Монгол Улсын төрийн далбаан дээр байдаг."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.naadam-and-national-symbols",
+      "key": "mongolia.naadam-and-national-symbols.g4",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the traditional open-chested jacket worn by Mongolian wrestlers called?",
+        "mn": "Монгол үндэсний бөхийн өмсдөг цээж задгай цамцыг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Zodog",
+          "mn": "Зодог"
+        },
+        {
+          "en": "Shuudag",
+          "mn": "Шуудаг"
+        },
+        {
+          "en": "Deel",
+          "mn": "Дээл"
+        },
+        {
+          "en": "Gutal",
+          "mn": "Гутал"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Wrestlers wear a 'zodog' (the long-sleeved, open-chested jacket) and a 'shuudag' (the tight shorts). Legend says the open chest was introduced to ensure no female could secretly enter the competition.",
+        "mn": "Бөхчүүд 'зодог' (урт ханцуйтай, цээж задгай цамц) болон 'шуудаг' (богино өмд) өмсдөг. Цээж задгай болгосон нь барилдаанд эмэгтэй хүн нууцаар оролцохоос сэргийлсэн домогтой."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.naadam-and-national-symbols",
+      "key": "mongolia.naadam-and-national-symbols.g5",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is unique about the weight classes in traditional Mongolian wrestling (Bokh)?",
+        "mn": "Монгол үндэсний бөхийн барилдааны жингийн ангилал ямар байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "There are no weight classes",
+          "mn": "Жингийн ангилал байдаггүй"
+        },
+        {
+          "en": "Only two: light and heavy",
+          "mn": "Хөнгөн, хүнд гэсэн хоёр жинтэй"
+        },
+        {
+          "en": "Divided into four main classes",
+          "mn": "Дөрвөн үндсэн жинд хуваагддаг"
+        },
+        {
+          "en": "Based on the wrestler's height",
+          "mn": "Бөхийн өндрөөс хамаардаг"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Traditional Mongolian wrestling has no weight classes or time limits. This means a smaller wrestler can face a much larger opponent, relying purely on technique and speed.",
+        "mn": "Монгол үндэсний бөхөд жингийн ангилал, цагийн хязгаарлалт гэж байдаггүй. Энэ нь жижиг биетэй бөх илүү том бөхтэй барилдаж, мэх, хурдаар ялах боломжийг олгодог."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.naadam-and-national-symbols",
+      "key": "mongolia.naadam-and-national-symbols.g6",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In Mongolian archery, what are the small cylinder targets placed on the ground called?",
+        "mn": "Үндэсний сур харваанд газар өрж тавьсан жижиг цилиндр хэлбэртэй байг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Uuhaich",
+          "mn": "Уухайч"
+        },
+        {
+          "en": "Nuur",
+          "mn": "Нүүр"
+        },
+        {
+          "en": "Shagai",
+          "mn": "Шагай"
+        },
+        {
+          "en": "Hasaa",
+          "mn": "Хасаа"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The targets are small woven leather cylinders called 'khana' and 'hasaa' stacked on the ground. Archers aim to knock them out of a designated line rather than hitting a hanging bullseye.",
+        "mn": "Байг суран туузаар сүлжиж хийсэн 'хана' болон 'хасаа' хэмээх жижиг бортогон хэлбэртэй зүйлийг газар өрж засдаг. Харваачид тэдгээрийг онож, зурааснаас гаргахыг зорьдог."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.naadam-and-national-symbols",
+      "key": "mongolia.naadam-and-national-symbols.g7",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the typical age range for jockeys in the Naadam horse races?",
+        "mn": "Наадмын хурдан морины уралдаанч хүүхдүүд ихэвчлэн хэдэн насных байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Under 5 years old",
+          "mn": "5-аас доош нас"
+        },
+        {
+          "en": "14 to 18 years old",
+          "mn": "14-өөс 18 нас"
+        },
+        {
+          "en": "7 to 13 years old",
+          "mn": "7-оос 13 нас"
+        },
+        {
+          "en": "Adults only",
+          "mn": "Зөвхөн насанд хүрэгчид"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Naadam horse races are ridden by children, typically aged 7 to 13, because their light weight allows the horses to run faster over long distances.",
+        "mn": "Наадмын морийг ихэвчлэн 7-оос 13 насны хүүхдүүд унадаг бөгөөд тэдний хөнгөн жин нь морийг хол зайд хурдан давхихад тусалдаг."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.naadam-and-national-symbols",
+      "key": "mongolia.naadam-and-national-symbols.g8",
+      "difficulty": 3,
+      "prompt": {
+        "en": "What does the fire symbol at the very top of the Soyombo represent?",
+        "mn": "Соёмбо бэлгэдэл дэх хамгийн дээр байрлах гал юуг илэрхийлдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Mind, body, and spirit",
+          "mn": "Оюун санаа, бие, сүнс"
+        },
+        {
+          "en": "Father, mother, and child",
+          "mn": "Эцэг, эх, хүүхэд"
+        },
+        {
+          "en": "East, West, and South",
+          "mn": "Зүүн, баруун, өмнө зүг"
+        },
+        {
+          "en": "Past, present, and future",
+          "mn": "Өнгөрсөн, одоо, ирээдүй"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The three tongues of the fire symbol represent the past, present, and future prosperity of the nation. Fire itself is a ancient symbol of rebirth and growth.",
+        "mn": "Галт дөлний гурван үзүүр нь улс орны өнгөрсөн, одоо, ирээдүй гурван цагт мандан бадрахыг бэлгэддэг. Гал нь өөрөө сэргэн мандалтын эртний бэлгэдэл юм."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.naadam-and-national-symbols",
+      "key": "mongolia.naadam-and-national-symbols.g9",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of these is the longest distance horse race during the national Naadam?",
+        "mn": "Улсын баяр наадмаар дараах насны морьдын аль нь хамгийн хол зайд уралддаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Khyazaalan (four-year-olds)",
+          "mn": "Хязаалан"
+        },
+        {
+          "en": "Soyolon (five-year-olds)",
+          "mn": "Соёолон"
+        },
+        {
+          "en": "Shudlen (three-year-olds)",
+          "mn": "Шүдлэн"
+        },
+        {
+          "en": "Ikh Nas (mature horses)",
+          "mn": "Их нас"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The 'Ikh Nas' (horses over six years old) race is the longest, covering about 22 to 28 kilometers. The 'Soyolon' (five-year-olds) is also highly prestigious and famous for its energetic run.",
+        "mn": "Хурдан морины уралдаанаас 'Их нас'-ны (зургаагаас дээш насны) морьд хамгийн хол буюу 22-28 км зайд уралддаг. 'Соёолон' (таван настай) насны морины уралдаан мөн маш нэр хүндтэйд тооцогддог."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.naadam-and-national-symbols",
+      "key": "mongolia.naadam-and-national-symbols.g10",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the collective term for the referees who stand near the archery targets and signal hits?",
+        "mn": "Үндэсний сур харвааны байны дэргэд зогсож, оноог дохиж мэдээлдэг хүмүүсийг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Galch",
+          "mn": "Галч"
+        },
+        {
+          "en": "Uuhaich",
+          "mn": "Уухайчид"
+        },
+        {
+          "en": "Zasuul",
+          "mn": "Засуул"
+        },
+        {
+          "en": "Kharvaach",
+          "mn": "Харваачид"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The 'Uuhaich' (singers/cheerers) stand by the targets, raising their hands and singing a traditional melody ('uuhai') to praise a good shot.",
+        "mn": "Байны дэргэд зогсох 'уухайчид' сум байнд тусах үед гар өргөн, уламжлалт уухайн аялгууг дуулж оноог баталгаажуулдаг."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.naadam-and-national-symbols",
+      "key": "mongolia.naadam-and-national-symbols.g11",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In which month is the national Naadam Festival of Mongolia celebrated?",
+        "mn": "Монгол Улсын үндэсний их баяр наадам аль сард болдог вэ?"
+      },
+      "choices": [
+        {
+          "en": "August",
+          "mn": "8-р сард"
+        },
+        {
+          "en": "September",
+          "mn": "9-р сард"
+        },
+        {
+          "en": "June",
+          "mn": "6-р сард"
+        },
+        {
+          "en": "July",
+          "mn": "7-р сард"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The national Naadam Festival officially takes place from July 11 to 13, celebrating the anniversary of the People's Revolution and historic statehood.",
+        "mn": "Үндэсний их баяр наадам албан ёсоор 7-р сарын 11-нээс 13-ны хооронд Ардын хувьсгал болон түүхэн улс байгуулагдсаны ойг тохиолдуулан болдог."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.naadam-and-national-symbols",
+      "key": "mongolia.naadam-and-national-symbols.g12",
+      "difficulty": 3,
+      "prompt": {
+        "en": "What do the two vertical bars on the left and right sides of the Soyombo symbol represent?",
+        "mn": "Соёмбо бэлгэдэл дэх зүүн, баруун талын хоёр босоо шугам юуг илэрхийлдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Fortress walls (unity)",
+          "mn": "Хэрэм (эв нэгдэл)"
+        },
+        {
+          "en": "Spears (warfare)",
+          "mn": "Жад (дайчин чанар)"
+        },
+        {
+          "en": "Rivers (abundance)",
+          "mn": "Мөрөн гол (элбэг дэлбэг байдал)"
+        },
+        {
+          "en": "Mountains (protection)",
+          "mn": "Уул нуруу (хамгаалалт)"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The two vertical rectangles represent fortress walls, based on the proverb: 'Two friends in agreement are stronger than stone walls.' They symbolize unity and strength.",
+        "mn": "Хоёр босоо шугам нь 'Төрлийн түмэн нэгдвэл төмөр хэрэмнээс бат' гэсэн зүйр үгнээс гаралтай бөгөөд эв нэгдэл, бат бөх хамгаалалтыг бэлгэддэг."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.national-parks-and-natural-wonders",
+      "key": "mongolia.national-parks-and-natural-wonders.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which of these famous natural wonders is known as the 'Blue Pearl' of Mongolia?",
+        "mn": "Монголын байгалийн 'Хөх сувд' хэмээн алдаршсан нуур аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Terkhiin Tsagaan Nuur",
+          "mn": "Тэрхийн Цагаан нуур"
+        },
+        {
+          "en": "Uvs Lake",
+          "mn": "Увс нуур"
+        },
+        {
+          "en": "Lake Khovsgol",
+          "mn": "Хөвсгөл нуур"
+        },
+        {
+          "en": "Khar-Us Lake",
+          "mn": "Хар-Ус нуур"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Lake Khovsgol is known as the 'Blue Pearl' of Mongolia and contains over 1% of the world's fresh water reserve. It is also the deepest lake in Mongolia.",
+        "mn": "Хөвсгөл нуур нь Монголын 'Хөх сувд' гэдгээрээ алдартай бөгөөд дэлхийн нийт цэнгэг усны нөөцийн 1 гаруй хувийг агуулдаг. Энэ нь мөн Монголын хамгийн гүн нуур юм."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.national-parks-and-natural-wonders",
+      "key": "mongolia.national-parks-and-natural-wonders.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In the 1920s, the American explorer Roy Chapman Andrews discovered the world's first fossilized dinosaur eggs at which Mongolian site?",
+        "mn": "1920-иод онд Америкийн аялагч Рой Чепмен Эндрюс дэлхийд анх удаа үлэг гүрвэлийн өндөгний чулуужсан олдворыг Монголын аль газраас нээсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Bayanzag",
+          "mn": "Баянзаг"
+        },
+        {
+          "en": "Yolyn Am",
+          "mn": "Ёлын ам"
+        },
+        {
+          "en": "Tsagaan Suvarga",
+          "mn": "Цагаан суварга"
+        },
+        {
+          "en": "Khermen Tsav",
+          "mn": "Хэрмэн цав"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Roy Chapman Andrews discovered the first fossilized dinosaur eggs at Bayanzag, which he nicknamed the 'Flaming Cliffs' due to the glowing orange-red sandstone.",
+        "mn": "Рой Чепмен Эндрюс Баянзагаас дэлхийн анхны үлэг гүрвэлийн өндгийг олсон бөгөөд нарны гэрэлд улбар улаан өнгөөр туяардаг тул 'Асаж буй хад' (Flaming Cliffs) гэж нэрлэжээ."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.national-parks-and-natural-wonders",
+      "key": "mongolia.national-parks-and-natural-wonders.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which wild animal, once completely extinct in the wild, was successfully reintroduced to Mongolia's Khustain Nuruu National Park?",
+        "mn": "Нэгэн цагт зэрлэг байгальд бүрмөсөн устаж үгүй болоод байсан ямар амьтныг Хустайн нурууны байгалийн цогцолбор газарт амжилттай сэргээн нутагшуулсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Snow leopard",
+          "mn": "Ирвэс"
+        },
+        {
+          "en": "Mazaalai (Gobi bear)",
+          "mn": "Мазаалай"
+        },
+        {
+          "en": "Przewalski's horse (Takhi)",
+          "mn": "Тахи"
+        },
+        {
+          "en": "Argali sheep",
+          "mn": "Аргаль"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Przewalski's horse, or Takhi, is the world's only remaining truly wild horse species. It was reintroduced to Khustain Nuruu starting in the 1990s.",
+        "mn": "Тахи бол дэлхий дээр үлдсэн цорын ганц зэрлэг адууны төрөл юм. Үүнийг 1990-ээд оноос эхлэн Хустайн нуруунд амжилттай нутагшуулж эхэлжээ."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.national-parks-and-natural-wonders",
+      "key": "mongolia.national-parks-and-natural-wonders.g4",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which geological feature created the beautiful freshwater lake Terkhiin Tsagaan Nuur?",
+        "mn": "Тэрхийн Цагаан нуур ямар геологийн тогтцын үр дүнд үүссэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Glacial erosion",
+          "mn": "Мөсөн голын элэгдлээр"
+        },
+        {
+          "en": "Basalt lava flow blockages",
+          "mn": "Галт уулын лавын урсгал"
+        },
+        {
+          "en": "Tectonic plate movement",
+          "mn": "Тектоникийн хагарлаар"
+        },
+        {
+          "en": "Meteorite impact",
+          "mn": "Сул солирын мөргөлтөөс"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Terkhiin Tsagaan Nuur was formed when basalt lava flows from the nearby Khorgo volcano dammed the Terkh River.",
+        "mn": "Тэрхийн Цагаан нуур нь Хорго галт уул дэлбэрэх үед гарсан халуун хайлмаг лав Тэрхийн голын урсгалыг хааснаар үүссэн нуур юм."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.national-parks-and-natural-wonders",
+      "key": "mongolia.national-parks-and-natural-wonders.g5",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Gorkhi-Terelj National Park is famous for a giant natural rock formation shaped like which animal?",
+        "mn": "Горхи-Тэрэлжийн байгалийн цогцолбор газарт ямар амьтны хэлбэртэй аварга том байгалийн хад байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Horse",
+          "mn": "Морины толгой"
+        },
+        {
+          "en": "Turtle",
+          "mn": "Мэлхий"
+        },
+        {
+          "en": "Eagle",
+          "mn": "Бүргэд"
+        },
+        {
+          "en": "Camel",
+          "mn": "Тэмээ"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The famous 'Melkhii Khad' (Turtle Rock) is a massive granite rock formation that has naturally eroded into the shape of a turtle.",
+        "mn": "Тэрэлжид байдаг алдарт 'Мэлхий хад' нь олон жилийн салхи, усны элэгдлээр мэлхийн хэлбэртэй болсон аварга том боржин чулуун тогтоц юм."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.national-parks-and-natural-wonders",
+      "key": "mongolia.national-parks-and-natural-wonders.g6",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of these is NOT a national park or strictly protected area in Mongolia?",
+        "mn": "Дараах газруудын аль нь Монгол Улсын тусгай хамгаалалттай газар нутагт хамаардаггүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Gorkhi-Terelj",
+          "mn": "Горхи-Тэрэлж"
+        },
+        {
+          "en": "Khustain Nuruu",
+          "mn": "Хустайн нуруу"
+        },
+        {
+          "en": "Altai Tavan Bogd",
+          "mn": "Алтай Таван Богд"
+        },
+        {
+          "en": "Sukhbaatar Square",
+          "mn": "Сүхбаатарын талбай"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Sukhbaatar Square is the central public square of Ulaanbaatar, while the other choices are major protected natural areas.",
+        "mn": "Сүхбаатарын талбай нь Улаанбаатар хотын төв талбай бөгөөд бусад сонголтууд нь улсын тусгай хамгаалалттай байгалийн цогцолбор газрууд юм."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.national-parks-and-natural-wonders",
+      "key": "mongolia.national-parks-and-natural-wonders.g7",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Located in the Gobi Gurvansaikhan National Park, Yolyn Am is a deep gorge famous for what unusual natural feature?",
+        "mn": "Говь Гурвансайхан байгалийн цогцолбор газарт байдаг Ёлын ам нь байгалийн ямар өвөрмөц тогтцоороо алдартай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Hot springs",
+          "mn": "Халуун рашаан"
+        },
+        {
+          "en": "Year-round or long-lasting ice",
+          "mn": "Зуны халуунд ч хайлдаггүй мөс"
+        },
+        {
+          "en": "Active geysers",
+          "mn": "Оргилдог халуун булаг"
+        },
+        {
+          "en": "Red salt flats",
+          "mn": "Улаан давсан тал"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Yolyn Am is so narrow and deep that it receives very little sunlight, allowing a thick field of ice to remain frozen long into the summer.",
+        "mn": "Ёлын ам нь маш нарийн, гүн хавцал тул нарны гэрэл бага тусдаг бөгөөд зуны халуунд ч зузаан мөсөн хуримтлал нь хайлж дуусдаггүй байжээ."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.national-parks-and-natural-wonders",
+      "key": "mongolia.national-parks-and-natural-wonders.g8",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of the following mountain ranges contains Mongolia's highest peak, Khuiten Peak?",
+        "mn": "Монгол орны хамгийн өндөр цэг болох Хүйтэн оргил аль нуруунд байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Sayan Mountains",
+          "mn": "Соёны нуруу"
+        },
+        {
+          "en": "Khangai Mountains",
+          "mn": "Хангайн нуруу"
+        },
+        {
+          "en": "Khentii Mountains",
+          "mn": "Хэнтийн нуруу"
+        },
+        {
+          "en": "Altai Mountains",
+          "mn": "Алтай нуруу"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Khuiten Peak, reaching 4,374 meters above sea level, is located in the Altai Tavan Bogd massif of the Altai Mountains.",
+        "mn": "Далайн түвшнээс дээш 4374 метр өндөрт өргөгдсөн Хүйтэн оргил нь Алтайн нурууны Алтай Таван Богд уулсад оршдог."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.national-parks-and-natural-wonders",
+      "key": "mongolia.national-parks-and-natural-wonders.g9",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What does the name of the famous Gobi site 'Bayanzag' mean literally in Mongolian?",
+        "mn": "Говийн алдарт 'Баянзаг' хэмээх газрын нэр ямар утгатай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Rich in Saxaul trees",
+          "mn": "Заг модоор баян"
+        },
+        {
+          "en": "Red cliffs",
+          "mn": "Улаан хавцал"
+        },
+        {
+          "en": "Dinosaur valley",
+          "mn": "Үлэг гүрвэлийн хөндий"
+        },
+        {
+          "en": "Windy place",
+          "mn": "Салхит толгой"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Bayanzag literally translates to 'Rich in Saxaul', referring to the saxaul shrubs (zag) that grow abundantly in this desert region.",
+        "mn": "Баянзаг гэдэг нь тус говийн бүсэд элбэг ургадаг 'заг' хэмээх говийн модыг илтгэсэн, 'Заг модоор баян газар' гэсэн утгатай нэр юм."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.national-parks-and-natural-wonders",
+      "key": "mongolia.national-parks-and-natural-wonders.g10",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which lake is the largest by surface area in Mongolia, though it is highly saline?",
+        "mn": "Монгол орны хамгийн их гадаргын талбайтай боловч маш их шүүрмэг, давстай нуур аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Lake Khovsgol",
+          "mn": "Хөвсгөл нуур"
+        },
+        {
+          "en": "Uvs Lake",
+          "mn": "Увс нуур"
+        },
+        {
+          "en": "Khyargas Lake",
+          "mn": "Хяргас нуур"
+        },
+        {
+          "en": "Buir Lake",
+          "mn": "Буйр нуур"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Uvs Lake is the largest lake in Mongolia by surface area. Because it has no outlet, its water is extremely salty.",
+        "mn": "Увс нуур нь гадаргын талбайгаараа Монгол Улсын хамгийн том нуур юм. Гадагш урсгалгүй нуур тул ус нь маш их давсархаг байдаг."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.national-parks-and-natural-wonders",
+      "key": "mongolia.national-parks-and-natural-wonders.g11",
+      "difficulty": 3,
+      "prompt": {
+        "en": "What is the name of the extinct volcano whose crater is a major tourist attraction next to Terkhiin Tsagaan Nuur?",
+        "mn": "Тэрхийн Цагаан нуурын дэргэд байдаг, тогоо руу нь хүмүүс авирч үздэг алдартай сөнөсөн галт уул аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Khorgo",
+          "mn": "Хорго"
+        },
+        {
+          "en": "Taran",
+          "mn": "Таран"
+        },
+        {
+          "en": "Shiliйн Bogd",
+          "mn": "Шилийн Богд"
+        },
+        {
+          "en": "Khan Uul",
+          "mn": "Хан Уул"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Khorgo is an extinct volcano crater that stands at an altitude of 2,240 meters. Visitors can hike up to look inside its 50-meter-deep crater.",
+        "mn": "Хорго нь далайн түвшнээс дээш 2240 метр өндөрт орших сөнөсөн галт уул юм. Жуулчид түүний 50 орчим метр гүн тогоо руу авирч үзэх боломжтой байдаг."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.national-parks-and-natural-wonders",
+      "key": "mongolia.national-parks-and-natural-wonders.g12",
+      "difficulty": 1,
+      "prompt": {
+        "en": "The Gobi Desert is shared between Mongolia and which other country?",
+        "mn": "Говийн элсэн цөл нь Монголоос гадна өөр аль улсын нутаг дэвсгэрийг дамнан оршдог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Kyrgyzstan",
+          "mn": "Киргиз"
+        },
+        {
+          "en": "Kazakhstan",
+          "mn": "Казахстан"
+        },
+        {
+          "en": "Russia",
+          "mn": "Орос"
+        },
+        {
+          "en": "China",
+          "mn": "Хятад"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Gobi Desert is a vast desert region spanning parts of southern Mongolia and northern China. It is the fifth-largest desert in the world.",
+        "mn": "Говийн цөл нь Монголын өмнөд хэсэг болон Хятадын хойд хэсгийг дамнан оршдог, дэлхийн тав дахь том цөл юм."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.famous-mongolians",
+      "key": "mongolia.famous-mongolians.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Who is celebrated as the first Mongolian to travel into space, orbiting aboard the Soviet Soyuz 39 mission in 1981?",
+        "mn": "1981 онд Зөвлөлтийн 'Союз-39' хөлгөөр сансарт ниссэн Монголын анхны сансрын нисгэгч хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "J. Gurragchaa",
+          "mn": "Ж. Гүррагчаа"
+        },
+        {
+          "en": "M. Ganzorig",
+          "mn": "М. Ганзориг"
+        },
+        {
+          "en": "S. Batbold",
+          "mn": "С. Батболд"
+        },
+        {
+          "en": "D. Sukhbaatar",
+          "mn": "Д. Сүхбаатар"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Jugderdemidiin Gurragchaa became the first Mongolian and the second Asian person in space. He spent nearly 8 days in orbit conducting various scientific experiments.",
+        "mn": "Жүгдэрдемидийн Гүррагчаа нь сансарт ниссэн Монголын анхны, Ази тивийн хоёр дахь хүн болсон юм. Тэрээр сансарт бараг 8 хоногийг өнгөрүүлж, шинжлэх ухааны олон чухал туршилт хийсэн."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.famous-mongolians",
+      "key": "mongolia.famous-mongolians.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Undur Gegeen Zanabazar, the spiritual leader of Tibetan Buddhism in Mongolia, created which famous script in 1686?",
+        "mn": "Монгол дахь Төвөдийн буддын шашны тэргүүн, Өндөр гэгээн Занабазар 1686 онд ямар алдартай бичиг үсгийг зохиосон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Galik script",
+          "mn": "Али-гали үсэг"
+        },
+        {
+          "en": "Phags-pa script",
+          "mn": "Дөрвөлжин бичиг"
+        },
+        {
+          "en": "Soyombo script",
+          "mn": "Соёмбо үсэг"
+        },
+        {
+          "en": "Clear script (Todo bichig)",
+          "mn": "Тод бичиг"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Zanabazar created the Soyombo script, whose main symbol now stands proudly on Mongolia's national flag. He was also a legendary sculptor often called the 'Michelangelo of Asia'.",
+        "mn": "Занабазар Соёмбо үсгийг зохиосон бөгөөд уг үсгийн гол бэлгэдэл нь өнөөдөр Монгол Улсын төрийн далбаан дээр залагдсан байдаг. Тэрээр мөн 'Азийн Микеланжело' гэгддэг гайхалтай уран барималч байв."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.famous-mongolians",
+      "key": "mongolia.famous-mongolians.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which national hero and military commander is central to Mongolia's 1921 People's Revolution, leading to the country's independence from Chinese rule?",
+        "mn": "Монгол орныг Хятадын ноёрхлоос чөлөөлж, 1921 оны Ардын хувьсгалыг удирдан ялалтад хүргэсэн үндэсний баатар, цэргийн жанжин хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Yumjaagiin Tsedenbal",
+          "mn": "Юмжаагийн Цэдэнбал"
+        },
+        {
+          "en": "Khorloogiin Choibalsan",
+          "mn": "Хорлоогийн Чойбалсан"
+        },
+        {
+          "en": "Anandyn Amor",
+          "mn": "Анандын Амар"
+        },
+        {
+          "en": "Damdin Sukhbaatar",
+          "mn": "Дамдины Сүхбаатар"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Damdin Sukhbaatar was a founding member of the Mongolian People's Party. The central square of Mongolia's capital, Ulaanbaatar, was named Sukhbaatar Square in his honor.",
+        "mn": "Дамдины Сүхбаатар нь Монгол Ардын Намыг үүсгэн байгуулагчдын нэг байв. Түүний алдрыг мөнхжүүлж Монгол Улсын нийслэл Улаанбаатар хотын төв талбайг Сүхбаатарын талбай гэж нэрлэжээ."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.famous-mongolians",
+      "key": "mongolia.famous-mongolians.g4",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which Mongolian traditional long song singer, known as a 'State Honored Long Song Singer', won the UNESCO World Heritage prize and was globally celebrated for her unique vocal range?",
+        "mn": "ЮНЕСКО-гийн Дэлхийн өвийн шагналт, Монгол Улсын Хөдөлмөрийн баатар, Монголын уртын дууг дэлхийд таниулсан алдарт уртын дуучин хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "S. Erdenechimeg",
+          "mn": "С. Эрдэнэчимэг"
+        },
+        {
+          "en": "N. Norovbanzad",
+          "mn": "Н. Норовбанзад"
+        },
+        {
+          "en": "A. Donrov",
+          "mn": "А. Донров"
+        },
+        {
+          "en": "D. Ichinnorov",
+          "mn": "Д. Ичинноров"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Namjilyn Norovbanzad was a master of the Mongolian long song (Urtyn Duu). Her performance of 'Uvgun Shuvuu Khoyor' (The Old Man and the Bird) is considered a masterpiece of vocal art.",
+        "mn": "Намжилын Норовбанзад нь Монголын уртын дууны аугаа их мастер байв. Түүний дуулсан 'Өвгөн шувуу хоёр' дуу нь хоолойн урлагийн гайхамшигт бүтээлд тооцогддог."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.famous-mongolians",
+      "key": "mongolia.famous-mongolians.g5",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Who served as the head of state of Mongolia for over 44 years, making him the longest-serving leader in modern Mongolian history?",
+        "mn": "Монгол Улсыг 44 гаруй жилийн турш удирдсан, Монголын орчин үеийн түүхэнд хамгийн удаан хугацаанд төрийн эрх барьсан удирдагч хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Jambyn Batmonkh",
+          "mn": "Жамбын Батмөнх"
+        },
+        {
+          "en": "Khorloogiin Choibalsan",
+          "mn": "Хорлоогийн Чойбалсан"
+        },
+        {
+          "en": "Punsalmaagiin Ochirbat",
+          "mn": "Пунсалмаагийн Очирбат"
+        },
+        {
+          "en": "Yumjaagiin Tsedenbal",
+          "mn": "Юмжаагийн Цэдэнбал"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Yumjaagiin Tsedenbal led Mongolia from 1940 until 1984. During his leadership, Mongolia achieved widespread literacy and secured its membership in the United Nations in 1961.",
+        "mn": "Юмжаагийн Цэдэнбал 1940-өөс 1984 он хүртэл Монгол Улсыг удирдсан. Түүний засаглалын жилүүдэд Монгол орон нийтээрээ бичиг үсэгт тайлагдаж, 1961 онд НҮБ-ын гишүүнээр элссэн юм."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.famous-mongolians",
+      "key": "mongolia.famous-mongolians.g6",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which world-famous Mongolian rock band, known for using traditional throat singing and horsehead fiddles, topped the Billboard World Albums chart in 2019?",
+        "mn": "Хөөмий болон морин хуурыг рок хөгжимтэй хослуулж, 2019 онд Биллбоардын Дэлхийн цомгийн чартыг тэргүүлсэн дэлхийд алдартай Монголын рок хамтлаг аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Altan Urag",
+          "mn": "Алтан Ураг"
+        },
+        {
+          "en": "Hurd",
+          "mn": "Хурд"
+        },
+        {
+          "en": "The Hu",
+          "mn": "The Hu"
+        },
+        {
+          "en": "Haranga",
+          "mn": "Харанга"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Hu reached number one on the Billboard World Albums chart with their debut album 'Gereg'. They call their music style 'Hunnu Rock'.",
+        "mn": "The Hu хамтлаг анхны 'Гэрэг' цомгоороо Billboard-ын Дэлхийн цомгийн чартыг тэргүүлсэн юм. Тэд өөрсдийн хөгжмийн урсгалыг 'Хүннү рок' гэж нэрлэдэг."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.national-sports",
+      "key": "mongolia.national-sports.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In Mongolian National Wrestling, what are the two main pieces of traditional clothing worn by the wrestlers?",
+        "mn": "Монгол үндэсний бөхчүүд барилдахдаа өмсдөг уламжлалт өмсгөлийг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Zodog and Deel",
+          "mn": "Зодог, дээл"
+        },
+        {
+          "en": "Shuudag and Gutal",
+          "mn": "Шуудаг, гутал"
+        },
+        {
+          "en": "Deel and Gutal",
+          "mn": "Дээл, гутал"
+        },
+        {
+          "en": "Zodog and Shuudag",
+          "mn": "Зодог, шуудаг"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Wrestlers wear the 'zodog' (sleeves and back piece) and 'shuudag' (tight shorts) made of durable fabric. This attire ensures a fair grip and honors the ancient traditions of the sport.",
+        "mn": "Бөхчүүд уламжлалт бат бөх материалаар хийсэн зодог (ханцуй, ар нурууг халхалсан өмсгөл) болон шуудаг (богино өмд)-ийг өмсдөг. Энэхүү өмсгөл нь барьц авахад шударга байх нөхцөлийг бүрдүүлдэг."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.national-sports",
+      "key": "mongolia.national-sports.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of the following is NOT an official state title awarded to a wrestler in the Mongolian National Naadam?",
+        "mn": "Монгол үндэсний их баяр наадмаар бөхчүүдэд олгодог улсын цолнуудаас аль нь ОРОХГҮЙ вЭ?"
+      },
+      "choices": [
+        {
+          "en": "Shonkhor (Falcon)",
+          "mn": "Шонхор"
+        },
+        {
+          "en": "Nachin (Falcon)",
+          "mn": "Начин"
+        },
+        {
+          "en": "Khartsaga (Hawk)",
+          "mn": "Харцага"
+        },
+        {
+          "en": "Zaan (Elephant)",
+          "mn": "Заан"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "While 'Nachin' (Falcon), 'Khartsaga' (Hawk), 'Zaan' (Elephant), 'Arslan' (Lion), and 'Avarga' (Champion) are official state titles, 'Shonkhor' is not a recognized state title in modern national wrestling.",
+        "mn": "Улсын наадамд начин, харцага, заан, арслан, аварга цолыг албан ёсоор олгодог бөгөөд 'Шонхор' нь улсын цолонд багтдаггүй байна."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.national-sports",
+      "key": "mongolia.national-sports.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which horse age category in Naadam is highly revered, with spectators believing that being covered in its dust brings good fortune?",
+        "mn": "Монгол наадмын хурдан морины уралдаануудаас аль насны уралдаан хамгийн их хүндлэгддэг бөгөөд тоосонд нь дарагдвал хийморь сэргэдэг гэж үздэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Daaga (2-year-olds)",
+          "mn": "Даага"
+        },
+        {
+          "en": "Ikh Nas (6+ years)",
+          "mn": "Их нас"
+        },
+        {
+          "en": "Soyolon (5-year-olds)",
+          "mn": "Соёолон"
+        },
+        {
+          "en": "Azarga (Stallions)",
+          "mn": "Азарга"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Soyolon (five-year-old horse) race is considered the most energetic. Thousands of spectators gather at the finish line just to touch or be covered in the dust of the winning Soyolon.",
+        "mn": "Таван настай соёолон морины уралдаан хамгийн их эрч хүчтэй уралдаанд тооцогддог. Наадамчид соёолонгийн тоосонд орж хийморио сэргээхийг бэлгэдэн уралдааны бариа руу олноороо тэмүүлдэг."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.national-sports",
+      "key": "mongolia.national-sports.g4",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Who traditionally rides the racing horses in the national Naadam festival?",
+        "mn": "Монгол үндэсний баяр наадмын хурдан морийг уламжлал ёсоор хэн унаж уралддаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Foreign tourists",
+          "mn": "Гадаадын жуулчид"
+        },
+        {
+          "en": "Professional adult jockeys",
+          "mn": "Мэргэжлийн насанд хүрсэн унаачид"
+        },
+        {
+          "en": "Children (usually 7-12)",
+          "mn": "Хүүхдүүд (ихэвчлэн 7-12 насны)"
+        },
+        {
+          "en": "Only retired wrestlers",
+          "mn": "Зөвхөн зодог тайлсан бөхчүүд"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Young children ride the horses to minimize the weight load, allowing the horses to cover long distances of up to 28 kilometers safely and at maximum speed.",
+        "mn": "Хурдан морины унаач хүүхдүүд нь морины нуруунд ирэх ачааг хөнгөлж, урт зайд (28 км хүртэл) хурдан давхих боломжийг олгодог байна."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.national-sports",
+      "key": "mongolia.national-sports.g5",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the shooting distance for male archers in the Mongolian National Naadam archery competition?",
+        "mn": "Монгол үндэсний сур харваанд эрэгтэй харваачид хэдэн метрийн зайнаас харвадаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "65 meters",
+          "mn": "65 метр"
+        },
+        {
+          "en": "75 meters",
+          "mn": "75 метр"
+        },
+        {
+          "en": "50 meters",
+          "mn": "50 метр"
+        },
+        {
+          "en": "100 meters",
+          "mn": "100 метр"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Male archers shoot from a distance of 75 meters, while female archers shoot from 65 meters. They aim at small leather cylinders called 'khana' and 'khasag'.",
+        "mn": "Эрэгтэй харваачид 75 метрийн зайнаас харвадаг бол эмэгтэйчүүд 65 метрийн зайнаас суран сүлжмэл бай болох сурыг харваж цэц мэргэнээ сорьдог."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.national-sports",
+      "key": "mongolia.national-sports.g6",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In Shagai Shooting (Knucklebone shooting), what material is traditionally used to flick the 'sum' (bullet) towards the targets?",
+        "mn": "Шагайн харваанд бай болох шагайг онохын тулд сумыг юуны тусламжтайгаар нясалж харвадаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "A piece of deer horn",
+          "mn": "Хашлага дээрх хаш модоор"
+        },
+        {
+          "en": "A leather strip",
+          "mn": "Суран туузаар"
+        },
+        {
+          "en": "A small iron plate",
+          "mn": "Төмөр ялтсаар"
+        },
+        {
+          "en": "A wooden bowstring",
+          "mn": "Модон хөвчөөр"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Players place the bullet (usually made of deer horn) on a smooth wooden guide called 'khashlaga' and flick it with their finger to hit the targets.",
+        "mn": "Шагайн харваачид хашлага хэмээх модон суурь дээр бугын эврээр хийсэн сумыг тавьж, хуруугаараа няслан байг онодог уламжлалтай."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.national-sports",
+      "key": "mongolia.national-sports.g7",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In the famous legend about the origins of the Morin Khuur (horsehead fiddle), who is the legendary character who created the instrument after his winged horse was killed?",
+        "mn": "Морин хуур хөгжмийн үүслийн тухай домогт жигүүрт хүлгээ үхсэний дараа анхны хуурыг урласан гэж гардаг дүр хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Khökhöö Namjil",
+          "mn": "Хөхөө Намжил"
+        },
+        {
+          "en": "Erkhii Mergen",
+          "mn": "Эрхий мэргэн"
+        },
+        {
+          "en": "Jangar",
+          "mn": "Жангар"
+        },
+        {
+          "en": "Khukhdei Mergen",
+          "mn": "Хүхдэй мэргэн"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "According to legend, Khökhöö Namjil loved his winged horse so much that after an evil woman cut its wings, causing its death, he carved its head out of wood and used its tail hair to create the Morin Khuur.",
+        "mn": "Домогт өгүүлснээр Хөхөө Намжил өөрийн хайрт жигүүрт морио хорон санаат эмэгтэйд хорлогдон үхсэний дараа толгойг нь модоор сийлж, сүүлнийх нь хялгасаар утас хийн морин хуурыг бүтээжээ."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.national-sports",
+      "key": "mongolia.national-sports.g8",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In the ancient legend of 'Erkhii Mergen', how many suns did the master archer vow to shoot down to save the Earth from burning?",
+        "mn": "Эртний уламжлалт 'Эрхий мэргэн'-ий домогт гардаг мэргэн харваач дэлхийг халуун төөнөлтөөс аврахын тулд хэдэн нарыг харвахаар тангарагладаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Three suns",
+          "mn": "Гурван нар"
+        },
+        {
+          "en": "Five suns",
+          "mn": "Таван нар"
+        },
+        {
+          "en": "Nine suns",
+          "mn": "Есөн нар"
+        },
+        {
+          "en": "Seven suns",
+          "mn": "Долоон нар"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Erkhii Mergen vowed to shoot down all seven suns that were burning the Earth. He successfully shot down six, but the last one hid behind a mountain, which is why we only have one sun today.",
+        "mn": "Эрхий мэргэн дэлхийг шатааж байсан долоон нарыг харвахаар тангараглаж, зургааг нь оносон боловч сүүлчийн нар уулын цаагуур орж нуугдсан тул өнөөдөр ганц нар үлдсэн гэдэг."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.national-sports",
+      "key": "mongolia.national-sports.g9",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What animal did Erkhii Mergen turn into after failing to shoot down the final sun in the famous folk tale?",
+        "mn": "Эрхий мэргэн домогт гардаг сүүлчийн нарыг харваж чадалгүй тангарагтаа хүрээгүй тул ямар амьтан болон хувирдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Marmot (Tarbagan)",
+          "mn": "Тарвага"
+        },
+        {
+          "en": "Horse",
+          "mn": "Морь"
+        },
+        {
+          "en": "Wolf",
+          "mn": "Чоно"
+        },
+        {
+          "en": "Eagle",
+          "mn": "Бүргэд"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "After failing his final shot because a swallow flew in front of his arrow, Erkhii Mergen cut off his thumbs and turned into a marmot (tarbagan), living in a dark hole forever.",
+        "mn": "Харвах мөчид нь хараацай шувуу урдуур нь орж саад болсноор сүүлчийн нарыг алдсан тул тэрээр эрхий хуруугаа огтолж, тарвага болон хувирч нүхэнд амьдрах болжээ."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.national-sports",
+      "key": "mongolia.national-sports.g10",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Unlike professional international wrestling, what is the weight class division in traditional Mongolian wrestling?",
+        "mn": "Олон улсын чөлөөт бөхөөс ялгаатай нь Монгол үндэсний бөхөд жингийн ангилал хэрхэн хуваарилагддаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Divided into increments of 10 kg",
+          "mn": "10 кг-ын зөрүүтэйгээр хуваадаг"
+        },
+        {
+          "en": "Based on the wrestler's height only",
+          "mn": "Зөвхөн өндрөөр нь ангилдаг"
+        },
+        {
+          "en": "Lightweight, Middleweight, Heavyweight",
+          "mn": "Хөнгөн, дунд, хүнд жин гэж хуваадаг"
+        },
+        {
+          "en": "There are no weight classes",
+          "mn": "Жингийн ангилал байдаггүй"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Mongolian wrestling has no weight classes and no time limits. A smaller, agile wrestler can defeat a much larger opponent using clever techniques.",
+        "mn": "Монгол бөхөд жингийн ангилал болон цагийн хязгаарлалт байдаггүй. Энэ нь жижиг биетэй бөх уран мэхээр том биетэй бөхийг давах боломжийг олгодог онцлогтой."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.national-sports",
+      "key": "mongolia.national-sports.g11",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which famous Mongolian heroic epic tells the story of a legendary khan and his warriors who defeat mythical multi-headed monsters (mangas)?",
+        "mn": "Олон толгойтой мангасыг даран устгаж буй баатарлаг ханы тухай өгүүлдэг Монголын алдарт баатарлаг туульс аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Geser",
+          "mn": "Гэсэр"
+        },
+        {
+          "en": "Khөхөө Namjil",
+          "mn": "Хөхөө Намжил"
+        },
+        {
+          "en": "The Secret History of the Mongols",
+          "mn": "Монголын нууц товчоо"
+        },
+        {
+          "en": "Khukhdei Mergen",
+          "mn": "Хүхдэй мэргэн"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Epic of King Geser is a monumental epic shared across Central Asia. Geser is sent from heaven to Earth to defeat evil monsters and restore peace.",
+        "mn": "Гэсэр ханы тууль нь Төв Азийн ард түмний дунд өргөн тархсан баатарлаг тууль бөгөөд тэнгэрээс илгээгдсэн Гэсэр хан дэлхий дээрх хорон муу мангасуудыг даран амар амгаланг тогтоодог."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.national-sports",
+      "key": "mongolia.national-sports.g12",
+      "difficulty": 3,
+      "prompt": {
+        "en": "What is the name of the ancient Mongolian constellation legend associated with three deer hunted by a mythical archer?",
+        "mn": "Монголын эртний домог зүйд гурван бугыг хөөж буй мэргэн харваачийн тухай өгүүлдэг одны ордын нэршил юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Khukhdei Mergen (Orion's Belt)",
+          "mn": "Хүхдэй мэргэн"
+        },
+        {
+          "en": "The Golden Peg (Polaris)",
+          "mn": "Алтан гадас"
+        },
+        {
+          "en": "The Seven Buddhas (Ursa Major)",
+          "mn": "Долоон бурхан"
+        },
+        {
+          "en": "Tengeriin Zaadas (Milky Way)",
+          "mn": "Тэнгэрийн заадас"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "According to the legend of Khukhdei Mergen, he is a cosmic archer hunting three female deer, which represents the three bright stars in Orion's Belt.",
+        "mn": "Хүхдэй мэргэний домогт түүнийг тэнгэрийн гурван маралыг (бугыг) хөөж буй анчин гэж дүрсэлдэг бөгөөд энэ нь Orion-ы ордын гурван тод одтой холбогддог."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.mongolian-folk-tales",
+      "key": "mongolia.mongolian-folk-tales.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "According to Mongolian legend, after a jealous woman cut off the wings of Khökhöö Namjil's magical horse, causing its tragic death, he used its bones, skin, and tail hair to create which traditional musical instrument?",
+        "mn": "Домогт өгүүлснээр, атаархуу эмэгтэй Хөхөө Намжилын шидэт далавчит морины далавчийг хайчлан алсны дараа, тэрээр мориныхоо яс, арьс, шир, хялгасаар ямар үндэсний хөгжмийн зэмсгийг урласан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Morin khuur",
+          "mn": "Морин хуур"
+        },
+        {
+          "en": "Yatga",
+          "mn": "Ятга"
+        },
+        {
+          "en": "Limbe",
+          "mn": "Лимбэ"
+        },
+        {
+          "en": "Shanz",
+          "mn": "Шанз"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Grieving the loss of his beloved winged horse, Khökhöö Namjil carved its head from wood and used its tail hair for strings, creating the first horsehead fiddle.",
+        "mn": "Хайртай далавчит морио алдсан Хөхөө Намжил мориныхоо толгойг модоор сийлж, хялгасаар нь чавхдас хийснээр анхны морин хуур үүссэн түүхтэй."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.mongolian-folk-tales",
+      "key": "mongolia.mongolian-folk-tales.g2",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In Mongolian national wrestling (Undesnii Bukh), wrestlers earn prestigious titles based on their victories in the Naadam festival. Which of the following is NOT an official title awarded to a wrestler?",
+        "mn": "Үндэсний бөхөөр наадамд давсан даваанаасаа хамаарч улсын цол олгодог. Дараах цолнуудаас аль нь үндэсний бөхийн албан ёсны цол биш вэ?"
+      },
+      "choices": [
+        {
+          "en": "Chono (Wolf)",
+          "mn": "Чоно"
+        },
+        {
+          "en": "Nachin (Falcon)",
+          "mn": "Начин"
+        },
+        {
+          "en": "Khartsaga (Hawk)",
+          "mn": "Харцага"
+        },
+        {
+          "en": "Garid (Garuda)",
+          "mn": "Гарид"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Wrestling titles are named after powerful birds and animals like falcons, hawks, elephants, lions, and mythical Garudas, but 'Chono' (Wolf) is not one of them.",
+        "mn": "Үндэсний бөхийн цолыг хүч чадал, шаламгай байдлыг бэлгэдэж начин, харцага, заан, арслан, аварга, гарид шувууны нэрээр өгдөг бөгөөд 'Чоно' цол байдаггүй."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.mongolian-folk-tales",
+      "key": "mongolia.mongolian-folk-tales.g3",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In the famous legend of Erkhii Mergen, the master archer who vowed to shoot down the seven suns burning the Earth, what animal does he transform into after failing to shoot the last sun and cutting off his thumbs?",
+        "mn": "Дэлхийг шатааж байсан долоон нарыг харвахаар тангарагласан Эрхий мэргэний домогт тэрээр хамгийн сүүлчийн нарыг алдаж харваад, эрхий хуруугаа огтлон ямар амьтан болон хувирдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Marmot",
+          "mn": "Тарвага"
+        },
+        {
+          "en": "Wolf",
+          "mn": "Чоно"
+        },
+        {
+          "en": "Corsac fox",
+          "mn": "Хярс"
+        },
+        {
+          "en": "Badger",
+          "mn": "Дорго"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "After failing to shoot the seventh sun because a swallow blocked his arrow, Erkhii Mergen cut off his thumbs, lived in a dark hole, and turned into a marmot.",
+        "mn": "Долоо дахь нарыг харвах үед хараацай шувуу урдуур нь орж хааснаас болж алдсан тул Эрхий мэргэн эрхий хуруугаа огтолж, харанхуй нүхэнд амьдрах тарвага болон хувирчээ."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.mongolian-folk-tales",
+      "key": "mongolia.mongolian-folk-tales.g4",
+      "difficulty": 2,
+      "prompt": {
+        "en": "During the Naadam festival, horses race in six age categories. Which category refers to the highly anticipated five-year-old horses, believed to bring great energy and luck to those covered in their sweat?",
+        "mn": "Үндэсний их баяр наадмаар хурдан морьдыг зургаан насаар уралдуулдаг. Хөлсийг нь хүртвэл хийморь сэргэдэг хэмээн үздэг, хамгийн их хүлээлт үүсгэдэг 5 настай морьдын уралдааныг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Soyolon",
+          "mn": "Соёолон"
+        },
+        {
+          "en": "Shudlen",
+          "mn": "Шүдлэн"
+        },
+        {
+          "en": "Khyazaalan",
+          "mn": "Хязаалан"
+        },
+        {
+          "en": "Daaga",
+          "mn": "Даага"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Soyolon (five-year-old) race is often considered the most exciting and prestigious. Spectators gather at the finish line to catch and smear the dust and sweat of these horses for good fortune.",
+        "mn": "Соёолон насны морины уралдаан нь наадмын хамгийн сонирхолтой, хүлээлт үүсгэсэн уралдаан бөгөөд түрүүлж, айрагдсан соёолонгийн хөлсийг хүртэхээр хүмүүс олноор цугладаг."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.mongolian-folk-tales",
+      "key": "mongolia.mongolian-folk-tales.g5",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The heroic Epic of Jangar describes a utopian land where there is no winter, no death, and everyone remains forever young at twenty-five years of age. What is the name of this mythical country?",
+        "mn": "Баатарлаг Жангар туульд өвөлгүй, үхэлгүй, хүн бүр мөнхийн 25 настай залуугаараа байдаг амар амгалан, аз жаргалын орныг хэрхэн нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Bumba",
+          "mn": "Бумба"
+        },
+        {
+          "en": "Shambhala",
+          "mn": "Шамбала"
+        },
+        {
+          "en": "Altai",
+          "mn": "Алтай"
+        },
+        {
+          "en": "Khan Tengri",
+          "mn": "Хан Тэнгэр"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The land of Bumba is a legendary paradise defended by Jangar and his twelve brave warriors. It represents the ancient nomadic dream of an ideal society.",
+        "mn": "Бумбын орон нь баатар Жангар болон түүний арван хоёр хүчтэн хамгаалан суудаг, өвөлгүй, өтлөхгүй мөнхийн диваажингийн орон юм."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.mongolian-folk-tales",
+      "key": "mongolia.mongolian-folk-tales.g6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Shagai, or sheep anklebone shooting, is a traditional sport and game. The four sides of a shagai bone represent four different domestic animals. Which of these animals is NOT represented on a shagai bone?",
+        "mn": "Шагай харвах болон шагайгаар тоглох нь монголчуудын уламжлалт наадам юм. Шагайн дөрвөн тал нь дөрвөн өөр малыг төлөөлдөг бол дараах амьтдын аль нь шагайн талд багтдаггүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Goat",
+          "mn": "Ямаа"
+        },
+        {
+          "en": "Horse",
+          "mn": "Морь"
+        },
+        {
+          "en": "Camel",
+          "mn": "Тэмээ"
+        },
+        {
+          "en": "Yak",
+          "mn": "Сарлаг"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The four sides of a shagai bone represent the horse, camel, sheep, and goat. The yak is not represented on the bone sides.",
+        "mn": "Шагайн дөрвөн талыг морь, тэмээ, хонь, ямаа гэж нэрлэдэг бөгөөд таван хошуу малын нэг болох үхэр (сарлаг) энд багтдаггүй байна."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.mongolian-folk-tales",
+      "key": "mongolia.mongolian-folk-tales.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In Mongolian celestial mythology, the hunter Khukhdei Mergen is associated with which prominent winter constellation, depicted as chasing three deer across the night sky?",
+        "mn": "Монголчуудын одны тухай домог ярианд тэнгэрийн анчин Хүхдэй мэргэн нь шөнийн тэнгэрт гурван бугыг хөөн харваж буйгаар дүрслэгддэг бөгөөд ямар ордтой холбогддог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Orion",
+          "mn": "Орион"
+        },
+        {
+          "en": "Taurus",
+          "mn": "Үхрийн орд"
+        },
+        {
+          "en": "Ursa Major",
+          "mn": "Долоон бурхан"
+        },
+        {
+          "en": "Cassiopeia",
+          "mn": "Гурван марал"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Khukhdei Mergen represents the constellation Orion. His arrow is said to have pierced the three deer, which are represented by the stars of Orion's Belt (historically called the Three Maral Deer in Mongolian).",
+        "mn": "Хүхдэй мэргэн нь Орион одны ордтой холбогддог бөгөөд түүний хөөж буй гурван буга нь Орионы бүс буюу Гурван марал од юм."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.mongolian-folk-tales",
+      "key": "mongolia.mongolian-folk-tales.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The Epic of Geser is a massive heroic cycle shared across Inner Asia. According to the myth, why was Geser sent down from the heavens to Earth?",
+        "mn": "Төв Азийн ард түмний дунд өргөн тархсан 'Гэсэр' туулийн гол баатар Гэсэр нь тэнгэрийн орноос дэлхий рүү ямар зорилгоор илгээгддэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "To defeat monsters and demons",
+          "mn": "Чөтгөр, мангасыг дарах"
+        },
+        {
+          "en": "To find the magical horse",
+          "mn": "Шидэт морийг олох"
+        },
+        {
+          "en": "To shoot down the suns",
+          "mn": "Нарыг харваж унагах"
+        },
+        {
+          "en": "To rule the land of Bumba",
+          "mn": "Бумбын орныг захирах"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Geser Khan was sent by the celestial deities to Earth to vanquish various demons, monsters, and evil kings, bringing peace and justice to humankind.",
+        "mn": "Гэсэр хаан нь дэлхий дээрх чөтгөр, мангас, хорон санаат хаадыг даран сөнөөж, хүн төрөлхтөнд амар амгаланг тогтоохоор тэнгэрээс илгээгддэг байна."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.mongolian-folk-tales",
+      "key": "mongolia.mongolian-folk-tales.g9",
+      "difficulty": 3,
+      "prompt": {
+        "en": "To earn the prestigious title of 'Garid' (representing the mythical Garuda bird) at the National Naadam Festival, a wrestler must win how many rounds?",
+        "mn": "Үндэсний их баяр наадамд хэд давж шөвгөрсөн бөхөд домогт шувууны нэрээр нэрлэгдсэн 'Гарид' цолыг олгодог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Nine rounds",
+          "mn": "Ес давах"
+        },
+        {
+          "en": "Six rounds",
+          "mn": "Зургаа давах"
+        },
+        {
+          "en": "Eight rounds",
+          "mn": "Найм давах"
+        },
+        {
+          "en": "Seven rounds",
+          "mn": "Долоо давах"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "A wrestler who wins eight rounds (reaching the finals in a standard 512-wrestler tournament) is awarded the title of Garid. Winning the entire tournament (nine rounds) earns the title of Arslan (Lion).",
+        "mn": "Улсын наадамд 512 бөх барилдахад найм давж үзүүрлэсэн бөхөд 'Гарид' цол олгодог бол ес давж түрүүлбэл 'Арслан' цол олгодог."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.mongolian-folk-tales",
+      "key": "mongolia.mongolian-folk-tales.g10",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In the traditional Naadam archery competition (Surn Kharvaa), what is the standard shooting distance for male archers?",
+        "mn": "Үндэсний их баяр наадмын сур харваанд эрэгтэй харваачид хэдэн метрийн зайнаас бай сурыг харвадаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "50 meters",
+          "mn": "50 метр"
+        },
+        {
+          "en": "60 meters",
+          "mn": "60 метр"
+        },
+        {
+          "en": "100 meters",
+          "mn": "100 метр"
+        },
+        {
+          "en": "75 meters",
+          "mn": "75 метр"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "In national archery, men shoot from a distance of 75 meters, while women shoot from 65 meters. They aim at leather cylinder targets called 'sur' placed on the ground.",
+        "mn": "Үндэсний сур харваанд эрчүүд 75 метрийн зайнаас, эмэгтэйчүүд 65 метрийн зайнаас газар өрж тавьсан суран байг харвадаг."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.mongolian-folk-tales",
+      "key": "mongolia.mongolian-folk-tales.g11",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which is the youngest age category of horses that compete in the official Naadam races, running the shortest distance of approximately 10–12 kilometers?",
+        "mn": "Үндэсний их баяр наадмын хурдан морины уралдаанд хамгийн бага зайд (10-12 км) уралддаг, хамгийн залуу насны морьдыг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Soyolon",
+          "mn": "Соёолон"
+        },
+        {
+          "en": "Daaga",
+          "mn": "Даага"
+        },
+        {
+          "en": "Shudlen",
+          "mn": "Шүдлэн"
+        },
+        {
+          "en": "Khyazaalan",
+          "mn": "Хязаалан"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Daaga are two-year-old colts. Because they are young, they race the shortest distance of 10 to 12 kilometers to prevent overexertion.",
+        "mn": "Хоёр настай хурдан морийг даага гэх бөгөөд нас нь бага тул хамгийн богино зайд буюу 10-12 км-т уралдуулдаг."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.mongolian-folk-tales",
+      "key": "mongolia.mongolian-folk-tales.g12",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In the traditional game of Shagai Kharvaa (anklebone shooting), players use a small wooden guide to shoot a domino-like piece. What is the name of the target line of bones they aim to hit?",
+        "mn": "Шагай харвах уламжлалт наадамд харваачдын онохоор зорьдог, өрж тавьсан шагайн цуваа буюу байг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Zurkh",
+          "mn": "Зүрх"
+        },
+        {
+          "en": "Sum",
+          "mn": "Сум"
+        },
+        {
+          "en": "Tobokh",
+          "mn": "Товх"
+        },
+        {
+          "en": "Khasaa",
+          "mn": "Хасаа"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The target row of anklebones is called the 'Khasaa'. Players shoot a small bone piece called 'sum' off a wooden board to flick the target bones out of the zone.",
+        "mn": "Харвах зурхайн голд өрж тавьсан шагайн цувааг 'Хасаа' гэх бөгөөд харваачид модон хашлага дээрээс сумаар нясалж онодог."
+      }
+    }
+  ]
+}

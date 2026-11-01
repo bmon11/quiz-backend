@@ -1,0 +1,967 @@
+{
+  "lessons": [
+    {
+      "topicSlug": "science",
+      "key": "science.the-periodic-table",
+      "order": 4,
+      "title": {
+        "en": "The Periodic Table",
+        "mn": "Үелэх систем"
+      },
+      "summary": {
+        "en": "The iconic layout of chemical elements organized by their atomic structure and properties.",
+        "mn": "Химийн элементүүдийг атомын бүтэц, шинж чанараар нь ангилсан алдарт үелэх систем."
+      },
+      "body": {
+        "en": "Created in 1869 by Dmitri Mendeleev, the periodic table organizes all known elements. Mendeleev famously left gaps for elements that had not yet been discovered, predicting their properties with astonishing accuracy. Today, the table is a fundamental tool in chemistry, continuously updated as scientists synthesize new, superheavy elements in laboratories.",
+        "mn": "Дмитрий Менделеевийн 1869 онд зохиосон үелэх систем нь бүх мэдэгдэж буй элементүүдийг цэгцэлдэг. Менделеев нээгдээгүй байсан элементүүдийн байрыг хоосон үлдээж, тэдгээрийн шинж чанарыг гайхалтай нарийвчлалтайгаар таамаглаж байжээ. Өнөөдөр энэхүү хүснэгт нь химийн шинжлэх ухааны хамгийн чухал хэрэгсэл бөгөөд эрдэмтэд шинэ хүнд элементүүдийг гарган авах тусам шинэчлэгдсээр байна."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "🎈",
+            "title": {
+              "en": "Helium",
+              "mn": "Гели"
+            },
+            "facts": [
+              {
+                "en": "Discovered in the Sun's spectrum before it was found on Earth.",
+                "mn": "Дэлхий дээр олдохоосоо өмнө Нарны спектрээс анх илрүүлэгдсэн."
+              },
+              {
+                "en": "It is the second lightest and second most abundant element in the universe.",
+                "mn": "Энэ нь орчлон ертөнцийн хоёр дахь хамгийн хөнгөн бөгөөд хамгийн элбэг элемент юм."
+              }
+            ],
+            "subtitle": {
+              "en": "Noble Gas",
+              "mn": "Идэвхгүй хий"
+            }
+          },
+          {
+            "icon": "💡",
+            "title": {
+              "en": "Tungsten",
+              "mn": "Вольфрам"
+            },
+            "facts": [
+              {
+                "en": "Has the highest melting point of all discovered elements (3,422 °C).",
+                "mn": "Бүх элементүүдээс хамгийн өндөр хайлах температуртай (3,422 °C)."
+              },
+              {
+                "en": "Its chemical symbol 'W' comes from its alternative German name, Wolfram.",
+                "mn": "Химийн тэмдэглэгээ 'W' нь герман хэлний Вольфрам гэх нэрнээс гаралтай."
+              }
+            ],
+            "subtitle": {
+              "en": "Transition Metal",
+              "mn": "Шилжилтийн металл"
+            }
+          },
+          {
+            "icon": "🦴",
+            "title": {
+              "en": "Calcium",
+              "mn": "Кальци"
+            },
+            "facts": [
+              {
+                "en": "Essential for living organisms, especially in cell physiology and bone formation.",
+                "mn": "Амьд биетэд, ялангуяа эсийн үйл ажиллагаа болон ясны бүтэц бүрэлдэхэд нэн чухал."
+              },
+              {
+                "en": "It is the fifth most abundant element in the Earth's crust.",
+                "mn": "Дэлхийн царцдаст хамгийн элбэг орших тав дахь элемент юм."
+              }
+            ],
+            "subtitle": {
+              "en": "Alkaline Earth Metal",
+              "mn": "Газрын шүлтийн металл"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "The letter 'J' is the only letter in the alphabet that does not appear on the periodic table.",
+          "mn": "\"J\" үсэг нь үелэх системд огт ордоггүй цорын ганц латин үсэг юм."
+        },
+        {
+          "en": "Mendeleev claimed the arrangement of the elements came to him in a dream after falling asleep at his desk.",
+          "mn": "Менделеев элементүүдийн байршлыг ширээнийхээ ард унтаж байхдаа зүүдэндээ харсан гэж ярьдаг байжээ."
+        }
+      ]
+    },
+    {
+      "topicSlug": "science",
+      "key": "science.famous-women-in-science",
+      "order": 5,
+      "title": {
+        "en": "Famous Women in Science",
+        "mn": "Шинжлэх ухааны салбарын алдартай эмэгтэйчүүд"
+      },
+      "summary": {
+        "en": "The pioneering female scientists who broke barriers and reshaped our understanding of the universe.",
+        "mn": "Шинжлэх ухааны салбарт саад бэрхшээлийг даван туулж, орчлон ертөнцийн талаарх бидний ойлголтыг өөрчилсөн анхдагч эмэгтэй эрдэмтэд."
+      },
+      "body": {
+        "en": "Throughout history, women have made groundbreaking discoveries in science despite facing systemic exclusion. From uncovering the structure of DNA to discovering radioactivity, these pioneers laid the foundation for modern medicine, physics, and space exploration. Their stories inspire generations of researchers worldwide.",
+        "mn": "Түүхийн туршид эмэгтэйчүүд нийгмийн олон саад бэрхшээлийг үл харгалзан шинжлэх ухаанд түүхэн нээлтүүдийг хийсээр ирсэн. ДНХ-ийн бүтцийг тайлахаас эхлээд цацраг идэвхт чанарыг нээх хүртэл эдгээр анхдагчид орчин үеийн анагаах ухаан, физик, сансар судлалын үндэс суурийг тавьсан юм."
+      },
+      "visual": {
+        "kind": "timeline",
+        "items": [
+          {
+            "when": {
+              "en": "1903",
+              "mn": "1903 он"
+            },
+            "title": {
+              "en": "Marie Curie's First Nobel",
+              "mn": "Мари Кюригийн анхны Нобелийн шагнал"
+            },
+            "body": {
+              "en": "Marie Curie became the first woman to win a Nobel Prize, sharing the Physics prize for her research on radiation.",
+              "mn": "Мари Кюри цацраг туяаны судалгаагаараа Физикийн салбарт Нобелийн шагнал хүртэж, тус шагналыг авсан анхны эмэгтэй болов."
+            }
+          },
+          {
+            "when": {
+              "en": "1943",
+              "mn": "1943 он"
+            },
+            "title": {
+              "en": "Lise Meitner's Recognition",
+              "mn": "Лиза Мейтнерийн нээлт"
+            },
+            "body": {
+              "en": "Though excluded from the Nobel Prize, Meitner's work was key in discovering nuclear fission, the splitting of atomic nuclei.",
+              "mn": "Нобелийн шагнал авч чадаагүй ч Мейтнерийн судалгаа нь атомын цөм хуваагдах буюу цөмийн задралыг нээхэд гол үүрэг гүйцэтгэсэн юм."
+            }
+          },
+          {
+            "when": {
+              "en": "1967",
+              "mn": "1967 он"
+            },
+            "title": {
+              "en": "Discovery of Pulsars",
+              "mn": "Пульсарыг нээсэн нь"
+            },
+            "body": {
+              "en": "Jocelyn Bell Burnell discovered pulsars, rapidly rotating neutron stars, during her postgraduate studies at Cambridge.",
+              "mn": "Жоселин Белл Бёрнелл Кембрижид докторантурт суралцаж байхдаа маш хурдан эргэлддэг нейтрон од буюу пульсарыг нээжээ."
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "Marie Curie remains the only person to win Nobel Prizes in two different scientific fields: Physics and Chemistry.",
+          "mn": "Мари Кюри нь Физик болон Хими гэсэн шинжлэх ухааны өөр өөр хоёр салбарт Нобелийн шагнал хүртсэн цорын ганц хүн хэвээр байна."
+        },
+        {
+          "en": "Rosalind Franklin's famous 'Photo 51' was crucial for discovering the double helix structure of DNA, though she was largely uncredited at the time.",
+          "mn": "Розалинд Франклины авсан алдарт 'Фото 51' зураг нь ДНХ-ийн мушгиа бүтцийг нээхэд шийдвэрлэх үүрэг гүйцэтгэсэн ч тухайн үед түүний гавьяаг дурдаагүй өнгөрчээ."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "topicSlug": "science",
+      "lessonKey": "science.the-periodic-table",
+      "key": "science.the-periodic-table.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which letter of the alphabet is the only one that does not appear anywhere on the periodic table?",
+        "mn": "Англи цагаан толгойн үсгүүдээс үелэх системд огт ашиглагддаггүй цорын ганц үсэг аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "J",
+          "mn": "J"
+        },
+        {
+          "en": "Q",
+          "mn": "Q"
+        },
+        {
+          "en": "X",
+          "mn": "X"
+        },
+        {
+          "en": "Z",
+          "mn": "Z"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The letter 'J' is completely absent from the periodic table. While 'Q' is also extremely rare, it was temporarily used in some systematic element names like Ununquadium.",
+        "mn": "'J' үсэг нь үелэх системд огт ордоггүй цорын ганц үсэг юм. 'Q' үсэг маш ховор боловч зарим түр зуурын системчилсэн нэршилд ашиглагддаг байжээ."
+      }
+    },
+    {
+      "topicSlug": "science",
+      "lessonKey": "science.the-periodic-table",
+      "key": "science.the-periodic-table.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which element, crucial for incandescent light bulb filaments, has the highest melting point of all known elements at 3,422 °C?",
+        "mn": "Улайсах чийдэнгийн утсанд ашиглагддаг, бүх элементүүдээс хамгийн өндөр буюу 3,422 °C-т хайлдаг металл аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Platinum",
+          "mn": "Платинум"
+        },
+        {
+          "en": "Titanium",
+          "mn": "Титан"
+        },
+        {
+          "en": "Tungsten",
+          "mn": "Вольфрам"
+        },
+        {
+          "en": "Osmium",
+          "mn": "Осмий"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Tungsten has the highest melting point of all elements. Its chemical symbol 'W' comes from its German name, Wolfram.",
+        "mn": "Вольфрам нь хамгийн өндөр хайлах температуртай элемент юм. Түүний химийн тэмдэглэгээ 'W' нь герман хэлний \"Wolfram\" гэх нэрнээс гаралтай."
+      }
+    },
+    {
+      "topicSlug": "science",
+      "lessonKey": "science.the-periodic-table",
+      "key": "science.the-periodic-table.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which element was discovered and named in the Sun's light spectrum before it was ever found on Earth?",
+        "mn": "Дэлхий дээр олдохоосоо өмнө Нарны гэрлийн спектрээс анх илрүүлж, нэрлэсэн элемент аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Helium",
+          "mn": "Гели"
+        },
+        {
+          "en": "Argon",
+          "mn": "Аргон"
+        },
+        {
+          "en": "Hydrogen",
+          "mn": "Устөрөгч"
+        },
+        {
+          "en": "Neon",
+          "mn": "Неон"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Helium was detected during a solar eclipse in 1868, named after Helios, the Greek god of the Sun. It was only isolated on Earth decades later.",
+        "mn": "Гелийг 1868 оны нарны хиртэлтийн үеэр анх илрүүлж, Грекийн нарны бурхан Гелиосын нэрээр нэрлэжээ. Үүнээс хэдэн арван жилийн дараа л дэлхий дээрээс илрүүлсэн байна."
+      }
+    },
+    {
+      "topicSlug": "science",
+      "lessonKey": "science.the-periodic-table",
+      "key": "science.the-periodic-table.g4",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the chemical symbol for Potassium, derived from its Neo-Latin name 'Kalium'?",
+        "mn": "Латин хэлний 'Kalium' гэх нэрнээс гаралтай Калийн химийн тэмдэглэгээ аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Po",
+          "mn": "Po"
+        },
+        {
+          "en": "K",
+          "mn": "K"
+        },
+        {
+          "en": "P",
+          "mn": "P"
+        },
+        {
+          "en": "Pt",
+          "mn": "Pt"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Potassium is represented by the letter 'K' from the Latin Kalium. The letter 'P' is reserved for Phosphorus.",
+        "mn": "Калийг латин хэлний Kalium гэх нэрнээс гаралтай 'K' үсгээр тэмдэглэдэг. Харин 'P' үсгээр Фосфорыг тэмдэглэдэг байна."
+      }
+    },
+    {
+      "topicSlug": "science",
+      "lessonKey": "science.the-periodic-table",
+      "key": "science.the-periodic-table.g5",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In 1869, this Russian chemist published the first widely recognized periodic table, famously leaving gaps for undiscovered elements. Who was he?",
+        "mn": "1869 онд нээгдээгүй байсан элементүүдийн байрыг хоосон үлдээж, үелэх системийг анх зохиосон Оросын химич хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Dmitry Mendeleev",
+          "mn": "Дмитрий Менделеев"
+        },
+        {
+          "en": "Ivan Pavlov",
+          "mn": "Иван Павлов"
+        },
+        {
+          "en": "Mikhail Lomonosov",
+          "mn": "Михаил Ломоносов"
+        },
+        {
+          "en": "Alexander Fleming",
+          "mn": "Александр Флеминг"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Dmitry Mendeleev organized elements by atomic mass and successfully predicted the properties of undiscovered elements like gallium.",
+        "mn": "Дмитрий Менделеев элементүүдийг атомын массаар нь ангилж, галли зэрэг хараахан нээгдээгүй байсан элементүүдийн шинж чанарыг гайхалтай нарийвчлалтай таамаглаж байв."
+      }
+    },
+    {
+      "topicSlug": "science",
+      "lessonKey": "science.the-periodic-table",
+      "key": "science.the-periodic-table.g6",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of the following is NOT a noble gas?",
+        "mn": "Дараах элементүүдээс аль нь идэвхгүй (язгуурт) хий биш вэ?"
+      },
+      "choices": [
+        {
+          "en": "Radon",
+          "mn": "Радон"
+        },
+        {
+          "en": "Xenon",
+          "mn": "Ксенон"
+        },
+        {
+          "en": "Krypton",
+          "mn": "Криптон"
+        },
+        {
+          "en": "Chlorine",
+          "mn": "Хлор"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Chlorine is a highly reactive halogen, while Krypton, Xenon, and Radon are all stable noble gases found in Group 18.",
+        "mn": "Хлор нь маш идэвхтэй галоген бөгөөд харин Криптон, Ксенон, Радон зэрэг нь үелэх системийн 18-р бүлгийн идэвхгүй хийнүүд юм."
+      }
+    },
+    {
+      "topicSlug": "science",
+      "lessonKey": "science.the-periodic-table",
+      "key": "science.the-periodic-table.g7",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the only metal that remains in a liquid state at standard room temperature and pressure?",
+        "mn": "Ердийн хэм болон даралтад шингэн төлөвт байдаг цорын ганц металл аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Mercury",
+          "mn": "Мөнгөн ус"
+        },
+        {
+          "en": "Bromine",
+          "mn": "Бром"
+        },
+        {
+          "en": "Gallium",
+          "mn": "Галли"
+        },
+        {
+          "en": "Cesium",
+          "mn": "Цези"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Mercury is a liquid at room temperature. Bromine is also liquid at room temperature, but it is a nonmetal.",
+        "mn": "Мөнгөн ус нь тасалгааны хэмд шингэн байдаг цорын ганц металл юм. Бром мөн шингэн байдаг ч металл биш юм."
+      }
+    },
+    {
+      "topicSlug": "science",
+      "lessonKey": "science.the-periodic-table",
+      "key": "science.the-periodic-table.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which element, represented by the symbol Pb, gets its English name from Germanic roots but its symbol from the Latin word for 'heavy lead'?",
+        "mn": "Pb тэмдэглэгээтэй, англи нэр нь герман язгууртай боловч химийн тэмдэглэгээ нь 'хүнд тугалга' гэх латин үгнээс гаралтай элемент аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Lead",
+          "mn": "Тугалга"
+        },
+        {
+          "en": "Platinum",
+          "mn": "Платинум"
+        },
+        {
+          "en": "Polonium",
+          "mn": "Полони"
+        },
+        {
+          "en": "Phosphorus",
+          "mn": "Фосфор"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The symbol Pb comes from 'Plumbum', the Latin word for lead. This is also where the English word 'plumbing' comes from, as pipes were once made of lead.",
+        "mn": "Pb тэмдэглэгээ нь тугалгыг илэрхийлэх латин хэлний 'Plumbum' гэх үгнээс гаралтай. Эрт урьд цагт хоолойг тугалгаар хийдэг байсан тул англи хэлний сантехник (plumbing) гэх үг үүнээс үүсжээ."
+      }
+    },
+    {
+      "topicSlug": "science",
+      "lessonKey": "science.the-periodic-table",
+      "key": "science.the-periodic-table.g9",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Named after the creator of the periodic table, which highly radioactive synthetic element has the atomic number 101?",
+        "mn": "Үелэх системийг зохиогчийн нэрээр нэрлэгдсэн, 101 атомын дугаартай, маш цацраг идэвхт хиймэл элемент аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Mendelevium",
+          "mn": "Менделевиум"
+        },
+        {
+          "en": "Dmitryum",
+          "mn": "Дмитриум"
+        },
+        {
+          "en": "Nobelium",
+          "mn": "Нобелиум"
+        },
+        {
+          "en": "Einsteinium",
+          "mn": "Эйнштейниум"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Mendelevium (Md) was discovered in 1955 and named in honor of Dmitry Mendeleev. It is synthesized by bombarding einsteinium with alpha particles.",
+        "mn": "Менделевиум (Md) элементийг 1955 онд нээж, Дмитрий Менделеевийн алдард зориулан нэрлэжээ. Үүнийг эйнштейниумыг альфа бөөмсөөр бөмбөгдөх замаар гаргаж авдаг."
+      }
+    },
+    {
+      "topicSlug": "science",
+      "lessonKey": "science.the-periodic-table",
+      "key": "science.the-periodic-table.g10",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the most abundant element in the universe, making up roughly 75% of all baryonic mass?",
+        "mn": "Орчлон ертөнцийн нийт бодисын массын бараг 75 хувийг бүрдүүлдэг, хамгийн элбэг элемент аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Oxygen",
+          "mn": "Хүчилтөрөгч"
+        },
+        {
+          "en": "Carbon",
+          "mn": "Нүүрстөрөгч"
+        },
+        {
+          "en": "Helium",
+          "mn": "Гели"
+        },
+        {
+          "en": "Hydrogen",
+          "mn": "Устөрөгч"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Hydrogen is the simplest and most abundant element in the universe. Helium is the second most abundant at about 24%.",
+        "mn": "Устөрөгч нь орчлон ертөнцийн хамгийн энгийн бөгөөд хамгийн элбэг элемент юм. Хоёр дахь элбэг элемент нь гели (ойролцоогоор 24%) ажээ."
+      }
+    },
+    {
+      "topicSlug": "science",
+      "lessonKey": "science.the-periodic-table",
+      "key": "science.the-periodic-table.g11",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Marie Curie named this radioactive element, discovered in 1898, after her beloved homeland. What is it?",
+        "mn": "Мари Кюри 1898 онд нээсэн цацраг идэвхт элементээ өөрийн хайртай эх орныхоо нэрээр нэрлэсэн нь аль элемент вэ?"
+      },
+      "choices": [
+        {
+          "en": "Polonium",
+          "mn": "Полони"
+        },
+        {
+          "en": "Germanium",
+          "mn": "Германи"
+        },
+        {
+          "en": "Gallium",
+          "mn": "Галли"
+        },
+        {
+          "en": "Francium",
+          "mn": "Франци"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Marie Curie named Polonium after Poland, hoping to highlight the country's lack of independence at the time.",
+        "mn": "Мари Кюри тухайн үед тусгаар тогтноогүй байсан эх орон Польшоо дэлхий дахинд сануулах зорилгоор Полони элементийг эх орныхоо нэрээр нэрлэжээ."
+      }
+    },
+    {
+      "topicSlug": "science",
+      "lessonKey": "science.the-periodic-table",
+      "key": "science.the-periodic-table.g12",
+      "difficulty": 3,
+      "prompt": {
+        "en": "According to legendary accounts, how did Dmitry Mendeleev first visualize the complete arrangement of the periodic table?",
+        "mn": "Алдартай түүхээс үзвэл, Дмитрий Менделеев үелэх системийнхээ бүтцийг анх хэрхэн олж харсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "By looking at a library wall",
+          "mn": "Номын сангийн хана хараад"
+        },
+        {
+          "en": "In a game of cards",
+          "mn": "Хөзөр тоглож байхдаа"
+        },
+        {
+          "en": "During a lecture",
+          "mn": "Лекц уншиж байхдаа"
+        },
+        {
+          "en": "In a dream",
+          "mn": "Зүүдэндээ"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Mendeleev claimed that the arrangement of elements came to him in a dream after falling asleep at his desk. He wrote down the pattern immediately upon waking.",
+        "mn": "Менделеев ширээнийхээ ард унтаж байхдаа зүүдэндээ элементүүдийн байршлыг олж харсан гэж ярьдаг. Тэрээр сэрэнгүүтээ зүүдэлсэн бүтцээ шууд цаасан дээр буулгажээ."
+      }
+    },
+    {
+      "topicSlug": "science",
+      "lessonKey": "science.famous-women-in-science",
+      "key": "science.famous-women-in-science.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Marie Curie is the only person in history to win Nobel Prizes in two different scientific fields. Which two fields were they?",
+        "mn": "Мари Кюри нь шинжлэх ухааны хоёр өөр салбарт Нобелийн шагнал хүртсэн түүхэн дэх цорын ганц хүн юм. Тэрээр ямар хоёр салбарт авсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Chemistry and Peace",
+          "mn": "Хими ба Энх тайван"
+        },
+        {
+          "en": "Chemistry and Medicine",
+          "mn": "Хими ба Анагаах ухаан"
+        },
+        {
+          "en": "Physics and Medicine",
+          "mn": "Физик ба Анагаах ухаан"
+        },
+        {
+          "en": "Physics and Chemistry",
+          "mn": "Физик ба Хими"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Marie Curie won the Nobel Prize in Physics in 1903 for her work on radiation, and the Nobel Prize in Chemistry in 1911 for discovering radium and polonium.",
+        "mn": "Мари Кюри 1903 онд цацраг туяаны судалгаагаар Физикийн салбарт, 1911 онд радий болон полониг нээснийхээ төлөө Химийн салбарт Нобелийн шагнал хүртжээ."
+      }
+    },
+    {
+      "topicSlug": "science",
+      "lessonKey": "science.famous-women-in-science",
+      "key": "science.famous-women-in-science.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Whose famous X-ray diffraction image, known as 'Photo 51', was critical to the discovery of the double helix structure of DNA?",
+        "mn": "ДНХ-ийн мушгиа бүтцийг нээхэд гол түлхүүр болсон, 'Фото 51' гэж алдаршсан рентген зураг хэнийх вэ?"
+      },
+      "choices": [
+        {
+          "en": "Rosalind Franklin",
+          "mn": "Розалинд Франклин"
+        },
+        {
+          "en": "Jane Goodall",
+          "mn": "Жейн Гудолл"
+        },
+        {
+          "en": "Rachel Carson",
+          "mn": "Рэйчел Карсон"
+        },
+        {
+          "en": "Ada Lovelace",
+          "mn": "Ада Лавлейс"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Rosalind Franklin's 'Photo 51' was shown to Watson and Crick without her knowledge, helping them solve the DNA structure. She died before she could be nominated for a Nobel Prize.",
+        "mn": "Розалинд Франклины авсан 'Фото 51' зургийг Уотсон, Крик нар түүнд хэлэлгүйгээр үзэж, ДНХ-ийн бүтцийг тайлсан байдаг. Тэрээр Нобелийн шагналд нэр дэвшихээсээ өмнө таалал төгсжээ."
+      }
+    },
+    {
+      "topicSlug": "science",
+      "lessonKey": "science.famous-women-in-science",
+      "key": "science.famous-women-in-science.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which Austrian-Swedish physicist played a key role in discovering nuclear fission (the splitting of atomic nuclei) but was unfairly excluded from the 1944 Nobel Prize?",
+        "mn": "Атомын цөм хуваагдах (цөмийн задрал) үзэгдлийг нээхэд гол үүрэг гүйцэтгэсэн боловч 1944 оны Нобелийн шагналаас шударга бусаар хасагдсан Австри-Швед гаралтай физикч хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Irène Joliot-Curie",
+          "mn": "Ирен Жолио-Кюри"
+        },
+        {
+          "en": "Lise Meitner",
+          "mn": "Лиза Мейтнер"
+        },
+        {
+          "en": "Maria Goeppert Mayer",
+          "mn": "Мария Гёпперт Майер"
+        },
+        {
+          "en": "Chien-Shiung Wu",
+          "mn": "Ву Жяньшиун"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Lise Meitner provided the first theoretical explanation of nuclear fission. Although her collaborator Otto Hahn received the Nobel Prize, she was later honored by having element 109, Meitnerium, named after her.",
+        "mn": "Лиза Мейтнер цөмийн задралын анхны онолын тайлбарыг хийсэн юм. Түүнтэй хамтран ажиллаж байсан Отто Хан Нобелийн шагнал авсан ч, хожим нь 109 дэх элементийг Мейтнерийн нэрээр 'Мейтнериум' гэж нэрлэжээ."
+      }
+    },
+    {
+      "topicSlug": "science",
+      "lessonKey": "science.famous-women-in-science",
+      "key": "science.famous-women-in-science.g4",
+      "difficulty": 3,
+      "prompt": {
+        "en": "As a postgraduate student at Cambridge in 1967, Jocelyn Bell Burnell discovered pulsars. What are pulsars?",
+        "mn": "Жоселин Белл Бёрнелл 1967 онд Кембрижид суралцаж байхдаа пульсарыг нээжээ. Пульсар гэж юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Interstellar dust clouds",
+          "mn": "Одон орны тоосонцор үүл"
+        },
+        {
+          "en": "Supermassive black holes",
+          "mn": "Үлэмж биет хар нүх"
+        },
+        {
+          "en": "Rapidly rotating neutron stars",
+          "mn": "Маш хурдан эргэлддэг нейтрон од"
+        },
+        {
+          "en": "Frozen gas giants",
+          "mn": "Хөлдүү хийн аварга гараг"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Pulsars are highly magnetized, rapidly rotating neutron stars that emit beams of electromagnetic radiation. Her supervisor received the Nobel Prize for the discovery instead of her.",
+        "mn": "Пульсар нь маш хүчтэй соронзон оронтой, хурдан эргэлддэг нейтрон од бөгөөд цахилгаан соронзон цацраг ялгаруулдаг. Энэхүү нээлтийн төлөө түүний удирдагч багш нь Нобелийн шагнал авсан байдаг."
+      }
+    },
+    {
+      "topicSlug": "science",
+      "lessonKey": "science.famous-women-in-science",
+      "key": "science.famous-women-in-science.g5",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Who is widely celebrated as the world's first computer programmer for her work on Charles Babbage's mechanical computer, the Analytical Engine?",
+        "mn": "Чарльз Бэббижийн зохион бүтээсэн механик тооцоолуур болох Аналитик хөдөлгүүрт зориулж програм бичсэн, дэлхийн анхны компьютер программист гэж хэнийг үздэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Katherine Johnson",
+          "mn": "Кэтрин Жонсон"
+        },
+        {
+          "en": "Grace Hopper",
+          "mn": "Грейс Хоппер"
+        },
+        {
+          "en": "Dorothy Vaughan",
+          "mn": "Дороти Воган"
+        },
+        {
+          "en": "Ada Lovelace",
+          "mn": "Ада Лавлейс"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Ada Lovelace, the daughter of the poet Lord Byron, wrote the first algorithm intended to be carried out by a machine in the 1840s.",
+        "mn": "Алдарт яруу найрагч Лорд Байроны охин Ада Лавлейс 1840-өөд онд машинаар гүйцэтгэхэд зориулсан анхны алгоритмыг бичиж үлдээжээ."
+      }
+    },
+    {
+      "topicSlug": "science",
+      "lessonKey": "science.famous-women-in-science",
+      "key": "science.famous-women-in-science.g6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which American marine biologist wrote the 1962 book 'Silent Spring', which warned of the dangers of chemical pesticides and launched the modern environmental movement?",
+        "mn": "Химийн хорт бодисын аюулыг сэрэмжлүүлж, орчин үеийн байгаль орчныг хамгаалах хөдөлгөөнийг эхлүүлсэн 1962 оны 'Чимээгүй хавар' (Silent Spring) номыг Америкийн аль далайн биологич бичсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Jane Goodall",
+          "mn": "Жейн Гудолл"
+        },
+        {
+          "en": "Rachel Carson",
+          "mn": "Рэйчел Карсон"
+        },
+        {
+          "en": "Sylvia Earle",
+          "mn": "Сильвия Эрл"
+        },
+        {
+          "en": "Dian Fossey",
+          "mn": "Дайан Фосси"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Rachel Carson's book led to a nationwide ban on DDT and other pesticides in the US and inspired the creation of the Environmental Protection Agency (EPA).",
+        "mn": "Рэйчел Карсоны ном АНУ-д ДДТ болон бусад пестицидийг хориглоход хүргэсэн бөгөөд Байгаль орчныг хамгаалах агентлаг (EPA) байгуулагдах сэдэл болсон юм."
+      }
+    },
+    {
+      "topicSlug": "science",
+      "lessonKey": "science.famous-women-in-science",
+      "key": "science.famous-women-in-science.g7",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In 1963, who became the first woman to travel into space, orbiting the Earth 48 times aboard the Vostok 6 spacecraft?",
+        "mn": "1963 онд 'Восток 6' хөлгөөр дэлхийг 48 удаа тойрч, сансарт ниссэн анхны эмэгтэй хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Valentina Tereshkova",
+          "mn": "Валентина Терешкова"
+        },
+        {
+          "en": "Mae Jemison",
+          "mn": "Мэй Жэмисон"
+        },
+        {
+          "en": "Sally Ride",
+          "mn": "Салли Райд"
+        },
+        {
+          "en": "Svetlana Savitskaya",
+          "mn": "Светлана Савицкая"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Valentina Tereshkova remains the only woman to have been on a solo space mission. She was selected from more than 400 applicants.",
+        "mn": "Валентина Терешкова нь өнөөг хүртэл сансарт ганцаараа ниссэн цорын ганц эмэгтэй хэвээр байна. Түүнийг 400 гаруй өргөдөл гаргагчаас сонгон шалгаруулж байжээ."
+      }
+    },
+    {
+      "topicSlug": "science",
+      "lessonKey": "science.famous-women-in-science",
+      "key": "science.famous-women-in-science.g8",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which pioneering computer scientist coined the term 'debugging' after finding a literal moth trapped in a relay of the Harvard Mark II computer?",
+        "mn": "Харвардын Марк II компьютерын релен дотроос эрвээхэй олж авсны дараа 'debugging' (алдаа засах) гэдэг нэр томьёог анх хэрэглэсэн компьютерын салбарын анхдагч хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Joan Clarke",
+          "mn": "Жоан Кларк"
+        },
+        {
+          "en": "Margaret Hamilton",
+          "mn": "Маргарет Хэмилтон"
+        },
+        {
+          "en": "Grace Hopper",
+          "mn": "Грейс Хоппер"
+        },
+        {
+          "en": "Barbara Liskov",
+          "mn": "Барбара Лисков"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Grace Hopper, a rear admiral in the US Navy, also developed the first compiler for a computer programming language, which led to the creation of COBOL.",
+        "mn": "АНУ-ын Тэнгисийн цэргийн адмирал Грейс Хоппер нь компьютерын програмчлалын хэлний анхны хөрвүүлэгчийг (compiler) бүтээсэн бөгөөд энэ нь COBOL хэлийг бий болгоход хөтөлжээ."
+      }
+    },
+    {
+      "topicSlug": "science",
+      "lessonKey": "science.famous-women-in-science",
+      "key": "science.famous-women-in-science.g9",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Whose calculations of orbital trajectories as a NASA 'human computer' were critical to the success of the first US crewed spaceflights, including Apollo 11?",
+        "mn": "НАСА-д 'хүн-компьютер' гэгдэн тойрог замын тооцооллыг хийж байсан хэний судалгаа Аполло 11 зэрэг АНУ-ын анхны хүн тээвэрлэсэн сансрын нислэгүүдийг амжилттай болоход шийдвэрлэх үүрэг гүйцэтгэсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Annie Easley",
+          "mn": "Энни Исли"
+        },
+        {
+          "en": "Mary Jackson",
+          "mn": "Мэри Жексон"
+        },
+        {
+          "en": "Dorothy Hodgkin",
+          "mn": "Дороти Хожкин"
+        },
+        {
+          "en": "Katherine Johnson",
+          "mn": "Кэтрин Жонсон"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Katherine Johnson's brilliant mathematical career at NASA was featured in the 2016 Oscar-nominated film 'Hidden Figures'.",
+        "mn": "Кэтрин Жонсоны НАСА-д ажиллаж байсан гайхалтай түүхийг 2016 оны Оскарт нэр дэвшсэн 'Hidden Figures' (Далд дүрүүд) кинонд харуулдаг."
+      }
+    },
+    {
+      "topicSlug": "science",
+      "lessonKey": "science.famous-women-in-science",
+      "key": "science.famous-women-in-science.g10",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which British chemist won the 1964 Nobel Prize in Chemistry for determining the structures of important biochemical substances, including Vitamin B12 and penicillin, using X-ray crystallography?",
+        "mn": "Рентген кристалографийн аргаар Витамин В12 болон пенициллиний бүтцийг тодорхойлж, 1964 оны Химийн салбарын Нобелийн шагналыг хүртсэн Британийн химич хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Dorothy Hodgkin",
+          "mn": "Дороти Хожкин"
+        },
+        {
+          "en": "Ida Noddack",
+          "mn": "Ида Ноддак"
+        },
+        {
+          "en": "Gertrude Elion",
+          "mn": "Гертруд Элайон"
+        },
+        {
+          "en": "Gerty Cori",
+          "mn": "Герти Кори"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Dorothy Hodgkin also spent decades refining the structure of insulin, which greatly helped in treating diabetes.",
+        "mn": "Дороти Хожкин мөн инсулины бүтцийг нарийвчлан тогтоохын тулд хэдэн арван жилийг зарцуулсан бөгөөд энэ нь чихрийн шижин өвчнийг эмчлэхэд асар их тус болжээ."
+      }
+    },
+    {
+      "topicSlug": "science",
+      "lessonKey": "science.famous-women-in-science",
+      "key": "science.famous-women-in-science.g11",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which British primatologist is world-renowned for her 60-year study of social and family interactions of wild chimpanzees in Gombe Stream National Park?",
+        "mn": "Гомбе Стрим үндэсний паркад зэрлэг шимпанзегийн нийгэм, гэр бүлийн харилцааг 60 жилийн турш судалснаараа дэлхийд алдаршсан Британийн приматологич хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Margaret Mead",
+          "mn": "Маргарет Мид"
+        },
+        {
+          "en": "Jane Goodall",
+          "mn": "Жейн Гудолл"
+        },
+        {
+          "en": "Dian Fossey",
+          "mn": "Дайан Фосси"
+        },
+        {
+          "en": "Birutė Galdikas",
+          "mn": "Бируте Галдикас"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Jane Goodall discovered that chimpanzees make and use tools, a behavior previously thought to be unique to humans.",
+        "mn": "Жейн Гудолл шимпанзе сармагчингууд багаж зэвсэг хийж, ашигладаг болохыг нээсэн бөгөөд үүнээс өмнө зөвхөн хүн л багаж ашигладаг гэж үздэг байв."
+      }
+    },
+    {
+      "topicSlug": "science",
+      "lessonKey": "science.famous-women-in-science",
+      "key": "science.famous-women-in-science.g12",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Who was the first American woman in space, flying aboard the Space Shuttle Challenger in 1983?",
+        "mn": "1983 онд 'Челленжер' хөлгөөр сансарт ниссэн Америкийн анхны эмэгтэй сансрын нисгэгч хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Sally Ride",
+          "mn": "Салли Райд"
+        },
+        {
+          "en": "Kathryn Sullivan",
+          "mn": "Кэтрин Салливан"
+        },
+        {
+          "en": "Judith Resnik",
+          "mn": "Жудит Резник"
+        },
+        {
+          "en": "Christa McAuliffe",
+          "mn": "Криста МакОлифф"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Sally Ride was also a physicist. After her two space flights, she became a physics professor and wrote science books for children.",
+        "mn": "Салли Райд нь мэргэжлийн физикч байсан юм. Тэрээр сансарт хоёр удаа ниссэнийхээ дараа физикийн профессор болж, хүүхдүүдэд зориулсан шинжлэх ухааны ном бичжээ."
+      }
+    }
+  ]
+}

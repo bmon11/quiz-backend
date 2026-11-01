@@ -1,0 +1,2203 @@
+{
+  "lessons": [
+    {
+      "topicSlug": "mongolia",
+      "key": "mongolia.aimag-flags",
+      "order": 1,
+      "title": {
+        "en": "The 21 aimags: flags and centres",
+        "mn": "21 аймаг: туг, төв"
+      },
+      "summary": {
+        "en": "Every province of Mongolia with its flag, centre, area and people.",
+        "mn": "Монголын аймаг бүрийн туг, төв, газар нутаг, хүн ам."
+      },
+      "body": {
+        "en": "Mongolia is divided into 21 aimags (provinces) plus the capital Ulaanbaatar. Most were formed in 1931; Darkhan-Uul and Orkhon grew around industrial cities in 1994 and Govisümber was added in 1996. Each aimag has its own flag and an administrative centre, often a town with a different name from the aimag.",
+        "mn": "Монгол Улс 21 аймаг, нийслэл Улаанбаатараас бүрдэнэ. Ихэнх аймаг 1931 онд байгуулагдсан бол Дархан-Уул, Орхон аймгууд 1994 онд аж үйлдвэрийн хотуудын түшиглэн, Говьсүмбэр 1996 онд байгуулагджээ. Аймаг бүр өөрийн тугтай бөгөөд төв нь ихэвчлэн аймгаасаа өөр нэртэй хот байдаг."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mn_flag_arkhangai_aimag_2014.svg?width=160",
+            "title": {
+              "en": "Arkhangai",
+              "mn": "Архангай"
+            },
+            "subtitle": {
+              "en": "Centre: Tsetserleg",
+              "mn": "Төв: Цэцэрлэг"
+            },
+            "facts": [
+              {
+                "en": "Area: 55,314 km²",
+                "mn": "Нутаг: 55 314 км²"
+              },
+              {
+                "en": "Population (2020): 94,994",
+                "mn": "Хүн ам (2020): 94 994"
+              },
+              {
+                "en": "Founded: 1931",
+                "mn": "Байгуулагдсан: 1931 он"
+              }
+            ]
+          },
+          {
+            "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mn_flag_bayankhongor_aymag.png?width=160",
+            "title": {
+              "en": "Bayankhongor",
+              "mn": "Баянхонгор"
+            },
+            "subtitle": {
+              "en": "Centre: Bayankhongor",
+              "mn": "Төв: Баянхонгор"
+            },
+            "facts": [
+              {
+                "en": "Area: 115,978 km²",
+                "mn": "Нутаг: 115 978 км²"
+              },
+              {
+                "en": "Population (2020): 88,672",
+                "mn": "Хүн ам (2020): 88 672"
+              },
+              {
+                "en": "Founded: 1941",
+                "mn": "Байгуулагдсан: 1941 он"
+              }
+            ]
+          },
+          {
+            "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mn_flag_bayan_olgiy_aymag.svg?width=160",
+            "title": {
+              "en": "Bayan-Ölgii",
+              "mn": "Баян-Өлгий"
+            },
+            "subtitle": {
+              "en": "Centre: Ölgii",
+              "mn": "Төв: Өлгий"
+            },
+            "facts": [
+              {
+                "en": "Area: 45,705 km²",
+                "mn": "Нутаг: 45 705 км²"
+              },
+              {
+                "en": "Population (2020): 108,530",
+                "mn": "Хүн ам (2020): 108 530"
+              },
+              {
+                "en": "Founded: 1940",
+                "mn": "Байгуулагдсан: 1940 он"
+              }
+            ]
+          },
+          {
+            "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mn_flag_bulgan_aimag_2022.svg?width=160",
+            "title": {
+              "en": "Bulgan",
+              "mn": "Булган"
+            },
+            "subtitle": {
+              "en": "Centre: Bulgan",
+              "mn": "Төв: Булган"
+            },
+            "facts": [
+              {
+                "en": "Area: 48,733 km²",
+                "mn": "Нутаг: 48 733 км²"
+              },
+              {
+                "en": "Population (2020): 62,089",
+                "mn": "Хүн ам (2020): 62 089"
+              },
+              {
+                "en": "Founded: 1938",
+                "mn": "Байгуулагдсан: 1938 он"
+              }
+            ]
+          },
+          {
+            "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mn_flag_darkhan_uul_aymag.svg?width=160",
+            "title": {
+              "en": "Darkhan-Uul",
+              "mn": "Дархан-Уул"
+            },
+            "subtitle": {
+              "en": "Centre: Darkhan",
+              "mn": "Төв: Дархан"
+            },
+            "facts": [
+              {
+                "en": "Area: 3,275 km²",
+                "mn": "Нутаг: 3 275 км²"
+              },
+              {
+                "en": "Population (2020): 107,018",
+                "mn": "Хүн ам (2020): 107 018"
+              },
+              {
+                "en": "Founded: 1994",
+                "mn": "Байгуулагдсан: 1994 он"
+              }
+            ]
+          },
+          {
+            "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mn_flag_dornod_aimag_2001.svg?width=160",
+            "title": {
+              "en": "Dornod",
+              "mn": "Дорнод"
+            },
+            "subtitle": {
+              "en": "Centre: Choibalsan",
+              "mn": "Төв: Чойбалсан"
+            },
+            "facts": [
+              {
+                "en": "Area: 123,597 km²",
+                "mn": "Нутаг: 123 597 км²"
+              },
+              {
+                "en": "Population (2020): 82,054",
+                "mn": "Хүн ам (2020): 82 054"
+              },
+              {
+                "en": "Founded: 1941",
+                "mn": "Байгуулагдсан: 1941 он"
+              }
+            ]
+          },
+          {
+            "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mn_flag_dornogovi_aimag_2011.svg?width=160",
+            "title": {
+              "en": "Dornogovi",
+              "mn": "Дорноговь"
+            },
+            "subtitle": {
+              "en": "Centre: Sainshand",
+              "mn": "Төв: Сайншанд"
+            },
+            "facts": [
+              {
+                "en": "Area: 109,472 km²",
+                "mn": "Нутаг: 109 472 км²"
+              },
+              {
+                "en": "Population (2020): 71,014",
+                "mn": "Хүн ам (2020): 71 014"
+              },
+              {
+                "en": "Founded: 1931",
+                "mn": "Байгуулагдсан: 1931 он"
+              }
+            ]
+          },
+          {
+            "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mn_flag_dundgovi_aimag.svg?width=160",
+            "title": {
+              "en": "Dundgovi",
+              "mn": "Дундговь"
+            },
+            "subtitle": {
+              "en": "Centre: Mandalgovi",
+              "mn": "Төв: Мандалговь"
+            },
+            "facts": [
+              {
+                "en": "Area: 74,690 km²",
+                "mn": "Нутаг: 74 690 км²"
+              },
+              {
+                "en": "Population (2020): 47,104",
+                "mn": "Хүн ам (2020): 47 104"
+              },
+              {
+                "en": "Founded: 1942",
+                "mn": "Байгуулагдсан: 1942 он"
+              }
+            ]
+          },
+          {
+            "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mn_flag_govi-altai_aimag_2011.svg?width=160",
+            "title": {
+              "en": "Govi-Altai",
+              "mn": "Говь-Алтай"
+            },
+            "subtitle": {
+              "en": "Centre: Altai",
+              "mn": "Төв: Алтай"
+            },
+            "facts": [
+              {
+                "en": "Area: 141,448 km²",
+                "mn": "Нутаг: 141 448 км²"
+              },
+              {
+                "en": "Population (2020): 57,748",
+                "mn": "Хүн ам (2020): 57 748"
+              },
+              {
+                "en": "Founded: 1940",
+                "mn": "Байгуулагдсан: 1940 он"
+              }
+            ]
+          },
+          {
+            "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mn_flag_govis%C3%BCmber_aimag.svg?width=160",
+            "title": {
+              "en": "Govisümber",
+              "mn": "Говьсүмбэр"
+            },
+            "subtitle": {
+              "en": "Centre: Choir",
+              "mn": "Төв: Чойр"
+            },
+            "facts": [
+              {
+                "en": "Area: 5,542 km²",
+                "mn": "Нутаг: 5 542 км²"
+              },
+              {
+                "en": "Population (2020): 17,928",
+                "mn": "Хүн ам (2020): 17 928"
+              },
+              {
+                "en": "Founded: 1996",
+                "mn": "Байгуулагдсан: 1996 он"
+              }
+            ]
+          },
+          {
+            "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Khentii_aimag_Flag.svg?width=160",
+            "title": {
+              "en": "Khentii",
+              "mn": "Хэнтий"
+            },
+            "subtitle": {
+              "en": "Centre: Chinggis City",
+              "mn": "Төв: Чингис хот"
+            },
+            "facts": [
+              {
+                "en": "Area: 80,325 km²",
+                "mn": "Нутаг: 80 325 км²"
+              },
+              {
+                "en": "Population (2020): 77,957",
+                "mn": "Хүн ам (2020): 77 957"
+              },
+              {
+                "en": "Founded: 1930",
+                "mn": "Байгуулагдсан: 1930 он"
+              }
+            ]
+          },
+          {
+            "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Khovd_Aimag_(since_2014).svg?width=160",
+            "title": {
+              "en": "Khovd",
+              "mn": "Ховд"
+            },
+            "subtitle": {
+              "en": "Centre: Khovd",
+              "mn": "Төв: Ховд"
+            },
+            "facts": [
+              {
+                "en": "Area: 76,060 km²",
+                "mn": "Нутаг: 76 060 км²"
+              },
+              {
+                "en": "Population (2020): 89,712",
+                "mn": "Хүн ам (2020): 89 712"
+              },
+              {
+                "en": "Founded: 1931",
+                "mn": "Байгуулагдсан: 1931 он"
+              }
+            ]
+          },
+          {
+            "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mn_flag_kh%C3%B6vsg%C3%B6l_aimag_2014.svg?width=160",
+            "title": {
+              "en": "Khövsgöl",
+              "mn": "Хөвсгөл"
+            },
+            "subtitle": {
+              "en": "Centre: Mörön",
+              "mn": "Төв: Мөрөн"
+            },
+            "facts": [
+              {
+                "en": "Area: 100,629 km²",
+                "mn": "Нутаг: 100 629 км²"
+              },
+              {
+                "en": "Population (2020): 135,095",
+                "mn": "Хүн ам (2020): 135 095"
+              },
+              {
+                "en": "Founded: 1931",
+                "mn": "Байгуулагдсан: 1931 он"
+              }
+            ]
+          },
+          {
+            "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mn_flag_orkhon_aimag_2024.svg?width=160",
+            "title": {
+              "en": "Orkhon",
+              "mn": "Орхон"
+            },
+            "subtitle": {
+              "en": "Centre: Erdenet",
+              "mn": "Төв: Эрдэнэт"
+            },
+            "facts": [
+              {
+                "en": "Area: 844 km²",
+                "mn": "Нутаг: 844 км²"
+              },
+              {
+                "en": "Population (2020): 107,634",
+                "mn": "Хүн ам (2020): 107 634"
+              },
+              {
+                "en": "Founded: 1994",
+                "mn": "Байгуулагдсан: 1994 он"
+              }
+            ]
+          },
+          {
+            "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mn_flag_%C3%B6mn%C3%B6govi_aimag_2011.svg?width=160",
+            "title": {
+              "en": "Ömnögovi",
+              "mn": "Өмнөговь"
+            },
+            "subtitle": {
+              "en": "Centre: Dalanzadgad",
+              "mn": "Төв: Даланзадгад"
+            },
+            "facts": [
+              {
+                "en": "Area: 165,380 km²",
+                "mn": "Нутаг: 165 380 км²"
+              },
+              {
+                "en": "Population (2020): 69,187",
+                "mn": "Хүн ам (2020): 69 187"
+              },
+              {
+                "en": "Founded: 1931",
+                "mn": "Байгуулагдсан: 1931 он"
+              }
+            ]
+          },
+          {
+            "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mn_flag_Ovurhangai_aymag.svg?width=160",
+            "title": {
+              "en": "Övörkhangai",
+              "mn": "Өвөрхангай"
+            },
+            "subtitle": {
+              "en": "Centre: Arvaikheer",
+              "mn": "Төв: Арвайхээр"
+            },
+            "facts": [
+              {
+                "en": "Area: 62,895 km²",
+                "mn": "Нутаг: 62 895 км²"
+              },
+              {
+                "en": "Population (2020): 116,732",
+                "mn": "Хүн ам (2020): 116 732"
+              },
+              {
+                "en": "Founded: 1931",
+                "mn": "Байгуулагдсан: 1931 он"
+              }
+            ]
+          },
+          {
+            "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mn_flag_selenge_aimag_1999.svg?width=160",
+            "title": {
+              "en": "Selenge",
+              "mn": "Сэлэнгэ"
+            },
+            "subtitle": {
+              "en": "Centre: Sükhbaatar",
+              "mn": "Төв: Сүхбаатар"
+            },
+            "facts": [
+              {
+                "en": "Area: 41,153 km²",
+                "mn": "Нутаг: 41 153 км²"
+              },
+              {
+                "en": "Population (2020): 110,110",
+                "mn": "Хүн ам (2020): 110 110"
+              },
+              {
+                "en": "Founded: 1934",
+                "mn": "Байгуулагдсан: 1934 он"
+              }
+            ]
+          },
+          {
+            "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mn_flag_s%C3%BCkhbaatar_aimag.svg?width=160",
+            "title": {
+              "en": "Sükhbaatar",
+              "mn": "Сүхбаатар"
+            },
+            "subtitle": {
+              "en": "Centre: Baruun-Urt",
+              "mn": "Төв: Баруун-Урт"
+            },
+            "facts": [
+              {
+                "en": "Area: 82,287 km²",
+                "mn": "Нутаг: 82 287 км²"
+              },
+              {
+                "en": "Population (2020): 63,182",
+                "mn": "Хүн ам (2020): 63 182"
+              },
+              {
+                "en": "Founded: 1943",
+                "mn": "Байгуулагдсан: 1943 он"
+              }
+            ]
+          },
+          {
+            "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tov_aymag_flag.svg?width=160",
+            "title": {
+              "en": "Töv",
+              "mn": "Төв"
+            },
+            "subtitle": {
+              "en": "Centre: Zuunmod",
+              "mn": "Төв: Зуунмод"
+            },
+            "facts": [
+              {
+                "en": "Area: 74,042 km²",
+                "mn": "Нутаг: 74 042 км²"
+              },
+              {
+                "en": "Population (2020): 94,250",
+                "mn": "Хүн ам (2020): 94 250"
+              },
+              {
+                "en": "Founded: 1931",
+                "mn": "Байгуулагдсан: 1931 он"
+              }
+            ]
+          },
+          {
+            "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Uvs_Aimag_Flag.svg?width=160",
+            "title": {
+              "en": "Uvs",
+              "mn": "Увс"
+            },
+            "subtitle": {
+              "en": "Centre: Ulaangom",
+              "mn": "Төв: Улаангом"
+            },
+            "facts": [
+              {
+                "en": "Area: 69,585 km²",
+                "mn": "Нутаг: 69 585 км²"
+              },
+              {
+                "en": "Population (2020): 83,223",
+                "mn": "Хүн ам (2020): 83 223"
+              },
+              {
+                "en": "Founded: 1931",
+                "mn": "Байгуулагдсан: 1931 он"
+              }
+            ]
+          },
+          {
+            "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mn_flag_zavkhan_aimag.svg?width=160",
+            "title": {
+              "en": "Zavkhan",
+              "mn": "Завхан"
+            },
+            "subtitle": {
+              "en": "Centre: Uliastai",
+              "mn": "Төв: Улиастай"
+            },
+            "facts": [
+              {
+                "en": "Area: 82,456 km²",
+                "mn": "Нутаг: 82 456 км²"
+              },
+              {
+                "en": "Population (2020): 72,823",
+                "mn": "Хүн ам (2020): 72 823"
+              },
+              {
+                "en": "Founded: 1931",
+                "mn": "Байгуулагдсан: 1931 он"
+              }
+            ]
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "Orkhon (844 km²) is the smallest aimag — Ömnögovi is about 196 times bigger.",
+          "mn": "Орхон (844 км²) хамгийн жижиг аймаг — Өмнөговь түүнээс 196 дахин том."
+        },
+        {
+          "en": "Khentii’s centre Öndörkhaan was renamed Chinggis City in 2013.",
+          "mn": "Хэнтийн төв Өндөрхаан 2013 онд Чингис хот нэртэй болсон."
+        },
+        {
+          "en": "Khövsgöl is the most populous aimag; Govisümber has the fewest people.",
+          "mn": "Хөвсгөл хамгийн олон хүнтэй, Говьсүмбэр хамгийн цөөн хүнтэй аймаг."
+        }
+      ]
+    },
+    {
+      "topicSlug": "mongolia",
+      "key": "mongolia.aimag-areas",
+      "order": 2,
+      "title": {
+        "en": "Aimags by area",
+        "mn": "Аймгуудын газар нутаг"
+      },
+      "summary": {
+        "en": "From vast Ömnögovi to tiny Orkhon.",
+        "mn": "Уудам Өмнөговиос өчүүхэн Орхон хүртэл."
+      },
+      "body": {
+        "en": "Mongolia covers 1,564,116 km², and its aimags differ enormously in size. The Gobi aimags of the south and west are the largest, while the industrial aimags around Darkhan and Erdenet are tiny. Population does not follow size: the Gobi is the emptiest part of the country.",
+        "mn": "Монгол Улсын нутаг 1 564 116 км² бөгөөд аймгуудын хэмжээ эрс ялгаатай. Өмнөд, баруун хэсгийн говийн аймгууд хамгийн том, Дархан, Эрдэнэтийг түшиглэсэн аймгууд хамгийн жижиг. Хүн ам нутгийн хэмжээг дагадаггүй: говь бол хамгийн сийрэг суурьшилтай бүс."
+      },
+      "visual": {
+        "kind": "bar",
+        "horizontal": true,
+        "unit": {
+          "en": "km²",
+          "mn": "км²"
+        },
+        "items": [
+          {
+            "label": {
+              "en": "Ömnögovi",
+              "mn": "Өмнөговь"
+            },
+            "value": 165380
+          },
+          {
+            "label": {
+              "en": "Govi-Altai",
+              "mn": "Говь-Алтай"
+            },
+            "value": 141448
+          },
+          {
+            "label": {
+              "en": "Dornod",
+              "mn": "Дорнод"
+            },
+            "value": 123597
+          },
+          {
+            "label": {
+              "en": "Bayankhongor",
+              "mn": "Баянхонгор"
+            },
+            "value": 115978
+          },
+          {
+            "label": {
+              "en": "Dornogovi",
+              "mn": "Дорноговь"
+            },
+            "value": 109472
+          },
+          {
+            "label": {
+              "en": "Khövsgöl",
+              "mn": "Хөвсгөл"
+            },
+            "value": 100629
+          },
+          {
+            "label": {
+              "en": "Zavkhan",
+              "mn": "Завхан"
+            },
+            "value": 82456
+          },
+          {
+            "label": {
+              "en": "Sükhbaatar",
+              "mn": "Сүхбаатар"
+            },
+            "value": 82287
+          },
+          {
+            "label": {
+              "en": "Khentii",
+              "mn": "Хэнтий"
+            },
+            "value": 80325
+          },
+          {
+            "label": {
+              "en": "Khovd",
+              "mn": "Ховд"
+            },
+            "value": 76060
+          },
+          {
+            "label": {
+              "en": "Dundgovi",
+              "mn": "Дундговь"
+            },
+            "value": 74690
+          },
+          {
+            "label": {
+              "en": "Töv",
+              "mn": "Төв"
+            },
+            "value": 74042
+          },
+          {
+            "label": {
+              "en": "Uvs",
+              "mn": "Увс"
+            },
+            "value": 69585
+          },
+          {
+            "label": {
+              "en": "Övörkhangai",
+              "mn": "Өвөрхангай"
+            },
+            "value": 62895
+          },
+          {
+            "label": {
+              "en": "Arkhangai",
+              "mn": "Архангай"
+            },
+            "value": 55314
+          },
+          {
+            "label": {
+              "en": "Bulgan",
+              "mn": "Булган"
+            },
+            "value": 48733
+          },
+          {
+            "label": {
+              "en": "Bayan-Ölgii",
+              "mn": "Баян-Өлгий"
+            },
+            "value": 45705
+          },
+          {
+            "label": {
+              "en": "Selenge",
+              "mn": "Сэлэнгэ"
+            },
+            "value": 41153
+          },
+          {
+            "label": {
+              "en": "Govisümber",
+              "mn": "Говьсүмбэр"
+            },
+            "value": 5542
+          },
+          {
+            "label": {
+              "en": "Darkhan-Uul",
+              "mn": "Дархан-Уул"
+            },
+            "value": 3275
+          },
+          {
+            "label": {
+              "en": "Orkhon",
+              "mn": "Орхон"
+            },
+            "value": 844
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "The five largest aimags together cover more than 40% of Mongolia.",
+          "mn": "Хамгийн том таван аймаг нийлээд Монголын нутгийн 40 гаруй хувийг эзэлдэг."
+        },
+        {
+          "en": "Ulaanbaatar (4,704 km²) is bigger than Darkhan-Uul and Orkhon combined but holds almost half of all Mongolians.",
+          "mn": "Улаанбаатар (4 704 км²) Дархан-Уул, Орхон хоёрыг нийлүүлснээс том бөгөөд нийт хүн амын бараг талыг багтаадаг."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d1",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the centre of Arkhangai aimag?",
+        "mn": "Архангай аймгийн төв аль хот вэ?"
+      },
+      "choices": [
+        {
+          "en": "Bayankhongor",
+          "mn": "Баянхонгор"
+        },
+        {
+          "en": "Sainshand",
+          "mn": "Сайншанд"
+        },
+        {
+          "en": "Tsetserleg",
+          "mn": "Цэцэрлэг"
+        },
+        {
+          "en": "Ulaangom",
+          "mn": "Улаангом"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Tsetserleg is the centre of Arkhangai aimag (founded 1931, 55,314 km²).",
+        "mn": "Цэцэрлэг бол Архангай аймгийн төв (1931 онд байгуулагдсан, 55 314 км²)."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d2",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the centre of Bayan-Ölgii aimag?",
+        "mn": "Баян-Өлгий аймгийн төв аль хот вэ?"
+      },
+      "choices": [
+        {
+          "en": "Ölgii",
+          "mn": "Өлгий"
+        },
+        {
+          "en": "Dalanzadgad",
+          "mn": "Даланзадгад"
+        },
+        {
+          "en": "Sükhbaatar",
+          "mn": "Сүхбаатар"
+        },
+        {
+          "en": "Khovd",
+          "mn": "Ховд"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Ölgii is the centre of Bayan-Ölgii aimag (founded 1940, 45,705 km²).",
+        "mn": "Өлгий бол Баян-Өлгий аймгийн төв (1940 онд байгуулагдсан, 45 705 км²)."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d3",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the centre of Darkhan-Uul aimag?",
+        "mn": "Дархан-Уул аймгийн төв аль хот вэ?"
+      },
+      "choices": [
+        {
+          "en": "Darkhan",
+          "mn": "Дархан"
+        },
+        {
+          "en": "Dalanzadgad",
+          "mn": "Даланзадгад"
+        },
+        {
+          "en": "Bayankhongor",
+          "mn": "Баянхонгор"
+        },
+        {
+          "en": "Chinggis City",
+          "mn": "Чингис хот"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Darkhan is the centre of Darkhan-Uul aimag (founded 1994, 3,275 km²).",
+        "mn": "Дархан бол Дархан-Уул аймгийн төв (1994 онд байгуулагдсан, 3 275 км²)."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d4",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the centre of Dornod aimag?",
+        "mn": "Дорнод аймгийн төв аль хот вэ?"
+      },
+      "choices": [
+        {
+          "en": "Choibalsan",
+          "mn": "Чойбалсан"
+        },
+        {
+          "en": "Mörön",
+          "mn": "Мөрөн"
+        },
+        {
+          "en": "Dalanzadgad",
+          "mn": "Даланзадгад"
+        },
+        {
+          "en": "Erdenet",
+          "mn": "Эрдэнэт"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Choibalsan is the centre of Dornod aimag (founded 1941, 123,597 km²).",
+        "mn": "Чойбалсан бол Дорнод аймгийн төв (1941 онд байгуулагдсан, 123 597 км²)."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d5",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the centre of Dornogovi aimag?",
+        "mn": "Дорноговь аймгийн төв аль хот вэ?"
+      },
+      "choices": [
+        {
+          "en": "Bulgan",
+          "mn": "Булган"
+        },
+        {
+          "en": "Mandalgovi",
+          "mn": "Мандалговь"
+        },
+        {
+          "en": "Sainshand",
+          "mn": "Сайншанд"
+        },
+        {
+          "en": "Choibalsan",
+          "mn": "Чойбалсан"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Sainshand is the centre of Dornogovi aimag (founded 1931, 109,472 km²).",
+        "mn": "Сайншанд бол Дорноговь аймгийн төв (1931 онд байгуулагдсан, 109 472 км²)."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the centre of Dundgovi aimag?",
+        "mn": "Дундговь аймгийн төв аль хот вэ?"
+      },
+      "choices": [
+        {
+          "en": "Mandalgovi",
+          "mn": "Мандалговь"
+        },
+        {
+          "en": "Choibalsan",
+          "mn": "Чойбалсан"
+        },
+        {
+          "en": "Zuunmod",
+          "mn": "Зуунмод"
+        },
+        {
+          "en": "Bayankhongor",
+          "mn": "Баянхонгор"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Mandalgovi is the centre of Dundgovi aimag (founded 1942, 74,690 km²).",
+        "mn": "Мандалговь бол Дундговь аймгийн төв (1942 онд байгуулагдсан, 74 690 км²)."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d7",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the centre of Govi-Altai aimag?",
+        "mn": "Говь-Алтай аймгийн төв аль хот вэ?"
+      },
+      "choices": [
+        {
+          "en": "Altai",
+          "mn": "Алтай"
+        },
+        {
+          "en": "Bayankhongor",
+          "mn": "Баянхонгор"
+        },
+        {
+          "en": "Mandalgovi",
+          "mn": "Мандалговь"
+        },
+        {
+          "en": "Sainshand",
+          "mn": "Сайншанд"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Altai is the centre of Govi-Altai aimag (founded 1940, 141,448 km²).",
+        "mn": "Алтай бол Говь-Алтай аймгийн төв (1940 онд байгуулагдсан, 141 448 км²)."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the centre of Govisümber aimag?",
+        "mn": "Говьсүмбэр аймгийн төв аль хот вэ?"
+      },
+      "choices": [
+        {
+          "en": "Choibalsan",
+          "mn": "Чойбалсан"
+        },
+        {
+          "en": "Altai",
+          "mn": "Алтай"
+        },
+        {
+          "en": "Bulgan",
+          "mn": "Булган"
+        },
+        {
+          "en": "Choir",
+          "mn": "Чойр"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Choir is the centre of Govisümber aimag (founded 1996, 5,542 km²).",
+        "mn": "Чойр бол Говьсүмбэр аймгийн төв (1996 онд байгуулагдсан, 5 542 км²)."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d9",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the centre of Khentii aimag?",
+        "mn": "Хэнтий аймгийн төв аль хот вэ?"
+      },
+      "choices": [
+        {
+          "en": "Chinggis City",
+          "mn": "Чингис хот"
+        },
+        {
+          "en": "Khovd",
+          "mn": "Ховд"
+        },
+        {
+          "en": "Erdenet",
+          "mn": "Эрдэнэт"
+        },
+        {
+          "en": "Darkhan",
+          "mn": "Дархан"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Chinggis City is the centre of Khentii aimag (founded 1930, 80,325 km²).",
+        "mn": "Чингис хот бол Хэнтий аймгийн төв (1930 онд байгуулагдсан, 80 325 км²)."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d10",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the centre of Khövsgöl aimag?",
+        "mn": "Хөвсгөл аймгийн төв аль хот вэ?"
+      },
+      "choices": [
+        {
+          "en": "Ulaangom",
+          "mn": "Улаангом"
+        },
+        {
+          "en": "Chinggis City",
+          "mn": "Чингис хот"
+        },
+        {
+          "en": "Dalanzadgad",
+          "mn": "Даланзадгад"
+        },
+        {
+          "en": "Mörön",
+          "mn": "Мөрөн"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Mörön is the centre of Khövsgöl aimag (founded 1931, 100,629 km²).",
+        "mn": "Мөрөн бол Хөвсгөл аймгийн төв (1931 онд байгуулагдсан, 100 629 км²)."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d11",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the centre of Orkhon aimag?",
+        "mn": "Орхон аймгийн төв аль хот вэ?"
+      },
+      "choices": [
+        {
+          "en": "Zuunmod",
+          "mn": "Зуунмод"
+        },
+        {
+          "en": "Sükhbaatar",
+          "mn": "Сүхбаатар"
+        },
+        {
+          "en": "Mandalgovi",
+          "mn": "Мандалговь"
+        },
+        {
+          "en": "Erdenet",
+          "mn": "Эрдэнэт"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Erdenet is the centre of Orkhon aimag (founded 1994, 844 km²).",
+        "mn": "Эрдэнэт бол Орхон аймгийн төв (1994 онд байгуулагдсан, 844 км²)."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d12",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the centre of Ömnögovi aimag?",
+        "mn": "Өмнөговь аймгийн төв аль хот вэ?"
+      },
+      "choices": [
+        {
+          "en": "Darkhan",
+          "mn": "Дархан"
+        },
+        {
+          "en": "Mörön",
+          "mn": "Мөрөн"
+        },
+        {
+          "en": "Uliastai",
+          "mn": "Улиастай"
+        },
+        {
+          "en": "Dalanzadgad",
+          "mn": "Даланзадгад"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Dalanzadgad is the centre of Ömnögovi aimag (founded 1931, 165,380 km²).",
+        "mn": "Даланзадгад бол Өмнөговь аймгийн төв (1931 онд байгуулагдсан, 165 380 км²)."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d13",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the centre of Övörkhangai aimag?",
+        "mn": "Өвөрхангай аймгийн төв аль хот вэ?"
+      },
+      "choices": [
+        {
+          "en": "Sükhbaatar",
+          "mn": "Сүхбаатар"
+        },
+        {
+          "en": "Ulaangom",
+          "mn": "Улаангом"
+        },
+        {
+          "en": "Zuunmod",
+          "mn": "Зуунмод"
+        },
+        {
+          "en": "Arvaikheer",
+          "mn": "Арвайхээр"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Arvaikheer is the centre of Övörkhangai aimag (founded 1931, 62,895 km²).",
+        "mn": "Арвайхээр бол Өвөрхангай аймгийн төв (1931 онд байгуулагдсан, 62 895 км²)."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d14",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the centre of Selenge aimag?",
+        "mn": "Сэлэнгэ аймгийн төв аль хот вэ?"
+      },
+      "choices": [
+        {
+          "en": "Bayankhongor",
+          "mn": "Баянхонгор"
+        },
+        {
+          "en": "Mörön",
+          "mn": "Мөрөн"
+        },
+        {
+          "en": "Tsetserleg",
+          "mn": "Цэцэрлэг"
+        },
+        {
+          "en": "Sükhbaatar",
+          "mn": "Сүхбаатар"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Sükhbaatar is the centre of Selenge aimag (founded 1934, 41,153 km²).",
+        "mn": "Сүхбаатар бол Сэлэнгэ аймгийн төв (1934 онд байгуулагдсан, 41 153 км²)."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d15",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the centre of Sükhbaatar aimag?",
+        "mn": "Сүхбаатар аймгийн төв аль хот вэ?"
+      },
+      "choices": [
+        {
+          "en": "Zuunmod",
+          "mn": "Зуунмод"
+        },
+        {
+          "en": "Mandalgovi",
+          "mn": "Мандалговь"
+        },
+        {
+          "en": "Darkhan",
+          "mn": "Дархан"
+        },
+        {
+          "en": "Baruun-Urt",
+          "mn": "Баруун-Урт"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Baruun-Urt is the centre of Sükhbaatar aimag (founded 1943, 82,287 km²).",
+        "mn": "Баруун-Урт бол Сүхбаатар аймгийн төв (1943 онд байгуулагдсан, 82 287 км²)."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d16",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the centre of Töv aimag?",
+        "mn": "Төв аймгийн төв аль хот вэ?"
+      },
+      "choices": [
+        {
+          "en": "Zuunmod",
+          "mn": "Зуунмод"
+        },
+        {
+          "en": "Ulaangom",
+          "mn": "Улаангом"
+        },
+        {
+          "en": "Mörön",
+          "mn": "Мөрөн"
+        },
+        {
+          "en": "Tsetserleg",
+          "mn": "Цэцэрлэг"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Zuunmod is the centre of Töv aimag (founded 1931, 74,042 km²).",
+        "mn": "Зуунмод бол Төв аймгийн төв (1931 онд байгуулагдсан, 74 042 км²)."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d17",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the centre of Uvs aimag?",
+        "mn": "Увс аймгийн төв аль хот вэ?"
+      },
+      "choices": [
+        {
+          "en": "Choibalsan",
+          "mn": "Чойбалсан"
+        },
+        {
+          "en": "Ulaangom",
+          "mn": "Улаангом"
+        },
+        {
+          "en": "Khovd",
+          "mn": "Ховд"
+        },
+        {
+          "en": "Darkhan",
+          "mn": "Дархан"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Ulaangom is the centre of Uvs aimag (founded 1931, 69,585 km²).",
+        "mn": "Улаангом бол Увс аймгийн төв (1931 онд байгуулагдсан, 69 585 км²)."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d18",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the centre of Zavkhan aimag?",
+        "mn": "Завхан аймгийн төв аль хот вэ?"
+      },
+      "choices": [
+        {
+          "en": "Tsetserleg",
+          "mn": "Цэцэрлэг"
+        },
+        {
+          "en": "Zuunmod",
+          "mn": "Зуунмод"
+        },
+        {
+          "en": "Uliastai",
+          "mn": "Улиастай"
+        },
+        {
+          "en": "Ölgii",
+          "mn": "Өлгий"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Uliastai is the centre of Zavkhan aimag (founded 1931, 82,456 km²).",
+        "mn": "Улиастай бол Завхан аймгийн төв (1931 онд байгуулагдсан, 82 456 км²)."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d19",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Tsetserleg is the centre of which aimag?",
+        "mn": "Цэцэрлэг хот аль аймгийн төв вэ?"
+      },
+      "choices": [
+        {
+          "en": "Zavkhan",
+          "mn": "Завхан"
+        },
+        {
+          "en": "Töv",
+          "mn": "Төв"
+        },
+        {
+          "en": "Selenge",
+          "mn": "Сэлэнгэ"
+        },
+        {
+          "en": "Arkhangai",
+          "mn": "Архангай"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Tsetserleg is the administrative centre of Arkhangai.",
+        "mn": "Цэцэрлэг бол Архангай аймгийн төв."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d20",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Ölgii is the centre of which aimag?",
+        "mn": "Өлгий хот аль аймгийн төв вэ?"
+      },
+      "choices": [
+        {
+          "en": "Bayan-Ölgii",
+          "mn": "Баян-Өлгий"
+        },
+        {
+          "en": "Dornod",
+          "mn": "Дорнод"
+        },
+        {
+          "en": "Töv",
+          "mn": "Төв"
+        },
+        {
+          "en": "Govisümber",
+          "mn": "Говьсүмбэр"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Ölgii is the administrative centre of Bayan-Ölgii.",
+        "mn": "Өлгий бол Баян-Өлгий аймгийн төв."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d21",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Darkhan is the centre of which aimag?",
+        "mn": "Дархан хот аль аймгийн төв вэ?"
+      },
+      "choices": [
+        {
+          "en": "Övörkhangai",
+          "mn": "Өвөрхангай"
+        },
+        {
+          "en": "Darkhan-Uul",
+          "mn": "Дархан-Уул"
+        },
+        {
+          "en": "Govisümber",
+          "mn": "Говьсүмбэр"
+        },
+        {
+          "en": "Bulgan",
+          "mn": "Булган"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Darkhan is the administrative centre of Darkhan-Uul.",
+        "mn": "Дархан бол Дархан-Уул аймгийн төв."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d22",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Choibalsan is the centre of which aimag?",
+        "mn": "Чойбалсан хот аль аймгийн төв вэ?"
+      },
+      "choices": [
+        {
+          "en": "Bulgan",
+          "mn": "Булган"
+        },
+        {
+          "en": "Uvs",
+          "mn": "Увс"
+        },
+        {
+          "en": "Dornod",
+          "mn": "Дорнод"
+        },
+        {
+          "en": "Orkhon",
+          "mn": "Орхон"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Choibalsan is the administrative centre of Dornod.",
+        "mn": "Чойбалсан бол Дорнод аймгийн төв."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d23",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Sainshand is the centre of which aimag?",
+        "mn": "Сайншанд хот аль аймгийн төв вэ?"
+      },
+      "choices": [
+        {
+          "en": "Khentii",
+          "mn": "Хэнтий"
+        },
+        {
+          "en": "Dornogovi",
+          "mn": "Дорноговь"
+        },
+        {
+          "en": "Bulgan",
+          "mn": "Булган"
+        },
+        {
+          "en": "Govisümber",
+          "mn": "Говьсүмбэр"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Sainshand is the administrative centre of Dornogovi.",
+        "mn": "Сайншанд бол Дорноговь аймгийн төв."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d24",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Mandalgovi is the centre of which aimag?",
+        "mn": "Мандалговь хот аль аймгийн төв вэ?"
+      },
+      "choices": [
+        {
+          "en": "Arkhangai",
+          "mn": "Архангай"
+        },
+        {
+          "en": "Selenge",
+          "mn": "Сэлэнгэ"
+        },
+        {
+          "en": "Govi-Altai",
+          "mn": "Говь-Алтай"
+        },
+        {
+          "en": "Dundgovi",
+          "mn": "Дундговь"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Mandalgovi is the administrative centre of Dundgovi.",
+        "mn": "Мандалговь бол Дундговь аймгийн төв."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d25",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Altai is the centre of which aimag?",
+        "mn": "Алтай хот аль аймгийн төв вэ?"
+      },
+      "choices": [
+        {
+          "en": "Govi-Altai",
+          "mn": "Говь-Алтай"
+        },
+        {
+          "en": "Ömnögovi",
+          "mn": "Өмнөговь"
+        },
+        {
+          "en": "Govisümber",
+          "mn": "Говьсүмбэр"
+        },
+        {
+          "en": "Bayankhongor",
+          "mn": "Баянхонгор"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Altai is the administrative centre of Govi-Altai.",
+        "mn": "Алтай бол Говь-Алтай аймгийн төв."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d26",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Choir is the centre of which aimag?",
+        "mn": "Чойр хот аль аймгийн төв вэ?"
+      },
+      "choices": [
+        {
+          "en": "Uvs",
+          "mn": "Увс"
+        },
+        {
+          "en": "Govisümber",
+          "mn": "Говьсүмбэр"
+        },
+        {
+          "en": "Ömnögovi",
+          "mn": "Өмнөговь"
+        },
+        {
+          "en": "Zavkhan",
+          "mn": "Завхан"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Choir is the administrative centre of Govisümber.",
+        "mn": "Чойр бол Говьсүмбэр аймгийн төв."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d27",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Chinggis City is the centre of which aimag?",
+        "mn": "Чингис хот хот аль аймгийн төв вэ?"
+      },
+      "choices": [
+        {
+          "en": "Bayankhongor",
+          "mn": "Баянхонгор"
+        },
+        {
+          "en": "Bayan-Ölgii",
+          "mn": "Баян-Өлгий"
+        },
+        {
+          "en": "Arkhangai",
+          "mn": "Архангай"
+        },
+        {
+          "en": "Khentii",
+          "mn": "Хэнтий"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Chinggis City is the administrative centre of Khentii.",
+        "mn": "Чингис хот бол Хэнтий аймгийн төв."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d28",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Mörön is the centre of which aimag?",
+        "mn": "Мөрөн хот аль аймгийн төв вэ?"
+      },
+      "choices": [
+        {
+          "en": "Bulgan",
+          "mn": "Булган"
+        },
+        {
+          "en": "Uvs",
+          "mn": "Увс"
+        },
+        {
+          "en": "Orkhon",
+          "mn": "Орхон"
+        },
+        {
+          "en": "Khövsgöl",
+          "mn": "Хөвсгөл"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Mörön is the administrative centre of Khövsgöl.",
+        "mn": "Мөрөн бол Хөвсгөл аймгийн төв."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d29",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Erdenet is the centre of which aimag?",
+        "mn": "Эрдэнэт хот аль аймгийн төв вэ?"
+      },
+      "choices": [
+        {
+          "en": "Govi-Altai",
+          "mn": "Говь-Алтай"
+        },
+        {
+          "en": "Ömnögovi",
+          "mn": "Өмнөговь"
+        },
+        {
+          "en": "Orkhon",
+          "mn": "Орхон"
+        },
+        {
+          "en": "Zavkhan",
+          "mn": "Завхан"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Erdenet is the administrative centre of Orkhon.",
+        "mn": "Эрдэнэт бол Орхон аймгийн төв."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d30",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Dalanzadgad is the centre of which aimag?",
+        "mn": "Даланзадгад хот аль аймгийн төв вэ?"
+      },
+      "choices": [
+        {
+          "en": "Uvs",
+          "mn": "Увс"
+        },
+        {
+          "en": "Ömnögovi",
+          "mn": "Өмнөговь"
+        },
+        {
+          "en": "Bulgan",
+          "mn": "Булган"
+        },
+        {
+          "en": "Zavkhan",
+          "mn": "Завхан"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Dalanzadgad is the administrative centre of Ömnögovi.",
+        "mn": "Даланзадгад бол Өмнөговь аймгийн төв."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d31",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Arvaikheer is the centre of which aimag?",
+        "mn": "Арвайхээр хот аль аймгийн төв вэ?"
+      },
+      "choices": [
+        {
+          "en": "Khovd",
+          "mn": "Ховд"
+        },
+        {
+          "en": "Khövsgöl",
+          "mn": "Хөвсгөл"
+        },
+        {
+          "en": "Dornod",
+          "mn": "Дорнод"
+        },
+        {
+          "en": "Övörkhangai",
+          "mn": "Өвөрхангай"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Arvaikheer is the administrative centre of Övörkhangai.",
+        "mn": "Арвайхээр бол Өвөрхангай аймгийн төв."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d32",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Sükhbaatar is the centre of which aimag?",
+        "mn": "Сүхбаатар хот аль аймгийн төв вэ?"
+      },
+      "choices": [
+        {
+          "en": "Arkhangai",
+          "mn": "Архангай"
+        },
+        {
+          "en": "Selenge",
+          "mn": "Сэлэнгэ"
+        },
+        {
+          "en": "Bayankhongor",
+          "mn": "Баянхонгор"
+        },
+        {
+          "en": "Govi-Altai",
+          "mn": "Говь-Алтай"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Sükhbaatar is the administrative centre of Selenge.",
+        "mn": "Сүхбаатар бол Сэлэнгэ аймгийн төв."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d33",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Baruun-Urt is the centre of which aimag?",
+        "mn": "Баруун-Урт хот аль аймгийн төв вэ?"
+      },
+      "choices": [
+        {
+          "en": "Selenge",
+          "mn": "Сэлэнгэ"
+        },
+        {
+          "en": "Sükhbaatar",
+          "mn": "Сүхбаатар"
+        },
+        {
+          "en": "Töv",
+          "mn": "Төв"
+        },
+        {
+          "en": "Zavkhan",
+          "mn": "Завхан"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Baruun-Urt is the administrative centre of Sükhbaatar.",
+        "mn": "Баруун-Урт бол Сүхбаатар аймгийн төв."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d34",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Zuunmod is the centre of which aimag?",
+        "mn": "Зуунмод хот аль аймгийн төв вэ?"
+      },
+      "choices": [
+        {
+          "en": "Töv",
+          "mn": "Төв"
+        },
+        {
+          "en": "Govisümber",
+          "mn": "Говьсүмбэр"
+        },
+        {
+          "en": "Khovd",
+          "mn": "Ховд"
+        },
+        {
+          "en": "Ömnögovi",
+          "mn": "Өмнөговь"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Zuunmod is the administrative centre of Töv.",
+        "mn": "Зуунмод бол Төв аймгийн төв."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d35",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Ulaangom is the centre of which aimag?",
+        "mn": "Улаангом хот аль аймгийн төв вэ?"
+      },
+      "choices": [
+        {
+          "en": "Selenge",
+          "mn": "Сэлэнгэ"
+        },
+        {
+          "en": "Sükhbaatar",
+          "mn": "Сүхбаатар"
+        },
+        {
+          "en": "Zavkhan",
+          "mn": "Завхан"
+        },
+        {
+          "en": "Uvs",
+          "mn": "Увс"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Ulaangom is the administrative centre of Uvs.",
+        "mn": "Улаангом бол Увс аймгийн төв."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d36",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Uliastai is the centre of which aimag?",
+        "mn": "Улиастай хот аль аймгийн төв вэ?"
+      },
+      "choices": [
+        {
+          "en": "Zavkhan",
+          "mn": "Завхан"
+        },
+        {
+          "en": "Bayankhongor",
+          "mn": "Баянхонгор"
+        },
+        {
+          "en": "Dornogovi",
+          "mn": "Дорноговь"
+        },
+        {
+          "en": "Sükhbaatar",
+          "mn": "Сүхбаатар"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Uliastai is the administrative centre of Zavkhan.",
+        "mn": "Улиастай бол Завхан аймгийн төв."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-areas",
+      "key": "mongolia.aimag-areas.d37",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which is the largest aimag of Mongolia by area?",
+        "mn": "Газар нутгаараа хамгийн том аймаг аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Ömnögovi",
+          "mn": "Өмнөговь"
+        },
+        {
+          "en": "Dornogovi",
+          "mn": "Дорноговь"
+        },
+        {
+          "en": "Dornod",
+          "mn": "Дорнод"
+        },
+        {
+          "en": "Govi-Altai",
+          "mn": "Говь-Алтай"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Ömnögovi covers 165,380 km², about a tenth of Mongolia.",
+        "mn": "Өмнөговь 165 380 км² нутагтай, Монголын нутгийн аравны нэг орчим."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-areas",
+      "key": "mongolia.aimag-areas.d38",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which is the smallest aimag by area?",
+        "mn": "Газар нутгаараа хамгийн жижиг аймаг аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Orkhon",
+          "mn": "Орхон"
+        },
+        {
+          "en": "Govisümber",
+          "mn": "Говьсүмбэр"
+        },
+        {
+          "en": "Darkhan-Uul",
+          "mn": "Дархан-Уул"
+        },
+        {
+          "en": "Selenge",
+          "mn": "Сэлэнгэ"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Orkhon, built around the Erdenet copper mine, covers only 844 km².",
+        "mn": "Эрдэнэтийн зэсийн уурхайг түшиглэсэн Орхон аймаг ердөө 844 км² нутагтай."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-areas",
+      "key": "mongolia.aimag-areas.d39",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which aimag is the second largest by area?",
+        "mn": "Газар нутгаараа хоёрдугаарт ордог аймаг аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Dornod",
+          "mn": "Дорнод"
+        },
+        {
+          "en": "Bayankhongor",
+          "mn": "Баянхонгор"
+        },
+        {
+          "en": "Govi-Altai",
+          "mn": "Говь-Алтай"
+        },
+        {
+          "en": "Ömnögovi",
+          "mn": "Өмнөговь"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Govi-Altai (141,448 km²) is second after Ömnögovi.",
+        "mn": "Говь-Алтай (141 448 км²) Өмнөговийн дараа хоёрдугаарт ордог."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-areas",
+      "key": "mongolia.aimag-areas.d40",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which aimag has the largest population (2020 census)?",
+        "mn": "Аль аймаг хамгийн олон хүн амтай вэ (2020 оны тооллого)?"
+      },
+      "choices": [
+        {
+          "en": "Övörkhangai",
+          "mn": "Өвөрхангай"
+        },
+        {
+          "en": "Selenge",
+          "mn": "Сэлэнгэ"
+        },
+        {
+          "en": "Khövsgöl",
+          "mn": "Хөвсгөл"
+        },
+        {
+          "en": "Darkhan-Uul",
+          "mn": "Дархан-Уул"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Khövsgöl had 135,095 people in 2020.",
+        "mn": "2020 онд Хөвсгөл аймагт 135 095 хүн амьдарч байв."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-areas",
+      "key": "mongolia.aimag-areas.d41",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which aimag has the smallest population?",
+        "mn": "Аль аймаг хамгийн цөөн хүн амтай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Govisümber",
+          "mn": "Говьсүмбэр"
+        },
+        {
+          "en": "Sükhbaatar",
+          "mn": "Сүхбаатар"
+        },
+        {
+          "en": "Dundgovi",
+          "mn": "Дундговь"
+        },
+        {
+          "en": "Ömnögovi",
+          "mn": "Өмнөговь"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Govisümber had only 17,928 people in 2020.",
+        "mn": "2020 онд Говьсүмбэр аймагт ердөө 17 928 хүн амьдарч байв."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d42",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which is the youngest aimag of Mongolia?",
+        "mn": "Монголын хамгийн сүүлд байгуулагдсан аймаг аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Govisümber",
+          "mn": "Говьсүмбэр"
+        },
+        {
+          "en": "Sükhbaatar",
+          "mn": "Сүхбаатар"
+        },
+        {
+          "en": "Arkhangai",
+          "mn": "Архангай"
+        },
+        {
+          "en": "Khövsgöl",
+          "mn": "Хөвсгөл"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Govisümber was split off from Dornogovi and Töv in 1996.",
+        "mn": "Говьсүмбэр аймаг 1996 онд Дорноговь, Төвөөс тусгаарлан байгуулагдсан."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d43",
+      "difficulty": 2,
+      "prompt": {
+        "en": "How many aimags does Mongolia have?",
+        "mn": "Монгол Улс хэдэн аймагтай вэ?"
+      },
+      "choices": [
+        {
+          "en": "21",
+          "mn": "21"
+        },
+        {
+          "en": "18",
+          "mn": "18"
+        },
+        {
+          "en": "22",
+          "mn": "22"
+        },
+        {
+          "en": "24",
+          "mn": "24"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Mongolia has 21 aimags plus the capital Ulaanbaatar.",
+        "mn": "Монгол Улс 21 аймаг, нийслэл Улаанбаатартай."
+      }
+    },
+    {
+      "topicSlug": "mongolia",
+      "lessonKey": "mongolia.aimag-flags",
+      "key": "mongolia.aimag-flags.d44",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Before 2013, Chinggis City (Khentii) was called…",
+        "mn": "2013 оноос өмнө Чингис хот (Хэнтий) ямар нэртэй байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Öndörkhaan",
+          "mn": "Өндөрхаан"
+        },
+        {
+          "en": "Sainshand",
+          "mn": "Сайншанд"
+        },
+        {
+          "en": "Baruun-Urt",
+          "mn": "Баруун-Урт"
+        },
+        {
+          "en": "Choibalsan",
+          "mn": "Чойбалсан"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Öndörkhaan was renamed Chinggis City in 2013, near Chinggis Khaan’s birthplace.",
+        "mn": "Өндөрхааныг 2013 онд Чингис хот болгон нэрлэсэн — Чингис хааны төрсөн нутгийн ойролцоо."
+      }
+    }
+  ]
+}

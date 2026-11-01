@@ -1,0 +1,1449 @@
+{
+  "lessons": [
+    {
+      "topicSlug": "nature",
+      "key": "nature.deep-sea-creatures",
+      "order": 2,
+      "title": {
+        "en": "Surviving the Abyss: Deep Sea Creatures",
+        "mn": "Гүн тэнгисийн амьдрал: Харанхуйн оршин суугчид"
+      },
+      "summary": {
+        "en": "Discover the bizarre adaptations of creatures living in the ocean's midnight zone.",
+        "mn": "Далайн гүн дэх нарны гэрэл үл хүрэх бүсийн сонин хачин амьтдын зохицлыг танин мэдэх."
+      },
+      "body": {
+        "en": "Deep sea creatures live in extreme conditions of crushing pressure, freezing cold, and complete darkness. To survive, they have evolved bizarre adaptations, such as bioluminescence to attract prey and expandable stomachs to swallow meals larger than themselves. These animals represent some of the most unique evolutionary paths on Earth.",
+        "mn": "Тэнгисийн гүний амьтад асар их даралт, тэсгим хүйтэн, тас харанхуй орчинд амьдардаг. Тэд амьд үлдэхийн тулд идэш тэжээлээ татах гэрэл ялгаруулах, өөрөөсөө том олзыг залгих уян хатан ходоодтой болох зэргээр гайхалтай зохицжээ. Эдгээр амьтад нь дэлхий дээрх хамгийн өвөрмөц хувьслын жишээ юм."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "🐟",
+            "title": {
+              "en": "Anglerfish",
+              "mn": "Уурхайчин загас"
+            },
+            "facts": [
+              {
+                "en": "Females possess a glowing bioluminescent lure on their heads to attract prey in the dark.",
+                "mn": "Эмэгчин нь харанхуйд идэш тэжээлээ татахын тулд толгой дээрээ гэрэлтдэг эрхтэнтэй байдаг."
+              },
+              {
+                "en": "Males are tiny parasites that permanently fuse their bodies to the female.",
+                "mn": "Эрэгчин нь маш жижиг биетэй бөгөөд эмэгчнийхээ биед бүрмөсөн наалдаж шимэгчлэн амьдардаг."
+              }
+            ],
+            "subtitle": {
+              "en": "The Light in the Dark",
+              "mn": "Харанхуй дахь гэрэл"
+            }
+          },
+          {
+            "icon": "🦑",
+            "title": {
+              "en": "Giant Squid",
+              "mn": "Үлэмж наймаалж"
+            },
+            "facts": [
+              {
+                "en": "They possess eyes the size of basketballs to detect faint light in the deep ocean.",
+                "mn": "Тэд далайн гүний сул гэрлийг мэдрэхийн тулд сагсан бөмбөгийн чинээ том нүдтэй байдаг."
+              },
+              {
+                "en": "They are the primary prey of sperm whales, leading to epic deep-sea battles.",
+                "mn": "Тэд кашалот халимны гол идэш тэжээл бөгөөд тэдний дунд ширүүн тэмцэл өрнөдөг."
+              }
+            ],
+            "subtitle": {
+              "en": "The Ocean Monster",
+              "mn": "Далайн мангас"
+            }
+          },
+          {
+            "icon": "🩸",
+            "title": {
+              "en": "Vampire Squid",
+              "mn": "Цус сорогч наймаалж"
+            },
+            "facts": [
+              {
+                "en": "Its scientific name, Vampyroteuthis infernalis, literally translates to 'vampire squid from hell'.",
+                "mn": "Шинжлэх ухааны нэр болох Vampyroteuthis infernalis нь шууд орчуулбал 'тамын цус сорогч наймаалж' гэсэн утгатай."
+              },
+              {
+                "en": "Instead of hunting, it feeds on 'marine snow'—falling organic detritus.",
+                "mn": "Тэд ан хийхийн оронд дээрээс унах органик үлдэгдэл буюу 'далайн цас'-аар хооллодог."
+              }
+            ],
+            "subtitle": {
+              "en": "The Gentle Vampire",
+              "mn": "Аюулгүй цус сорогч"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "The anglerfish uses a glowing lure on its head, which is actually packed with millions of light-producing symbiotic bacteria.",
+          "mn": "Уурхайчин загасны толгой дээрх гэрэлтдэг өгөөш нь сая сая гэрэл ялгаруулагч симбиотик бактериас бүрддэг."
+        },
+        {
+          "en": "At extreme depths, fish lack air-filled swim bladders because the intense pressure would cause them to rupture.",
+          "mn": "Асар их гүнд амьдардаг загаснуудад хийт хөвүүр байдаггүй бөгөөд хэрэв байвал усны асар их даралтад хагарах аюултай байдаг."
+        }
+      ]
+    },
+    {
+      "topicSlug": "nature",
+      "key": "nature.bird-migration-patterns",
+      "order": 3,
+      "title": {
+        "en": "The Great Journeys: Bird Migration Patterns",
+        "mn": "Агуу аялал: Шувуудын нүүдэл"
+      },
+      "summary": {
+        "en": "Explore how birds travel thousands of miles using the Earth's magnetic field and stars.",
+        "mn": "Шувууд дэлхийн соронзон орон болон оддыг ашиглан хэрхэн олон мянган бээр аялдгийг олж мэдэх."
+      },
+      "body": {
+        "en": "Every year, billions of birds embark on epic migrations to find food and breeding grounds. These journeys require incredible endurance and precise navigation. Birds use a mix of visual landmarks, the sun, stars, and even the Earth's magnetic field to guide them across continents and oceans.",
+        "mn": "Жил бүр олон тэрбум шувууд идэш тэжээл, үржлийн газраа олохоор хол замд гардаг. Энэхүү аялал нь тэсвэр хатуужил, нарийн зүг чиг олох чадвар шаарддаг. Шувууд хуурай газар, нар, од, тэр байтугай дэлхийн соронзон орныг ашиглан тив, далайг гатлан нисдэг."
+      },
+      "visual": {
+        "kind": "bar",
+        "unit": {
+          "en": "km (annual round-trip)",
+          "mn": "км (жилийн хоёр талын аялал)"
+        },
+        "horizontal": true,
+        "items": [
+          {
+            "label": {
+              "en": "Arctic Tern",
+              "mn": "Хойд туйлын хараацай"
+            },
+            "value": 70000
+          },
+          {
+            "label": {
+              "en": "Sooty Shearwater",
+              "mn": "Номин шувуу"
+            },
+            "value": 64000
+          },
+          {
+            "label": {
+              "en": "Bar-tailed Godwit",
+              "mn": "Хүрэн хүзүүт элсч"
+            },
+            "value": 29000
+          },
+          {
+            "label": {
+              "en": "Amur Falcon",
+              "mn": "Амурын шонхор"
+            },
+            "value": 22000
+          },
+          {
+            "label": {
+              "en": "Ruby-throated Hummingbird",
+              "mn": "Бадмаараг хоолойт колибри"
+            },
+            "value": 3000
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "The Arctic Tern flies from the Arctic to the Antarctic and back every year, experiencing two summers.",
+          "mn": "Хойд туйлын хараацай жил бүр Хойд туйлаас Өмнөд туйл руу нисэж, буцаж ирдэг тул жилд хоёр удаа зуныг үздэг."
+        },
+        {
+          "en": "Some songbirds migrate at night to avoid predators and take advantage of cooler, calmer air.",
+          "mn": "Зарим дууч шувууд махчин амьтдаас зайлсхийх, мөн сэрүүн, тогтуун агаарыг ашиглахын тулд шөнөөр нүүдэллэдэг."
+        }
+      ]
+    },
+    {
+      "topicSlug": "nature",
+      "key": "nature.rainforest-ecosystems",
+      "order": 4,
+      "title": {
+        "en": "Lungs of the Earth: Rainforest Ecosystems",
+        "mn": "Дэлхийн уушги: Халуун орны ой"
+      },
+      "summary": {
+        "en": "Understand the layers of the rainforest and the incredible biodiversity they support.",
+        "mn": "Халуун орны ойн давхаргууд болон тэнд орших биологийн олон янз байдлыг танин мэдэх."
+      },
+      "body": {
+        "en": "Rainforests cover only about 6% of the Earth's land surface but are home to more than half of the world's plant and animal species. They are structured into four distinct vertical layers: the emergent layer, the canopy, the understory, and the forest floor. Each layer hosts specialized organisms adapted to its unique microclimate.",
+        "mn": "Халуун орны ой нь дэлхийн хуурай газрын ердөө 6 орчим хувийг эзэлдэг боловч дэлхийн ургамал, амьтны зүйлийн талаас илүү хувийн амьдрах орчин болдог. Эдгээр ой нь дээд давхарга, цуулбар (оройн хэсэг), дунд давхарга, ойн хөрс гэсэн дөрвөн үндсэн давхаргад хуваагддаг."
+      },
+      "visual": {
+        "kind": "timeline",
+        "items": [
+          {
+            "when": {
+              "en": "Forest Floor",
+              "mn": "Ойн хөрс"
+            },
+            "title": {
+              "en": "The Dark Ground",
+              "mn": "Харанхуй хөрсний бүс"
+            },
+            "body": {
+              "en": "Almost no sunlight reaches here. It is where rapid decomposition occurs, driven by fungi, insects, and decomposers.",
+              "mn": "Энд нарны гэрэл бараг хүрдэггүй. Мөөгөнцөр, шавж зэрэг задлагчдын тусламжтайгаар органик бодисууд маш хурдан задардаг."
+            }
+          },
+          {
+            "when": {
+              "en": "Understory Layer",
+              "mn": "Дунд давхарга"
+            },
+            "title": {
+              "en": "The Shaded Mid-section",
+              "mn": "Сүүдэрлэг дунд хэсэг"
+            },
+            "body": {
+              "en": "Receiving only 2-15% of sunlight, this layer is dominated by large-leaved shrubs, jaguars, and tree frogs.",
+              "mn": "Нарны гэрлийн ердөө 2-15 хувийг хүлээн авдаг энэ давхаргад том навчит бут сөөг, ирвэс, модны мэлхий амьдардаг."
+            }
+          },
+          {
+            "when": {
+              "en": "Canopy Layer",
+              "mn": "Ойн оройн цуулбар"
+            },
+            "title": {
+              "en": "The Green Roof",
+              "mn": "Ногоон дээвэр"
+            },
+            "body": {
+              "en": "The primary layer of the forest, forming a dense ceiling 100 feet up. It houses 90% of all rainforest organisms.",
+              "mn": "Газраас дээш 30 орчим метрийн өндөрт байх нягт дээвэр бөгөөд ширэнгэн ойн нийт амьд организмын 90 хувь нь энд амьдардаг."
+            }
+          },
+          {
+            "when": {
+              "en": "Emergent Layer",
+              "mn": "Дээд давхарга"
+            },
+            "title": {
+              "en": "The Giants",
+              "mn": "Үлэмж моддын бүс"
+            },
+            "body": {
+              "en": "Giant trees towering up to 200 feet above the forest. Eagles, bats, and monkeys live here, facing intense heat and wind.",
+              "mn": "Ойн дээврээс даван ургасан 60 гаруй метр өндөр аварга моддын бүс. Энд бүргэд, сарьсан багваахай, сармагчингууд хүчтэй салхи, халууныг сөрөн амьдардаг."
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "Over 25% of modern medicines originate from tropical forest plants, yet only a tiny fraction have been screened for medicinal properties.",
+          "mn": "Орчин үеийн эмийн 25 гаруй хувийг халуун орны ойн ургамлаас гарган авдаг боловч одоогоор маш бага хувийг нь судалж шинжлээд байна."
+        },
+        {
+          "en": "The Amazon Rainforest is so dense that when it rains, it can take up to 10 minutes for water to reach the ground.",
+          "mn": "Амазоны ширэнгэн ой маш шигүү тул бороо ороход дусал нь газарт хүртэл 10 минут орчим болдог."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.deep-sea-creatures",
+      "key": "nature.deep-sea-creatures.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Deep-sea creatures must survive under immense pressure. Which of these is the deepest known point in the Earth's oceans, located in the Pacific?",
+        "mn": "Далайн гүний амьтад асар их даралт дор амьдардаг. Номхон далайд орших, дэлхийн хамгийн гүн цэг аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Mariana Trench",
+          "mn": "Марианы хотгор"
+        },
+        {
+          "en": "Java Trench",
+          "mn": "Явагийн хотгор"
+        },
+        {
+          "en": "Sunda Trench",
+          "mn": "Зондын хотгор"
+        },
+        {
+          "en": "Puerto Rico Trench",
+          "mn": "Пуэрто-Рикогийн хотгор"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Challenger Deep in the Mariana Trench is the deepest known point on Earth, reaching nearly 11,000 meters. At this depth, the pressure is over 1,000 times greater than at sea level.",
+        "mn": "Марианы хотгорын Челленжерийн гүн нь дэлхийн хамгийн гүн цэг бөгөөд бараг 11,000 метрт хүрдэг. Энэ гүнд даралт нь далайн түвшнээс 1,000 дахин их байдаг."
+      }
+    },
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.deep-sea-creatures",
+      "key": "nature.deep-sea-creatures.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The female anglerfish is famous for her glowing lure, but how does the tiny male anglerfish survive?",
+        "mn": "Эмэгчин уурхайчин загас толгой дээрх гэрлээрээ алдартай бол маш жижиг биетэй эрэгчин нь хэрхэн амьдардаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "By feeding on marine plants",
+          "mn": "Далайн ургамлаар хооллож"
+        },
+        {
+          "en": "By living inside giant sponges",
+          "mn": "Үлэмж хөвөн биет дотор амьдарч"
+        },
+        {
+          "en": "By fusing permanently to a female",
+          "mn": "Эмэгчнийхээ биед бүрмөсөн наалдаж"
+        },
+        {
+          "en": "By hunting in shallow waters",
+          "mn": "Гүехэн усанд ан хийж"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "In a process called sexual parasitism, the tiny male bites into the female, and their tissues and blood vessels eventually fuse together forever.",
+        "mn": "Эрэгчин уурхайчин загас эмэгчнийхээ биеийг хазаж наалддаг бөгөөд яваандаа тэдний эд эс, цусны судаснууд бүрмөсөн нэгддэг байна."
+      }
+    },
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.deep-sea-creatures",
+      "key": "nature.deep-sea-creatures.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Many deep-sea animals generate their own light. What is the scientific term for this chemical light production?",
+        "mn": "Далайн гүний олон амьтад өөрөөсөө гэрэл цацруулдаг. Энэхүү химийн урвалаар гэрэл үүсгэх үзэгдлийг шинжлэх ухаанд юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Chemosynthesis",
+          "mn": "Хемосинтез"
+        },
+        {
+          "en": "Phosphorescence",
+          "mn": "Фосфоресценци"
+        },
+        {
+          "en": "Bioluminescence",
+          "mn": "Биолюминесценци"
+        },
+        {
+          "en": "Photosynthesis",
+          "mn": "Фотосинтез"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Bioluminescence is the production and emission of light by a living organism, usually created when a substance called luciferin reacts with oxygen.",
+        "mn": "Биолюминесценци гэдэг нь амьд организмаас гэрэл ялгарах үзэгдэл бөгөөд голдуу люциферин хэмээх бодис хүчилтөрөгчтэй урвалд орсноор үүсдэг."
+      }
+    },
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.deep-sea-creatures",
+      "key": "nature.deep-sea-creatures.g4",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The vampire squid's scientific name is 'Vampyroteuthis infernalis'. What does this name literally translate to?",
+        "mn": "Цус сорогч наймаалжны шинжлэх ухааны нэр нь 'Vampyroteuthis infernalis' юм. Энэ нэр шууд орчуулбал ямар утгатай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Ghost of the deep ocean",
+          "mn": "Гүн далайн сүнс"
+        },
+        {
+          "en": "Blood-drinking shadow",
+          "mn": "Цус уудаг сүүдэр"
+        },
+        {
+          "en": "Black demon of the abyss",
+          "mn": "Ангал далайн хар чөтгөр"
+        },
+        {
+          "en": "Vampire squid from hell",
+          "mn": "Тамын цус сорогч наймаалж"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Despite its terrifying name meaning 'vampire squid from hell', this animal is completely harmless and feeds primarily on organic detritus called marine snow.",
+        "mn": "Хэдийгээр 'тамын цус сорогч наймаалж' гэсэн аймшигтай нэртэй ч энэ амьтан нь хүний биед огт аюулгүй бөгөөд 'далайн цас' хэмээх органик үлдэгдлээр хооллодог."
+      }
+    },
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.deep-sea-creatures",
+      "key": "nature.deep-sea-creatures.g5",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The giant squid is famous for its massive size. Which land object is closest in size to a giant squid's eye?",
+        "mn": "Үлэмж наймаалж нь аварга том биеэрээ алдартай. Түүний нүдний хэмжээ хуурай газрын ямар зүйлтэй хамгийн ойролцоо вэ?"
+      },
+      "choices": [
+        {
+          "en": "A golf ball",
+          "mn": "Гольфын бөмбөг"
+        },
+        {
+          "en": "A basketball",
+          "mn": "Сагсан бөмбөг"
+        },
+        {
+          "en": "A teacup",
+          "mn": "Цайны аяга"
+        },
+        {
+          "en": "A coin",
+          "mn": "Зоос"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "A giant squid's eye can grow up to 27 centimeters in diameter, which is roughly the size of a basketball, helping it detect faint light in the dark ocean.",
+        "mn": "Үлэмж наймаалжны нүдний голч нь 27 сантиметр хүрдэг бөгөөд энэ нь сагсан бөмбөгийн хэмжээтэй ойролцоо юм. Энэ нь тэдэнд харанхуй усанд сул гэрлийг мэдрэхэд тусалдаг."
+      }
+    },
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.deep-sea-creatures",
+      "key": "nature.deep-sea-creatures.g6",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Deep-sea creatures often feed on organic material drifting down from upper ocean layers. What is this material called?",
+        "mn": "Далайн гүний амьтад дээд давхаргаас доош унах органик бодисоор хооллодог. Энэхүү органик үлдэгдлийг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Marine snow",
+          "mn": "Далайн цас"
+        },
+        {
+          "en": "Abyssal dust",
+          "mn": "Гүний тоос"
+        },
+        {
+          "en": "Ocean fog",
+          "mn": "Далайн манан"
+        },
+        {
+          "en": "Plankton rain",
+          "mn": "Планктоны бороо"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "This falling organic matter is called 'marine snow'. It consists of dead plants and animals, sand, and fecal matter, and takes weeks to drift down to the ocean floor.",
+        "mn": "Дээрээс унах органик үлдэгдлийг 'далайн цас' гэж нэрлэдэг. Үүнд үхсэн ургамал, амьтны үлдэгдэл, элс багтах бөгөөд далайн ёроолд хүртэл хэдэн долоо хоног болдог байна."
+      }
+    },
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.deep-sea-creatures",
+      "key": "nature.deep-sea-creatures.g7",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which of these giant marine mammals is famous for diving deep into the ocean to hunt giant squids?",
+        "mn": "Далайн аварга биет хөхтөн амьтдаас аль нь үлэмж наймаалж агнахын тулд далайн гүн рүү шумбадагаараа алдартай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Orca",
+          "mn": "Алуурчин халим"
+        },
+        {
+          "en": "Humpback whale",
+          "mn": "Бөгтөр халим"
+        },
+        {
+          "en": "Blue whale",
+          "mn": "Хөх халим"
+        },
+        {
+          "en": "Sperm whale",
+          "mn": "Кашалот халим"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Sperm whales can dive up to 2,000 meters deep and hold their breath for over an hour to hunt giant squids, often carrying scars from these battles.",
+        "mn": "Кашалот халим нь үлэмж наймаалж агнахын тулд 2,000 метр хүртэл гүн шумбаж, амьсгалаа нэг цаг гаруй барьж чаддаг. Тэдний бие дээрх сорви нь энэхүү ширүүн тэмцлийг гэрчилдэг."
+      }
+    },
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.deep-sea-creatures",
+      "key": "nature.deep-sea-creatures.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Why do many deep-sea fish lack air-filled swim bladders, which normal shallow-water fish use to float?",
+        "mn": "Ердийн гүехэн усны загаснууд хөвөхөд ашигладаг хийтэй давсаг далайн гүний загаснуудад яагаад байдаггүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "They lack oxygen to fill the bladder",
+          "mn": "Давсгийг дүүргэх хүчилтөрөгч дутагдалтай тул"
+        },
+        {
+          "en": "Cold temperatures freeze the air inside",
+          "mn": "Хүйтэн хэмээс болж доторх хий нь хөлдөх тул"
+        },
+        {
+          "en": "They do not need to move vertically",
+          "mn": "Тэдэнд дээш доош хөдлөх шаардлагагүй тул"
+        },
+        {
+          "en": "The intense pressure would rupture them",
+          "mn": "Асар их даралтаас болж хагарах тул"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "At extreme depths, the immense hydrostatic pressure would crush or rupture any air-filled cavity. Instead, deep-sea fish rely on lipids or gelatinous bodies for buoyancy.",
+        "mn": "Гүн далайн асар их даралт нь хийтэй хөндийг шууд хагалах аюултай тул гүний загаснууд хөвөх чадвараа хадгалахын тулд өөх тос эсвэл цэлцэгнүүр биеийг ашигладаг."
+      }
+    },
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.deep-sea-creatures",
+      "key": "nature.deep-sea-creatures.g9",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Discovered in 2014, the Mariana snailfish holds the record for the deepest-dwelling fish ever found. At approximately what depth was it recorded?",
+        "mn": "2014 онд нээгдсэн Марианы эмгэн хумсан загас нь хамгийн гүнд амьдардаг загасаар тодорсон. Түүнийг ойролцоогоор хэдэн метрийн гүнд илрүүлсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Around 12,000 meters",
+          "mn": "Ойролцоогоор 12,000 метр"
+        },
+        {
+          "en": "Around 2,000 meters",
+          "mn": "Ойролцоогоор 2,000 метр"
+        },
+        {
+          "en": "Around 4,000 meters",
+          "mn": "Ойролцоогоор 4,000 метр"
+        },
+        {
+          "en": "Around 8,000 meters",
+          "mn": "Ойролцоогоор 8,000 метр"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Mariana snailfish was filmed at a depth of 8,178 meters. Scientists believe that because of cell stability limits under pressure, fish cannot survive much deeper than 8,200 meters.",
+        "mn": "Марианы эмгэн хумсан загасны бичлэгийг 8,178 метрийн гүнд хийсэн байна. Эрдэмтэд даралтын нөлөөгөөр загас 8,200 метрээс илүү гүнд амьдрах боломжгүй гэж үздэг."
+      }
+    },
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.deep-sea-creatures",
+      "key": "nature.deep-sea-creatures.g10",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of these deep-sea creatures is famous for its completely transparent, dome-shaped head that allows its eyes to look straight up?",
+        "mn": "Далайн гүний ямар амьтан нүдээ дээш нь харуулах боломжтой, бүрэн тунгалаг бөмбөгөр толгойтой байдгаараа алдартай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Gulper eel",
+          "mn": "Аварга амт могой загас"
+        },
+        {
+          "en": "Barreleye fish",
+          "mn": "Торхон нүдэт загас"
+        },
+        {
+          "en": "Viperfish",
+          "mn": "Хорт могой загас"
+        },
+        {
+          "en": "Dragonfish",
+          "mn": "Луу загас"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The barreleye fish has highly sensitive, green tubular eyes enclosed inside a fluid-filled transparent shield on its head, protecting them from stinging cells of jellyfish.",
+        "mn": "Торхон нүдэт загас нь шингэнээр дүүрсэн тунгалаг толгой дотроо маш мэдрэг, ногоон өнгийн цилиндр хэлбэртэй нүдтэй бөгөөд энэ нь нүдийг нь медузын хатгуураас хамгаалдаг."
+      }
+    },
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.deep-sea-creatures",
+      "key": "nature.deep-sea-creatures.g11",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In the deep ocean, there are hydrothermal vents that spew superheated, mineral-rich water. What is the common nickname for these vents?",
+        "mn": "Далайн гүнд эрдэс бодисоор баялаг, маш халуун ус оргилдог гейзерүүд байдаг. Эдгээрийг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Black smokers",
+          "mn": "Хар утаат суваг"
+        },
+        {
+          "en": "Deep geysers",
+          "mn": "Гүний халуун рашаан"
+        },
+        {
+          "en": "Lava chimneys",
+          "mn": "Лаавын яндан"
+        },
+        {
+          "en": "Sulfur wells",
+          "mn": "Хүхрийн худаг"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Hydrothermal vents are often called 'black smokers' because of the dark, iron-sulfide minerals they release. Entire ecosystems thrive around them without any sunlight.",
+        "mn": "Эдгээрийг төмрийн сульфидын хар тунадас ялгаруулдаг тул 'хар утаат суваг' гэж нэрлэдэг. Тэдгээрийн эргэн тойронд нарны гэрэлгүйгээр бүхэл бүтэн экосистем оршин тогтнодог."
+      }
+    },
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.deep-sea-creatures",
+      "key": "nature.deep-sea-creatures.g12",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Unlike shallow-water food chains based on solar energy, deep-sea hydrothermal vent ecosystems rely on which process to produce energy?",
+        "mn": "Нарны гэрэлд тулгуурласан гүехэн усны гинжин хэлхээнээс ялгаатай нь далайн гүний халуун рашааны экосистемүүд энергийг ямар процессоор авдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Chemosynthesis",
+          "mn": "Хемосинтез"
+        },
+        {
+          "en": "Photosynthesis",
+          "mn": "Фотосинтез"
+        },
+        {
+          "en": "Thermosynthesis",
+          "mn": "Термосинтез"
+        },
+        {
+          "en": "Geothermal fission",
+          "mn": "Геотермал задрал"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Chemosynthesis is the process where specialized bacteria convert chemical compounds, like hydrogen sulfide from the vents, into usable organic energy.",
+        "mn": "Хемосинтез гэдэг нь тусгай бактерууд далайн гүний сувгуудаас ялгарах устөрөгчийн сульфид зэрэг химийн нэгдлүүдийг органик энерги болгон хувиргах үйл явц юм."
+      }
+    },
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.bird-migration-patterns",
+      "key": "nature.bird-migration-patterns.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which bird travels the longest migration route in the world, flying from the Arctic to the Antarctic and back every year?",
+        "mn": "Жил бүр Хойд туйлаас Өмнөд туйл хүртэл нисэж, дэлхийн хамгийн урт нүүдлийн замыг туулдаг шувуу аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Wandering Albatross",
+          "mn": "Хэрэн тэнүүчлэгч цахлай"
+        },
+        {
+          "en": "Sooty Shearwater",
+          "mn": "Номин шувуу"
+        },
+        {
+          "en": "Arctic Tern",
+          "mn": "Хойд туйлын хараацай"
+        },
+        {
+          "en": "Bald Eagle",
+          "mn": "Цагаан толгойт бүргэд"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Arctic Tern travels up to 90,000 kilometers annually in its round-trip journey. Because of this, it experiences two summers each year.",
+        "mn": "Хойд туйлын хараацай жил бүр хоёр талдаа 90,000 орчим километр зам туулдаг. Үүний ачаар тэд жилд хоёр удаа зуны улирлыг үздэг байна."
+      }
+    },
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.bird-migration-patterns",
+      "key": "nature.bird-migration-patterns.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which organ contains special proteins called cryptochromes that help migratory birds \"see\" the Earth's magnetic field?",
+        "mn": "Нүүдлийн шувуудад дэлхийн соронзон орныг \"харах\" боломжийг олгодог криптохром хэмээх уураг аль эрхтэнд нь байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Beak",
+          "mn": "Хошуу"
+        },
+        {
+          "en": "Eyes",
+          "mn": "Нүд"
+        },
+        {
+          "en": "Ears",
+          "mn": "Чих"
+        },
+        {
+          "en": "Feathers",
+          "mn": "Өд"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Cryptochromes are light-sensitive proteins found in the retinas of birds' eyes. They allow birds to perceive magnetic fields as patterns of light and shadow.",
+        "mn": "Криптохром нь шувууны нүдний торлог бүрхэвчинд байдаг гэрэл мэдрэгч уураг юм. Энэ нь соронзон орныг гэрэл, сүүдрийн хээ хэлбэрээр мэдрэх боломжийг олгодог."
+      }
+    },
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.bird-migration-patterns",
+      "key": "nature.bird-migration-patterns.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of the following is NOT a primary navigation tool used by migrating birds?",
+        "mn": "Дараах аргуудын аль нь нүүдлийн шувуудын зүг чиглэлээ олох гол арга биш вэ?"
+      },
+      "choices": [
+        {
+          "en": "Earth's magnetic field",
+          "mn": "Дэлхийн соронзон орон"
+        },
+        {
+          "en": "Echolocation",
+          "mn": "Эхолокаци буюу хэт авиа"
+        },
+        {
+          "en": "Star constellations",
+          "mn": "Одон орон, одод"
+        },
+        {
+          "en": "Position of the sun",
+          "mn": "Нарны байршил"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Migrating birds use a variety of sensory cues, but they do not use echolocation. Echolocation is primarily used by bats and marine mammals to navigate in the dark.",
+        "mn": "Нүүдлийн шувууд олон төрлийн мэдрэхүй ашигладаг ч хэт авиа буюу эхолокаци ашигладаггүй. Үүнийг голдуу сарьсан багваахай болон далайн хөхтөн амьтад ашигладаг."
+      }
+    },
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.bird-migration-patterns",
+      "key": "nature.bird-migration-patterns.g4",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The Bar-tailed Godwit holds the record for the longest non-stop flight of any land bird, crossing which ocean without stopping?",
+        "mn": "Хүрэн хүзүүт элсч шувуу ямар ч зогсолтгүйгээр хамгийн урт хугацаанд ниссэн дээд амжилтыг эзэмшдэг бөгөөд ямар далайг шууд гаталдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Arctic Ocean",
+          "mn": "Хойд мөсөн далай"
+        },
+        {
+          "en": "Indian Ocean",
+          "mn": "Энэтхэгийн далай"
+        },
+        {
+          "en": "Atlantic Ocean",
+          "mn": "Атлантын далай"
+        },
+        {
+          "en": "Pacific Ocean",
+          "mn": "Номхон далай"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Bar-tailed Godwit can fly non-stop for over 11,000 kilometers across the Pacific Ocean from Alaska to New Zealand. They do not eat, drink, or sleep during this 11-day journey.",
+        "mn": "Хүрэн хүзүүт элсч Аляскаас Шинэ Зеланд хүртэл Номхон далайг туулан 11,000 гаруй км замыг зогсолтгүй туулдаг. Энэхүү 11 хоногийн аяллын турш тэд идэхгүй, уухгүй, унтахгүй нисдэг байна."
+      }
+    },
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.bird-migration-patterns",
+      "key": "nature.bird-migration-patterns.g5",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the primary aerodynamic reason many migrating birds fly in a V-formation?",
+        "mn": "Нүүдлийн шувууд сүргээрээ V хэлбэр үүсгэн нисдэг аэродинамикийн гол шалтгаан юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "To reduce wind resistance",
+          "mn": "Агаарын эсэргүүцлийг бууруулах"
+        },
+        {
+          "en": "To see the leader better",
+          "mn": "Удирдагчаа сайн харах"
+        },
+        {
+          "en": "To avoid mid-air collisions",
+          "mn": "Мөргөлдөхөөс сэргийлэх"
+        },
+        {
+          "en": "To dry their feathers",
+          "mn": "Өдөө хатаах"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Flying in a V-formation allows birds to save energy by riding the upward draft created by the wings of the bird in front. This technique can increase their flight range by over 70%.",
+        "mn": "V хэлбэрээр нисэх нь урд талын шувууны далавчны үүсгэсэн агаарын урсгалыг ашиглан эрчим хүчээ хэмнэх боломжийг олгодог. Энэ нь тэдний нисэх зайг 70 гаруй хувиар нэмэгдүүлдэг байна."
+      }
+    },
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.bird-migration-patterns",
+      "key": "nature.bird-migration-patterns.g6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The Amur Falcon makes an incredible migration from East Asia to Southern Africa, crossing which major body of water in a single non-stop flight?",
+        "mn": "Амурын шонхор шувуу Зүүн Азиас Өмнөд Африк руу аялахдаа ямар усан замыг зогсолтгүй нисэж гаталдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Mediterranean Sea",
+          "mn": "Газар дундын тэнгис"
+        },
+        {
+          "en": "Red Sea",
+          "mn": "Улаан тэнгис"
+        },
+        {
+          "en": "Black Sea",
+          "mn": "Хар тэнгис"
+        },
+        {
+          "en": "Indian Ocean",
+          "mn": "Энэтхэгийн далай"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Amur Falcon flies across the Indian Ocean from India to Africa, a journey of nearly 3,000 kilometers over open water. This is one of the longest over-water migrations of any raptor.",
+        "mn": "Амурын шонхор Энэтхэгээс Африк хүртэл Энэтхэгийн далайг туулан 3000 орчим км замыг усан дээгүүр туулдаг. Энэ нь махчин шувуудын хувьд хамгийн урт усан дээгүүрх нүүдэл юм."
+      }
+    },
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.bird-migration-patterns",
+      "key": "nature.bird-migration-patterns.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "To prepare for long flights, migrating birds undergo \"hyperphagia.\" What does this biological term mean?",
+        "mn": "Нүүдлийн шувууд урт замд гарахаасаа өмнө \"гиперфаги\" хэмээх төлөвт ордог. Энэ нь биологийн хувьд ямар утгатай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Shrinking of internal organs",
+          "mn": "Дотор эрхтэн нь жижигрэх"
+        },
+        {
+          "en": "Extreme overeating",
+          "mn": "Хэт их идэж таргалах"
+        },
+        {
+          "en": "Complete sleep deprivation",
+          "mn": "Огт унтахгүй байх"
+        },
+        {
+          "en": "Rapid feather shedding",
+          "mn": "Өд сөдөө хурдан гуужуулах"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Hyperphagia is a period of intense feeding where birds double their body weight in fat to store energy for migration. Some species can store up to 50% of their body weight as fat.",
+        "mn": "Гиперфаги гэдэг нь шувууд нүүдэллэх эрчим хүчээ нөөцлөхийн тулд биеийн жингээ хоёр дахин нэмэгдүүлж, өөх хуримтлуулах эрчимтэй хооллолтын үе юм."
+      }
+    },
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.bird-migration-patterns",
+      "key": "nature.bird-migration-patterns.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Why do many small songbirds, such as warblers and thrushes, choose to migrate at night?",
+        "mn": "Дууч шувууд болон жижиг бялзуухайнууд яагаад өдөр биш шөнөөр нүүдэллэхийг илүүд үздэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "To feed on nocturnal insects",
+          "mn": "Шөнийн шавжаар хооллох"
+        },
+        {
+          "en": "Cooler air and fewer predators",
+          "mn": "Сэрүүн агаар, цөөн махчин"
+        },
+        {
+          "en": "Stronger tailwinds",
+          "mn": "Сүүлний хүчтэй салхи"
+        },
+        {
+          "en": "Better visibility of landmarks",
+          "mn": "Газрын баримжаа сайн харагдах"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Migrating at night protects small birds from predators like hawks. Additionally, the night air is cooler and calmer, which helps prevent dehydration and overheating.",
+        "mn": "Шөнө нүүдэллэх нь жижиг шувуудыг харцага зэрэг махчин шувуудаас хамгаалдаг. Мөн шөнийн агаар сэрүүн, тогтуун байдаг нь тэднийг шингэний дутагдал болон халууцахаас сэргийлдэг."
+      }
+    },
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.bird-migration-patterns",
+      "key": "nature.bird-migration-patterns.g9",
+      "difficulty": 1,
+      "prompt": {
+        "en": "The Bar-headed Goose is famous for migrating over which massive mountain range, flying at altitudes where oxygen is extremely scarce?",
+        "mn": "Судалч галуу хүчилтөрөгч маш хомс, асар өндөр уулсыг давж нүүдэллэдэгээрээ алдартай. Энэ нь ямар нуруу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Rocky Mountains",
+          "mn": "Хадан уулс"
+        },
+        {
+          "en": "Alps",
+          "mn": "Альпийн нуруу"
+        },
+        {
+          "en": "Andes",
+          "mn": "Андын нуруу"
+        },
+        {
+          "en": "Himalayas",
+          "mn": "Гималайн нуруу"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Bar-headed Geese fly directly over the Himalayas, reaching altitudes of up to 8,800 meters. Their blood is specially adapted to absorb oxygen more efficiently than other birds.",
+        "mn": "Судалч галуу Гималайн нурууг шууд даван 8,800 метр хүртэл өндөрт нисдэг. Тэдний цус бусад шувуудынхаас илүү хүчилтөрөгчийг үр дүнтэй шингээх чадвартай байдаг."
+      }
+    },
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.bird-migration-patterns",
+      "key": "nature.bird-migration-patterns.g10",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which tiny bird, weighing only 3 grams, flies non-stop across the Gulf of Mexico (about 800 km) during its migration?",
+        "mn": "Ердөө 3 грамм жинтэй ямар жижиг шувуу нүүдлийнхээ үеэр Мексикийн булан дээгүүр (800 км орчим) зогсолтгүй нисдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Barn Swallow",
+          "mn": "Ариун хараацай"
+        },
+        {
+          "en": "Ruby-throated Hummingbird",
+          "mn": "Бадмаараг хоолойт колибри"
+        },
+        {
+          "en": "Eurasian Wren",
+          "mn": "Эгэл бялзуухай"
+        },
+        {
+          "en": "Goldcrest",
+          "mn": "Алтанзулай бялзуухай"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Ruby-throated Hummingbird makes a 20-hour non-stop flight over the Gulf of Mexico. To prepare, it must double its weight before beginning the journey.",
+        "mn": "Бадмаараг хоолойт колибри Мексикийн булан дээгүүр 20 цаг зогсолтгүй нисдэг. Үүнд бэлтгэхийн тулд аялалдаа гарахаас өмнө биеийн жингээ хоёр дахин нэмэгдүүлдэг байна."
+      }
+    },
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.bird-migration-patterns",
+      "key": "nature.bird-migration-patterns.g11",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Some birds use infrasound to navigate across vast distances. What is infrasound?",
+        "mn": "Зарим шувууд алс хол нүүдэллэхдээ инфрасөн буюу дэд авиа ашигладаг. Дэд авиа гэж юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Earth's heat signatures",
+          "mn": "Дэлхийн дулааны долгион"
+        },
+        {
+          "en": "High-frequency echolocation",
+          "mn": "Өндөр давтамжтай хэт авиа"
+        },
+        {
+          "en": "Very low-frequency sounds",
+          "mn": "Маш бага давтамжтай чимээ"
+        },
+        {
+          "en": "Visual light patterns",
+          "mn": "Гэрлийн хугарлын хээ"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Infrasound consists of low-frequency sounds below the limit of human hearing, created by oceans and storms. Birds can hear these sounds from thousands of miles away to guide their flight.",
+        "mn": "Инфрасөн буюу дэд авиа нь далайн давалгаа, шуурганаас үүсдэг, хүний чихэнд сонсогдохгүй маш бага давтамжтай чимээ юм. Шувууд үүнийг хэдэн мянган милийн цаанаас сонсож зүг чигээ олдог."
+      }
+    },
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.bird-migration-patterns",
+      "key": "nature.bird-migration-patterns.g12",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Some migrating birds can sleep while flying by shutting down only one half of their brain. What is this phenomenon called?",
+        "mn": "Зарим нүүдлийн шувууд нисэж байхдаа тархиныхаа зөвхөн нэг талыг унтуулан унтаж чаддаг. Энэ үзэгдлийг шинжлэх ухаанд юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "REM sleep",
+          "mn": "Хурдан нүдний хөдөлгөөнт нойр"
+        },
+        {
+          "en": "Thanatosis",
+          "mn": "Үхмэл дүр үзүүлэх"
+        },
+        {
+          "en": "Torpor",
+          "mn": "Оройн ичих төлөв"
+        },
+        {
+          "en": "Unihemispheric slow-wave sleep",
+          "mn": "Нэг хагас бөмбөрцгийн унтах төлөв"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Unihemispheric slow-wave sleep allows birds to rest one hemisphere of the brain while keeping the other hemisphere and the opposite eye active. This helps them navigate and watch for danger while resting.",
+        "mn": "Энэхүү төлөв нь шувуудад тархиныхаа нэг талыг амрааж, нөгөө тал болон эсрэг талын нүдээ нээлттэй байлгах боломжийг олгодог. Энэ нь тэднийг амарч байхдаа ч зүг чиг, аюулыг хянах боломжийг олгодог байна."
+      }
+    },
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.rainforest-ecosystems",
+      "key": "nature.rainforest-ecosystems.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Often called the \"Lungs of the Earth,\" which massive South American rainforest produces roughly 20% of the oxygen in Earth's atmosphere?",
+        "mn": "Дэлхийн агаар мандал дахь хүчилтөрөгчийн 20 орчим хувийг үйлдвэрлэдэг тул \"Дэлхийн уушги\" гэж нэрлэгддэг Өмнөд Америкийн асар том ширэнгэн ой аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Valdivian Rainforest",
+          "mn": "Вальдивийн ширэнгэн ой"
+        },
+        {
+          "en": "Daintree Rainforest",
+          "mn": "Дэйнтрийн ширэнгэн ой"
+        },
+        {
+          "en": "Congo Rainforest",
+          "mn": "Конгогийн ширэнгэн ой"
+        },
+        {
+          "en": "Amazon Rainforest",
+          "mn": "Амазоны ширэнгэн ой"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Amazon Rainforest is the largest tropical rainforest on Earth. It spans nine nations, with the majority of the forest contained within Brazil.",
+        "mn": "Амазоны ширэнгэн ой нь дэлхийн хамгийн том халуун орны ширэнгэн ой юм. Энэ нь есөн улсын нутаг дэвсгэрийг дамнадаг бөгөөд ихэнх хэсэг нь Бразилд харьяалагддаг."
+      }
+    },
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.rainforest-ecosystems",
+      "key": "nature.rainforest-ecosystems.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In a tropical rainforest, which layer consists of a dense green roof about 100 feet (30 meters) above the ground, housing roughly 90% of all rainforest organisms?",
+        "mn": "Халуун орны ширэнгэн ойн нийт амьд организмын 90 орчим хувь нь амьдардаг, газраас дээш 30 орчим метрийн өндөрт байх нягт ногоон дээвэр шиг давхаргыг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Forest floor",
+          "mn": "Ойн хөрс"
+        },
+        {
+          "en": "Understory layer",
+          "mn": "Дунд давхарга"
+        },
+        {
+          "en": "Canopy layer",
+          "mn": "Ойн оройн цуулбар (Canopy)"
+        },
+        {
+          "en": "Emergent layer",
+          "mn": "Дээд давхарга"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The canopy acts as the forest's primary ceiling, absorbing most of the sunlight and rain. It is incredibly rich in biodiversity, hosting insects, birds, and mammals.",
+        "mn": "Ойн оройн цуулбар буюу саравч давхарга нь нарны гэрэл, борооны ихэнх хэсгийг шингээдэг үндсэн дээвэр юм. Энд маш олон төрлийн шавж, шувуу, хөхтөн амьтад амьдардаг."
+      }
+    },
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.rainforest-ecosystems",
+      "key": "nature.rainforest-ecosystems.g3",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Because the canopy of a tropical rainforest is so dense, how long can it take for a single drop of rain to reach the forest floor during a downpour?",
+        "mn": "Халуун орны ширэнгэн ойн дээвэр маш нягт тул аадар бороо ороход ганц дусал ус ойн хөрсөнд хүртэл хэдэн минут зарцуулагддаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "About 1 hour",
+          "mn": "1 орчим цаг"
+        },
+        {
+          "en": "About 10 seconds",
+          "mn": "10 орчим секунд"
+        },
+        {
+          "en": "About 10 minutes",
+          "mn": "10 орчим минут"
+        },
+        {
+          "en": "About 1 minute",
+          "mn": "1 орчим минут"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The layers of leaves and branches are so tightly packed that rainwater must slowly drip down from leaf to leaf, taking up to 10 minutes to reach the dry ground.",
+        "mn": "Навч, мөчрүүд нь маш нягт ургасан байдаг тул борооны ус навчнаас навч дамжин аажмаар дусалсаар хуурай хөрсөнд хүрэхэд 10 хүртэл минут зарцуулдаг байна."
+      }
+    },
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.rainforest-ecosystems",
+      "key": "nature.rainforest-ecosystems.g4",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which layer of the rainforest is home to giant trees that tower up to 200 feet (60 meters) high, braving intense heat and strong winds above the canopy?",
+        "mn": "Ширэнгэн ойн дээврээс даван ургасан, 60 гаруй метр өндөр аварга моддоос бүрдэх, хүчтэй салхи, халууныг хамгийн түрүүнд сөрдөг давхарга аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Forest floor",
+          "mn": "Ойн хөрс"
+        },
+        {
+          "en": "Understory layer",
+          "mn": "Дунд давхарга"
+        },
+        {
+          "en": "Sub-canopy layer",
+          "mn": "Дэд оройн давхарга"
+        },
+        {
+          "en": "Emergent layer",
+          "mn": "Дээд давхарга (Emergent)"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The emergent layer contains massive trees that outgrow the rest of the forest. Animals like eagles, bats, and certain monkeys thrive in this windy, sunny zone.",
+        "mn": "Дээд давхаргад бусад модноосоо хамаагүй өндөр ургасан аварга моднууд багтдаг. Энд бүргэд, сарьсан багваахай, зарим төрлийн сармагчингууд салхитай, нарлаг орчинд амьдардаг."
+      }
+    },
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.rainforest-ecosystems",
+      "key": "nature.rainforest-ecosystems.g5",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What percentage of modern Western medicines have active ingredients derived from tropical rainforest plants?",
+        "mn": "Орчин үеийн барууны анагаах ухааны эмийн идэвхтэй найрлага дахь бодисын хэдэн хувийг халуун орны ширэнгэн ойн ургамлаас гарган авдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Nearly 90%",
+          "mn": "Ойролцоогоор 90 хувь"
+        },
+        {
+          "en": "Over 25%",
+          "mn": "25-аас дээш хувь"
+        },
+        {
+          "en": "Less than 1%",
+          "mn": "1 хүрэхгүй хувь"
+        },
+        {
+          "en": "Exactly 50%",
+          "mn": "Яг 50 хувь"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Over 25% of modern pharmaceuticals originate from rainforest plants, even though scientists have screened only a tiny fraction of these plants for medicinal value.",
+        "mn": "Орчин үеийн эмийн 25 гаруй хувийг ширэнгэн ойн ургамлаас гаргаж авдаг боловч эрдэмтэд эдгээр ургамлын маш өчүүхэн хэсгийг л анагаах ухааны зориулалтаар судалж амжжээ."
+      }
+    },
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.rainforest-ecosystems",
+      "key": "nature.rainforest-ecosystems.g6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of these animals is a famous predator of the rainforest understory, known for its spots and excellent climbing ability?",
+        "mn": "Ширэнгэн ойн дунд давхаргын (understory) алдартай махчин амьтан болох, толботой арьс болон модонд авирах чадвараараа алдартай амьтан аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Jaguar",
+          "mn": "Ягуар (Ирвэс)"
+        },
+        {
+          "en": "Cheetah",
+          "mn": "Үчимбэр"
+        },
+        {
+          "en": "Grizzly bear",
+          "mn": "Хүрэн баавгай"
+        },
+        {
+          "en": "Kangaroo",
+          "mn": "Кенгуру"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Jaguars are top predators in the Americas and are well-adapted to the dark, humid understory of the rainforest, where they hunt on both the ground and in trees.",
+        "mn": "Ягуар бол Америк тивийн ширэнгэн ойн дээд зэргийн махчин амьтан бөгөөд чийглэг, сүүдэрлэг дунд давхаргад зохицон амьдарч, газар болон модон дээр ан хийдэг."
+      }
+    },
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.rainforest-ecosystems",
+      "key": "nature.rainforest-ecosystems.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Roughly what percentage of the Earth's land surface is covered by rainforests today?",
+        "mn": "Өнөөдөр дэлхийн хуурай газрын нийт гадаргуугийн ойролцоогоор хэдэн хувийг халуун орны ширэнгэн ой эзэлж байна вэ?"
+      },
+      "choices": [
+        {
+          "en": "About 6%",
+          "mn": "6 орчим хувь"
+        },
+        {
+          "en": "About 20%",
+          "mn": "20 орчим хувь"
+        },
+        {
+          "en": "About 35%",
+          "mn": "35 орчим хувь"
+        },
+        {
+          "en": "About 50%",
+          "mn": "50 орчим хувь"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Rainforests cover only about 6% of the Earth's land surface, yet they house more than half of the world's plant and animal species.",
+        "mn": "Халуун орны ширэнгэн ой нь дэлхийн хуурай газрын ердөө 6 орчим хувийг эзэлдэг боловч дэлхийн нийт ургамал, амьтны зүйлийн хагасаас илүү хувийг агуулдаг."
+      }
+    },
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.rainforest-ecosystems",
+      "key": "nature.rainforest-ecosystems.g8",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Why is the forest floor of a tropical rainforest usually very dark and clear of thick bushes?",
+        "mn": "Халуун орны ширэнгэн ойн хөрсний бүс яагаад ихэвчлэн маш харанхуй, өтгөн бут сөөггүй цэлгэр байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Animals eat all the plants",
+          "mn": "Амьтад бүх ургамлыг нь идчихдэг"
+        },
+        {
+          "en": "Almost no sunlight reaches it",
+          "mn": "Нарны гэрэл бараг хүрдэггүй"
+        },
+        {
+          "en": "The soil is completely frozen",
+          "mn": "Хөрс нь бүхэлдээ хөлдүү байдаг"
+        },
+        {
+          "en": "It rains too hard for plants to grow",
+          "mn": "Хэт их бороо ордог тул ургамал ургадаггүй"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The dense canopy above blocks nearly 98% of sunlight from reaching the forest floor, making it difficult for most green plants to grow there.",
+        "mn": "Дээр орших нягт ойн дээвэр нь нарны гэрлийн бараг 98 хувийг доош нэвтрүүлэлгүй хаадаг тул ойн хөрсөн дээр ногоон ургамал ургах боломжгүй байдаг."
+      }
+    },
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.rainforest-ecosystems",
+      "key": "nature.rainforest-ecosystems.g9",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which continent is home to the world's second-largest continuous tropical rainforest ecosystem?",
+        "mn": "Дэлхийн хоёр дахь том халуун орны ширэнгэн ойн экосистем аль тивд байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Africa",
+          "mn": "Африк"
+        },
+        {
+          "en": "Asia",
+          "mn": "Ази"
+        },
+        {
+          "en": "Europe",
+          "mn": "Европ"
+        },
+        {
+          "en": "Australia",
+          "mn": "Австрали"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Congo Basin in Central Africa contains the world's second-largest tropical rainforest, famous for its gorillas, chimpanzees, and forest elephants.",
+        "mn": "Төв Африк дахь Конгогийн сав газар нь дэлхийн хоёр дахь том ширэнгэн ой бөгөөд горилла, шимпанзе, ойн заануудаараа алдартай."
+      }
+    },
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.rainforest-ecosystems",
+      "key": "nature.rainforest-ecosystems.g10",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the primary ecological process that happens extremely rapidly on the dark, warm forest floor of a rainforest?",
+        "mn": "Ширэнгэн ойн харанхуй, дулаан хөрсөн дээр маш хурдацтай явагддаг экологийн үндсэн процесс юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Desertification",
+          "mn": "Цөлжилт"
+        },
+        {
+          "en": "Decomposition",
+          "mn": "Задрал (илжрэл)"
+        },
+        {
+          "en": "Photosynthesis",
+          "mn": "Фотосинтез"
+        },
+        {
+          "en": "Soil freezing",
+          "mn": "Хөрсний хөлдөлт"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Due to the warm, humid conditions, fungi and insects decompose fallen leaves and organic matter incredibly quickly, allowing nutrients to be recycled almost instantly.",
+        "mn": "Дулаан, чийглэг нөхцөлөөс шалтгаалан мөөгөнцөр, шавжнууд унасан навч, органик бодисыг маш хурдан задлах бөгөөд ингэснээр шим тэжээл нь хөрсөнд шууд эргэн шингэдэг."
+      }
+    },
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.rainforest-ecosystems",
+      "key": "nature.rainforest-ecosystems.g11",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which unique geological biome features temperate rainforests instead of tropical ones, receiving heavy rainfall but having much cooler temperatures?",
+        "mn": "Халуун орны бус, сэрүүн бүсийн ширэнгэн ойтой, маш их хур тунадас ордог боловч харьцангуй сэрүүн уур амьсгалтай экосистем аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Taiga",
+          "mn": "Тайга"
+        },
+        {
+          "en": "Savanna",
+          "mn": "Саванна"
+        },
+        {
+          "en": "Tundra",
+          "mn": "Тундр"
+        },
+        {
+          "en": "Temperate rainforest",
+          "mn": "Сэрүүн бүсийн ширэнгэн ой"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Temperate rainforests are found in cooler areas like the Pacific Northwest of North America and parts of New Zealand, dominated by coniferous or broadleaf trees.",
+        "mn": "Сэрүүн бүсийн ширэнгэн ой нь Хойд Америкийн Номхон далайн баруун хойд эрэг, Шинэ Зеланд зэрэг сэрүүн бүс нутагт байдаг бөгөөд шилмүүст болон навчит модод зонхилдог."
+      }
+    },
+    {
+      "topicSlug": "nature",
+      "lessonKey": "nature.rainforest-ecosystems",
+      "key": "nature.rainforest-ecosystems.g12",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which of these colorful birds is famously associated with the canopy layer of South American rainforests, known for its oversized, brightly colored bill?",
+        "mn": "Өмнөд Америкийн ширэнгэн ойн оройн хэсэгт амьдардаг, асар том бөгөөд тод өнгөтэй хошуугаараа алдартай шувуу аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Ostrich",
+          "mn": "Тэмээний хяруул"
+        },
+        {
+          "en": "Toucan",
+          "mn": "Тукан"
+        },
+        {
+          "en": "Pigeon",
+          "mn": "Тагтаа"
+        },
+        {
+          "en": "Penguin",
+          "mn": "Пингвин"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Toucans use their large bills to reach fruit on branches that are too weak to support their weight. They are vital seed dispersers in the rainforest ecosystem.",
+        "mn": "Тукан шувуу өөрийн жинг даахгүй нарийн мөчир дээрх жимсийг асар том хошууныхаа тусламжтайгаар сунгаж иддэг. Тэд ширэнгэн ойн ургамлын үрийг тараахад чухал үүрэг гүйцэтгэдэг."
+      }
+    }
+  ]
+}

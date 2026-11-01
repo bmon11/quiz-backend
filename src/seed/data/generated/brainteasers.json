@@ -1,0 +1,979 @@
+{
+  "lessons": [
+    {
+      "topicSlug": "brainteasers",
+      "key": "brainteasers.classic-logic-paradoxes",
+      "order": 2,
+      "title": {
+        "en": "Classic Logic Paradoxes",
+        "mn": "Сонгодог логикийн парадоксууд"
+      },
+      "summary": {
+        "en": "Explore mind-bending logical puzzles that have challenged philosophers and mathematicians for centuries.",
+        "mn": "Гүн ухаантнууд болон математикчдын толгойг олон зууны турш гашилгасан логикийн сонирхолтой парадоксуудтай танилц."
+      },
+      "body": {
+        "en": "A paradox is a statement or scenario that contradicts itself, yet seems to follow perfectly logical steps. These brainteasers expose the limits of language, set theory, and human reasoning. Understanding them helps us build better mathematical and philosophical frameworks.",
+        "mn": "Парадокс гэдэг нь логик дарааллын хувьд зөв мэт боловч эцсийн дүндээ өөрөө өөртэйгөө зөрчилддөг тулгалтыг хэлнэ. Эдгээр таавар нь хэл яриа, олонлогийн онол болон хүний сэтгэхүйн хязгаарыг харуулдаг бөгөөд математик, философийн шинжлэх ухааныг илүү нарийвчлахад чухал үүрэг гүйцэтгэсэн юм."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "💈",
+            "title": {
+              "en": "The Barber Paradox",
+              "mn": "Үсчний парадокс"
+            },
+            "facts": [
+              {
+                "en": "A barber shaves only men who do not shave themselves.",
+                "mn": "Үсчин зөвхөн өөрийгөө хусдаггүй эрчүүдийн сахлыг хусдаг."
+              },
+              {
+                "en": "Does the barber shave himself?",
+                "mn": "Тэгвэл үсчин өөрийнхөө сахлыг хусах уу?"
+              },
+              {
+                "en": "If he does, he shouldn't. If he doesn't, he must.",
+                "mn": "Хэрэв хусвал тэр өөрийгөө хусдаг хүн болох тул хусах ёсгүй. Хэрэв хусахгүй бол тэр өөрийгөө хусдаггүй хүн болох тул өөрийнхөө сахлыг хусах ёстой болно."
+              }
+            ],
+            "subtitle": {
+              "en": "Russell's Set Theory Puzzle",
+              "mn": "Расселын олонлогийн онолын таавар"
+            }
+          },
+          {
+            "icon": "🐢",
+            "title": {
+              "en": "Achilles and the Tortoise",
+              "mn": "Ахилл ба яст мэлхий"
+            },
+            "facts": [
+              {
+                "en": "Achilles gives a tortoise a head start in a race.",
+                "mn": "Ахилл яст мэлхийтэй уралдахдаа түүнийг арай урд урдаас эхлүүлдэг."
+              },
+              {
+                "en": "To catch up, he must first reach where the tortoise started.",
+                "mn": "Түүн гүйцэхийн тулд Ахилл эхлээд яст мэлхийний анх байсан цэгт хүрэх ёстой."
+              },
+              {
+                "en": "By then, the tortoise has moved slightly further, infinitely.",
+                "mn": "Гэвч түүнийг очих бүрд яст мэлхий бага ч гэсэн урагшилсан байх тул хэзээ ч гүйцэхгүй мэт харагдана."
+              }
+            ],
+            "subtitle": {
+              "en": "Zeno's Motion Paradox",
+              "mn": "Зеноны хөдөлгөөний парадокс"
+            }
+          },
+          {
+            "icon": "🚢",
+            "title": {
+              "en": "Ship of Theseus",
+              "mn": "Тесейн хөлөг онгоц"
+            },
+            "facts": [
+              {
+                "en": "Every plank of a ship is replaced one by one over time.",
+                "mn": "Хөлөг онгоцны банзнуудыг цаг хугацааны явцад нэг нэгээр нь шинэчилжээ."
+              },
+              {
+                "en": "Is it still the same ship once all parts are replaced?",
+                "mn": "Бүх эд ангийг нь сольж дууссаны дараа энэ нь анхны хөлөг онгоц мөн үү?"
+              },
+              {
+                "en": "If you build a new ship with the old planks, which one is real?",
+                "mn": "Хэрэв хуучин банзнуудаар нь өөр хөлөг онгоц угсарвал аль нь жинхэнэ Тесейн хөлөг болох вэ?"
+              }
+            ],
+            "subtitle": {
+              "en": "The Identity Paradox",
+              "mn": "Адилтгалын парадокс"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "The Liar Paradox ('This statement is false') is one of the oldest, dating back to ancient Greece.",
+          "mn": "«Энэ өгүүлбэр худал» гэх Худалчийн парадокс нь Эртний Грекээс гаралтай хамгийн эртний парадоксуудын нэг юм."
+        },
+        {
+          "en": "Bertrand Russell's barber paradox led to major changes in the mathematical rules of set theory.",
+          "mn": "Бертран Расселын үсчний парадокс нь математикийн олонлогийн онолын үндсэн дүрмүүдийг өөрчлөхөд хүргэсэн түүхтэй."
+        }
+      ]
+    },
+    {
+      "topicSlug": "brainteasers",
+      "key": "brainteasers.optical-illusions-explained",
+      "order": 3,
+      "title": {
+        "en": "Optical Illusions Explained",
+        "mn": "Харааны хуурамч үзэгдлүүд"
+      },
+      "summary": {
+        "en": "Discover how our brains process visual information and why they can be easily tricked.",
+        "mn": "Бидний тархи харааны мэдээллийг хэрхэн боловсруулдаг болон яагаад амархан хууртдагийг олж мэдээрэй."
+      },
+      "body": {
+        "en": "Optical illusions occur when our eyes gather information that our brain interprets in a way that does not match physical reality. The brain uses shortcuts, past experiences, and context to guess what we are seeing, which can lead to fascinating errors.",
+        "mn": "Нүдээр орж буй мэдээллийг тархи бодит байдлаас өөрөөр тайлбарлах үед харааны хуурамч үзэгдэл үүсдэг. Тархи харж буй зүйлээ хурдан танихын тулд өмнөх туршлага, орчны нөхцөл байдлыг ашиглан шууд таамаглал дэвшүүлдэг нь ийм алдаа гаргахад хүргэдэг байна."
+      },
+      "visual": {
+        "kind": "timeline",
+        "items": [
+          {
+            "when": {
+              "en": "1889",
+              "mn": "1889 он"
+            },
+            "title": {
+              "en": "Müller-Lyer Illusion",
+              "mn": "Мюллер-Лайерийн хууралт"
+            },
+            "body": {
+              "en": "Two lines of equal length appear different because of arrowheads pointing inward or outward at their ends.",
+              "mn": "Төгсгөлд нь гадагш болон дотогш заасан сумтай адилхан урттай хоёр шугам өөр өөр урттай мэт харагддаг үзэгдэл."
+            }
+          },
+          {
+            "when": {
+              "en": "1915",
+              "mn": "1915 он"
+            },
+            "title": {
+              "en": "Rubin's Vase",
+              "mn": "Рубины ваар"
+            },
+            "body": {
+              "en": "An ambiguous figure developed by Edgar Rubin presents either a vase or two faces in profile, but not both at once.",
+              "mn": "Эдгар Рубины зохиосон энэхүү зурагт нэг бол ваар, эсвэл хоёр хүний нүүрний хажуу дүр төрх харагдах бөгөөд хоёуланг нь зэрэг харах боломжгүй байдаг."
+            }
+          },
+          {
+            "when": {
+              "en": "1995",
+              "mn": "1995 он"
+            },
+            "title": {
+              "en": "Checker shadow illusion",
+              "mn": "Шатрын хөлөгний сүүдрийн хууралт"
+            },
+            "body": {
+              "en": "Edward Adelson proved that two squares of the exact same shade of gray look completely different due to local contrast and shadows.",
+              "mn": "Эдвард Адельсон ижил саарал өнгөтэй хоёр дөрвөлжин нь эргэн тойрны тодосгогч болон сүүдрийн нөлөөгөөр шал өөр өнгөтэй харагддаг болохыг баталжээ."
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "The famous 'The Dress' photo in 2015 split the internet because people's brains assumed different lighting environments.",
+          "mn": "2015 оны алдарт «Даашинз»-ны зураг интернетийг шуугиулсан бөгөөд хүмүүсийн тархи гэрэлтүүлгийг өөр өөрөөр хүлээн авснаас болж өнгө нь өөр харагдаж байжээ."
+        },
+        {
+          "en": "Many optical illusions are used by psychologists to study how the human visual cortex functions.",
+          "mn": "Сэтгэл судлаачид хүний харааны тархины гадаргуу хэрхэн ажилладагийг судлахын тулд олон төрлийн харааны хуурамч үзэгдлийг ашигладаг."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "topicSlug": "brainteasers",
+      "lessonKey": "brainteasers.classic-logic-paradoxes",
+      "key": "brainteasers.classic-logic-paradoxes.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In the famous paradox of 'Achilles and the Tortoise', which ancient Greek philosopher proposed this scenario to argue that motion is an illusion?",
+        "mn": "\"Ахилл ба яст мэлхий\" хэмээх алдартай парадоксыг анх хөдөлгөөн бол хуурмаг зүйл гэдгийг батлахын тулд Эртний Грекийн аль гүн ухаантан дэвшүүлсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Pythagoras",
+          "mn": "Пифагор"
+        },
+        {
+          "en": "Socrates",
+          "mn": "Сократ"
+        },
+        {
+          "en": "Aristotle",
+          "mn": "Аристотель"
+        },
+        {
+          "en": "Zeno of Elea",
+          "mn": "Элейн Зенон"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Zeno of Elea formulated several paradoxes of motion, including this one. He argued that a runner can never catch up to a slower runner with a head start because the gap can be infinitely subdivided.",
+        "mn": "Элейн Зенон хөдөлгөөний тухай хэд хэдэн парадокс дэвшүүлсний нэг нь энэ юм. Тэрээр урд эхэлсэн удаан гүйгчийг хэзээ ч гүйцэхгүй, учир нь тэдгээрийн хоорондох зайг хязгааргүй хувааж болно гэж үзжээ."
+      }
+    },
+    {
+      "topicSlug": "brainteasers",
+      "lessonKey": "brainteasers.classic-logic-paradoxes",
+      "key": "brainteasers.classic-logic-paradoxes.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The Bertrand Russell paradox about the barber who shaves only those who do not shave themselves was formulated to expose a contradiction in which branch of mathematics?",
+        "mn": "Өөрийгөө хусдаггүй хүмүүсийн сахлыг хусдаг үсчний тухай Бертранд Расселын парадокс нь математикийн аль салбарт зөрчил байгааг илрүүлэх зорилготой байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Probability",
+          "mn": "Магадлалын онол"
+        },
+        {
+          "en": "Set theory",
+          "mn": "Олонлогийн онол"
+        },
+        {
+          "en": "Geometry",
+          "mn": "Геометр"
+        },
+        {
+          "en": "Calculus",
+          "mn": "Дифференциал тоолол"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Russell's paradox showed that naive set theory, which allowed any defining condition to form a set, was logically inconsistent. This led to the development of axiomatic set theory.",
+        "mn": "Расселын парадокс нь дурын нөхцөлөөр олонлог үүсгэхийг зөвшөөрдөг байсан олонлогийн онолд зөрчил байгааг харуулсан. Энэ нь аксиоматик олонлогийн онол хөгжихөд хүргэсэн юм."
+      }
+    },
+    {
+      "topicSlug": "brainteasers",
+      "lessonKey": "brainteasers.classic-logic-paradoxes",
+      "key": "brainteasers.classic-logic-paradoxes.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The 'Ship of Theseus' paradox questions whether an object remains the same if all of its components are replaced. Which ancient writer popularized this thought experiment in his work 'Life of Theseus'?",
+        "mn": "\"Тесейн хөлөг онгоц\" парадокс нь бүх эд ангийг нь сольсон ч тухайн зүйл хэвээр үлдэх үү гэх асуултыг тавьдаг. Энэхүү бодлын туршилтыг өөрийн бүтээлдээ оруулж алдаршуулсан эртний зохиолч хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Plutarch",
+          "mn": "Плутарх"
+        },
+        {
+          "en": "Herodotus",
+          "mn": "Геродот"
+        },
+        {
+          "en": "Homer",
+          "mn": "Гомер"
+        },
+        {
+          "en": "Plato",
+          "mn": "Платон"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Plutarch recorded this paradox in his biographies, asking if a ship preserved by replacing its decaying planks remained the same. Philosophers like Thomas Hobbes later expanded on it.",
+        "mn": "Плутарх өөрийн намтарчилсан бүтээлдээ элэгдсэн банзыг нь сольж шинэчилсэн хөлөг онгоц анхны хэвээрээ үлдэх үү гэж асуун тэмдэглэжээ. Хожим Томас Гоббс зэрэг философичид үүнийг гүнзгийрүүлэн судалсан байна."
+      }
+    },
+    {
+      "topicSlug": "brainteasers",
+      "lessonKey": "brainteasers.classic-logic-paradoxes",
+      "key": "brainteasers.classic-logic-paradoxes.g4",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of the following statements is the simplest and most famous formulation of the ancient 'Liar Paradox'?",
+        "mn": "Дараах өгүүлбэрүүдийн аль нь эртний алдартай \"Худалчийн парадокс\"-ын хамгийн энгийн бөгөөд сонгодог хэлбэр вэ?"
+      },
+      "choices": [
+        {
+          "en": "This statement is false.",
+          "mn": "Энэ өгүүлбэр бол худал юм."
+        },
+        {
+          "en": "I know that I know nothing.",
+          "mn": "Би юу ч мэдэхгүй гэдгээ л мэднэ."
+        },
+        {
+          "en": "All men are mortal.",
+          "mn": "Бүх хүн мөнх бус."
+        },
+        {
+          "en": "The chicken came before the egg.",
+          "mn": "Тахиа өндөгнөөсөө анхдагч."
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Liar Paradox is self-referential: if the statement 'This statement is false' is true, then it must be false; if it is false, then it must be true.",
+        "mn": "Худалчийн парадокс нь өөр рүүгээ чиглэсэн шинжтэй: хэрэв \"Энэ өгүүлбэр худал\" гэдэг нь үнэн бол уг өгүүлбэр худал болж таарна; хэрэв худал бол үнэн болж таарна."
+      }
+    },
+    {
+      "topicSlug": "brainteasers",
+      "lessonKey": "brainteasers.classic-logic-paradoxes",
+      "key": "brainteasers.classic-logic-paradoxes.g5",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which paradox is commonly used in physics to discuss the logical impossibility of time travel, specifically involving altering one's own ancestry?",
+        "mn": "Цаг хугацаагаар аялах нь логикийн хувьд боломжгүй гэдгийг тайлбарлахад физикт ихэвчлэн ашиглагддаг, өөрийн өвөг дээдсийг өөрчлөхтэй холбоотой парадокс аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Bootstrap Paradox",
+          "mn": "Гуталны үдээсний парадокс"
+        },
+        {
+          "en": "Grandfather Paradox",
+          "mn": "Өвөөгийн парадокс"
+        },
+        {
+          "en": "Twin Paradox",
+          "mn": "Ихрийн парадокс"
+        },
+        {
+          "en": "Fermi Paradox",
+          "mn": "Фермийн парадокс"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Grandfather Paradox describes a time traveler who goes back in time and prevents their grandfather from meeting their grandmother, meaning the traveler would never be born.",
+        "mn": "Өвөөгийн парадокс нь цаг хугацаагаар аялж өнгөрсөн рүү очоод өвөө эмээ хоёрынхоо учралыг саатуулснаар аялагч өөрөө хэзээ ч төрөхгүй болох зөрчлийг дүрсэлдэг."
+      }
+    },
+    {
+      "topicSlug": "brainteasers",
+      "lessonKey": "brainteasers.classic-logic-paradoxes",
+      "key": "brainteasers.classic-logic-paradoxes.g6",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The 'Fermi Paradox' addresses a contradiction in astronomy. What does this paradox question?",
+        "mn": "Одон орны шинжлэх ухаанд яригддаг \"Фермийн парадокс\" нь ямар зөрчлийг хөнддөг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Why black holes emit radiation",
+          "mn": "Яагаад хар нүх цацраг ялгаруулдаг болохыг"
+        },
+        {
+          "en": "Why the universe is expanding faster and faster",
+          "mn": "Яагаад орчлон ертөнц улам бүр хурдтай тэлж байгааг"
+        },
+        {
+          "en": "Why gravity is so weak compared to other forces",
+          "mn": "Яагаад татах хүч бусад хүчнүүдээс хамаагүй сул байгааг"
+        },
+        {
+          "en": "Why we have not found extraterrestrial life despite high probability",
+          "mn": "Магадлал өндөр байхад яагаад харь гаригийн амьдрал олдохгүй байгааг"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Named after physicist Enrico Fermi, this paradox highlights the contradiction between the high mathematical probability of extraterrestrial civilizations and the lack of evidence for them.",
+        "mn": "Физикч Энрико Фермигийн нэрээр нэрлэгдсэн энэхүү парадокс нь харь гаригийн соёл иргэншил оршин байх магадлал өндөр боловч ямар ч нотолгоо олдохгүй байгаа зөрчлийг заадаг."
+      }
+    },
+    {
+      "topicSlug": "brainteasers",
+      "lessonKey": "brainteasers.classic-logic-paradoxes",
+      "key": "brainteasers.classic-logic-paradoxes.g7",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In probability theory, the 'Monty Hall Problem' is a famous counter-intuitive paradox. What is it based on?",
+        "mn": "Магадлалын онолд \"Монти Холлын бодлого\" хэмээх сонирхолтой парадокс байдаг. Энэ нь юун дээр суурилсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "A lottery drawing system",
+          "mn": "Сугалааны тохирол"
+        },
+        {
+          "en": "A card game tournament",
+          "mn": "Хөзрийн тэмцээн"
+        },
+        {
+          "en": "A coin toss experiment",
+          "mn": "Зоос шидэх туршилт"
+        },
+        {
+          "en": "A television game show with three doors",
+          "mn": "Гурван хаалгатай телевизийн шоу нэвтрүүлэг"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Monty Hall Problem is based on the American show 'Let's Make a Deal'. It famously proves that switching doors after one is revealed increases your chances of winning a car from 1/3 to 2/3.",
+        "mn": "Монти Холлын бодлого нь Америкийн \"Let's Make a Deal\" шоунаас сэдэвлэсэн бөгөөд нэг хаалгыг нээсний дараа сонголтоо өөрчилбөл машин хожих магадлал 1/3-аас 2/3 болж нэмэгддэгийг харуулдаг."
+      }
+    },
+    {
+      "topicSlug": "brainteasers",
+      "lessonKey": "brainteasers.classic-logic-paradoxes",
+      "key": "brainteasers.classic-logic-paradoxes.g8",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which classic, everyday paradox asks whether a specific biological life form or its reproductive vessel came first?",
+        "mn": "Аль сонгодог парадокс нь тодорхой нэгэн амьд биет эсвэл түүний үржил үржлийн хэрэгсэл хоёрын аль нь түрүүлж бий болсон бэ гэж асуудаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "The tadpole or the frog",
+          "mn": "Шалбааг уу, мэлхий юү"
+        },
+        {
+          "en": "The caterpillar or the butterfly",
+          "mn": "Катерпиллар уу, эрвээхэй юү"
+        },
+        {
+          "en": "The seed or the tree",
+          "mn": "Үр үү, мод уу"
+        },
+        {
+          "en": "The chicken or the egg",
+          "mn": "Тахиа юу, өндөг үү"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The 'chicken or the egg' paradox has puzzled thinkers since ancient times. Modern evolutionary biology has answered it by showing that egg-laying organisms existed long before chickens.",
+        "mn": "\"Тахиа юу, өндөг үү\" гэх парадокс эртнээс хүмүүсийг гайхшруулсаар ирсэн. Орчин үеийн хувьслын биологи өндөг гаргадаг амьтад тахианаас хамаагүй өмнө байсныг тогтоож үүнд хариулт өгсөн."
+      }
+    },
+    {
+      "topicSlug": "brainteasers",
+      "lessonKey": "brainteasers.classic-logic-paradoxes",
+      "key": "brainteasers.classic-logic-paradoxes.g9",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The 'Sorites Paradox' is also known as the paradox of the 'heap'. What does it explore?",
+        "mn": "\"Соритын парадокс\" буюу \"овоолгын парадокс\" нь юуг судалдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "The curvature of space-time",
+          "mn": "Орон зай-цаг хугацааны муруйлт"
+        },
+        {
+          "en": "The nature of prime numbers",
+          "mn": "Анхны тооны шинж чанар"
+        },
+        {
+          "en": "The speed of falling objects",
+          "mn": "Унаж буй биетийн хурд"
+        },
+        {
+          "en": "The vagueness of language and boundaries",
+          "mn": "Хэлний тодорхойгүй байдал ба хил хязгаар"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "This paradox asks: if you remove one grain of sand from a heap, is it still a heap? It shows that vague predicates like 'heap' or 'bald' lack precise logical boundaries.",
+        "mn": "Энэхүү парадокс нь: хэрэв элсний овооноос нэг ширхэг элс авчихвал тэр овоо хэвээр үлдэх үү гэж асуудаг. Энэ нь \"овоо\" эсвэл \"халзан\" гэх мэт тодорхойгүй үгс логик хил хязгааргүй байдгийг харуулдаг."
+      }
+    },
+    {
+      "topicSlug": "brainteasers",
+      "lessonKey": "brainteasers.classic-logic-paradoxes",
+      "key": "brainteasers.classic-logic-paradoxes.g10",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which paradox in economics describes a situation where technological progress increases the efficiency of a resource, but actually increases its rate of consumption?",
+        "mn": "Технологийн дэвшил нь нөөцийн ашиглалтыг илүү үр ашигтай болгох боловч эргээд түүний хэрэглээг улам ихэсгэдэг эдийн засгийн парадоксыг хэн нэгний нэрээр нэрлэсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Easterlin paradox",
+          "mn": "Истерлиний парадокс"
+        },
+        {
+          "en": "Giffen paradox",
+          "mn": "Гиффений парадокс"
+        },
+        {
+          "en": "Jevons paradox",
+          "mn": "Жевонсын парадокс"
+        },
+        {
+          "en": "Leontief paradox",
+          "mn": "Леонтьевын парадокс"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Jevons paradox was observed by William Stanley Jevons, who noticed that improvements in coal-engine efficiency led to more coal being consumed across England.",
+        "mn": "Жевонсын парадоксыг Уильям Стэнли Жевонс ажигласан бөгөөд тэрээр уурын хөдөлгүүрийн үр ашиг нэмэгдэхэд Англи даяар нүүрсний хэрэглээ улам ихэссэнийг анзаарчээ."
+      }
+    },
+    {
+      "topicSlug": "brainteasers",
+      "lessonKey": "brainteasers.classic-logic-paradoxes",
+      "key": "brainteasers.classic-logic-paradoxes.g11",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In the 'Crocodile Paradox', a crocodile steals a child and promises to return it if the father guesses what the crocodile will do. What happens if the father guesses 'You will not return the child'?",
+        "mn": "\"Матрын парадокс\"-т матар хүүхдийг хулгайлж, аавыг нь өөрийнх нь юу хийхийг тааж чадвал хүүхдийг буцааж өгнө гэж амладаг. Хэрэв аав нь \"Чи хүүхдийг минь буцааж өгөхгүй\" гэж таавал юу болох вэ?"
+      },
+      "choices": [
+        {
+          "en": "The crocodile must eat the father.",
+          "mn": "Матар аавыг нь идэх ёстой болно."
+        },
+        {
+          "en": "The father loses the bet instantly.",
+          "mn": "Аав нь шууд бооцоогоо алдана."
+        },
+        {
+          "en": "It creates an unsolvable logical loop.",
+          "mn": "Энэ нь шийдэгдэшгүй логик гогцоо үүсгэнэ."
+        },
+        {
+          "en": "The crocodile returns the child safely.",
+          "mn": "Матар хүүхдийг аюулгүй буцааж өгнө."
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "If the crocodile returns the child, the father guessed wrong, so the crocodile shouldn't have returned it. If the crocodile keeps the child, the father guessed right, so the crocodile must return it.",
+        "mn": "Хэрэв матар хүүхдийг буцааж өгвөл аавын таамаг буруу болж, матар хүүхдийг өгөх ёсгүй байсан болно. Хэрэв матар хүүхдийг авч үлдвэл аавын таамаг зөв болж, матар хүүхдийг өгөх ёстой болно."
+      }
+    },
+    {
+      "topicSlug": "brainteasers",
+      "lessonKey": "brainteasers.classic-logic-paradoxes",
+      "key": "brainteasers.classic-logic-paradoxes.g12",
+      "difficulty": 1,
+      "prompt": {
+        "en": "The 'Olbers' Paradox' asks a simple question about astronomy: if the universe is infinite and full of stars, why is what phenomenon true?",
+        "mn": "\"Ольберсийн парадокс\" нь одон орны тухай маш энгийн асуулт тавьдаг: хэрэв орчлон ертөнц хязгааргүй бөгөөд ододоор дүүрэн юм бол яагаад дараах үзэгдэл бий болдог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Stars eventually explode.",
+          "mn": "Одод яваандаа дэлбэрдэг."
+        },
+        {
+          "en": "The night sky is dark.",
+          "mn": "Шөнийн тэнгэр харанхуй байдаг."
+        },
+        {
+          "en": "The sun is so hot.",
+          "mn": "Нар маш халуун байдаг."
+        },
+        {
+          "en": "We cannot see the edge of space.",
+          "mn": "Бид сансрын хязгаарыг харж чаддаггүй."
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Olbers' Paradox asks why the night sky is dark if there is a star in every line of sight. The answer lies in the expansion of the universe and the finite speed of light.",
+        "mn": "Ольберсийн парадокс нь хэрэв харах өнцөг бүрт од байгаа бол яагаад шөнийн тэнгэр харанхуй байдаг вэ гэж асуудаг. Үүний хариулт нь орчлон ертөнцийн тэлэлт болон гэрлийн хурд хязгаартайд оршдог."
+      }
+    },
+    {
+      "topicSlug": "brainteasers",
+      "lessonKey": "brainteasers.optical-illusions-explained",
+      "key": "brainteasers.optical-illusions-explained.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In Edgar Rubin's famous 1915 ambiguous optical illusion, viewers can see either a vase or which of the following?",
+        "mn": "Эдгар Рубины 1915 оны алдартай оптикийн хууралт зурагт ваарнаас гадна өөр юу харагддаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "A crescent moon",
+          "mn": "Хагас сар"
+        },
+        {
+          "en": "An old candlestick",
+          "mn": "Хуучин лааны суурь"
+        },
+        {
+          "en": "A flying bird",
+          "mn": "Нисэж буй шувуу"
+        },
+        {
+          "en": "Two faces in profile",
+          "mn": "Хоёр хүний нүүрний хажуу дүр"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Rubin's Vase is a classic cognitive illusion where the brain alternates between seeing a central vase and two faces looking at each other. You cannot perceive both interpretations simultaneously.",
+        "mn": "Рубины ваар бол тархи голын ваар болон бие бие рүүгээ харсан хоёр хүний нүүрний дүрсийг ээлжлэн хүлээж авдаг сонгодог хууралт юм. Хүн эдгээр хоёр дүрсийг нэгэн зэрэг харах боломжгүй байдаг."
+      }
+    },
+    {
+      "topicSlug": "brainteasers",
+      "lessonKey": "brainteasers.optical-illusions-explained",
+      "key": "brainteasers.optical-illusions-explained.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the name of the famous illusion where two lines of equal length appear different because of arrowheads pointing inward or outward?",
+        "mn": "Төгсгөлд нь гадагш болон дотогш заасан сумтай ижил урттай хоёр шугам өөр өөр урттай мэт харагддаг алдартай хууралтыг хэний нэрээр нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Müller-Lyer Illusion",
+          "mn": "Мюллер-Лайерийн хууралт"
+        },
+        {
+          "en": "Ponzo Illusion",
+          "mn": "Понзогийн хууралт"
+        },
+        {
+          "en": "Ebbinghaus Illusion",
+          "mn": "Эббингаузын хууралт"
+        },
+        {
+          "en": "Hering Illusion",
+          "mn": "Херингийн хууралт"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Müller-Lyer illusion was created by Franz Carl Müller-Lyer in 1889. It demonstrates how our visual system interprets depth and distance based on simple line angles.",
+        "mn": "Мюллер-Лайерийн хууралтыг 1889 онд Франц Карл Мюллер-Лайер зохиосон байна. Энэ нь бидний харааны систем шугамын өнцөгт тулгуурлан гүн болон зайг хэрхэн буруу баримжаалдгийг харуулдаг."
+      }
+    },
+    {
+      "topicSlug": "brainteasers",
+      "lessonKey": "brainteasers.optical-illusions-explained",
+      "key": "brainteasers.optical-illusions-explained.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In Adelson's famous Checker Shadow Illusion (1995), which two squares on the board are actually the exact same shade of gray?",
+        "mn": "Адельсоны алдартай Шатрын хөлөгний сүүдрийн хууралтад (1995) хөлөг дээрх аль хоёр дөрвөлжин нь бодит байдал дээр яг ижил саарал өнгөтэй байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Squares White and Black",
+          "mn": "Цагаан ба хар дөрвөлжин"
+        },
+        {
+          "en": "Squares 1 and 8",
+          "mn": "1 ба 8-р дөрвөлжин"
+        },
+        {
+          "en": "Squares X and Y",
+          "mn": "Х ба Ү дөрвөлжин"
+        },
+        {
+          "en": "Squares A and B",
+          "mn": "А ба В дөрвөлжин"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Squares marked A and B are identical in color, but our brain perceives B as lighter because it is placed in a shadow, compensating for the darker environment.",
+        "mn": "А ба В гэж тэмдэглэсэн дөрвөлжин суудлууд нь яг ижил өнгөтэй боловч В дөрвөлжин нь сүүдэрт байгаа тул манай тархи түүнийг илүү цайвар өнгөтэй гэж андууран хүлээж авдаг."
+      }
+    },
+    {
+      "topicSlug": "brainteasers",
+      "lessonKey": "brainteasers.optical-illusions-explained",
+      "key": "brainteasers.optical-illusions-explained.g4",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In 2015, a viral photo of a dress divided the internet. While some saw it as blue and black, others perceived it as which colors?",
+        "mn": "2015 онд интернэтэд тавигдсан нэгэн даашинзны зураг хүмүүсийг хоёр тал болгож маргаан үүсгэсэн. Зарим хүмүүс түүнийг хөх, хар гэж харж байхад бусад нь ямар өнгөтэй гэж харсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Red and green",
+          "mn": "Улаан, ногоон"
+        },
+        {
+          "en": "Yellow and brown",
+          "mn": "Шар, бор"
+        },
+        {
+          "en": "White and gold",
+          "mn": "Цагаан, алтлаг"
+        },
+        {
+          "en": "Pink and grey",
+          "mn": "Ягаан, саарал"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The viral dress photo split viewers because of chromatic adaptation. Brains that assumed the dress was in shadow saw it as white and gold, while others saw its true colors: blue and black.",
+        "mn": "Энэхүү даашинзны зураг нь гэрлийн ойлтоос шалтгаалж хүмүүст өөр өөр харагдсан. Даашинзыг сүүдэрт байна гэж ухамсаргүйгээр тооцсон тархи түүнийг цагаан, алтлаг гэж харсан бол бусад нь бодит хөх, хар өнгөөр нь харжээ."
+      }
+    },
+    {
+      "topicSlug": "brainteasers",
+      "lessonKey": "brainteasers.optical-illusions-explained",
+      "key": "brainteasers.optical-illusions-explained.g5",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of the following optical illusions uses converging lines to make two identical horizontal bars appear to be of different lengths?",
+        "mn": "Доошоо нарийссан хоёр ташуу шугамын дунд байрлах ижил урттай хоёр хэвтээ зураасыг өөр өөр урттай мэт харагдуулдаг оптикийн хууралтыг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Ponzo illusion",
+          "mn": "Понзогийн хууралт"
+        },
+        {
+          "en": "Zöllner illusion",
+          "mn": "Зөлнерийн хууралт"
+        },
+        {
+          "en": "Kanizsa triangle",
+          "mn": "Канизагийн гурвалжин"
+        },
+        {
+          "en": "Hermon grid",
+          "mn": "Хермоны тор"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Ponzo illusion, demonstrated by Mario Ponzo in 1911, shows that our brain judges an object's size based on its background context, much like railway tracks receding into the distance.",
+        "mn": "1911 онд Марио Понзогийн нээсэн энэхүү хууралт нь хүний тархи тухайн зүйлийн хэмжээг арын дэвсгэр дэх зайн баримжаанаас (жишээ нь, алслах төмөр зам шиг) хамаарч үнэлдгийг харуулдаг."
+      }
+    },
+    {
+      "topicSlug": "brainteasers",
+      "lessonKey": "brainteasers.optical-illusions-explained",
+      "key": "brainteasers.optical-illusions-explained.g6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the term for optical illusions that seem to move or shimmer even though the image is completely static?",
+        "mn": "Зураг нь ямар ч хөдөлгөөнгүй статик байхад хөдөлж, долгиотож байгаа мэт харагддаг оптикийн хууралтыг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Stroboscopic effect",
+          "mn": "Стробоскопийн эффект"
+        },
+        {
+          "en": "Autokinetic effect",
+          "mn": "Автокинетик эффект"
+        },
+        {
+          "en": "Anomalous motion illusion",
+          "mn": "Аномаль хөдөлгөөнт хууралт"
+        },
+        {
+          "en": "Persistence of vision",
+          "mn": "Харааны тогтворжилт"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Anomalous motion illusions, like the famous 'Rotating Snakes,' trick the brain's motion detectors using repeating color patterns and high contrast.",
+        "mn": "Аномаль хөдөлгөөнт хууралт (жишээ нь, алдартай 'Эргэлдэгч могойнууд' зураг) нь өнгөний давтамж болон өндөр тодосгогчийг ашиглан тархины хөдөлгөөн мэдрэгчийг хуурдаг байна."
+      }
+    },
+    {
+      "topicSlug": "brainteasers",
+      "lessonKey": "brainteasers.optical-illusions-explained",
+      "key": "brainteasers.optical-illusions-explained.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The Kanizsa Triangle illusion tricking our brain to perceive a bright white triangle that does not actually exist is an example of what?",
+        "mn": "Бодит байдал дээр зурагдаагүй тод цагаан гурвалжныг хүний тархинд ургуулан харагдуулдаг Канизагийн гурвалжин нь ямар үзэгдлийн жишээ вэ?"
+      },
+      "choices": [
+        {
+          "en": "Motion parallax",
+          "mn": "Хөдөлгөөний параллакс"
+        },
+        {
+          "en": "Depth perception",
+          "mn": "Гүний баримжаа"
+        },
+        {
+          "en": "Illusory contours",
+          "mn": "Хуурмаг хүрээ шугам"
+        },
+        {
+          "en": "Chromatic aberration",
+          "mn": "Хроматик аберраци"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Illusory contours occur when the brain connects gaps between shapes to make sense of the scene, creating edges and shapes that aren't physically drawn.",
+        "mn": "Хуурмаг хүрээ шугам (Illusory contours) нь тархи тухайн дүрсийг ойлгохын тулд хэлбэрүүдийн хоорондох хоосон зайг холбож, бодитоор зурагдаагүй ирмэг, дүрсүүдийг зохиомлоор үүсгэх үед илэрдэг."
+      }
+    },
+    {
+      "topicSlug": "brainteasers",
+      "lessonKey": "brainteasers.optical-illusions-explained",
+      "key": "brainteasers.optical-illusions-explained.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which famous artist is renowned for masterfully integrating impossible objects and optical illusions into works like 'Ascending and Descending'?",
+        "mn": "Өөрийн 'Өгсөж, уруудах нь' зэрэг бүтээлүүддээ боломжгүй дүрсүүд болон оптикийн хууралтыг гайхалтайгаар шингээж өгсөн алдартай зураач хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "M. C. Escher",
+          "mn": "М. К. Эшер"
+        },
+        {
+          "en": "Pablo Picasso",
+          "mn": "Пабло Пикассо"
+        },
+        {
+          "en": "Salvador Dalí",
+          "mn": "Сальвадор Дали"
+        },
+        {
+          "en": "René Magritte",
+          "mn": "Рене Магритт"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Maurits Cornelis Escher was a Dutch graphic artist who made mathematically inspired woodcuts and lithographs featuring impossible staircases, architecture, and tessellations.",
+        "mn": "Мауриц Корнелис Эшер бол математикийн ухагдахууныг ашиглан боломжгүй шат, барилга байгууламж, геометрийн давтамж бүхий гайхалтай зураасан зургуудыг туурвисан Нидерландын график зураач юм."
+      }
+    },
+    {
+      "topicSlug": "brainteasers",
+      "lessonKey": "brainteasers.optical-illusions-explained",
+      "key": "brainteasers.optical-illusions-explained.g9",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the name of the famous optical illusion where a drawing can be seen as either a rabbit or a duck?",
+        "mn": "Нэгэн зураг нь нэг бол туулай, эсвэл нугас шиг харагддаг алдартай оптикийн хууралтыг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Rabbit-Duck illusion",
+          "mn": "Туулай-Нугасны хууралт"
+        },
+        {
+          "en": "Spinning Dancer illusion",
+          "mn": "Эргэлдэгч бүжигчний хууралт"
+        },
+        {
+          "en": "My Wife and My Mother-in-Law",
+          "mn": "Миний эхнэр ба миний хадам эх"
+        },
+        {
+          "en": "Lilac Chaser",
+          "mn": "Голт борын хөөгч"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Rabbit-Duck illusion was first published in a German humor magazine in 1892 and was later used by philosopher Ludwig Wittgenstein to study how people perceive things.",
+        "mn": "Туулай-Нугасны хууралт нь анх 1892 онд Германы хошин шог сэтгүүлд нийтлэгдсэн бөгөөд хожим нь гүн ухаантан Людвиг Витгенштейн хүмүүс аливаа зүйлийг хэрхэн хүртэж хүлээж авдгийг судлахад ашиглажээ."
+      }
+    },
+    {
+      "topicSlug": "brainteasers",
+      "lessonKey": "brainteasers.optical-illusions-explained",
+      "key": "brainteasers.optical-illusions-explained.g10",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What type of room is built with a distorted shape to create an optical illusion where people appear to shrink or grow as they walk across it?",
+        "mn": "Өрөөний хэлбэрийг гажуудуулж барьснаар дотор нь байгаа хүмүүс нэг булангаас нөгөө рүү явахад томорч эсвэл жижгэрч байгаа мэт харагдуулдаг тусгай өрөөг хэний нэрээр нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Penrose room",
+          "mn": "Пенроузын өрөө"
+        },
+        {
+          "en": "Heublein room",
+          "mn": "Хёблайны өрөө"
+        },
+        {
+          "en": "Eames room",
+          "mn": "Имсийн өрөө"
+        },
+        {
+          "en": "Ames room",
+          "mn": "Эймсийн өрөө"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Ames room, invented by Adelbert Ames Jr. in 1946, is trapezoidal but designed to look rectangular from a specific viewing point, tricking our depth perception.",
+        "mn": "Эймсийн өрөөг 1946 онд Адельберт Эймс зохион бүтээжээ. Энэ өрөө нь трапец хэлбэртэй боловч тодорхой нэг өнцгөөс харахад тэгш өнцөгт мэт харагдаж, хүний зайн баримжааг хуурдаг байна."
+      }
+    },
+    {
+      "topicSlug": "brainteasers",
+      "lessonKey": "brainteasers.optical-illusions-explained",
+      "key": "brainteasers.optical-illusions-explained.g11",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of the following phenomena explains why we sometimes see faces or familiar shapes in random patterns, like a face on the Moon or on toast?",
+        "mn": "Саран дээрх хүний дүр төрх эсвэл шарсан талхан дээрх дүрс гэх мэт санамсаргүй хээ угалзаас танил дүрсийг (ялангуяа хүний нүүр) олж харах үзэгдлийг шинжлэх ухаанд юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Synesthesia",
+          "mn": "Синестези"
+        },
+        {
+          "en": "Achromatopsia",
+          "mn": "Ахроматопси"
+        },
+        {
+          "en": "Pareidolia",
+          "mn": "Парейдоли"
+        },
+        {
+          "en": "Trompe-l'œil",
+          "mn": "Тромплэй"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Pareidolia is a psychological tendency where the brain finds significant patterns (especially human faces) in random visual stimuli. It is an evolutionary survival mechanism.",
+        "mn": "Парейдоли гэдэг нь хүний тархи санамсаргүй харааны өдөөгчөөс ямар нэгэн танил дүрс (ялангуяа хүний нүүр царай) олж харах сэтгэл зүйн хандлага юм. Энэ нь хувьслын явцад үүссэн амьд үлдэх механизмтай холбоотой."
+      }
+    },
+    {
+      "topicSlug": "brainteasers",
+      "lessonKey": "brainteasers.optical-illusions-explained",
+      "key": "brainteasers.optical-illusions-explained.g12",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which optical illusion features grey spots that appear and disappear at the intersections of a white grid on a black background?",
+        "mn": "Хар дэвсгэр дээрх цагаан торын уулзварууд дээр саарал цэгүүд үзэгдэж, алга болоод байдаг оптикийн хууралтыг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Jastrow illusion",
+          "mn": "Жастровын хууралт"
+        },
+        {
+          "en": "Poggendorff illusion",
+          "mn": "Поггендорфын хууралт"
+        },
+        {
+          "en": "Delboeuf illusion",
+          "mn": "Дельбёфийн хууралт"
+        },
+        {
+          "en": "Hermann grid illusion",
+          "mn": "Херманы торон хууралт"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Hermann grid illusion, reported by Ludimar Hermann in 1870, happens because of lateral inhibition in the retina's receptive fields.",
+        "mn": "1870 онд Лудимар Херманы тэмдэглэн үлдээсэн Херманы торон хууралт нь нүдний торлог бүрхэвч дэх хажуугийн саатлын (lateral inhibition) нөлөөгөөр үүсдэг байна."
+      }
+    }
+  ]
+}

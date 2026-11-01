@@ -1,0 +1,4361 @@
+{
+ "lessons": [
+  {
+   "topicSlug": "pubquiz",
+   "key": "pubquiz.sports",
+   "order": 20,
+   "title": {
+    "en": "Sports & Olympics",
+    "mn": "Спорт ба олимп"
+   },
+   "summary": {
+    "en": "Olympic records, legendary athletes and the quirky rules of the world’s favourite games.",
+    "mn": "Олимпийн дээд амжилт, домогт тамирчид, дэлхийн дуртай тоглоомуудын сонин дүрэм."
+   },
+   "body": {
+    "en": "Sport questions at a pub quiz rarely ask for match scores — they ask for records, firsts and the stories behind them. The Olympics alone supply endless material, from ancient Olympia to Paris 2024. Learn the numbers that never change (a marathon is 42.195 km, a snooker maximum is 147) and the legends who broke them.",
+    "mn": "Паб квизэд тоглолтын оноо бараг асуудаггүй — харин дээд амжилт, «анхны» тохиолдол, тэдгээрийн ард буй түүхийг асуудаг. Эртний Олимпоос Парис 2024 хүртэлх олимпийн наадам л гэхэд асуултын баялаг эх сурвалж. Хэзээ ч өөрчлөгддөггүй тоонууд (марафон 42.195 км, снукерийн дээд оноо 147), тэдгээрийг эвдсэн домогт тамирчдыг цээжлээрэй."
+   },
+   "visual": {
+    "kind": "cards",
+    "items": [
+     {
+      "icon": "🏅",
+      "title": {
+       "en": "Olympic records",
+       "mn": "Олимпийн дээд амжилт"
+      },
+      "facts": [
+       {
+        "en": "Michael Phelps: 23 golds, 28 medals in total",
+        "mn": "Майкл Фелпс: 23 алт, нийт 28 медаль"
+       },
+       {
+        "en": "Usain Bolt: 100 m in 9.58 s (Berlin, 2009)",
+        "mn": "Усэйн Болт: 100 м-ийг 9.58 секундэд (Берлин, 2009)"
+       },
+       {
+        "en": "Jesse Owens: 4 golds at Berlin 1936",
+        "mn": "Жесси Оуэнс: Берлин 1936-д 4 алт"
+       }
+      ]
+     },
+     {
+      "icon": "🇲🇳",
+      "title": {
+       "en": "Mongolia at the Games",
+       "mn": "Монгол олимпод"
+      },
+      "facts": [
+       {
+        "en": "First gold: N. Tüvshinbayar, judo, Beijing 2008",
+        "mn": "Анхны алт: Н.Түвшинбаяр, жүдо, Бээжин 2008"
+       },
+       {
+        "en": "Same Games: E. Badar-Uugan won boxing gold",
+        "mn": "Мөн тэр наадамд Э.Бадар-Ууган боксоор алт авсан"
+       }
+      ]
+     },
+     {
+      "icon": "🎾",
+      "title": {
+       "en": "Racket & ball",
+       "mn": "Цохиур ба бөмбөг"
+      },
+      "facts": [
+       {
+        "en": "Wimbledon is the only Grand Slam on grass",
+        "mn": "Уимблдон бол өвсөн талбайтай цорын ганц Их дуулга"
+       },
+       {
+        "en": "Federer holds the men’s record of 8 Wimbledon titles",
+        "mn": "Федерер Уимблдонд 8 удаа түрүүлж эрэгтэйчүүдийн рекорд эзэмшдэг"
+       },
+       {
+        "en": "“Love” means zero in tennis",
+        "mn": "Теннист «love» гэдэг нь тэг оноо"
+       }
+      ]
+     },
+     {
+      "icon": "🤼",
+      "title": {
+       "en": "Sumo",
+       "mn": "Сумо"
+      },
+      "facts": [
+       {
+        "en": "Asashōryū: first Mongolian yokozuna (2003)",
+        "mn": "Асашорюу: анхны монгол ёкозуна (2003)"
+       },
+       {
+        "en": "Hakuhō: record 45 top-division titles",
+        "mn": "Хакухо: дээд лигт 45 удаа түрүүлсэн рекорд"
+       }
+      ]
+     },
+     {
+      "icon": "♟️",
+      "title": {
+       "en": "Mind sports",
+       "mn": "Оюуны спорт"
+      },
+      "facts": [
+       {
+        "en": "Bobby Fischer beat Boris Spassky in Reykjavík, 1972",
+        "mn": "Бобби Фишер 1972 онд Рейкьявикт Борис Спасскийг ялсан"
+       },
+       {
+        "en": "IBM’s Deep Blue beat Garry Kasparov in 1997",
+        "mn": "IBM-ийн Deep Blue 1997 онд Гарри Каспаровыг ялсан"
+       }
+      ]
+     }
+    ]
+   },
+   "funFacts": [
+    {
+     "en": "Nadia Comăneci’s perfect 10 in 1976 appeared on the scoreboard as “1.00” — it could only show three digits.",
+     "mn": "Надя Команечийн 1976 оны төгс 10 оноо самбар дээр «1.00» гэж гарчээ — самбар гуравхан оронтой тоо харуулж чаддаг байв."
+    },
+    {
+     "en": "In 1971 astronaut Alan Shepard hit golf balls on the Moon during Apollo 14.",
+     "mn": "1971 онд сансрын нисгэгч Алан Шепард «Аполлон 14»-ийн үеэр Сарны гадаргуу дээр гольфын бөмбөг цохижээ."
+    },
+    {
+     "en": "The yellow jersey of the Tour de France is yellow because the organising newspaper, L’Auto, was printed on yellow paper.",
+     "mn": "Тур де Франсын шар цамц нь уралдааныг зохион байгуулсан «L’Auto» сонин шар цаасан дээр хэвлэгддэг байсных."
+    }
+   ]
+  },
+  {
+   "topicSlug": "pubquiz",
+   "key": "pubquiz.music",
+   "order": 21,
+   "title": {
+    "en": "Music: classical to pop",
+    "mn": "Хөгжим: сонгодгоос поп хүртэл"
+   },
+   "summary": {
+    "en": "From Bach and Beethoven to Queen, BTS and The HU — the composers, bands and records quiz masters love.",
+    "mn": "Бах, Бетховеноос Queen, BTS, The HU хүртэл — квизийн хөтлөгчдийн дуртай хөгжмийн зохиолч, хамтлаг, рекордууд."
+   },
+   "body": {
+    "en": "Music questions mix two worlds: the classical canon, where facts are centuries old, and pop, where records are broken every year. Know which composer wrote which famous work, the nicknames of the stars and a few chart milestones. Mongolian quizzes also like home-grown success stories such as throat singing and hunnu rock.",
+    "mn": "Хөгжмийн асуулт хоёр ертөнцийг хослуулдаг: хэдэн зуун жилийн настай баримттай сонгодог хөгжим, жил бүр рекорд шинэчлэгддэг поп. Аль хөгжмийн зохиолч ямар алдартай бүтээл туурвисан, оддын хочууд, чартын гол үйл явдлыг мэдэж байх хэрэгтэй. Монгол квизүүд хөөмий, хүннү рок зэрэг манай амжилтын түүхийг ч асуух дуртай."
+   },
+   "visual": {
+    "kind": "cards",
+    "items": [
+     {
+      "icon": "🎼",
+      "title": {
+       "en": "Classical giants",
+       "mn": "Сонгодгийн аваргууд"
+      },
+      "facts": [
+       {
+        "en": "Beethoven wrote 9 symphonies, the last while almost deaf",
+        "mn": "Бетховен 9 симфони бичсэн, сүүлчийнхийг бараг дүлий байхдаа"
+       },
+       {
+        "en": "Vivaldi: The Four Seasons (1725)",
+        "mn": "Вивальди: «Дөрвөн улирал» (1725)"
+       },
+       {
+        "en": "Bach: the Brandenburg Concertos",
+        "mn": "Бах: «Бранденбургийн концертууд»"
+       }
+      ]
+     },
+     {
+      "icon": "🎭",
+      "title": {
+       "en": "Opera & ballet",
+       "mn": "Дуурь ба балет"
+      },
+      "facts": [
+       {
+        "en": "Tchaikovsky: Swan Lake, The Nutcracker, Sleeping Beauty",
+        "mn": "Чайковский: «Хунт нуур», «Самар хагалагч», «Нойрсож буй гоо бүсгүй»"
+       },
+       {
+        "en": "Verdi’s Aida premiered in Cairo in 1871",
+        "mn": "Вердигийн «Аида» 1871 онд Каирт анх тавигдсан"
+       },
+       {
+        "en": "Wagner’s Ring cycle: 4 operas, about 15 hours",
+        "mn": "Вагнерийн «Нибелунгийн бөгж»: 4 дуурь, 15 орчим цаг"
+       }
+      ]
+     },
+     {
+      "icon": "🎸",
+      "title": {
+       "en": "Rock legends",
+       "mn": "Рокийн домог"
+      },
+      "facts": [
+       {
+        "en": "Queen: Bohemian Rhapsody (1975)",
+        "mn": "Queen: «Bohemian Rhapsody» (1975)"
+       },
+       {
+        "en": "The Beatles: Abbey Road (1969)",
+        "mn": "The Beatles: «Abbey Road» (1969)"
+       },
+       {
+        "en": "Nirvana: Kurt Cobain, Smells Like Teen Spirit",
+        "mn": "Nirvana: Курт Кобейн, «Smells Like Teen Spirit»"
+       }
+      ]
+     },
+     {
+      "icon": "🎤",
+      "title": {
+       "en": "Pop records",
+       "mn": "Попын рекорд"
+      },
+      "facts": [
+       {
+        "en": "Michael Jackson’s Thriller: best-selling album ever",
+        "mn": "Майкл Жексоны «Thriller»: хамгийн их борлогдсон цомог"
+       },
+       {
+        "en": "BTS Dynamite (2020): first K-pop No. 1 on the Hot 100",
+        "mn": "BTS «Dynamite» (2020): Hot 100-д тэргүүлсэн анхны K-pop"
+       },
+       {
+        "en": "Taylor Swift’s Eras Tour: first tour past $2 billion",
+        "mn": "Тейлор Свифтийн Eras Tour: 2 тэрбум доллар давсан анхны аялан тоглолт"
+       }
+      ]
+     },
+     {
+      "icon": "🇲🇳",
+      "title": {
+       "en": "Mongolian sound",
+       "mn": "Монгол аялгуу"
+      },
+      "facts": [
+       {
+        "en": "Khöömei is on UNESCO’s intangible heritage list (2010)",
+        "mn": "Хөөмий ЮНЕСКО-гийн биет бус өвийн жагсаалтад (2010)"
+       },
+       {
+        "en": "The HU blend morin khuur and throat singing with metal",
+        "mn": "The HU морин хуур, хөөмийг металл хөгжимтэй хослуулдаг"
+       }
+      ]
+     }
+    ]
+   },
+   "funFacts": [
+    {
+     "en": "The Voyager Golden Record, now beyond the Solar System, carries more music by Bach than by any other composer.",
+     "mn": "Нарны аймгаас гарсан «Вояжер»-ийн алтан пянзанд Бахын бүтээл бусад ямар ч хөгжмийн зохиолчийнхоос олон багтсан."
+    },
+    {
+     "en": "Gangnam Style was watched so often that YouTube had to upgrade its view counter from 32-bit to 64-bit.",
+     "mn": "«Gangnam Style»-ыг маш олон удаа үзсэн тул YouTube үзэлтийн тоолуураа 32 битээс 64 бит болгож шинэчлэх шаардлагатай болжээ."
+    },
+    {
+     "en": "Lady Gaga took her stage name from Queen’s song “Radio Ga Ga”.",
+     "mn": "Леди Гага тайзны нэрээ Queen хамтлагийн «Radio Ga Ga» дуунаас авчээ."
+    }
+   ]
+  },
+  {
+   "topicSlug": "pubquiz",
+   "key": "pubquiz.food",
+   "order": 22,
+   "title": {
+    "en": "Food & Drink around the world",
+    "mn": "Дэлхийн хоол, ундаа"
+   },
+   "summary": {
+    "en": "National dishes, the stories behind famous foods and surprising facts about what we eat and drink.",
+    "mn": "Үндэсний хоол, алдартай хоолны гарал үүсэл, бидний идэж уудаг зүйлийн гайхалтай баримтууд."
+   },
+   "body": {
+    "en": "Food is one of the easiest ways into a country’s history: pizza Margherita honours an Italian queen, the croissant began as a Viennese kipferl. Pub quizzes love national dishes, the plants behind famous drinks and protected names like Champagne or Parmigiano Reggiano. A little botany helps too — some “vegetables” are fruits, and wasabi is rarely real wasabi.",
+    "mn": "Хоол бол тухайн орны түүхэнд нэвтрэх хамгийн амар зам: «Маргарита» пицца Италийн хатны нэрээр нэрлэгдсэн, круассан Веногийн «кипферль»-ээс эхтэй. Паб квизэд үндэсний хоол, алдартай ундааны түүхий эд болсон ургамал, Шампань, Пармиджано Реджано зэрэг хамгаалагдсан нэрийг их асуудаг. Бага зэрэг ургамал судлал ч хэрэгтэй — зарим «ногоо» үнэндээ жимс, васаби ихэнхдээ жинхэнэ васаби биш байдаг."
+   },
+   "visual": {
+    "kind": "cards",
+    "items": [
+     {
+      "icon": "🍕",
+      "title": {
+       "en": "Italy",
+       "mn": "Итали"
+      },
+      "facts": [
+       {
+        "en": "Pizza Margherita: tomato, mozzarella, basil = the flag",
+        "mn": "Маргарита пицца: улаан лооль, моцарелла, базилик = төрийн далбаа"
+       },
+       {
+        "en": "Parmigiano Reggiano: the “King of Cheeses”",
+        "mn": "Пармиджано Реджано: «бяслагийн хаан»"
+       }
+      ]
+     },
+     {
+      "icon": "🍜",
+      "title": {
+       "en": "Asia",
+       "mn": "Ази"
+      },
+      "facts": [
+       {
+        "en": "Kimchi: Korea’s fermented cabbage",
+        "mn": "Кимчи: Солонгосын даршилсан байцаа"
+       },
+       {
+        "en": "Phở: Vietnam’s noodle soup",
+        "mn": "Фо: Вьетнамын гоймонтой шөл"
+       },
+       {
+        "en": "Sake is brewed from rice",
+        "mn": "Сакэ будаагаар исгэж хийдэг"
+       }
+      ]
+     },
+     {
+      "icon": "🌮",
+      "title": {
+       "en": "The Americas",
+       "mn": "Америк тив"
+      },
+      "facts": [
+       {
+        "en": "Tequila comes from blue agave",
+        "mn": "Текила цэнхэр агаваас гаралтай"
+       },
+       {
+        "en": "Cacao is native to Central and South America",
+        "mn": "Какао Төв ба Өмнөд Америкаас гаралтай"
+       },
+       {
+        "en": "Brazil grows about a third of the world’s coffee",
+        "mn": "Дэлхийн кофены гуравны нэг орчмыг Бразил тариалдаг"
+       }
+      ]
+     },
+     {
+      "icon": "🥟",
+      "title": {
+       "en": "Mongolia",
+       "mn": "Монгол"
+      },
+      "facts": [
+       {
+        "en": "Buuz are the centrepiece of the Tsagaan Sar table",
+        "mn": "Бууз бол Цагаан сарын ширээний гол хоол"
+       },
+       {
+        "en": "Thousands of buuz are made for the holiday in many families",
+        "mn": "Олон айл баярт зориулж хэдэн зуу, мянгаар нь бууз чимхдэг"
+       }
+      ]
+     },
+     {
+      "icon": "☕",
+      "title": {
+       "en": "Drinks",
+       "mn": "Ундаа"
+      },
+      "facts": [
+       {
+        "en": "Tea is the most-drunk beverage after water",
+        "mn": "Цай бол уснаас хойш хамгийн их уудаг ундаа"
+       },
+       {
+        "en": "Finland drinks the most coffee per person",
+        "mn": "Нэг хүнд ногдох кофены хэрэглээгээр Финлянд тэргүүлдэг"
+       }
+      ]
+     }
+    ]
+   },
+   "funFacts": [
+    {
+     "en": "An Italian bank, Credem, accepts wheels of Parmigiano Reggiano as collateral for loans.",
+     "mn": "Италийн «Credem» банк Пармиджано Реджано бяслагийн дугуйг зээлийн барьцаанд авдаг."
+    },
+    {
+     "en": "Edible honey has been found in ancient Egyptian tombs — honey almost never spoils.",
+     "mn": "Эртний Египетийн булшнаас идэж болохуйц зөгийн бал олдсон — зөгийн бал бараг муудахгүй."
+    },
+    {
+     "en": "Bananas are slightly radioactive because of their potassium-40.",
+     "mn": "Гадил кали-40 агуулдаг тул бага зэрэг цацраг идэвхтэй."
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.sports",
+   "key": "pubquiz.sports.a11",
+   "difficulty": 1,
+   "prompt": {
+    "en": "How many rings are on the Olympic flag?",
+    "mn": "Олимпийн далбаан дээр хэдэн цагираг байдаг вэ?"
+   },
+   "choices": [
+    {
+     "en": "Six",
+     "mn": "Зургаа"
+    },
+    {
+     "en": "Seven",
+     "mn": "Долоо"
+    },
+    {
+     "en": "Five",
+     "mn": "Тав"
+    },
+    {
+     "en": "Four",
+     "mn": "Дөрөв"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Five interlocking rings, designed by Pierre de Coubertin in 1913. Together with the white background, their colours include at least one colour of every national flag.",
+    "mn": "Пьер де Кубертений 1913 онд зурсан таван цагираг. Цагаан дэвсгэртэйгээ нийлээд дэлхийн бүх улсын далбаанд байдаг ядаж нэг өнгийг агуулдаг."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.sports",
+   "key": "pubquiz.sports.a12",
+   "difficulty": 1,
+   "prompt": {
+    "en": "In which sport does “love” mean a score of zero?",
+    "mn": "Аль спортод «love» гэдэг нь тэг оноо гэсэн утгатай вэ?"
+   },
+   "choices": [
+    {
+     "en": "Cricket",
+     "mn": "Крикет"
+    },
+    {
+     "en": "Tennis",
+     "mn": "Теннис"
+    },
+    {
+     "en": "Golf",
+     "mn": "Гольф"
+    },
+    {
+     "en": "Volleyball",
+     "mn": "Волейбол"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "In tennis “love” means zero. One popular theory links it to the French “l’œuf” — an egg, shaped like a 0.",
+    "mn": "Теннист «love» нь тэг оноо. Нэг таамаглалаар 0 шиг хэлбэртэй өндөг буюу францын «l’œuf» гэдэг үгнээс гаралтай."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.sports",
+   "key": "pubquiz.sports.a13",
+   "difficulty": 2,
+   "prompt": {
+    "en": "What is the official length of a marathon?",
+    "mn": "Марафон гүйлтийн албан ёсны зай хэд вэ?"
+   },
+   "choices": [
+    {
+     "en": "40 km",
+     "mn": "40 км"
+    },
+    {
+     "en": "42.5 km",
+     "mn": "42.5 км"
+    },
+    {
+     "en": "45 km",
+     "mn": "45 км"
+    },
+    {
+     "en": "42.195 km",
+     "mn": "42.195 км"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "The odd distance comes from the 1908 London Olympics course, which started at Windsor Castle; it became standard in 1921.",
+    "mn": "Энэ сондгой зай 1908 оны Лондонгийн олимпийн Виндзорын цайзаас эхэлсэн замаас үүдэлтэй; 1921 оноос стандарт болжээ."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.sports",
+   "key": "pubquiz.sports.a14",
+   "difficulty": 1,
+   "prompt": {
+    "en": "In which country was basketball invented?",
+    "mn": "Сагсан бөмбөгийг аль улсад зохион бүтээсэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "United States",
+     "mn": "АНУ"
+    },
+    {
+     "en": "England",
+     "mn": "Англи"
+    },
+    {
+     "en": "Germany",
+     "mn": "Герман"
+    },
+    {
+     "en": "Canada",
+     "mn": "Канад"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "James Naismith invented it in 1891 in Springfield, Massachusetts — though he himself was Canadian. The first “hoops” were peach baskets.",
+    "mn": "Жеймс Нейсмит 1891 онд АНУ-ын Массачусетсийн Спрингфилд хотод зохиосон, гэхдээ өөрөө канад хүн байв. Анхны сагс нь тоорын сагс байжээ."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.sports",
+   "key": "pubquiz.sports.a15",
+   "difficulty": 2,
+   "prompt": {
+    "en": "What is Usain Bolt’s 100 m world record, set in Berlin in 2009?",
+    "mn": "Усэйн Болтын 2009 онд Берлинд тогтоосон 100 метрийн дэлхийн дээд амжилт хэд вэ?"
+   },
+   "choices": [
+    {
+     "en": "9.69 seconds",
+     "mn": "9.69 секунд"
+    },
+    {
+     "en": "9.58 seconds",
+     "mn": "9.58 секунд"
+    },
+    {
+     "en": "9.49 seconds",
+     "mn": "9.49 секунд"
+    },
+    {
+     "en": "9.72 seconds",
+     "mn": "9.72 секунд"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "Bolt ran 9.58 s at the 2009 World Championships, improving his own 9.69 from the Beijing Olympics. He reached a top speed of almost 45 km/h.",
+    "mn": "Болт 2009 оны дэлхийн аварга шалгаруулах тэмцээнд 9.58 секунд гүйж, Бээжингийн олимпод тогтоосон 9.69 секундийн амжилтаа ахиулсан. Түүний дээд хурд 45 км/ц-т ойртсон."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.sports",
+   "key": "pubquiz.sports.a16",
+   "difficulty": 1,
+   "prompt": {
+    "en": "The Stanley Cup is the trophy of which sport?",
+    "mn": "Стэнлийн цомыг аль спортын төрөлд гардуулдаг вэ?"
+   },
+   "choices": [
+    {
+     "en": "Rugby",
+     "mn": "Регби"
+    },
+    {
+     "en": "Lacrosse",
+     "mn": "Лакросс"
+    },
+    {
+     "en": "Baseball",
+     "mn": "Бейсбол"
+    },
+    {
+     "en": "Ice hockey",
+     "mn": "Хоккей"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "Donated in 1892 by Lord Stanley, Governor General of Canada, it is the NHL’s championship trophy. Every player on the winning team gets to spend a day with it.",
+    "mn": "Канадын ерөнхий захирагч лорд Стэнли 1892 онд бэлэглэсэн энэ цом NHL-ийн аваргын шагнал. Ялсан багийн тоглогч бүр цомтой нэг өдрийг өнгөрүүлэх эрхтэй."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.sports",
+   "key": "pubquiz.sports.a17",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Which is the only tennis Grand Slam still played on grass?",
+    "mn": "Өвсөн талбайд явагддаг цорын ганц теннисний Их дуулгын тэмцээн аль вэ?"
+   },
+   "choices": [
+    {
+     "en": "Australian Open",
+     "mn": "Австралийн нээлттэй"
+    },
+    {
+     "en": "French Open",
+     "mn": "Францын нээлттэй"
+    },
+    {
+     "en": "Wimbledon",
+     "mn": "Уимблдон"
+    },
+    {
+     "en": "US Open",
+     "mn": "АНУ-ын нээлттэй"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Held since 1877, Wimbledon is the oldest tennis tournament in the world. Spectators eat tens of thousands of kilos of strawberries and cream each year.",
+    "mn": "1877 оноос хойш зохиогдож буй Уимблдон бол дэлхийн хамгийн эртний теннисний тэмцээн. Үзэгчид жил бүр хэдэн арван тонн гүзээлзгэнэ цөцгийтэй иддэг."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.sports",
+   "key": "pubquiz.sports.a18",
+   "difficulty": 1,
+   "prompt": {
+    "en": "How many Olympic gold medals did Michael Phelps win?",
+    "mn": "Майкл Фелпс олимпоос хэдэн алтан медаль хүртсэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "23",
+     "mn": "23"
+    },
+    {
+     "en": "18",
+     "mn": "18"
+    },
+    {
+     "en": "21",
+     "mn": "21"
+    },
+    {
+     "en": "28",
+     "mn": "28"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "Phelps won 23 golds and 28 medals overall. His 8 golds at Beijing 2008 broke Mark Spitz’s record of 7 at a single Games.",
+    "mn": "Фелпс 23 алт, нийт 28 медаль авсан. Бээжин 2008-д авсан 8 алт нь Марк Спитцийн нэг наадамд авсан 7 алтны рекордыг эвдсэн."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.sports",
+   "key": "pubquiz.sports.a19",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Where were the ancient Olympic Games held?",
+    "mn": "Эртний олимпийн наадам хаана болдог байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "Delphi",
+     "mn": "Дельфи"
+    },
+    {
+     "en": "Olympia",
+     "mn": "Олимп"
+    },
+    {
+     "en": "Sparta",
+     "mn": "Спарта"
+    },
+    {
+     "en": "Athens",
+     "mn": "Афин"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "From 776 BC the Games were held at Olympia in honour of Zeus. They ended around AD 393 under the Christian emperor Theodosius I.",
+    "mn": "МЭӨ 776 оноос Зевсийг хүндэтгэн Олимпод зохиодог байв. МЭ 393 оны орчим Христийн шашинт эзэн хаан I Теодосийн үед зогсчээ."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.sports",
+   "key": "pubquiz.sports.a110",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Judo was founded in which country?",
+    "mn": "Жүдо бөхийг аль улсад үндэслэсэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Mongolia",
+     "mn": "Монгол"
+    },
+    {
+     "en": "China",
+     "mn": "Хятад"
+    },
+    {
+     "en": "Korea",
+     "mn": "Солонгос"
+    },
+    {
+     "en": "Japan",
+     "mn": "Япон"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "Jigoro Kano created judo in Tokyo in 1882 from older jujutsu styles. It became an Olympic sport at Tokyo 1964.",
+    "mn": "Жигоро Кано 1882 онд Токиод эртний жүжүцүгийн аргуудаас жүдог үүсгэн байгуулсан. 1964 оны Токиогийн олимпоос олимпийн төрөл болсон."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.sports",
+   "key": "pubquiz.sports.a111",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Who won Mongolia’s first ever Olympic gold medal?",
+    "mn": "Монголд олимпийн анхны алтан медаль авчирсан тамирчин хэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "B. Bat-Erdene",
+     "mn": "Б.Бат-Эрдэнэ"
+    },
+    {
+     "en": "O. Gündegmaa",
+     "mn": "О.Гүндэгмаа"
+    },
+    {
+     "en": "N. Tüvshinbayar",
+     "mn": "Н.Түвшинбаяр"
+    },
+    {
+     "en": "Z. Oidov",
+     "mn": "З.Ойдов"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Naidangiin Tüvshinbayar won the men’s 100 kg judo final at Beijing 2008. Ten days later boxer E. Badar-Uugan added Mongolia’s second gold.",
+    "mn": "Найдангийн Түвшинбаяр Бээжин 2008-д жүдогийн 100 кг-ын финалд түрүүлсэн. Арав хоногийн дараа боксчин Э.Бадар-Ууган хоёр дахь алтыг нэмсэн."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.sports",
+   "key": "pubquiz.sports.a112",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Who became world chess champion in 1972 by beating Boris Spassky in Reykjavík?",
+    "mn": "1972 онд Рейкьявикт Борис Спасскийг ялж дэлхийн шатрын аварга болсон хэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Bobby Fischer",
+     "mn": "Бобби Фишер"
+    },
+    {
+     "en": "Anatoly Karpov",
+     "mn": "Анатолий Карпов"
+    },
+    {
+     "en": "Mikhail Tal",
+     "mn": "Михаил Таль"
+    },
+    {
+     "en": "Garry Kasparov",
+     "mn": "Гарри Каспаров"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "The Cold War “Match of the Century” made Fischer the first American world champion. He forfeited the title in 1975 without playing Karpov.",
+    "mn": "Хүйтэн дайны үеийн «зууны тоглолт» Фишерийг анхны америк дэлхийн аварга болгосон. Тэр 1975 онд Карповтой тоглохоос татгалзаж цолоо алдсан."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.sports",
+   "key": "pubquiz.sports.a113",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Which IBM computer defeated Garry Kasparov in a chess match in 1997?",
+    "mn": "1997 онд Гарри Каспаровыг шатрын тоглолтод ялсан IBM-ийн компьютер аль вэ?"
+   },
+   "choices": [
+    {
+     "en": "Stockfish",
+     "mn": "Stockfish"
+    },
+    {
+     "en": "Watson",
+     "mn": "Watson"
+    },
+    {
+     "en": "AlphaZero",
+     "mn": "AlphaZero"
+    },
+    {
+     "en": "Deep Blue",
+     "mn": "Deep Blue"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "Deep Blue won the six-game rematch 3½–2½, the first defeat of a reigning world champion by a computer under match conditions. It could evaluate about 200 million positions per second.",
+    "mn": "Deep Blue зургаан партитай хариу тоглолтод 3½–2½-оор ялсан нь компьютер дэлхийн аваргыг тэмцээний нөхцөлд анх удаа ялсан хэрэг. Секундэд 200 сая орчим байрлал тооцоолж чаддаг байв."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.sports",
+   "key": "pubquiz.sports.a114",
+   "difficulty": 1,
+   "prompt": {
+    "en": "In golf, what is a score of one under par on a hole called?",
+    "mn": "Гольфод нэг цохилтыг пар-аас нэгээр бага цохиж дуусгахыг юу гэдэг вэ?"
+   },
+   "choices": [
+    {
+     "en": "Birdie",
+     "mn": "Бёрди"
+    },
+    {
+     "en": "Eagle",
+     "mn": "Игл"
+    },
+    {
+     "en": "Bogey",
+     "mn": "Боги"
+    },
+    {
+     "en": "Albatross",
+     "mn": "Альбатрос"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "A birdie is one under par, an eagle two under and an albatross three under. The term comes from early-1900s American slang where “bird” meant something excellent.",
+    "mn": "Бёрди нь пар-аас нэгээр, игл хоёроор, альбатрос гурваар бага. Энэ нэр 1900-аад оны эхэн үеийн америк хэллэгт «bird» гэдэг нь «гайхалтай» гэсэн утгатай байснаас гаралтай."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.sports",
+   "key": "pubquiz.sports.a115",
+   "difficulty": 2,
+   "prompt": {
+    "en": "What is the maximum break in snooker?",
+    "mn": "Снукерт нэг удаагийн цувралаар авч болох хамгийн их оноо хэд вэ?"
+   },
+   "choices": [
+    {
+     "en": "100",
+     "mn": "100"
+    },
+    {
+     "en": "147",
+     "mn": "147"
+    },
+    {
+     "en": "180",
+     "mn": "180"
+    },
+    {
+     "en": "155",
+     "mn": "155"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "Potting all 15 reds with 15 blacks and then every colour gives 147. Ronnie O’Sullivan made one in just 5 minutes 8 seconds in 1997.",
+    "mn": "15 улааныг бүгдийг нь хартай хослуулан, дараа нь бүх өнгийг унагавал 147 оноо болно. Ронни О’Салливан 1997 онд үүнийг ердөө 5 минут 8 секундэд хийсэн."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.sports",
+   "key": "pubquiz.sports.a116",
+   "difficulty": 3,
+   "prompt": {
+    "en": "Which city was the first to host the Summer Olympics three times?",
+    "mn": "Зуны олимпийг гурван удаа зохион байгуулсан анхны хот аль вэ?"
+   },
+   "choices": [
+    {
+     "en": "Paris",
+     "mn": "Парис"
+    },
+    {
+     "en": "Los Angeles",
+     "mn": "Лос-Анжелес"
+    },
+    {
+     "en": "London",
+     "mn": "Лондон"
+    },
+    {
+     "en": "Athens",
+     "mn": "Афин"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "London hosted in 1908, 1948 and 2012. Paris matched it in 2024, and Los Angeles will join them in 2028.",
+    "mn": "Лондон 1908, 1948, 2012 онд зохион байгуулсан. Парис 2024 онд гурав дахь удаагаа зохион байгуулж эн зэрэгцсэн, Лос-Анжелес 2028 онд нэгдэнэ."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.sports",
+   "key": "pubquiz.sports.a117",
+   "difficulty": 1,
+   "prompt": {
+    "en": "What was Muhammad Ali’s birth name?",
+    "mn": "Мухаммед Алигийн төрсөн нэр юу байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "Cassius Clay",
+     "mn": "Кассиус Клей"
+    },
+    {
+     "en": "George Foreman",
+     "mn": "Жорж Форман"
+    },
+    {
+     "en": "Sonny Liston",
+     "mn": "Сонни Листон"
+    },
+    {
+     "en": "Joe Frazier",
+     "mn": "Жо Фрейзер"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "Cassius Clay won Olympic gold in Rome in 1960 and changed his name in 1964 after joining the Nation of Islam. His motto: “Float like a butterfly, sting like a bee.”",
+    "mn": "Кассиус Клей 1960 онд Ромын олимпод алт авч, 1964 онд Исламын үндэстэнд элсээд нэрээ сольсон. Түүний уриа: «Эрвээхий шиг нисч, зөгий шиг хатга»."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.sports",
+   "key": "pubquiz.sports.a118",
+   "difficulty": 2,
+   "prompt": {
+    "en": "In cricket, how many legal balls make up an over?",
+    "mn": "Крикетэд нэг «овер» хэдэн шидэлтээс бүрддэг вэ?"
+   },
+   "choices": [
+    {
+     "en": "Ten",
+     "mn": "Арав"
+    },
+    {
+     "en": "Five",
+     "mn": "Тав"
+    },
+    {
+     "en": "Six",
+     "mn": "Зургаа"
+    },
+    {
+     "en": "Eight",
+     "mn": "Найм"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "An over has six legal deliveries. Australia used eight-ball overs until 1979.",
+    "mn": "Нэг овер зургаан хууль ёсны шидэлттэй. Австрали 1979 он хүртэл найман шидэлттэй овер хэрэглэж байжээ."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.sports",
+   "key": "pubquiz.sports.a119",
+   "difficulty": 1,
+   "prompt": {
+    "en": "What colour jersey does the overall leader of the Tour de France wear?",
+    "mn": "Тур де Франсын ерөнхий тэргүүлэгч ямар өнгийн цамц өмсдөг вэ?"
+   },
+   "choices": [
+    {
+     "en": "White",
+     "mn": "Цагаан"
+    },
+    {
+     "en": "Green",
+     "mn": "Ногоон"
+    },
+    {
+     "en": "Pink",
+     "mn": "Ягаан"
+    },
+    {
+     "en": "Yellow",
+     "mn": "Шар"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "The maillot jaune, introduced in 1919, matches the yellow paper of the newspaper L’Auto that founded the race. Italy’s Giro uses pink for the same reason.",
+    "mn": "1919 онд нэвтэрсэн шар цамц нь уралдааныг үүсгэсэн «L’Auto» сонины шар цаасны өнгө. Италийн «Жиро» уралдаан мөн ийм шалтгаанаар ягаан өнгө хэрэглэдэг."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.sports",
+   "key": "pubquiz.sports.a120",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Which sport did Michael Jordan play professionally after his first retirement in 1993?",
+    "mn": "Майкл Жордан 1993 онд анх зодог тайлсныхаа дараа ямар спортоор мэргэжлийн түвшинд тоглосон бэ?"
+   },
+   "choices": [
+    {
+     "en": "American football",
+     "mn": "Америк хөлбөмбөг"
+    },
+    {
+     "en": "Baseball",
+     "mn": "Бейсбол"
+    },
+    {
+     "en": "Golf",
+     "mn": "Гольф"
+    },
+    {
+     "en": "Ice hockey",
+     "mn": "Хоккей"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "Jordan played for the Birmingham Barons, a Chicago White Sox minor-league team, in 1994. He returned to the Bulls in 1995 with a two-word fax: “I’m back.”",
+    "mn": "Жордан 1994 онд «Чикаго Уайт Сокс»-ын нөөц «Бирмингем Баронс» багт тоглосон. 1995 онд «I’m back» гэсэн хоёрхон үгтэй факс илгээж «Буллс»-д эргэн ирсэн."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.sports",
+   "key": "pubquiz.sports.a121",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Who became the first Mongolian yokozuna, in 2003?",
+    "mn": "2003 онд анхны монгол ёкозуна болсон хэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Harumafuji",
+     "mn": "Харумафүжи"
+    },
+    {
+     "en": "Asashōryū",
+     "mn": "Асашорюу"
+    },
+    {
+     "en": "Hakuhō",
+     "mn": "Хакухо"
+    },
+    {
+     "en": "Kakuryū",
+     "mn": "Какурюу"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "Asashōryū (Dolgorsürengiin Dagvadorj) was promoted to sumo’s top rank in 2003 and won 25 top-division titles. Hakuhō, Harumafuji and Kakuryū followed him.",
+    "mn": "Асашорюу (Долгорсүрэнгийн Дагвадорж) 2003 онд сумогийн хамгийн дээд цолонд хүрч, дээд лигт 25 удаа түрүүлсэн. Түүний дараа Хакухо, Харумафүжи, Какурюу ёкозуна болсон."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.sports",
+   "key": "pubquiz.sports.a122",
+   "difficulty": 3,
+   "prompt": {
+    "en": "How many top-division championships did Hakuhō win — the all-time sumo record?",
+    "mn": "Хакухо дээд лигт хэдэн удаа түрүүлж сумогийн бүх цаг үеийн рекорд тогтоосон бэ?"
+   },
+   "choices": [
+    {
+     "en": "38",
+     "mn": "38"
+    },
+    {
+     "en": "32",
+     "mn": "32"
+    },
+    {
+     "en": "45",
+     "mn": "45"
+    },
+    {
+     "en": "52",
+     "mn": "52"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Hakuhō (M. Davaajargal) won 45 makuuchi titles before retiring in 2021. He passed Taihō’s long-standing record of 32 in 2015.",
+    "mn": "Хакухо (М.Даваажаргал) 2021 онд зодог тайлахаасаа өмнө макүүчид 45 удаа түрүүлсэн. Тайхогийн удаан хадгалагдсан 32 удаагийн рекордыг 2015 онд эвдсэн."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.sports",
+   "key": "pubquiz.sports.a123",
+   "difficulty": 3,
+   "prompt": {
+    "en": "Which was the first Southern Hemisphere country to host the Summer Olympics?",
+    "mn": "Өмнөд хагас бөмбөрцөгт зуны олимпийг анх зохион байгуулсан улс аль вэ?"
+   },
+   "choices": [
+    {
+     "en": "Brazil",
+     "mn": "Бразил"
+    },
+    {
+     "en": "South Africa",
+     "mn": "Өмнөд Африк"
+    },
+    {
+     "en": "Argentina",
+     "mn": "Аргентин"
+    },
+    {
+     "en": "Australia",
+     "mn": "Австрали"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "Melbourne hosted the 1956 Games. Because of Australia’s strict quarantine rules, the equestrian events were held in Stockholm instead.",
+    "mn": "1956 оны олимпийг Мельбурн зохион байгуулсан. Австралийн хатуу хорио цээрийн дүрмээс болж морин спортын төрлүүдийг Стокгольмд зохиожээ."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.sports",
+   "key": "pubquiz.sports.a124",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Nadia Comăneci, the first gymnast to score a perfect 10 at the Olympics, represented which country?",
+    "mn": "Олимпод анх удаа төгс 10 оноо авсан гимнастикч Надя Команечи аль улсыг төлөөлсөн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Romania",
+     "mn": "Румын"
+    },
+    {
+     "en": "Bulgaria",
+     "mn": "Болгар"
+    },
+    {
+     "en": "Hungary",
+     "mn": "Унгар"
+    },
+    {
+     "en": "Soviet Union",
+     "mn": "ЗХУ"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "At Montreal 1976, aged 14, she scored the first perfect 10. The scoreboard could only show three digits, so it read “1.00”.",
+    "mn": "1976 онд Монреальд 14 настайдаа анхны төгс 10 оноог авсан. Самбар гуравхан оронтой тоо харуулдаг байсан тул «1.00» гэж гарчээ."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.sports",
+   "key": "pubquiz.sports.a125",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Which sport did astronaut Alan Shepard play on the Moon in 1971?",
+    "mn": "1971 онд сансрын нисгэгч Алан Шепард Сар дээр ямар спортоор хичээллэсэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Football",
+     "mn": "Хөлбөмбөг"
+    },
+    {
+     "en": "Baseball",
+     "mn": "Бейсбол"
+    },
+    {
+     "en": "Tennis",
+     "mn": "Теннис"
+    },
+    {
+     "en": "Golf",
+     "mn": "Гольф"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "During Apollo 14 Shepard attached a golf club head to a sampling tool and hit two balls. He joked that the second went “miles and miles”.",
+    "mn": "«Аполлон 14»-ийн үеэр Шепард дээж авах багаждаа гольфын цохиурын толгой залгаж, хоёр бөмбөг цохисон. Хоёр дахь нь «хэдэн миль ч нисэв» гэж тоглоом болгожээ."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.sports",
+   "key": "pubquiz.sports.a126",
+   "difficulty": 2,
+   "prompt": {
+    "en": "How many gold medals did Jesse Owens win at the 1936 Berlin Olympics?",
+    "mn": "Жесси Оуэнс 1936 оны Берлиний олимпод хэдэн алтан медаль авсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "Five",
+     "mn": "Тав"
+    },
+    {
+     "en": "Four",
+     "mn": "Дөрөв"
+    },
+    {
+     "en": "Six",
+     "mn": "Зургаа"
+    },
+    {
+     "en": "Three",
+     "mn": "Гурав"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "Owens won the 100 m, 200 m, long jump and 4×100 m relay — in front of Hitler, puncturing Nazi propaganda about racial superiority.",
+    "mn": "Оуэнс 100 м, 200 м, уртын харайлт, 4×100 м-ийн буухиад түрүүлж, Гитлерийн нүдэн дээр нацистын «арьсны давуу байдал»-ын суртал ухуулгыг няцаасан."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.sports",
+   "key": "pubquiz.sports.a127",
+   "difficulty": 1,
+   "prompt": {
+    "en": "In which athletics event would you perform a “Fosbury Flop”?",
+    "mn": "«Фосберигийн үсрэлт»-ийг хөнгөн атлетикийн аль төрөлд хийдэг вэ?"
+   },
+   "choices": [
+    {
+     "en": "High jump",
+     "mn": "Өндрийн харайлт"
+    },
+    {
+     "en": "Triple jump",
+     "mn": "Гурван алхамт харайлт"
+    },
+    {
+     "en": "Long jump",
+     "mn": "Уртын харайлт"
+    },
+    {
+     "en": "Pole vault",
+     "mn": "Шонтой харайлт"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "Dick Fosbury won gold at Mexico City 1968 by going over the bar head-first and backwards. Within a decade almost every high jumper copied him.",
+    "mn": "Дик Фосбери 1968 онд Мехикод хөндлөвчийг толгойгоороо түрүүлж, нуруугаараа давж алт авсан. Арав хүрэхгүй жилийн дотор бараг бүх өндрийн харайгч түүнийг дуурайх болжээ."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.sports",
+   "key": "pubquiz.sports.a128",
+   "difficulty": 3,
+   "prompt": {
+    "en": "What does the Olympic motto “Citius, Altius, Fortius” mean?",
+    "mn": "Олимпийн «Citius, Altius, Fortius» уриа ямар утгатай вэ?"
+   },
+   "choices": [
+    {
+     "en": "Peace, Unity, Glory",
+     "mn": "Энх тайван, эв нэгдэл, алдар"
+    },
+    {
+     "en": "Swift, Brave, Fair",
+     "mn": "Хурдан, зоримог, шударга"
+    },
+    {
+     "en": "Faster, Higher, Stronger",
+     "mn": "Илүү хурдан, өндөр, хүчтэй"
+    },
+    {
+     "en": "Strength, Honour, Victory",
+     "mn": "Хүч, нэр төр, ялалт"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "The Latin motto was adopted in 1894. In 2021 the IOC added a fourth word, “Communiter” — together.",
+    "mn": "Латин уриаг 1894 онд баталсан. 2021 онд ОУОХ дөрөв дэх үг болох «Communiter» буюу «хамтдаа» гэдгийг нэмсэн."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.sports",
+   "key": "pubquiz.sports.a129",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Which martial art, now an Olympic sport, originated in Korea?",
+    "mn": "Солонгосоос гаралтай, одоо олимпийн төрөл болсон тулааны урлаг аль вэ?"
+   },
+   "choices": [
+    {
+     "en": "Karate",
+     "mn": "Каратэ"
+    },
+    {
+     "en": "Kung fu",
+     "mn": "Күнфү"
+    },
+    {
+     "en": "Taekwondo",
+     "mn": "Таеквондо"
+    },
+    {
+     "en": "Aikido",
+     "mn": "Айкидо"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Taekwondo became a full Olympic sport at Sydney 2000. Its name roughly means “the way of the foot and fist”.",
+    "mn": "Таеквондо 2000 оны Сиднейн олимпоос бүрэн эрхт олимпийн төрөл болсон. Нэр нь «хөл, нударганы зам» гэсэн утгатай."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.sports",
+   "key": "pubquiz.sports.a130",
+   "difficulty": 3,
+   "prompt": {
+    "en": "Which man holds the record for most Wimbledon singles titles, with eight?",
+    "mn": "Уимблдонд ганцаарчилсан төрөлд 8 удаа түрүүлж рекорд тогтоосон эрэгтэй хэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Pete Sampras",
+     "mn": "Пит Сампрас"
+    },
+    {
+     "en": "Roger Federer",
+     "mn": "Рожер Федерер"
+    },
+    {
+     "en": "Rafael Nadal",
+     "mn": "Рафаэль Надаль"
+    },
+    {
+     "en": "Novak Djokovic",
+     "mn": "Новак Жокович"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "Federer won his eighth Wimbledon in 2017, aged 35. Djokovic and Sampras have seven each; the overall record belongs to Martina Navratilova with nine.",
+    "mn": "Федерер 2017 онд 35 настайдаа Уимблдонд найм дахь удаагаа түрүүлсэн. Жокович, Сампрас тус бүр долоо; бүх цаг үеийн рекорд Мартина Навратиловагийн 9 удаа."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.music",
+   "key": "pubquiz.music.a11",
+   "difficulty": 1,
+   "prompt": {
+    "en": "How many symphonies did Beethoven complete?",
+    "mn": "Бетховен хэдэн симфони бүтээсэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Nine",
+     "mn": "Ес"
+    },
+    {
+     "en": "Seven",
+     "mn": "Долоо"
+    },
+    {
+     "en": "Twelve",
+     "mn": "Арван хоёр"
+    },
+    {
+     "en": "Five",
+     "mn": "Тав"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "Beethoven completed nine; the Ninth, with its “Ode to Joy”, was written when he was almost totally deaf. Today it is the anthem of the European Union.",
+    "mn": "Бетховен есөн симфони бичсэн; «Баяр баясгалангийн дуулал»-тай Ес дэх симфонийг бараг бүрэн дүлий болсон хойноо зохиожээ. Өнөөдөр энэ нь Европын холбооны сүлд дуу."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.music",
+   "key": "pubquiz.music.a12",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Which composer wrote the opera “The Magic Flute” and died aged 35?",
+    "mn": "«Шидэт лимбэ» дуурийг зохиож, 35 насандаа таалал төгссөн хөгжмийн зохиолч хэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Schubert",
+     "mn": "Шуберт"
+    },
+    {
+     "en": "Haydn",
+     "mn": "Гайдн"
+    },
+    {
+     "en": "Mozart",
+     "mn": "Моцарт"
+    },
+    {
+     "en": "Handel",
+     "mn": "Гендель"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Mozart wrote more than 600 works in his short life. His Requiem was left unfinished when he died in Vienna in 1791.",
+    "mn": "Моцарт богинохон амьдралдаа 600 гаруй бүтээл туурвисан. 1791 онд Венад нас барахдаа «Реквием»-ээ дуусгаж амжаагүй."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.music",
+   "key": "pubquiz.music.a13",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Who composed “The Four Seasons”?",
+    "mn": "«Дөрвөн улирал» бүтээлийг хэн зохиосон бэ?"
+   },
+   "choices": [
+    {
+     "en": "G. F. Handel",
+     "mn": "Г.Ф.Гендель"
+    },
+    {
+     "en": "J. S. Bach",
+     "mn": "И.С.Бах"
+    },
+    {
+     "en": "Arcangelo Corelli",
+     "mn": "Арканджело Корелли"
+    },
+    {
+     "en": "Antonio Vivaldi",
+     "mn": "Антонио Вивальди"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "Published in 1725, it is a set of four violin concertos, one per season. Vivaldi was a Venetian priest nicknamed “the Red Priest” for his red hair.",
+    "mn": "1725 онд хэвлэгдсэн энэ бүтээл улирал тус бүрт нэг, нийт дөрвөн хийлийн концерт. Вивальди Венецийн санваартан байсан бөгөөд улаан үстэй тул «Улаан санваартан» хочтой."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.music",
+   "key": "pubquiz.music.a14",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Which ballet was NOT composed by Tchaikovsky?",
+    "mn": "Аль балетыг Чайковский зохиогоогүй вэ?"
+   },
+   "choices": [
+    {
+     "en": "Swan Lake",
+     "mn": "Хунт нуур"
+    },
+    {
+     "en": "Giselle",
+     "mn": "Жизель"
+    },
+    {
+     "en": "The Nutcracker",
+     "mn": "Самар хагалагч"
+    },
+    {
+     "en": "Sleeping Beauty",
+     "mn": "Нойрсож буй гоо бүсгүй"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "Giselle (1841) is by the French composer Adolphe Adam. Tchaikovsky wrote exactly three ballets — the other three choices.",
+    "mn": "«Жизель» (1841)-ийг Францын хөгжмийн зохиолч Адольф Адан бичсэн. Чайковский яг гурван балет зохиосон нь бусад гурван хувилбар."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.music",
+   "key": "pubquiz.music.a15",
+   "difficulty": 1,
+   "prompt": {
+    "en": "How many keys does a standard modern piano have?",
+    "mn": "Стандарт орчин үеийн төгөлдөр хуур хэдэн товчлууртай вэ?"
+   },
+   "choices": [
+    {
+     "en": "76",
+     "mn": "76"
+    },
+    {
+     "en": "64",
+     "mn": "64"
+    },
+    {
+     "en": "96",
+     "mn": "96"
+    },
+    {
+     "en": "88",
+     "mn": "88"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "There are 52 white and 36 black keys. The piano was invented around 1700 in Florence by Bartolomeo Cristofori.",
+    "mn": "52 цагаан, 36 хар товчлуур бий. Төгөлдөр хуурыг 1700 оны орчим Флоренцад Бартоломео Кристофори зохион бүтээсэн."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.music",
+   "key": "pubquiz.music.a16",
+   "difficulty": 1,
+   "prompt": {
+    "en": "What is the Mongolian singing technique that produces two or more pitches at once?",
+    "mn": "Нэгэн зэрэг хоёр ба түүнээс дээш дуу авиа гаргадаг монгол дуулах арга юу вэ?"
+   },
+   "choices": [
+    {
+     "en": "Yodel",
+     "mn": "Йодль"
+    },
+    {
+     "en": "Khöömei",
+     "mn": "Хөөмий"
+    },
+    {
+     "en": "Magtaal",
+     "mn": "Магтаал"
+    },
+    {
+     "en": "Urtiin duu",
+     "mn": "Уртын дуу"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "In khöömei the singer holds a low drone while shaping overtones into a melody. Mongolian khöömei was added to UNESCO’s intangible heritage list in 2010.",
+    "mn": "Хөөмийд дуучин нам дууг тасралтгүй гаргахын зэрэгцээ хэт авиагаар аялгуу бүтээдэг. Монгол хөөмий 2010 онд ЮНЕСКО-гийн биет бус соёлын өвийн жагсаалтад бүртгэгдсэн."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.music",
+   "key": "pubquiz.music.a17",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Which band released the album “Abbey Road” in 1969?",
+    "mn": "1969 онд «Abbey Road» цомгийг аль хамтлаг гаргасан бэ?"
+   },
+   "choices": [
+    {
+     "en": "The Beatles",
+     "mn": "The Beatles"
+    },
+    {
+     "en": "The Who",
+     "mn": "The Who"
+    },
+    {
+     "en": "The Rolling Stones",
+     "mn": "The Rolling Stones"
+    },
+    {
+     "en": "Pink Floyd",
+     "mn": "Pink Floyd"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "It is named after the London street of the EMI studio where they recorded. The famous zebra-crossing cover photo was shot in about ten minutes.",
+    "mn": "Цомог нь бичлэг хийсэн EMI студийн Лондон дахь гудамжны нэрээр нэрлэгдсэн. Алдартай явган хүний гарам дээрх хавтасны зургийг арав орчим минутад авчээ."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.music",
+   "key": "pubquiz.music.a18",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Which artist is known as the “King of Pop”?",
+    "mn": "«Попын хаан» хэмээн алдаршсан уран бүтээлч хэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Prince",
+     "mn": "Принс"
+    },
+    {
+     "en": "Elvis Presley",
+     "mn": "Элвис Пресли"
+    },
+    {
+     "en": "Michael Jackson",
+     "mn": "Майкл Жексон"
+    },
+    {
+     "en": "Freddie Mercury",
+     "mn": "Фредди Меркьюри"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "His 1982 album Thriller is the best-selling album of all time. Elvis Presley, by contrast, is the “King of Rock and Roll”.",
+    "mn": "Түүний 1982 оны «Thriller» цомог бүх цаг үеийн хамгийн их борлуулалттай цомог. Харин Элвис Пресли бол «Рок-н-роллын хаан»."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.music",
+   "key": "pubquiz.music.a19",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Which band recorded “Bohemian Rhapsody”?",
+    "mn": "«Bohemian Rhapsody» дууг аль хамтлаг бичсэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Queen",
+     "mn": "Queen"
+    },
+    {
+     "en": "ABBA",
+     "mn": "ABBA"
+    },
+    {
+     "en": "Led Zeppelin",
+     "mn": "Led Zeppelin"
+    },
+    {
+     "en": "Deep Purple",
+     "mn": "Deep Purple"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "Written by Freddie Mercury in 1975, the six-minute song has no chorus. The record label thought it was too long for radio — it became a No. 1 hit anyway.",
+    "mn": "1975 онд Фредди Меркьюригийн бичсэн энэ зургаан минутын дуунд дахилт байхгүй. Пянзны компани радиод хэт урт гэж үзсэн ч дуу №1 хит болсон."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.music",
+   "key": "pubquiz.music.a110",
+   "difficulty": 2,
+   "prompt": {
+    "en": "With which song did ABBA win Eurovision in 1974?",
+    "mn": "ABBA 1974 онд «Евровидение»-д ямар дуугаар түрүүлсэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Dancing Queen",
+     "mn": "Dancing Queen"
+    },
+    {
+     "en": "Fernando",
+     "mn": "Fernando"
+    },
+    {
+     "en": "Mamma Mia",
+     "mn": "Mamma Mia"
+    },
+    {
+     "en": "Waterloo",
+     "mn": "Waterloo"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "The contest was held in Brighton, England, and it was Sweden’s first Eurovision win. ABBA went on to become one of the best-selling acts in history.",
+    "mn": "Тэмцээн Английн Брайтон хотод болсон бөгөөд энэ нь Шведийн «Евровидение»-ийн анхны ялалт. ABBA цаашид түүхэн дэх хамгийн их борлуулалттай хамтлагуудын нэг болсон."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.music",
+   "key": "pubquiz.music.a111",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Frédéric Chopin wrote almost all his music for which instrument?",
+    "mn": "Фредерик Шопен бараг бүх бүтээлээ аль хөгжмийн зэмсэгт зориулж бичсэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Cello",
+     "mn": "Виолончель"
+    },
+    {
+     "en": "Piano",
+     "mn": "Төгөлдөр хуур"
+    },
+    {
+     "en": "Organ",
+     "mn": "Орган"
+    },
+    {
+     "en": "Violin",
+     "mn": "Хийл"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "Chopin, born in Poland in 1810, wrote nearly every piece for solo piano or with piano. At his wish, his heart was taken back to Warsaw and lies in the Holy Cross Church.",
+    "mn": "1810 онд Польшид төрсөн Шопен бараг бүх бүтээлээ төгөлдөр хуурт зориулсан. Түүний хүслээр зүрхийг нь Варшавт авчирч, Ариун загалмайн сүмд хадгалдаг."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.music",
+   "key": "pubquiz.music.a112",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Which composer, father of 20 children, wrote the Brandenburg Concertos?",
+    "mn": "20 хүүхдийн эцэг, «Бранденбургийн концертууд»-ыг зохиосон хөгжмийн зохиолч хэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "G. F. Handel",
+     "mn": "Г.Ф.Гендель"
+    },
+    {
+     "en": "G. P. Telemann",
+     "mn": "Г.Ф.Телеман"
+    },
+    {
+     "en": "J. S. Bach",
+     "mn": "И.С.Бах"
+    },
+    {
+     "en": "Joseph Haydn",
+     "mn": "Йозеф Гайдн"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Johann Sebastian Bach had 20 children from two marriages; several became composers. The Voyager Golden Record carries more Bach than any other composer.",
+    "mn": "Иоганн Себастьян Бах хоёр гэрлэлтээсээ 20 хүүхэдтэй байсан, тэдний хэд нь хөгжмийн зохиолч болсон. «Вояжер»-ийн алтан пянзанд Бахын бүтээл хамгийн олон багтсан."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.music",
+   "key": "pubquiz.music.a113",
+   "difficulty": 2,
+   "prompt": {
+    "en": "During which chorus of Handel’s “Messiah” do audiences traditionally stand?",
+    "mn": "Генделийн «Мессиа»-гийн аль хор дуулах үед үзэгчид уламжлал ёсоор босдог вэ?"
+   },
+   "choices": [
+    {
+     "en": "Gloria",
+     "mn": "Глория"
+    },
+    {
+     "en": "Hallelujah",
+     "mn": "Аллилуйя"
+    },
+    {
+     "en": "Ave Maria",
+     "mn": "Аве Мария"
+    },
+    {
+     "en": "Amen",
+     "mn": "Амен"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "Legend says King George II stood up during the Hallelujah chorus in London in 1743, so everyone else had to stand too.",
+    "mn": "Домогт өгүүлснээр 1743 онд Лондонд хаан II Жорж «Аллилуйя» хорын үеэр босоход бусад нь ч бүгд босох болжээ."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.music",
+   "key": "pubquiz.music.a114",
+   "difficulty": 2,
+   "prompt": {
+    "en": "What was the name of Elvis Presley’s mansion in Memphis?",
+    "mn": "Элвис Преслигийн Мемфис дэх харшийг юу гэж нэрлэдэг вэ?"
+   },
+   "choices": [
+    {
+     "en": "Neverland",
+     "mn": "Neverland"
+    },
+    {
+     "en": "Paisley Park",
+     "mn": "Paisley Park"
+    },
+    {
+     "en": "Graceland",
+     "mn": "Graceland"
+    },
+    {
+     "en": "Xanadu",
+     "mn": "Xanadu"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Graceland is now a museum visited by hundreds of thousands of fans a year; Elvis is buried there. Neverland was Michael Jackson’s ranch and Paisley Park was Prince’s studio.",
+    "mn": "Graceland одоо жилд хэдэн зуун мянган хүн зочилдог музей бөгөөд Элвис тэнд нутаглуулагдсан. Neverland нь Майкл Жексоны ранч, Paisley Park нь Принсийн студи."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.music",
+   "key": "pubquiz.music.a115",
+   "difficulty": 3,
+   "prompt": {
+    "en": "At which 1967 festival did Jimi Hendrix famously set his guitar on fire?",
+    "mn": "Жими Хендрикс 1967 онд аль наадам дээр гитараа шатааж алдаршсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "Monterey Pop",
+     "mn": "Монтерей поп"
+    },
+    {
+     "en": "Woodstock",
+     "mn": "Вудсток"
+    },
+    {
+     "en": "Glastonbury",
+     "mn": "Гластонбери"
+    },
+    {
+     "en": "Isle of Wight",
+     "mn": "Уайт арал"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "At Monterey Pop in June 1967 Hendrix doused his Stratocaster in lighter fluid and set it alight. At Woodstock in 1969 he played his famous version of the US anthem.",
+    "mn": "1967 оны 6-р сард Монтерей поп наадам дээр Хендрикс «Стратокастер» гитар дээрээ асаагуурын шатахуун цацаж шатаасан. 1969 онд Вудстокт АНУ-ын сүлд дууны алдарт хувилбараа тоглосон."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.music",
+   "key": "pubquiz.music.a116",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Which singer was born Stefani Germanotta?",
+    "mn": "Стефани Жерманотта гэдэг нэртэй төрсөн дуучин хэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Katy Perry",
+     "mn": "Кэти Перри"
+    },
+    {
+     "en": "Rihanna",
+     "mn": "Рианна"
+    },
+    {
+     "en": "Madonna",
+     "mn": "Мадонна"
+    },
+    {
+     "en": "Lady Gaga",
+     "mn": "Леди Гага"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "Her stage name comes from Queen’s song “Radio Ga Ga”. She has won both Grammys and an Oscar, for the song “Shallow”.",
+    "mn": "Тайзны нэр нь Queen хамтлагийн «Radio Ga Ga» дуунаас гаралтай. Тэр Грэмми, мөн «Shallow» дуугаараа Оскар хүртсэн."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.music",
+   "key": "pubquiz.music.a117",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Which group scored the first K-pop No. 1 on the US Billboard Hot 100, with “Dynamite” (2020)?",
+    "mn": "2020 онд «Dynamite» дуугаараа АНУ-ын Billboard Hot 100-д тэргүүлсэн анхны K-pop хамтлаг аль вэ?"
+   },
+   "choices": [
+    {
+     "en": "BTS",
+     "mn": "BTS"
+    },
+    {
+     "en": "EXO",
+     "mn": "EXO"
+    },
+    {
+     "en": "BLACKPINK",
+     "mn": "BLACKPINK"
+    },
+    {
+     "en": "BIGBANG",
+     "mn": "BIGBANG"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "“Dynamite” was BTS’s first song recorded entirely in English. The group was later received at the White House and spoke at the UN.",
+    "mn": "«Dynamite» нь BTS-ийн бүхэлдээ англиар бичсэн анхны дуу. Хамтлагийг дараа нь Цагаан ордонд хүлээн авч, НҮБ-д үг хэлүүлсэн."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.music",
+   "key": "pubquiz.music.a118",
+   "difficulty": 2,
+   "prompt": {
+    "en": "“Gangnam Style” was the first YouTube video to reach how many views?",
+    "mn": "«Gangnam Style» YouTube-д хэдэн үзэлтэд хүрсэн анхны бичлэг болсон бэ?"
+   },
+   "choices": [
+    {
+     "en": "Two billion",
+     "mn": "Хоёр тэрбум"
+    },
+    {
+     "en": "One billion",
+     "mn": "Нэг тэрбум"
+    },
+    {
+     "en": "100 million",
+     "mn": "100 сая"
+    },
+    {
+     "en": "500 million",
+     "mn": "500 сая"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "PSY’s video passed one billion views in December 2012. It was watched so often that YouTube had to upgrade its counter from 32-bit to 64-bit.",
+    "mn": "PSY-ийн бичлэг 2012 оны 12-р сард нэг тэрбум үзэлт давсан. Маш олон удаа үзсэн тул YouTube тоолуураа 32 битээс 64 бит болгож шинэчлэх шаардлагатай болсон."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.music",
+   "key": "pubquiz.music.a119",
+   "difficulty": 1,
+   "prompt": {
+    "en": "In music, what does “forte” mean?",
+    "mn": "Хөгжимд «форте» гэдэг нь юу гэсэн үг вэ?"
+   },
+   "choices": [
+    {
+     "en": "Fast",
+     "mn": "Хурдан"
+    },
+    {
+     "en": "Soft",
+     "mn": "Намуухан"
+    },
+    {
+     "en": "Loud",
+     "mn": "Чанга"
+    },
+    {
+     "en": "Slow",
+     "mn": "Удаан"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Forte means loud and piano means soft. The full name of the piano, “pianoforte”, means “soft-loud” — it could play both, unlike the harpsichord.",
+    "mn": "Форте нь чанга, пиано нь намуухан гэсэн утгатай. Төгөлдөр хуурын бүтэн нэр «пианофорте» нь «намуухан-чанга» гэсэн утгатай — клавесинаас ялгаатай нь аль алийг нь тоглож чаддаг байв."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.music",
+   "key": "pubquiz.music.a120",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Which composer wrote the opera “Aida”, which premiered in Cairo?",
+    "mn": "Каирт анх тоглогдсон «Аида» дуурийг хэн зохиосон бэ?"
+   },
+   "choices": [
+    {
+     "en": "Richard Wagner",
+     "mn": "Ричард Вагнер"
+    },
+    {
+     "en": "Gioachino Rossini",
+     "mn": "Жоакино Россини"
+    },
+    {
+     "en": "Giacomo Puccini",
+     "mn": "Жакомо Пуччини"
+    },
+    {
+     "en": "Giuseppe Verdi",
+     "mn": "Жузеппе Верди"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "Aida premiered at the Cairo opera house in 1871. During Italian unification “Viva VERDI” was a coded slogan for Vittorio Emanuele, Re d’Italia.",
+    "mn": "«Аида» 1871 онд Каирын дуурийн театрт анх тавигдсан. Италийн нэгдлийн үед «Viva VERDI» нь «Италийн хаан Витторио Эмануэле» гэсэн нууц уриа байжээ."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.music",
+   "key": "pubquiz.music.a121",
+   "difficulty": 3,
+   "prompt": {
+    "en": "How many operas make up Wagner’s “Ring of the Nibelung” cycle?",
+    "mn": "Вагнерийн «Нибелунгийн бөгж» цикл хэдэн дуурээс бүрддэг вэ?"
+   },
+   "choices": [
+    {
+     "en": "Four",
+     "mn": "Дөрөв"
+    },
+    {
+     "en": "Five",
+     "mn": "Тав"
+    },
+    {
+     "en": "Seven",
+     "mn": "Долоо"
+    },
+    {
+     "en": "Three",
+     "mn": "Гурав"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "The Ring lasts about 15 hours over four evenings. Wagner even had his own theatre built at Bayreuth to stage it.",
+    "mn": "«Бөгж» дөрвөн үдэш, нийт 15 орчим цаг үргэлжилдэг. Вагнер үүнийг тавихын тулд Байройт хотод өөрийн театр бариулсан."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.music",
+   "key": "pubquiz.music.a122",
+   "difficulty": 2,
+   "prompt": {
+    "en": "What do the musicians play in John Cage’s famous piece 4′33″?",
+    "mn": "Жон Кейжийн алдарт «4′33″» бүтээлд хөгжимчид юу тоглодог вэ?"
+   },
+   "choices": [
+    {
+     "en": "Random radio noise",
+     "mn": "Радиогийн санамсаргүй чимээ"
+    },
+    {
+     "en": "One repeated note",
+     "mn": "Нэг нотыг давтана"
+    },
+    {
+     "en": "A single chord",
+     "mn": "Ганц аккорд"
+    },
+    {
+     "en": "Nothing at all",
+     "mn": "Юу ч тоглодоггүй"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "In the 1952 premiere pianist David Tudor sat silently, opening and closing the piano lid to mark the three movements. The “music” is the sound of the room.",
+    "mn": "1952 оны нээлтэд төгөлдөр хуурч Дэвид Тюдор чимээгүй сууж, гурван хэсгийг ялгахдаа хуурын тагийг нээж хаажээ. «Хөгжим» нь танхим доторх чимээ."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.music",
+   "key": "pubquiz.music.a123",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Bob Marley is the most famous star of which music genre?",
+    "mn": "Боб Марли аль төрлийн хөгжмийн хамгийн алдартай од вэ?"
+   },
+   "choices": [
+    {
+     "en": "Blues",
+     "mn": "Блюз"
+    },
+    {
+     "en": "Salsa",
+     "mn": "Сальса"
+    },
+    {
+     "en": "Reggae",
+     "mn": "Регги"
+    },
+    {
+     "en": "Calypso",
+     "mn": "Калипсо"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Jamaica’s Bob Marley took reggae worldwide with songs like “One Love”. Jamaican reggae was added to UNESCO’s intangible heritage list in 2018.",
+    "mn": "Ямайкийн Боб Марли «One Love» зэрэг дуугаараа реггиг дэлхийд таниулсан. Ямайкийн регги 2018 онд ЮНЕСКО-гийн биет бус өвийн жагсаалтад орсон."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.music",
+   "key": "pubquiz.music.a124",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Who was the lead singer of Nirvana?",
+    "mn": "Nirvana хамтлагийн гоцлол дуучин хэн байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "Chris Cornell",
+     "mn": "Крис Корнелл"
+    },
+    {
+     "en": "Kurt Cobain",
+     "mn": "Курт Кобейн"
+    },
+    {
+     "en": "Dave Grohl",
+     "mn": "Дэйв Грол"
+    },
+    {
+     "en": "Eddie Vedder",
+     "mn": "Эдди Веддер"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "Cobain named “Smells Like Teen Spirit” after a deodorant brand, without knowing it. Drummer Dave Grohl later founded the Foo Fighters.",
+    "mn": "Кобейн «Smells Like Teen Spirit» дууг дезодорантын брэндийн нэр гэдгийг мэдэлгүйгээр нэрлэжээ. Бөмбөрчин Дэйв Грол хожим Foo Fighters хамтлагийг үүсгэсэн."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.music",
+   "key": "pubquiz.music.a125",
+   "difficulty": 3,
+   "prompt": {
+    "en": "Which country’s national anthem has no official lyrics?",
+    "mn": "Аль улсын төрийн дуулал албан ёсны үггүй вэ?"
+   },
+   "choices": [
+    {
+     "en": "France",
+     "mn": "Франц"
+    },
+    {
+     "en": "Italy",
+     "mn": "Итали"
+    },
+    {
+     "en": "Spain",
+     "mn": "Испани"
+    },
+    {
+     "en": "Germany",
+     "mn": "Герман"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Spain’s “Marcha Real” is one of the world’s oldest anthems and has no official words, so players stand silently or hum before matches.",
+    "mn": "Испанийн «Marcha Real» дэлхийн хамгийн эртний төрийн дуулалуудын нэг бөгөөд албан ёсны үггүй тул тамирчид тоглолтын өмнө чимээгүй зогсох юм уу аялан дуулдаг."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.music",
+   "key": "pubquiz.music.a126",
+   "difficulty": 3,
+   "prompt": {
+    "en": "In Ravel’s “Boléro”, which instrument keeps the same rhythm from start to finish?",
+    "mn": "Равелийн «Болеро» бүтээлд эхнээс нь дуустал нэг хэмнэлийг тасралтгүй тоглодог зэмсэг аль вэ?"
+   },
+   "choices": [
+    {
+     "en": "Snare drum",
+     "mn": "Бага бөмбөр"
+    },
+    {
+     "en": "Triangle",
+     "mn": "Гурвалжин"
+    },
+    {
+     "en": "Timpani",
+     "mn": "Литавр"
+    },
+    {
+     "en": "Cymbals",
+     "mn": "Тэнгэрийн цан"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "The snare drum repeats one rhythm for about 15 minutes while the melody passes around the orchestra. Ravel called it “a piece for orchestra without music”.",
+    "mn": "Бага бөмбөр 15 орчим минутын турш нэг хэмнэлийг давтаж, аялгуу оркестрын нэг зэмсгээс нөгөөд шилждэг. Равель үүнийг «хөгжимгүй оркестрын бүтээл» гэж нэрлэсэн."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.music",
+   "key": "pubquiz.music.a127",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Which Mongolian band went viral worldwide in 2019 with “Wolf Totem”?",
+    "mn": "2019 онд «Wolf Totem» дуугаараа дэлхий даяар цуурайтсан монгол хамтлаг аль вэ?"
+   },
+   "choices": [
+    {
+     "en": "Altan Urag",
+     "mn": "Алтан ураг"
+    },
+    {
+     "en": "Haranga",
+     "mn": "Харанга"
+    },
+    {
+     "en": "Nisvanis",
+     "mn": "Нисванис"
+    },
+    {
+     "en": "The HU",
+     "mn": "The HU"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "The HU call their style “hunnu rock”, mixing morin khuur and throat singing with heavy metal. Their videos gathered tens of millions of views and led to world tours.",
+    "mn": "The HU өөрсдийн хэв маягийг «хүннү рок» гэдэг бөгөөд морин хуур, хөөмийг хэви металтай хослуулдаг. Тэдний клип хэдэн арван сая үзэлт авч, дэлхийн аялан тоглолтод хүргэсэн."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.music",
+   "key": "pubquiz.music.a128",
+   "difficulty": 3,
+   "prompt": {
+    "en": "A standard concert pedal harp has how many strings?",
+    "mn": "Стандарт концертын педальт ятга хэдэн утастай вэ?"
+   },
+   "choices": [
+    {
+     "en": "52",
+     "mn": "52"
+    },
+    {
+     "en": "47",
+     "mn": "47"
+    },
+    {
+     "en": "40",
+     "mn": "40"
+    },
+    {
+     "en": "36",
+     "mn": "36"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "The concert harp has 47 strings and 7 pedals, one for each note name. The C strings are dyed red and the F strings black or blue so harpists can find their way.",
+    "mn": "Концертын ятга 47 утас, ноот бүрт нэг, нийт 7 педальтай. Хөгжимчин андуурахгүйн тулд До утсыг улаан, Фа утсыг хар эсвэл хөх өнгөөр будсан байдаг."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.music",
+   "key": "pubquiz.music.a129",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Whose “Eras Tour” became the highest-grossing concert tour of all time?",
+    "mn": "Хэний «Eras Tour» бүх цаг үеийн хамгийн их орлоготой аялан тоглолт болсон бэ?"
+   },
+   "choices": [
+    {
+     "en": "Beyoncé",
+     "mn": "Бейонсе"
+    },
+    {
+     "en": "Taylor Swift",
+     "mn": "Тейлор Свифт"
+    },
+    {
+     "en": "Ed Sheeran",
+     "mn": "Эд Ширан"
+    },
+    {
+     "en": "Coldplay",
+     "mn": "Coldplay"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "The Eras Tour (2023–2024) was the first to earn more than $2 billion, passing Elton John’s farewell tour. Fans dancing in Seattle reportedly caused seismic activity.",
+    "mn": "Eras Tour (2023–2024) 2 тэрбум доллараас илүү орлого олсон анхны аялан тоглолт болж, Элтон Жоны салах ёсны аяллыг давсан. Сиэтлд фенүүдийн бүжиг газар хөдлөлт мэт чичиргээ үүсгэсэн гэдэг."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.music",
+   "key": "pubquiz.music.a130",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Which musical features the song “Memory”?",
+    "mn": "«Memory» дуу аль мюзиклд гардаг вэ?"
+   },
+   "choices": [
+    {
+     "en": "Les Misérables",
+     "mn": "Хөөрхий хүмүүс"
+    },
+    {
+     "en": "Evita",
+     "mn": "Эвита"
+    },
+    {
+     "en": "Cats",
+     "mn": "Cats"
+    },
+    {
+     "en": "The Phantom of the Opera",
+     "mn": "Дуурийн хий үзэгдэл"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Andrew Lloyd Webber’s Cats (1981) is based on T. S. Eliot’s poems. It ran on Broadway for 18 years.",
+    "mn": "Эндрю Ллойд Уэбберийн «Cats» (1981) Т.С.Элиотын шүлгүүдээс сэдэвлэсэн. Бродвейд 18 жил тасралтгүй тоглогдсон."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.food",
+   "key": "pubquiz.food.a11",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Kimchi, spicy fermented cabbage, is the national dish of which country?",
+    "mn": "Халуун ногоотой даршилсан байцаа буюу кимчи аль улсын үндэсний хоол вэ?"
+   },
+   "choices": [
+    {
+     "en": "Korea",
+     "mn": "Солонгос"
+    },
+    {
+     "en": "China",
+     "mn": "Хятад"
+    },
+    {
+     "en": "Vietnam",
+     "mn": "Вьетнам"
+    },
+    {
+     "en": "Japan",
+     "mn": "Япон"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "Koreans eat kimchi with almost every meal, and the autumn kimjang tradition of making it together is on UNESCO’s heritage list. In 2008 a Korean astronaut even took it to space.",
+    "mn": "Солонгосчууд бараг хоол бүртэй кимчи иддэг бөгөөд намар хамтдаа кимчи даршлах «кимжан» уламжлал ЮНЕСКО-гийн өвд бүртгэгдсэн. 2008 онд солонгос сансрын нисгэгч үүнийг сансарт хүртэл авч явсан."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.food",
+   "key": "pubquiz.food.a12",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Pizza Margherita was named after whom?",
+    "mn": "«Маргарита» пиццаг хэний нэрээр нэрлэсэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "A Naples saint",
+     "mn": "Неаполийн гэгээнтэн"
+    },
+    {
+     "en": "A famous actress",
+     "mn": "Алдартай жүжигчин"
+    },
+    {
+     "en": "An Italian queen",
+     "mn": "Италийн хатан"
+    },
+    {
+     "en": "A chef’s daughter",
+     "mn": "Тогоочийн охин"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "It honours Queen Margherita of Savoy, who visited Naples in 1889. Tomato, mozzarella and basil echo the red, white and green of the Italian flag.",
+    "mn": "Энэ нь 1889 онд Неапольд айлчилсан Савойн хатан Маргаритаг хүндэтгэсэн нэр. Улаан лооль, моцарелла, базилик нь Италийн далбааны улаан, цагаан, ногоон өнгийг илэрхийлдэг."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.food",
+   "key": "pubquiz.food.a13",
+   "difficulty": 1,
+   "prompt": {
+    "en": "What is the main ingredient of guacamole?",
+    "mn": "Гуакамолегийн гол орц юу вэ?"
+   },
+   "choices": [
+    {
+     "en": "Cucumber",
+     "mn": "Өргөст хэмх"
+    },
+    {
+     "en": "Green peas",
+     "mn": "Ногоон вандуй"
+    },
+    {
+     "en": "Spinach",
+     "mn": "Бууцай"
+    },
+    {
+     "en": "Avocado",
+     "mn": "Авокадо"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "Guacamole goes back to the Aztecs; its name comes from Nahuatl “āhuacamolli”, avocado sauce. Botanically, the avocado is a large berry.",
+    "mn": "Гуакамоле ацтекуудаас уламжлалтай бөгөөд нэр нь науатль хэлний «āhuacamolli» буюу авокадоны соус гэсэн үгнээс гаралтай. Ургамал судлалын хувьд авокадо бол том жимсгэнэ."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.food",
+   "key": "pubquiz.food.a14",
+   "difficulty": 1,
+   "prompt": {
+    "en": "What is the world’s most expensive spice by weight?",
+    "mn": "Жингээрээ дэлхийн хамгийн үнэтэй амтлагч аль вэ?"
+   },
+   "choices": [
+    {
+     "en": "Vanilla",
+     "mn": "Ваниль"
+    },
+    {
+     "en": "Saffron",
+     "mn": "Гүргэм"
+    },
+    {
+     "en": "Black pepper",
+     "mn": "Хар перц"
+    },
+    {
+     "en": "Cardamom",
+     "mn": "Кардамон"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "Saffron is the hand-picked stigma of the crocus flower — it takes around 150,000 flowers to make one kilogram. Iran grows most of the world’s supply.",
+    "mn": "Гүргэм нь гүргэм цэцгийн гараар түүсэн сэв юм — нэг килограммд 150 мянга орчим цэцэг шаардагдана. Дэлхийн нийлүүлэлтийн дийлэнхийг Иран тариалдаг."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.food",
+   "key": "pubquiz.food.a15",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Paella originally comes from which Spanish region?",
+    "mn": "Паэлья Испанийн аль бүс нутгаас гаралтай вэ?"
+   },
+   "choices": [
+    {
+     "en": "Andalusia",
+     "mn": "Андалуси"
+    },
+    {
+     "en": "Valencia",
+     "mn": "Валенси"
+    },
+    {
+     "en": "Catalonia",
+     "mn": "Каталони"
+    },
+    {
+     "en": "Galicia",
+     "mn": "Галиси"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "The original Valencian paella uses rice, chicken, rabbit, beans and sometimes snails — not seafood. The name comes from the wide, shallow pan it is cooked in.",
+    "mn": "Валенсийн жинхэнэ паэльяд будаа, тахиа, туулай, буурцаг, заримдаа эмгэн хумс хийдэг — далайн хоол биш. Нэр нь чанадаг өргөн, гүехэн хайруулын нэрээс гаралтай."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.food",
+   "key": "pubquiz.food.a16",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Marzipan is made mainly from which nut?",
+    "mn": "Марципаныг голчлон ямар самраар хийдэг вэ?"
+   },
+   "choices": [
+    {
+     "en": "Cashew",
+     "mn": "Кешью"
+    },
+    {
+     "en": "Hazelnut",
+     "mn": "Фундук самар"
+    },
+    {
+     "en": "Almond",
+     "mn": "Бүйлс"
+    },
+    {
+     "en": "Pistachio",
+     "mn": "Пистачио"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Marzipan is ground almonds mixed with sugar. The German city of Lübeck is so famous for it that “Lübecker Marzipan” is a protected name.",
+    "mn": "Марципан бол нунтагласан бүйлсийг элсэн чихэртэй хольсон чихэр. Германы Любек хот үүгээрээ алдартай тул «Любекийн марципан» хамгаалагдсан нэр болжээ."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.food",
+   "key": "pubquiz.food.a17",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Tofu is made from which beans?",
+    "mn": "Дүпүг ямар буурцгаар хийдэг вэ?"
+   },
+   "choices": [
+    {
+     "en": "Kidney beans",
+     "mn": "Улаан буурцаг"
+    },
+    {
+     "en": "Lentils",
+     "mn": "Сэвэг зарам"
+    },
+    {
+     "en": "Chickpeas",
+     "mn": "Вандуй"
+    },
+    {
+     "en": "Soybeans",
+     "mn": "Шар буурцаг"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "Tofu is soy milk curdled and pressed into blocks, much like cheese. It was first made in China about 2,000 years ago.",
+    "mn": "Дүпү бол шар буурцгийн сүүг бүлэрүүлж, бяслаг шиг шахаж хэлбэржүүлсэн хүнс. Анх Хятадад 2000 орчим жилийн өмнө хийжээ."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.food",
+   "key": "pubquiz.food.a18",
+   "difficulty": 3,
+   "prompt": {
+    "en": "The croissant descends from the kipferl, a crescent pastry from which country?",
+    "mn": "Круассан аль улсын хавирган сар хэлбэртэй «кипферль» боовноос гаралтай вэ?"
+   },
+   "choices": [
+    {
+     "en": "Austria",
+     "mn": "Австри"
+    },
+    {
+     "en": "Belgium",
+     "mn": "Бельги"
+    },
+    {
+     "en": "Switzerland",
+     "mn": "Швейцарь"
+    },
+    {
+     "en": "Portugal",
+     "mn": "Португал"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "An Austrian, August Zang, opened a Viennese bakery in Paris in the 1830s and made the kipferl fashionable. That is why the French still call such pastries “viennoiseries”.",
+    "mn": "Австри хүн Август Занг 1830-аад онд Парист Вено маягийн талх нарийн боов нээж, кипферлийг моод болгосон. Тийм ч учраас францчууд ийм боовыг одоо ч «viennoiserie» гэдэг."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.food",
+   "key": "pubquiz.food.a19",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Buuz are the centrepiece of which Mongolian holiday’s table?",
+    "mn": "Бууз Монголын аль баярын ширээний гол хоол вэ?"
+   },
+   "choices": [
+    {
+     "en": "Children’s Day",
+     "mn": "Хүүхдийн баяр"
+    },
+    {
+     "en": "Tsagaan Sar",
+     "mn": "Цагаан сар"
+    },
+    {
+     "en": "New Year’s Eve",
+     "mn": "Шинэ жилийн өмнөх үдэш"
+    },
+    {
+     "en": "Naadam",
+     "mn": "Наадам"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "Families steam hundreds or even thousands of buuz before the Lunar New Year so every guest can be served. The dish shares its roots with Chinese “baozi”.",
+    "mn": "Айлууд Цагаан сараас өмнө бүх зочдоо дайлахын тулд хэдэн зуу, бүр мянгаар нь бууз чимхдэг. Энэ хоол Хятадын «баоцзы»-тай нэг гаралтай."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.food",
+   "key": "pubquiz.food.a110",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Japanese sake is brewed from which grain?",
+    "mn": "Японы сакэг ямар үр тариагаар исгэдэг вэ?"
+   },
+   "choices": [
+    {
+     "en": "Barley",
+     "mn": "Арвай"
+    },
+    {
+     "en": "Millet",
+     "mn": "Шар будаа"
+    },
+    {
+     "en": "Rice",
+     "mn": "Цагаан будаа"
+    },
+    {
+     "en": "Wheat",
+     "mn": "Улаан буудай"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Sake is brewed more like beer than wine: kōji mould turns the rice starch into sugar, which yeast then ferments. It is usually 15–16% alcohol.",
+    "mn": "Сакэг дарснаас илүү шар айраг шиг исгэдэг: кожи мөөгөнцөр будааны цардуулыг сахар болгож, дараа нь хөрөнгө исгэдэг. Ихэвчлэн 15–16% спирттэй."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.food",
+   "key": "pubquiz.food.a111",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Tequila is distilled from which plant?",
+    "mn": "Текилаг ямар ургамлаас нэрдэг вэ?"
+   },
+   "choices": [
+    {
+     "en": "Cactus",
+     "mn": "Кактус"
+    },
+    {
+     "en": "Maize",
+     "mn": "Эрдэнэ шиш"
+    },
+    {
+     "en": "Sugarcane",
+     "mn": "Чихрийн нишингэ"
+    },
+    {
+     "en": "Blue agave",
+     "mn": "Цэнхэр агава"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "By law, tequila must be made from blue agave in specific Mexican regions, mainly Jalisco. Despite its spiky look, agave is not a cactus.",
+    "mn": "Хуулийн дагуу текилаг Мексикийн тодорхой бүс, голдуу Халиско мужид цэнхэр агаваас хийх ёстой. Өргөстэй харагдавч агава кактус биш."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.food",
+   "key": "pubquiz.food.a112",
+   "difficulty": 3,
+   "prompt": {
+    "en": "Which country drinks the most coffee per person?",
+    "mn": "Нэг хүнд ногдох кофены хэрэглээгээр аль улс тэргүүлдэг вэ?"
+   },
+   "choices": [
+    {
+     "en": "Finland",
+     "mn": "Финлянд"
+    },
+    {
+     "en": "Italy",
+     "mn": "Итали"
+    },
+    {
+     "en": "Brazil",
+     "mn": "Бразил"
+    },
+    {
+     "en": "United States",
+     "mn": "АНУ"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "Finns drink around 12 kg of coffee per person each year. Many Finnish workers are entitled to official coffee breaks.",
+    "mn": "Финчүүд жилд нэг хүн 12 кг орчим кофе уудаг. Олон финлянд ажилтан кофены завсарлага авах эрхтэй байдаг."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.food",
+   "key": "pubquiz.food.a113",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Which country is the world’s largest coffee producer?",
+    "mn": "Дэлхийн хамгийн их кофе үйлдвэрлэгч улс аль вэ?"
+   },
+   "choices": [
+    {
+     "en": "Brazil",
+     "mn": "Бразил"
+    },
+    {
+     "en": "Colombia",
+     "mn": "Колумб"
+    },
+    {
+     "en": "Ethiopia",
+     "mn": "Этиоп"
+    },
+    {
+     "en": "Vietnam",
+     "mn": "Вьетнам"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "Brazil grows around a third of the world’s coffee, with Vietnam second. Coffee itself originated in Ethiopia, where legend says a goatherd named Kaldi discovered it.",
+    "mn": "Бразил дэлхийн кофены гуравны нэг орчмыг тариалдаг, хоёрт Вьетнам. Кофе өөрөө Этиопоос гаралтай бөгөөд домогт Калди хэмээх ямаачин нээсэн гэдэг."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.food",
+   "key": "pubquiz.food.a114",
+   "difficulty": 2,
+   "prompt": {
+    "en": "After water, which is the most widely drunk beverage in the world?",
+    "mn": "Уснаас хойш дэлхийд хамгийн их уудаг ундаа аль вэ?"
+   },
+   "choices": [
+    {
+     "en": "Coffee",
+     "mn": "Кофе"
+    },
+    {
+     "en": "Milk",
+     "mn": "Сүү"
+    },
+    {
+     "en": "Tea",
+     "mn": "Цай"
+    },
+    {
+     "en": "Beer",
+     "mn": "Шар айраг"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Tea is drunk by billions every day. Chinese legend credits Emperor Shennong, who discovered it when leaves blew into his boiling water.",
+    "mn": "Өдөр бүр хэдэн тэрбум хүн цай уудаг. Хятадын домогт өгүүлснээр эзэн хаан Шэньнуны буцалж буй усанд навч унаснаар цай нээгджээ."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.food",
+   "key": "pubquiz.food.a115",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Phở, a noodle soup with herbs and beef, is the national dish of which country?",
+    "mn": "Ногоо, үхрийн махтай гоймонтой шөл «фо» аль улсын үндэсний хоол вэ?"
+   },
+   "choices": [
+    {
+     "en": "Thailand",
+     "mn": "Тайланд"
+    },
+    {
+     "en": "Vietnam",
+     "mn": "Вьетнам"
+    },
+    {
+     "en": "Laos",
+     "mn": "Лаос"
+    },
+    {
+     "en": "Cambodia",
+     "mn": "Камбож"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "Phở emerged in northern Vietnam around the early 20th century and is traditionally eaten for breakfast. Its broth is simmered for many hours.",
+    "mn": "Фо 20-р зууны эхэн үеэр Хойд Вьетнамд үүссэн бөгөөд уламжлал ёсоор өглөөний цайндаа иддэг. Шөлийг нь олон цагаар буцалгадаг."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.food",
+   "key": "pubquiz.food.a116",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Goulash, a paprika-rich stew, comes from which country?",
+    "mn": "Улаан чинжүүгээр баялаг «гуляш» шөл аль улсаас гаралтай вэ?"
+   },
+   "choices": [
+    {
+     "en": "Poland",
+     "mn": "Польш"
+    },
+    {
+     "en": "Romania",
+     "mn": "Румын"
+    },
+    {
+     "en": "Czechia",
+     "mn": "Чех"
+    },
+    {
+     "en": "Hungary",
+     "mn": "Унгар"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "“Gulyás” means herdsman in Hungarian — it began as a stew cooked by cattle herders on the plains. Paprika is Hungary’s signature spice.",
+    "mn": "Унгараар «gulyás» гэдэг нь малчин гэсэн үг — тал хээрт үхэр хариулдаг малчдын шөлнөөс эхтэй. Паприка бол Унгарын хамгийн алдартай амтлагч."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.food",
+   "key": "pubquiz.food.a117",
+   "difficulty": 2,
+   "prompt": {
+    "en": "The cacao tree, source of chocolate, is native to which region?",
+    "mn": "Шоколадны түүхий эд болох какао мод хаанаас гаралтай вэ?"
+   },
+   "choices": [
+    {
+     "en": "India",
+     "mn": "Энэтхэг"
+    },
+    {
+     "en": "Southeast Asia",
+     "mn": "Зүүн өмнөд Ази"
+    },
+    {
+     "en": "Central & South America",
+     "mn": "Төв ба Өмнөд Америк"
+    },
+    {
+     "en": "West Africa",
+     "mn": "Баруун Африк"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "The Maya and Aztecs drank bitter chocolate and even used cacao beans as money. Today, though, West Africa — led by Ivory Coast — grows most of the world’s cocoa.",
+    "mn": "Маяа, ацтекууд гашуун шоколадан ундаа ууж, какаоны үрийг мөнгө болгон хэрэглэж байжээ. Харин өнөөдөр дэлхийн какаоны дийлэнхийг Зааны Ясан Эрэг тэргүүтэй Баруун Африк тариалдаг."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.food",
+   "key": "pubquiz.food.a118",
+   "difficulty": 1,
+   "prompt": {
+    "en": "What is the main ingredient of hummus?",
+    "mn": "Хумусын гол орц юу вэ?"
+   },
+   "choices": [
+    {
+     "en": "Lentils",
+     "mn": "Сэвэг зарам"
+    },
+    {
+     "en": "Peanuts",
+     "mn": "Газрын самар"
+    },
+    {
+     "en": "Fava beans",
+     "mn": "Бакла буурцаг"
+    },
+    {
+     "en": "Chickpeas",
+     "mn": "Вандуй"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "“Hummus” is simply Arabic for chickpea. It is blended with tahini (sesame paste), lemon juice and garlic.",
+    "mn": "«Хумус» гэдэг нь араб хэлээр зүгээр л вандуй гэсэн үг. Түүнийг тахини (кунжутын зуурмаг), нимбэгний шүүс, сармистай хольж нүддэг."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.food",
+   "key": "pubquiz.food.a119",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Which cheese is traditionally used in a Greek salad?",
+    "mn": "Грек салатанд уламжлал ёсоор ямар бяслаг хийдэг вэ?"
+   },
+   "choices": [
+    {
+     "en": "Feta",
+     "mn": "Фета"
+    },
+    {
+     "en": "Mozzarella",
+     "mn": "Моцарелла"
+    },
+    {
+     "en": "Halloumi",
+     "mn": "Халлуми"
+    },
+    {
+     "en": "Ricotta",
+     "mn": "Рикотта"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "Feta is a brined cheese made mainly from sheep’s milk. Since 2002 only cheese from Greece may be sold as “feta” in the EU.",
+    "mn": "Фета бол голдуу хонины сүүгээр хийж, давсны уусмалд хадгалдаг бяслаг. 2002 оноос хойш ЕХ-нд зөвхөн Грекийн бяслагийг «фета» нэрээр зарах эрхтэй."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.food",
+   "key": "pubquiz.food.a120",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Which Italian cheese is called the “King of Cheeses”?",
+    "mn": "Италийн аль бяслагийг «бяслагийн хаан» гэдэг вэ?"
+   },
+   "choices": [
+    {
+     "en": "Gorgonzola",
+     "mn": "Горгонзола"
+    },
+    {
+     "en": "Parmigiano Reggiano",
+     "mn": "Пармиджано Реджано"
+    },
+    {
+     "en": "Mascarpone",
+     "mn": "Маскарпоне"
+    },
+    {
+     "en": "Mozzarella",
+     "mn": "Моцарелла"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "Each wheel weighs around 40 kg and is aged at least 12 months. An Italian bank, Credem, accepts the wheels as collateral for loans.",
+    "mn": "Дугуй бүр 40 орчим кг жинтэй бөгөөд хамгийн багадаа 12 сар болгодог. Италийн «Credem» банк эдгээр бяслагийг зээлийн барьцаанд авдаг."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.food",
+   "key": "pubquiz.food.a121",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Which common fruit is slightly radioactive because of its potassium?",
+    "mn": "Аль түгээмэл жимс калигаасаа болж бага зэрэг цацраг идэвхтэй байдаг вэ?"
+   },
+   "choices": [
+    {
+     "en": "Banana",
+     "mn": "Гадил"
+    },
+    {
+     "en": "Apple",
+     "mn": "Алим"
+    },
+    {
+     "en": "Grape",
+     "mn": "Усан үзэм"
+    },
+    {
+     "en": "Orange",
+     "mn": "Жүрж"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "Bananas contain potassium-40, a natural radioactive isotope. Scientists jokingly use the “banana equivalent dose” to explain tiny radiation amounts — eating one is completely harmless.",
+    "mn": "Гадил байгалийн цацраг идэвхт изотоп кали-40 агуулдаг. Эрдэмтэд бага хэмжээний цацрагийг тайлбарлахдаа «гадилтай тэнцэх тун» гэж хошигнодог — нэгийг идэх нь огт хоргүй."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.food",
+   "key": "pubquiz.food.a122",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Edible honey thousands of years old has been found in the tombs of which civilisation?",
+    "mn": "Хэдэн мянган жилийн настай, идэж болохуйц зөгийн бал аль соёл иргэншлийн булшнаас олдсон бэ?"
+   },
+   "choices": [
+    {
+     "en": "The Maya",
+     "mn": "Маяа"
+    },
+    {
+     "en": "Ancient Greece",
+     "mn": "Эртний Грек"
+    },
+    {
+     "en": "Ancient Rome",
+     "mn": "Эртний Ром"
+    },
+    {
+     "en": "Ancient Egypt",
+     "mn": "Эртний Египет"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "Archaeologists have found pots of honey in Egyptian tombs that were still edible. Its low water content and acidity stop bacteria from growing.",
+    "mn": "Археологчид Египетийн булшнаас идэж болохуйц хэвээр байсан зөгийн балтай сав олжээ. Ус багатай, хүчиллэг тул нянгийн өсөлтийг зогсоодог."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.food",
+   "key": "pubquiz.food.a123",
+   "difficulty": 3,
+   "prompt": {
+    "en": "Which food was once called the “love apple” in Europe and feared as poisonous?",
+    "mn": "Европт нэгэн цагт «хайрын алим» гэж нэрлэж, хортой гэж айдаг байсан хүнс аль вэ?"
+   },
+   "choices": [
+    {
+     "en": "Aubergine",
+     "mn": "Хаш"
+    },
+    {
+     "en": "Tomato",
+     "mn": "Улаан лооль"
+    },
+    {
+     "en": "Potato",
+     "mn": "Төмс"
+    },
+    {
+     "en": "Pumpkin",
+     "mn": "Хулуу"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "The tomato belongs to the nightshade family, so many Europeans distrusted it for centuries. The Italian word “pomodoro” means “golden apple”.",
+    "mn": "Улаан лооль хорт ногоо гэж тооцогддог ургамлын овогт багтдаг тул олон зууны турш европчууд итгэдэггүй байв. Итали хэлний «pomodoro» нь «алтан алим» гэсэн утгатай."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.food",
+   "key": "pubquiz.food.a124",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Haggis is the national dish of which country?",
+    "mn": "Хаггис аль улсын үндэсний хоол вэ?"
+   },
+   "choices": [
+    {
+     "en": "Iceland",
+     "mn": "Исланд"
+    },
+    {
+     "en": "Ireland",
+     "mn": "Ирланд"
+    },
+    {
+     "en": "Scotland",
+     "mn": "Шотланд"
+    },
+    {
+     "en": "Wales",
+     "mn": "Уэльс"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Haggis is sheep’s heart, liver and lungs minced with oatmeal and spices, traditionally cooked in a stomach. It is eaten on Burns Night, 25 January, after reciting Robert Burns’s “Address to a Haggis”.",
+    "mn": "Хаггис бол хонины зүрх, элэг, уушгийг овъёос, амтлагчтай хольж, уламжлал ёсоор ходоодонд хийж чанасан хоол. 1-р сарын 25-ны Бернсийн үдэш Роберт Бернсийн «Хаггист хандсан үг» шүлгийг уншсаны дараа иддэг."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.food",
+   "key": "pubquiz.food.a125",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Which spice gives curry its bright yellow colour?",
+    "mn": "Каррид тод шар өнгө өгдөг амтлагч аль вэ?"
+   },
+   "choices": [
+    {
+     "en": "Cinnamon",
+     "mn": "Шанцай"
+    },
+    {
+     "en": "Coriander",
+     "mn": "Кинза"
+    },
+    {
+     "en": "Turmeric",
+     "mn": "Куркума"
+    },
+    {
+     "en": "Cumin",
+     "mn": "Зира"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Turmeric’s colour comes from curcumin. It has been used for thousands of years in India, both in cooking and as a dye for cloth.",
+    "mn": "Куркумагийн өнгө куркумин бодисоос үүсдэг. Энэтхэгт хэдэн мянган жилийн турш хоолонд болон даавуу будахад хэрэглэж ирсэн."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.food",
+   "key": "pubquiz.food.a126",
+   "difficulty": 3,
+   "prompt": {
+    "en": "A sparkling wine may legally be called Champagne only if it comes from where?",
+    "mn": "Оргилуун дарсыг зөвхөн хаанаас гаралтай бол хууль ёсоор «Шампань» гэж нэрлэж болох вэ?"
+   },
+   "choices": [
+    {
+     "en": "Anywhere in France",
+     "mn": "Францын хаанаас ч"
+    },
+    {
+     "en": "Reims city only",
+     "mn": "Зөвхөн Реймс хотоос"
+    },
+    {
+     "en": "Anywhere in the EU",
+     "mn": "ЕХ-ны хаанаас ч"
+    },
+    {
+     "en": "Champagne region, France",
+     "mn": "Францын Шампань муж"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "Only wine from the Champagne region in north-eastern France, made by the traditional method, may use the name. The monk Dom Pérignon is often wrongly credited with inventing it.",
+    "mn": "Зөвхөн зүүн хойд Францын Шампань мужид уламжлалт аргаар хийсэн дарс энэ нэрийг хэрэглэж болно. Дом Периньон лам үүнийг зохиосон гэдэг нь буруу домог."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.food",
+   "key": "pubquiz.food.a127",
+   "difficulty": 3,
+   "prompt": {
+    "en": "What is the green “wasabi” served at most sushi restaurants outside Japan usually made of?",
+    "mn": "Японоос гадуурх ихэнх суши ресторанд өгдөг ногоон «васаби» ихэвчлэн юугаар хийгддэг вэ?"
+   },
+   "choices": [
+    {
+     "en": "Green chilli",
+     "mn": "Ногоон чинжүү"
+    },
+    {
+     "en": "Horseradish and dye",
+     "mn": "Хрен ба будаг"
+    },
+    {
+     "en": "Ground ginger",
+     "mn": "Нунтаг цагаан гаа"
+    },
+    {
+     "en": "Seaweed paste",
+     "mn": "Далайн замагны зуурмаг"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "Real wasabi is a rare, expensive rhizome, so most “wasabi” is horseradish and mustard coloured green. Genuine wasabi loses its flavour within about 15 minutes of grating.",
+    "mn": "Жинхэнэ васаби бол ховор, үнэтэй үндэслэг иш тул ихэнх «васаби» нь ногоон өнгөөр будсан хрен, гичийн хольц байдаг. Жинхэнэ васабийг үрсний дараа 15 орчим минутад амтаа алддаг."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.food",
+   "key": "pubquiz.food.a128",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Naan bread is traditionally baked in which kind of oven?",
+    "mn": "Наан талхыг уламжлал ёсоор ямар зууханд жигнэдэг вэ?"
+   },
+   "choices": [
+    {
+     "en": "Tandoor",
+     "mn": "Тандыр"
+    },
+    {
+     "en": "Samovar",
+     "mn": "Самовар"
+    },
+    {
+     "en": "Tagine",
+     "mn": "Тажин"
+    },
+    {
+     "en": "Wok",
+     "mn": "Вок"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "A tandoor is a cylindrical clay oven that gets extremely hot; the dough is slapped onto its inner wall. Tandoori chicken is cooked in the same oven.",
+    "mn": "Тандыр бол маш халуун болдог цилиндр хэлбэрийн шавар зуух; зуурсан гурилыг дотор хананд нь наадаг. Тандури тахиаг мөн энэ зууханд болгодог."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.food",
+   "key": "pubquiz.food.a129",
+   "difficulty": 2,
+   "prompt": {
+    "en": "True caviar is the salted roe of which fish?",
+    "mn": "Жинхэнэ түрс аль загасны давсалсан түрс вэ?"
+   },
+   "choices": [
+    {
+     "en": "Cod",
+     "mn": "Сагамхай"
+    },
+    {
+     "en": "Tuna",
+     "mn": "Туна"
+    },
+    {
+     "en": "Salmon",
+     "mn": "Хулд"
+    },
+    {
+     "en": "Sturgeon",
+     "mn": "Хилэм"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "Traditional caviar comes from sturgeon, mostly from the Caspian and Black Sea basins; beluga caviar is the most prized. Red salmon roe is popular but is not true caviar.",
+    "mn": "Уламжлалт түрсийг хилэмээс, голдуу Каспийн болон Хар тэнгисийн сав газраас авдаг; белугагийн түрс хамгийн үнэтэй. Улаан хулд загасны түрс түгээмэл ч жинхэнэ түрс биш."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.food",
+   "key": "pubquiz.food.a130",
+   "difficulty": 2,
+   "prompt": {
+    "en": "The sandwich is named after John Montagu, who held which title?",
+    "mn": "Сэндвичийг Жон Монтегюгийн нэрээр нэрлэсэн. Тэр ямар цолтой байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "Earl of Sandwich",
+     "mn": "Сэндвичийн гүн"
+    },
+    {
+     "en": "Lord Mayor of London",
+     "mn": "Лондонгийн лорд-мэр"
+    },
+    {
+     "en": "Prince of Wales",
+     "mn": "Уэльсийн хунтайж"
+    },
+    {
+     "en": "Duke of Wellington",
+     "mn": "Веллингтоны гүн"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "The 4th Earl of Sandwich reportedly asked for meat between bread so he would not have to leave his work — or, in the popular story, his card table. The Sandwich Islands (Hawaii) were also named after him.",
+    "mn": "Сэндвичийн 4-р гүн ажлаасаа, эсвэл түгээмэл яриагаар хөзрийн ширээнээсээ босохгүйн тулд хоёр талхны дунд мах хийлгэдэг байжээ. Сэндвичийн арлууд (Хавай) ч түүний нэрээр нэрлэгдсэн."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.cinema",
+   "key": "pubquiz.cinema.a11",
+   "difficulty": 1,
+   "prompt": {
+    "en": "What was Disney’s first full-length animated feature film (1937)?",
+    "mn": "Диснейн анхны бүрэн хэмжээний хүүхэлдэйн кино (1937) аль вэ?"
+   },
+   "choices": [
+    {
+     "en": "Bambi",
+     "mn": "Бэмби"
+    },
+    {
+     "en": "Pinocchio",
+     "mn": "Пиноккио"
+    },
+    {
+     "en": "Snow White",
+     "mn": "Цасан цагаан"
+    },
+    {
+     "en": "Fantasia",
+     "mn": "Фантазия"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Critics called it “Disney’s Folly” before release, but it became a huge hit. Walt Disney received an honorary Oscar: one full-size statuette and seven miniature ones.",
+    "mn": "Нээлтээс өмнө шүүмжлэгчид «Диснейн тэнэглэл» гэж нэрлэж байсан ч асар их амжилт олсон. Уолт Дисней нэг том, долоон жижиг хөшөөнөөс бүрдсэн хүндэт Оскар хүртжээ."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.cinema",
+   "key": "pubquiz.cinema.a12",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Which film is the highest-grossing of all time worldwide?",
+    "mn": "Дэлхийн бүх цаг үеийн хамгийн их орлоготой кино аль вэ?"
+   },
+   "choices": [
+    {
+     "en": "Avengers: Endgame",
+     "mn": "Өшөө авагчид: Төгсгөл"
+    },
+    {
+     "en": "Star Wars: The Force Awakens",
+     "mn": "Оддын дайн: Хүч сэрлээ"
+    },
+    {
+     "en": "Titanic",
+     "mn": "Титаник"
+    },
+    {
+     "en": "Avatar",
+     "mn": "Аватар"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "James Cameron’s Avatar (2009) has earned about $2.9 billion. Avengers: Endgame briefly took the crown in 2019 until Avatar’s 2021 re-release in China won it back.",
+    "mn": "Жеймс Камероны «Аватар» (2009) 2.9 тэрбум орчим доллар олсон. 2019 онд «Өшөө авагчид: Төгсгөл» түр тэргүүлсэн ч 2021 онд Хятадад дахин гарснаар «Аватар» эргэж тэргүүлжээ."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.cinema",
+   "key": "pubquiz.cinema.a13",
+   "difficulty": 1,
+   "prompt": {
+    "en": "In the 1939 film “The Wizard of Oz”, what colour are Dorothy’s magic slippers?",
+    "mn": "1939 оны «Озын шидтэн» кинонд Дороти ямар өнгийн шидэт гуталтай вэ?"
+   },
+   "choices": [
+    {
+     "en": "Ruby red",
+     "mn": "Бадмаараг улаан"
+    },
+    {
+     "en": "Gold",
+     "mn": "Алтлаг"
+    },
+    {
+     "en": "Emerald green",
+     "mn": "Маргад ногоон"
+    },
+    {
+     "en": "Silver",
+     "mn": "Мөнгөлөг"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "In L. Frank Baum’s book the slippers are silver; they were made ruby red to show off the new Technicolor. A pair stolen in 2005 was recovered by the FBI in 2018.",
+    "mn": "Л.Фрэнк Баумын номонд гутал мөнгөлөг байдаг; шинэ «Техниколор» өнгийг гайхуулахын тулд кинонд улаан болгосон. 2005 онд хулгайлагдсан нэг хосыг ХМТ 2018 онд олсон."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.cinema",
+   "key": "pubquiz.cinema.a14",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Who holds the record for the most acting Oscars, with four?",
+    "mn": "Жүжигчний төрөлд 4 Оскар авч рекорд эзэмшдэг хэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Daniel Day-Lewis",
+     "mn": "Дэниел Дэй-Льюис"
+    },
+    {
+     "en": "Katharine Hepburn",
+     "mn": "Кэтрин Хэпбёрн"
+    },
+    {
+     "en": "Meryl Streep",
+     "mn": "Мэрил Стрип"
+    },
+    {
+     "en": "Jack Nicholson",
+     "mn": "Жек Николсон"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "Katharine Hepburn won four Best Actress Oscars between 1934 and 1982, and never attended the ceremony to collect them. Streep, Nicholson and Day-Lewis have three each.",
+    "mn": "Кэтрин Хэпбёрн 1934–1982 оны хооронд шилдэг эмэгтэй дүрийн 4 Оскар авсан ч хэзээ ч ёслолд очиж хүлээн аваагүй. Стрип, Николсон, Дэй-Льюис тус бүр гурав."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.cinema",
+   "key": "pubquiz.cinema.a15",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Which 1927 film is regarded as the first feature-length “talkie”?",
+    "mn": "1927 оны аль кино анхны бүрэн хэмжээний дуут кино гэж тооцогддог вэ?"
+   },
+   "choices": [
+    {
+     "en": "The Jazz Singer",
+     "mn": "Жазз дуучин"
+    },
+    {
+     "en": "Metropolis",
+     "mn": "Метрополис"
+    },
+    {
+     "en": "Sunrise",
+     "mn": "Нар мандах нь"
+    },
+    {
+     "en": "Nosferatu",
+     "mn": "Носферату"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "Al Jolson’s line “You ain’t heard nothin’ yet!” announced the end of the silent era. Most of the film was actually still silent, with sound only for songs and a few lines.",
+    "mn": "Ал Жолсоны «Та нар юу ч сонсоогүй байна!» гэсэн үг чимээгүй киноны эрин дууссаныг зарласан. Үнэндээ киноны ихэнх хэсэг дуугүй, зөвхөн дуу болон цөөн үг дуутай байжээ."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.cinema",
+   "key": "pubquiz.cinema.a16",
+   "difficulty": 3,
+   "prompt": {
+    "en": "Which film won the very first Academy Award for Best Picture?",
+    "mn": "Оскарын шилдэг киноны анхны шагналыг аль кино хүртсэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "It Happened One Night",
+     "mn": "Нэгэн шөнө"
+    },
+    {
+     "en": "Gone with the Wind",
+     "mn": "Салхинд хийсэгсэд"
+    },
+    {
+     "en": "Casablanca",
+     "mn": "Касабланка"
+    },
+    {
+     "en": "Wings",
+     "mn": "Далавч"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "Wings (1927), a silent First World War air-combat film, won at the first ceremony in 1929. That ceremony lasted only about 15 minutes.",
+    "mn": "Дэлхийн I дайны агаарын тулааны тухай дуугүй кино «Далавч» (1927) 1929 оны анхны ёслолд шагнал хүртсэн. Тэр ёслол ердөө 15 орчим минут үргэлжилжээ."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.cinema",
+   "key": "pubquiz.cinema.a17",
+   "difficulty": 3,
+   "prompt": {
+    "en": "The crew of “Jaws” (1975) nicknamed the mechanical shark what?",
+    "mn": "«Эрүү» (1975) киноны баг механик акулыг ямар хочоор дууддаг байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "Moby",
+     "mn": "Моби"
+    },
+    {
+     "en": "Big Ben",
+     "mn": "Биг Бен"
+    },
+    {
+     "en": "Bruce",
+     "mn": "Брюс"
+    },
+    {
+     "en": "Chomper",
+     "mn": "Чомпер"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Spielberg named it after his lawyer, Bruce Ramer. The shark kept breaking down, so he showed it less — which made the film far scarier.",
+    "mn": "Спилберг акулыг өмгөөлөгч Брюс Рамерынхаа нэрээр нэрлэсэн. Акул байнга эвдэрдэг байсан тул бага харуулахаас өөр аргагүй болсон нь киног улам аймшигтай болгожээ."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.cinema",
+   "key": "pubquiz.cinema.a18",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Which Akira Kurosawa film was remade as the western “The Magnificent Seven”?",
+    "mn": "Акира Куросавагийн аль киног «Гайхамшигт долоо» вестерн болгон дахин бүтээсэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Yojimbo",
+     "mn": "Ёжимбо"
+    },
+    {
+     "en": "Seven Samurai",
+     "mn": "Долоон самурай"
+    },
+    {
+     "en": "Ran",
+     "mn": "Самуурал"
+    },
+    {
+     "en": "Rashomon",
+     "mn": "Рашомон"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "Seven Samurai (1954) also inspired countless “assemble the team” films. Another Kurosawa film, Yojimbo, became Sergio Leone’s A Fistful of Dollars.",
+    "mn": "«Долоон самурай» (1954) «баг бүрдүүлэх» тухай тоо томшгүй олон кинонд нөлөөлсөн. Куросавагийн өөр нэг кино «Ёжимбо»-г Серджо Леоне «Нэг атга доллар» болгон дахин бүтээсэн."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.cinema",
+   "key": "pubquiz.cinema.a19",
+   "difficulty": 2,
+   "prompt": {
+    "en": "In “The Godfather” (1972), what does the film producer find in his bed?",
+    "mn": "«Загалмайлсан эцэг» (1972) кинонд кино продюсер орон дээрээ юу олдог вэ?"
+   },
+   "choices": [
+    {
+     "en": "A horse’s head",
+     "mn": "Морины толгой"
+    },
+    {
+     "en": "A dead fish",
+     "mn": "Үхсэн загас"
+    },
+    {
+     "en": "A bloody knife",
+     "mn": "Цустай хутга"
+    },
+    {
+     "en": "A snake",
+     "mn": "Могой"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "The head was real, obtained from a dog-food factory, and the actor’s scream was genuine. A dead fish, by contrast, is the film’s message that Luca Brasi “sleeps with the fishes”.",
+    "mn": "Толгой нь нохойн хоолны үйлдвэрээс авсан жинхэнэ толгой байсан бөгөөд жүжигчний орилоон ч жинхэнэ байжээ. Харин үхсэн загас нь Лука Брази «загастай унтаж байна» гэсэн киноны дохио."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.cinema",
+   "key": "pubquiz.cinema.a110",
+   "difficulty": 1,
+   "prompt": {
+    "en": "“The Lord of the Rings” film trilogy was shot in which country?",
+    "mn": "«Бөгжний эзэн» гурамсан киног аль улсад зураг авалтаа хийсэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Iceland",
+     "mn": "Исланд"
+    },
+    {
+     "en": "Australia",
+     "mn": "Австрали"
+    },
+    {
+     "en": "New Zealand",
+     "mn": "Шинэ Зеланд"
+    },
+    {
+     "en": "Ireland",
+     "mn": "Ирланд"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Director Peter Jackson filmed all three films back to back in his native New Zealand. The Hobbiton set near Matamata is now a major tourist attraction.",
+    "mn": "Найруулагч Питер Жексон гурван киногоо төрөлх Шинэ Зеланддаа дараалан нэг дор зурагжуулсан. Матамата хотын ойролцоох Хоббитон тайз одоо томоохон аялал жуулчлалын газар болжээ."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.literature",
+   "key": "pubquiz.literature.a11",
+   "difficulty": 1,
+   "prompt": {
+    "en": "In which Italian city is Shakespeare’s “Romeo and Juliet” set?",
+    "mn": "Шекспирийн «Ромео Жульетта» Италийн аль хотод өрнөдөг вэ?"
+   },
+   "choices": [
+    {
+     "en": "Rome",
+     "mn": "Ром"
+    },
+    {
+     "en": "Verona",
+     "mn": "Верона"
+    },
+    {
+     "en": "Venice",
+     "mn": "Венец"
+    },
+    {
+     "en": "Florence",
+     "mn": "Флоренц"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "Tourists visit “Juliet’s balcony” in Verona, though it was added in the 20th century. Volunteers known as Juliet’s secretaries answer thousands of letters sent to her each year.",
+    "mn": "Жуулчид Веронагийн «Жульеттагийн тагт»-ыг үздэг ч үүнийг 20-р зуунд нэмж барьсан. «Жульеттагийн нарийн бичгийн дарга нар» хэмээх сайн дурынхан түүнд жил бүр ирдэг мянга мянган захидалд хариулдаг."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.literature",
+   "key": "pubquiz.literature.a12",
+   "difficulty": 1,
+   "prompt": {
+    "en": "What is the name of Don Quixote’s loyal squire?",
+    "mn": "Дон Кихотын үнэнч туслах хэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Lazarillo",
+     "mn": "Ласарильо"
+    },
+    {
+     "en": "Rocinante",
+     "mn": "Росинант"
+    },
+    {
+     "en": "Sancho Panza",
+     "mn": "Санчо Панса"
+    },
+    {
+     "en": "Dulcinea",
+     "mn": "Дульсинея"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Cervantes published Part One in 1605; it is often called the first modern novel. Rocinante is Don Quixote’s horse and Dulcinea the lady he imagines.",
+    "mn": "Сервантес эхний хэсгийг 1605 онд хэвлүүлсэн бөгөөд үүнийг ихэвчлэн анхны орчин үеийн роман гэдэг. Росинант бол Дон Кихотын морь, Дульсинея бол түүний төсөөлдөг хатагтай."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.literature",
+   "key": "pubquiz.literature.a13",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Who wrote “One Hundred Years of Solitude”?",
+    "mn": "«Зуун жилийн ганцаардал» романыг хэн бичсэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Jorge Luis Borges",
+     "mn": "Хорхе Луис Борхес"
+    },
+    {
+     "en": "Pablo Neruda",
+     "mn": "Пабло Неруда"
+    },
+    {
+     "en": "Mario Vargas Llosa",
+     "mn": "Марио Варгас Льоса"
+    },
+    {
+     "en": "Gabriel García Márquez",
+     "mn": "Габриэль Гарсиа Маркес"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "The 1967 novel follows the Buendía family in the fictional town of Macondo and made magical realism famous. García Márquez won the Nobel Prize in 1982.",
+    "mn": "1967 оны энэ роман Макондо хэмээх зохиомол хотын Буэндиа гэр бүлийн тухай бөгөөд ид шидийн реализмыг алдаршуулсан. Гарсиа Маркес 1982 онд Нобелийн шагнал хүртсэн."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.literature",
+   "key": "pubquiz.literature.a14",
+   "difficulty": 3,
+   "prompt": {
+    "en": "Which novel opens with “It was the best of times, it was the worst of times”?",
+    "mn": "«Энэ бол хамгийн сайхан цаг байсан, энэ бол хамгийн муу цаг байсан» гэж эхэлдэг роман аль вэ?"
+   },
+   "choices": [
+    {
+     "en": "A Tale of Two Cities",
+     "mn": "Хоёр хотын үлгэр"
+    },
+    {
+     "en": "Great Expectations",
+     "mn": "Их хүсэл"
+    },
+    {
+     "en": "Oliver Twist",
+     "mn": "Оливер Твист"
+    },
+    {
+     "en": "Pride and Prejudice",
+     "mn": "Бардам зан ба өрөөсгөл үзэл"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "Dickens’s 1859 novel is set in London and Paris during the French Revolution. It is one of the best-selling novels ever published.",
+    "mn": "Диккенсийн 1859 оны энэ роман Францын хувьсгалын үеийн Лондон, Парист өрнөдөг. Энэ бол түүхэн дэх хамгийн их борлогдсон романуудын нэг."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.literature",
+   "key": "pubquiz.literature.a15",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Which hobbit finds the One Ring in Tolkien’s “The Hobbit”?",
+    "mn": "Толкины «Хоббит»-д Төгс бөгжийг аль хоббит олдог вэ?"
+   },
+   "choices": [
+    {
+     "en": "Bilbo Baggins",
+     "mn": "Бильбо Бэггинс"
+    },
+    {
+     "en": "Samwise Gamgee",
+     "mn": "Сэмвайз Гамжи"
+    },
+    {
+     "en": "Frodo Baggins",
+     "mn": "Фродо Бэггинс"
+    },
+    {
+     "en": "Peregrin Took",
+     "mn": "Перегрин Тук"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "Bilbo finds the ring in Gollum’s cave and later passes it to his nephew Frodo. Tolkien wrote the first line of the book on a blank page of an exam paper he was marking.",
+    "mn": "Бильбо бөгжийг Голлумын агуйгаас олж, хожим зээ хүү Фрододоо өгдөг. Толкин номын эхний мөрийг шалгаж байсан шалгалтын хуудасныхаа хоосон нүүрэн дээр бичжээ."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.literature",
+   "key": "pubquiz.literature.a16",
+   "difficulty": 3,
+   "prompt": {
+    "en": "In which language did Franz Kafka write “The Metamorphosis”?",
+    "mn": "Франц Кафка «Хувирал» зохиолоо ямар хэлээр бичсэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Czech",
+     "mn": "Чех"
+    },
+    {
+     "en": "Yiddish",
+     "mn": "Идиш"
+    },
+    {
+     "en": "German",
+     "mn": "Герман"
+    },
+    {
+     "en": "Hungarian",
+     "mn": "Унгар"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Kafka lived in Prague but wrote in German. He asked his friend Max Brod to burn his manuscripts; Brod refused and published them instead.",
+    "mn": "Кафка Прагад амьдарч байсан ч герман хэлээр бичдэг байв. Тэр найз Макс Бродоосоо гар бичмэлүүдээ шатаахыг хүссэн ч Брод татгалзаж, харин хэвлүүлжээ."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.literature",
+   "key": "pubquiz.literature.a17",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Who wrote the famous Mongolian poem “Миний нутаг” (My Native Land)?",
+    "mn": "«Миний нутаг» шүлгийг хэн бичсэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "B. Yavuukhulan",
+     "mn": "Б.Явуухулан"
+    },
+    {
+     "en": "B. Rinchen",
+     "mn": "Б.Ринчен"
+    },
+    {
+     "en": "Ts. Damdinsüren",
+     "mn": "Ц.Дамдинсүрэн"
+    },
+    {
+     "en": "D. Natsagdorj",
+     "mn": "Д.Нацагдорж"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "Dashdorjiin Natsagdorj (1906–1937) is regarded as the founder of modern Mongolian literature. He also wrote the libretto of the opera “Three Sad Hills” (Учиртай гурван толгой).",
+    "mn": "Дашдоржийн Нацагдорж (1906–1937) орчин үеийн монгол уран зохиолыг үндэслэгч гэж тооцогддог. Тэр «Учиртай гурван толгой» дуурийн либреттог ч бичсэн."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.literature",
+   "key": "pubquiz.literature.a18",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Which Shakespeare play contains the line “To be, or not to be”?",
+    "mn": "«Байх уу, эс байх уу» гэсэн мөр Шекспирийн аль жүжигт гардаг вэ?"
+   },
+   "choices": [
+    {
+     "en": "Othello",
+     "mn": "Отелло"
+    },
+    {
+     "en": "Hamlet",
+     "mn": "Гамлет"
+    },
+    {
+     "en": "Macbeth",
+     "mn": "Макбет"
+    },
+    {
+     "en": "King Lear",
+     "mn": "Лир хаан"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "Prince Hamlet speaks the soliloquy in Act 3 while thinking about life and death. Hamlet is also Shakespeare’s longest play.",
+    "mn": "Данийн хунтайж Гамлет гуравдугаар бүлэгт амьдрал, үхлийн тухай бодохдоо энэ монологийг хэлдэг. «Гамлет» бол Шекспирийн хамгийн урт жүжиг."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.literature",
+   "key": "pubquiz.literature.a19",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Who wrote “The Little Prince”?",
+    "mn": "«Бяцхан ноён хүү»-г хэн бичсэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Albert Camus",
+     "mn": "Альбер Камю"
+    },
+    {
+     "en": "Jules Verne",
+     "mn": "Жюль Верн"
+    },
+    {
+     "en": "Victor Hugo",
+     "mn": "Виктор Гюго"
+    },
+    {
+     "en": "Antoine de Saint-Exupéry",
+     "mn": "Антуан де Сент-Экзюпери"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "Saint-Exupéry was a pilot, and the story begins with a plane crash in the desert. He disappeared on a reconnaissance flight over the Mediterranean in 1944; the book is one of the most translated in the world.",
+    "mn": "Сент-Экзюпери нисгэгч байсан бөгөөд үлгэр цөлд онгоц осолдсоноор эхэлдэг. Тэр 1944 онд Газар дундын тэнгис дээгүүр тагнуулын нислэгт гараад сураггүй алга болсон; энэ ном дэлхийн хамгийн олон хэлнээ орчуулагдсан номуудын нэг."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.literature",
+   "key": "pubquiz.literature.a110",
+   "difficulty": 2,
+   "prompt": {
+    "en": "What is the name of Agatha Christie’s Belgian detective?",
+    "mn": "Агата Кристигийн бельги мөрдөгч хэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Jules Maigret",
+     "mn": "Жюль Мегрэ"
+    },
+    {
+     "en": "Miss Marple",
+     "mn": "Мисс Марпл"
+    },
+    {
+     "en": "Hercule Poirot",
+     "mn": "Эркюль Пуаро"
+    },
+    {
+     "en": "Father Brown",
+     "mn": "Эцэг Браун"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Poirot appears in 33 novels, starting in 1920. Christie is listed by Guinness as the best-selling fiction writer of all time.",
+    "mn": "Пуаро 1920 оноос эхлэн 33 романд гардаг. Гиннесийн номонд Кристиг бүх цаг үеийн хамгийн их борлуулалттай уран зохиолч гэж тэмдэглэсэн."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.history",
+   "key": "pubquiz.history.a11",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Which of the Seven Wonders of the Ancient World is still standing?",
+    "mn": "Эртний дэлхийн долоон гайхамшгаас аль нь одоо ч бий вэ?"
+   },
+   "choices": [
+    {
+     "en": "Hanging Gardens of Babylon",
+     "mn": "Вавилоны дүүжин цэцэрлэг"
+    },
+    {
+     "en": "Colossus of Rhodes",
+     "mn": "Родосын хөшөө"
+    },
+    {
+     "en": "Lighthouse of Alexandria",
+     "mn": "Александрын гэрэлт цамхаг"
+    },
+    {
+     "en": "Great Pyramid of Giza",
+     "mn": "Гизагийн их пирамид"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "Built around 2560 BC for the pharaoh Khufu, it is the oldest of the seven wonders and the only one that survives. It was the tallest human-made structure for about 3,800 years.",
+    "mn": "МЭӨ 2560 оны орчим фараон Хуфуд зориулан барьсан энэ пирамид долоон гайхамшгийн хамгийн эртнийх бөгөөд үлдсэн цорын ганц нь. 3800 орчим жилийн турш хүний гараар бүтээсэн хамгийн өндөр барилга байв."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.history",
+   "key": "pubquiz.history.a12",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Which Chinese emperor was buried with the Terracotta Army?",
+    "mn": "Терракот армитай хамт оршуулагдсан Хятадын эзэн хаан хэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Qin Shi Huang",
+     "mn": "Цинь Ши Хуанди"
+    },
+    {
+     "en": "Kublai Khan",
+     "mn": "Хубилай хаан"
+    },
+    {
+     "en": "Liu Bang",
+     "mn": "Лю Бан"
+    },
+    {
+     "en": "Wu Zetian",
+     "mn": "У Зэтянь"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "Qin Shi Huang unified China in 221 BC. His army of around 8,000 clay soldiers was discovered in 1974 by farmers digging a well.",
+    "mn": "Цинь Ши Хуанди МЭӨ 221 онд Хятадыг нэгтгэсэн. Түүний 8000 орчим шавар цэргээс бүрдсэн армийг 1974 онд худаг ухаж байсан тариачид олжээ."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.history",
+   "key": "pubquiz.history.a13",
+   "difficulty": 2,
+   "prompt": {
+    "en": "In which year did Christopher Columbus first reach the Americas?",
+    "mn": "Христофор Колумб анх хэдэн онд Америкт хүрсэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "1519",
+     "mn": "1519"
+    },
+    {
+     "en": "1492",
+     "mn": "1492"
+    },
+    {
+     "en": "1588",
+     "mn": "1588"
+    },
+    {
+     "en": "1453",
+     "mn": "1453"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "Sailing for Spain, Columbus landed in the Bahamas in October 1492. He believed he had reached Asia’s “Indies”, which is why Native Americans were called “Indians”.",
+    "mn": "Испанийн нэрийн өмнөөс хөлөг хөвүүлсэн Колумб 1492 оны 10-р сард Багамын арлуудад газардсан. Тэр Азийн «Энэтхэг»-т хүрлээ гэж итгэж байсан тул уугуул америкчуудыг «индиан» гэх болсон."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.history",
+   "key": "pubquiz.history.a14",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Which Roman city was buried by the eruption of Mount Vesuvius in AD 79?",
+    "mn": "МЭ 79 онд Везувий галт уулын дэлбэрэлтэд дарагдсан Ромын хот аль вэ?"
+   },
+   "choices": [
+    {
+     "en": "Carthage",
+     "mn": "Карфаген"
+    },
+    {
+     "en": "Ravenna",
+     "mn": "Равенна"
+    },
+    {
+     "en": "Pompeii",
+     "mn": "Помпей"
+    },
+    {
+     "en": "Ostia",
+     "mn": "Остиа"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Volcanic ash preserved Pompeii almost as it was on the day of the eruption. Archaeologists fill the hollows left by victims’ bodies with plaster to make casts.",
+    "mn": "Галт уулын үнс Помпейг дэлбэрэлтийн өдрийнх шигээ бараг бүтнээр нь хадгалсан. Археологчид хохирогчдын биеийн үлдээсэн хөндийд гөлтгөнө цутгаж хэлбэрийг нь сэргээдэг."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.history",
+   "key": "pubquiz.history.a15",
+   "difficulty": 1,
+   "prompt": {
+    "en": "The French Revolution began in 1789 with the storming of which Paris fortress?",
+    "mn": "1789 онд Францын хувьсгал Парисын аль цайзыг эзлэн авснаар эхэлсэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "The Louvre",
+     "mn": "Лувр"
+    },
+    {
+     "en": "The Bastille",
+     "mn": "Бастили"
+    },
+    {
+     "en": "Versailles",
+     "mn": "Версаль"
+    },
+    {
+     "en": "The Conciergerie",
+     "mn": "Консьержери"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "The Bastille was stormed on 14 July 1789, now France’s national day. Surprisingly, it held only seven prisoners at the time.",
+    "mn": "Бастилийг 1789 оны 7-р сарын 14-нд эзэлсэн бөгөөд энэ өдөр одоо Францын үндэсний баяр. Гайхалтай нь тэр үед ердөө долоон хоригдол байжээ."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.history",
+   "key": "pubquiz.history.a16",
+   "difficulty": 3,
+   "prompt": {
+    "en": "About how long did the Anglo-Zanzibar War of 1896, the shortest war in history, last?",
+    "mn": "Түүхэн дэх хамгийн богино дайн болох 1896 оны Англи-Занзибарын дайн хэр удаан үргэлжилсэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "One day",
+     "mn": "Нэг өдөр"
+    },
+    {
+     "en": "One week",
+     "mn": "Нэг долоо хоног"
+    },
+    {
+     "en": "Three days",
+     "mn": "Гурван өдөр"
+    },
+    {
+     "en": "Under an hour",
+     "mn": "Нэг цаг хүрэхгүй"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "British warships bombarded the sultan’s palace and Zanzibar surrendered after roughly 38 to 45 minutes. It is regarded as the shortest recorded war.",
+    "mn": "Британийн байлдааны хөлгүүд султаны ордныг буудаж, Занзибар 38–45 минутын дараа бууж өгсөн. Энэ бол түүхэнд тэмдэглэгдсэн хамгийн богино дайн."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.history",
+   "key": "pubquiz.history.a17",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Who is the longest-reigning monarch in British history?",
+    "mn": "Их Британийн түүхэн дэх хамгийн удаан хаан ширээнд суусан хаан хэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Henry VIII",
+     "mn": "VIII Генри"
+    },
+    {
+     "en": "Victoria",
+     "mn": "Виктория"
+    },
+    {
+     "en": "Elizabeth II",
+     "mn": "II Элизабет"
+    },
+    {
+     "en": "George III",
+     "mn": "III Жорж"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Elizabeth II reigned for 70 years, from 1952 until her death in 2022. She overtook Queen Victoria’s record of about 63 years in 2015.",
+    "mn": "II Элизабет 1952 оноос 2022 онд таалал төгстлөө 70 жил хаан ширээнд суусан. Тэр 2015 онд хатан хаан Викториягийн 63 орчим жилийн рекордыг давсан."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.history",
+   "key": "pubquiz.history.a18",
+   "difficulty": 3,
+   "prompt": {
+    "en": "After Magellan was killed in the Philippines, who led his expedition home to complete the first circumnavigation?",
+    "mn": "Магелланыг Филиппинд алагдсаны дараа экспедицийг удирдаж, дэлхийг анх тойрох аяллыг дуусгасан хэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Juan Sebastián Elcano",
+     "mn": "Хуан Себастьян Элькано"
+    },
+    {
+     "en": "Amerigo Vespucci",
+     "mn": "Америго Веспуччи"
+    },
+    {
+     "en": "Vasco da Gama",
+     "mn": "Васко да Гама"
+    },
+    {
+     "en": "Francis Drake",
+     "mn": "Фрэнсис Дрейк"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "Magellan died at Mactan in 1521. Elcano brought the ship Victoria back to Spain in 1522 with only 18 of the roughly 270 men who had set out.",
+    "mn": "Магеллан 1521 онд Мактан арал дээр амь үрэгдсэн. Элькано 1522 онд «Виктория» хөлгийг Испанид буцааж авчирсан ч гарсан 270 орчим хүнээс ердөө 18 нь л амьд үлджээ."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.history",
+   "key": "pubquiz.history.a19",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Which civilisation built Machu Picchu?",
+    "mn": "Мачу-Пикчуг аль соёл иргэншил барьсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "The Aztecs",
+     "mn": "Ацтек"
+    },
+    {
+     "en": "The Olmecs",
+     "mn": "Ольмек"
+    },
+    {
+     "en": "The Maya",
+     "mn": "Маяа"
+    },
+    {
+     "en": "The Inca",
+     "mn": "Инка"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "It was built high in the Peruvian Andes in the 15th century, probably for the emperor Pachacuti. The Spanish conquerors never found it; Hiram Bingham brought it to world attention in 1911.",
+    "mn": "Үүнийг 15-р зуунд Перугийн Андын өндөрт, магадгүй эзэн хаан Пачакутид зориулан барьсан. Испанийн байлдан дагуулагчид хэзээ ч олоогүй; 1911 онд Хайрам Бингэм дэлхийд таниулсан."
+   }
+  },
+  {
+   "topicSlug": "pubquiz",
+   "lessonKey": "pubquiz.history",
+   "key": "pubquiz.history.a110",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Kublai Khan’s invasion fleets were wrecked by typhoons — the “kamikaze” — off which country?",
+    "mn": "Хубилай хааны довтолгооны флотыг «камикадзе» хэмээх хар салхи аль улсын эрэгт сүйрүүлсэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Burma",
+     "mn": "Бирм"
+    },
+    {
+     "en": "Japan",
+     "mn": "Япон"
+    },
+    {
+     "en": "Tibet",
+     "mn": "Түвд"
+    },
+    {
+     "en": "Korea",
+     "mn": "Солонгос"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "The Yuan invasions of Japan in 1274 and 1281 were both ruined by storms. Japanese called them “kamikaze”, divine wind — a name later given to WWII suicide pilots.",
+    "mn": "Юань улсын 1274, 1281 оны Япон руу хийсэн довтолгоо хоёулаа шуурганд сүйрсэн. Японууд үүнийг «камикадзе» буюу тэнгэрийн салхи гэж нэрлэсэн нь хожим Дэлхийн II дайны амиа золиослогч нисгэгчдийн нэр болсон."
+   }
+  }
+ ]
+}

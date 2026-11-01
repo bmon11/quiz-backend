@@ -1,0 +1,3808 @@
+{
+  "lessons": [
+    {
+      "topicSlug": "gods",
+      "key": "gods.gods-of-the-hearth-and-home",
+      "order": 8,
+      "title": {
+        "en": "Gods of the Hearth and Home",
+        "mn": "Гэр бүл, гал голомтын бурхад"
+      },
+      "summary": {
+        "en": "Explore the deities who protected the daily lives, households, and sacred fires of ancient families.",
+        "mn": "Эртний гэр бүлүүдийн өдөр тутмын амьдрал, гэр орон, ариун гал голомтыг хамгаалагч бурхадтай танилцаарай."
+      },
+      "body": {
+        "en": "While the major Olympians ruled the heavens and seas, everyday ancient life revolved around the gods of the home. Families maintained sacred hearth fires and performed daily rituals to secure blessings for their households and crops. These domestic deities ensured peace, food, and the continuity of the family line.",
+        "mn": "Олимпын гол бурхад тэнгэр, далайг захирч байсан ч эртний хүмүүсийн өдөр тутмын амьдрал гэр орны бурхдыг тойрон эргэлддэг байв. Гэр бүлүүд гал голомтоо ариун байлгаж, гэр орондоо ивээл гуйн өдөр бүр зан үйл үйлддэг байжээ."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "🔥",
+            "title": {
+              "en": "Hestia / Vesta",
+              "mn": "Гестиа / Веста"
+            },
+            "facts": [
+              {
+                "en": "Goddess of the hearth and sacrificial flame.",
+                "mn": "Гал голомт болон тахилын галын даяанч бурхан."
+              },
+              {
+                "en": "Received the first and last offering at every feast.",
+                "mn": "Найр бүрийн анхны болон эцсийн өргөлийг хүртдэг байв."
+              }
+            ],
+            "subtitle": {
+              "en": "The Sacred Flame",
+              "mn": "Ариун гал голомт"
+            }
+          },
+          {
+            "icon": "🏺",
+            "title": {
+              "en": "Lares",
+              "mn": "Ларууд"
+            },
+            "facts": [
+              {
+                "en": "Guardian spirits of the Roman household and boundaries.",
+                "mn": "Ромын гэр бүл, газар нутгийн хил хязгаарыг хамгаалагч сүнснүүд."
+              },
+              {
+                "en": "Represented by small figurines in a home shrine called a lararium.",
+                "mn": "Ларариум хэмээх гэрийн шүтээнд жижиг баримал хэлбэрээр залж тахидаг байв."
+              }
+            ],
+            "subtitle": {
+              "en": "Household Guardians",
+              "mn": "Гэр бүлийг хамгаалагч сүнснүүд"
+            }
+          },
+          {
+            "icon": "🔑",
+            "title": {
+              "en": "Janus",
+              "mn": "Янус"
+            },
+            "facts": [
+              {
+                "en": "Two-faced god of beginnings, transitions, and doorways.",
+                "mn": "Эхлэл, шилжилт, үүд хаалганы хоёр нүүртэй бурхан."
+              },
+              {
+                "en": "He watched both who entered and left the house.",
+                "mn": "Тэрээр гэрт хэн орж, хэн гарч байгааг хянадаг байв."
+              }
+            ],
+            "subtitle": {
+              "en": "God of Thresholds",
+              "mn": "Үүд босгоны бурхан"
+            }
+          },
+          {
+            "icon": "🌾",
+            "title": {
+              "en": "Demeter / Ceres",
+              "mn": "Деметр / Церера"
+            },
+            "facts": [
+              {
+                "en": "Goddess of agriculture, grain, and motherly love.",
+                "mn": "Газар тариалан, үр тариа, эхийн хайрын бурхан."
+              },
+              {
+                "en": "Her moods controlled the cycle of the seasons.",
+                "mn": "Түүний сэтгэл санааны байдал жилийн дөрвөн улирлыг тодорхойлдог байв."
+              }
+            ],
+            "subtitle": {
+              "en": "The Provider",
+              "mn": "Тэжээгч бурхан"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "In Rome, the sacred fire of Vesta was never allowed to go out, as it was believed to be tied to the city's safety.",
+          "mn": "Ромд Веста бурхны ариун галыг хэзээ ч унтрааж болохгүй байсан бөгөөд энэ нь хотын аюулгүй байдалтай холбоотой гэж үздэг байв."
+        },
+        {
+          "en": "Penates were originally gods of the pantry, protecting the household's food supply.",
+          "mn": "Пенатууд нь анх хүнсний агуулахын бурхад байсан бөгөөд гэр бүлийн хүнсний нөөцийг хамгаалдаг байжээ."
+        }
+      ]
+    },
+    {
+      "topicSlug": "gods",
+      "key": "gods.festivals-of-the-gods",
+      "order": 9,
+      "title": {
+        "en": "Festivals of the Gods",
+        "mn": "Бурхдад зориулсан баяр наадам"
+      },
+      "summary": {
+        "en": "Discover how ancient Greeks and Romans celebrated their deities through grand festivals and games.",
+        "mn": "Эртний Грек, Ромчууд бурхдаа хэрхэн хүндэтгэж, агуу баяр наадам, тоглоом зохион байгуулдаг байсныг мэдэж аваарай."
+      },
+      "body": {
+        "en": "Festivals were the heartbeat of ancient civic life, combining religious devotion with athletic contests, theatrical plays, and grand feasts. These events brought communities together to honor the gods and ensure their continued favor. Many modern traditions, including the Olympic Games, trace their roots directly to these sacred celebrations.",
+        "mn": "Баяр наадам нь эртний нийгмийн амьдралын зүрх цохилт байсан бөгөөд шашны зан үйлийг спортын тэмцээн, театрын жүжиг, их найртай хослуулдаг байв. Олимпын наадам зэрэг орчин үеийн олон уламжлал эдгээр ариун баяр ёслолоос эхтэй."
+      },
+      "visual": {
+        "kind": "timeline",
+        "items": [
+          {
+            "when": {
+              "en": "776 BC",
+              "mn": "НТӨ 776 он"
+            },
+            "title": {
+              "en": "The Ancient Olympic Games",
+              "mn": "Эртний Олимпын наадам"
+            },
+            "body": {
+              "en": "Held in Olympia every four years, this athletic festival honored Zeus, King of the Gods.",
+              "mn": "Дөрвөн жил тутамд Олимпиа хотод зохиогддог байсан энэхүү спортын наадам нь Тэнгэрийн хаан Зевст зориулагддаг байв."
+            }
+          },
+          {
+            "when": {
+              "en": "6th Century BC",
+              "mn": "НТӨ VI зуун"
+            },
+            "title": {
+              "en": "The City Dionysia",
+              "mn": "Хотын Дионисиа баяр"
+            },
+            "body": {
+              "en": "A major festival in Athens honoring Dionysus, featuring the world's first theatrical competitions.",
+              "mn": "Афинд Дионис бурхныг хүндэтгэн зохион байгуулдаг байсан энэхүү баяраар дэлхийн анхны театрын тэмцээнүүд болдог байв."
+            }
+          },
+          {
+            "when": {
+              "en": "217 BC",
+              "mn": "НТӨ 217 он"
+            },
+            "title": {
+              "en": "The Feast of Saturnalia",
+              "mn": "Сатурналиа баяр"
+            },
+            "body": {
+              "en": "A popular Roman winter festival honoring Saturn, marked by gift-giving, feasting, and role reversals.",
+              "mn": "Сатурн бурханд зориулсан Ромын өвлийн баяр бөгөөд бэлэг солилцох, найрлах, нийгмийн үүрэг солигдох зэргээр тэмдэглэдэг байв."
+            }
+          },
+          {
+            "when": {
+              "en": "186 BC",
+              "mn": "НТӨ 186 он"
+            },
+            "title": {
+              "en": "The Bacchanalia Debate",
+              "mn": "Бакханалиагийн хориг"
+            },
+            "body": {
+              "en": "Mysterious and wild festivals of Bacchus became so chaotic that the Roman Senate restricted them.",
+              "mn": "Бахус бурхны нууцлаг бөгөөд галзуу баяр наадам хэт замбараагүй болсон тул Ромын Сенат үүнийг хязгаарлахад хүрчээ."
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "The Olympic Games were so sacred that a truce was declared across Greece so athletes could travel safely.",
+          "mn": "Олимпын наадам маш ариун байсан тул тамирчдыг аюулгүй зорчуулахын тулд Грек даяар дайныг зогсоож, эвлэрэл зарладаг байв."
+        },
+        {
+          "en": "During Saturnalia, societal roles were reversed: masters served meals to their enslaved workers.",
+          "mn": "Сатурналиа баярын үеэр нийгмийн үүрэг солигдож, эзэд нь боолууддаа хоол унд барин үйлчилдэг байжээ."
+        }
+      ]
+    },
+    {
+      "topicSlug": "gods",
+      "key": "gods.the-oracles-and-prophecy",
+      "order": 10,
+      "title": {
+        "en": "The Oracles and Prophecy",
+        "mn": "Мэрэгч хүлээн авагчид ба зөн билэг"
+      },
+      "summary": {
+        "en": "Learn how mortals communicated with the gods to seek advice and predict the future.",
+        "mn": "Үхлийн дундах хүмүүс бурхадтай хэрхэн холбогдож, зөвлөгөө авч, ирээдүйг зөгнөдөг байсныг мэдэж аваарай."
+      },
+      "body": {
+        "en": "In the ancient world, no major decision—whether starting a war or planting crops—was made without consulting the gods. Mortals visited sacred sites called oracles, where priests or priestesses channeled the voices of the deities. The most famous of these was the Oracle of Delphi, dedicated to Apollo, god of prophecy.",
+        "mn": "Эртний ертөнцөд дайн эхлүүлэх, үр тариа тарих зэрэг томоохон шийдвэрүүдийг бурхнаас асуулгүйгээр гаргадаггүй байв. Хүмүүс зөнч, тахилч нар амьдардаг ариун газруудад очиж бурхны дуу хоолойг сонсдог байжээ."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "🏛️",
+            "title": {
+              "en": "The Pythia",
+              "mn": "Питиа"
+            },
+            "facts": [
+              {
+                "en": "The high priestess of Apollo at Delphi who delivered prophecies.",
+                "mn": "Дельфи дэх Аполлон бурхны зөгнөлийг дамжуулдаг ахлах тахилч эмэгтэй."
+              },
+              {
+                "en": "Spoke in riddles that required priests to translate into verse.",
+                "mn": "Түүний хэлсэн таавар мэт үгсийг тахилч нар шүлэг болгон орчуулдаг байв."
+              }
+            ],
+            "subtitle": {
+              "en": "Oracle of Delphi",
+              "mn": "Дельфийн зөнч"
+            }
+          },
+          {
+            "icon": "🦅",
+            "title": {
+              "en": "Augury",
+              "mn": "Аугури"
+            },
+            "facts": [
+              {
+                "en": "The practice of interpreting the will of the gods from the flight of birds.",
+                "mn": "Шувуудын нислэгийн хөдөлгөөнөөр бурхны хүсэл зоригийг тайлбарлах зан үйл."
+              },
+              {
+                "en": "Roman officials, called augurs, would decide if battles should proceed based on these signs.",
+                "mn": "Ромын аугур хэмээх түшмэд шувуудын тэмдгээр тулааныг эхлүүлэх эсэхийг шийддэг байв."
+              }
+            ],
+            "subtitle": {
+              "en": "Signs in the Sky",
+              "mn": "Тэнгэрийн тэмдэг тайлагч"
+            }
+          },
+          {
+            "icon": "📖",
+            "title": {
+              "en": "Sibylline Books",
+              "mn": "Сибиллийн ном судар"
+            },
+            "facts": [
+              {
+                "en": "A collection of prophecies consulted by Rome during extreme crises.",
+                "mn": "Ромчууд маш хүнд хямралын үед зөвлөлддөг байсан зөгнөлийн түүвэр ном."
+              },
+              {
+                "en": "Kept secret in the Temple of Jupiter and read only by special priests.",
+                "mn": "Юпитерийн сүмд нууцлан хадгалдаг байсан бөгөөд зөвхөн тусгай тахилч нар унших эрхтэй байв."
+              }
+            ],
+            "subtitle": {
+              "en": "Roman Sacred Prophecies",
+              "mn": "Ромын ариун зөгнөлүүд"
+            }
+          },
+          {
+            "icon": "🥩",
+            "title": {
+              "en": "Haruspicy",
+              "mn": "Харуспици"
+            },
+            "facts": [
+              {
+                "en": "The reading of animal entrails, especially the liver, to predict the future.",
+                "mn": "Ирээдүйг зөгнөхийн тулд тахилын амьтны дотор эрхтэн, ялангуяа элгийг шинжих зан үйл."
+              },
+              {
+                "en": "Adopted by the Romans from the ancient Etruscan civilization.",
+                "mn": "Ромчууд энэхүү зан үйлийг эртний Этрускчуудын соёл иргэншлээс уламжлан авчээ."
+              }
+            ],
+            "subtitle": {
+              "en": "Reading the Entrails",
+              "mn": "Дотор эрхтэн шинжихүй"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "The Oracle of Delphi sat above a volcanic fissure, inhaling vapors that likely induced a trance-like state.",
+          "mn": "Дельфийн зөнч галт уулын ан цавын дээр суудаг байсан бөгөөд тэндээс гарах хий нь түүнийг зүүд мэт байдалд оруулдаг байсан байж магадгүй юм."
+        },
+        {
+          "en": "Prophecies were notoriously ambiguous, often leading leaders to misunderstand the gods' warnings.",
+          "mn": "Зөгнөлүүд нь маш тодорхойгүй, хоёрдмол утгатай байсан тул удирдагчид бурхны анхааруулгыг буруугаар ойлгох нь элбэг байв."
+        }
+      ]
+    },
+    {
+      "topicSlug": "gods",
+      "key": "gods.the-primordial-forces",
+      "order": 11,
+      "title": {
+        "en": "The Primordial Forces",
+        "mn": "Эртний анхдагч хүчнүүд"
+      },
+      "summary": {
+        "en": "Meet the ancient, personified forces of nature that existed before the Olympian gods.",
+        "mn": "Олимпын бурхдаас өмнө оршин байсан байгалийн анхдагч хүчнүүдтэй танилцаарай."
+      },
+      "body": {
+        "en": "Before Zeus and his siblings ruled from Mount Olympus, the universe was shaped by primordial deities who were the physical elements of the cosmos itself. These beings represented fundamental concepts like the sky, the earth, and darkness. Their struggles for power laid the dramatic foundation for all of Greek mythology.",
+        "mn": "Зевс болон түүний ах дүүс Олимп уулаас захирахаас өмнө орчлон ертөнц өөрөө байгалийн анхдагч элементүүд болох бурхдаас бүрдэж байв. Эдгээр оршихуйнууд нь тэнгэр, газар, харанхуй зэрэг үндсэн ойлголтуудыг төлөөлдөг байжээ."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "🌌",
+            "title": {
+              "en": "Chaos",
+              "mn": "Хаос"
+            },
+            "facts": [
+              {
+                "en": "The first thing to exist, representing the dark, silent void.",
+                "mn": "Орчлон ертөнцөд хамгийн анх оршин байсан, харанхуй хоосон орон зай."
+              },
+              {
+                "en": "The origin of all other primordial deities.",
+                "mn": "Бусад бүх анхдагч бурхдын үүсэл сурвалж."
+              }
+            ],
+            "subtitle": {
+              "en": "The Void",
+              "mn": "Хоосон орон зай"
+            }
+          },
+          {
+            "icon": "🌍",
+            "title": {
+              "en": "Gaia / Terra",
+              "mn": "Гея / Терра"
+            },
+            "facts": [
+              {
+                "en": "The personification of the Earth and mother of all creation.",
+                "mn": "Дэлхий ертөнцийн амьд биелэл бөгөөд бүх бүтээлийн эх."
+              },
+              {
+                "en": "Gave birth to the Titans, Giants, and the sky itself.",
+                "mn": "Титанчууд, Аварга биетнүүд болон тэнгэрийг төрүүлсэн."
+              }
+            ],
+            "subtitle": {
+              "en": "Mother Earth",
+              "mn": "Газар эх"
+            }
+          },
+          {
+            "icon": "⭐",
+            "title": {
+              "en": "Ouranos / Uranus",
+              "mn": "Уран"
+            },
+            "facts": [
+              {
+                "en": "The personification of the starry sky and sky god.",
+                "mn": "Одот тэнгэрийн биелэл бөгөөд тэнгэрийн бурхан."
+              },
+              {
+                "en": "The father of the Titans and husband of Gaia.",
+                "mn": "Титанчуудын эцэг бөгөөд Геягийн нөхөр."
+              }
+            ],
+            "subtitle": {
+              "en": "Father Sky",
+              "mn": "Тэнгэр эцэг"
+            }
+          },
+          {
+            "icon": "🌑",
+            "title": {
+              "en": "Nyx",
+              "mn": "Никс"
+            },
+            "facts": [
+              {
+                "en": "The personification of the night, feared even by Zeus.",
+                "mn": "Зевс бурхан хүртэл эмээдэг байсан шөнийн харанхуйн биелэл."
+              },
+              {
+                "en": "Lived in the depths of Tartarus, bringing darkness to the world.",
+                "mn": "Тартарын гүнд амьдарч, дэлхий ертөнцөд харанхуйг авчирдаг байв."
+              }
+            ],
+            "subtitle": {
+              "en": "The Night",
+              "mn": "Шөнийн бурхан"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "Chaos was not a state of confusion originally, but a vast, empty void from which all creation sprang.",
+          "mn": "Хаос нь анх замбараагүй байдлыг биш, харин бүх бүтээл бий болсон асар том хоосон орон зайг илэрхийлдэг байв."
+        },
+        {
+          "en": "Ouranos was so terrified of his monstrous children that he hid them deep inside the Earth (Gaia).",
+          "mn": "Уран өөрийн аймшигт мангас хүүхдүүдээсээ маш их айсан тул тэднийг Газар эхийн (Гея) гүнд нуужээ."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.greek-roman",
+      "key": "gods.greek-roman.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Who is the Roman queen of the gods and protector of marriage, corresponding to the Greek goddess Hera?",
+        "mn": "Грекийн Хера бурхантай дүйцэх, гэрлэлтийг хамгаалагч Ромын тэнгэрийн хатан хаан хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Vesta",
+          "mn": "Веста"
+        },
+        {
+          "en": "Minerva",
+          "mn": "Минерва"
+        },
+        {
+          "en": "Diana",
+          "mn": "Диана"
+        },
+        {
+          "en": "Juno",
+          "mn": "Юнона"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Juno was the Roman queen of the gods and the wife of Jupiter. The month of June, popular for weddings, is named after her.",
+        "mn": "Юнона нь Ромын бурхдын хатан хаан бөгөөд Юпитерийн эхнэр байв. Хурим хийхэд хамгийн тохиромжтой гэгддэг 6-р сарыг (June) түүний нэрээр нэрлэжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.greek-roman",
+      "key": "gods.greek-roman.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which planet in our solar system is named after the Roman god of the underworld?",
+        "mn": "Манай нарны аймгийн аль гаригийг Ромын үхэгсдийн орны бурхны нэрээр нэрлэсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Neptune",
+          "mn": "Нептун"
+        },
+        {
+          "en": "Mars",
+          "mn": "Марс"
+        },
+        {
+          "en": "Pluto",
+          "mn": "Плутон"
+        },
+        {
+          "en": "Saturn",
+          "mn": "Сатурн"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Pluto, classified as a dwarf planet, is named after the Roman god of the underworld, corresponding to the Greek god Hades.",
+        "mn": "Одой гаригт тооцогдох болсон Плутоныг Грекийн Гадес бурхантай дүйцэх Ромын үхэгсдийн орны бурхны нэрээр нэрлэжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.greek-roman",
+      "key": "gods.greek-roman.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The English word \"cereal\" comes from the name of which Roman goddess of agriculture and grain?",
+        "mn": "Англи хэлний \"cereal\" (үр тариа) гэдэг үг газар тариалангийн Ромын аль дагинаас гаралтай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Diana",
+          "mn": "Диана"
+        },
+        {
+          "en": "Vesta",
+          "mn": "Веста"
+        },
+        {
+          "en": "Flora",
+          "mn": "Флора"
+        },
+        {
+          "en": "Ceres",
+          "mn": "Церера"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Ceres was the Roman goddess of agriculture, grain, and motherly love. She corresponds to the Greek goddess Demeter.",
+        "mn": "Церера нь газар тариалан, үр тарианы Ромын дагина байсан бөгөөд Грекийн Деметра бурхантай дүйцдэг."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.greek-roman",
+      "key": "gods.greek-roman.g4",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Who is the Greek god of wine and theater, known to the Romans as Bacchus?",
+        "mn": "Ромчууд Бахус гэж нэрлэдэг байсан Грекийн дарс болон театрын бурхан хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Dionysus",
+          "mn": "Дионис"
+        },
+        {
+          "en": "Ares",
+          "mn": "Арес"
+        },
+        {
+          "en": "Hephaestus",
+          "mn": "Хефест"
+        },
+        {
+          "en": "Hermes",
+          "mn": "Гермес"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Dionysus was the Greek god of wine, winemaking, and theater. His Roman festivals, the Bacchanalia, were famous for being wild.",
+        "mn": "Дионис нь Грекийн дарс, дарс исгэлт, театрын бурхан байв. Түүнд зориулсан Ромын баяр наадам болох Бакханалиа нь маш задгай, хөл хөгжөөнтэй болдог байснаараа алдартай."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.greek-roman",
+      "key": "gods.greek-roman.g5",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of these Roman gods does NOT have a planet in our solar system named after them?",
+        "mn": "Эдгээр Ромын бурхдаас аль нь манай нарны аймгийн гаригуудын нэрэнд ороогүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Neptune",
+          "mn": "Нептун"
+        },
+        {
+          "en": "Jupiter",
+          "mn": "Юпитер"
+        },
+        {
+          "en": "Mars",
+          "mn": "Марс"
+        },
+        {
+          "en": "Vulcan",
+          "mn": "Вулкан"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "While Mars, Neptune, and Jupiter are planets, Vulcan is not. Astronomers once hypothesized a planet named Vulcan inside Mercury's orbit, but it does not exist.",
+        "mn": "Марс, Нептун, Юпитер зэрэг нь нарны аймгийн гаригууд бөгөөд харин Вулкан гэж гариг байдаггүй. Одон орончид урьд нь Меркурийн тойрог зам дотор Вулкан гэх гариг бий гэж таамаглаж байжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.greek-roman",
+      "key": "gods.greek-roman.g6",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the Roman name for Artemis, the Greek goddess of the hunt and the moon?",
+        "mn": "Грекийн ан агнуур, сарны дагина Артемисыг Ромчууд хэн гэж нэрлэдэг байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Juno",
+          "mn": "Юнона"
+        },
+        {
+          "en": "Diana",
+          "mn": "Диана"
+        },
+        {
+          "en": "Venus",
+          "mn": "Венера"
+        },
+        {
+          "en": "Minerva",
+          "mn": "Минерва"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Artemis was called Diana by the Romans. She was often depicted with a bow and arrow, accompanied by a deer.",
+        "mn": "Артемисыг Ромчууд Диана гэж нэрлэдэг байв. Түүнийг ихэвчлэн нум сум барьж, буга дагуулснаар дүрсэлдэг байжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.greek-roman",
+      "key": "gods.greek-roman.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Who was the Roman god of fire and metalworking, whose forge was believed to be located under Mount Etna?",
+        "mn": "Этна галт уулын доор дархны газартай гэж үздэг байсан Ромын гал, төмөрлөгийн бурхан хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Pluto",
+          "mn": "Плутон"
+        },
+        {
+          "en": "Vulcan",
+          "mn": "Вулкан"
+        },
+        {
+          "en": "Saturn",
+          "mn": "Сатурн"
+        },
+        {
+          "en": "Mercury",
+          "mn": "Меркури"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Vulcan (Greek Hephaestus) was the blacksmith of the gods. Volcanoes were believed to be the chimneys of his underground forges.",
+        "mn": "Вулкан (Грекийн Хефест) нь бурхдын дархан байв. Галт уулсыг түүний газар доорх дархны газрын яндан гэж хүмүүс итгэдэг байжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.greek-roman",
+      "key": "gods.greek-roman.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which Greek Titan, the father of Zeus, was equated with the Roman god Saturn?",
+        "mn": "Зевсийн эцэг болох Грекийн аль Титан бурхныг Ромын Сатурн бурхантай дүйцүүлдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Uranus",
+          "mn": "Уран"
+        },
+        {
+          "en": "Cronus",
+          "mn": "Кронос"
+        },
+        {
+          "en": "Atlas",
+          "mn": "Атлас"
+        },
+        {
+          "en": "Prometheus",
+          "mn": "Прометей"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Cronus was equated with Saturn. The Romans celebrated Saturnalia, a winter festival of equality and gift-giving, in his honor.",
+        "mn": "Кроносыг Сатурнтай дүйцүүлдэг. Ромчууд түүний хүндэтгэлд зориулж өвлийн улиралд тэгш эрх, бэлэг өгөх ёслол бүхий Сатурналиа баярыг тэмдэглэдэг байв."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.greek-roman",
+      "key": "gods.greek-roman.g9",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which Greek goddess of the underworld and spring is known as Proserpina in Roman mythology?",
+        "mn": "Үхэгсдийн орны болон хаврын улирлын Грекийн аль дагиныг Ромын домогт Прозерпина гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Selene",
+          "mn": "Селена"
+        },
+        {
+          "en": "Persephone",
+          "mn": "Персефона"
+        },
+        {
+          "en": "Hecate",
+          "mn": "Геката"
+        },
+        {
+          "en": "Rhea",
+          "mn": "Рея"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Persephone, the daughter of Demeter, became Proserpina to the Romans. Her return from the underworld each year brought spring to the earth.",
+        "mn": "Деметрагийн охин Персефонаг Ромчууд Прозерпина гэж нэрлэдэг байв. Түүнийг үхэгсдийн орноос жил бүр буцаж ирэхэд дэлхий дээр хавар болдог гэж үздэг байжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.greek-roman",
+      "key": "gods.greek-roman.g10",
+      "difficulty": 1,
+      "prompt": {
+        "en": "The Roman god of war, Mars, corresponds to which Greek god?",
+        "mn": "Ромын дайны бурхан Марс Грекийн аль бурхантай дүйцдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Hermes",
+          "mn": "Гермес"
+        },
+        {
+          "en": "Ares",
+          "mn": "Арес"
+        },
+        {
+          "en": "Apollo",
+          "mn": "Аполлон"
+        },
+        {
+          "en": "Poseidon",
+          "mn": "Посейдон"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Mars corresponds to the Greek god Ares. While Ares was often seen as destructive in Greece, Mars was highly revered in Rome as a protector of the state.",
+        "mn": "Марс нь Грекийн Арес бурхантай дүйцдэг. Грект Аресыг сүйтгэгч гэж үздэг байсан бол Ромд Марсыг улс орныг хамгаалагч хэмээн ихэд хүндэтгэдэг байв."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.olympians",
+      "key": "gods.olympians.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Where did the ancient Greeks believe their main gods lived?",
+        "mn": "Эртний Грекчүүд өөрсдийн гол бурхдыг хаана амьдардаг гэж итгэдэг байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Mount Vesuvius",
+          "mn": "Везувий галт уул"
+        },
+        {
+          "en": "Mount Fuji",
+          "mn": "Фүжи уул"
+        },
+        {
+          "en": "Mount Sinai",
+          "mn": "Синай уул"
+        },
+        {
+          "en": "Mount Olympus",
+          "mn": "Олимп уул"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Greeks believed the Twelve Olympians resided on Mount Olympus, the highest mountain in Greece. Today, Mount Olympus is a national park and a biosphere reserve.",
+        "mn": "Грекчүүд Олимпын арван хоёр бурхныг Грекийн хамгийн өндөр уул болох Олимп ууланд амьдардаг гэж үздэг байв. Өнөөдөр Олимп уул нь үндэсний парк бөгөөд шим мандлын нөөц газар юм."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.olympians",
+      "key": "gods.olympians.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Why is Hades, the ruler of the Underworld, usually not counted among the Twelve Olympians?",
+        "mn": "Газар доорх ертөнцийн захирагч Хадес яагаад ихэвчлэн Олимпын арван хоёр бурханд тооцогддоггүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "He was not a brother of Zeus",
+          "mn": "Тэр Зевсийн ах дүү байгаагүй"
+        },
+        {
+          "en": "He did not live on Mount Olympus",
+          "mn": "Тэр Олимп ууланд амьдардаггүй байсан"
+        },
+        {
+          "en": "He was a mortal hero",
+          "mn": "Тэр мөнх бус баатар байсан"
+        },
+        {
+          "en": "He was expelled by the Titans",
+          "mn": "Түүнийг Титанууд хөөсөн"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Although Hades was one of the major Greek gods and a brother of Zeus, he resided in the Underworld rather than on Mount Olympus, so he is excluded from the Twelve.",
+        "mn": "Хадес Грекийн гол бурхдын нэг, Зевсийн ах байсан ч Олимп ууланд бус Газар доорх ертөнцөд амьдардаг байсан тул арван хоёр бурхны тоонд ордоггүй."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.olympians",
+      "key": "gods.olympians.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Who is the twin sister of Apollo, known as the goddess of the hunt and wild animals?",
+        "mn": "Ан агнуур, зэрлэг амьтдын дарь эх гэгддэг, Аполлоны ихэр эгч хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Hera",
+          "mn": "Хера"
+        },
+        {
+          "en": "Demeter",
+          "mn": "Деметра"
+        },
+        {
+          "en": "Aphrodite",
+          "mn": "Афродита"
+        },
+        {
+          "en": "Artemis",
+          "mn": "Артемис"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Artemis and Apollo were twin siblings born on the sacred island of Delos. While Apollo was linked to the sun, Artemis was often associated with the moon.",
+        "mn": "Артемис, Аполлон нар ариун Делос арал дээр төрсөн ихэр эгч дүүс юм. Аполлон нартай холбогддог бол Артемис ихэвчлэн сартай холбогддог байв."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.olympians",
+      "key": "gods.olympians.g4",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which Greek god is the god of war?",
+        "mn": "Грекийн бурхдаас хэн нь дайны бурхан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Hermes",
+          "mn": "Гермес"
+        },
+        {
+          "en": "Poseidon",
+          "mn": "Посейдон"
+        },
+        {
+          "en": "Ares",
+          "mn": "Арес"
+        },
+        {
+          "en": "Dionysus",
+          "mn": "Дионис"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Ares represents the physical, violent, and chaotic aspects of war. His sons Phobos (Fear) and Deimos (Terror) accompanied him into battles.",
+        "mn": "Арес нь дайны хүчирхийлэл, эмх замбараагүй байдлыг илэрхийлдэг. Түүний хөвгүүд болох Фобос (Айдас), Деймос (Аймшиг) нар дайнд түүнийг дагалддаг байжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.olympians",
+      "key": "gods.olympians.g5",
+      "difficulty": 3,
+      "prompt": {
+        "en": "According to myth, how was Dionysus born after his mother Semele died?",
+        "mn": "Домогт өгүүлснээр, Дионисын ээж Семелаг нас барсны дараа тэр хэрхэн төрсөн бэ?"
+      },
+      "choices": [
+        {
+          "en": "From the thigh of Zeus",
+          "mn": "Зевсийн гуянаас"
+        },
+        {
+          "en": "From a golden egg",
+          "mn": "Алтан өндөгнөөс"
+        },
+        {
+          "en": "From a split oak tree",
+          "mn": "Хуваагдсан царс модноос"
+        },
+        {
+          "en": "From the sea foam",
+          "mn": "Далайн хөөснөөс"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "When Semele died, Zeus rescued the unborn Dionysus and sewed him into his own thigh until he was ready to be born. This earned Dionysus the epithet 'twice-born'.",
+        "mn": "Семелаг нас барахад Зевс төрөөгүй байсан Дионисыг аварч, төрөх цаг нь болтол өөрийн гуяндаа оёж тээжээ. Иймээс Дионисыг 'хоёр дахиа төрсөн' гэж нэрлэх нь бий."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.olympians",
+      "key": "gods.olympians.g6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which goddess of marriage is the queen of the Olympian gods and wife of Zeus?",
+        "mn": "Олимпын бурхдын хатан хаан бөгөөд Зевсийн эхнэр болох гэрлэлтийн дарь эх хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Hera",
+          "mn": "Хера"
+        },
+        {
+          "en": "Athena",
+          "mn": "Афина"
+        },
+        {
+          "en": "Demeter",
+          "mn": "Деметра"
+        },
+        {
+          "en": "Hestia",
+          "mn": "Хестиа"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Hera is the queen of the gods, representing marriage and family. Her sacred animal is the peacock, whose feathers are said to contain the hundred eyes of the giant Argus.",
+        "mn": "Хера бол гэрлэлт, гэр бүлийг ивээн тэтгэгч бурхдын хатан хаан юм. Түүний ариун амьтан нь тогос бөгөөд түүний сүүлэнд аварга Аргусын зуун нүдийг байрлуулсан гэдэг."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.olympians",
+      "key": "gods.olympians.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which Olympian is sometimes replaced by Dionysus in lists of the twelve gods?",
+        "mn": "Олимпын арван хоёр бурхны жагсаалтад заримдаа Дионисоор солигддог дарь эх хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Hestia",
+          "mn": "Хестиа"
+        },
+        {
+          "en": "Artemis",
+          "mn": "Артемис"
+        },
+        {
+          "en": "Hera",
+          "mn": "Хера"
+        },
+        {
+          "en": "Demeter",
+          "mn": "Деметра"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Hestia, the goddess of the hearth, peacefully gave up her seat among the Twelve Olympians to Dionysus to prevent conflict, according to some later traditions.",
+        "mn": "Гал голомтын дарь эх Хестиа зөрчилдөөнөөс зайлсхийхийн тулд Олимпын арван хоёр бурхны суудлаа Дионист тайван замаар шилжүүлж өгсөн гэж хожуу үеийн зарим сурвалжид тэмдэглэжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.olympians",
+      "key": "gods.olympians.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "How does myth explain the cold season of winter according to the story of Demeter?",
+        "mn": "Деметрагийн тухай домогт өгүүлснээр өвлийн хүйтэн улирал хэрхэн бий болсон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Hephaestus turns off his forge",
+          "mn": "Хефест дарханы зуухаа унтрааснаас"
+        },
+        {
+          "en": "Poseidon turns the oceans to ice",
+          "mn": "Посейдон далай тэнгисийг мөс болгон хувиргаснаас"
+        },
+        {
+          "en": "Zeus freezes the earth to punish humans",
+          "mn": "Зевс хүмүүсийг шийтгэхийн тулд дэлхийг хөлдөөснөөс"
+        },
+        {
+          "en": "Demeter mourns her daughter Persephone",
+          "mn": "Деметра өөрийн охин Персефонаг гашуудан гуньснаас"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "When Persephone resides in the Underworld with Hades, her mother Demeter grieves, causing plants to die and bringing winter to the world.",
+        "mn": "Персефонаг Газар доорх ертөнцөд Хадестай хамт байх хугацаанд түүний ээж Деметра гуньж гашууддаг бөгөөд үүнээс үүдэн ургамал хатаж, дэлхийд өвөл болдог байна."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.olympians",
+      "key": "gods.olympians.g9",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which Greek god is the god of wine, theater, and celebration?",
+        "mn": "Дарс, театр, баяр наадмын бурхан хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Dionysus",
+          "mn": "Дионис"
+        },
+        {
+          "en": "Apollo",
+          "mn": "Аполлон"
+        },
+        {
+          "en": "Hermes",
+          "mn": "Гермес"
+        },
+        {
+          "en": "Ares",
+          "mn": "Арес"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Dionysus is the patron god of agriculture, theater, and winemaking. He is often depicted holding a grapevine or a pine-tipped staff called a thyrsus.",
+        "mn": "Дионис бол газар тариалан, театр, дарс исгэх урлагийг ивээн тэтгэгч бурхан юм. Түүнийг ихэвчлэн усан үзмийн мөчир эсвэл тирс гэж нэрлэдэг нарсны боргоцойт таяг барьснаар дүрсэлдэг."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.olympians",
+      "key": "gods.olympians.g10",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Who gave Paris the golden apple inscribed 'to the fairest', leading to the Trojan War?",
+        "mn": "Трояны дайн дэгдэхэд хүргэсэн, 'хамгийн гоо үзэсгэлэнтэйд' гэсэн бичигтэй алтан алимыг Парис хэнд өгсөн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Artemis",
+          "mn": "Артемис"
+        },
+        {
+          "en": "Athena",
+          "mn": "Афина"
+        },
+        {
+          "en": "Hera",
+          "mn": "Хера"
+        },
+        {
+          "en": "Aphrodite",
+          "mn": "Афродита"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Paris chose Aphrodite as the most beautiful goddess after she promised him the love of Helen of Sparta, which directly caused the Trojan War.",
+        "mn": "Афродита түүнд Спартагийн үзэсгэлэнт Еленагийн хайрыг амласнаар Парис түүнийг хамгийн гоо үзэсгэлэнтэй дарь эхээр сонгосон нь Трояны дайн эхлэх шалтгаан болжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.origins",
+      "key": "gods.origins.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "According to Greek mythology, who was the father of Zeus?",
+        "mn": "Грекийн үлгэр домогт өгүүлснээр Зевсийн эцэг хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Hades",
+          "mn": "Гадес"
+        },
+        {
+          "en": "Uranus",
+          "mn": "Уран"
+        },
+        {
+          "en": "Poseidon",
+          "mn": "Посейдон"
+        },
+        {
+          "en": "Cronus",
+          "mn": "Кронос"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Cronus was the leader of the Titans and the father of the main Olympian gods, including Zeus, Poseidon, and Hades. He swallowed his children to prevent them from overthrowing him.",
+        "mn": "Кронос бол Титануудын удирдагч бөгөөд Зевс, Посейдон, Гадес зэрэг Олимпийн гол бурхдын эцэг байв. Тэрээр өөрийг нь суудлаас нь унагахаас сэргийлж хүүхдүүдээ залгидаг байжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.origins",
+      "key": "gods.origins.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which Titan was condemned to hold up the celestial heavens for eternity after losing the war?",
+        "mn": "Дайнд ялагдсаныхаа дараа тэнгэр огторгуйг үүрд тулж зогсох шийтгэл хүлээсэн Титан хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Hyperion",
+          "mn": "Гиперион"
+        },
+        {
+          "en": "Oceanus",
+          "mn": "Океан"
+        },
+        {
+          "en": "Atlas",
+          "mn": "Атлас"
+        },
+        {
+          "en": "Prometheus",
+          "mn": "Прометей"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Atlas sided with the Titans in the war against Zeus. As punishment, Zeus forced him to stand at the western edge of the earth and hold up the sky on his shoulders.",
+        "mn": "Атлас Зевсийн эсрэг дайнд Титануудын талд тулалдсан юм. Шийтгэл болгон Зевс түүнийг дэлхийн баруун хязгаарт зогсоож, тэнгэрийг мөрөн дээрээ тулахыг тушаажээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.origins",
+      "key": "gods.origins.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Where were the defeated Titans imprisoned after the Titanomachy?",
+        "mn": "Титаномахи дайны дараа ялагдсан Титануудыг хаана хорьсон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Mount Olympus",
+          "mn": "Олимп уул"
+        },
+        {
+          "en": "Tartarus",
+          "mn": "Тартар"
+        },
+        {
+          "en": "The Elysian Fields",
+          "mn": "Елисей тал"
+        },
+        {
+          "en": "The island of Crete",
+          "mn": "Крит арал"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Tartarus is a deep abyss used as a dungeon of torment for the wicked and a prison for the Titans. It is located even deeper than the underworld of Hades.",
+        "mn": "Тартар бол бузар муу хүмүүсийг зовоодог гяндан бөгөөд Титануудыг хорих шорон болгон ашигладаг гүн ангал юм. Энэ нь Гадесын үхэгсдийн орноос ч илүү гүнд оршдог."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.origins",
+      "key": "gods.origins.g4",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of these figures is NOT one of the twelve original Titans born to Gaia and Uranus?",
+        "mn": "Эдгээрийн аль нь Гая, Уран хоёроос төрсөн анхны арван хоёр Титаны нэг биш вэ?"
+      },
+      "choices": [
+        {
+          "en": "Oceanus",
+          "mn": "Океан"
+        },
+        {
+          "en": "Prometheus",
+          "mn": "Прометей"
+        },
+        {
+          "en": "Rhea",
+          "mn": "Рея"
+        },
+        {
+          "en": "Hyperion",
+          "mn": "Гиперион"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Prometheus was a second-generation Titan, being the son of the Titan Iapetus. The original twelve included Oceanus, Hyperion, Rhea, and Cronus.",
+        "mn": "Прометей бол Титан Иапетусын хүү бөгөөд хоёр дахь үеийн Титан юм. Анхны арван хоёрт Океан, Гиперион, Рея, Кронос нар багтдаг байв."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.origins",
+      "key": "gods.origins.g5",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Who was the mother of Zeus, who saved him by tricking Cronus?",
+        "mn": "Кроносыг хуурч Зевсийг аварсан, Зевсийн эх хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Hera",
+          "mn": "Гера"
+        },
+        {
+          "en": "Rhea",
+          "mn": "Рея"
+        },
+        {
+          "en": "Gaia",
+          "mn": "Гая"
+        },
+        {
+          "en": "Athena",
+          "mn": "Афина"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Rhea was a Titaness and the sister-wife of Cronus. Unable to bear seeing another child swallowed, she hid Zeus and tricked her husband with a stone.",
+        "mn": "Рея бол Кроносын эгч бөгөөд эхнэр нь байсан Титан эмэгтэй юм. Өөр нэг хүүхдээ залгиулахыг тэвчиж чадахгүй байсан тул тэрээр Зевсийг нууж, нөхрөө чулуугаар хуурчээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.origins",
+      "key": "gods.origins.g6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "How did Zeus, Poseidon, and Hades decide who would rule which domain of the world?",
+        "mn": "Зевс, Посейдон, Гадес нар дэлхийн аль хэсгийг захирахаа хэрхэн шийдсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "By fighting a duel",
+          "mn": "Хүч үзэж тулалдан"
+        },
+        {
+          "en": "By Gaia's choice",
+          "mn": "Гаяагийн сонголтоор"
+        },
+        {
+          "en": "By drawing lots",
+          "mn": "Шодож сугалан"
+        },
+        {
+          "en": "By age seniority",
+          "mn": "Насны эрэмбээр"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "According to Homer's Iliad, the three brothers drew lots from a helmet to divide the universe, resulting in Zeus winning the sky, Poseidon the sea, and Hades the underworld.",
+        "mn": "Гомерын Илиадад өгүүлснээр, гурван ах дүү дуулга дундаас шодож орчлон ертөнцийг хуваасан бөгөөд Зевс тэнгэрийг, Посейдон далайг, Гадес үхэгсдийн орныг авчээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.origins",
+      "key": "gods.origins.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which physical tool did Gaia give to her youngest son Cronus to overthrow his father Uranus?",
+        "mn": "Гая өөрийн бага хүү Кроностоо эцэг Ураныг нь түлхэн унагахын тулд ямар зэвсэг өгсөн бэ?"
+      },
+      "choices": [
+        {
+          "en": "A bronze sword",
+          "mn": "Хүрэл сэлэм"
+        },
+        {
+          "en": "A thunderbolt",
+          "mn": "Аянга цахилгаан"
+        },
+        {
+          "en": "An adamantine sickle",
+          "mn": "Адамантин хадуур"
+        },
+        {
+          "en": "A golden trident",
+          "mn": "Алтан гурамсан сэрээ"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Gaia fashioned a sharp sickle out of a magical, indestructible metal called adamantine, which Cronus used to castrate and overthrow Uranus.",
+        "mn": "Гая адамантин хэмээх шидэт, хугаршгүй металлаар хурц хадуур урлаж өгсөн бөгөөд Кронос үүнийг ашиглан Ураныг хөнөөж, хаан ширээнээс нь буулгажээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.origins",
+      "key": "gods.origins.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "According to Hesiod, which of these was born directly from Chaos, alongside Gaia?",
+        "mn": "Гесиодынхоор, Хаосоос Гаяатай зэрэгцэн шууд төрсөн бурхан аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Cronus",
+          "mn": "Кронос"
+        },
+        {
+          "en": "Zeus",
+          "mn": "Зевс"
+        },
+        {
+          "en": "Eros",
+          "mn": "Эрос"
+        },
+        {
+          "en": "Poseidon",
+          "mn": "Посейдон"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "In the Theogony, Eros (Love) and Tartarus emerged from Chaos shortly after Gaia, representing the fundamental forces of the early universe.",
+        "mn": "Теогонид дурдсанаар, Эрос (Хайр дурлал) болон Тартар нь Гаяагийн дараахан Хаосоос бий болсон бөгөөд эртний орчлон ертөнцийн тулгуур хүчнүүдийг төлөөлдөг."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.origins",
+      "key": "gods.origins.g9",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Where did the victorious Olympian gods establish their divine home?",
+        "mn": "Ялалт байгуулсан Олимпийн бурхад өөрсдийн тэнгэрлэг гэр орноо хаана байгуулсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Underworld",
+          "mn": "Үхэгсдийн орон"
+        },
+        {
+          "en": "Athens",
+          "mn": "Афин"
+        },
+        {
+          "en": "The island of Crete",
+          "mn": "Крит арал"
+        },
+        {
+          "en": "Mount Olympus",
+          "mn": "Олимп уул"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Mount Olympus is the highest mountain in Greece. In mythology, its peaks were hidden in clouds where the gods built their grand palaces.",
+        "mn": "Олимп уул бол Грекийн хамгийн өндөр уул юм. Домогт өгүүлснээр, түүний оргил нь үүлэн дунд нуугддаг бөгөөд тэнд бурхад өөрсдийн агуу ордонг босгожээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.origins",
+      "key": "gods.origins.g10",
+      "difficulty": 3,
+      "prompt": {
+        "en": "What did Cronus do with the stone wrapped in blankets after Zeus grew up?",
+        "mn": "Зевсийг том болсны дараа Кронос өлгийд ороосон өнөөх чулуугаа яасан бэ?"
+      },
+      "choices": [
+        {
+          "en": "He gave it to Atlas",
+          "mn": "Тэр үүнийг Атласт өгсөн"
+        },
+        {
+          "en": "He turned it into a mountain",
+          "mn": "Тэр үүнийг уул болгож хувиргасан"
+        },
+        {
+          "en": "He was forced to vomit it up",
+          "mn": "Түүнийг хүчээр бөөлжүүлж гаргасан"
+        },
+        {
+          "en": "He threw it into the sea",
+          "mn": "Тэр далай руу шидсэн"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Zeus gave Cronus a special drink that forced him to throw up the stone first, followed by Zeus's older siblings, who were all still alive inside him.",
+        "mn": "Зевс Кроност тусгай ундаа уулгаснаар тэрээр эхлээд чулууг, дараа нь Кроносын дотор амьд байсан Зевсийн ах, эгч нарыг бөөлжиж гаргажээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.family-tree",
+      "key": "gods.family-tree.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which of these gods is the Greek god of the sea?",
+        "mn": "Эдгээр бурхдын хэн нь Грекийн далайн бурхан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Poseidon",
+          "mn": "Посейдон"
+        },
+        {
+          "en": "Hades",
+          "mn": "Хадес"
+        },
+        {
+          "en": "Zeus",
+          "mn": "Зевс"
+        },
+        {
+          "en": "Hermes",
+          "mn": "Хермес"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Poseidon is the Greek god of the sea, earthquakes, and horses. He is one of the three powerful brothers who divided the world, alongside Zeus and Hades.",
+        "mn": "Посейдон бол Грекийн далай тэнгис, газар хөдлөлт, морины бурхан юм. Тэрээр Зевс, Хадес нарын хамт ертөнцийг хувааж авсан хүчирхэг гурван ах дүүгийн нэг билээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.family-tree",
+      "key": "gods.family-tree.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Who is the Greek god of fire, metalworking, and the forge?",
+        "mn": "Грекийн гал, төмөрлөг, дархны бурхан хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Apollo",
+          "mn": "Аполлон"
+        },
+        {
+          "en": "Hermes",
+          "mn": "Хермес"
+        },
+        {
+          "en": "Hephaestus",
+          "mn": "Гефест"
+        },
+        {
+          "en": "Ares",
+          "mn": "Арес"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Hephaestus is the god of fire and crafts, who forged weapons for the other gods. He was famously cast down from Mount Olympus due to his physical disability.",
+        "mn": "Гефест бол бусад бурхдад зориулж зэвсэг хуяг урладаг гал, гар урлалын бурхан юм. Түүнийг бие бялдрын согогтой төрсөн тул Олимп уулнаас шидсэн гэж домогт өгүүлдэг."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.family-tree",
+      "key": "gods.family-tree.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which Titan was forced to hold up the sky for eternity?",
+        "mn": "Ямар Титан тэнгэрийг үүрд тулж зогсох шийтгэл хүлээсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Iapetus",
+          "mn": "Иапет"
+        },
+        {
+          "en": "Cronus",
+          "mn": "Кронос"
+        },
+        {
+          "en": "Prometheus",
+          "mn": "Прометей"
+        },
+        {
+          "en": "Atlas",
+          "mn": "Атлас"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Atlas was punished by Zeus after the Titanomachy (the war of Titans vs. Gods) by being forced to hold up the celestial spheres on his shoulders.",
+        "mn": "Атласыг Титануудын дайны дараа Зевс шийтгэж, тэнгэрийн мандлыг мөрөн дээрээ үүрд тулж зогсох ял оноожээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.family-tree",
+      "key": "gods.family-tree.g4",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which Greek hero, a son of Zeus, performed twelve famous labours?",
+        "mn": "Зевсийн хүү болох Грекийн ямар баатар алдарт 12 гавьяагаа байгуулсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Achilles",
+          "mn": "Ахилл"
+        },
+        {
+          "en": "Theseus",
+          "mn": "Тесей"
+        },
+        {
+          "en": "Heracles",
+          "mn": "Херакл"
+        },
+        {
+          "en": "Perseus",
+          "mn": "Персей"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Heracles (known as Hercules in Roman mythology) was a demigod son of Zeus who had to complete twelve labours as penance for a madness sent by Hera.",
+        "mn": "Херакл (Ромын домогт Геркулес гэдэг) бол Зевсийн хүү бөгөөд Херагийн илгээсэн галзуурлын улмаас хийсэн нүглээ наминчлахын тулд 12 хүнд даалгаврыг биелүүлсэн баатар юм."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.family-tree",
+      "key": "gods.family-tree.g5",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Who is the mother of the messenger god, Hermes?",
+        "mn": "Элч бурхан Хермесийн эх хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Maia",
+          "mn": "Майя"
+        },
+        {
+          "en": "Leto",
+          "mn": "Лето"
+        },
+        {
+          "en": "Semele",
+          "mn": "Семела"
+        },
+        {
+          "en": "Metis",
+          "mn": "Метида"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Hermes was born to Zeus and Maia, the eldest of the Pleiades (daughters of Atlas). He was born in a cave on Mount Cyllene.",
+        "mn": "Хермес бол Зевс болон Плеядуудын (Атласын охид) ууган охин Майя нараас төрсөн хүү юм. Тэрээр Киллена уулын агуйд мэндэлжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.family-tree",
+      "key": "gods.family-tree.g6",
+      "difficulty": 3,
+      "prompt": {
+        "en": "How many Muses, the goddesses of the arts and sciences, are there?",
+        "mn": "Урлаг, шинжлэх ухааныг ивээгч Муза дагинас нийт хэд байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Three",
+          "mn": "Гурвуулаа"
+        },
+        {
+          "en": "Seven",
+          "mn": "Долуулаа"
+        },
+        {
+          "en": "Nine",
+          "mn": "Есүүлээ"
+        },
+        {
+          "en": "Twelve",
+          "mn": "Арван хоёулаа"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "There are nine Muses, who are the daughters of Zeus and Mnemosyne (the Titaness of memory). They inspire literature, science, and the arts.",
+        "mn": "Зевс болон дурсамжийн титан дагина Мнемосина нараас төрсөн есөн Муза дагина байдаг. Тэд уран зохиол, шинжлэх ухаан, урлагийн салбарт онгод хайрладаг."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.family-tree",
+      "key": "gods.family-tree.g7",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which Greek god is associated with wine, theatre, and ritual madness?",
+        "mn": "Грекийн ямар бурхныг дарс, театр, баяр цэнгэлтэй холбодог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Hephaestus",
+          "mn": "Гефест"
+        },
+        {
+          "en": "Dionysus",
+          "mn": "Дионис"
+        },
+        {
+          "en": "Hermes",
+          "mn": "Хермес"
+        },
+        {
+          "en": "Apollo",
+          "mn": "Аполлон"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Dionysus is the god of the grape-harvest, winemaking, and theatre. He was the only Olympian god with a mortal mother (Semele).",
+        "mn": "Дионис бол усан үзмийн ургац хураалт, дарс исгэх, театрын урлагийн бурхан юм. Тэрээр Олимпийн бурхдаас цорын ганц мөнх бус эхтэй (Семела) бурхан байв."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.family-tree",
+      "key": "gods.family-tree.g8",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Who is the mother of the twins Apollo and Artemis?",
+        "mn": "Аполлон, Артемида гэх ихрүүдийн эх хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Leto",
+          "mn": "Лето"
+        },
+        {
+          "en": "Hera",
+          "mn": "Хера"
+        },
+        {
+          "en": "Demeter",
+          "mn": "Деметра"
+        },
+        {
+          "en": "Maia",
+          "mn": "Майя"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Leto, a Titaness, was the mother of Apollo and Artemis by Zeus. She had to search for a place to give birth because Hera forbade any land to welcome her.",
+        "mn": "Титан дагина Лето бол Зевсээс Аполлон, Артемида нарыг төрүүлсэн эх юм. Хера түүнийг хуурай газарт төрөхийг хориглосон тул тэрээр төрөх газар хайж их хэссэн гэдэг."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.family-tree",
+      "key": "gods.family-tree.g9",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Who is the Greek god of war?",
+        "mn": "Грекийн дайны бурхан хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Ares",
+          "mn": "Арес"
+        },
+        {
+          "en": "Hermes",
+          "mn": "Хермес"
+        },
+        {
+          "en": "Hades",
+          "mn": "Хадес"
+        },
+        {
+          "en": "Apollo",
+          "mn": "Аполлон"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Ares is the Greek god of war and physical courage. He is the son of Zeus and Hera, and represents the violent and physical untamed aspect of war.",
+        "mn": "Арес бол Грекийн дайн ба эр зоригийн бурхан юм. Тэрээр Зевс, Хера нарын хүү бөгөөд дайны харгис хэрцгий, догшин ширүүн талыг илэрхийлдэг."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.underworld",
+      "key": "gods.underworld.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In Roman mythology, what is the equivalent name for the Greek god Hades?",
+        "mn": "Ромын үлгэр домогт Грекийн Гадес бурхныг хэн гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Jupiter",
+          "mn": "Юпитер"
+        },
+        {
+          "en": "Neptune",
+          "mn": "Нептун"
+        },
+        {
+          "en": "Vulcan",
+          "mn": "Вулкан"
+        },
+        {
+          "en": "Pluto",
+          "mn": "Плутон"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Romans identified Hades with Pluto, the god of wealth and the underworld. The dwarf planet Pluto is named after this Roman god.",
+        "mn": "Ромчууд Гадесыг эд баялаг, үхэгсдийн орны бурхан болох Плутонтой адилтгадаг байв. Одой гариг Плутоныг энэхүү Ромын бурхны нэрээр нэрлэжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.underworld",
+      "key": "gods.underworld.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of these famous heroes successfully rescued Cerberus from the underworld as one of his tasks?",
+        "mn": "Дараах баатруудын хэн нь үхэгсдийн орноос Церберийг авчирч өөрийн даалгавраа биелүүлсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Theseus",
+          "mn": "Тесей"
+        },
+        {
+          "en": "Perseus",
+          "mn": "Персей"
+        },
+        {
+          "en": "Achilles",
+          "mn": "Ахиллес"
+        },
+        {
+          "en": "Heracles",
+          "mn": "Геракл"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Capturing Cerberus without using weapons was the twelfth and final labor of Heracles (Hercules). He brought the beast to King Eurystheus before returning it.",
+        "mn": "Церберийг зэвсэг хэрэглэхгүйгээр барих нь Гераклын 12 дахь бөгөөд сүүлчийн гавьяа байв. Тэрээр араатныг Эврисфей хаанд үзүүлээд буцааж тавьжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.underworld",
+      "key": "gods.underworld.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Who was Persephone's mother, the goddess of agriculture, who grieved when her daughter was in the underworld?",
+        "mn": "Персефонаг газар доор байхад гашууддаг байсан түүний ээж, газар тариалангийн дарь эх хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Demeter",
+          "mn": "Деметра"
+        },
+        {
+          "en": "Hera",
+          "mn": "Гера"
+        },
+        {
+          "en": "Athena",
+          "mn": "Афина"
+        },
+        {
+          "en": "Aphrodite",
+          "mn": "Афродита"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Demeter was the goddess of the harvest. When her daughter Persephone was taken to the underworld, Demeter's sorrow caused the earth's crops to wither, creating winter.",
+        "mn": "Деметра бол ургацын дарь эх байв. Түүний охин Персефонаг үхэгсдийн оронд очих үед Деметрагийн уй гашуугаас болж ургац хатаж, өвөл болдог байжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.underworld",
+      "key": "gods.underworld.g4",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which magical item did Hades possess that granted him complete invisibility?",
+        "mn": "Гадест үл үзэгдэх чадварыг олгодог ямар шидтэй зүйл байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "A special helmet",
+          "mn": "Тусгай дуулга"
+        },
+        {
+          "en": "A dark cloak",
+          "mn": "Харанхуй нөмрөг"
+        },
+        {
+          "en": "A golden ring",
+          "mn": "Алтаар хийсэн бөгж"
+        },
+        {
+          "en": "A winged sandal",
+          "mn": "Далавчит шаахай"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Hades wore the Cap of Invisibility (or Helm of Darkness), which was forged for him by the Cyclopes during the war against the Titans.",
+        "mn": "Гадес үл үзэгдэх дуулга (эсвэл Харанхуйн дуулга) өмсдөг байсан бөгөөд үүнийг Титанчуудын эсрэг дайны үеэр Киклопууд түүнд зориулж урлажээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.underworld",
+      "key": "gods.underworld.g5",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which famous musician traveled to the underworld to retrieve his dead wife, Eurydice?",
+        "mn": "Нас барсан эхнэр Эвридикагаа аврахаар үхэгсдийн орныг зорьсон алдартай хөгжимчин хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Apollo",
+          "mn": "Аполлон"
+        },
+        {
+          "en": "Midas",
+          "mn": "Мидас"
+        },
+        {
+          "en": "Orpheus",
+          "mn": "Орфей"
+        },
+        {
+          "en": "Hermes",
+          "mn": "Гермес"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Orpheus used his beautiful lyre music to charm Hades and Persephone. However, he failed his mission because he looked back at his wife before reaching the surface.",
+        "mn": "Орфей өөрийн яруу тунгалаг босоо ятгын аялгуугаар Гадес, Персефона нарыг уярааж чадсан юм. Гэвч тэрээр газрын гадаргад хүрэхээсээ өмнө эхнэр рүүгээ эргэж харсан тул даалгавар нь бүтэлгүйтжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.underworld",
+      "key": "gods.underworld.g6",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Who are the two powerful brothers of Hades who rule the sky and the seas?",
+        "mn": "Тэнгэр болон далайг захирдаг Гадесын хүчирхэг хоёр ах дүү хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Apollo and Hermes",
+          "mn": "Аполлон, Гермес"
+        },
+        {
+          "en": "Castor and Pollux",
+          "mn": "Кастор, Поллукс"
+        },
+        {
+          "en": "Ares and Hephaestus",
+          "mn": "Арес, Гефест"
+        },
+        {
+          "en": "Zeus and Poseidon",
+          "mn": "Зевс, Посейдон"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Zeus, Poseidon, and Hades overthrew their father Cronus and divided the cosmos. Hades drew the short straw and received the underworld.",
+        "mn": "Зевс, Посейдон, Гадес нар эцэг Кроносоо түлхэн унагаж, ертөнцийг хуваан авчээ. Гадес хамгийн богино шоог сугалж, үхэгсдийн орныг захирах болсон юм."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.underworld",
+      "key": "gods.underworld.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which region of the Greek underworld was reserved as a paradise for the souls of heroic and virtuous people?",
+        "mn": "Грекийн үхэгсдийн орны аль хэсэг нь баатарлаг, ариун журамт хүмүүсийн сүнсэнд зориулсан диваажин байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Elysium",
+          "mn": "Элизиум"
+        },
+        {
+          "en": "Asphodel Meadows",
+          "mn": "Асфоделийн нуга"
+        },
+        {
+          "en": "Tartarus",
+          "mn": "Тартар"
+        },
+        {
+          "en": "The Abyss",
+          "mn": "Гүн хавцал"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Elysium, or the Elysian Fields, was the final resting place for the souls of heroes and the righteous. It was a land of perpetual spring and happiness.",
+        "mn": "Элизиум буюу Элизиумын тал нь баатрууд болон зөвт хүмүүсийн сүнсний эцсийн амрах газар байв. Энэ нь мөнхийн хавар, аз жаргалын орон байжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.underworld",
+      "key": "gods.underworld.g8",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of these is NOT one of the five major rivers of the Greek underworld?",
+        "mn": "Дараах голуудын аль нь Грекийн үхэгсдийн орны үндсэн таван голын нэг биш вэ?"
+      },
+      "choices": [
+        {
+          "en": "Acheron",
+          "mn": "Ахерон"
+        },
+        {
+          "en": "Phlegethon",
+          "mn": "Флегетон"
+        },
+        {
+          "en": "Euphrates",
+          "mn": "Евфрат"
+        },
+        {
+          "en": "Cocytus",
+          "mn": "Кокитос"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Euphrates is a real-world river in Western Asia. The five rivers of the Greek underworld are Styx, Acheron, Cocytus, Phlegethon, and Lethe.",
+        "mn": "Евфрат бол Баруун Азид байдаг бодит гол юм. Грекийн үхэгсдийн орны таван гол нь Стикс, Ахерон, Кокитос, Флегетон, Лета нар билээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.underworld",
+      "key": "gods.underworld.g9",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which deep abyss in the underworld was used as a dungeon of torment for the wicked and to imprison the Titans?",
+        "mn": "Үхэгсдийн орны аль гүн хавцлыг нүгэлтнүүдийг тамлах шорон болон Титанчуудыг хорих газар болгон ашигладаг байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Tartarus",
+          "mn": "Тартар"
+        },
+        {
+          "en": "Elysium",
+          "mn": "Элизиум"
+        },
+        {
+          "en": "Olympus",
+          "mn": "Олимп"
+        },
+        {
+          "en": "Delphi",
+          "mn": "Дельфи"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Tartarus was located far below the underworld. It served as a high-security prison for threats to the Olympian gods, including Cronus and other Titans.",
+        "mn": "Тартар нь үхэгсдийн орны хамгийн гүнд байрладаг байв. Энэ нь Олимпын бурхдад заналхийлж байсан Кронос болон бусад Титанчуудыг хорих чанга дэглэмтэй шорон байжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.underworld",
+      "key": "gods.underworld.g10",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which god served as the 'Psychopomp', guiding the souls of the deceased down to the entrance of the underworld?",
+        "mn": "Нас барагсдын сүнсийг үхэгсдийн орны үүд хүртэл газарчлан хүргэдэг ямар бурхан байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Hermes",
+          "mn": "Гермес"
+        },
+        {
+          "en": "Dionysus",
+          "mn": "Дионис"
+        },
+        {
+          "en": "Apollo",
+          "mn": "Аполлон"
+        },
+        {
+          "en": "Ares",
+          "mn": "Арес"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Hermes was the messenger god, but he also had the role of guiding souls to the underworld. In this role, he was known as Hermes Psychopompos.",
+        "mn": "Гермес бол элч бурхан байсан ч сүнснүүдийг үхэгсдийн оронд зуучлан хүргэх үүрэгтэй байв. Энэхүү үүргээрээ түүнийг Гермес Психопомп гэж нэрлэдэг байжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.heroes-monsters",
+      "key": "gods.heroes-monsters.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In Roman mythology, what name is used for the Greek hero Heracles?",
+        "mn": "Ромын үлгэр домогт Грекийн баатар Гераклыг хэн гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Hades",
+          "mn": "Аид"
+        },
+        {
+          "en": "Hector",
+          "mn": "Гектор"
+        },
+        {
+          "en": "Hermes",
+          "mn": "Гермес"
+        },
+        {
+          "en": "Hercules",
+          "mn": "Геркулес"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Heracles is the original Greek name, meaning 'glory of Hera', while the Romans adapted his name to Hercules. He is famous for his incredible strength and numerous adventures.",
+        "mn": "Геракл нь 'Герагийн алдар суу' гэсэн утгатай Грек нэр бөгөөд Ромчууд түүнийг Геркулес болгон өөрчилжээ. Тэрээр ер бусын хүч чадал, олон адал явдлаараа алдартай."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.heroes-monsters",
+      "key": "gods.heroes-monsters.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Who built the famous Labyrinth on Crete to house the Minotaur?",
+        "mn": "Крит арал дээр Минотаврыг хорих алдарт Лабиринтыг хэн барьсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Daedalus",
+          "mn": "Дедал"
+        },
+        {
+          "en": "Icarus",
+          "mn": "Икар"
+        },
+        {
+          "en": "Odysseus",
+          "mn": "Одиссей"
+        },
+        {
+          "en": "Theseus",
+          "mn": "Тесей"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The brilliant inventor Daedalus designed the Labyrinth for King Minos. Later, Daedalus and his son Icarus were imprisoned in it and had to escape using wings made of feathers and wax.",
+        "mn": "Агуу зохион бүтээгч Дедал Минос хаанд зориулж Лабиринтыг зохион бүтээжээ. Хожим нь Дедал болон түүний хүү Икар нар тэнд хоригдож, өд, лаваар хийсэн далавчаар зугтсан байна."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.heroes-monsters",
+      "key": "gods.heroes-monsters.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which Greek hero defeated the Trojan champion Hector during the Trojan War?",
+        "mn": "Тройн дайны үеэр Тройн шилдэг дайчин Гекторыг аль Грек баатар ялсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Achilles",
+          "mn": "Ахиллес"
+        },
+        {
+          "en": "Perseus",
+          "mn": "Персей"
+        },
+        {
+          "en": "Theseus",
+          "mn": "Тесей"
+        },
+        {
+          "en": "Heracles",
+          "mn": "Геракл"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Achilles killed Hector outside the gates of Troy to avenge his close friend Patroclus. He then dragged Hector's body behind his chariot.",
+        "mn": "Ахиллес өөрийн дотны найз Патроклын өсийг авахаар Тройн хаалганы гадна Гекторыг хөнөөжээ. Дараа нь тэр Гекторын цогцсыг морин тэрэгнийхээ араас чирсэн байна."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.heroes-monsters",
+      "key": "gods.heroes-monsters.g4",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of these monsters did Heracles NOT fight as part of his duties or adventures?",
+        "mn": "Эдгээр мангасуудын алийг нь Геракл өөрийн даалгавар, адал явдлынхаа үеэр тулалдаж байгаагүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Cerberus",
+          "mn": "Цербер"
+        },
+        {
+          "en": "The Nemean Lion",
+          "mn": "Немейн арслан"
+        },
+        {
+          "en": "The Hydra",
+          "mn": "Гидра"
+        },
+        {
+          "en": "The Minotaur",
+          "mn": "Минотавр"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Minotaur was defeated by Theseus in the Labyrinth of Crete. Heracles fought the multi-headed Hydra, the Nemean Lion, and even captured Cerberus from the Underworld.",
+        "mn": "Минотаврыг Крит арлын Лабиринтэд Тесей ялсан юм. Харин Геракл олон толгойт Гидра, Немейн арслантай тулалдаж, бүр Эрлэгүүдийн орноос Церберийг барьж авчирсан байдаг."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.heroes-monsters",
+      "key": "gods.heroes-monsters.g5",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What did Perseus use to safely look at Medusa without turning to stone?",
+        "mn": "Персей чулуу болохоос зайлсхийж Медуза руу аюулгүй харахын тулд юу ашигласан бэ?"
+      },
+      "choices": [
+        {
+          "en": "A polished, reflective shield",
+          "mn": "Гялалзсан, тусгалтай бамбай"
+        },
+        {
+          "en": "A pool of water",
+          "mn": "Усны мандал"
+        },
+        {
+          "en": "A pair of dark glasses",
+          "mn": "Хар шил"
+        },
+        {
+          "en": "A magic mirror",
+          "mn": "Шидэт толь"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Perseus used the bronze shield given by Athena as a mirror to locate Medusa. This allowed him to cut off her head while only looking at her reflection.",
+        "mn": "Персей Афинагаас өгсөн хүрэл бамбайг толь болгон ашиглаж Медузагийн байршлыг олжээ. Энэ нь түүнд зөвхөн тусгалыг нь харж байгаад толгойг нь тасдах боломжийг олгосон юм."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.heroes-monsters",
+      "key": "gods.heroes-monsters.g6",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which physical part of the human body is named after Achilles due to his legendary weakness?",
+        "mn": "Домогт гардаг сул талтай нь холбоотойгоор хүний биеийн аль хэсгийг Ахиллесийн нэрээр нэрлэсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "The kneecap",
+          "mn": "Өвдөгний тойг"
+        },
+        {
+          "en": "The elbow joint",
+          "mn": "Тохойны үе"
+        },
+        {
+          "en": "The collarbone",
+          "mn": "Эгэмний яс"
+        },
+        {
+          "en": "The heel tendon",
+          "mn": "Өсгийний шөрмөс"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The thick tendon at the back of the ankle is called the 'Achilles tendon'. According to myth, Achilles was dipped in the River Styx by his heel, leaving that spot vulnerable.",
+        "mn": "Шагайн ард байх бүдүүн шөрмөсийг 'Ахиллесийн шөрмөс' гэж нэрлэдэг. Домогт өгүүлснээр, Ахиллесийг Стикс голд дүрэхдээ өсгийгөөс нь барьж таарсан тул тэр хэсэг нь хамгаалалтгүй үлджээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.heroes-monsters",
+      "key": "gods.heroes-monsters.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Who was the mother of the hero Achilles, who tried to make him immortal?",
+        "mn": "Баатар Ахиллесийг үхэшгүй мөнх болгохыг оролдсон түүний ээж хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Alcmene",
+          "mn": "Алкмена"
+        },
+        {
+          "en": "Thetis",
+          "mn": "Фетида"
+        },
+        {
+          "en": "Hera",
+          "mn": "Гера"
+        },
+        {
+          "en": "Athena",
+          "mn": "Афина"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Thetis was a sea nymph who loved her son deeply. She dipped the infant Achilles into the River Styx to protect him, but his heel remained dry.",
+        "mn": "Фетида бол хүүгээ маш их хайрладаг далайн дагина байв. Тэрээр нялх Ахиллесийг хамгаалахын тулд Стикс голд дүрсэн боловч өсгий нь хуурай үлджээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.heroes-monsters",
+      "key": "gods.heroes-monsters.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which one-eyed giant did Odysseus blind to escape from his cave?",
+        "mn": "Одиссей агуйгаас нь зугтахын тулд аль нэг нүдтэй аваргыг сохорсон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Polyphemus",
+          "mn": "Полифем"
+        },
+        {
+          "en": "Geryon",
+          "mn": "Герион"
+        },
+        {
+          "en": "Atlas",
+          "mn": "Атлас"
+        },
+        {
+          "en": "Argus",
+          "mn": "Аргус"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Polyphemus was a Cyclops and the son of Poseidon. Odysseus got him drunk, blinded his single eye with a wooden stake, and escaped by clinging to the bellies of sheep.",
+        "mn": "Полифем бол Посейдоны хүү Циклоп байв. Одиссей түүнийг согтоож, модон гадасаар ганц нүдийг нь сохлоод, хонины гэдсэн доор зүүгдэн зугтжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.heroes-monsters",
+      "key": "gods.heroes-monsters.g9",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In Hesiod's original Greek writings, what container did Pandora actually open?",
+        "mn": "Гесиодын анхны Грек бичвэрүүдэд Пандора яг ямар савыг нээсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "A golden box",
+          "mn": "Алтан хайрцаг"
+        },
+        {
+          "en": "A wooden chest",
+          "mn": "Модон авдар"
+        },
+        {
+          "en": "A leather bag",
+          "mn": "Сурхин уут"
+        },
+        {
+          "en": "A large storage jar",
+          "mn": "Том шавар сав"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Pandora originally opened a 'pithos', which is a large clay storage jar. A translation error in the 16th century by Erasmus turned the jar into a 'box'.",
+        "mn": "Пандора анх 'питос' буюу том шавар савыг нээсэн байдаг. XVI зуунд Эразмус орчуулгын алдаа гаргаснаар уг савыг 'хайрцаг' болгон хувиргажээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.heroes-monsters",
+      "key": "gods.heroes-monsters.g10",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which Greek goddess helped Theseus by giving him advice and tools, through Princess Ariadne?",
+        "mn": "Гүнж Ариаднагаар дамжуулан Тесейд зөвлөгөө, багаж хэрэгсэл өгч тусалсан Грекийн дагина хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Artemis",
+          "mn": "Артемида"
+        },
+        {
+          "en": "Hera",
+          "mn": "Гера"
+        },
+        {
+          "en": "Demeter",
+          "mn": "Деметра"
+        },
+        {
+          "en": "Aphrodite",
+          "mn": "Афродита"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Aphrodite, the goddess of love, influenced Ariadne to fall in love with Theseus and help him. Ariadne gave Theseus the famous ball of thread to navigate the Labyrinth.",
+        "mn": "Хайр дурлалын дагина Афродита Ариаднаг Тесейд дурлуулж, түүнд туслах сэдэл төрүүлжээ. Ариадна Тесейд Лабиринтаас гарах алдарт утасны бөмбөлгийг өгсөн юм."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.in-our-world",
+      "key": "gods.in-our-world.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which planet in our solar system is named after the Roman goddess of love and beauty?",
+        "mn": "Манай нарны аймгийн аль гаригийг Ромын хайр дурлал, гоо үзэсгэлэнгийн дарь эхийн нэрээр нэрлэсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Venus",
+          "mn": "Сугар (Venus)"
+        },
+        {
+          "en": "Mercury",
+          "mn": "Буд (Mercury)"
+        },
+        {
+          "en": "Saturn",
+          "mn": "Санчир (Saturn)"
+        },
+        {
+          "en": "Neptune",
+          "mn": "Далай ван (Neptune)"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Venus is named after the Roman goddess of love and beauty because it shines so brightly in the night sky. It is the second planet from the Sun.",
+        "mn": "Сугар гариг нь шөнийн тэнгэрт маш тод гэрэлтдэг тул Ромын хайр дурлал, гоо үзэсгэлэнгийн дарь эхийн нэрээр нэрлэгджээ. Энэ нь Нарнаас холдох дарааллаар хоёр дахь гариг юм."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.in-our-world",
+      "key": "gods.in-our-world.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The English word \"Saturday\" is named in honour of which Roman god?",
+        "mn": "Англи хэлний \"Saturday\" (Бямба гараг) хэмээх үгийг Ромын ямар бурхныг хүндэтгэн нэрлэсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Mercury",
+          "mn": "Меркури"
+        },
+        {
+          "en": "Jupiter",
+          "mn": "Юпитер"
+        },
+        {
+          "en": "Mars",
+          "mn": "Марс"
+        },
+        {
+          "en": "Saturn",
+          "mn": "Сатурн"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Saturday translates to \"Saturn's day\" in Latin. Saturn was the Roman god of agriculture and time, corresponding to the Greek Titan Cronus.",
+        "mn": "\"Saturday\" гэдэг нь латин хэлээр \"Сатурны өдөр\" гэсэн утгатай. Сатурн бол Грекийн Титан Кронустай дүйцэх Ромын газар тариалан, цаг хугацааны бурхан байв."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.in-our-world",
+      "key": "gods.in-our-world.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which planet is the ONLY one in our solar system named after a Greek god rather than a Roman one?",
+        "mn": "Манай нарны аймгийн гаригуудаас Ром биш, харин Грекийн бурхны нэрээр нэрлэгдсэн цорын ганц гариг аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Saturn",
+          "mn": "Санчир (Saturn)"
+        },
+        {
+          "en": "Jupiter",
+          "mn": "Бархасбадь (Jupiter)"
+        },
+        {
+          "en": "Neptune",
+          "mn": "Далай ван (Neptune)"
+        },
+        {
+          "en": "Uranus",
+          "mn": "Тэнгэрийн ван (Uranus)"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Uranus is named after the Greek god of the sky, Ouranos. All other major planets in our solar system bear Roman names.",
+        "mn": "Тэнгэрийн ван гаригийг Грекийн тэнгэрийн бурхан Уран (Ouranos)-ы нэрээр нэрлэсэн бэ. Нарны аймгийн бусад бүх томоохон гаригууд Ром нэртэй байдаг."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.in-our-world",
+      "key": "gods.in-our-world.g4",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which book of maps is named after a Titan who was forced to hold up the sky?",
+        "mn": "Тэнгэрийг нуруун дээрээ үүрч зогсох шийтгэл хүлээсэн Титаны нэрээр нэрлэгдсэн газрын зургийн түүвэр юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Odyssey",
+          "mn": "Одиссей"
+        },
+        {
+          "en": "Chronicle",
+          "mn": "Шастир"
+        },
+        {
+          "en": "Encyclopedia",
+          "mn": "Нэвтэрхий толь"
+        },
+        {
+          "en": "Atlas",
+          "mn": "Атлас"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "An atlas is a collection of maps. It is named after Atlas, the giant Titan who was condemned by Zeus to support the heavens on his shoulders.",
+        "mn": "Атлас бол газрын зургийн түүвэр ном юм. Зевсийн тушаалаар тэнгэрийг мөрөн дээрээ тулж зогсох шийтгэл авсан аварга биет Титан Атласын нэрээр үүнийг нэрлэжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.in-our-world",
+      "key": "gods.in-our-world.g5",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The two moons of Mars, Phobos and Deimos, are named after the mythological sons of Ares. What do these names mean?",
+        "mn": "Ангараг гаригийн хоёр дагуул болох Фобос, Деймос нь Аресын домогт хөвгүүдийн нэр юм. Эдгээр нэрс ямар утгатай вэ?"
+      },
+      "choices": [
+        {
+          "en": "War and Peace",
+          "mn": "Дайн ба Энх тайван"
+        },
+        {
+          "en": "Fear and Panic",
+          "mn": "Айдас ба Сандрал"
+        },
+        {
+          "en": "Love and Beauty",
+          "mn": "Хайр ба Гоо үзэсгэлэн"
+        },
+        {
+          "en": "Thunder and Lightning",
+          "mn": "Аянга ба Цахилгаан"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Phobos means 'fear' and Deimos means 'panic' or 'dread'. In mythology, they accompanied their father Ares (the god of war) into battle.",
+        "mn": "Фобос гэдэг нь 'айдас', Деймос гэдэг нь 'айдас хүйдэс, сандрал' гэсэн утгатай. Домогт тэд дайны бурхан болох эцэг Аресыгаа дайн тулаанд дагалдан явдаг байжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.in-our-world",
+      "key": "gods.in-our-world.g6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which NASA space program, famous for landing the first humans on the Moon, was named after the Greek god of light and music?",
+        "mn": "Анх удаа саран дээр хүн буулгаснаараа алдартай NASA-гийн сансрын хөтөлбөрийг Грекийн гэрэл болон хөгжмийн бурхны нэрээр хэрхэн нэрлэсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Orion",
+          "mn": "Орион"
+        },
+        {
+          "en": "Hermes",
+          "mn": "Хермес"
+        },
+        {
+          "en": "Artemis",
+          "mn": "Артемис"
+        },
+        {
+          "en": "Apollo",
+          "mn": "Аполлон"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "NASA's Apollo program ran in the 1960s and 1970s. Apollo is the Greek god of music, truth, and light, and twin brother of Artemis.",
+        "mn": "NASA-гийн Аполлон хөтөлбөр 1960-1970-аад онд хэрэгжсэн. Аполлон бол Грекийн хөгжим, үнэн, гэрлийн бурхан бөгөөд Артемисийн ихэр ах юм."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.in-our-world",
+      "key": "gods.in-our-world.g7",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which month of the year is named after Mars, the Roman god of war?",
+        "mn": "Жилийн аль сарыг Ромын дайны бурхан Марсын нэрээр нэрлэсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "June",
+          "mn": "Зургаадугаар сар (June)"
+        },
+        {
+          "en": "March",
+          "mn": "Гуравдугаар сар (March)"
+        },
+        {
+          "en": "August",
+          "mn": "Наймдугаар сар (August)"
+        },
+        {
+          "en": "May",
+          "mn": "Тавдугаар сар (May)"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "March (Martius in Latin) was named after Mars because this was the season when military campaigns resumed after the winter.",
+        "mn": "Гуравдугаар сарыг (латинаар Martius) Марс бурхны нэрээр нэрлэсэн бэ, учир нь өвөл дуусаж, цэргийн аялал дахин эхэлдэг үе байв."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.in-our-world",
+      "key": "gods.in-our-world.g8",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The dwarf planet Pluto is named after the ruler of the underworld. Why was this name chosen?",
+        "mn": "Одой гариг Плутоныг үхэгсдийн орны захирагчийн нэрээр нэрлэсэн. Яагаад энэ нэрийг сонгосон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Because it is cold and dark",
+          "mn": "Учир нь энэ гариг маш хүйтэн, харанхуй"
+        },
+        {
+          "en": "Because it has red soil",
+          "mn": "Улаан хөрстэй учраас"
+        },
+        {
+          "en": "Because it is the largest planet",
+          "mn": "Хамгийн том гариг учраас"
+        },
+        {
+          "en": "Because it is very close to the Sun",
+          "mn": "Нартай маш ойрхон байдаг учраас"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Pluto is extremely far from the Sun, making it a dark and frozen world, much like the mythological underworld ruled by Pluto.",
+        "mn": "Плутон нь Нарнаас маш хол оршдог тул харанхуй, мөсөн ертөнц бөгөөд энэ нь Плутоны захирдаг домогт гардаг үхэгсдийн оронтой төстэй юм."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.in-our-world",
+      "key": "gods.in-our-world.g9",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which physical phenomenon is named after a Greek nymph who could only repeat the last words spoken to her?",
+        "mn": "Зөвхөн өөрт нь хэлсэн сүүлчийн үгийг л давтаж чаддаг байсан Грекийн дагинын нэрээр ямар физикийн үзэгдлийг нэрлэсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Rainbow",
+          "mn": "Солонго"
+        },
+        {
+          "en": "Shadow",
+          "mn": "Сүүдэр"
+        },
+        {
+          "en": "Echo",
+          "mn": "Цуурай (Echo)"
+        },
+        {
+          "en": "Gravity",
+          "mn": "Татах хүч"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The word 'echo' comes from the nymph Echo, who was cursed by Hera to never speak first, but only repeat what others said.",
+        "mn": "'Echo' (цуурай) гэдэг үг нь Гера дарь эхэд шийтгүүлж, хэзээ ч түрүүлж ярьж чаддаггүй, зөвхөн бусдын хэлснийг давтдаг болсон Эхо дагинын нэрнээс гаралтай."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.in-our-world",
+      "key": "gods.in-our-world.g10",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The fastest planet, Mercury, is named after the Roman messenger god. What is his Greek equivalent?",
+        "mn": "Хамгийн хурдан гариг болох Буд (Mercury)-ыг Ромын элч бурхны нэрээр нэрлэсэн. Түүний Грек хувилбар нь хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Hermes",
+          "mn": "Хермес"
+        },
+        {
+          "en": "Zeus",
+          "mn": "Зевс"
+        },
+        {
+          "en": "Ares",
+          "mn": "Арес"
+        },
+        {
+          "en": "Apollo",
+          "mn": "Аполлон"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Hermes is the Greek messenger god of commerce and travel, known for his winged sandals. The Romans renamed him Mercury.",
+        "mn": "Хермес бол жигүүрт шаахайгаараа алдартай Грекийн худалдаа, аялагчдын элч бурхан юм. Ромчууд түүнийг Меркури гэж нэрлэжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.festivals-of-the-gods",
+      "key": "gods.festivals-of-the-gods.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which Greek god was honored by the ancient Olympic Games?",
+        "mn": "Эртний Олимпын наадмыг Грекийн ямар бурханд зориулан зохион байгуулдаг байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Apollo",
+          "mn": "Аполлон"
+        },
+        {
+          "en": "Poseidon",
+          "mn": "Посейдон"
+        },
+        {
+          "en": "Zeus",
+          "mn": "Зевс"
+        },
+        {
+          "en": "Ares",
+          "mn": "Арес"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The ancient Olympic Games were held in Olympia every four years to honor Zeus, the king of the gods. During the games, a sacred truce was declared across Greece to ensure safe travel for all participants.",
+        "mn": "Эртний Олимпын наадмыг дөрвөн жил тутамд Олимпиа хотод, тэнгэрийн хаан Зевс бурханд зориулан зохион байгуулдаг байв. Наадмын үеэр тамирчдын аюулгүй байдлыг хангах үүднээс Грек даяар дайныг зогсоож, ариун эвлэрэл зарладаг байжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.festivals-of-the-gods",
+      "key": "gods.festivals-of-the-gods.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which god was celebrated at the City Dionysia festival in Athens, where theatrical tragedy and comedy were born?",
+        "mn": "Афины 'Хотын Дионисиа' баяраар ямар бурхныг хүндэтгэн магтдаг байсан бөгөөд энэ үеэр эмгэнэлт болон инээдмийн жүжгийн урлаг үүссэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Dionysus",
+          "mn": "Дионис"
+        },
+        {
+          "en": "Hermes",
+          "mn": "Хермес"
+        },
+        {
+          "en": "Hephaestus",
+          "mn": "Гефест"
+        },
+        {
+          "en": "Hades",
+          "mn": "Хадес"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The City Dionysia honored Dionysus, the god of wine, theater, and ecstasy. Playwrights competed to have their tragedies and comedies performed before thousands of citizens.",
+        "mn": "Хотын Дионисиа баярыг дарс, театр, баяр цэнгэлийн бурхан Дионист зориулдаг байв. Энэхүү баяраар жүжгийн зохиолчид өөрсдийн эмгэнэлт болон инээдмийн бүтээлээрээ мянга мянган үзэгчдийн өмнө өрсөлддөг байжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.festivals-of-the-gods",
+      "key": "gods.festivals-of-the-gods.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "During which Roman winter festival did masters and enslaved people temporarily swap social roles?",
+        "mn": "Ромын өвлийн ямар баярын үеэр эзэд болон боолууд нийгмийн үүрэг, байр сууриа түр хугацаанд сольдог байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Vulcanalia",
+          "mn": "Вулканалиа"
+        },
+        {
+          "en": "Saturnalia",
+          "mn": "Сатурналиа"
+        },
+        {
+          "en": "Liberalia",
+          "mn": "Либералиа"
+        },
+        {
+          "en": "Lupercalia",
+          "mn": "Луперкалиа"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Saturnalia, honoring the god Saturn, featured role reversals where masters served meals to their slaves. It was a time of widespread feasting, gambling, and gift-giving.",
+        "mn": "Сатурн бурханд зориулсан Сатурналиа баярын үеэр эзэд нь боолууддаа хоол унд барин үйлчилж, нийгмийн хэв журмыг түр өөрчилдөг байв. Энэ үеэр хүмүүс бие биедээ бэлэг өгч, найрлан цэнгэдэг байжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.festivals-of-the-gods",
+      "key": "gods.festivals-of-the-gods.g4",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In 186 BC, the Roman Senate severely restricted which wild, secretive festival associated with the god of wine?",
+        "mn": "НТӨ 186 онд Ромын Сенат дарсны бурхантай холбоотой ямар нууцлаг, галзуу баяр наадмыг хуулиар эрс хязгаарласан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Consualia",
+          "mn": "Консуалиа"
+        },
+        {
+          "en": "Matralia",
+          "mn": "Матралиа"
+        },
+        {
+          "en": "Floralia",
+          "mn": "Флоралиа"
+        },
+        {
+          "en": "Bacchanalia",
+          "mn": "Бакханалиа"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Roman Senate restricted the Bacchanalia because they feared the secretive, ecstatic night rituals were breeding political conspiracies and moral decay.",
+        "mn": "Ромын Сенат Бакханалиа баярыг хуулиар хязгаарласан бөгөөд үүний шалтгаан нь шөнийн нууцлаг, замбараагүй зан үйлүүд нь улс төрийн хуйвалдаан, ёс суртахууны доройтолд хүргэж байна гэж эмээсэнтэй холбоотой байв."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.the-primordial-forces",
+      "key": "gods.the-primordial-forces.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In Greek mythology, who is considered the personification of Earth and the mother of all creation?",
+        "mn": "Грекийн домог зүйд хэнийг Дэлхий ертөнцийн биелэл, бүх бүтээлийн эх гэж үздэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Gaia",
+          "mn": "Гея"
+        },
+        {
+          "en": "Hera",
+          "mn": "Гера"
+        },
+        {
+          "en": "Athena",
+          "mn": "Афина"
+        },
+        {
+          "en": "Aphrodite",
+          "mn": "Афродита"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Gaia is the primordial goddess of the Earth, who emerged from Chaos. She is the mother of the Titans, the Cyclopes, and the Giants.",
+        "mn": "Гея бол Хаосоос үүссэн дэлхий ертөнцийн анхдагч дахин шүтээн юм. Тэрээр Титанчууд, Циклопууд болон Аварга биетнүүдийн эх билээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.the-primordial-forces",
+      "key": "gods.the-primordial-forces.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which primordial deity represents the starry sky and was the husband of Gaia?",
+        "mn": "Одот тэнгэрийг биелүүлдэг, Геягийн нөхөр байсан анхдагч бурхан хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Zeus",
+          "mn": "Зевс"
+        },
+        {
+          "en": "Ouranos",
+          "mn": "Уран"
+        },
+        {
+          "en": "Cronus",
+          "mn": "Кронос"
+        },
+        {
+          "en": "Helios",
+          "mn": "Гелиос"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Ouranos (or Uranus) was the personification of the sky. He ruled the cosmos until he was overthrown by his son, the Titan Cronus.",
+        "mn": "Уран нь тэнгэрийн амьд биелэл байв. Тэрээр өөрийн хүү, Титан Кроност суудлаасаа түлхэгдэн унах хүртэл орчлон ертөнцийг захирч байжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.the-primordial-forces",
+      "key": "gods.the-primordial-forces.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of these primordial deities was so powerful and mysterious that even Zeus feared her?",
+        "mn": "Эдгээр анхдагч бурхдын хэнээс нь хүчирхэг Зевс бурхан хүртэл эмээдэг байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Demeter",
+          "mn": "Деметра"
+        },
+        {
+          "en": "Hemera",
+          "mn": "Хемера"
+        },
+        {
+          "en": "Nyx",
+          "mn": "Никс"
+        },
+        {
+          "en": "Artemis",
+          "mn": "Артемис"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Nyx, the personification of Night, possessed immense power. Even Zeus, the king of the Olympian gods, avoided angering her due to her ancient strength.",
+        "mn": "Шөнийн биелэл болсон Никс бурхан асар их хүч чадалтай байв. Олимпын бурхдын хаан Зевс хүртэл түүний эртний агуу хүчнээс эмээж, уурлуулахаас зайлсхийдэг байжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.the-primordial-forces",
+      "key": "gods.the-primordial-forces.g4",
+      "difficulty": 3,
+      "prompt": {
+        "en": "According to Hesiod's Theogony, which of the following is NOT one of the very first entities to emerge after Chaos?",
+        "mn": "Гесиодын 'Теогони' туульд бичсэнээр, дараах хувилбаруудын аль нь Хаосын дараа хамгийн түрүүнд үүссэн анхдагч хүчнүүдийн нэг БИШ вэ?"
+      },
+      "choices": [
+        {
+          "en": "Poseidon",
+          "mn": "Посейдон"
+        },
+        {
+          "en": "Gaia",
+          "mn": "Гея"
+        },
+        {
+          "en": "Tartarus",
+          "mn": "Тартар"
+        },
+        {
+          "en": "Eros",
+          "mn": "Эрос"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Poseidon is a later Olympian deity, the son of Cronus and Rhea. Gaia, Tartarus, and Eros emerged directly after Chaos as primordial forces.",
+        "mn": "Посейдон бол Кронос болон Рея нарын хүү бөгөөд хожмын Олимпын бурхан юм. Харин Гея, Тартар, Эрос нар нь Хаосын дараа шууд үүссэн анхдагч хүчнүүд билээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.the-primordial-forces",
+      "key": "gods.the-primordial-forces.g5",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Where did the primordial goddess Nyx reside, bringing darkness to the world from its depths?",
+        "mn": "Шөнийн бурхан Никс хаана амьдарч, тэндээс дэлхий ертөнцөд харанхуйг авчирдаг байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Mount Olympus",
+          "mn": "Олимп уул"
+        },
+        {
+          "en": "The depths of Tartarus",
+          "mn": "Тартарын гүн"
+        },
+        {
+          "en": "Mount Othrys",
+          "mn": "Отрис уул"
+        },
+        {
+          "en": "The Elysian Fields",
+          "mn": "Элисийн талбай"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Nyx lived in the deep abyss of Tartarus. From this dark underworld, she would wrap the earth in her shadowy mantle each night.",
+        "mn": "Никс Тартарын гүн харанхуй ангалд амьдардаг байв. Тэрээр шөнө бүр энэхүү доод ертөнцөөс гарч, дэлхийг харанхуй нөмрөгөөрөө бүрхдэг байжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.the-primordial-forces",
+      "key": "gods.the-primordial-forces.g6",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What did the word 'Chaos' originally mean in ancient Greek mythology before it came to mean 'confusion'?",
+        "mn": "Эртний Грекийн домог зүйд 'Хаос' гэдэг үг 'замбараагүй байдал' гэсэн утгатай болохоосоо өмнө анх ямар утгатай байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "A vast, empty void",
+          "mn": "Асар том, хоосон орон зай"
+        },
+        {
+          "en": "A fiery explosion",
+          "mn": "Галт дэлбэрэлт"
+        },
+        {
+          "en": "A stormy ocean",
+          "mn": "Шуургат далай"
+        },
+        {
+          "en": "A golden age",
+          "mn": "Алтан үе"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "In ancient Greek, 'Chaos' meant a vast, dark chasm or void. It was the empty starting point from which all matter and gods emerged.",
+        "mn": "Эртний грек хэлэнд 'Хаос' гэдэг нь асар том, харанхуй ангал буюу хоосон орон зайг илэрхийлдэг байв. Энэ нь бүх бодис, бурхад үүсэн гарсан эхлэл цэг байжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.the-primordial-forces",
+      "key": "gods.the-primordial-forces.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Who was the primordial deity of the sea, born from Gaia without a father, representing the liquid element?",
+        "mn": "Геягаас эцэггүйгээр төрсөн, далай тэнгисийн анхдагч бурхан хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Pontus",
+          "mn": "Понт"
+        },
+        {
+          "en": "Poseidon",
+          "mn": "Посейдон"
+        },
+        {
+          "en": "Triton",
+          "mn": "Тритон"
+        },
+        {
+          "en": "Oceanus",
+          "mn": "Океан"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Pontus was the ancient, pre-Olympian personification of the sea, born from Gaia alone. Oceanus, on the other hand, was a Titan son of Gaia and Ouranos.",
+        "mn": "Понт бол Геягаас ганцаараа төрсөн, Олимпын бурхдаас өмнөх үеийн далайн биелэл юм. Харин Океан нь Гея болон Уран нарын хүү болох Титан байв."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.the-primordial-forces",
+      "key": "gods.the-primordial-forces.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which group of giant, one-eyed beings was born to Gaia and Ouranos, only to be imprisoned by their father?",
+        "mn": "Гея болон Уран нараас төрсөн боловч эцэгтээ хоригдсон, ганц нүдтэй аварга биетнүүдийг юу гэж нэрлэдэг байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "The Cyclopes",
+          "mn": "Циклопууд"
+        },
+        {
+          "en": "The Gorgons",
+          "mn": "Горгонууд"
+        },
+        {
+          "en": "The Sirens",
+          "mn": "Сиренүүд"
+        },
+        {
+          "en": "The Centaurs",
+          "mn": "Кентаврууд"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Cyclopes were three giant brothers with a single eye in the middle of their foreheads. Ouranos feared their strength and locked them away in Tartarus.",
+        "mn": "Циклопууд нь духандаа ганц нүдтэй, аварга биетэй гурван ах дүүс байв. Уран тэдний хүч чадлаас айж, Тартарын гүнд хорьжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.the-primordial-forces",
+      "key": "gods.the-primordial-forces.g9",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which primordial deity, representing the dark underworld abyss, was used as a prison for the defeated Titans?",
+        "mn": "Ялагдсан Титанчуудыг хорих шорон болгон ашигласан, доод ертөнцийн харанхуй ангалыг илэрхийлдэг анхдагч бурхан хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Tartarus",
+          "mn": "Тартар"
+        },
+        {
+          "en": "Hades",
+          "mn": "Хадес"
+        },
+        {
+          "en": "Charon",
+          "mn": "Харон"
+        },
+        {
+          "en": "Erebus",
+          "mn": "Эреб"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Tartarus is both a primordial deity and the deepest abyss of the underworld. Zeus imprisoned the Titans there after the Titanomachy war.",
+        "mn": "Тартар бол анхдагч бурхан бөгөөд доод ертөнцийн хамгийн гүн ангал газар юм. Зевс Титанчуудын эсрэг дайнд ялсныхаа дараа тэднийг энд хорьжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.the-primordial-forces",
+      "key": "gods.the-primordial-forces.g10",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which generation of deities, including Cronus and Rhea, did the primordial gods Gaia and Ouranos give birth to?",
+        "mn": "Анхдагч бурхад болох Гея болон Уран нараас Кронос, Рея нарыг багтаасан бурхдын аль үеийнхэн төрсөн бэ?"
+      },
+      "choices": [
+        {
+          "en": "The Titans",
+          "mn": "Титанчууд"
+        },
+        {
+          "en": "The Olympians",
+          "mn": "Олимпын бурхад"
+        },
+        {
+          "en": "The Demigods",
+          "mn": "Хагас бурхад"
+        },
+        {
+          "en": "The Nymphs",
+          "mn": "Нимфүүд"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Gaia and Ouranos were the parents of the twelve original Titans. The Titans ruled the cosmos before being overthrown by the Olympian gods.",
+        "mn": "Гея болон Уран нар нь анхны арван хоёр Титаны эцэг эх байв. Титанчууд Олимпын бурхдад ялагдахаасаа өмнө орчлон ертөнцийг захирч байжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.the-oracles-and-prophecy",
+      "key": "gods.the-oracles-and-prophecy.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "To which Greek god was the famous Oracle of Delphi dedicated?",
+        "mn": "Дельфийн алдарт зөнч ямар Грек бурханд зориулагдсан байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Apollo",
+          "mn": "Аполлон"
+        },
+        {
+          "en": "Zeus",
+          "mn": "Зевс"
+        },
+        {
+          "en": "Poseidon",
+          "mn": "Посейдон"
+        },
+        {
+          "en": "Ares",
+          "mn": "Арес"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Oracle of Delphi was dedicated to Apollo, the god of music, truth, and prophecy. It was believed that Apollo spoke through his high priestess, the Pythia.",
+        "mn": "Дельфийн зөнч нь хөгжим, үнэн болон зөгнөлийн бурхан Аполлонд зориулагдсан байв. Аполлон бурхан өөрийн ахлах тахилч Питиагаар дамжуулан үгээ хэлдэг гэж итгэдэг байжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.the-oracles-and-prophecy",
+      "key": "gods.the-oracles-and-prophecy.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What was the title of the high priestess who delivered the prophecies at Delphi?",
+        "mn": "Дельфид зөгнөл дамжуулдаг байсан ахлах тахилч эмэгтэйг хэн гэж нэрлэдэг байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Pythia",
+          "mn": "Питиа"
+        },
+        {
+          "en": "Sibyl",
+          "mn": "Сибил"
+        },
+        {
+          "en": "Vestal",
+          "mn": "Вестал"
+        },
+        {
+          "en": "Athena",
+          "mn": "Афина"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The high priestess at Delphi was known as the Pythia. She was named after Python, the giant serpent that Apollo famously slew at the site.",
+        "mn": "Дельфийн ахлах тахилчийг Питиа гэдэг байв. Энэ нэр нь Аполлон бурхны тус газарт алж устгасан Питон хэмээх аварга могойн нэрнээс үүдэлтэй ажээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.the-oracles-and-prophecy",
+      "key": "gods.the-oracles-and-prophecy.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The Roman practice of 'augury' involved interpreting signs from which of the following?",
+        "mn": "Ромын 'аугури' зан үйлд дараах зүйлсийн алинаас ирэх тэмдгийг тайлбарладаг байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Thunderbolts",
+          "mn": "Аянга цахилгаан"
+        },
+        {
+          "en": "The flight of birds",
+          "mn": "Шувуудын нислэг"
+        },
+        {
+          "en": "Volcanic smoke",
+          "mn": "Галт уулын утаа"
+        },
+        {
+          "en": "Ocean waves",
+          "mn": "Далайн давалгаа"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Augury was the practice of interpreting the will of the gods by observing the flight, songs, and feeding habits of birds. Roman public officials rarely made major decisions without consulting an augur.",
+        "mn": "Аугури нь шувуудын нислэг, дуу чимээ, хооллох хөдөлгөөнөөр бурхдын хүсэл зоригийг тайлах зан үйл байв. Ромын түшмэд аугурын зөвлөгөөгүйгээр чухал шийдвэр гаргадаггүй байжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.the-oracles-and-prophecy",
+      "key": "gods.the-oracles-and-prophecy.g4",
+      "difficulty": 3,
+      "prompt": {
+        "en": "From which ancient Italian civilization did the Romans adopt 'haruspicy' (reading animal entrails)?",
+        "mn": "Ромчууд амьтны дотор эрхтэн шинжих 'харуспици' зан үйлийг Италийн аль эртний соёл иргэншлээс уламжлан авсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Carthaginians",
+          "mn": "Картагенчууд"
+        },
+        {
+          "en": "Greeks",
+          "mn": "Грекчүүд"
+        },
+        {
+          "en": "Etruscans",
+          "mn": "Этрускчууд"
+        },
+        {
+          "en": "Samnites",
+          "mn": "Самнитчууд"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Romans learned haruspicy from the Etruscans, their northern neighbors. Haruspices specialized in examining the livers of sacrificed sheep to determine divine favor.",
+        "mn": "Ромчууд харуспицийг өөрсдийн хойд хөрш болох Этрускчуудаас сурчээ. Харуспис буюу шинжээчид тахилын хонины элгийг шинжиж, бурхдын таалал оршиж буй эсэхийг тодорхойлдог байв."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.the-oracles-and-prophecy",
+      "key": "gods.the-oracles-and-prophecy.g5",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Where were the sacred Sibylline Books kept in ancient Rome?",
+        "mn": "Эртний Ромд ариун Сибиллийн ном судруудыг хаана хадгалдаг байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "The Colosseum",
+          "mn": "Колизейд"
+        },
+        {
+          "en": "The Roman Senate",
+          "mn": "Ромын Сенатад"
+        },
+        {
+          "en": "The Temple of Jupiter",
+          "mn": "Юпитерийн сүмд"
+        },
+        {
+          "en": "The Pantheon",
+          "mn": "Пантеонд"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Sibylline Books were stored in the Temple of Jupiter Optimus Maximus on the Capitoline Hill. They were consulted only during times of extreme state crisis.",
+        "mn": "Сибиллийн ном судруудыг Капитолын толгод дээрх Юпитер бурхны сүмд хадгалдаг байв. Тэдгээрийг зөвхөн улс оронд маш хүнд хямрал нүүрлэсэн үед л уншдаг байжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.the-oracles-and-prophecy",
+      "key": "gods.the-oracles-and-prophecy.g6",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which famous Greek city-state housed the most celebrated oracle of the ancient world?",
+        "mn": "Эртний дэлхийн хамгийн алдартай зөнч Грекийн аль хотод байрладаг байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Delphi",
+          "mn": "Дельфи"
+        },
+        {
+          "en": "Sparta",
+          "mn": "Спарта"
+        },
+        {
+          "en": "Olympia",
+          "mn": "Олимп"
+        },
+        {
+          "en": "Athens",
+          "mn": "Афин"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Delphi was considered the 'omphalos' (navel) or center of the world by ancient Greeks. It attracted travelers and kings from across the Mediterranean seeking advice.",
+        "mn": "Эртний Грекчүүд Дельфийг дэлхийн төв цэг буюу 'хүй' гэж үздэг байв. Газар дундын тэнгисийн өнцөг булан бүрээс хаад, аялагчид зөвлөгөө авахаар энд ирдэг байжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.the-oracles-and-prophecy",
+      "key": "gods.the-oracles-and-prophecy.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "According to legend, King Croesus of Lydia destroyed his own empire because he misunderstood a prophecy from which oracle?",
+        "mn": "Домгоор бол Лидийн хаан Крез аль зөнчийн хэлсэн үгийг буруу ойлгосноос болж өөрийн эзэнт гүрнийг мөхөөсөн бэ?"
+      },
+      "choices": [
+        {
+          "en": "The Oracle of Dodona",
+          "mn": "Додонагийн зөнч"
+        },
+        {
+          "en": "The Oracle of Siwa",
+          "mn": "Сивагийн зөнч"
+        },
+        {
+          "en": "The Oracle of Didyma",
+          "mn": "Дидимагийн зөнч"
+        },
+        {
+          "en": "The Oracle of Delphi",
+          "mn": "Дельфийн зөнч"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Oracle of Delphi told Croesus that if he crossed the river Halys, a great empire would fall. Croesus marched to war, not realizing the empire destined to fall was his own.",
+        "mn": "Дельфийн зөнч Крез хаанд Галис мөрнийг гаталбал агуу эзэнт гүрэн мөхөх болно гэж хэлжээ. Крез дайнд мордсон боловч мөхөх хувьтай тэрхүү агуу гүрэн нь түүний өөрийнх нь улс байсныг мэдсэнгүй."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.the-oracles-and-prophecy",
+      "key": "gods.the-oracles-and-prophecy.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What natural phenomenon is believed to have helped the Pythia enter her prophetic trances?",
+        "mn": "Питиаг зөгнөлийн ухаан алдалтын байдалд ороход ямар байгалийн үзэгдэл нөлөөлсөн гэж үздэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Extreme desert heat",
+          "mn": "Цөлийн туйлдам халуун"
+        },
+        {
+          "en": "Total solar eclipses",
+          "mn": "Нарны бүтэн хиртэлт"
+        },
+        {
+          "en": "Drinking sea water",
+          "mn": "Далайн ус уух"
+        },
+        {
+          "en": "Volcanic gases from a fissure",
+          "mn": "Хагархайгаас гарах галт уулын хий"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Geologists have found that the temple at Delphi sat atop intersecting fault lines, which likely released ethylene or other hydrocarbon gases that induced light anesthesia and trance states.",
+        "mn": "Геологичид Дельфийн сүм нь тектоник хагарлын огтлолцол дээр байрладаг байсныг тогтоожээ. Тэндээс ялгардаг байсан этилен зэрэг хий нь хүнийг мансууруулах байдалд оруулдаг байсан байх магадлалтай."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.the-oracles-and-prophecy",
+      "key": "gods.the-oracles-and-prophecy.g9",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of the following was NOT a common method of divination in the ancient Greco-Roman world?",
+        "mn": "Дараах аргуудын аль нь эртний Грек-Ромын ертөнцөд түгээмэл хэрэглэгддэггүй байсан зөгнөлийн арга вэ?"
+      },
+      "choices": [
+        {
+          "en": "Observing bird flights",
+          "mn": "Шувуудын нислэг ажиглах"
+        },
+        {
+          "en": "Interpreting dreams",
+          "mn": "Зүүд тайлах"
+        },
+        {
+          "en": "Reading tea leaves",
+          "mn": "Цайны навч шинжих"
+        },
+        {
+          "en": "Examining animal livers",
+          "mn": "Амьтны элэг шинжих"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Reading tea leaves (tasseography) was not practiced in ancient Greece or Rome, as tea was not introduced to the Mediterranean region until much later in history.",
+        "mn": "Цайны навч шинжих (тассеографи) зан үйл эртний Грек, Ромд байгаагүй. Учир нь тэр үед Газар дундын тэнгисийн бүс нутагт цай хараахан дэлгэрээгүй байсан юм."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.the-oracles-and-prophecy",
+      "key": "gods.the-oracles-and-prophecy.g10",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What was the name of the famous oracle in Egypt that Alexander the Great visited to confirm his divine parentage?",
+        "mn": "Агуу Александр өөрийгөө бурхны хүү гэдгийг батлуулахаар Египетэд очсон алдарт зөнчийг хэн гэдэг байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "The Oracle of Ammon at Siwa",
+          "mn": "Сива дахь Аммоны зөнч"
+        },
+        {
+          "en": "The Oracle of Delphi",
+          "mn": "Дельфийн зөнч"
+        },
+        {
+          "en": "The Oracle of Didyma",
+          "mn": "Дидимагийн зөнч"
+        },
+        {
+          "en": "The Oracle of Dodona",
+          "mn": "Додонагийн зөнч"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Alexander the Great made a dangerous trek through the desert to the Oracle of Ammon at the Siwa Oasis. The oracle confirmed him as the son of Zeus-Ammon, boosting his divine status.",
+        "mn": "Агуу Александр цөл дундуур аюултай аялал хийж, Сива баянбүрд дэх Аммоны зөнчид очжээ. Зөнч түүнийг Зевс-Аммон бурхны хүү хэмээн баталж, түүний нэр хүндийг улам өсгөсөн байна."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.gods-of-the-hearth-and-home",
+      "key": "gods.gods-of-the-hearth-and-home.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In Roman mythology, who is the goddess of the hearth, equivalent to the Greek goddess Hestia?",
+        "mn": "Ромын домог зүйд Грекийн Гестиа бурхантай дүйцэх гал голомтын даяанч бурхан хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Vesta",
+          "mn": "Веста"
+        },
+        {
+          "en": "Diana",
+          "mn": "Диана"
+        },
+        {
+          "en": "Juno",
+          "mn": "Юнона"
+        },
+        {
+          "en": "Minerva",
+          "mn": "Минерва"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Vesta is the Roman goddess of the hearth. Her priestesses, the Vestal Virgins, guarded her sacred fire in Rome, which was never allowed to go out.",
+        "mn": "Веста бол Ромын гал голомтын бурхан юм. Түүний тахилч охид болох Весталчууд Ром дахь ариун галыг хэзээ ч унтраалгүй хамгаалдаг байжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.gods-of-the-hearth-and-home",
+      "key": "gods.gods-of-the-hearth-and-home.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which unique physical feature did the Roman god Janus possess to watch both entrances and exits?",
+        "mn": "Ромын бурхан Янус орж, гарч буй хүмүүсийг зэрэг хянахын тулд ямар ер бусын биеийн онцлогтой байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "A single giant eye",
+          "mn": "Ганц том нүдтэй"
+        },
+        {
+          "en": "Two faces looking opposite ways",
+          "mn": "Эсрэг тал руу харсан хоёр нүүртэй"
+        },
+        {
+          "en": "Wings on his feet",
+          "mn": "Хөлдөө далавчтай"
+        },
+        {
+          "en": "Four arms",
+          "mn": "Дөрвөн гартай"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Janus is depicted with two faces, one looking to the past and the other to the future. This allowed him to guard doorways and represent transitions.",
+        "mn": "Янусыг нэг нь өнгөрсөн рүү, нөгөө нь ирээдүй рүү харсан хоёр нүүртэйгээр дүрсэлдэг. Энэ нь түүнд үүд хаалгыг хамгаалж, шилжилтийг илэрхийлэх боломжийг олгодог байв."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.gods-of-the-hearth-and-home",
+      "key": "gods.gods-of-the-hearth-and-home.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What was the name of the household shrine where Romans worshipped their guardian spirits, the Lares?",
+        "mn": "Ромчууд өөрсдийн гэр бүлийг хамгаалагч Ларууд сүнсийг тахин шүтдэг байсан гэрийн шүтээнийг юу гэж нэрлэдэг байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Lararium",
+          "mn": "Ларариум"
+        },
+        {
+          "en": "Pantheon",
+          "mn": "Пантеон"
+        },
+        {
+          "en": "Basilica",
+          "mn": "Базилика"
+        },
+        {
+          "en": "Atrium",
+          "mn": "Атриум"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The lararium was a sacred shrine found in Roman homes. Families offered food, wine, and incense to the Lares here to ensure prosperity.",
+        "mn": "Ларариум нь Ромын айл өрхүүдэд байдаг ариун шүтээн байв. Гэр бүлүүд энд Ларууд сүнсэнд хоол, дарс, хүж өргөж, сайн сайхныг даатгадаг байжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.gods-of-the-hearth-and-home",
+      "key": "gods.gods-of-the-hearth-and-home.g4",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which Roman household gods were originally worshipped as protectors of the pantry and food stores?",
+        "mn": "Анх хүнсний агуулах, зоорийг хамгаалагч бурхад хэмээн тахигддаг байсан Ромын гэр бүлийн бурхад хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Graces",
+          "mn": "Грациуд"
+        },
+        {
+          "en": "Muses",
+          "mn": "Музанууд"
+        },
+        {
+          "en": "Furies",
+          "mn": "Фуринууд"
+        },
+        {
+          "en": "Penates",
+          "mn": "Пенатууд"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Penates were closely associated with the Lares but specifically guarded the household's provisions and inner pantry (penus).",
+        "mn": "Пенатууд нь Ларуудтай нягт холбоотой байсан бөгөөд ялангуяа гэр бүлийн хүнсний нөөц, дотоод зоорийг (penus) хамгаалдаг байжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.gods-of-the-hearth-and-home",
+      "key": "gods.gods-of-the-hearth-and-home.g5",
+      "difficulty": 1,
+      "prompt": {
+        "en": "According to Greek myth, which goddess's grief over her daughter Persephone caused the first winter?",
+        "mn": "Грекийн домогт өгүүлснээр, охин Персефоноо алдсан аль бурхны уй гашуугаас болж анхны өвөл цаг бий болсон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Demeter",
+          "mn": "Деметр"
+        },
+        {
+          "en": "Hera",
+          "mn": "Гера"
+        },
+        {
+          "en": "Aphrodite",
+          "mn": "Афродита"
+        },
+        {
+          "en": "Athena",
+          "mn": "Афина"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Demeter, the goddess of agriculture, stopped all crops from growing when Hades abducted her daughter. This myth explained the cycle of the seasons.",
+        "mn": "Аид охиныг нь хулгайлах үед газар тариалангийн бурхан Деметр газар дэлхийг үржил шимгүй болгосон байна. Энэхүү домог нь жилийн дөрвөн улирлын эргэлтийг тайлбарладаг."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.gods-of-the-hearth-and-home",
+      "key": "gods.gods-of-the-hearth-and-home.g6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which month of our modern calendar is named after the Roman god of doors, beginnings, and endings?",
+        "mn": "Манай орчин үеийн цаг тооны бичгийн аль сар нь үүд хаалга, эхлэл, төгсгөлийн Ромын бурхны нэрээр нэрлэгдсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "August",
+          "mn": "8-р сар (Август)"
+        },
+        {
+          "en": "January",
+          "mn": "1-р сар (Январь)"
+        },
+        {
+          "en": "March",
+          "mn": "3-р сар (Март)"
+        },
+        {
+          "en": "June",
+          "mn": "6-р сар (Июнь)"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "January is named after Janus, the god of beginnings. As the first month, it looks back at the old year and forward to the new one.",
+        "mn": "1-р сар буюу Январь нь эхлэлийн бурхан Янусын нэрээр нэрлэгдсэн. Шинэ оны эхний сар учраас өнгөрсөн рүү болон ирээдүй рүү зэрэг хардаг гэсэн утгатай."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.gods-of-the-hearth-and-home",
+      "key": "gods.gods-of-the-hearth-and-home.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "What did Hestia, goddess of the hearth, famously do to avoid conflicts among the gods?",
+        "mn": "Гал голомтын бурхан Гестиа бурхдын хоорондох зөрчилдөөнөөс зайлсхийхийн тулд ямар алдартай шийдвэр гаргасан бэ?"
+      },
+      "choices": [
+        {
+          "en": "She became the queen of the Underworld",
+          "mn": "Тэрээр Тамын орны хатан хаан болсон"
+        },
+        {
+          "en": "She gave her throne to Poseidon",
+          "mn": "Посейдонд өөрийн сэнтийг шилжүүлсэн"
+        },
+        {
+          "en": "She left Mount Olympus to live on Earth",
+          "mn": "Олимп уулыг орхиж дэлхий дээр амьдарсан"
+        },
+        {
+          "en": "She swore to remain a virgin forever",
+          "mn": "Үүрд онгон дагшин байхаар тангарагласан"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "To prevent conflict between suitors Apollo and Poseidon, Hestia swore an oath of eternal virginity to Zeus, who granted her the central place in the home.",
+        "mn": "Түүнийг эхнэрээ болгохыг хүссэн Аполлон, Посейдон нарын зөрчлөөс сэргийлж, Гестиа Зевст үүрд онгон байх тангараг өргөсөн тул Зевс түүнд гэр орны төв голомтыг хариуцуулжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.gods-of-the-hearth-and-home",
+      "key": "gods.gods-of-the-hearth-and-home.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In Greek custom, what was always done with the first and last portions of wine and food at a banquet?",
+        "mn": "Грекийн зан заншилд найр хуримын хоол, дарсны анхны болон эцсийн дээжийг үргэлж хэнд зориулдаг байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "They were buried in the garden",
+          "mn": "Цэцэрлэгт булдаг байв"
+        },
+        {
+          "en": "They were thrown into the sea",
+          "mn": "Далай руу шиддэг байв"
+        },
+        {
+          "en": "They were given to the poorest guest",
+          "mn": "Хамгийн ядуу зочинд өгдөг байв"
+        },
+        {
+          "en": "They were offered to Hestia",
+          "mn": "Гестиа бурханд өргөдөг байв"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "As goddess of the hearth, Hestia received the first and last libations of wine and the first share of food at every communal feast.",
+        "mn": "Гал голомтын бурхан учраас Гестиа найр бүрийн дарсны дээж, хоолны анхны хувийг хүртдэг уламжлалтай байжээ."
+      }
+    },
+    {
+      "topicSlug": "gods",
+      "lessonKey": "gods.gods-of-the-hearth-and-home",
+      "key": "gods.gods-of-the-hearth-and-home.g9",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of these Roman deities was considered the god of the threshold or sill, working alongside Janus?",
+        "mn": "Янустай хамт босго, хаалганы хэсгийг хамгаалдаг байсан Ромын бурхан хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Terminus",
+          "mn": "Терминус"
+        },
+        {
+          "en": "Portunus",
+          "mn": "Портунус"
+        },
+        {
+          "en": "Sylvanus",
+          "mn": "Сильванус"
+        },
+        {
+          "en": "Limentinus",
+          "mn": "Лиментинус"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Limentinus was the Roman god of the threshold (limen), while Cardea ruled the hinges, and Forculus ruled the door leaves, showing how specifically Romans deified the home.",
+        "mn": "Лиментинус нь босгоны (limen) бурхан байсан бөгөөд Ромчууд хаалганы нугас, хаалганы хавтас бүрийг хүртэл тусгай бурхад хамгаалдаг гэж үздэг байв."
+      }
+    }
+  ]
+}

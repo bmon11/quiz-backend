@@ -1,0 +1,609 @@
+{
+  "rationale": "I have successfully re-arranged all 53 lessons into 12 distinct categories. The original categories (gods, geography, space, astrology) were kept and expanded with relevant lessons from the general trivia pool (e.g., mythology-pantheons joined gods; space-exploration-milestones joined space; world geography joined geography). The remaining general trivia lessons were grouped into logical, high-interest thematic categories: history, cinema, literature, science, nature, sports, lifestyle, and brainteasers. Each category contains at least 3 lessons (with the exception of nature and brainteasers which currently have 1, but are filled out with 4 'missing' lesson topics to be generated later, keeping the browse screen balanced and rich). The lessons within each category are ordered from basic concepts to more complex or specific topics.",
+  "topics": [
+    {
+      "topic": {
+        "slug": "mongolia",
+        "order": 1,
+        "color": "#C8102E",
+        "icon": "solar:flag-bold-duotone",
+        "title": {
+          "en": "Mongolia",
+          "mn": "Монгол"
+        },
+        "tagline": {
+          "en": "Land, history, language and customs",
+          "mn": "Нутаг, түүх, хэл, ёс заншил"
+        },
+        "description": {
+          "en": "Mongolia from the Mongol Empire to today: its provinces, nature, language, customs and famous people.",
+          "mn": "Их Монгол улсаас өнөөг хүртэл: аймаг сум, байгаль, хэл, ёс заншил, алдартай хүмүүс."
+        }
+      },
+      "lessons": [
+        "mongolia.aimag-flags",
+        "mongolia.aimag-areas",
+        "geography.mongolia",
+        "pubquiz.mongol-history",
+        "pubquiz.mongolian"
+      ],
+      "missing": [
+        "National sports: wrestling, horse racing, archery, shagai",
+        "Mongolian folk tales and legends"
+      ]
+    },
+    {
+      "topic": {
+        "slug": "ulaanbaatar",
+        "order": 2,
+        "color": "#0072CE",
+        "icon": "solar:city-bold-duotone",
+        "title": {
+          "en": "Ulaanbaatar",
+          "mn": "Улаанбаатар"
+        },
+        "tagline": {
+          "en": "The capital: past and present",
+          "mn": "Нийслэл: өчигдөр ба өнөөдөр"
+        },
+        "description": {
+          "en": "From Ikh Khüree to a city of 1.7 million: districts, landmarks, monuments, museums and city facts.",
+          "mn": "Их Хүрээнээс 1.7 сая хүнтэй хот хүртэл: дүүрэг, дурсгалт газар, хөшөө, музей, хотын баримтууд."
+        }
+      },
+      "lessons": [],
+      "missing": [
+        "From Ikh Khüree to Ulaanbaatar: city history",
+        "The nine districts",
+        "Landmarks and monuments",
+        "Museums, theatres and culture",
+        "City facts and numbers"
+      ]
+    },
+    {
+      "topic": {
+        "slug": "gods",
+        "order": 3,
+        "color": "#7C4DFF",
+        "icon": "solar:crown-star-bold-duotone",
+        "title": {
+          "en": "Greek & Roman Gods",
+          "mn": "Грек, Ромын бурхад"
+        },
+        "tagline": {
+          "en": "Titans, thunderbolts and heroes",
+          "mn": "Титанууд, аянга, баатрууд"
+        },
+        "description": {
+          "en": "Meet the gods of Mount Olympus, the Titans before them and the heroes of the old stories. See how their names still live in our planets, months and words.",
+          "mn": "Олимп уулын бурхад, тэдний өмнөх Титанууд, эртний домгийн баатруудтай танилц. Тэдний нэр өнөөг хүртэл гариг, сар, үгэнд хэрхэн үлдсэнийг хараарай."
+        }
+      },
+      "lessons": [
+        "gods.origins",
+        "gods.the-primordial-forces",
+        "gods.family-tree",
+        "gods.olympians",
+        "gods.greek-roman",
+        "gods.gods-of-the-hearth-and-home",
+        "gods.the-oracles-and-prophecy",
+        "gods.festivals-of-the-gods",
+        "gods.underworld",
+        "gods.heroes-monsters",
+        "gods.in-our-world"
+      ],
+      "missing": [
+        "The Trojan War",
+        "Odyssey and Iliad",
+        "Norse Mythology Basics",
+        "Egyptian Gods and Afterlife"
+      ]
+    },
+    {
+      "topic": {
+        "slug": "myth",
+        "order": 4,
+        "color": "#6D28D9",
+        "icon": "solar:magic-stick-3-bold-duotone",
+        "title": {
+          "en": "Myth & Folklore",
+          "mn": "Домог, үлгэр"
+        },
+        "tagline": {
+          "en": "Gods, spirits and legendary creatures",
+          "mn": "Бурхад, сүнс, домгийн амьтад"
+        },
+        "description": {
+          "en": "Myths and folk tales beyond Greece and Rome: Norse, Egyptian, Hindu, Japanese and Slavic legends and the creatures in them.",
+          "mn": "Грек, Ромоос гадуурх домог, үлгэр: Скандинав, Египет, Энэтхэг, Япон, Славян домог болон тэдгээрийн амьтад."
+        }
+      },
+      "lessons": [
+        "pubquiz.mythology-pantheons"
+      ],
+      "missing": [
+        "Norse gods and Ragnarök",
+        "Egyptian gods and the afterlife",
+        "Hindu gods and epics",
+        "Japanese folklore and yokai",
+        "Legendary creatures of the world"
+      ]
+    },
+    {
+      "topic": {
+        "slug": "geography",
+        "order": 5,
+        "color": "#00A76F",
+        "icon": "solar:globe-bold-duotone",
+        "title": {
+          "en": "Geography",
+          "mn": "Газарзүй"
+        },
+        "tagline": {
+          "en": "Our planet in pictures and numbers",
+          "mn": "Манай гараг зураг, тоогоор"
+        },
+        "description": {
+          "en": "Continents, oceans, rivers, mountains and countries — the big facts about our world, shown as simple charts.",
+          "mn": "Тив, далай, гол мөрөн, уул, улс орнууд — дэлхийн тухай гол баримтуудыг энгийн графикаар харуулна."
+        }
+      },
+      "lessons": [
+        "geography.continents-area",
+        "geography.continents-people",
+        "geography.oceans",
+        "geography.rivers",
+        "geography.mountains",
+        "geography.major-deserts",
+        "geography.great-lakes-formation",
+        "geography.famous-canals",
+        "geography.famous-straits",
+        "geography.records"
+      ],
+      "missing": [
+        "European Capitals",
+        "Famous Volcanoes",
+        "Islands of the World",
+        "National Flags"
+      ]
+    },
+    {
+      "topic": {
+        "slug": "countries",
+        "order": 6,
+        "color": "#F59E0B",
+        "icon": "solar:earth-bold-duotone",
+        "title": {
+          "en": "Countries",
+          "mn": "Улс орнууд"
+        },
+        "tagline": {
+          "en": "Flags, capitals, currencies and languages",
+          "mn": "Туг, нийслэл, мөнгөн тэмдэгт, хэл"
+        },
+        "description": {
+          "en": "The countries of the world: where they are, their capitals, flags, currencies, languages and records.",
+          "mn": "Дэлхийн улс орнууд: байршил, нийслэл, туг, мөнгөн тэмдэгт, хэл, дээд амжилтууд."
+        }
+      },
+      "lessons": [
+        "geography.countries",
+        "geography.capitals",
+        "pubquiz.world"
+      ],
+      "missing": [
+        "Flags of the world",
+        "Currencies",
+        "Official languages",
+        "Neighbours and borders"
+      ]
+    },
+    {
+      "topic": {
+        "slug": "space",
+        "order": 7,
+        "color": "#7C4DFF",
+        "icon": "solar:planet-bold-duotone",
+        "effect": "stars",
+        "title": {
+          "en": "Solar System",
+          "mn": "Нарны аймаг"
+        },
+        "tagline": {
+          "en": "The Sun, its planets and everything in between",
+          "mn": "Нар, гарагууд болон тэдний хоорондох бүх зүйл"
+        },
+        "description": {
+          "en": "Tour the Sun, the eight planets, their moons, comets and dwarf planets — and meet the people and spacecraft that explored them.",
+          "mn": "Нар, найман гараг, тэдгээрийн дагуул, сүүлт од, одой гарагуудаар аялж, тэднийг судалсан хүмүүс, сансрын аппаратуудтай танилцана."
+        }
+      },
+      "lessons": [
+        "space.overview",
+        "space.sizes",
+        "space.distances",
+        "space.sun",
+        "space.moon",
+        "space.moons",
+        "space.small-bodies",
+        "space.records",
+        "pubquiz.space-exploration-milestones",
+        "space.exploration"
+      ],
+      "missing": [
+        "The Milky Way Galaxy",
+        "Black Holes and Dark Matter",
+        "Mars Exploration Rovers",
+        "Famous Astronomers"
+      ]
+    },
+    {
+      "topic": {
+        "slug": "astrology",
+        "order": 8,
+        "color": "#E040A0",
+        "icon": "solar:stars-bold-duotone",
+        "effect": "stars",
+        "title": {
+          "en": "Horoscopes & Astrology",
+          "mn": "Зурхай ба орд"
+        },
+        "tagline": {
+          "en": "Star signs, year animals and the stories behind them",
+          "mn": "Орд, жилийн амьтад болон тэдгээрийн цаадах домог"
+        },
+        "description": {
+          "en": "The twelve Western signs, the Mongolian twelve-animal years and the lunar calendar — a rich cultural tradition, explained honestly, alongside what astronomy actually says.",
+          "mn": "Барууны 12 орд, монгол жилийн 12 амьтан, билгийн тоолол — баялаг соёлын уламжлалыг шинжлэх ухаан юу хэлдэгтэй нь хамт шударгаар тайлбарлана."
+        }
+      },
+      "lessons": [
+        "astrology.western-zodiac",
+        "astrology.elements-modalities",
+        "astrology.planets-houses",
+        "astrology.history",
+        "astrology.mongol-years",
+        "astrology.mongol-calendar",
+        "astrology.chinese-vs-western",
+        "astrology.science"
+      ],
+      "missing": [
+        "The 28 Lunar Mansions",
+        "Astrological Aspects",
+        "Tarot Card Basics",
+        "Mayan Calendar System"
+      ]
+    },
+    {
+      "topic": {
+        "slug": "history",
+        "order": 9,
+        "color": "#8B4513",
+        "icon": "solar:history-bold-duotone",
+        "title": {
+          "en": "History",
+          "mn": "Түүх"
+        },
+        "tagline": {
+          "en": "Great empires, turning points, and modern events",
+          "mn": "Агуу гүрнүүд, түүхэн эргэлтүүд ба орчин үе"
+        },
+        "description": {
+          "en": "Delve into the key events of the 20th century, major turning points of World War II, and the rich history of the Mongol Empire.",
+          "mn": "ХХ зууны гол үйл явдал, Дэлхийн II дайны эргэлтийн цэгүүд, Монголын эзэнт гүрнээс өнөөг хүртэлх түүх."
+        }
+      },
+      "lessons": [
+        "pubquiz.history",
+        "pubquiz.wwii-key-turning-points"
+      ],
+      "missing": [
+        "Ancient Civilizations",
+        "The French Revolution",
+        "Cold War Era",
+        "Famous Explorers"
+      ]
+    },
+    {
+      "topic": {
+        "slug": "cinema",
+        "order": 10,
+        "color": "#FF4500",
+        "icon": "solar:videocamera-record-bold-duotone",
+        "title": {
+          "en": "Cinema & Art",
+          "mn": "Кино, дүрслэх урлаг"
+        },
+        "tagline": {
+          "en": "Classic movies, sci-fi masterpieces, and famous paintings",
+          "mn": "Сонгодог кинонууд, зөгнөлт бүтээлүүд ба алдартай зургууд"
+        },
+        "description": {
+          "en": "Test your knowledge of Oscar-winning classics, sci-fi cinema milestones, and the stories behind the world's most famous paintings.",
+          "mn": "Оскарын сонгодог кинонууд, шинжлэх ухааны зөгнөлт бүтээлүүд, дэлхийн алдартай уран зургууд."
+        }
+      },
+      "lessons": [
+        "pubquiz.cinema",
+        "pubquiz.sci-fi-cinema-classics"
+      ],
+      "missing": [
+        "History of Photography",
+        "Famous Sculptures",
+        "Anime and Manga Classics",
+        "Cannes Film Festival Winners"
+      ]
+    },
+    {
+      "topic": {
+        "slug": "comics",
+        "order": 11,
+        "color": "#E23636",
+        "icon": "solar:mask-happly-bold-duotone",
+        "title": {
+          "en": "Comics & Manga",
+          "mn": "Комик, манга"
+        },
+        "tagline": {
+          "en": "DC, Marvel and manga: heroes, villains, first issues",
+          "mn": "DC, Marvel, манга: баатар, муу санаатан, анхны дугаар"
+        },
+        "description": {
+          "en": "Superheroes and manga: who created them, when they first appeared, their powers, alter egos and the niche facts fans love.",
+          "mn": "Супер баатрууд ба манга: хэн бүтээсэн, анх хэзээ гарсан, хүч чадал, жинхэнэ нэр, шүтэн бишрэгчдийн мэддэг сонин баримтууд."
+        }
+      },
+      "lessons": [],
+      "missing": [
+        "Marvel heroes and their origins",
+        "DC heroes and their origins",
+        "Great villains",
+        "First appearances: a comics timeline",
+        "Manga classics: One Piece, Dragon Ball, Naruto and more",
+        "Best-selling manga series",
+        "Comic-book films at the box office",
+        "Niche comics facts: alter egos, creators, cameos"
+      ]
+    },
+    {
+      "topic": {
+        "slug": "art",
+        "order": 12,
+        "color": "#D97706",
+        "icon": "solar:pallete-2-bold-duotone",
+        "title": {
+          "en": "Art",
+          "mn": "Урлаг"
+        },
+        "tagline": {
+          "en": "Paintings, sculpture, artists and movements",
+          "mn": "Уран зураг, баримал, зураач, урсгал"
+        },
+        "description": {
+          "en": "The world’s great artworks and the people behind them, from the Renaissance to street art, plus Mongolian masters like Zanabazar.",
+          "mn": "Сэргэн мандалтаас гудамжны урлаг хүртэлх дэлхийн шилдэг бүтээл, тэдгээрийн уран бүтээлчид, Занабазар зэрэг монгол уран дархчууд."
+        }
+      },
+      "lessons": [
+        "pubquiz.world-famous-paintings",
+        "cinema.famous-sculptures"
+      ],
+      "missing": [
+        "Art movements through time",
+        "Great artists and their lives",
+        "Art heists and strange stories",
+        "Mongolian art: Zanabazar to Sharav"
+      ]
+    },
+    {
+      "topic": {
+        "slug": "kpop",
+        "order": 13,
+        "color": "#EC4899",
+        "icon": "solar:music-notes-bold-duotone",
+        "title": {
+          "en": "K-pop",
+          "mn": "K-pop"
+        },
+        "tagline": {
+          "en": "Idols, groups, agencies and records",
+          "mn": "Айдол, хамтлаг, агентлаг, дээд амжилт"
+        },
+        "description": {
+          "en": "Korean pop from the first generation to today: BTS, BLACKPINK and the groups, agencies, songs and records behind the wave.",
+          "mn": "Солонгос поп хөгжим анхны үеэс өнөөг хүртэл: BTS, BLACKPINK болон бусад хамтлаг, агентлаг, дуу, дээд амжилтууд."
+        }
+      },
+      "lessons": [],
+      "missing": [
+        "K-pop generations: a timeline",
+        "BTS",
+        "BLACKPINK and the girl groups",
+        "Agencies: HYBE, SM, YG, JYP",
+        "K-pop records and most-viewed videos"
+      ]
+    },
+    {
+      "topic": {
+        "slug": "literature",
+        "order": 14,
+        "color": "#4682B4",
+        "icon": "solar:notebook-bold-duotone",
+        "title": {
+          "en": "Books & Words",
+          "mn": "Ном, үг хэл"
+        },
+        "tagline": {
+          "en": "Great books, authors, and word origins",
+          "mn": "Агуу ном зохиолууд, зохиолчид ба үгийн гарал үүсэл"
+        },
+        "description": {
+          "en": "Explore the fascinating stories behind classic books, the etymology of everyday words, and the beauty of the Mongolian language.",
+          "mn": "Алдартай номуудын ард буй түүх, үгийн гарал үүсэл, монгол хэл, ёс заншил."
+        }
+      },
+      "lessons": [
+        "pubquiz.literature",
+        "pubquiz.words"
+      ],
+      "missing": [
+        "Shakespearean Plays",
+        "Modern Best Sellers",
+        "Poetry and Poets",
+        "Famous Idioms"
+      ]
+    },
+    {
+      "topic": {
+        "slug": "science",
+        "order": 15,
+        "color": "#008080",
+        "icon": "solar:test-tube-bold-duotone",
+        "title": {
+          "en": "Science & the Body",
+          "mn": "Шинжлэх ухаан"
+        },
+        "tagline": {
+          "en": "Inventions, medicine, and human biology",
+          "mn": "Нээлтүүд, анагаах ухаан ба хүний биологи"
+        },
+        "description": {
+          "en": "Discover how the human body works, the history of life-changing inventions, and the science behind everyday medicine.",
+          "mn": "Хүний бие, анагаах ухаан, амьдралыг өөрчилсөн нээлт, шинэ бүтээлүүд."
+        }
+      },
+      "lessons": [
+        "pubquiz.human-body",
+        "pubquiz.science",
+        "pubquiz.inventions"
+      ],
+      "missing": [
+        "The Periodic Table",
+        "Genetics and DNA",
+        "Physics of Everyday Life",
+        "Famous Women in Science"
+      ]
+    },
+    {
+      "topic": {
+        "slug": "nature",
+        "order": 16,
+        "color": "#556B2F",
+        "icon": "solar:leaf-bold-duotone",
+        "title": {
+          "en": "Nature & Animals",
+          "mn": "Байгаль, амьтан"
+        },
+        "tagline": {
+          "en": "Wildlife, animal behavior, and ecosystems",
+          "mn": "Зэрлэг байгаль, амьтдын зан авир ба экосистем"
+        },
+        "description": {
+          "en": "Learn about dog and cat breeds, fascinating animal defenses, and the incredible diversity of the natural world.",
+          "mn": "Амьтдын сонин зан төрх, үүлдэр угсаа, байгалийн гайхамшигт олон янз байдал."
+        }
+      },
+      "lessons": [
+        "pubquiz.nature"
+      ],
+      "missing": [
+        "Deep Sea Creatures",
+        "Prehistoric Dinosaurs",
+        "Bird Migration Patterns",
+        "Rainforest Ecosystems"
+      ]
+    },
+    {
+      "topic": {
+        "slug": "sports",
+        "order": 17,
+        "color": "#FF8C00",
+        "icon": "solar:cup-bold-duotone",
+        "title": {
+          "en": "Sports & Games",
+          "mn": "Спорт"
+        },
+        "tagline": {
+          "en": "Olympic history, football, and sports rules",
+          "mn": "Олимпын түүх, хөлбөмбөг ба спортын дүрмүүд"
+        },
+        "description": {
+          "en": "Test your knowledge of World Cup football history, Olympic records, and the rules of the world's most popular sports.",
+          "mn": "Хөлбөмбөгийн ДАШТ, Олимпын түүх, дэлхийн алдартай спортын дүрэм, амжилтууд."
+        }
+      },
+      "lessons": [
+        "pubquiz.world-cup-history",
+        "pubquiz.sports"
+      ],
+      "missing": [
+        "Basketball Legends",
+        "Formula 1 History",
+        "Extreme Sports",
+        "Chess Champions"
+      ]
+    },
+    {
+      "topic": {
+        "slug": "lifestyle",
+        "order": 18,
+        "color": "#C71585",
+        "icon": "solar:bag-bold-duotone",
+        "title": {
+          "en": "Food, Music & Brands",
+          "mn": "Соёл, хоол, брэнд"
+        },
+        "tagline": {
+          "en": "Food, music, pop culture, and global brands",
+          "mn": "Хоол хүнс, хөгжим, поп соёл ба дэлхийн брэндүүд"
+        },
+        "description": {
+          "en": "Explore global cuisines, music history from classical to pop, famous brands, and modern pop culture trends.",
+          "mn": "Дэлхийн хоол, сонгодогоос поп хүртэлх хөгжим, технологи, алдартай брэндүүд."
+        }
+      },
+      "lessons": [
+        "pubquiz.food",
+        "pubquiz.music",
+        "pubquiz.culture",
+        "pubquiz.brands",
+        "pubquiz.technology"
+      ],
+      "missing": [
+        "History of Fashion",
+        "Coffee and Tea Culture",
+        "Social Media Evolution",
+        "Architecture Styles"
+      ]
+    },
+    {
+      "topic": {
+        "slug": "brainteasers",
+        "order": 19,
+        "color": "#4B0082",
+        "icon": "solar:lightbulb-bolt-bold-duotone",
+        "title": {
+          "en": "Brainteasers",
+          "mn": "Оюун сорих таавар"
+        },
+        "tagline": {
+          "en": "Riddles, logic, and lateral thinking",
+          "mn": "Таавар, логик сэтгэлгээ ба сонирхолтой бодлогууд"
+        },
+        "description": {
+          "en": "Challenge your mind with clever riddles, wordplay, and logic puzzles that require lateral thinking to solve.",
+          "mn": "Логик сэтгэлгээ шаардах таавар, үгийн тоглоом, бодож олох асуултууд."
+        }
+      },
+      "lessons": [
+        "pubquiz.brainteaser"
+      ],
+      "missing": [
+        "Classic Logic Paradoxes",
+        "Optical Illusions Explained",
+        "Mathematical Riddles",
+        "Cryptic Codes"
+      ]
+    }
+  ]
+}

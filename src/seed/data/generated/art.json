@@ -1,0 +1,1991 @@
+{
+  "lessons": [
+    {
+      "topicSlug": "art",
+      "key": "art.art-movements-through-time",
+      "order": 3,
+      "title": {
+        "en": "Art Movements Through Time",
+        "mn": "Урлагийн урсгал чиглэлүүд"
+      },
+      "summary": {
+        "en": "How Western art evolved from the rebirth of classical ideals to the chaotic expressions of the modern era.",
+        "mn": "Барууны урлаг сонгодог үзлээс орчин үеийн чөлөөт илэрхийлэл рүү хэрхэн хувьсан өөрчлөгдсөн бэ."
+      },
+      "body": {
+        "en": "Art history is a series of reactions. Each major movement arose as a rebellion against the rules of the previous era, changing how artists viewed light, emotion, and reality itself.",
+        "mn": "Урлагийн түүх бол өмнөх үеэ үгүйсгэсэн тасралтгүй эрэлхийлэл юм. Урсгал бүр өмнөх үеийнхээ хатуу дүрмийг эсэргүүцэн гарч ирж, гэрэл сүүдэр, хүний сэтгэл хөдлөл, бодит байдлыг огт өөрөөр харах боломжийг олгож байв."
+      },
+      "visual": {
+        "kind": "timeline",
+        "items": [
+          {
+            "when": {
+              "en": "1400–1600",
+              "mn": "1400–1600"
+            },
+            "title": {
+              "en": "The Renaissance",
+              "mn": "Сэргэн мандалтын үе"
+            },
+            "body": {
+              "en": "A rebirth of classical learning, focusing on perspective, human anatomy, and realistic harmony.",
+              "mn": "Сонгодог ухааныг дахин сэргээж, алслалт, хүний биеийн анатоми болон бодит зохицолд анхаарлаа хандуулсан үе."
+            }
+          },
+          {
+            "when": {
+              "en": "1600–1750",
+              "mn": "1600–1750"
+            },
+            "title": {
+              "en": "Baroque",
+              "mn": "Барокко"
+            },
+            "body": {
+              "en": "Characterized by intense drama, deep shadows, and grand emotional scale, popularized by Caravaggio and Rembrandt.",
+              "mn": "Караважо, Рембрандт нарын алдаршуулсан гүн сүүдэр, хүчтэй жүжиглэлт, сэтгэл хөдлөлийн агуу цар хүрээгээр тодорхойлогддог урсгал."
+            }
+          },
+          {
+            "when": {
+              "en": "1860s–1880s",
+              "mn": "1860–1880-иад он"
+            },
+            "title": {
+              "en": "Impressionism",
+              "mn": "Импрессионизм"
+            },
+            "body": {
+              "en": "Artists left their studios to paint outdoors, capturing the fleeting effects of light and color with quick brushstrokes.",
+              "mn": "Зураачид урлангаа орхин задгай агаарт гарч, гэрэл сүүдрийн агшин зуурын хувьслыг хурдан бичилтээр зурж эхлэв."
+            }
+          },
+          {
+            "when": {
+              "en": "1910s–1920s",
+              "mn": "1910–1920-иод он"
+            },
+            "title": {
+              "en": "Cubism",
+              "mn": "Кубизм"
+            },
+            "body": {
+              "en": "Led by Picasso, this movement broke subjects down into geometric shapes, showing multiple viewpoints at once.",
+              "mn": "Пикасогоор удирдуулсан энэхүү урсгал нь аливааг геометрийн дүрсүүдэд хувааж, олон өнцгөөс нэгэн зэрэг харуулдгаараа онцлог."
+            }
+          },
+          {
+            "when": {
+              "en": "1920s–1940s",
+              "mn": "1920–1940-өөд он"
+            },
+            "title": {
+              "en": "Surrealism",
+              "mn": "Сюрреализм"
+            },
+            "body": {
+              "en": "Inspired by psychology, artists painted dreamscapes and illogical scenes to unlock the subconscious mind.",
+              "mn": "Сэтгэл судлалын шинжлэх ухаанаас сэдэвлэн, далд ухамсарыг нээхийн тулд зүүдний мэт утга учиргүй, ер бусын дүр зургуудыг дүрсэлжээ."
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "The term 'Impressionism' was originally used as an insult by a critic who thought Claude Monet's painting looked unfinished.",
+          "mn": "\"Импрессионизм\" гэх нэршлийг анх Клод Монегийн зургийг дутуу дууссан ноорог гэж гоочилсон шүүмжлэгч доромжлох зорилгоор хэрэглэж байжээ."
+        },
+        {
+          "en": "Surrealist Salvador Dalí used to sleep with a key in his hand; when it fell and woke him, he would immediately paint his dream images.",
+          "mn": "Сюрреалист зураач Сальвадор Дали гартаа түлхүүр барьж унтдаг байсан бөгөөд түлхүүр унах чимээнээр сэрмэгцээ зүүдэлсэн дүрсээ шууд зурдаг байв."
+        }
+      ]
+    },
+    {
+      "topicSlug": "art",
+      "key": "art.great-artists-and-their-lives",
+      "order": 4,
+      "title": {
+        "en": "Great Artists and Their Lives",
+        "mn": "Агуу зураачдын амьдралын түүх"
+      },
+      "summary": {
+        "en": "The human stories, eccentricities, and struggles behind the world's most celebrated masterpieces.",
+        "mn": "Дэлхийн хамгийн алдартай суут бүтээлүүдийн цаадах хүний хувь тавилан, хачин жигтэй зан авир, тэмцлийн түүх."
+      },
+      "body": {
+        "en": "Behind every timeless artwork is an artist with a complex life. From Renaissance rivalries to modern struggles with mental health, their personal stories are as dramatic as their art.",
+        "mn": "Цаг хугацаанд элэгдэшгүй бүтээл бүрийн цаана ээдрээтэй амьдрал туулсан уран бүтээлч байдаг. Сэргэн мандалтын үеийн өрсөлдөөнөөс эхлээд орчин үеийн сэтгэцийн эрүүл мэндийн асуудал хүртэл тэдний хувийн амьдрал уран зураг шигээ сонирхолтой."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "🎨",
+            "title": {
+              "en": "Leonardo da Vinci",
+              "mn": "Леонардо да Винчи"
+            },
+            "facts": [
+              {
+                "en": "A notorious procrastinator who left many of his most ambitious projects completely unfinished.",
+                "mn": "Ажлаа хойшлуулах тал дээр гаргууд нэгэн байсан тул олон том төслөө дуусгалгүй орхисон байдаг."
+              },
+              {
+                "en": "Wrote his personal notebooks in mirror writing, from right to left, to keep his ideas secret.",
+                "mn": "Өөрийн санаагаа нууцлахын тулд тэмдэглэлийн дэвтрээ баруун талаас зүүн тийш тольдон уншигдах бичгээр хөтөлдөг байв."
+              }
+            ],
+            "subtitle": {
+              "en": "The Ultimate Polymath",
+              "mn": "Төгс тал талын авьяастан"
+            }
+          },
+          {
+            "icon": "🌻",
+            "title": {
+              "en": "Vincent van Gogh",
+              "mn": "Винсент ван Гог"
+            },
+            "facts": [
+              {
+                "en": "Created over 2,100 artworks in just a single decade, mostly in his final troubled years.",
+                "mn": "Ердөө арван жилийн дотор 2100 гаруй уран бүтээл туурвисан бөгөөд ихэнхийг нь амьдралынхаа сүүлийн хүнд хэцүү жилүүдэд бүтээжээ."
+              },
+              {
+                "en": "Painted 'The Starry Night' while staying voluntarily in an asylum in Saint-Rémy-de-Provence.",
+                "mn": "Алдартай «Одод түгсэн шөнө» зургаа Сен-Реми-де-Прованс дахь сэтгэцийн эмнэлэгт сайн дураараа хэвтэж байхдаа зуржээ."
+              }
+            ],
+            "subtitle": {
+              "en": "The Tormented Genius",
+              "mn": "Зовлонт суут ухаантан"
+            }
+          },
+          {
+            "icon": "🖌️",
+            "title": {
+              "en": "Artemisia Gentileschi",
+              "mn": "Артемизиа Жентилески"
+            },
+            "facts": [
+              {
+                "en": "One of the first female artists to gain international acclaim in the male-dominated 17th century.",
+                "mn": "Эрэгтэйчүүд ноёлж байсан 17-р зуунд олон улсад хүлээн зөвшөөрөгдсөн анхны эмэгтэй зураачдын нэг."
+              },
+              {
+                "en": "Channeled her personal trauma into powerful, dramatic paintings of strong biblical heroines.",
+                "mn": "Өөрт тохиолдсон хүнд гэмтлийг Библийн хүчирхэг баатруудыг дүрсэлсэн эрч хүчтэй уран зураг болгон хувиргасан."
+              }
+            ],
+            "subtitle": {
+              "en": "Baroque Trailblazer",
+              "mn": "Бароккогийн анхдагч эмэгтэй"
+            }
+          },
+          {
+            "icon": "🇲🇽",
+            "title": {
+              "en": "Frida Kahlo",
+              "mn": "Фрида Кало"
+            },
+            "facts": [
+              {
+                "en": "Began painting while bedridden following a catastrophic bus accident in her youth.",
+                "mn": "Залуудаа автобусны айшигт осолд орж, хэвтэрт байхдаа уран зураг зурж эхэлжээ."
+              },
+              {
+                "en": "Best known for her raw, uncompromising self-portraits exploring pain and Mexican identity.",
+                "mn": "Өөрийн өвдөлт шаналал болон Мексик үндэстний ижилслийг илэрхийлсэн хөрөг зургуудаараа алдартай."
+              }
+            ],
+            "subtitle": {
+              "en": "Icon of Resilience",
+              "mn": "Тэвчээрийн бэлгэ тэмдэг"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "Vincent van Gogh only sold one painting during his entire lifetime, 'The Red Vineyard', for 400 francs.",
+          "mn": "Винсент ван Гог амьд ахуйдаа ердөө ганцхан уран зураг («Улаан усан үзмийн талбай») зарсан бөгөөд түүнийгээ 400 франкаар худалдаж байжээ."
+        },
+        {
+          "en": "Michelangelo deeply disliked Leonardo da Vinci, and the two Renaissance giants openly insulted each other in the streets of Florence.",
+          "mn": "Микеланжело Леонардо да Винчид туйлын дургүй байсан бөгөөд Сэргэн мандалтын үеийн энэ хоёр аварга Флоренцын гудамжинд бие биенээ ил тод доромжилдог байв."
+        }
+      ]
+    },
+    {
+      "topicSlug": "art",
+      "key": "art.art-heists-and-strange-stories",
+      "order": 5,
+      "title": {
+        "en": "Art Heists and Strange Stories",
+        "mn": "Урлагийн хулгай ба хачирхалтай түүхүүд"
+      },
+      "summary": {
+        "en": "Intriguing tales of stolen masterpieces, mysterious disappearances, and bizarre museum incidents.",
+        "mn": "Хулгайд алдагдсан суут бүтээлүүд, нууцлаг алга болсон явдлууд болон музейд гарсан хачирхалтай хэргүүд."
+      },
+      "body": {
+        "en": "The world of high art is filled with real-world thrillers. Masterpieces have been stolen by kitchen staff, cut from frames, and lost in wars, sometimes remaining missing for decades.",
+        "mn": "Дээд зэрэглэлийн урлагийн ертөнц бодит амьдралын адал явдалт кино шиг түүхээр дүүрэн. Суут бүтээлүүдийг музейн ажилтан хулгайлж, жаазнаас нь зүсэж авах, дайны үеэр алга болгох зэрэг тохиолдол гарч, зарим нь олон арван жилийн турш олдохгүй хэвээр байна."
+      },
+      "visual": {
+        "kind": "timeline",
+        "items": [
+          {
+            "when": {
+              "en": "1911",
+              "mn": "1911 он"
+            },
+            "title": {
+              "en": "The Mona Lisa Disappears",
+              "mn": "Мона Лиза алга болов"
+            },
+            "body": {
+              "en": "An Italian Louvre employee walked out of the museum with the painting hidden under his smock, believing it belonged in Italy.",
+              "mn": "Луврын музейн итали ажилтан уг зургийг эх орондоо байх ёстой гэж үзэн, ажлын хувцас дотроо нууж авч гарчээ."
+            }
+          },
+          {
+            "when": {
+              "en": "1990",
+              "mn": "1990 он"
+            },
+            "title": {
+              "en": "The Gardner Museum Heist",
+              "mn": "Гарднерын музейн дээрэм"
+            },
+            "body": {
+              "en": "Thieves disguised as police officers stole 13 masterpieces worth $500 million in Boston; the case remains unsolved.",
+              "mn": "Цагдаагийн хувцас өмссөн хулгайчид Бостон дахь музейгээс 500 сая долларын үнэ бүхий 13 бүтээлийг хулгайлсан бөгөөд уг хэрэг өнөөг хүртэл шийдэгдээгүй байна."
+            }
+          },
+          {
+            "when": {
+              "en": "1994",
+              "mn": "1994 он"
+            },
+            "title": {
+              "en": "The Scream is Held for Ransom",
+              "mn": "«Хашхираан» зургаар барьцаалав"
+            },
+            "body": {
+              "en": "Thieves broke into the National Gallery in Oslo, stole Edvard Munch's 'The Scream', and left a note saying 'Thanks for the poor security'.",
+              "mn": "Хулгайчид Осло хотын Үндэсний галерейд нэвтэрч, Эдвард Мункийн «Хашхираан» зургийг аваад \"Хамгаалалт муу байсанд баярлалаа\" гэсэн бичиг үлдээжээ."
+            }
+          },
+          {
+            "when": {
+              "en": "2000",
+              "mn": "2000 он"
+            },
+            "title": {
+              "en": "Armed Stockholm Museum Raid",
+              "mn": "Стокгольмын музейг зэвсэглэн дээрэмдэв"
+            },
+            "body": {
+              "en": "Robbers armed with submachine guns stole a Rembrandt and two Renoirs from Sweden's Nationalmuseum, creating car-bomb distractions.",
+              "mn": "Автомат буугаар зэвсэглэсэн дээрэмчид Стокгольмын Үндэсний музейгээс Рембрандт болон Ренуарын зургуудыг хулгайлахын тулд хотод машин дэлбэлж анхаарал сарниулжээ."
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "Before it was stolen in 1911, Leonardo da Vinci's 'Mona Lisa' was not nearly as famous worldwide as it is today.",
+          "mn": "1911 онд хулгайлагдахаасаа өмнө Леонардо да Винчигийн «Мона Лиза» өнөөдрийнх шиг дэлхий даяар алдартай зураг байгаагүй юм."
+        },
+        {
+          "en": "The empty frames of the stolen paintings in the Isabella Stewart Gardner Museum heist still hang on the walls as placeholders.",
+          "mn": "Изабелла Стюарт Гарднерын музейгээс хулгайлагдсан зургуудын хоосон жааз одоог хүртэл ханандаа өлгөөтэй байдаг."
+        }
+      ]
+    },
+    {
+      "topicSlug": "art",
+      "key": "art.mongolian-art-zanabazar-to-sharav",
+      "order": 6,
+      "title": {
+        "en": "Mongolian Art: Zanabazar to Sharav",
+        "mn": "Монголын дүрслэх урлаг: Занабазараас Шарав хүртэл"
+      },
+      "summary": {
+        "en": "The journey of Mongolian visual art from exquisite Buddhist sculptures to the revolutionary realism of 'One Day in Mongolia'.",
+        "mn": "Монголын дүрслэх урлагийн түүхэн замнал, буддын шашны нарийн хийцтэй баримлуудаас авахуулаад «Монголын нэг өдөр» зургийн реализм хүртэл."
+      },
+      "body": {
+        "en": "Mongolian art bridges sacred traditions and nomadic everyday life. The golden age of Buddhist bronze sculpture under Zanabazar eventually gave way to the secular, detailed, and satirical modern ink styles of 'Marzan' Sharav.",
+        "mn": "Монголын дүрслэх урлаг нь шашны нандин уламжлал болон нүүдэлчин ахуйн холбоос юм. Өндөр гэгээн Занабазарын урласан буддын шашны алтмал хүрэл баримлын алтан үе нь хожим «Марзан» Шаравын амьдралыг хошин бөгөөд бодитоор дүрсэлсэн бэхэн зургийн урсгалаар солигдсон түүхтэй."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "☸️",
+            "title": {
+              "en": "Undur Gegeen Zanabazar",
+              "mn": "Өндөр гэгээн Занабазар"
+            },
+            "facts": [
+              {
+                "en": "The first Jebtsundamba Khutuktu of Mongolia, who established a unique school of Buddhist art in the 17th century.",
+                "mn": "XVII зуунд Буддын шашны урлагийн өвөрмөц сургуулийг үндэслэгч, Монголын анхны Жавзандамба хутагт."
+              },
+              {
+                "en": "His masterpieces, like the Twenty-One Taras, are celebrated globally for their flawless proportions and grace.",
+                "mn": "Түүний бүтээсэн «Хорин нэгэн дара эх» тэргүүтэй бүтээлүүд нь биеийн харьцаа, гоо үзэсгэлэнгээрээ дэлхийд гайхагддаг."
+              }
+            ],
+            "subtitle": {
+              "en": "The Master of Bronze",
+              "mn": "Хүрэл цутгуурын мастер"
+            }
+          },
+          {
+            "icon": "🎨",
+            "title": {
+              "en": "Mongol Zurag Style",
+              "mn": "Монгол зураг урсгал"
+            },
+            "facts": [
+              {
+                "en": "A traditional flat painting style that uses mineral pigments on canvas without Western-style perspective.",
+                "mn": "Барууны алслалтыг ашиглахгүйгээр байгалийн шороон будгаар даавуун дээр хавтгайруулан зурдаг уламжлалт арга барил."
+              },
+              {
+                "en": "It captures vast landscapes and hundreds of tiny, active figures in incredible narrative detail.",
+                "mn": "Уудам газар нутаг, олон зуун жижиг дүрсийн хөдөлгөөн, үйл явдлыг нарийн деталтай харуулдгаараа онцлог."
+              }
+            ],
+            "subtitle": {
+              "en": "Flat Perspective Art",
+              "mn": "Хавтгай дүрслэлийн урлаг"
+            }
+          },
+          {
+            "icon": "🐎",
+            "title": {
+              "en": "Marzan Sharav",
+              "mn": "Марзан Шарав"
+            },
+            "facts": [
+              {
+                "en": "The pioneer who bridged traditional religious art with modern realism and everyday scenes.",
+                "mn": "Уламжлалт шашны урлагийг орчин үеийн бодит амьдралын дүрслэлтэй холбосон анхдагч зураач."
+              },
+              {
+                "en": "His masterpiece 'One Day in Mongolia' depicts nomadic life, from births and weddings to funerals.",
+                "mn": "Түүний алдарт «Монголын нэг өдөр» бүтээл нь нүүдэлчдийн төрөхөөс үхэх хүртэлх амьдралын бүхий л үйл явдлыг харуулдаг."
+              }
+            ],
+            "subtitle": {
+              "en": "The Eye of the Nomads",
+              "mn": "Нүүдэлчдийн амьдралыг тольдогч"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "Zanabazar is often referred to as the 'Michelangelo of Asia' due to his incredible skill in bronze casting and artistic versatility.",
+          "mn": "Өндөр гэгээн Занабазарыг хүрэл цутгамал, уран баримлын хосгүй авьяасыг нь үнэлж дэлхийн урлагийн түүхэнд \"Азийн Микеланжело\" хэмээн нэрлэдэг."
+        },
+        {
+          "en": "Balduugiin Sharav's famous nickname 'Marzan' means 'jester' or 'funny', given to him by Bogd Khan because of his witty and humorous painting style.",
+          "mn": "Балдуугийн Шаравын «Марзан» хэмээх хочийг түүний хошин шог, егөөтэй зурдаг хэв маягийг нь үнэлж Богд хаанаас хайрлажээ."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.great-artists-and-their-lives",
+      "key": "art.great-artists-and-their-lives.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which famous painting did Vincent van Gogh paint while voluntarily staying in an asylum in Saint-Rémy-de-Provence?",
+        "mn": "Винсент ван Гог Сен-Реми-де-Прованс дахь сэтгэцийн эмнэлэгт сайн дураараа хэвтэж байхдаа ямар алдартай уран бүтээлээ туурвисан бэ?"
+      },
+      "choices": [
+        {
+          "en": "The Starry Night",
+          "mn": "Одод түгсэн шөнө"
+        },
+        {
+          "en": "Café Terrace at Night",
+          "mn": "Шөнийн кафе"
+        },
+        {
+          "en": "Sunflowers",
+          "mn": "Наранцэцэгүүд"
+        },
+        {
+          "en": "The Bedroom",
+          "mn": "Унтлагын өрөө"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Van Gogh painted 'The Starry Night' from the window of his asylum room. Although it depicts nighttime, he actually painted it during the day from memory.",
+        "mn": "Ван Гог «Одод түгсэн шөнө» зургаа эмнэлгийн өрөөнийхөө цонхоор харан зурсан бөгөөд шөнийн дүр зургийг өдрийн цагаар ой санамжаасаа ургуулан бүтээжээ."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.great-artists-and-their-lives",
+      "key": "art.great-artists-and-their-lives.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "To keep his scientific ideas and personal thoughts secret, Leonardo da Vinci wrote most of his journals in what unusual way?",
+        "mn": "Леонардо да Винчи өөрийн шинжлэх ухааны санаа, хувийн тэмдэглэлээ нууцлахын тулд тэдгээрийг ямар ер бусын аргаар бичдэг байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Invisible ink",
+          "mn": "Үл үзэгдэгч бэх"
+        },
+        {
+          "en": "Latin shorthand",
+          "mn": "Латин товчлол"
+        },
+        {
+          "en": "Mirror writing",
+          "mn": "Тольдон уншигдах бичиг"
+        },
+        {
+          "en": "Upside-down writing",
+          "mn": "Уруугаа харсан бичиг"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Leonardo wrote from right to left using mirror writing. This prevented others from easily reading his notes and also kept his left hand from smudging the ink.",
+        "mn": "Леонардо баруун талаас зүүн тийш тольдон уншигдах бичгээр тэмдэглэлээ хөтөлдөг байв. Энэ нь бусдаас нууцлахад туслахаас гадна зүүн гараараа бичихэд бэх нь арчигдаж баллахаас сэргийлдэг байжээ."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.great-artists-and-their-lives",
+      "key": "art.great-artists-and-their-lives.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Frida Kahlo began painting her famous self-portraits while bedridden recovering from a catastrophic accident involving which vehicle?",
+        "mn": "Фрида Кало залуудаа ямар тээврийн хэрэгсэлтэй холбоотой айшигт осолд орж, хэвтэрт байхдаа алдартай өөрийн хөрөг зургуудаа зурж эхэлсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Tram",
+          "mn": "Трамвай"
+        },
+        {
+          "en": "Train",
+          "mn": "Галт тэрэг"
+        },
+        {
+          "en": "Bus",
+          "mn": "Автобус"
+        },
+        {
+          "en": "Horse carriage",
+          "mn": "Морин тэрэг"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "At age 18, Frida was severely injured when her wooden bus collided with a metal streetcar. Her mother gave her an easel and a mirror over her bed so she could paint herself.",
+        "mn": "Фрида 18 настайдаа сууж явсан модон автобус нь трамвайтай мөргөлдөж хүнд гэмтсэн юм. Ээж нь түүний орны дээр толь болон зургийн тавиур байрлуулж өгснөөр тэрээр өөрийгөө зурж эхэлжээ."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.great-artists-and-their-lives",
+      "key": "art.great-artists-and-their-lives.g4",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which fellow Renaissance giant did Michelangelo openly dislike and publicly insult on the streets of Florence?",
+        "mn": "Микеланжело Сэргэн мандалтын үеийн аль суут зураачтай таарамжгүй харилцаатай байсан бөгөөд Флоренцын гудамжинд түүнийг илэрхий доромжилж байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Sandro Botticelli",
+          "mn": "Сандро Боттичелли"
+        },
+        {
+          "en": "Donatello",
+          "mn": "Донателло"
+        },
+        {
+          "en": "Leonardo da Vinci",
+          "mn": "Леонардо да Винчи"
+        },
+        {
+          "en": "Raphael",
+          "mn": "Рафаэль"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Michelangelo deeply disliked Leonardo, once mocking him in the street for failing to finish a bronze horse statue. Leonardo was known for his elegant style, while Michelangelo was often disheveled.",
+        "mn": "Микеланжело Леонардод туйлын дургүй байсан бөгөөд нэг удаа гудамжинд түүнийг хүрэл морины хөшөөгөө дуусгаж чадаагүй хэмээн шоолж байжээ. Леонардо маш дэгжин хувцасладаг байсан бол Микеланжело гадаад төрхөндөө анхаардаггүй байв."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.great-artists-and-their-lives",
+      "key": "art.great-artists-and-their-lives.g5",
+      "difficulty": 1,
+      "prompt": {
+        "en": "During his entire lifetime, Vincent van Gogh is widely believed to have sold only one painting. What was the name of this artwork?",
+        "mn": "Винсент ван Гог амьд ахуйдаа ердөө ганцхан уран зураг зарсан гэж түүхэнд тэмдэглэгдсэн байдаг. Энэхүү зураг ямар нэртэй вэ?"
+      },
+      "choices": [
+        {
+          "en": "The Red Vineyard",
+          "mn": "Улаан усан үзмийн талбай"
+        },
+        {
+          "en": "Starry Night Over the Rhône",
+          "mn": "Рона мөрөн дэх одод түгсэн шөнө"
+        },
+        {
+          "en": "Irises",
+          "mn": "Цахилдаг цэцэгс"
+        },
+        {
+          "en": "The Potato Eaters",
+          "mn": "Төмс идэгчид"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Van Gogh sold 'The Red Vineyard' in 1890 for 400 Belgian francs. It was purchased by the Impressionist painter Anna Boch just months before his death.",
+        "mn": "Ван Гог 1890 онд «Улаан усан үзмийн талбай» зургаа Бельгийн 400 франкаар зарсан юм. Уг зургийг түүнийг нас барахаас хэдхэн сарын өмнө импрессионист зураач Анна Бош худалдаж авчээ."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.great-artists-and-their-lives",
+      "key": "art.great-artists-and-their-lives.g6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Known for her dramatic paintings of strong biblical heroines, which 17th-century Baroque artist became one of the first women to gain international acclaim?",
+        "mn": "Библийн хүчирхэг баатруудыг дүрсэлсэн эрч хүчтэй зургуудаараа алдартай, 17-р зууны Бароккогийн үеийн олон улсад хүлээн зөвшөөрөгдсөн анхны эмэгтэй зураач хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Artemisia Gentileschi",
+          "mn": "Артемизиа Жентилески"
+        },
+        {
+          "en": "Mary Cassatt",
+          "mn": "Мэри Кэссэтт"
+        },
+        {
+          "en": "Sofonisba Anguissola",
+          "mn": "Софонисба Ангуиссола"
+        },
+        {
+          "en": "Judith Leyster",
+          "mn": "Юдит Лейстер"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Artemisia Gentileschi was the first woman accepted into the prestigious Academy of the Arts of Drawing in Florence. She channeled her personal trauma into powerful, realistic paintings.",
+        "mn": "Артемизиа Жентилески нь Флоренцын нэр хүндтэй Зургийн урлагийн академид элссэн анхны эмэгтэй болсон юм. Тэрээр өөрийн амьдралын хүнд хэцүү дурсамжуудыг хүчирхэг, бодит уран зураг болгон хувиргадаг байв."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.great-artists-and-their-lives",
+      "key": "art.great-artists-and-their-lives.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Following the tragic suicide of his close friend Carlos Casagemas, which legendary artist entered his famous 'Blue Period', painting somber, monochromatic works?",
+        "mn": "Ойрын найз Карлос Касагемасынхаа эмгэнэлт амиа хорлолтын дараа сэтгэлээр унаж, цэнхэр туяатай, гунигтай уран бүтээлүүд туурвидаг 'Цэнхэр үе'-ээ эхлүүлсэн алдартай зураач хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Henri Matisse",
+          "mn": "Анри Матисс"
+        },
+        {
+          "en": "Salvador Dalí",
+          "mn": "Сальвадор Дали"
+        },
+        {
+          "en": "Pablo Picasso",
+          "mn": "Пабло Пикассо"
+        },
+        {
+          "en": "Claude Monet",
+          "mn": "Клод Моне"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Pablo Picasso's Blue Period lasted from 1901 to 1904. During this time, he painted mostly beggars, outcasts, and prostitutes using shades of blue and blue-green.",
+        "mn": "Пабло Пикассогийн «Цэнхэр үе» нь 1901 оноос 1904 он хүртэл үргэлжилсэн юм. Энэ хугацаанд тэрээр гуйлгачид, нийгмээс гадуурхагдсан хүмүүсийг голчлон цэнхэр, хөх өнгөөр дүрслэн зурж байв."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.great-artists-and-their-lives",
+      "key": "art.great-artists-and-their-lives.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In his later years, French Impressionist Claude Monet suffered from which physical ailment that drastically altered his color perception?",
+        "mn": "Францын импрессионист Клод Моне амьдралынхаа сүүлийн жилүүдэд ямар өвчнөөр өвчилсний улмаас өнгөний мэдрэмж нь өөрчлөгдөж, уран бүтээлээ илүү дулаан, улаан туяатай зурах болсон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Lead poisoning",
+          "mn": "Хар тугалганы хордлого"
+        },
+        {
+          "en": "Blindness in one eye",
+          "mn": "Нэг нүд сохрох"
+        },
+        {
+          "en": "Cataracts",
+          "mn": "Нүдний болор цайх"
+        },
+        {
+          "en": "Gout",
+          "mn": "Үе мөчний тулай"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Monet developed cataracts, which made his vision cloudy and yellow-tinted. After undergoing surgery to remove them in 1923, he could even see some ultraviolet wavelengths of light.",
+        "mn": "Моне нүдний болор цайх өвчнөөр өвчилсөн бөгөөд энэ нь түүний харааг бүрэлзүүлж, бүх зүйлийг шар туяатай харагдуулдаг байв. 1923 онд мэс засал хийлгэсний дараа тэрээр хэт ягаан туяаны зарим долгионыг ч олж хардаг болсон байна."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.great-artists-and-their-lives",
+      "key": "art.great-artists-and-their-lives.g9",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Although he considered himself primarily a sculptor and hated the commission, Michelangelo spent four years painting the ceiling of which famous chapel?",
+        "mn": "Өөрийгөө зураач биш барималч гэж үздэг байсан тул уг захиалгад дургүй байсан ч Микеланжело дөрвөн жилийг уран зураг зурахад зориулсан алдартай сүм аль вэ?"
+      },
+      "choices": [
+        {
+          "en": "Sistine Chapel",
+          "mn": "Сикстиний капелла"
+        },
+        {
+          "en": "St. Peter's Basilica",
+          "mn": "Гэгээн Петрийн цогчин дуган"
+        },
+        {
+          "en": "Notre-Dame Cathedral",
+          "mn": "Нотр-Дам де Пари"
+        },
+        {
+          "en": "Florence Cathedral",
+          "mn": "Флоренцын цогчин дуган"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Michelangelo painted the Sistine Chapel ceiling between 1508 and 1512. Contrary to popular belief, he painted standing up on a custom scaffolding system, not lying down.",
+        "mn": "Микеланжело 1508-1512 оны хооронд Сикстиний капелла сүмийн таазыг зуржээ. Хүмүүсийн боддог шиг тэр хэвтэж биш, харин өөрийн бүтээсэн тусгай шат тавцан дээр босоогоороо зогсож зурсан байна."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.great-artists-and-their-lives",
+      "key": "art.great-artists-and-their-lives.g10",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Beyond his surrealist paintings, Salvador Dalí designed the iconic, daisy-shaped logo for which famous global brand in 1969?",
+        "mn": "Сюрреалист зургуудаасаа гадна Сальвадор Дали 1969 онд дэлхийн аль алдартай брэндийн балжингарам цэцэг хэлбэртэй логог бүтээсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Toblerone",
+          "mn": "Тоблерон"
+        },
+        {
+          "en": "Chupa Chups",
+          "mn": "Чупа Чупс"
+        },
+        {
+          "en": "Haribo",
+          "mn": "Харибо"
+        },
+        {
+          "en": "Ferrero Rocher",
+          "mn": "Ферреро Роше"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Dalí designed the Chupa Chups logo during a coffee break. He insisted that the logo always be placed on the top of the wrapper rather than the side so it was always clearly visible.",
+        "mn": "Дали «Чупа Чупс»-ны логог кофе ууж суухдаа богино хугацаанд зурсан гэдэг. Тэрээр логог чихэрний хажуу талд биш, харин үргэлж орой дээр нь байрлуулахыг зөвлөсөн нь хүмүүст илүү тод харагдах боломжийг олгожээ."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.great-artists-and-their-lives",
+      "key": "art.great-artists-and-their-lives.g11",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Rembrandt's masterpiece 'The Night Watch' is actually a misnomer. In what state was the painting found that led people to mistakenly believe it depicted a night scene?",
+        "mn": "Рембрандтын шилдэг бүтээл болох «Шөнийн харуул» хэмээх нэр нь үнэндээ буруу ойлголт юм. Хүмүүс уг зургийг шөнийн дүр зураг гэж андуурахад хүргэсэн шалтгаан нь юу байв?"
+      },
+      "choices": [
+        {
+          "en": "Covered in dark varnish",
+          "mn": "Харанхуй лакаар бүрхэгдсэн байсан"
+        },
+        {
+          "en": "Stored in a dark basement",
+          "mn": "Харанхуй зооринд хадгалагдаж байсан"
+        },
+        {
+          "en": "Burnt by a fire",
+          "mn": "Галд өртөж шатсан"
+        },
+        {
+          "en": "Painted on black canvas",
+          "mn": "Хар зотон дээр зурсан"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The painting actually depicts a scene taking place during the daytime. Over the centuries, a thick buildup of dark soot and varnish accumulated on the surface, making it look like a night scene.",
+        "mn": "Уг зураг дээр үнэндээ өдрийн үйл явдлыг дүрсэлсэн байдаг. Олон зуун жилийн турш гадаргуу дээр нь зузаан хөө тортог, харанхуй лак хуримтлагдсаны улмаас шөнийн дүр зураг шиг харагдуулах болжээ."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.great-artists-and-their-lives",
+      "key": "art.great-artists-and-their-lives.g12",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In his final years, which famous Impressionist artist had brushes strapped to his paralyzed hands due to severe rheumatoid arthritis so he could keep painting?",
+        "mn": "Хэрх өвчний улмаас гар нь саажилттай болсон ч уран бүтээлээ үргэлжлүүлэн туурвихын тулд бийрээ гартаа боолгон зурдаг байсан импрессионист зураач хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Pierre-Auguste Renoir",
+          "mn": "Пьер-Огюст Ренуар"
+        },
+        {
+          "en": "Paul Cézanne",
+          "mn": "Поль Сезанн"
+        },
+        {
+          "en": "Camille Pissarro",
+          "mn": "Камиль Писсарро"
+        },
+        {
+          "en": "Edgar Degas",
+          "mn": "Эдгар Дега"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Despite his severe joint pain, Renoir declared, 'The pain passes, but the beauty remains.' He continued to paint masterpieces until his death in 1919.",
+        "mn": "Ренуар үе мөчний хүчтэй өвдөлтийг үл хайхран «Өвдөлт өнгөрөх боловч гоо үзэсгэлэн нь үүрд үлдэнэ» хэмээн хэлж байжээ. Тэрээр 1919 онд нас барах хүртлээ шилдэг бүтээлүүдээ туурвисаар байв."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.art-movements-through-time",
+      "key": "art.art-movements-through-time.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Before his famous ear-cutting incident, Vincent van Gogh had a major falling out with which fellow Post-Impressionist artist with whom he shared a house in Arles?",
+        "mn": "Чихээ огтлохынхоо өмнөхөн Винсент ван Гог Арль хотод хамт амьдарч байсан аль Пост-Импрессионист зураачтайгаа муудалцаж, маргалдаж байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Paul Gauguin",
+          "mn": "Поль Гоген"
+        },
+        {
+          "en": "Claude Monet",
+          "mn": "Клод Моне"
+        },
+        {
+          "en": "Paul Cézanne",
+          "mn": "Поль Сезанн"
+        },
+        {
+          "en": "Georges Seurat",
+          "mn": "Жорж Сёра"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Van Gogh and Paul Gauguin lived together in the 'Yellow House' in Arles for nine weeks. Their stormy relationship ended when Van Gogh suffered a breakdown and severed part of his left ear.",
+        "mn": "Ван Гог, Поль Гоген нар Арль дахь 'Шар байшин'-д хамтдаа есөн долоо хоног амьдарсан юм. Тэдний ширүүн харилцаа Ван Гог сэтгэцийн хямралд орж, зүүн чихнийхээ дэлбээг огтолсноор дуусжээ."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.art-movements-through-time",
+      "key": "art.art-movements-through-time.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "This 1872 painting depicting the harbor of Le Havre was mockingly reviewed by critic Louis Leroy, inadvertently giving the 'Impressionist' movement its name. What is its title?",
+        "mn": "Ле Хавр боомтыг дүрсэлсэн 1872 оны энэхүү зургийг шүүмжлэгч Луи Леруа дооглон бичсэнээр 'Импрессионист' хөдөлгөөний нэр санамсаргүйгээр үүсжээ. Энэ ямар нэртэй бүтээл вэ?"
+      },
+      "choices": [
+        {
+          "en": "Luncheon on the Grass",
+          "mn": "Зүлгэн дээрх үдийн зоог"
+        },
+        {
+          "en": "The Starry Night",
+          "mn": "Одод түгсэн шөнө"
+        },
+        {
+          "en": "Water Lilies",
+          "mn": "Усны сараана цэцэгс"
+        },
+        {
+          "en": "Impression, Sunrise",
+          "mn": "Сэтгэгдэл, Наран мандах"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Claude Monet's 'Impression, Sunrise' was criticized for looking like a mere sketch. The term 'Impressionism' was meant as an insult but was proudly adopted by the artists.",
+        "mn": "Клод Монегийн 'Сэтгэгдэл, Наран мандах' зургийг дутуу ноорог шиг харагдаж байна хэмээн шүүмжилж байжээ. 'Импрессионизм' гэх нэршил нь анх доромжлол байсан ч зураачид үүнийг бахархалтайгаар хүлээн авчээ."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.art-movements-through-time",
+      "key": "art.art-movements-through-time.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Undur Gegeen Zanabazar, the great Mongolian artist and spiritual leader, is world-renowned for his exquisite bronze sculptures. Which of these is one of his most famous masterpieces?",
+        "mn": "Монголын шашин, соёлын нэрт зүтгэлтэн, уран барималч Өндөр Гэгээн Занабазарын цутгамал хүрэл бүтээлүүд дэлхийд алдартай. Эдгээрийн аль нь түүний хамгийн алдартай шилдэг бүтээл вэ?"
+      },
+      "choices": [
+        {
+          "en": "The Golden Buddha",
+          "mn": "Алтан Бурхан"
+        },
+        {
+          "en": "The Angry Deity",
+          "mn": "Догшин сахиус"
+        },
+        {
+          "en": "The Soyombo",
+          "mn": "Соёмбо сүлд"
+        },
+        {
+          "en": "Green Tara",
+          "mn": "Ногоон Дара эх"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Zanabazar created the Twenty-One Taras, with the Green Tara being widely considered his supreme masterpiece for its perfect proportions and peaceful expression.",
+        "mn": "Занабазар Хорин нэгэн Дара эхийг урласнаас Ногоон Дара эх нь төгс харьцаа, амар амгалан дүр төрхөөрөө түүний хамгийн шилдэг бүтээлд тооцогддог."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.art-movements-through-time",
+      "key": "art.art-movements-through-time.g4",
+      "difficulty": 3,
+      "prompt": {
+        "en": "When Leonardo da Vinci's 'Mona Lisa' was stolen from the Louvre in 1911, which famous modern artist was actually arrested and questioned as a suspect?",
+        "mn": "1911 онд Луврын музейгээс Леонардо да Винчигийн 'Мона Лиза' зураг хулгайлагдахад орчин үеийн урлагийн аль алдартай зураач сэжигтнээр баривчлагдан байцаагдаж байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Pablo Picasso",
+          "mn": "Пабло Пикассо"
+        },
+        {
+          "en": "Marcel Duchamp",
+          "mn": "Марсель Дюшан"
+        },
+        {
+          "en": "Salvador Dalí",
+          "mn": "Сальвадор Дали"
+        },
+        {
+          "en": "Henri Matisse",
+          "mn": "Анри Матисс"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Pablo Picasso was detained and questioned because he had previously purchased stolen Iberian statues from a thief. He was eventually cleared of all charges.",
+        "mn": "Пабло Пикассо өмнө нь хулгайлагдсан Иберийн хөшөөнүүдийг худалдаж авч байсан тул түүнийг саатуулан байцаажээ. Эцэст нь түүний буруугүйг тогтоосон байна."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.art-movements-through-time",
+      "key": "art.art-movements-through-time.g5",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The pioneer of modern Mongolian painting, 'Marzan' Sharav, is celebrated for his detailed portrayal of nomadic life. What is the title of his most famous masterpiece?",
+        "mn": "Монголын орчин үеийн уран зургийн анхдагч 'Марзан' Шаравын нүүдэлчдийн аж амьдралыг нарийн дүрсэлсэн хамгийн алдартай шилдэг бүтээл нь аль вэ?"
+      },
+      "choices": [
+        {
+          "en": "One Day in Mongolia",
+          "mn": "Монголын нэг өдөр"
+        },
+        {
+          "en": "The Steppe Wind",
+          "mn": "Талын салхи"
+        },
+        {
+          "en": "The Great Caravan",
+          "mn": "Их нүүдэл"
+        },
+        {
+          "en": "Portrait of Bogd Khan",
+          "mn": "Богд хааны хөрөг"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "'One Day in Mongolia' uses a traditional scroll format to depict various aspects of daily life, rituals, and humor in nomadic culture.",
+        "mn": "'Монголын нэг өдөр' зурагт нүүдэлчдийн өдөр тутмын амьдрал, зан үйл, хошин шог агшнуудыг уламжлалт монгол зургийн аргаар нарийн дүрслэн харуулжээ."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.art-movements-through-time",
+      "key": "art.art-movements-through-time.g6",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Created in response to the bombing of a Basque country village during the Spanish Civil War, which of these is Pablo Picasso's most famous anti-war cubist masterpiece?",
+        "mn": "Испанийн иргэний дайны үеэр Баск мужийн тосгоныг бөмбөгдсөний хариуд бүтээгдсэн, Пабло Пикассогийн дайны эсрэг хамгийн алдартай кубист бүтээл аль вэ?"
+      },
+      "choices": [
+        {
+          "en": "Les Demoiselles d'Avignon",
+          "mn": "Авиньоны бүсгүйчүүд"
+        },
+        {
+          "en": "The Weeping Woman",
+          "mn": "Уйлж буй эмэгтэй"
+        },
+        {
+          "en": "The Old Guitarist",
+          "mn": "Хөгшин гитарчин"
+        },
+        {
+          "en": "Guernica",
+          "mn": "Герника"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "'Guernica' is a massive, black-and-white mural showing the tragedies of war and the suffering of innocent civilians. It remains a global symbol of peace.",
+        "mn": "'Герника' бол дайны эмгэнэл, гэм зэмгүй иргэдийн зовлон зүдгүүрийг харуулсан хар цагаан өнгөтэй аварга том ханын зураг бөгөөд өнөөг хүртэл дэлхийн энх тайвны бэлгэдэл хэвээр байна."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.art-movements-through-time",
+      "key": "art.art-movements-through-time.g7",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The Baroque era is famous for using dramatic contrasts between light and dark. What is the Italian art term for this technique, famously mastered by Caravaggio?",
+        "mn": "Бароккогийн үе нь гэрэл ба харанхуйн эрс тэс ялгааг ашигладгаараа алдартай. Караважогийн гаргууд эзэмшсэн энэхүү техникийг урлагийн хэллэгээр юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Impasto",
+          "mn": "Импасто"
+        },
+        {
+          "en": "Fresco",
+          "mn": "Фреско"
+        },
+        {
+          "en": "Sfumato",
+          "mn": "Сфумато"
+        },
+        {
+          "en": "Chiaroscuro",
+          "mn": "Кьяроскуро"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Chiaroscuro translates literally from Italian as 'light-dark.' It creates a powerful sense of volume and intense theatrical drama in paintings.",
+        "mn": "Кьяроскуро гэдэг нь италиар 'гэрэл-харанхуй' гэсэн утгатай үг юм. Энэ нь уран зурагт эзлэхүүний хүчтэй мэдрэмж, жүжиглэлтийн гүн уур амьсгалыг бүрдүүлдэг."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.art-movements-through-time",
+      "key": "art.art-movements-through-time.g8",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Featuring melting pocket watches in a desolate landscape, which 1931 painting by Salvador Dalí is widely recognized as a masterpiece of Surrealism?",
+        "mn": "Эзгүй зэлүүд газарт хайлж буй халаасны цагнуудыг дүрсэлсэн, Сальвадор Далигийн 1931 оны аль зураг Сюрреализмын шилдэг бүтээлд тооцогддог вэ?"
+      },
+      "choices": [
+        {
+          "en": "The Elephants",
+          "mn": "Заанууд"
+        },
+        {
+          "en": "The Son of Man",
+          "mn": "Хүний хүү"
+        },
+        {
+          "en": "The Great Masturbator",
+          "mn": "Агуу мастурбатор"
+        },
+        {
+          "en": "The Persistence of Memory",
+          "mn": "Санах ойн тууштай чанар"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "'The Persistence of Memory' is Dalí's most famous work. He allegedly got the idea for the melting clocks after seeing some runny Camembert cheese.",
+        "mn": "'Санах ойн тууштай чанар' бол Далигийн хамгийн алдартай бүтээл юм. Тэрээр хайлж буй цагны санаагаа Камамбер бяслаг хайлж байхыг харсны дараа олсон гэдэг."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.art-movements-through-time",
+      "key": "art.art-movements-through-time.g9",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In 1990, thieves dressed as police officers entered a museum in Boston and pulled off the largest art theft in modern history. Which museum was targeted?",
+        "mn": "1990 онд цагдаагийн хувцас өмссөн хулгайчид Бостон хотын нэгэн музейд нэвтэрч, орчин үеийн түүхэн дэх хамгийн том урлагийн бүтээлийн хулгайг үйлдсэн юм. Энэ аль музей байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Isabella Stewart Gardner Museum",
+          "mn": "Изабелла Стюарт Гарднерын музей"
+        },
+        {
+          "en": "Museum of Fine Arts, Boston",
+          "mn": "Бостоны Дүрслэх урлагийн музей"
+        },
+        {
+          "en": "The Met",
+          "mn": "Метрополитен музей"
+        },
+        {
+          "en": "Guggenheim Museum",
+          "mn": "Гуггенхаймын музей"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The thieves stole 13 artworks, including masterpieces by Vermeer and Rembrandt, worth over $500 million. The empty frames still hang on the walls today.",
+        "mn": "Хулгайчид Вермеер, Рембрандт нарын шилдэг бүтээлүүд зэрэг 500 гаруй сая долларын үнэ бүхий 13 урлагийн бүтээлийг хулгайлжээ. Өнөөг хүртэл музейн хананд хоосон жаазнууд нь өлгөөтэй байдаг."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.art-movements-through-time",
+      "key": "art.art-movements-through-time.g10",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Michelangelo's famous statue of David was carved from a single block of Carrara marble that other sculptors had rejected because they deemed it to be what?",
+        "mn": "Микеланжелогийн алдарт Давид хөшөөг бусад уран барималчдын голж орхисон Каррара гантиг чулуугаар сийлсэн байдаг. Тэд чулууг ямар шалтгаанаар голсон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Flawed and unstable",
+          "mn": "Сэвтэй бөгөөд тогтворгүй"
+        },
+        {
+          "en": "Too dark in color",
+          "mn": "Хэт бараан өнгөтэй"
+        },
+        {
+          "en": "Too small",
+          "mn": "Хэтэрхий жижиг"
+        },
+        {
+          "en": "Too hard to cut",
+          "mn": "Сийлхэд хэтэрхий хатуу"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The block of marble, nicknamed 'The Giant,' had been abandoned for 40 years by other artists who thought it had too many microscopic flaws to support a large statue.",
+        "mn": "'Аварга биет' хэмээх уг гантиг чулууг өмнө нь бусад зураачид хэтэрхий олон жижиг сэвтэй, том хөшөө босгоход тогтворгүй хэмээн голж, 40 жилийн турш орхисон байжээ."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.art-movements-through-time",
+      "key": "art.art-movements-through-time.g11",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Marzan Sharav painted famous portraits of the last theocratic ruler of Mongolia and his queen. Who were they?",
+        "mn": "Марзан Шарав Монголын хамгийн сүүлчийн хаан болон хатны хөргийг зурсан нь түүхэн хосгүй бүтээлд тооцогддог. Тэд хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Sukhbaatar and Yanjmaa",
+          "mn": "Сүхбаатар ба Янжмаа"
+        },
+        {
+          "en": "Zanabazar and Suren",
+          "mn": "Занабазар ба Сүрэн"
+        },
+        {
+          "en": "Ligdan Khan and Erthei",
+          "mn": "Лигдэн хаан ба Эртэй"
+        },
+        {
+          "en": "Bogd Khan and Dondogdulam",
+          "mn": "Богд хаан ба Дондогдулам"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Painted in the early 20th century, these portraits combined traditional flat Mongolian style with realistic shading on the faces, capturing the Bogd Khan and Queen Dondogdulam.",
+        "mn": "XX зууны эхээр бүтээгдсэн эдгээр хөрөг зурагт уламжлалт монгол зургийн хавтгай арга барилыг нүүрний бодит гэрэл сүүдэртэй хослуулан Богд хаан болон Дондогдулам хатныг дүрсэлсэн байдаг."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.art-movements-through-time",
+      "key": "art.art-movements-through-time.g12",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which famous Russian realist painter created the dramatic and controversial masterpiece 'Ivan the Terrible and His Son Ivan on November 16, 1581'?",
+        "mn": "'Догшин Иван ба түүний хүү Иван 1581 оны 11-р сарын 16-нд' хэмээх түүхэн бөгөөд маргаантай шилдэг бүтээлийг Оросын аль алдартай реалист зураач зурсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Ilya Repin",
+          "mn": "Илья Репин"
+        },
+        {
+          "en": "Ivan Aivazovsky",
+          "mn": "Иван Айвазовский"
+        },
+        {
+          "en": "Kazimir Malevich",
+          "mn": "Казимир Малевич"
+        },
+        {
+          "en": "Vasily Surikov",
+          "mn": "Василий Суриков"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Ilya Repin's painting shows a grief-stricken Ivan the Terrible cradling his dying son. It was the first painting to be banned by censors in the Russian Empire.",
+        "mn": "Илья Репиний энэхүү зурагт Догшин Иван үхэж буй хүүгээ тэврэн гашуудаж байгааг харуулдаг. Энэ нь Оросын эзэнт гүрний цензураар хориглосон анхны уран зураг болж байжээ."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.mongolian-art-zanabazar-to-sharav",
+      "key": "art.mongolian-art-zanabazar-to-sharav.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which famous masterpiece by Marzan Sharav depicts the everyday life, customs, and celebrations of nomadic Mongolians?",
+        "mn": "Марзан Шаравын бүтээсэн нүүдэлчин монголчуудын өдөр тутмын амьдрал, зан заншил, баяр ёслолыг харуулсан алдарт бүтээл аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "One Day in Mongolia",
+          "mn": "Монголын нэг өдөр"
+        },
+        {
+          "en": "The Airing of Felts",
+          "mn": "Эсгий сунах"
+        },
+        {
+          "en": "The White Tara",
+          "mn": "Цагаан дара эх"
+        },
+        {
+          "en": "The Golden Temple",
+          "mn": "Алтан сүм"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "‘One Day in Mongolia’ is one of the most famous Mongolian paintings, showing hundreds of tiny figures engaged in daily chores, ceremonies, and even humorous misadventures. It is painted in the traditional Mongol Zurag style.",
+        "mn": "«Монголын нэг өдөр» нь нүүдэлчдийн аж амьдрал, баяр ёслол, хошин үйл явдлуудыг олон зуун жижиг дүрсээр харуулсан Монголын хамгийн алдартай уран зураг юм. Энэхүү бүтээлийг уламжлалт Монгол зургийн аргаар зуржээ."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.mongolian-art-zanabazar-to-sharav",
+      "key": "art.mongolian-art-zanabazar-to-sharav.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Zanabazar, the master sculptor and religious leader, was recognized as the first Mongolian reincarnation of which Buddhist title?",
+        "mn": "Барималч, шашны зүтгэлтэн Өндөр гэгээн Занабазарыг Монголын анхны хэддүгээр дүр буюу ямар цолоор өргөмжилсөн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Jebtsundamba Khutuktu",
+          "mn": "Жавзандамба хутагт"
+        },
+        {
+          "en": "Dalai Lama",
+          "mn": "Далай лам"
+        },
+        {
+          "en": "Panchen Lama",
+          "mn": "Банчин богд"
+        },
+        {
+          "en": "Changkya Khutuktu",
+          "mn": "Жанжаа хутагт"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Zanabazar was proclaimed the First Jebtsundamba Khutuktu at the age of five. He went on to become the spiritual leader of Outer Mongolia and a legendary artist.",
+        "mn": "Занабазарыг таван настай байхад нь анхны Жавзандамба хутагтаар өргөмжилжээ. Тэрээр Ар Монголын шашны тэргүүн, домогт уран бүтээлч болсон юм."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.mongolian-art-zanabazar-to-sharav",
+      "key": "art.mongolian-art-zanabazar-to-sharav.g3",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Zanabazar created a beautiful set of sculptures dedicated to the female embodiment of compassion. How many Taras are in this famous set?",
+        "mn": "Өндөр гэгээн Занабазар энэрэнгүй сэтгэлийн бурхан болох Дара эхэд зориулж цуврал баримал бүтээсэн байдаг. Энэхүү алдарт цувралд нийт хэдэн Дара эх багтдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "33 Taras",
+          "mn": "33 Дара эх"
+        },
+        {
+          "en": "108 Taras",
+          "mn": "108 Дара эх"
+        },
+        {
+          "en": "21 Taras",
+          "mn": "21 Дара эх"
+        },
+        {
+          "en": "8 Taras",
+          "mn": "8 Дара эх"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The 'Twenty-One Taras' is considered a pinnacle of Buddhist bronze art. Zanabazar's depictions of these deities are highly praised for their exquisite feminine proportions and peaceful expressions.",
+        "mn": "«Хорин нэгэн дара эх» нь Буддын шашны хүрэл цутгуурын урлагийн оргилд тооцогддог. Занабазарын бүтээсэн эдгээр бурхад нь эмэгтэй хүний биеийн гоо үзэсгэлэн, амар амгалан дүрийг төгс илэрхийлснээрээ алдартай."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.mongolian-art-zanabazar-to-sharav",
+      "key": "art.mongolian-art-zanabazar-to-sharav.g4",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of the following is NOT a characteristic of the traditional 'Mongol Zurag' painting style?",
+        "mn": "Дараах шинж чанаруудын аль нь уламжлалт 'Монгол зураг'-ийн арга барилд хамаарахгүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Western-style linear perspective",
+          "mn": "Барууны шугаман алслалт"
+        },
+        {
+          "en": "Flat, non-shaded colors",
+          "mn": "Сүүдэр өгөхгүй хавтгай будах"
+        },
+        {
+          "en": "Use of natural mineral pigments",
+          "mn": "Байгалийн шороон будаг ашиглах"
+        },
+        {
+          "en": "Focus on everyday nomadic life",
+          "mn": "Нүүдэлчдийн өдөр тутмын амьдралыг дүрслэх"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Traditional Mongol Zurag does not use Western linear perspective or realistic light-and-shadow. Instead, it relies on flat colors and a bird's-eye view to narrate many scenes simultaneously.",
+        "mn": "Уламжлалт Монгол зурагт барууны шугаман алслалт эсвэл гэрэл сүүдрийн уусгалтыг ашигладаггүй. Үүний оронд хавтгай өнгө болон дээрээс тольдон харсан мэт өнцгөөр олон үйл явдлыг зэрэг дүрсэлдэг."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.mongolian-art-zanabazar-to-sharav",
+      "key": "art.mongolian-art-zanabazar-to-sharav.g5",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Who gave Balduugiin Sharav his famous nickname 'Marzan', which means witty or funny?",
+        "mn": "Балдуугийн Шаравт хошин, шогч занг нь үнэлж 'Марзан' хэмээх алдарт хоч нэрийг хэн өгсөн бэ?"
+      },
+      "choices": [
+        {
+          "en": "The Bogd Khan",
+          "mn": "Богд хаан"
+        },
+        {
+          "en": "Choibalsan",
+          "mn": "Х. Чойбалсан"
+        },
+        {
+          "en": "Zanabazar",
+          "mn": "Өндөр гэгээн Занабазар"
+        },
+        {
+          "en": "Sukhbaatar",
+          "mn": "Д. Сүхбаатар"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The last theoretical ruler of Mongolia, the Bogd Khan, gave Sharav the nickname 'Marzan' (the Jester) because of his witty personality and the humorous details hidden in his artwork.",
+        "mn": "Монголын сүүлчийн хаан VIII Богд Жавзандамба хутагт зураачийн хошин шогч зан чанар, уран бүтээлдээ шингээсэн егөөдлийг нь үнэлж 'Марзан' хэмээх хочийг хайрлажээ."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.mongolian-art-zanabazar-to-sharav",
+      "key": "art.mongolian-art-zanabazar-to-sharav.g6",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Zanabazar invented which of the following writing systems, used primarily for spiritual and decorative texts?",
+        "mn": "Өндөр гэгээн Занабазар голдуу шашны болон гоёл чимэглэлийн зориулалтаар ашигладаг ямар бичиг үсгийг зохиосон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Vagindra script",
+          "mn": "Вагиндрагийн үсэг"
+        },
+        {
+          "en": "Soyombo script",
+          "mn": "Соёмбо үсэг"
+        },
+        {
+          "en": "Clear script (Todo Bichig)",
+          "mn": "Тод бичиг"
+        },
+        {
+          "en": "Square script (Phags-pa)",
+          "mn": "Дөрвөлжин үсэг"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Zanabazar invented the Soyombo script in 1686. The very first symbol of this alphabet, the Soyombo, became the national symbol of Mongolia and is featured on its modern flag.",
+        "mn": "Занабазар 1686 онд Соёмбо үсгийг зохиосон юм. Энэхүү цагаан толгойн хамгийн эхний тэмдэг болох Соёмбо нь Монгол улсын үндэсний бэлгэдэл болж, өнөөгийн төрийн далбаан дээр шингэсэн байдаг."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.mongolian-art-zanabazar-to-sharav",
+      "key": "art.mongolian-art-zanabazar-to-sharav.g7",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Due to his mastery of bronze casting, sculpture, and versatile intellect, Zanabazar is often called the 'Michelangelo of' where?",
+        "mn": "Хүрэл цутгуур, уран баримал болон олон талт авьяас билгийг нь үнэлж Занабазарыг ихэвчлэн хаанахын 'Микеланжело' гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Asia",
+          "mn": "Азийн"
+        },
+        {
+          "en": "the Nomads",
+          "mn": "Нүүдэлчдийн"
+        },
+        {
+          "en": "the Steppe",
+          "mn": "Талын"
+        },
+        {
+          "en": "the East",
+          "mn": "Дорнын"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Foreign art historians often refer to Zanabazar as the 'Michelangelo of Asia' because his work represents the absolute peak of Renaissance-style artistic refinement in Buddhist Asia.",
+        "mn": "Гадаадын урлаг судлаачид Занабазарын бүтээлүүдийг Буддын шашинтай Ази дахь Сэргэн мандалтын үеийн урлагийн оргил гэж үзэн түүнийг 'Азийн Микеланжело' хэмээн нэрлэдэг."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.mongolian-art-zanabazar-to-sharav",
+      "key": "art.mongolian-art-zanabazar-to-sharav.g8",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Marzan Sharav is famous for painting portraits of historical figures. Which of these leaders did he famously paint from life?",
+        "mn": "Марзан Шарав түүхэн хүмүүсийн хөрөг зургийг зурдгаараа алдартай. Тэрээр эдгээр удирдагчдын хэнийх нь хөргийг бодит амьдралаас нь сэдэвлэн зурсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Altan Khan",
+          "mn": "Алтан хаан"
+        },
+        {
+          "en": "Kublai Khan",
+          "mn": "Хубилай хаан"
+        },
+        {
+          "en": "Genghis Khan",
+          "mn": "Чингис хаан"
+        },
+        {
+          "en": "The Bogd Khan and Queen Dondogdulam",
+          "mn": "Богд хаан ба Дондогдулам хатан"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Sharav painted the official portraits of the 8th Bogd Khan and his queen consort, Dondogdulam. These portraits are famous for blending traditional flat painting with realistic facial details.",
+        "mn": "Марзан Шарав VIII Богд Жавзандамба хутагт болон Дондогдулам хатны албан ёсны хөргийг зуржээ. Эдгээр хөрөг нь уламжлалт хавтгай зураг болон бодит дүр төрхийг хослуулснаараа онцлог."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.mongolian-art-zanabazar-to-sharav",
+      "key": "art.mongolian-art-zanabazar-to-sharav.g9",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which museum in Ulaanbaatar houses the largest and most famous collection of Zanabazar's original bronze sculptures?",
+        "mn": "Занабазарын эх хувь хүрэл барималуудын хамгийн том, алдартай цуглуулга Улаанбаатар хотын аль музейд хадгалагддаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "The National Museum of Mongolia",
+          "mn": "Монголын Үндэсний музей"
+        },
+        {
+          "en": "The Zanabazar Museum of Fine Arts",
+          "mn": "Занабазарын нэрэмжит Дүрслэх урлагийн музей"
+        },
+        {
+          "en": "The Bogd Khan Palace Museum",
+          "mn": "Богд хааны ордон музей"
+        },
+        {
+          "en": "The Choijin Lama Temple Museum",
+          "mn": "Чойжин ламын сүм музей"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Zanabazar Museum of Fine Arts, established in 1966, houses many of his original masterpieces, including several of the famous Taras and the Five Dhyani Buddhas.",
+        "mn": "1966 онд байгуулагдсан Занабазарын нэрэмжит Дүрслэх урлагийн музейд түүний алдарт Дара эхүүд болон Таван язгуурын бурхад зэрэг олон шилдэг бүтээлүүд хадгалагддаг."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.mongolian-art-zanabazar-to-sharav",
+      "key": "art.mongolian-art-zanabazar-to-sharav.g10",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In Marzan Sharav's 'One Day in Mongolia', which of the following everyday activities is NOT depicted?",
+        "mn": "Марзан Шаравын 'Монголын нэг өдөр' зурагт дараах өдөр тутмын үйл явдлуудын аль нь дүрслэгдээгүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "A traditional wedding ceremony",
+          "mn": "Уламжлалт хурим найр"
+        },
+        {
+          "en": "Lamas performing religious rituals",
+          "mn": "Шашны зан үйл үйлдэж буй лам нар"
+        },
+        {
+          "en": "Modern industrial factory labor",
+          "mn": "Орчин үеийн үйлдвэрийн ажилчид"
+        },
+        {
+          "en": "Making felt and moving gers",
+          "mn": "Эсгий хийх, гэр нүүлгэх"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The painting captures traditional pre-revolutionary nomadic life, so it does not contain modern industrial factories. It focuses purely on rural customs, agriculture, and religious practices.",
+        "mn": "Энэхүү зураг нь хувьсгалын өмнөх уламжлалт нүүдэлчдийн аж амьдралыг харуулдаг тул орчин үеийн аж үйлдвэрийн сэдэв байхгүй. Харин хөдөөгийн зан заншил, мал аж ахуй, шашны зан үйлийг голчлон харуулдаг."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.mongolian-art-zanabazar-to-sharav",
+      "key": "art.mongolian-art-zanabazar-to-sharav.g11",
+      "difficulty": 3,
+      "prompt": {
+        "en": "To which of these international figures did Marzan Sharav paint a famous portrait in his later years, symbolizing Mongolia's political shift?",
+        "mn": "Марзан Шарав амьдралынхаа сүүлийн жилүүдэд Монголын улс төрийн өөрчлөлтийг бэлгэдэн олон улсын ямар алдартай зүтгэлтний хөргийг зурсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Vladimir Lenin",
+          "mn": "Владимир Ленин"
+        },
+        {
+          "en": "Joseph Stalin",
+          "mn": "Иосиф Сталин"
+        },
+        {
+          "en": "Mao Zedong",
+          "mn": "Мао Зэдун"
+        },
+        {
+          "en": "Karl Marx",
+          "mn": "Карл Маркс"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "After the 1921 Mongolian Revolution, Sharav painted a famous portrait of Vladimir Lenin. This marked the transition of Mongolian art from religious themes to Soviet-influenced revolutionary realism.",
+        "mn": "1921 оны Ардын хувьсгалын дараа Шарав В. И. Лениний алдартай хөрөг зургийг зуржээ. Энэ нь Монголын дүрслэх урлаг шашны сэдэвтэй бүтээлээс Зөвлөлтийн нөлөө бүхий хувьсгалт реализм руу шилжих эхлэлийг тавьсан юм."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.mongolian-art-zanabazar-to-sharav",
+      "key": "art.mongolian-art-zanabazar-to-sharav.g12",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Zanabazar's masterpieces are primarily made using which of these artistic techniques?",
+        "mn": "Өндөр гэгээн Занабазарын уран бүтээлүүд голчлон урлагийн ямар техникээр бүтээгдсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Oil on canvas",
+          "mn": "Тосон будаг"
+        },
+        {
+          "en": "Gilt-bronze casting",
+          "mn": "Шүрмэн алтмал хүрэл цутгуур"
+        },
+        {
+          "en": "Woodblock printing",
+          "mn": "Модон барын хэвлэл"
+        },
+        {
+          "en": "Marble carving",
+          "mn": "Гантиг чулуун сийлбэр"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Zanabazar is world-renowned for his gilt-bronze sculptures. He used the lost-wax casting technique and finished them with mercury gilding to create a brilliant, smooth gold finish.",
+        "mn": "Занабазар нь алтадмал хүрэл баримлуудаараа дэлхийд алдартай. Тэрээр лаагаар хэв гаргах аргыг ашиглаж, мөнгөн усаар алтадах техникээр гялалзсан, толигор гадаргууг бүтээдэг байжээ."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.art-heists-and-strange-stories",
+      "key": "art.art-heists-and-strange-stories.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In 1911, an Italian Louvre employee named Vincenzo Peruggia walked out of the museum with a masterpiece hidden under his coat. Which painting did he steal, making it the most famous artwork in the world?",
+        "mn": "1911 онд Луврын музейн ажилтан Винченцо Перужиа нэгэн алдартай зургийг ажлын хувцас дотроо нуун хулгайлж, улмаар уг бүтээлийг дэлхийн хамгийн алдартай зураг болгосон түүхтэй. Тэрээр ямар зургийг хулгайлсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Girl with a Pearl Earring",
+          "mn": "Сувдан ээмэгтэй бүсгүй"
+        },
+        {
+          "en": "The Scream",
+          "mn": "Хашхираан"
+        },
+        {
+          "en": "The Starry Night",
+          "mn": "Одод түгсэн шөнө"
+        },
+        {
+          "en": "Mona Lisa",
+          "mn": "Мона Лиза"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Vincenzo Peruggia stole the Mona Lisa believing it belonged in Italy. The massive media coverage during its two-year disappearance transformed it from a respected artwork into a global icon.",
+        "mn": "Винченцо Перужиа Мона Лизаг Итали улсад байх ёстой гэж үзэн хулгайлжээ. Хоёр жилийн турш алга болсон уг зургийн талаарх хэвлэл мэдээллийн шуугиан нь түүнийг дэлхий дахинд алдаршуулсан юм."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.art-heists-and-strange-stories",
+      "key": "art.art-heists-and-strange-stories.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "When Edvard Munch's famous painting 'The Scream' was stolen from Oslo's National Gallery in 1994, the thieves left a cheeky note. What did the note say?",
+        "mn": "1994 онд Эдвард Мункийн «Хашхираан» зураг Осло хотын Үндэсний галерейгаас хулгайлагдах үед хулгайчид музейн ханан дээр шоолсон өнгөтэй зурвас үлдээжээ. Тэрхүү зурваст юу гэж бичсэн байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "\"Gone in 60 seconds\"",
+          "mn": "\"60 секундэд алга болов\""
+        },
+        {
+          "en": "\"Thanks for the poor security\"",
+          "mn": "\"Хамгаалалт муу байсанд баярлалаа\""
+        },
+        {
+          "en": "\"Catch us if you can\"",
+          "mn": "\"Чадаж байвал биднийг бариарай\""
+        },
+        {
+          "en": "\"Art belongs to the people\"",
+          "mn": "\"Урлаг бол ард түмний өмч\""
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The thieves stole the painting in broad daylight on the opening day of the 1994 Winter Olympics. Fortunately, the masterpiece was recovered undamaged a few months later.",
+        "mn": "Хулгайчид 1994 оны Өвлийн Олимпын нээлтийн өдөр уг зургийг хулгайлжээ. Азаар уг хосгүй бүтээлийг хэдэн сарын дараа ямар нэгэн гэмтэлгүйгээр олж илрүүлсэн байна."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.art-heists-and-strange-stories",
+      "key": "art.art-heists-and-strange-stories.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Undur Gegeen Zanabazar, the great Mongolian artist and religious leader, was famous for casting beautiful bronze sculptures. Which Buddhist deity's 21 manifestations did he famously depict in a series of exquisite statues?",
+        "mn": "Монголын шашин, соёлын гарамгай зүтгэлтэн, уран барималч Өндөр Гэгээн Занабазар бурхан шашны ямар дүрийн 21 хувилбарыг хосгүй нарийн хийцтэйгээр урласан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Manjushri",
+          "mn": "Манзушир"
+        },
+        {
+          "en": "Avalokiteshvara",
+          "mn": "Жанрайсэг"
+        },
+        {
+          "en": "Tara",
+          "mn": "Дарь эх"
+        },
+        {
+          "en": "Vajrapani",
+          "mn": "Очирваань"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Zanabazar created the famous Twenty-One Taras, showcasing incredible mastery of bronze casting and proportions. His works are celebrated as masterpieces of Buddhist art globally.",
+        "mn": "Өндөр Гэгээн Занабазар хорин нэгэн Дарь эхийг цутгамал хүрэл уран баримлын аргаар гайхалтай урласан байдаг. Түүний бүтээлүүд дэлхийн бурхны шашны урлагийн хосгүй өвд тооцогддог."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.art-heists-and-strange-stories",
+      "key": "art.art-heists-and-strange-stories.g4",
+      "difficulty": 1,
+      "prompt": {
+        "en": "The famous Mongolian painter Marzan Sharav painted a masterpiece depicting daily life, nomadic customs, and humorous scenes of 19th-century Mongolia. What is the title of this famous painting?",
+        "mn": "Монголын алдарт зураач Марзан Шаравын XIX зууны сүүл үеийн монголчуудын ахуй амьдрал, зан заншил, хошин шог дүр зургийг харуулсан хосгүй бүтээлийг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "\"One Day in Mongolia\"",
+          "mn": "\"Монголын нэг өдөр\""
+        },
+        {
+          "en": "\"The Golden Horde\"",
+          "mn": "\"Алтан орд\""
+        },
+        {
+          "en": "\"Steppe Caravan\"",
+          "mn": "\"Талын жингийн цуваа\""
+        },
+        {
+          "en": "\"The Great Naadam\"",
+          "mn": "\"Их наадам\""
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Balduugiin 'Marzan' Sharav painted 'One Day in Mongolia' in the early 20th century. It depicts over 300 individuals engaged in various aspects of nomadic life, from birth rituals to horse taming.",
+        "mn": "Балдуугийн Марзан Шарав XX зууны эхээр «Монголын нэг өдөр» зургийг зуржээ. Энд нүүдэлчдийн амьдралын төрөл бүрийн үйл явдлыг 300 гаруй хүний дүрээр дүрслэн харуулсан байдаг."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.art-heists-and-strange-stories",
+      "key": "art.art-heists-and-strange-stories.g5",
+      "difficulty": 1,
+      "prompt": {
+        "en": "There is a famous story about Vincent van Gogh cutting off a part of his own ear after a heated argument. Which fellow Post-Impressionist painter did he argue with just before this incident?",
+        "mn": "Винсент ван Гог өөрийн чихний хэсгийг огтолсон алдартай түүх байдаг. Тэрээр энэхүү хэрэг явдлын өмнөхөн өөрийн хамтран амьдарч байсан аль импрессионист зураачтай маргалдсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Claude Monet",
+          "mn": "Клод Моне"
+        },
+        {
+          "en": "Paul Gauguin",
+          "mn": "Поль Гоген"
+        },
+        {
+          "en": "Pablo Picasso",
+          "mn": "Пабло Пикассо"
+        },
+        {
+          "en": "Salvador Dalí",
+          "mn": "Сальвадор Дали"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Van Gogh and Paul Gauguin lived together in the 'Yellow House' in Arles, France. Their intense artistic differences and volatile personalities led to the famous confrontation in December 1888.",
+        "mn": "Ван Гог, Поль Гоген нар Францын Арль дахь \"Шар байшин\"-д хамт амьдарч байжээ. Тэдний уран бүтээлийн үзэл бодлын зөрүү болон ааш зангийн ялгаа нь 1888 оны 12-р сард маргаан үүсэхэд хүргэсэн юм."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.art-heists-and-strange-stories",
+      "key": "art.art-heists-and-strange-stories.g6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In 1990, thieves disguised as police officers pulled off the largest art heist in modern history at the Isabella Stewart Gardner Museum in Boston. What unusual decision did the museum make regarding the empty spaces left by the stolen masterpieces?",
+        "mn": "1990 онд Бостоны Гарднерын музейгээс цагдаагийн хувцастай хулгайчид түүхэн дэх хамгийн том урлагийн бүтээлийн дээрмийг үйлдсэн билээ. Тус музей хулгайлагдсан зургуудын хоосон орон зайд ямар шийдвэр гаргасан бэ?"
+      },
+      "choices": [
+        {
+          "en": "They closed the gallery permanently",
+          "mn": "Тэр танхимыг бүрмөсөн хаасан"
+        },
+        {
+          "en": "They painted the walls completely black",
+          "mn": "Ханыг нь тэр чигт нь хараар будсан"
+        },
+        {
+          "en": "They hung high-quality replicas",
+          "mn": "Хуулбар зургуудыг нь орлуулан тавьсан"
+        },
+        {
+          "en": "They left the empty frames hanging on the walls",
+          "mn": "Хоосон жаазыг нь ханан дээр хэвээр нь үлдээсэн"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The museum leaves the empty frames on the walls as placeholders, hoping the works will be returned. The 13 stolen artworks, including pieces by Vermeer and Rembrandt, are valued at $500 million.",
+        "mn": "Музейн зүгээс хулгайлагдсан зургуудыг хэзээ нэгэн цагт эргэж ирнэ гэж найдан хоосон жаазыг нь хананд хэвээр үлдээжээ. Хулгайлагдсан 13 бүтээлийн дунд Вермеер, Рембрандтын сод бүтээлүүд багтсан бөгөөд нийт 500 сая доллароор үнэлэгддэг."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.art-heists-and-strange-stories",
+      "key": "art.art-heists-and-strange-stories.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Michelangelo's iconic statue of David is a masterpiece of the High Renaissance. However, the giant block of marble he used had been abandoned for over 40 years by other sculptors. Why did previous artists reject this specific block?",
+        "mn": "Микеланжелогийн урласан Давид бол Сэргэн мандалтын үеийн сод бүтээл билээ. Гэвч түүний ашигласан аварга том гантиг чулууг өмнө нь өөр уран барималчид 40 гаруй жил голон орхисон байжээ. Тэд яагаад уг чулуунаас татгалзсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "It was cursed by a Pope",
+          "mn": "Ромын пап уг чулууг хараасан байсан тул"
+        },
+        {
+          "en": "It was too dark in color",
+          "mn": "Өнгө нь дэндүү бараан байсан тул"
+        },
+        {
+          "en": "It had structural flaws and cracks",
+          "mn": "Дотоод бүтэц нь цуурч, гэмтэлтэй байсан тул"
+        },
+        {
+          "en": "It was stolen from a cathedral",
+          "mn": "Сүмээс хулгайлагдсан чулуу байсан тул"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The marble block was nicknamed 'The Giant' and had been damaged by previous sculptors who made poor cuts. Michelangelo, at just 26 years old, took the flawed block and carved his masterpiece.",
+        "mn": "Уг гантиг чулууг \"Аварга биет\" гэж нэрлэдэг байсан бөгөөд өмнөх уран барималчид буруу зүссэнээс болж гэмтсэн байжээ. Микеланжело ердөө 26 настайдаа энэхүү гологдсон чулууг ашиглан Давидыг урласан байна."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.art-heists-and-strange-stories",
+      "key": "art.art-heists-and-strange-stories.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Pablo Picasso's monumental anti-war painting 'Guernica' was created in response to the bombing of a Basque town during the Spanish Civil War. In which major art movement is this masterpiece primarily classified?",
+        "mn": "Пабло Пикассогийн дайны эсрэг дуу хоолой болсон алдарт «Герника» зураг нь Испанийн иргэний дайны үеэр бөмбөгдөлтөд өртсөн хотын эмгэнэлийг харуулдаг. Уг бүтээл нь урлагийн ямар урсгалд голчлон хамаардаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Impressionism",
+          "mn": "Импрессионист"
+        },
+        {
+          "en": "Baroque",
+          "mn": "Барокко"
+        },
+        {
+          "en": "Cubism",
+          "mn": "Кубизм"
+        },
+        {
+          "en": "Surrealism",
+          "mn": "Сюрреализм"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Guernica is considered one of the most powerful anti-war paintings in history. Picasso used cubist techniques, using a monochrome palette of gray, black, and white to emphasize the tragedy.",
+        "mn": "«Герника»-г түүхэн дэх дайны эсрэг хамгийн хүчтэй нөлөө бүхий зураг гэж үздэг. Пикассо эмгэнэлт байдлыг тодотгохын тулд хар, цагаан, саарал өнгийг ашиглан кубист хэв маягаар зуржээ."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.art-heists-and-strange-stories",
+      "key": "art.art-heists-and-strange-stories.g9",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Salvador Dalí's surrealist masterpiece 'The Persistence of Memory' features melting pocket watches. What everyday food item did Dalí claim inspired the image of these melting clocks?",
+        "mn": "Сальвадор Далигийн сюрреалист чиглэлийн сод бүтээл болох «Ой санамжийн тууштай чанар» зурагт хайлж буй халаасны цагнуудыг дүрсэлсэн байдаг. Дали ямар хүнсний бүтээгдэхүүнээс сэдэвлэн эдгээр цагийг зурсан гэж хэлсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Pizza dough",
+          "mn": "Пиццаны зуурмаг"
+        },
+        {
+          "en": "Fried eggs",
+          "mn": "Шарсан өндөг"
+        },
+        {
+          "en": "Melted chocolate",
+          "mn": "Хайлсан шоколад"
+        },
+        {
+          "en": "Camembert cheese",
+          "mn": "Камамбер бяслаг"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Dalí claimed that the idea of the soft, melting watches came to him after eating a runny Camembert cheese on a hot summer afternoon.",
+        "mn": "Дали халуун зуны өдөр Камамбер бяслаг идэж байгаад халуунд хайлж буй бяслагнаас сэдэвлэн зөөлөн хайлж буй цагны санааг олсон гэж тайлбарлаж байжээ."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.art-heists-and-strange-stories",
+      "key": "art.art-heists-and-strange-stories.g10",
+      "difficulty": 3,
+      "prompt": {
+        "en": "High-resolution digital scans of Leonardo da Vinci's 'Mona Lisa' in 2007 revealed a surprising secret about her face that had been debated for centuries. What did these scans prove about her originally?",
+        "mn": "2007 онд Леонардо да Винчигийн «Мона Лиза» зургийг өндөр нарийвчлалтай сканераар шинжлэхэд олон зууны турш маргаантай байсан нэгэн нууцыг тайлжээ. Уг шинжилгээгээр юуг баталсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "She originally had eyebrows and eyelashes",
+          "mn": "Тэр анх хөмсөг болон сормуустай байсан"
+        },
+        {
+          "en": "She was painted with a gold tooth",
+          "mn": "Түүнийг алтан шүдтэйгээр зурсан байсан"
+        },
+        {
+          "en": "She was wearing a wedding ring",
+          "mn": "Тэр хуримын бөгж зүүсэн байсан"
+        },
+        {
+          "en": "She was holding a small flower",
+          "mn": "Тэр гартаа жижиг цэцэг барьж байсан"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Ultra-high-resolution scans showed that Da Vinci did paint eyebrows and eyelashes, but they had faded over centuries of cleaning and restoration attempts.",
+        "mn": "Өндөр нарийвчлалтай сканерын тусламжтайгаар Да Винчи анх Мона Лизаг хөмсөг, сормуустай зурсан боловч олон зууны турш цэвэрлэгээ, сэргээн засварлах явцад тэдгээр нь арилсан болохыг тогтоожээ."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.art-heists-and-strange-stories",
+      "key": "art.art-heists-and-strange-stories.g11",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The term 'Impressionism' was originally coined by a hostile art critic as an insult, mocking a specific painting by Claude Monet. What was the title of this painting?",
+        "mn": "\"Импрессионизм\" гэх нэр томьёог анх нэгэн шүүмжлэгч Клод Монегийн тодорхой нэгэн зургийг дооглон тохуурхах зорилгоор хэлснээс үүсжээ. Тэрхүү зургийн нэр юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "\"The Gare Saint-Lazare\"",
+          "mn": "\"Сен-Лазар вокзал\""
+        },
+        {
+          "en": "\"Water Lilies\"",
+          "mn": "\"Усны сараана цэцэгс\""
+        },
+        {
+          "en": "\"Woman with a Parasol\"",
+          "mn": "\"Шүхэртэй бүсгүй\""
+        },
+        {
+          "en": "\"Impression, Sunrise\"",
+          "mn": "\"Сэтгэгдэл, Наран мандах үе\""
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Art critic Louis Leroy wrote a mocking review of Monet's painting 'Impression, Sunrise', calling the style unfinished. The artists embraced the insult, adopting it as the official name of their movement.",
+        "mn": "Урлагийн шүүмжлэгч Луи Леруа Клод Монегийн «Сэтгэгдэл, Наран мандах үе» зургийг дутуу дулимаг хийгдсэн хэмээн шоолж бичжээ. Гэвч уран бүтээлчид энэхүү доромжлолыг өөрсдийн урсгалын нэр болгон авч үлдсэн байна."
+      }
+    },
+    {
+      "topicSlug": "art",
+      "lessonKey": "art.art-heists-and-strange-stories",
+      "key": "art.art-heists-and-strange-stories.g12",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Known as the most frequently stolen artwork in history, this multi-panel 15th-century masterpiece by the Van Eyck brothers has been coveted by Napoleon, Hitler, and various thieves. What is this famous artwork called?",
+        "mn": "Түүхэнд хамгийн олон удаа хулгайлагдсан урлагийн бүтээл гэгддэг, Наполеон, Гитлер болон олон хулгайчдын шуналыг хөдөлгөж байсан ах дүү Ван Эйкийн XV зууны олон хэсэгт сод бүтээлийг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "The Garden of Earthly Delights",
+          "mn": "Дэлхий дэх таашаалын цэцэрлэг"
+        },
+        {
+          "en": "The Ghent Altarpiece",
+          "mn": "Гентийн тахилын ширээний зураг"
+        },
+        {
+          "en": "The Last Judgment",
+          "mn": "Сүүлчийн шүүх ажиллагаа"
+        },
+        {
+          "en": "The Isenheim Altarpiece",
+          "mn": "Изенхаймын тахилын ширээний зураг"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Ghent Altarpiece has been stolen, looted, or damaged in 13 different incidents over its 600-year history. One of its panels, stolen in 1934, remains missing to this day.",
+        "mn": "Гентийн тахилын ширээний зураг нь 600 жилийн түүхэндээ 13 удаа хулгайлагдаж, дээрэмдэгдэж, сүйтгэгдэж байжээ. 1934 онд хулгайлагдсан нэг хэсэг нь өнөөг хүртэл олдоогүй байна."
+      }
+    }
+  ]
+}

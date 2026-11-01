@@ -1,0 +1,4265 @@
+{
+  "lessons": [
+    {
+      "topicSlug": "pubquiz",
+      "key": "pubquiz.mongol-history",
+      "order": 26,
+      "title": {
+        "en": "Mongol Empire & Modern Mongolia",
+        "mn": "Их Монгол улс ба орчин үеийн Монгол"
+      },
+      "summary": {
+        "en": "From Chinggis Khaan’s empire to the 1990 democratic revolution.",
+        "mn": "Чингис хааны эзэнт гүрнээс 1990 оны ардчилсан хувьсгал хүртэл."
+      },
+      "body": {
+        "en": "In 1206 Temüjin united the steppe tribes and took the title Chinggis Khaan. His sons and grandsons built the largest contiguous land empire in history, stretching from Korea to Hungary. Modern Mongolia declared independence in 1911, became a people’s republic in 1924 and a democracy in 1990.",
+        "mn": "1206 онд Тэмүжин тал нутгийн аймгуудыг нэгтгэж, Чингис хаан цол хүртсэн. Түүний хөвгүүд, ач нар Солонгосоос Унгар хүртэл үргэлжилсэн, түүхэн дэх хамгийн том тасралтгүй газар нутагтай эзэнт гүрнийг байгуулжээ. Орчин үеийн Монгол 1911 онд тусгаар тогтнолоо зарлаж, 1924 онд ардын бүгд найрамдах улс, 1990 онд ардчилсан орон болсон."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "🏹",
+            "title": {
+              "en": "Chinggis Khaan",
+              "mn": "Чингис хаан"
+            },
+            "facts": [
+              {
+                "en": "Born Temüjin, proclaimed khan in 1206",
+                "mn": "Тэмүжин нэртэй төрж, 1206 онд хаан өргөмжлөгдсөн"
+              },
+              {
+                "en": "First wife: Börte",
+                "mn": "Анхны хатан нь Бөртэ"
+              },
+              {
+                "en": "Created the Yassa law code",
+                "mn": "Их засаг хуулийг тогтоосон"
+              }
+            ]
+          },
+          {
+            "icon": "🏯",
+            "title": {
+              "en": "Khans after him",
+              "mn": "Түүний залгамжлагчид"
+            },
+            "facts": [
+              {
+                "en": "Ögedei built Karakorum",
+                "mn": "Өгөдэй Хархорумыг байгуулсан"
+              },
+              {
+                "en": "Kublai founded the Yuan dynasty",
+                "mn": "Хубилай Юань улсыг үүсгэсэн"
+              },
+              {
+                "en": "Batu led the Golden Horde",
+                "mn": "Бат Алтан ордыг тэргүүлсэн"
+              }
+            ]
+          },
+          {
+            "icon": "⚔️",
+            "title": {
+              "en": "Key battles",
+              "mn": "Гол тулалдаанууд"
+            },
+            "facts": [
+              {
+                "en": "Kalka River, 1223",
+                "mn": "Калк мөрний тулалдаан, 1223"
+              },
+              {
+                "en": "Mohi, Hungary, 1241",
+                "mn": "Мохи, Унгар, 1241"
+              },
+              {
+                "en": "Ain Jalut defeat, 1260",
+                "mn": "Айн-Жалутын ялагдал, 1260"
+              }
+            ]
+          },
+          {
+            "icon": "🇲🇳",
+            "title": {
+              "en": "Modern Mongolia",
+              "mn": "Орчин үеийн Монгол"
+            },
+            "facts": [
+              {
+                "en": "Independence from the Qing, 1911",
+                "mn": "Чин улсаас тусгаар тогтнол, 1911"
+              },
+              {
+                "en": "People’s Revolution, 1921",
+                "mn": "Ардын хувьсгал, 1921"
+              },
+              {
+                "en": "Democratic Revolution, 1990",
+                "mn": "Ардчилсан хувьсгал, 1990"
+              }
+            ]
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "Marco Polo spent about 17 years in China at the court of Kublai Khan.",
+          "mn": "Марко Поло Хубилай хааны ордонд 17 орчим жил амьдарсан."
+        },
+        {
+          "en": "Ulaanbaatar means “Red Hero”, a name given in 1924.",
+          "mn": "Улаанбаатар гэдэг нь «улаан баатар» гэсэн утгатай бөгөөд 1924 онд өгсөн нэр."
+        }
+      ]
+    },
+    {
+      "topicSlug": "pubquiz",
+      "key": "pubquiz.words",
+      "order": 27,
+      "title": {
+        "en": "Words, Languages & Etymology",
+        "mn": "Үг, хэл, үгийн гарал"
+      },
+      "summary": {
+        "en": "Where everyday words come from and fun facts about the world’s languages.",
+        "mn": "Өдөр тутмын үгс хаанаас гаралтай, дэлхийн хэлнүүдийн сонирхолтой баримт."
+      },
+      "body": {
+        "en": "English has borrowed words from almost every language it met: algebra from Arabic, tsunami from Japanese, robot from Czech. Many words hide forgotten stories — a disaster was once a “bad star”. Around 7,000 languages are spoken today, and Papua New Guinea alone has more than 800.",
+        "mn": "Англи хэл өөрийн учирсан бараг бүх хэлнээс үг зээлсэн: алгебр нь араб, цунами нь япон, робот нь чех хэлнээс гаралтай. Олон үгэнд мартагдсан түүх нуугдаж байдаг — «disaster» (гамшиг) гэдэг нь угтаа «муу од» гэсэн утгатай. Өнөөдөр 7000 орчим хэлээр ярьдаг бөгөөд зөвхөн Папуа Шинэ Гвинейд 800 гаруй хэл бий."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "🕌",
+            "title": {
+              "en": "From Arabic",
+              "mn": "Араб хэлнээс"
+            },
+            "facts": [
+              {
+                "en": "Algebra — al-jabr",
+                "mn": "Алгебр — al-jabr"
+              },
+              {
+                "en": "Alcohol — al-kuḥl",
+                "mn": "Алкоголь — al-kuḥl"
+              }
+            ]
+          },
+          {
+            "icon": "🗾",
+            "title": {
+              "en": "From Japanese",
+              "mn": "Япон хэлнээс"
+            },
+            "facts": [
+              {
+                "en": "Tsunami — “harbour wave”",
+                "mn": "Цунами — «боомтын давалгаа»"
+              },
+              {
+                "en": "Emoji — “picture + character”",
+                "mn": "Эможи — «зураг + үсэг»"
+              }
+            ]
+          },
+          {
+            "icon": "🌮",
+            "title": {
+              "en": "From Nahuatl",
+              "mn": "Науатль хэлнээс"
+            },
+            "facts": [
+              {
+                "en": "Tomato, chocolate, avocado",
+                "mn": "Улаан лооль, шоколад, авокадо"
+              },
+              {
+                "en": "Language of the Aztecs",
+                "mn": "Ацтекүүдийн хэл"
+              }
+            ]
+          },
+          {
+            "icon": "👤",
+            "title": {
+              "en": "Named after people",
+              "mn": "Хүний нэрээр"
+            },
+            "facts": [
+              {
+                "en": "Sandwich — the Earl of Sandwich",
+                "mn": "Сэндвич — Сэндвичийн гүн"
+              },
+              {
+                "en": "Boycott — Captain Charles Boycott",
+                "mn": "Бойкот — ахмад Чарльз Бойкот"
+              }
+            ]
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "The word “nerd” first appeared in Dr. Seuss’s 1950 book If I Ran the Zoo.",
+          "mn": "«Nerd» гэдэг үг анх 1950 онд Доктор Сюссийн «If I Ran the Zoo» номд гарчээ."
+        },
+        {
+          "en": "Basque is a language isolate — related to no other living language.",
+          "mn": "Баск хэл ямар ч амьд хэлтэй төрөл холбоогүй, тусгаар хэл юм."
+        }
+      ]
+    },
+    {
+      "topicSlug": "pubquiz",
+      "key": "pubquiz.brands",
+      "order": 28,
+      "title": {
+        "en": "Famous Companies, Brands & Logos",
+        "mn": "Алдартай компани, брэнд, лого"
+      },
+      "summary": {
+        "en": "The surprising origins behind the world’s best-known names and logos.",
+        "mn": "Дэлхийн хамгийн алдартай нэр, логоны гайхалтай гарал үүсэл."
+      },
+      "body": {
+        "en": "Many giant companies started small and strange: Nintendo made playing cards, Nokia ran a paper mill and Amazon only sold books. Brand names often hide a story — Lego comes from Danish “play well”, Samsung means “three stars”. Logos are just as telling, from Audi’s four rings to the Nike swoosh.",
+        "mn": "Олон аварга компани жижиг, хачин эхлэлтэй: Nintendo хөзөр хийдэг, Nokia цаасны үйлдвэр ажиллуулдаг, Amazon зөвхөн ном зардаг байжээ. Брэндийн нэрэнд ихэвчлэн түүх нуугдаж байдаг — Lego нь дани хэлээр «сайн тогло», Samsung нь «гурван од» гэсэн утгатай. Audi-гийн дөрвөн цагиргаас Nike-ийн зураас хүртэл лого ч гэсэн их зүйлийг өгүүлдэг."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "🎴",
+            "title": {
+              "en": "Odd beginnings",
+              "mn": "Хачин эхлэл"
+            },
+            "facts": [
+              {
+                "en": "Nintendo — playing cards, 1889",
+                "mn": "Nintendo — хөзөр, 1889"
+              },
+              {
+                "en": "Nokia — paper mill in Finland",
+                "mn": "Nokia — Финландын цаасны үйлдвэр"
+              },
+              {
+                "en": "Lamborghini — tractors",
+                "mn": "Lamborghini — трактор"
+              }
+            ]
+          },
+          {
+            "icon": "🔤",
+            "title": {
+              "en": "Name meanings",
+              "mn": "Нэрийн утга"
+            },
+            "facts": [
+              {
+                "en": "Lego — “leg godt”, play well",
+                "mn": "Lego — «leg godt», сайн тогло"
+              },
+              {
+                "en": "Samsung — three stars",
+                "mn": "Samsung — гурван од"
+              },
+              {
+                "en": "Volkswagen — people’s car",
+                "mn": "Volkswagen — ардын машин"
+              }
+            ]
+          },
+          {
+            "icon": "🎨",
+            "title": {
+              "en": "Logos",
+              "mn": "Лого"
+            },
+            "facts": [
+              {
+                "en": "Audi — four rings, four firms",
+                "mn": "Audi — дөрвөн цагираг, дөрвөн компани"
+              },
+              {
+                "en": "Mercedes — star for land, sea, air",
+                "mn": "Mercedes — газар, ус, агаарын од"
+              },
+              {
+                "en": "Nike swoosh cost $35",
+                "mn": "Nike-ийн зураас 35 доллар"
+              }
+            ]
+          },
+          {
+            "icon": "🚀",
+            "title": {
+              "en": "Founders",
+              "mn": "Үүсгэн байгуулагчид"
+            },
+            "facts": [
+              {
+                "en": "Apple — Jobs, Wozniak, Wayne",
+                "mn": "Apple — Жобс, Возняк, Уэйн"
+              },
+              {
+                "en": "Microsoft — Gates and Allen",
+                "mn": "Microsoft — Гейтс, Аллен"
+              }
+            ]
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "Google was first called BackRub.",
+          "mn": "Google анх BackRub нэртэй байжээ."
+        },
+        {
+          "en": "Pepsi began life in 1893 as “Brad’s Drink”.",
+          "mn": "Pepsi 1893 онд «Brad’s Drink» нэрээр эхэлсэн."
+        },
+        {
+          "en": "Häagen-Dazs was founded in New York; its Danish-looking name is invented.",
+          "mn": "Häagen-Dazs Нью-Йоркт үүссэн; дани маягийн нэр нь зохиомол."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongol-history",
+      "key": "pubquiz.mongol-history.a31",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In which year was Temüjin proclaimed Chinggis Khaan?",
+        "mn": "Тэмүжин аль онд Чингис хаан цол хүртсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "1162",
+          "mn": "1162"
+        },
+        {
+          "en": "1206",
+          "mn": "1206"
+        },
+        {
+          "en": "1227",
+          "mn": "1227"
+        },
+        {
+          "en": "1271",
+          "mn": "1271"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "At a great kurultai by the Onon River in 1206 he became Chinggis Khaan and founded the Great Mongol State.",
+        "mn": "1206 онд Онон голын эхэнд болсон их хуралдайгаар тэрээр Чингис хаан өргөмжлөгдөж, Их Монгол улсыг байгуулсан."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongol-history",
+      "key": "pubquiz.mongol-history.a32",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What was Chinggis Khaan’s birth name?",
+        "mn": "Чингис хааны төрсөн нэр юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Temüjin",
+          "mn": "Тэмүжин"
+        },
+        {
+          "en": "Jamukha",
+          "mn": "Жамуха"
+        },
+        {
+          "en": "Yesügei",
+          "mn": "Есүхэй"
+        },
+        {
+          "en": "Tolui",
+          "mn": "Толуй"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "He was named Temüjin after a Tatar chief his father Yesügei had just captured.",
+        "mn": "Түүнийг эцэг Есүхэй баатрын дөнгөж олзолсон татар ноён Тэмүжин Үгийн нэрээр нэрлэжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongol-history",
+      "key": "pubquiz.mongol-history.a33",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Who was Chinggis Khaan’s first and principal wife?",
+        "mn": "Чингис хааны анхны бөгөөд ахмад хатан хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Sorghaghtani",
+          "mn": "Сорхагтани"
+        },
+        {
+          "en": "Khulan",
+          "mn": "Хулан"
+        },
+        {
+          "en": "Töregene",
+          "mn": "Төрөгэнэ"
+        },
+        {
+          "en": "Börte",
+          "mn": "Бөртэ"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Börte was kidnapped by the Merkits soon after their marriage; Temüjin rescued her, and she bore his four main sons.",
+        "mn": "Бөртийг гэрлэсний дараахан мэргидүүд булаан авчээ; Тэмүжин түүнийг аварсан бөгөөд тэрээр хааны дөрвөн гол хүүг төрүүлсэн."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongol-history",
+      "key": "pubquiz.mongol-history.a34",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which son succeeded Chinggis Khaan as Great Khan?",
+        "mn": "Чингис хааныг залгамжилж их хаан болсон хүү нь хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Jochi",
+          "mn": "Зүчи"
+        },
+        {
+          "en": "Tolui",
+          "mn": "Толуй"
+        },
+        {
+          "en": "Ögedei",
+          "mn": "Өгөдэй"
+        },
+        {
+          "en": "Chagatai",
+          "mn": "Цагаадай"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Ögedei, his third son, was elected Great Khan in 1229 and continued the conquests into China and Europe.",
+        "mn": "Гутгаар хүү Өгөдэй 1229 онд их хаан сонгогдож, Хятад, Европ руу байлдан дагуулалтыг үргэлжлүүлсэн."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongol-history",
+      "key": "pubquiz.mongol-history.a35",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which city became the capital of the Mongol Empire under Ögedei?",
+        "mn": "Өгөдэй хааны үед Их Монгол улсын нийслэл аль хот болсон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Karakorum",
+          "mn": "Хархорум"
+        },
+        {
+          "en": "Khanbaliq",
+          "mn": "Ханбалиг"
+        },
+        {
+          "en": "Samarkand",
+          "mn": "Самарканд"
+        },
+        {
+          "en": "Sarai",
+          "mn": "Сарай"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Ögedei walled Karakorum in the Orkhon valley in 1235; the Erdene Zuu monastery was later built from its ruins.",
+        "mn": "Өгөдэй 1235 онд Орхоны хөндийд Хархорумыг хэрэм шивээтэй болгосон; хожим түүний туурин дээр Эрдэнэ Зуу хийдийг барьжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongol-history",
+      "key": "pubquiz.mongol-history.a36",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Kublai Khan founded which Chinese dynasty?",
+        "mn": "Хубилай хаан Хятадад ямар улсыг үүсгэн байгуулсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Ming",
+          "mn": "Мин"
+        },
+        {
+          "en": "Song",
+          "mn": "Сүн"
+        },
+        {
+          "en": "Yuan",
+          "mn": "Юань"
+        },
+        {
+          "en": "Tang",
+          "mn": "Тан"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Kublai proclaimed the Yuan dynasty in 1271 and made Khanbaliq, today’s Beijing, his capital.",
+        "mn": "Хубилай 1271 онд Юань улсыг тунхаглаж, өнөөгийн Бээжин болох Ханбалигийг нийслэлээ болгосон."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongol-history",
+      "key": "pubquiz.mongol-history.a37",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the oldest surviving literary work in the Mongolian language?",
+        "mn": "Монгол хэлээр бичигдсэн, өнөөг хүртэл хадгалагдсан хамгийн эртний уран зохиолын бүтээл юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Jangar",
+          "mn": "Жангар"
+        },
+        {
+          "en": "The Secret History",
+          "mn": "Монголын нууц товчоо"
+        },
+        {
+          "en": "Altan Tobchi",
+          "mn": "Алтан товч"
+        },
+        {
+          "en": "Geser",
+          "mn": "Гэсэр"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Secret History of the Mongols tells the life of Chinggis Khaan; it survived mainly as a Chinese-character transcription.",
+        "mn": "«Монголын нууц товчоо» Чингис хааны амьдралыг өгүүлдэг бөгөөд голчлон хятад үсгээр галигласан хэлбэрээр хадгалагдан үлджээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongol-history",
+      "key": "pubquiz.mongol-history.a38",
+      "difficulty": 1,
+      "prompt": {
+        "en": "The Mongol Empire was the largest ___ empire in history.",
+        "mn": "Их Монгол улс бол түүхэн дэх хамгийн том ___ эзэнт гүрэн."
+      },
+      "choices": [
+        {
+          "en": "Maritime",
+          "mn": "Далайн"
+        },
+        {
+          "en": "Island",
+          "mn": "Арлын"
+        },
+        {
+          "en": "Colonial",
+          "mn": "Колоничлолын"
+        },
+        {
+          "en": "Contiguous land",
+          "mn": "Тасралтгүй газар нутагтай"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "At its height it covered about 24 million km²; only the British Empire, spread across oceans, was larger overall.",
+        "mn": "Оргил үедээ 24 сая орчим км² нутагтай байсан; далай тэнгисээр тархсан Британийн эзэнт гүрэн л нийт талбайгаараа илүү байжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongol-history",
+      "key": "pubquiz.mongol-history.a39",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which Venetian traveller served at Kublai Khan’s court?",
+        "mn": "Хубилай хааны ордонд алба хашиж байсан Венецийн аялагч хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Marco Polo",
+          "mn": "Марко Поло"
+        },
+        {
+          "en": "Ibn Battuta",
+          "mn": "Ибн Баттута"
+        },
+        {
+          "en": "Vasco da Gama",
+          "mn": "Васко да Гама"
+        },
+        {
+          "en": "Christopher Columbus",
+          "mn": "Христофор Колумб"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Marco Polo stayed in Yuan China for about 17 years; his book made Europe dream of “Cathay”.",
+        "mn": "Марко Поло Юань улсад 17 орчим жил байсан; түүний ном европчуудад «Катай» орныг мөрөөдүүлжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongol-history",
+      "key": "pubquiz.mongol-history.a310",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What does the name Ulaanbaatar mean?",
+        "mn": "Улаанбаатар гэдэг нэр ямар утгатай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Great Camp",
+          "mn": "Их хүрээ"
+        },
+        {
+          "en": "Red Hero",
+          "mn": "Улаан баатар"
+        },
+        {
+          "en": "Golden City",
+          "mn": "Алтан хот"
+        },
+        {
+          "en": "Blue Sky",
+          "mn": "Хөх тэнгэр"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The capital was renamed Ulaanbaatar in 1924 in honour of the revolutionary hero Sükhbaatar.",
+        "mn": "Нийслэлийг 1924 онд хувьсгалын баатар Сүхбаатарын гавьяаг дурсан Улаанбаатар хэмээн нэрлэсэн."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongol-history",
+      "key": "pubquiz.mongol-history.a311",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Who led the Mongolian People’s Revolution of 1921?",
+        "mn": "1921 оны Ардын хувьсгалыг удирдсан хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Khorloogiin Choibalsan",
+          "mn": "Хорлоогийн Чойбалсан"
+        },
+        {
+          "en": "Yumjaagiin Tsedenbal",
+          "mn": "Юмжаагийн Цэдэнбал"
+        },
+        {
+          "en": "Bogd Khan",
+          "mn": "Богд хаан"
+        },
+        {
+          "en": "Damdin Sükhbaatar",
+          "mn": "Дамдины Сүхбаатар"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Sükhbaatar died in 1923 aged 30; the central square of Ulaanbaatar bears his name and statue.",
+        "mn": "Сүхбаатар 1923 онд 30 насандаа нас барсан; Улаанбаатарын төв талбай түүний нэр, хөшөөг тээдэг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongol-history",
+      "key": "pubquiz.mongol-history.a312",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In which year did Mongolia’s peaceful Democratic Revolution take place?",
+        "mn": "Монголын тайван замын ардчилсан хувьсгал аль онд болсон бэ?"
+      },
+      "choices": [
+        {
+          "en": "1989",
+          "mn": "1989"
+        },
+        {
+          "en": "1992",
+          "mn": "1992"
+        },
+        {
+          "en": "1996",
+          "mn": "1996"
+        },
+        {
+          "en": "1990",
+          "mn": "1990"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Hunger strikes and rallies in the winter of 1990 ended one-party rule, and multi-party elections followed that summer.",
+        "mn": "1990 оны өвөл болсон өлсгөлөн тэмцэл, жагсаалууд нэг намын засаглалыг зогсоож, тэр зун олон намын сонгууль болсон."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongol-history",
+      "key": "pubquiz.mongol-history.a313",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Mongolia declared independence from which dynasty in 1911?",
+        "mn": "Монгол 1911 онд аль улсаас тусгаар тогтнолоо зарласан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Qing",
+          "mn": "Чин"
+        },
+        {
+          "en": "Ming",
+          "mn": "Мин"
+        },
+        {
+          "en": "Yuan",
+          "mn": "Юань"
+        },
+        {
+          "en": "Romanov",
+          "mn": "Романов"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "As the Qing collapsed, Mongolia declared independence in December 1911 and enthroned the Bogd Khan.",
+        "mn": "Чин улс задран унах үед Монгол 1911 оны арванхоёрдугаар сард тусгаар тогтнолоо зарлаж, Богд хааныг хаан ширээнд өргөмжилсөн."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongol-history",
+      "key": "pubquiz.mongol-history.a314",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Who became the head of state of Mongolia in 1911?",
+        "mn": "1911 онд Монгол улсын тэргүүн хэн болсон бэ?"
+      },
+      "choices": [
+        {
+          "en": "The Bogd Khan",
+          "mn": "Богд хаан"
+        },
+        {
+          "en": "Zanabazar",
+          "mn": "Занабазар"
+        },
+        {
+          "en": "Sükhbaatar",
+          "mn": "Сүхбаатар"
+        },
+        {
+          "en": "Ligden Khan",
+          "mn": "Лигдэн хаан"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Bogd Khan was the 8th Jebtsundamba Khutuktu, the highest lama in Mongolia; his winter palace is now a museum.",
+        "mn": "Богд хаан бол Монголын хамгийн дээд лам VIII Жавзандамба хутагт байв; түүний өвлийн ордон одоо музей."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongol-history",
+      "key": "pubquiz.mongol-history.a315",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Before 1924, Ulaanbaatar was known as…",
+        "mn": "1924 оноос өмнө Улаанбаатарыг юу гэж нэрлэдэг байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Niislel Khüree",
+          "mn": "Нийслэл хүрээ"
+        },
+        {
+          "en": "Karakorum",
+          "mn": "Хархорум"
+        },
+        {
+          "en": "Khovd",
+          "mn": "Ховд"
+        },
+        {
+          "en": "Uliastai",
+          "mn": "Улиастай"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The city began in 1639 as a mobile monastery camp; Europeans called it Urga, from the Mongolian “örgöö” (palace).",
+        "mn": "Хот 1639 онд нүүдлийн хийд хүрээ байдлаар үүссэн; европчууд түүнийг «өргөө» гэдэг үгнээс Урга гэж нэрлэдэг байв."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongol-history",
+      "key": "pubquiz.mongol-history.a316",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which Mongol commander sacked Baghdad in 1258?",
+        "mn": "1258 онд Багдадыг эзлэн сүйтгэсэн монгол жанжин хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Batu",
+          "mn": "Бат"
+        },
+        {
+          "en": "Subutai",
+          "mn": "Сүбээдэй"
+        },
+        {
+          "en": "Hülegü",
+          "mn": "Хүлэгү"
+        },
+        {
+          "en": "Jebe",
+          "mn": "Зэв"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Hülegü, a grandson of Chinggis, ended the Abbasid Caliphate and founded the Ilkhanate in Persia.",
+        "mn": "Чингисийн ач Хүлэгү Аббасидын халифатыг устгаж, Персэд Ил хаант улсыг байгуулсан."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongol-history",
+      "key": "pubquiz.mongol-history.a317",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Where did the Mongols suffer a famous defeat to the Mamluks in 1260?",
+        "mn": "1260 онд монголчууд Мамлюкуудад алдартай ялагдал хүлээсэн газар аль вэ?"
+      },
+      "choices": [
+        {
+          "en": "Mohi",
+          "mn": "Мохи"
+        },
+        {
+          "en": "Kalka",
+          "mn": "Калк"
+        },
+        {
+          "en": "Ain Jalut",
+          "mn": "Айн-Жалут"
+        },
+        {
+          "en": "Legnica",
+          "mn": "Легница"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "At Ain Jalut in Palestine the Egyptian Mamluks halted the Mongol advance into Africa.",
+        "mn": "Палестины Айн-Жалут хэмээх газар Египетийн Мамлюкууд монголчуудын Африк руу довтлохыг зогсоосон."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongol-history",
+      "key": "pubquiz.mongol-history.a318",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which grandson of Chinggis Khaan founded the Golden Horde?",
+        "mn": "Чингис хааны аль ач нь Алтан ордыг үүсгэсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Kublai",
+          "mn": "Хубилай"
+        },
+        {
+          "en": "Batu",
+          "mn": "Бат"
+        },
+        {
+          "en": "Möngke",
+          "mn": "Мөнх"
+        },
+        {
+          "en": "Hülegü",
+          "mn": "Хүлэгү"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Batu, son of Jochi, ruled the western steppes from his capital Sarai and held the Russian principalities as vassals.",
+        "mn": "Зүчийн хүү Бат Сарай хотоос баруун талын тал нутгийг захирч, Оросын вант улсуудыг алба гувчуурт оруулжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongol-history",
+      "key": "pubquiz.mongol-history.a319",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What was the Mongol Empire’s horse-relay postal system called?",
+        "mn": "Их Монгол улсын морин шуудан, харилцааны системийг юу гэдэг байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Ordu",
+          "mn": "Орд"
+        },
+        {
+          "en": "Kurultai",
+          "mn": "Хуралдай"
+        },
+        {
+          "en": "Tumen",
+          "mn": "Түмэн"
+        },
+        {
+          "en": "Yam (örtöö)",
+          "mn": "Өртөө"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Relay stations every 30–40 km let messengers cover around 200 km a day with fresh horses.",
+        "mn": "30–40 км тутамд байсан өртөөнд морь сольж, элч нар өдөрт 200 орчим км явж чаддаг байв."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongol-history",
+      "key": "pubquiz.mongol-history.a320",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What was the legal code of Chinggis Khaan called?",
+        "mn": "Чингис хааны хуулийг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Yassa (Ikh Zasag)",
+          "mn": "Их засаг"
+        },
+        {
+          "en": "Tamga",
+          "mn": "Тамга"
+        },
+        {
+          "en": "Paiza",
+          "mn": "Пайз"
+        },
+        {
+          "en": "Sharia",
+          "mn": "Шариат"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Yassa set rules for the army and society; no complete copy has survived.",
+        "mn": "Их засаг цэрэг, нийгмийн дүрмийг тогтоосон бөгөөд бүтэн эх нь хадгалагдаж үлдээгүй."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongol-history",
+      "key": "pubquiz.mongol-history.a321",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Japanese legend says “divine winds” wrecked Kublai’s invasion fleets. What is the Japanese word?",
+        "mn": "Хубилайн Япон руу илгээсэн флотыг «тэнгэрийн салхи» сүйрүүлсэн гэдэг. Үүнийг япон хэлээр юу гэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Kamikaze",
+          "mn": "Камикадзе"
+        },
+        {
+          "en": "Tsunami",
+          "mn": "Цунами"
+        },
+        {
+          "en": "Bushido",
+          "mn": "Бушидо"
+        },
+        {
+          "en": "Shogun",
+          "mn": "Шогун"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Typhoons struck the Mongol fleets in 1274 and 1281; the word was reused for WWII suicide pilots.",
+        "mn": "1274, 1281 онд хар салхи монгол флотыг цохисон; энэ үгийг хожим Дэлхийн II дайны амиа золиослогч нисгэгчдэд хэрэглэх болжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongol-history",
+      "key": "pubquiz.mongol-history.a322",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which dynasty overthrew the Yuan in 1368?",
+        "mn": "1368 онд Юань улсыг түлхэн унагасан аль улс вэ?"
+      },
+      "choices": [
+        {
+          "en": "Qing",
+          "mn": "Чин"
+        },
+        {
+          "en": "Ming",
+          "mn": "Мин"
+        },
+        {
+          "en": "Song",
+          "mn": "Сүн"
+        },
+        {
+          "en": "Han",
+          "mn": "Хан"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The last Yuan emperor, Toghon Temür, fled north to the steppe, beginning the Northern Yuan period.",
+        "mn": "Юаний сүүлчийн хаан Тогоонтөмөр тал нутаг руу умард зүгт зугтаж, Умард Юаний үе эхэлсэн."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongol-history",
+      "key": "pubquiz.mongol-history.a323",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which Central Asian empire did Chinggis invade after the Otrar massacre of his envoys?",
+        "mn": "Отрарт элч, худалдаачдаа хядуулсны дараа Чингис хаан аль улс руу дайлаар морилсон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Byzantine Empire",
+          "mn": "Византийн эзэнт гүрэн"
+        },
+        {
+          "en": "Kievan Rus",
+          "mn": "Киевийн Русь"
+        },
+        {
+          "en": "Khwarazmian Empire",
+          "mn": "Хорезмын улс"
+        },
+        {
+          "en": "Abbasid Caliphate",
+          "mn": "Аббасидын халифат"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "After the 1218 Otrar incident, the Mongols destroyed Khwarazm in 1219–1221, taking Bukhara and Samarkand.",
+        "mn": "1218 оны Отрарын хэргийн дараа монголчууд 1219–1221 онд Хорезмыг бут цохиж, Бухар, Самаркандыг эзэлсэн."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongol-history",
+      "key": "pubquiz.mongol-history.a324",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In which year did Mongolia join the United Nations?",
+        "mn": "Монгол Улс НҮБ-д аль онд элссэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "1961",
+          "mn": "1961"
+        },
+        {
+          "en": "1946",
+          "mn": "1946"
+        },
+        {
+          "en": "1972",
+          "mn": "1972"
+        },
+        {
+          "en": "1991",
+          "mn": "1991"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Mongolia became the 101st UN member on 27 October 1961, after years of objections from the Republic of China.",
+        "mn": "Бүгд Найрамдах Хятад Улсын олон жилийн эсэргүүцлийн эцэст Монгол 1961 оны аравдугаар сарын 27-нд НҮБ-ын 101 дэх гишүүн болсон."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongol-history",
+      "key": "pubquiz.mongol-history.a325",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In which year was Mongolia’s current democratic constitution adopted?",
+        "mn": "Монгол Улсын одоогийн ардчилсан Үндсэн хуулийг аль онд баталсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "1990",
+          "mn": "1990"
+        },
+        {
+          "en": "1924",
+          "mn": "1924"
+        },
+        {
+          "en": "2000",
+          "mn": "2000"
+        },
+        {
+          "en": "1992",
+          "mn": "1992"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The constitution took effect on 13 February 1992 and renamed the country simply “Mongolia”.",
+        "mn": "Үндсэн хууль 1992 оны хоёрдугаар сарын 13-нд хүчин төгөлдөр болж, улсын нэрийг «Монгол Улс» болгосон."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongol-history",
+      "key": "pubquiz.mongol-history.a326",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The 1939 Battle of Khalkhin Gol was fought between Soviet-Mongolian forces and which country?",
+        "mn": "1939 оны Халх голын байлдаанд ЗХУ-Монголын цэрэг аль улсын эсрэг тулалдсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "China",
+          "mn": "Хятад"
+        },
+        {
+          "en": "Japan",
+          "mn": "Япон"
+        },
+        {
+          "en": "Germany",
+          "mn": "Герман"
+        },
+        {
+          "en": "Korea",
+          "mn": "Солонгос"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Georgy Zhukov won his first major victory there; Japan then signed a neutrality pact with the USSR.",
+        "mn": "Георгий Жуков анхны томоохон ялалтаа энд байгуулсан; үүний дараа Япон ЗХУ-тай төвийг сахих гэрээ байгуулжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongol-history",
+      "key": "pubquiz.mongol-history.a327",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In which country was the 1241 Battle of Mohi fought?",
+        "mn": "1241 оны Мохийн тулалдаан аль улсын нутагт болсон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Poland",
+          "mn": "Польш"
+        },
+        {
+          "en": "Austria",
+          "mn": "Австри"
+        },
+        {
+          "en": "Hungary",
+          "mn": "Унгар"
+        },
+        {
+          "en": "Bulgaria",
+          "mn": "Болгар"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Batu and Subutai crushed King Béla IV’s army; the Mongols withdrew from Europe in 1242 after Ögedei’s death.",
+        "mn": "Бат, Сүбээдэй нар Унгарын IV Белагийн цэргийг бут ниргэсэн; Өгөдэйг нас барсны дараа монголчууд 1242 онд Европоос буцсан."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongol-history",
+      "key": "pubquiz.mongol-history.a328",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The Mongols first defeated the Rus princes in 1223 at which river?",
+        "mn": "Монголчууд 1223 онд Оросын ноёдыг анх аль голын эрэгт бут цохисон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Volga",
+          "mn": "Ижил"
+        },
+        {
+          "en": "Danube",
+          "mn": "Дунай"
+        },
+        {
+          "en": "Kalka",
+          "mn": "Калк"
+        },
+        {
+          "en": "Dnieper",
+          "mn": "Днепр"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Jebe and Subutai won it during a reconnaissance raid, 14 years before the main invasion of Rus.",
+        "mn": "Зэв, Сүбээдэй нар тагнуулын аянд яваад ялсан бөгөөд энэ нь Оросыг эзлэх гол довтолгооноос 14 жилийн өмнө болжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongol-history",
+      "key": "pubquiz.mongol-history.a329",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Kublai Khan commissioned a new script from a Tibetan lama. What is it called?",
+        "mn": "Хубилай хаан төвд ламаар шинэ бичиг зохиолгосон. Түүнийг юу гэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Soyombo script",
+          "mn": "Соёмбо бичиг"
+        },
+        {
+          "en": "Clear script",
+          "mn": "Тод бичиг"
+        },
+        {
+          "en": "Phags-pa script",
+          "mn": "Дөрвөлжин бичиг"
+        },
+        {
+          "en": "Orkhon script",
+          "mn": "Орхон бичиг"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Created by Drogön Chögyal Phagpa in 1269, the square script was meant to write all languages of the empire.",
+        "mn": "1269 онд Пагва лам зохиосон дөрвөлжин бичгээр эзэнт гүрний бүх хэлийг тэмдэглэх зорилготой байв."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongol-history",
+      "key": "pubquiz.mongol-history.a330",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Who created the Soyombo script and was the first Jebtsundamba Khutuktu?",
+        "mn": "Соёмбо бичгийг зохиосон, I Жавзандамба хутагт хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Zanabazar",
+          "mn": "Өндөр гэгээн Занабазар"
+        },
+        {
+          "en": "Zaya Pandita",
+          "mn": "Зая бандида"
+        },
+        {
+          "en": "Danzanravjaa",
+          "mn": "Данзанравжаа"
+        },
+        {
+          "en": "Abtai Khan",
+          "mn": "Абтай хаан"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Zanabazar was also a great sculptor; a symbol from his script now appears on Mongolia’s flag.",
+        "mn": "Занабазар мөн агуу уран баримлач байсан; түүний бичгийн нэгэн тэмдэг одоо Монголын төрийн далбаан дээр бий."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.words",
+      "key": "pubquiz.words.a31",
+      "difficulty": 1,
+      "prompt": {
+        "en": "The word “robot” comes from which language?",
+        "mn": "«Робот» гэдэг үг аль хэлнээс гаралтай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Russian",
+          "mn": "Орос"
+        },
+        {
+          "en": "Czech",
+          "mn": "Чех"
+        },
+        {
+          "en": "German",
+          "mn": "Герман"
+        },
+        {
+          "en": "Japanese",
+          "mn": "Япон"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "It was coined for Karel Čapek’s 1920 play R.U.R., from “robota”, meaning forced labour.",
+        "mn": "Карел Чапекийн 1920 оны «R.U.R.» жүжгийн тулд «robota» буюу «албадан хөдөлмөр» гэдэг үгнээс бүтээжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.words",
+      "key": "pubquiz.words.a32",
+      "difficulty": 1,
+      "prompt": {
+        "en": "“Algebra” comes from which language?",
+        "mn": "«Алгебр» гэдэг үг аль хэлнээс гаралтай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Arabic",
+          "mn": "Араб"
+        },
+        {
+          "en": "Greek",
+          "mn": "Грек"
+        },
+        {
+          "en": "Latin",
+          "mn": "Латин"
+        },
+        {
+          "en": "Hindi",
+          "mn": "Хинди"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "It comes from “al-jabr” in the title of al-Khwarizmi’s 9th-century book; his name gave us “algorithm”.",
+        "mn": "IX зууны аль-Хорезмийн номын гарчиг дахь «al-jabr» үгнээс гаралтай; түүний нэрнээс «алгоритм» гэдэг үг үүссэн."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.words",
+      "key": "pubquiz.words.a33",
+      "difficulty": 1,
+      "prompt": {
+        "en": "“Tsunami” literally means what in Japanese?",
+        "mn": "«Цунами» япон хэлээр шууд ямар утгатай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Sea monster",
+          "mn": "Далайн мангас"
+        },
+        {
+          "en": "Harbour wave",
+          "mn": "Боомтын давалгаа"
+        },
+        {
+          "en": "Earth shake",
+          "mn": "Газар хөдлөх"
+        },
+        {
+          "en": "Great flood",
+          "mn": "Их үер"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "“Tsu” means harbour and “nami” wave — fishermen returned to find their harbours wrecked.",
+        "mn": "«Цу» — боомт, «нами» — давалгаа; загасчид буцаж ирэхэд боомт нь сүйрсэн байдаг байжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.words",
+      "key": "pubquiz.words.a34",
+      "difficulty": 1,
+      "prompt": {
+        "en": "“Kindergarten” is a German word meaning…",
+        "mn": "«Kindergarten» гэдэг герман үг ямар утгатай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Little school",
+          "mn": "Бяцхан сургууль"
+        },
+        {
+          "en": "Play house",
+          "mn": "Тоглоомын байшин"
+        },
+        {
+          "en": "Children’s garden",
+          "mn": "Хүүхдийн цэцэрлэг"
+        },
+        {
+          "en": "Child care",
+          "mn": "Хүүхэд асрах"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Friedrich Fröbel coined it in 1840, picturing children growing like plants in a garden.",
+        "mn": "Фридрих Фребель 1840 онд хүүхдийг цэцэрлэгийн ургамал шиг өсөж буйгаар төсөөлөн энэ нэрийг өгсөн."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.words",
+      "key": "pubquiz.words.a35",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which is the most spoken native language in the world?",
+        "mn": "Дэлхийд төрөлх хэлээр хамгийн олон хүн ярьдаг хэл аль вэ?"
+      },
+      "choices": [
+        {
+          "en": "English",
+          "mn": "Англи"
+        },
+        {
+          "en": "Spanish",
+          "mn": "Испани"
+        },
+        {
+          "en": "Mandarin Chinese",
+          "mn": "Хятад (мандарин)"
+        },
+        {
+          "en": "Hindi",
+          "mn": "Хинди"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Close to a billion people speak Mandarin natively; English leads only when second-language speakers are counted.",
+        "mn": "Бараг тэрбум хүн мандарин хэлийг төрөлх хэлээ гэдэг; харин хоёрдогч хэлээр ярьдгийг тооцвол англи хэл тэргүүлдэг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.words",
+      "key": "pubquiz.words.a36",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is special about “The quick brown fox jumps over the lazy dog”?",
+        "mn": "«The quick brown fox jumps over the lazy dog» өгүүлбэр юугаараа онцлог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Reads the same backwards",
+          "mn": "Арнаас нь уншсан ч ижил"
+        },
+        {
+          "en": "Has no vowels",
+          "mn": "Эгшиггүй"
+        },
+        {
+          "en": "Is the shortest sentence",
+          "mn": "Хамгийн богино өгүүлбэр"
+        },
+        {
+          "en": "Uses every letter",
+          "mn": "Бүх үсгийг агуулдаг"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "A sentence containing every letter of the alphabet is a pangram; this one was used to test typewriters.",
+        "mn": "Цагаан толгойн бүх үсгийг агуулсан өгүүлбэрийг панграм гэдэг; үүгээр бичгийн машин туршдаг байжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.words",
+      "key": "pubquiz.words.a37",
+      "difficulty": 1,
+      "prompt": {
+        "en": "A word that reads the same backwards, like “racecar”, is a…",
+        "mn": "«Racecar» шиг арнаас нь уншсан ч ижил үгийг юу гэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Anagram",
+          "mn": "Анаграм"
+        },
+        {
+          "en": "Homonym",
+          "mn": "Ижил нэр"
+        },
+        {
+          "en": "Acronym",
+          "mn": "Товчилсон үг"
+        },
+        {
+          "en": "Palindrome",
+          "mn": "Палиндром"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "From Greek “running back again”; the Finnish “saippuakivikauppias” is one of the longest.",
+        "mn": "Грекээр «буцаж гүйх» гэсэн утгатай; финлянд «saippuakivikauppias» нь хамгийн урт палиндромын нэг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.words",
+      "key": "pubquiz.words.a38",
+      "difficulty": 1,
+      "prompt": {
+        "en": "The “sandwich” is named after…",
+        "mn": "«Сэндвич» хэний нэрээр нэрлэгдсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "A German baker",
+          "mn": "Германы талхчин"
+        },
+        {
+          "en": "An Italian city",
+          "mn": "Италийн хот"
+        },
+        {
+          "en": "An English earl",
+          "mn": "Английн гүн"
+        },
+        {
+          "en": "A French chef",
+          "mn": "Францын тогооч"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "John Montagu, 4th Earl of Sandwich, reportedly ate meat between bread so he would not leave the gaming table.",
+        "mn": "Сэндвичийн IV гүн Жон Монтегю мөрийтэй тоглоомын ширээнээс босохгүйн тулд талхны хооронд мах хавчуулж иддэг байсан гэдэг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.words",
+      "key": "pubquiz.words.a39",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What does the Latin “et cetera” mean?",
+        "mn": "Латин «et cetera» юу гэсэн утгатай вэ?"
+      },
+      "choices": [
+        {
+          "en": "And the rest",
+          "mn": "Бусад нь"
+        },
+        {
+          "en": "For example",
+          "mn": "Жишээ нь"
+        },
+        {
+          "en": "That is",
+          "mn": "Өөрөөр хэлбэл"
+        },
+        {
+          "en": "After this",
+          "mn": "Үүний дараа"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Usually shortened to “etc.”; the ampersand “&” itself began as a ligature of the Latin “et”.",
+        "mn": "Ихэвчлэн «etc.» гэж товчилдог; «&» тэмдэг өөрөө латин «et»-ийн үсгийг нийлүүлж бичсэнээс үүссэн."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.words",
+      "key": "pubquiz.words.a310",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which language gave English the word “safari”?",
+        "mn": "Англи хэлэнд «сафари» гэдэг үгийг аль хэл өгсөн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Zulu",
+          "mn": "Зулу"
+        },
+        {
+          "en": "Arabic",
+          "mn": "Араб"
+        },
+        {
+          "en": "Swahili",
+          "mn": "Суахили"
+        },
+        {
+          "en": "Hindi",
+          "mn": "Хинди"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "In Swahili “safari” simply means a journey; the word itself comes from Arabic “safar”.",
+        "mn": "Суахили хэлэнд «safari» нь зүгээр л «аялал» гэсэн утгатай бөгөөд араб «safar» үгнээс гаралтай."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.words",
+      "key": "pubquiz.words.a311",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which made-up language was created by L. L. Zamenhof in 1887?",
+        "mn": "1887 онд Л. Л. Заменгофын зохиосон хиймэл хэл аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Klingon",
+          "mn": "Клингон"
+        },
+        {
+          "en": "Volapük",
+          "mn": "Волапюк"
+        },
+        {
+          "en": "Latin",
+          "mn": "Латин"
+        },
+        {
+          "en": "Esperanto",
+          "mn": "Эсперанто"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Zamenhof hoped a neutral, easy language would ease conflict; Esperanto means “one who hopes”.",
+        "mn": "Заменгоф төвийг сахисан, хялбар хэл зөрчлийг намжаана гэж найдсан; «эсперанто» нь «итгэл найдвартай нэгэн» гэсэн утгатай."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.words",
+      "key": "pubquiz.words.a312",
+      "difficulty": 1,
+      "prompt": {
+        "en": "“Emoji” comes from Japanese words meaning…",
+        "mn": "«Эможи» гэдэг үг ямар япон үгсээс бүрдсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Emotion + face",
+          "mn": "Сэтгэл хөдлөл + нүүр"
+        },
+        {
+          "en": "Small + icon",
+          "mn": "Жижиг + дүрс"
+        },
+        {
+          "en": "Phone + smile",
+          "mn": "Утас + инээмсэглэл"
+        },
+        {
+          "en": "Picture + character",
+          "mn": "Зураг + үсэг"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "“E” means picture and “moji” character; any likeness to “emotion” is pure coincidence.",
+        "mn": "«E» нь зураг, «moji» нь үсэг гэсэн утгатай; «emotion» үгтэй төстэй нь санамсаргүй хэрэг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.words",
+      "key": "pubquiz.words.a313",
+      "difficulty": 2,
+      "prompt": {
+        "en": "“Alcohol” comes from which language?",
+        "mn": "«Алкоголь» гэдэг үг аль хэлнээс гаралтай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Arabic",
+          "mn": "Араб"
+        },
+        {
+          "en": "Latin",
+          "mn": "Латин"
+        },
+        {
+          "en": "Greek",
+          "mn": "Грек"
+        },
+        {
+          "en": "Persian",
+          "mn": "Перс"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "“Al-kuḥl” first meant a fine powder used as eye make-up, and later any refined essence.",
+        "mn": "«Al-kuḥl» эхэндээ нүдний будагт хэрэглэдэг нарийн нунтаг, хожим аливаа цэвэршүүлсэн ханд гэсэн утгатай болжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.words",
+      "key": "pubquiz.words.a314",
+      "difficulty": 2,
+      "prompt": {
+        "en": "“Shampoo” comes from a Hindi word meaning…",
+        "mn": "«Шампунь» хинди хэлний ямар утгатай үгнээс гаралтай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Soap",
+          "mn": "Саван"
+        },
+        {
+          "en": "Clean hair",
+          "mn": "Цэвэр үс"
+        },
+        {
+          "en": "To press or massage",
+          "mn": "Иллэх, бариа хийх"
+        },
+        {
+          "en": "Foam",
+          "mn": "Хөөс"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Indian entrepreneur Sake Dean Mahomed popularised “shampooing” massage baths in 18th–19th-century Britain.",
+        "mn": "Энэтхэг гаралтай бизнес эрхлэгч Сейк Дин Махомед XVIII–XIX зуунд Британид «шампунь» иллэгийг дэлгэрүүлсэн."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.words",
+      "key": "pubquiz.words.a315",
+      "difficulty": 2,
+      "prompt": {
+        "en": "“Quarantine” comes from Italian words meaning…",
+        "mn": "«Карантин» италийн ямар утгатай үгнээс гаралтай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Closed port",
+          "mn": "Хаалттай боомт"
+        },
+        {
+          "en": "Sick house",
+          "mn": "Өвчтөний байр"
+        },
+        {
+          "en": "Black flag",
+          "mn": "Хар туг"
+        },
+        {
+          "en": "Forty days",
+          "mn": "Дөчин хоног"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Venice made ships from plague areas wait “quaranta giorni” before landing.",
+        "mn": "Венец тахалтай нутгаас ирсэн хөлөг онгоцыг эрэгт гарахын өмнө «quaranta giorni» буюу 40 хоног хүлээлгэдэг байв."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.words",
+      "key": "pubquiz.words.a316",
+      "difficulty": 2,
+      "prompt": {
+        "en": "“Salary” comes from a Latin word linked to which substance?",
+        "mn": "«Salary» (цалин) гэдэг үг латин хэлний ямар бодистой холбоотой үгнээс гаралтай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Silver",
+          "mn": "Мөнгө"
+        },
+        {
+          "en": "Salt",
+          "mn": "Давс"
+        },
+        {
+          "en": "Bread",
+          "mn": "Талх"
+        },
+        {
+          "en": "Wine",
+          "mn": "Дарс"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Latin “salarium” comes from “sal”, salt; the popular tale of soldiers paid in salt is unproven.",
+        "mn": "Латин «salarium» нь «sal» буюу давс гэдэг үгнээс гаралтай; цэргүүдэд давсаар цалин өгдөг байсан гэх домог нотлогдоогүй."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.words",
+      "key": "pubquiz.words.a317",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The word “disaster” literally means…",
+        "mn": "«Disaster» (гамшиг) гэдэг үг шууд ямар утгатай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Great fire",
+          "mn": "Их түймэр"
+        },
+        {
+          "en": "Broken land",
+          "mn": "Эвдэрсэн газар"
+        },
+        {
+          "en": "Dark sky",
+          "mn": "Харанхуй тэнгэр"
+        },
+        {
+          "en": "Bad star",
+          "mn": "Муу од"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "From Italian “disastro”: “dis-” (bad) + “astro” (star), since misfortune was blamed on the planets.",
+        "mn": "Италийн «disastro» буюу «dis-» (муу) + «astro» (од) — азгүйдлийг гараг эрхэсийн нөлөө гэж үздэг байжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.words",
+      "key": "pubquiz.words.a318",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The English “Captain Boycott” gave us “boycott”. Where did he work?",
+        "mn": "«Бойкот» гэдэг үг ахмад Бойкотын нэрээс гаралтай. Тэр хаана ажиллаж байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Ireland",
+          "mn": "Ирланд"
+        },
+        {
+          "en": "India",
+          "mn": "Энэтхэг"
+        },
+        {
+          "en": "Scotland",
+          "mn": "Шотланд"
+        },
+        {
+          "en": "Australia",
+          "mn": "Австрали"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "In 1880 Irish tenants refused all dealings with land agent Charles Boycott, and his name became the word.",
+        "mn": "1880 онд ирланд түрээслэгчид газрын төлөөлөгч Чарльз Бойкоттой ямар ч харилцаа хийхээс татгалзаж, түүний нэр үг болон хувирчээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.words",
+      "key": "pubquiz.words.a319",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The English word “horde” comes from a Turkic-Mongolic word meaning…",
+        "mn": "Англи «horde» үг ямар утгатай түрэг-монгол үгнээс гаралтай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Army",
+          "mn": "Арми"
+        },
+        {
+          "en": "Horse",
+          "mn": "Морь"
+        },
+        {
+          "en": "Enemy",
+          "mn": "Дайсан"
+        },
+        {
+          "en": "Camp or palace",
+          "mn": "Орд, хүрээ"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "“Orda/ordu” meant a khan’s camp — as in the Golden Horde (Altan Ord).",
+        "mn": "«Орд» нь хааны өргөө, хүрээ гэсэн утгатай — Алтан орд гэдэг шиг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.words",
+      "key": "pubquiz.words.a320",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which European language is not related to any other known language?",
+        "mn": "Европын аль хэл бусад ямар ч мэдэгдэж буй хэлтэй төрөл холбоогүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Basque",
+          "mn": "Баск"
+        },
+        {
+          "en": "Finnish",
+          "mn": "Финлянд"
+        },
+        {
+          "en": "Hungarian",
+          "mn": "Унгар"
+        },
+        {
+          "en": "Albanian",
+          "mn": "Албани"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Basque is spoken by about 750,000 people in Spain and France and predates the Indo-European languages there.",
+        "mn": "Баск хэлээр Испани, Францад 750 мянга орчим хүн ярьдаг бөгөөд тэнд энэтхэг-европ хэлнүүдээс өмнө оршиж байсан."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.words",
+      "key": "pubquiz.words.a321",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which country has the most living languages?",
+        "mn": "Аль улс хамгийн олон амьд хэлтэй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Papua New Guinea",
+          "mn": "Папуа Шинэ Гвиней"
+        },
+        {
+          "en": "India",
+          "mn": "Энэтхэг"
+        },
+        {
+          "en": "Nigeria",
+          "mn": "Нигери"
+        },
+        {
+          "en": "Indonesia",
+          "mn": "Индонез"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "About 840 languages are spoken there by fewer than 10 million people, thanks to rugged, isolated valleys.",
+        "mn": "Тэнд 10 сая хүрэхгүй хүн 840 орчим хэлээр ярьдаг нь хүрэхэд бэрх, тусгаарлагдсан хөндийнүүдтэй холбоотой."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.words",
+      "key": "pubquiz.words.a322",
+      "difficulty": 2,
+      "prompt": {
+        "en": "How many official languages does the United Nations have?",
+        "mn": "НҮБ хэдэн албан ёсны хэлтэй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Four",
+          "mn": "Дөрөв"
+        },
+        {
+          "en": "Five",
+          "mn": "Тав"
+        },
+        {
+          "en": "Six",
+          "mn": "Зургаа"
+        },
+        {
+          "en": "Eight",
+          "mn": "Найм"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "They are Arabic, Chinese, English, French, Russian and Spanish; Arabic was added last, in 1973.",
+        "mn": "Эдгээр нь араб, хятад, англи, франц, орос, испани хэл; араб хэлийг хамгийн сүүлд, 1973 онд нэмсэн."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.words",
+      "key": "pubquiz.words.a323",
+      "difficulty": 2,
+      "prompt": {
+        "en": "“Bluetooth” is named after a king of which country?",
+        "mn": "«Bluetooth» аль улсын хааны нэрээр нэрлэгдсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Denmark",
+          "mn": "Дани"
+        },
+        {
+          "en": "Sweden",
+          "mn": "Швед"
+        },
+        {
+          "en": "Norway",
+          "mn": "Норвеги"
+        },
+        {
+          "en": "Finland",
+          "mn": "Финлянд"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Harald Bluetooth united Danish tribes in the 10th century; the logo combines his runic initials.",
+        "mn": "Харальд Цэнхэр шүд X зуунд дани аймгуудыг нэгтгэсэн; лого нь түүний нэрийн эхний үсгийг руны бичгээр хослуулжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.words",
+      "key": "pubquiz.words.a324",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Ironically, the fear of long words is called…",
+        "mn": "Инээдтэй нь урт үгнээс айх айдсыг юу гэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Arachnophobia",
+          "mn": "Арахнофоби"
+        },
+        {
+          "en": "Claustrophobia",
+          "mn": "Клаустрофоби"
+        },
+        {
+          "en": "Hippopotomonstrosesquippedaliophobia",
+          "mn": "Гиппопотомонстросесквиппедалиофоби"
+        },
+        {
+          "en": "Glossophobia",
+          "mn": "Глоссофоби"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The 36-letter joke word builds on “sesquipedalian”, Latin for “a foot and a half long”.",
+        "mn": "36 үсэгтэй энэ хошин үг латинаар «нэг хагас фут урт» гэсэн утгатай «sesquipedalian»-д тулгуурладаг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.words",
+      "key": "pubquiz.words.a325",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which English word for a drink comes from Min Chinese, while “chai” comes from Mandarin “cha”?",
+        "mn": "Ямар ундааны англи нэр өмнөд хятадын мин аялгуунаас, харин «chai» нь мандарин «cha»-аас гаралтай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Coffee",
+          "mn": "Кофе"
+        },
+        {
+          "en": "Juice",
+          "mn": "Жүүс"
+        },
+        {
+          "en": "Tea",
+          "mn": "Цай (tea)"
+        },
+        {
+          "en": "Cocoa",
+          "mn": "Какао"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Dutch traders bought tea from Min-speaking ports, so “te” spread by sea and “cha” by land — Mongolian “цай” is from the land route.",
+        "mn": "Голландын худалдаачид мин аялгуутай боомтоос цай авч байсан тул «te» далайгаар, «cha» хуурай газраар тархсан — монгол «цай» хуурай замынх."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.words",
+      "key": "pubquiz.words.a326",
+      "difficulty": 3,
+      "prompt": {
+        "en": "“Ketchup” most likely comes from a word in which language?",
+        "mn": "«Кетчуп» ямар хэлний үгнээс гаралтай байх магадлалтай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Spanish",
+          "mn": "Испани"
+        },
+        {
+          "en": "Hokkien Chinese",
+          "mn": "Хоккиень хятад"
+        },
+        {
+          "en": "Dutch",
+          "mn": "Голланд"
+        },
+        {
+          "en": "Hindi",
+          "mn": "Хинди"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "“Kê-tsiap” was a fermented fish sauce; tomatoes were added in America only in the 19th century.",
+        "mn": "«Kê-tsiap» нь исгэсэн загасны соус байсан; улаан лоолийг Америкт зөвхөн XIX зуунд нэмж эхэлсэн."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.words",
+      "key": "pubquiz.words.a327",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Tomato, chocolate and avocado all come from which language?",
+        "mn": "Улаан лооль, шоколад, авокадо гэдэг үгс бүгд аль хэлнээс гаралтай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Quechua",
+          "mn": "Кечуа"
+        },
+        {
+          "en": "Maya",
+          "mn": "Майя"
+        },
+        {
+          "en": "Nahuatl",
+          "mn": "Науатль"
+        },
+        {
+          "en": "Tupi",
+          "mn": "Тупи"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Nahuatl was the language of the Aztecs and is still spoken by about 1.7 million people in Mexico.",
+        "mn": "Науатль бол ацтекүүдийн хэл бөгөөд одоо ч Мексикт 1.7 сая орчим хүн ярьдаг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.words",
+      "key": "pubquiz.words.a328",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The word “muscle” comes from a Latin word meaning…",
+        "mn": "«Muscle» (булчин) гэдэг үг латин хэлний ямар утгатай үгнээс гаралтай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Strong rope",
+          "mn": "Бат олс"
+        },
+        {
+          "en": "Moving meat",
+          "mn": "Хөдөлдөг мах"
+        },
+        {
+          "en": "Little mouse",
+          "mn": "Бяцхан хулгана"
+        },
+        {
+          "en": "Small fish",
+          "mn": "Жижиг загас"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Romans thought a flexing muscle looked like a mouse moving under the skin.",
+        "mn": "Ромчууд чангарч буй булчинг арьсан доогуур гүйх хулгана шиг харагддаг гэж үздэг байжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.words",
+      "key": "pubquiz.words.a329",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The word “nerd” first appeared in a 1950 book by which author?",
+        "mn": "«Nerd» гэдэг үг анх 1950 онд аль зохиолчийн номд гарсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Roald Dahl",
+          "mn": "Роалд Дал"
+        },
+        {
+          "en": "J. D. Salinger",
+          "mn": "Ж. Д. Сэлинжер"
+        },
+        {
+          "en": "Dr. Seuss",
+          "mn": "Доктор Сюсс"
+        },
+        {
+          "en": "Ray Bradbury",
+          "mn": "Рэй Брэдбери"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "In If I Ran the Zoo a “Nerkle, a Nerd and a Seersucker too” are among the imaginary animals.",
+        "mn": "«If I Ran the Zoo» номд «Nerkle, Nerd, Seersucker» зэрэг зохиомол амьтад гардаг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.words",
+      "key": "pubquiz.words.a330",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Who coined the word “serendipity” in 1754?",
+        "mn": "1754 онд «serendipity» (санамсаргүй аз) гэдэг үгийг хэн зохиосон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Samuel Johnson",
+          "mn": "Сэмюэл Жонсон"
+        },
+        {
+          "en": "William Shakespeare",
+          "mn": "Уильям Шекспир"
+        },
+        {
+          "en": "Jonathan Swift",
+          "mn": "Жонатан Свифт"
+        },
+        {
+          "en": "Horace Walpole",
+          "mn": "Хорас Уолпол"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Walpole took it from the Persian tale “The Three Princes of Serendip”, Serendip being an old name for Sri Lanka.",
+        "mn": "Уолпол үүнийг «Серендипийн гурван ханхүү» перс үлгэрээс авсан; Серендип нь Шри Ланкийн эртний нэр."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brands",
+      "key": "pubquiz.brands.a31",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What did Amazon sell when it launched in 1995?",
+        "mn": "Amazon 1995 онд ажиллаж эхлэхдээ юу зардаг байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Books",
+          "mn": "Ном"
+        },
+        {
+          "en": "Music CDs",
+          "mn": "Хөгжмийн CD"
+        },
+        {
+          "en": "Electronics",
+          "mn": "Цахилгаан бараа"
+        },
+        {
+          "en": "Clothing",
+          "mn": "Хувцас"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Jeff Bezos started in his Seattle garage; the name was chosen because the Amazon is the world’s largest river by volume.",
+        "mn": "Жефф Безос Сиэтл дэх гаражаасаа эхэлсэн; Амазон мөрөн дэлхийн хамгийн их устай гол учраас ийм нэр сонгожээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brands",
+      "key": "pubquiz.brands.a32",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In which country was IKEA founded?",
+        "mn": "IKEA аль улсад үүсгэн байгуулагдсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Denmark",
+          "mn": "Дани"
+        },
+        {
+          "en": "Sweden",
+          "mn": "Швед"
+        },
+        {
+          "en": "Norway",
+          "mn": "Норвеги"
+        },
+        {
+          "en": "Finland",
+          "mn": "Финлянд"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "IKEA stands for Ingvar Kamprad, Elmtaryd (his farm) and Agunnaryd (his village).",
+        "mn": "IKEA гэдэг нь Ингвар Кампрад, Элмтарюд (түүний ферм), Агуннарюд (тосгон) гэсэн үгсийн эхний үсэг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brands",
+      "key": "pubquiz.brands.a33",
+      "difficulty": 1,
+      "prompt": {
+        "en": "“Volkswagen” means what in German?",
+        "mn": "«Volkswagen» герман хэлээр ямар утгатай вэ?"
+      },
+      "choices": [
+        {
+          "en": "People’s car",
+          "mn": "Ардын машин"
+        },
+        {
+          "en": "Fast wagon",
+          "mn": "Хурдан тэрэг"
+        },
+        {
+          "en": "Strong engine",
+          "mn": "Хүчтэй хөдөлгүүр"
+        },
+        {
+          "en": "Family car",
+          "mn": "Гэр бүлийн машин"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Its Beetle became one of the best-selling cars ever, with over 21 million built.",
+        "mn": "Түүний «Цох» загвар 21 саяас илүү ширхэг үйлдвэрлэгдэж, түүхэн дэх хамгийн их борлуулалттай машинуудын нэг болсон."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brands",
+      "key": "pubquiz.brands.a34",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which company’s logo is a pair of golden arches?",
+        "mn": "Аль компанийн лого нь хос алтан нуман хаалга вэ?"
+      },
+      "choices": [
+        {
+          "en": "Burger King",
+          "mn": "Burger King"
+        },
+        {
+          "en": "KFC",
+          "mn": "KFC"
+        },
+        {
+          "en": "McDonald’s",
+          "mn": "McDonald’s"
+        },
+        {
+          "en": "Subway",
+          "mn": "Subway"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The arches started as real architectural features of the early restaurants before becoming the “M” logo.",
+        "mn": "Нуман хаалгууд анх эхний рестораны барилгын хэсэг байсан бөгөөд хожим «M» лого болсон."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brands",
+      "key": "pubquiz.brands.a35",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In 2023 Twitter was renamed…",
+        "mn": "2023 онд Twitter-ийн нэрийг юу болгон өөрчилсөн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Meta",
+          "mn": "Meta"
+        },
+        {
+          "en": "X",
+          "mn": "X"
+        },
+        {
+          "en": "Threads",
+          "mn": "Threads"
+        },
+        {
+          "en": "Bluesky",
+          "mn": "Bluesky"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Elon Musk bought Twitter in 2022 for $44 billion and replaced the blue bird logo with an X.",
+        "mn": "Илон Маск 2022 онд Twitter-ийг 44 тэрбум доллараар худалдан авч, цэнхэр шувуун логог X-ээр сольсон."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brands",
+      "key": "pubquiz.brands.a36",
+      "difficulty": 1,
+      "prompt": {
+        "en": "At which university was Facebook founded in 2004?",
+        "mn": "Facebook 2004 онд аль их сургуульд үүсгэн байгуулагдсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Stanford",
+          "mn": "Стэнфорд"
+        },
+        {
+          "en": "MIT",
+          "mn": "MIT"
+        },
+        {
+          "en": "Harvard",
+          "mn": "Харвард"
+        },
+        {
+          "en": "Yale",
+          "mn": "Йель"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Mark Zuckerberg launched it from his dorm room as “TheFacebook” for Harvard students only.",
+        "mn": "Марк Цукерберг дотуур байрныхаа өрөөнөөс зөвхөн Харвардын оюутнуудад зориулсан «TheFacebook»-ийг нээжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brands",
+      "key": "pubquiz.brands.a37",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which animal appears on the Ferrari logo?",
+        "mn": "Ferrari-гийн лого дээр ямар амьтан байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "A bull",
+          "mn": "Бух"
+        },
+        {
+          "en": "A lion",
+          "mn": "Арслан"
+        },
+        {
+          "en": "A prancing horse",
+          "mn": "Шогшсон морь"
+        },
+        {
+          "en": "A jaguar",
+          "mn": "Ягуар"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The horse was the emblem of WWI fighter ace Francesco Baracca; his mother suggested Enzo Ferrari use it.",
+        "mn": "Энэ морь Дэлхийн I дайны нисгэгч Франческо Бараккагийн тэмдэг байсан; ээж нь Энцо Феррарид хэрэглэхийг санал болгожээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brands",
+      "key": "pubquiz.brands.a38",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Who co-founded Microsoft with Bill Gates?",
+        "mn": "Билл Гейтстэй хамт Microsoft-ыг хэн үүсгэсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Steve Jobs",
+          "mn": "Стив Жобс"
+        },
+        {
+          "en": "Steve Ballmer",
+          "mn": "Стив Балмер"
+        },
+        {
+          "en": "Larry Page",
+          "mn": "Ларри Пэйж"
+        },
+        {
+          "en": "Paul Allen",
+          "mn": "Пол Аллен"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The childhood friends founded it in 1975 in Albuquerque; the name blends “microcomputer” and “software”.",
+        "mn": "Багын найзууд 1975 онд Альбукеркэд үүсгэсэн; нэр нь «microcomputer», «software» үгсийн нийлбэр."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brands",
+      "key": "pubquiz.brands.a39",
+      "difficulty": 1,
+      "prompt": {
+        "en": "How did Netflix start in 1997?",
+        "mn": "Netflix 1997 онд хэрхэн эхэлсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Video game store",
+          "mn": "Видео тоглоомын дэлгүүр"
+        },
+        {
+          "en": "TV channel",
+          "mn": "Телевизийн суваг"
+        },
+        {
+          "en": "DVD rental by mail",
+          "mn": "Шуудангаар DVD түрээслэх"
+        },
+        {
+          "en": "Cinema chain",
+          "mn": "Кино театрын сүлжээ"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "It began streaming in 2007; in 2000 Blockbuster turned down a chance to buy it for $50 million.",
+        "mn": "2007 онд онлайн үйлчилгээ эхэлсэн; 2000 онд Blockbuster түүнийг 50 сая доллараар худалдан авах боломжоос татгалзжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brands",
+      "key": "pubquiz.brands.a310",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In which year was the first iPhone released?",
+        "mn": "Анхны iPhone аль онд гарсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "2005",
+          "mn": "2005"
+        },
+        {
+          "en": "2007",
+          "mn": "2007"
+        },
+        {
+          "en": "2009",
+          "mn": "2009"
+        },
+        {
+          "en": "2010",
+          "mn": "2010"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Steve Jobs unveiled it as “an iPod, a phone and an internet communicator” in one device.",
+        "mn": "Стив Жобс түүнийг «iPod, утас, интернэт холбоо барих төхөөрөмжийг» нэгтгэсэн гэж танилцуулсан."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brands",
+      "key": "pubquiz.brands.a311",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Michelin stars for restaurants come from a guide made by a company that sells…",
+        "mn": "Рестораны Мишлэн одыг ямар бүтээгдэхүүн зардаг компанийн гарын авлага олгодог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Wine",
+          "mn": "Дарс"
+        },
+        {
+          "en": "Tyres",
+          "mn": "Дугуй"
+        },
+        {
+          "en": "Kitchenware",
+          "mn": "Гал тогооны хэрэгсэл"
+        },
+        {
+          "en": "Cheese",
+          "mn": "Бяслаг"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The guide began in 1900 to encourage French motorists to drive more — and wear out their tyres.",
+        "mn": "Гарын авлага 1900 онд францын жолоочдыг илүү их зорчиж, дугуйгаа элээхэд нь урамшуулах зорилгоор гарч эхэлсэн."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brands",
+      "key": "pubquiz.brands.a312",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Tesla, the electric car maker, is named after…",
+        "mn": "Цахилгаан машин үйлдвэрлэгч Tesla хэний нэрээр нэрлэгдсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Nikola Tesla",
+          "mn": "Никола Тесла"
+        },
+        {
+          "en": "Thomas Edison",
+          "mn": "Томас Эдисон"
+        },
+        {
+          "en": "Elon Musk’s son",
+          "mn": "Илон Маскийн хүү"
+        },
+        {
+          "en": "A Greek god",
+          "mn": "Грекийн бурхан"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Nikola Tesla pioneered alternating current; Elon Musk joined the 2003 start-up as an early investor.",
+        "mn": "Никола Тесла хувьсах гүйдлийг хөгжүүлэгч; Илон Маск 2003 онд үүссэн компанид эрт хөрөнгө оруулагчаар нэгдсэн."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brands",
+      "key": "pubquiz.brands.a313",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What was Google’s original name?",
+        "mn": "Google анх ямар нэртэй байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Searchy",
+          "mn": "Searchy"
+        },
+        {
+          "en": "BackRub",
+          "mn": "BackRub"
+        },
+        {
+          "en": "PageRank",
+          "mn": "PageRank"
+        },
+        {
+          "en": "Googol",
+          "mn": "Googol"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Renamed in 1997, “Google” plays on “googol”, the number 1 followed by 100 zeros.",
+        "mn": "1997 онд нэрээ сольсон; «Google» нь 1-ийн ард 100 тэг бүхий «googol» тоог тоглоомлосон нэр."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brands",
+      "key": "pubquiz.brands.a314",
+      "difficulty": 2,
+      "prompt": {
+        "en": "“Samsung” means what in Korean?",
+        "mn": "«Samsung» солонгос хэлээр ямар утгатай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Three stars",
+          "mn": "Гурван од"
+        },
+        {
+          "en": "Bright future",
+          "mn": "Гэрэлт ирээдүй"
+        },
+        {
+          "en": "Big company",
+          "mn": "Том компани"
+        },
+        {
+          "en": "Sun rising",
+          "mn": "Нар мандах"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Founded in 1938 as a grocery trading firm, the founder wanted it to be big, powerful and eternal like stars.",
+        "mn": "1938 онд хүнсний худалдааны компани болж үүссэн; үүсгэн байгуулагч нь од шиг том, хүчтэй, мөнхийн байгаасай гэж хүсчээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brands",
+      "key": "pubquiz.brands.a315",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In which US city was Coca-Cola invented in 1886?",
+        "mn": "Coca-Cola 1886 онд АНУ-ын аль хотод зохиогдсон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Atlanta",
+          "mn": "Атланта"
+        },
+        {
+          "en": "New York",
+          "mn": "Нью-Йорк"
+        },
+        {
+          "en": "Chicago",
+          "mn": "Чикаго"
+        },
+        {
+          "en": "New Orleans",
+          "mn": "Нью-Орлеан"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Pharmacist John Pemberton sold it as a tonic for 5 cents a glass; early sales were about nine drinks a day.",
+        "mn": "Эм зүйч Жон Пембертон үүнийг эмчилгээний ундаа болгон аяга бүрийг 5 центээр зардаг байв; эхэндээ өдөрт ес орчим аяга зарагддаг байжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brands",
+      "key": "pubquiz.brands.a316",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The name LEGO comes from Danish words meaning…",
+        "mn": "LEGO нэр дани хэлний ямар утгатай үгсээс гаралтай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Build big",
+          "mn": "Том бүтээ"
+        },
+        {
+          "en": "Play well",
+          "mn": "Сайн тогло"
+        },
+        {
+          "en": "Little bricks",
+          "mn": "Жижиг тоосго"
+        },
+        {
+          "en": "Happy child",
+          "mn": "Аз жаргалтай хүүхэд"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "“Leg godt” was chosen by carpenter Ole Kirk Christiansen in 1934; he made wooden toys before plastic bricks.",
+        "mn": "Мужаан Оле Кирк Кристиансен 1934 онд «leg godt» нэрийг сонгосон; хуванцар тоосгоноос өмнө модон тоглоом хийдэг байжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brands",
+      "key": "pubquiz.brands.a317",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Starbucks is named after a character from which novel?",
+        "mn": "Starbucks аль романы баатрын нэрээр нэрлэгдсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Treasure Island",
+          "mn": "Эрдэнэсийн арал"
+        },
+        {
+          "en": "Robinson Crusoe",
+          "mn": "Робинзон Крузо"
+        },
+        {
+          "en": "Moby-Dick",
+          "mn": "Моби Дик"
+        },
+        {
+          "en": "The Old Man and the Sea",
+          "mn": "Өвгөн загасчин ба далай"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Starbuck is the first mate of the whaling ship Pequod; the logo’s siren also nods to the sea.",
+        "mn": "Старбак бол «Пекод» халим агнуурын хөлгийн ахлах туслах; логоны далайн дагина ч далайг илтгэдэг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brands",
+      "key": "pubquiz.brands.a318",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The three-pointed star of Mercedes-Benz stands for…",
+        "mn": "Mercedes-Benz-ийн гурван салаат од юуг илэрхийлдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Three founders",
+          "mn": "Гурван үүсгэн байгуулагч"
+        },
+        {
+          "en": "Three factories",
+          "mn": "Гурван үйлдвэр"
+        },
+        {
+          "en": "Speed, safety, comfort",
+          "mn": "Хурд, аюулгүй, тав тух"
+        },
+        {
+          "en": "Land, sea and air",
+          "mn": "Газар, ус, агаар"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Daimler aimed to power vehicles on land, at sea and in the air; “Mercedes” was a businessman’s daughter.",
+        "mn": "Даймлер хуурай газар, далай, агаарын тээврийг хөдөлгүүрээр хангахыг зорьсон; «Мерседес» нь нэгэн бизнесменийн охины нэр."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brands",
+      "key": "pubquiz.brands.a319",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What do Audi’s four rings represent?",
+        "mn": "Audi-гийн дөрвөн цагираг юуг илэрхийлдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Four merged companies",
+          "mn": "Нэгдсэн дөрвөн компани"
+        },
+        {
+          "en": "Four wheels",
+          "mn": "Дөрвөн дугуй"
+        },
+        {
+          "en": "Four founders",
+          "mn": "Дөрвөн үүсгэн байгуулагч"
+        },
+        {
+          "en": "Olympic rings",
+          "mn": "Олимпийн цагираг"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Audi, DKW, Horch and Wanderer formed Auto Union in 1932; “audi” is Latin for “listen”, a pun on founder Horch.",
+        "mn": "Audi, DKW, Horch, Wanderer 1932 онд Auto Union болж нэгдсэн; «audi» нь латинаар «сонс» гэсэн утгатай, үүсгэн байгуулагч Хорхын нэрийн орчуулга."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brands",
+      "key": "pubquiz.brands.a320",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Before phones, the Finnish company Nokia started as a…",
+        "mn": "Утас хийхээсээ өмнө финляндын Nokia компани юу хийж эхэлсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Fishing fleet",
+          "mn": "Загас агнуурын флот"
+        },
+        {
+          "en": "Radio station",
+          "mn": "Радио станц"
+        },
+        {
+          "en": "Steel works",
+          "mn": "Ган үйлдвэр"
+        },
+        {
+          "en": "Paper mill",
+          "mn": "Цаасны үйлдвэр"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Founded in 1865, Nokia later made rubber boots and cables; it is named after the town of Nokia.",
+        "mn": "1865 онд байгуулагдсан Nokia хожим резин гутал, кабель хийж байсан; Нокиа хотын нэрээр нэрлэгдсэн."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brands",
+      "key": "pubquiz.brands.a321",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Nintendo was founded in 1889 to make…",
+        "mn": "Nintendo 1889 онд юу хийх зорилгоор байгуулагдсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Toy cars",
+          "mn": "Тоглоомон машин"
+        },
+        {
+          "en": "Playing cards",
+          "mn": "Хөзөр"
+        },
+        {
+          "en": "Radios",
+          "mn": "Радио"
+        },
+        {
+          "en": "Board games",
+          "mn": "Ширээний тоглоом"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Fusajiro Yamauchi made hand-made hanafuda cards in Kyoto; Nintendo entered video games only in the 1970s.",
+        "mn": "Фусадзиро Ямаути Киотод гараар ханафуда хөзөр хийдэг байсан; Nintendo видео тоглоомд зөвхөн 1970-аад онд орсон."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brands",
+      "key": "pubquiz.brands.a322",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The founder of Adidas, Adi Dassler, had a brother who founded which rival?",
+        "mn": "Adidas-ыг үүсгэсэн Ади Дасслерын ах нь аль өрсөлдөгч брэндийг үүсгэсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Reebok",
+          "mn": "Reebok"
+        },
+        {
+          "en": "Fila",
+          "mn": "Fila"
+        },
+        {
+          "en": "Asics",
+          "mn": "Asics"
+        },
+        {
+          "en": "Puma",
+          "mn": "Puma"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Rudolf and Adi split in 1948; their companies in Herzogenaurach divided the town for decades.",
+        "mn": "Рудольф, Ади нар 1948 онд салсан; Херцогенаурах дахь тэдний компаниуд хотыг олон арван жил хоёр хуваажээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brands",
+      "key": "pubquiz.brands.a323",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Before sports cars, Lamborghini’s founder made…",
+        "mn": "Спорт машинаас өмнө Lamborghini-гийн үүсгэн байгуулагч юу хийдэг байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Tractors",
+          "mn": "Трактор"
+        },
+        {
+          "en": "Motorbikes",
+          "mn": "Мотоцикл"
+        },
+        {
+          "en": "Aircraft",
+          "mn": "Нисэх онгоц"
+        },
+        {
+          "en": "Boats",
+          "mn": "Завь"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Ferruccio Lamborghini reportedly started making cars after Enzo Ferrari brushed off his complaint about a clutch.",
+        "mn": "Ферруччо Ламборгини шүүрч авах механизмын талаарх гомдлыг нь Энцо Феррари тоохгүй өнгөрсний дараа машин хийж эхэлсэн гэдэг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brands",
+      "key": "pubquiz.brands.a324",
+      "difficulty": 2,
+      "prompt": {
+        "en": "How much was designer Carolyn Davidson first paid for the Nike swoosh in 1971?",
+        "mn": "Дизайнер Каролин Дэвидсон 1971 онд Nike-ийн зураас логог зурсныхаа төлөө анх хэдэн доллар авсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "$35",
+          "mn": "35 доллар"
+        },
+        {
+          "en": "$350",
+          "mn": "350 доллар"
+        },
+        {
+          "en": "$3,500",
+          "mn": "3500 доллар"
+        },
+        {
+          "en": "$35,000",
+          "mn": "35 000 доллар"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "She was a student at the time; in 1983 Nike gave her a gold swoosh ring and company shares.",
+        "mn": "Тэр үед оюутан байсан; 1983 онд Nike түүнд алтан бөгж, компанийн хувьцаа бэлэглэжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brands",
+      "key": "pubquiz.brands.a325",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Red Bull is based on an energy drink from which country?",
+        "mn": "Red Bull ямар улсын эрчим хүчний ундаан дээр үндэслэсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Thailand",
+          "mn": "Тайланд"
+        },
+        {
+          "en": "Japan",
+          "mn": "Япон"
+        },
+        {
+          "en": "South Korea",
+          "mn": "Өмнөд Солонгос"
+        },
+        {
+          "en": "Austria",
+          "mn": "Австри"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Austrian Dietrich Mateschitz adapted the Thai drink Krating Daeng (“red gaur”) in 1987.",
+        "mn": "Австрийн Дитрих Матешиц 1987 онд тайландын «Krating Daeng» («улаан бух») ундааг өөрчлөн боловсруулсан."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brands",
+      "key": "pubquiz.brands.a326",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Who was Apple’s little-known third co-founder, who sold his 10% stake for $800?",
+        "mn": "Apple-ийн бага мэдэгддэг гурав дахь үүсгэн байгуулагч, 10%-ийн хувьцаагаа 800 доллараар зарсан хүн хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Mike Markkula",
+          "mn": "Майк Марккула"
+        },
+        {
+          "en": "Tim Cook",
+          "mn": "Тим Кук"
+        },
+        {
+          "en": "John Sculley",
+          "mn": "Жон Скалли"
+        },
+        {
+          "en": "Ronald Wayne",
+          "mn": "Рональд Уэйн"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Wayne left 12 days after the 1976 founding; he also drew Apple’s first logo, showing Newton under a tree.",
+        "mn": "Уэйн 1976 онд компани байгуулагдсанаас 12 хоногийн дараа гарсан; тэр Ньютоныг модны доор суугаагаар дүрсэлсэн Apple-ийн анхны логог зурсан."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brands",
+      "key": "pubquiz.brands.a327",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Pepsi was originally sold under what name?",
+        "mn": "Pepsi анх ямар нэрээр зарагдаж байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Cola Royal",
+          "mn": "Cola Royal"
+        },
+        {
+          "en": "Brad’s Drink",
+          "mn": "Brad’s Drink"
+        },
+        {
+          "en": "Dr. Pepper",
+          "mn": "Dr. Pepper"
+        },
+        {
+          "en": "Pep Tonic",
+          "mn": "Pep Tonic"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Pharmacist Caleb Bradham created it in 1893 and renamed it Pepsi-Cola in 1898, possibly after dyspepsia.",
+        "mn": "Эм зүйч Калеб Брэдхэм 1893 онд зохиож, 1898 онд Pepsi-Cola болгосон; нэр нь «диспепси» (хоол боловсруулалтын хямрал)-тай холбоотой байж магадгүй."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brands",
+      "key": "pubquiz.brands.a328",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Rolex is now Swiss, but in which city was it founded in 1905?",
+        "mn": "Rolex одоо Швейцарийн компани ч 1905 онд аль хотод байгуулагдсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Paris",
+          "mn": "Парис"
+        },
+        {
+          "en": "London",
+          "mn": "Лондон"
+        },
+        {
+          "en": "Vienna",
+          "mn": "Вена"
+        },
+        {
+          "en": "Milan",
+          "mn": "Милан"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Hans Wilsdorf and Alfred Davis started it in London and moved to Geneva in 1919, partly due to wartime taxes.",
+        "mn": "Ханс Вилсдорф, Альфред Дэвис нар Лондонд эхлүүлж, дайны үеийн татвар зэргээс болж 1919 онд Женев рүү нүүсэн."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brands",
+      "key": "pubquiz.brands.a329",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Why did George Eastman choose the name “Kodak”?",
+        "mn": "Жорж Истмэн «Kodak» нэрийг яагаад сонгосон бэ?"
+      },
+      "choices": [
+        {
+          "en": "His dog’s name",
+          "mn": "Нохойных нь нэр"
+        },
+        {
+          "en": "He liked the letter K",
+          "mn": "K үсэгт дуртай байсан"
+        },
+        {
+          "en": "A Greek word",
+          "mn": "Грек үг"
+        },
+        {
+          "en": "His hometown",
+          "mn": "Төрсөн хот нь"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Eastman thought K was a “strong, incisive” letter and wanted a short name that could not be mispronounced.",
+        "mn": "Истмэн K-г «хүчтэй, хурц» үсэг гэж үзэж, буруу дуудагдах аргагүй богино нэр хүссэн."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.brands",
+      "key": "pubquiz.brands.a330",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Häagen-Dazs ice cream was founded in which city?",
+        "mn": "Häagen-Dazs зайрмаг аль хотод үүссэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Copenhagen",
+          "mn": "Копенгаген"
+        },
+        {
+          "en": "New York",
+          "mn": "Нью-Йорк"
+        },
+        {
+          "en": "Oslo",
+          "mn": "Осло"
+        },
+        {
+          "en": "Amsterdam",
+          "mn": "Амстердам"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Reuben and Rose Mattus of the Bronx invented the Danish-sounding name in 1960; it means nothing.",
+        "mn": "Бронксын Рубен, Роуз Маттус нар 1960 онд дани маягийн утгагүй энэ нэрийг зохиосон."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongolian",
+      "key": "pubquiz.mongolian.a31",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which is NOT one of Naadam’s “three manly games”?",
+        "mn": "Аль нь Наадмын «эрийн гурван наадам»-д ордоггүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Wrestling",
+          "mn": "Бөх"
+        },
+        {
+          "en": "Horse racing",
+          "mn": "Морины уралдаан"
+        },
+        {
+          "en": "Archery",
+          "mn": "Сур харваа"
+        },
+        {
+          "en": "Weightlifting",
+          "mn": "Хүнд өргөлт"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Wrestling, horse racing and archery form the core of Naadam; women and girls also compete in archery and racing.",
+        "mn": "Бөх, морь, сур харваа бол Наадмын гол төрөл; эмэгтэйчүүд сур харваанд, охид хүүхэд уралдаанд оролцдог."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongolian",
+      "key": "pubquiz.mongolian.a32",
+      "difficulty": 1,
+      "prompt": {
+        "en": "On which dates is the national Naadam held each year?",
+        "mn": "Үндэсний их баяр наадам жил бүр хэдний өдрүүдэд болдог вэ?"
+      },
+      "choices": [
+        {
+          "en": "1–3 June",
+          "mn": "6-р сарын 1–3"
+        },
+        {
+          "en": "11–13 July",
+          "mn": "7-р сарын 11–13"
+        },
+        {
+          "en": "20–22 August",
+          "mn": "8-р сарын 20–22"
+        },
+        {
+          "en": "26–28 November",
+          "mn": "11-р сарын 26–28"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Naadam marks the 1921 People’s Revolution; it was inscribed on UNESCO’s intangible heritage list in 2010.",
+        "mn": "Наадам 1921 оны Ардын хувьсгалын ойг тэмдэглэдэг бөгөөд 2010 онд ЮНЕСКО-гийн биет бус өвийн жагсаалтад бүртгэгдсэн."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongolian",
+      "key": "pubquiz.mongolian.a33",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which steamed dumplings are the centrepiece food of Tsagaan Sar?",
+        "mn": "Цагаан сарын ширээний гол хоол болох жигнэсэн хоол юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Khuushuur",
+          "mn": "Хуушуур"
+        },
+        {
+          "en": "Bansh",
+          "mn": "Банш"
+        },
+        {
+          "en": "Tsuivan",
+          "mn": "Цуйван"
+        },
+        {
+          "en": "Buuz",
+          "mn": "Бууз"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Families make hundreds or even thousands of buuz in advance and freeze them outdoors for guests.",
+        "mn": "Гэр бүлүүд зочдод зориулж хэдэн зуу, бүр мянга мянган бууз урьдчилан чимхэж, гадаа хөлдөөдөг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongolian",
+      "key": "pubquiz.mongolian.a34",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the ceremonial silk scarf offered as a gift or blessing called?",
+        "mn": "Хүндэтгэл, ерөөлийн бэлэг болгон өргөдөг торгон алчуурыг юу гэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Büs",
+          "mn": "Бүс"
+        },
+        {
+          "en": "Toortsog",
+          "mn": "Тоорцог"
+        },
+        {
+          "en": "Uyaa",
+          "mn": "Уяа"
+        },
+        {
+          "en": "Khadag",
+          "mn": "Хадаг"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "A khadag is held across both hands and offered with the open side towards the receiver; blue symbolises the eternal sky.",
+        "mn": "Хадгийг хоёр гараараа барьж, задгай талыг нь хүлээн авагч руу харуулан өргөдөг; цэнхэр өнгө мөнх хөх тэнгэрийг бэлгэддэг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongolian",
+      "key": "pubquiz.mongolian.a35",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the Mongolian art of producing two notes at once in the throat called?",
+        "mn": "Хоолойгоор нэгэн зэрэг хоёр авиа гаргадаг монгол урлагийг юу гэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Urtyn duu",
+          "mn": "Уртын дуу"
+        },
+        {
+          "en": "Khöömii",
+          "mn": "Хөөмий"
+        },
+        {
+          "en": "Bie biyelgee",
+          "mn": "Биелгээ"
+        },
+        {
+          "en": "Magtaal",
+          "mn": "Магтаал"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Singers create a drone and a whistling overtone at the same time; khöömii was added to UNESCO’s list in 2010.",
+        "mn": "Дуучин нэгэн зэрэг нам гүн авиа ба исгэрсэн шүгэл мэт авиа гаргадаг; хөөмий 2010 онд ЮНЕСКО-гийн жагсаалтад орсон."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongolian",
+      "key": "pubquiz.mongolian.a36",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which two letters does Mongolian Cyrillic add to the Russian alphabet?",
+        "mn": "Монгол кирилл үсэг орос цагаан толгой дээр ямар хоёр үсэг нэмдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Ә and Һ",
+          "mn": "Ә ба Һ"
+        },
+        {
+          "en": "Ғ and Қ",
+          "mn": "Ғ ба Қ"
+        },
+        {
+          "en": "Ң and Ұ",
+          "mn": "Ң ба Ұ"
+        },
+        {
+          "en": "Ө and Ү",
+          "mn": "Ө ба Ү"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The 35-letter alphabet was adopted in the 1940s; Ө and Ү stand for front rounded vowels.",
+        "mn": "35 үсэгтэй цагаан толгойг 1940-өөд онд нэвтрүүлсэн; Ө, Ү нь эгшгийн тусгай авиаг тэмдэглэдэг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongolian",
+      "key": "pubquiz.mongolian.a37",
+      "difficulty": 2,
+      "prompt": {
+        "en": "How is the traditional Mongolian script written?",
+        "mn": "Монгол бичгийг хэрхэн бичдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Right to left",
+          "mn": "Баруунаас зүүн тийш"
+        },
+        {
+          "en": "Bottom to top",
+          "mn": "Доороос дээш"
+        },
+        {
+          "en": "Top to bottom",
+          "mn": "Дээрээс доош"
+        },
+        {
+          "en": "Left to right only",
+          "mn": "Зөвхөн зүүнээс баруун тийш"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Columns run top to bottom and from left to right; the script descends from the Old Uyghur alphabet.",
+        "mn": "Мөрүүд дээрээс доош, зүүнээс баруун тийш явдаг; энэ бичиг эртний уйгур бичгээс гаралтай."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongolian",
+      "key": "pubquiz.mongolian.a38",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Why is a Mongolian wrestler’s jacket (zodog) open at the chest?",
+        "mn": "Монгол бөхийн зодог яагаад цээжээ ил гаргасан байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "To stay cool",
+          "mn": "Сэрүүцэх"
+        },
+        {
+          "en": "To prove he’s a man",
+          "mn": "Эр хүн гэдгээ харуулах"
+        },
+        {
+          "en": "To show tattoos",
+          "mn": "Шивээс харуулах"
+        },
+        {
+          "en": "For easier grip",
+          "mn": "Бариулахад хялбар"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Legend says a woman once secretly entered and beat every man, so the jacket was redesigned to bare the chest.",
+        "mn": "Домогт өгүүлснээр нэгэн эмэгтэй нууцаар барилдаж бүх эрийг давсан тул зодгийг цээжийг ил гаргахаар өөрчилжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongolian",
+      "key": "pubquiz.mongolian.a39",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Traditionally, how should you walk around an ovoo (sacred cairn)?",
+        "mn": "Овоог уламжлал ёсоор хэрхэн тойрох ёстой вэ?"
+      },
+      "choices": [
+        {
+          "en": "Clockwise three times",
+          "mn": "Нар зөв гурав тойрох"
+        },
+        {
+          "en": "Counter-clockwise once",
+          "mn": "Нар буруу нэг тойрох"
+        },
+        {
+          "en": "Clockwise seven times",
+          "mn": "Нар зөв долоо тойрох"
+        },
+        {
+          "en": "Not at all",
+          "mn": "Огт тойрохгүй"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Travellers add a stone or offering on each round and make a wish; ovoos often stand on passes and hilltops.",
+        "mn": "Аялагчид тойрох бүрдээ чулуу юм уу өргөл нэмж, хүслээ шивнэдэг; овоо ихэвчлэн даваа, толгодын оройд байдаг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.mongolian",
+      "key": "pubquiz.mongolian.a310",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Shagai ankle bones can land on four sides. Which is NOT one of them?",
+        "mn": "Шагай дөрвөн талаараа буудаг. Аль нь түүний нэг тал биш вэ?"
+      },
+      "choices": [
+        {
+          "en": "Horse",
+          "mn": "Морь"
+        },
+        {
+          "en": "Cow",
+          "mn": "Үхэр"
+        },
+        {
+          "en": "Camel",
+          "mn": "Тэмээ"
+        },
+        {
+          "en": "Goat",
+          "mn": "Ямаа"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The four sides are horse, camel, sheep and goat; shagai shooting is now also a Naadam event.",
+        "mn": "Дөрвөн тал нь морь, тэмээ, хонь, ямаа; шагай харваа одоо Наадмын нэг төрөл болжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.science",
+      "key": "pubquiz.science.a31",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the chemical symbol for gold?",
+        "mn": "Алтны химийн тэмдэг юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Ag",
+          "mn": "Ag"
+        },
+        {
+          "en": "Gd",
+          "mn": "Gd"
+        },
+        {
+          "en": "Go",
+          "mn": "Go"
+        },
+        {
+          "en": "Au",
+          "mn": "Au"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Au comes from the Latin “aurum”; Ag (silver) is from “argentum”.",
+        "mn": "Au нь латин «aurum» үгнээс гаралтай; Ag (мөнгө) нь «argentum»-аас."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.science",
+      "key": "pubquiz.science.a32",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which gas makes up most of Earth’s atmosphere?",
+        "mn": "Дэлхийн агаар мандлын дийлэнх хэсгийг ямар хий эзэлдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Oxygen",
+          "mn": "Хүчилтөрөгч"
+        },
+        {
+          "en": "Carbon dioxide",
+          "mn": "Нүүрсхүчлийн хий"
+        },
+        {
+          "en": "Nitrogen",
+          "mn": "Азот"
+        },
+        {
+          "en": "Argon",
+          "mn": "Аргон"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Nitrogen is about 78% of the air and oxygen about 21%; CO₂ is only around 0.04%.",
+        "mn": "Агаарын 78 орчим хувь азот, 21 орчим хувь хүчилтөрөгч; CO₂ ердөө 0.04 орчим хувь."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.science",
+      "key": "pubquiz.science.a33",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which organelle is called the “powerhouse of the cell”?",
+        "mn": "Эсийн «эрчим хүчний станц» гэж нэрлэгддэг органелл аль вэ?"
+      },
+      "choices": [
+        {
+          "en": "Nucleus",
+          "mn": "Бөөм"
+        },
+        {
+          "en": "Mitochondrion",
+          "mn": "Митохондри"
+        },
+        {
+          "en": "Ribosome",
+          "mn": "Рибосом"
+        },
+        {
+          "en": "Golgi body",
+          "mn": "Гольджийн аппарат"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Mitochondria make ATP and have their own DNA, inherited only from the mother.",
+        "mn": "Митохондри АТФ үйлдвэрлэдэг бөгөөд зөвхөн эхээс уламжлагддаг өөрийн ДНХ-тэй."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.science",
+      "key": "pubquiz.science.a34",
+      "difficulty": 1,
+      "prompt": {
+        "en": "How many bones does an adult human have?",
+        "mn": "Насанд хүрсэн хүн хэдэн ястай вэ?"
+      },
+      "choices": [
+        {
+          "en": "206",
+          "mn": "206"
+        },
+        {
+          "en": "186",
+          "mn": "186"
+        },
+        {
+          "en": "230",
+          "mn": "230"
+        },
+        {
+          "en": "300",
+          "mn": "300"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Babies are born with around 300 bones, many of which fuse; the smallest, the stapes, is in the ear.",
+        "mn": "Нярай хүүхэд 300 орчим ястай төрдөг бөгөөд олонх нь нийлдэг; хамгийн жижиг яс дөрөөвч чихэнд байдаг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.science",
+      "key": "pubquiz.science.a36",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which metal is liquid at room temperature?",
+        "mn": "Өрөөний хэмд шингэн байдаг металл аль вэ?"
+      },
+      "choices": [
+        {
+          "en": "Lead",
+          "mn": "Хар тугалга"
+        },
+        {
+          "en": "Tin",
+          "mn": "Цагаан тугалга"
+        },
+        {
+          "en": "Sodium",
+          "mn": "Натри"
+        },
+        {
+          "en": "Mercury",
+          "mn": "Мөнгөн ус"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Mercury melts at −39 °C; its symbol Hg comes from Greek “hydrargyrum”, liquid silver.",
+        "mn": "Мөнгөн ус −39 °C-д хайлдаг; Hg тэмдэг нь грекийн «шингэн мөнгө» гэсэн «hydrargyrum» үгнээс."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.science",
+      "key": "pubquiz.science.a37",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the pH of pure water at 25 °C?",
+        "mn": "25 °C-д цэвэр усны pH хэд вэ?"
+      },
+      "choices": [
+        {
+          "en": "0",
+          "mn": "0"
+        },
+        {
+          "en": "5",
+          "mn": "5"
+        },
+        {
+          "en": "14",
+          "mn": "14"
+        },
+        {
+          "en": "7",
+          "mn": "7"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "pH 7 is neutral; each step on the scale is a tenfold change, so pH 5 is 100 times more acidic than pH 7.",
+        "mn": "pH 7 нь саармаг; хэмжүүрийн нэг алхам 10 дахин ялгаатай тул pH 5 нь pH 7-оос 100 дахин хүчиллэг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.science",
+      "key": "pubquiz.science.a38",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Roughly how fast does light travel in a vacuum?",
+        "mn": "Гэрэл вакуумд ойролцоогоор ямар хурдтай тархдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "30,000 km/s",
+          "mn": "30 000 км/с"
+        },
+        {
+          "en": "300,000 km/s",
+          "mn": "300 000 км/с"
+        },
+        {
+          "en": "3,000 km/s",
+          "mn": "3000 км/с"
+        },
+        {
+          "en": "3 million km/s",
+          "mn": "3 сая км/с"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Exactly 299,792,458 m/s; sunlight takes about 8 minutes 20 seconds to reach Earth.",
+        "mn": "Яг 299 792 458 м/с; нарны гэрэл Дэлхийд 8 минут 20 секунд орчим хугацаанд хүрдэг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.science",
+      "key": "pubquiz.science.a39",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which blood type is known as the universal donor for red cells?",
+        "mn": "Улаан эсийн хувьд бүх нийтийн донор гэж аль цусны бүлгийг хэлдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "AB positive",
+          "mn": "AB эерэг"
+        },
+        {
+          "en": "A negative",
+          "mn": "A сөрөг"
+        },
+        {
+          "en": "B positive",
+          "mn": "B эерэг"
+        },
+        {
+          "en": "O negative",
+          "mn": "O сөрөг"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "O-negative red cells lack A, B and RhD antigens; AB positive is the universal recipient.",
+        "mn": "O сөрөг бүлгийн улаан эсэд A, B, RhD эсрэгтөрөгч байдаггүй; AB эерэг нь бүх нийтийн хүлээн авагч."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.science",
+      "key": "pubquiz.science.a310",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Marie Curie named which element after her homeland?",
+        "mn": "Мари Кюри аль элементийг эх орныхоо нэрээр нэрлэсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Radium",
+          "mn": "Ради"
+        },
+        {
+          "en": "Francium",
+          "mn": "Франци"
+        },
+        {
+          "en": "Polonium",
+          "mn": "Полони"
+        },
+        {
+          "en": "Curium",
+          "mn": "Кюри"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "She discovered polonium in 1898 while Poland was partitioned, hoping to draw attention to its cause.",
+        "mn": "Тэрээр 1898 онд Польш хуваагдсан байхад полонийг нээж, эх орныхоо хувь заяанд анхаарал татахыг зорьжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.world-famous-paintings",
+      "key": "pubquiz.world-famous-paintings.a31",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Who painted “The Birth of Venus”?",
+        "mn": "«Венерагийн мэндэлсэн нь» зургийг хэн зурсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Raphael",
+          "mn": "Рафаэль"
+        },
+        {
+          "en": "Sandro Botticelli",
+          "mn": "Сандро Боттичелли"
+        },
+        {
+          "en": "Titian",
+          "mn": "Тициан"
+        },
+        {
+          "en": "Caravaggio",
+          "mn": "Караваджо"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Painted in the 1480s, it shows Venus arriving on a scallop shell and hangs in the Uffizi in Florence.",
+        "mn": "1480-аад онд зурсан энэ зураг Венераг хясаан дээр ирж буйгаар дүрсэлсэн бөгөөд Флоренцийн Уффици галерейд бий."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.world-famous-paintings",
+      "key": "pubquiz.world-famous-paintings.a32",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Who painted “The Kiss”, famous for its gold leaf?",
+        "mn": "Алтан навчаараа алдартай «Үнсэлт» зургийг хэн зурсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Gustav Klimt",
+          "mn": "Густав Климт"
+        },
+        {
+          "en": "Egon Schiele",
+          "mn": "Эгон Шиле"
+        },
+        {
+          "en": "Auguste Rodin",
+          "mn": "Огюст Роден"
+        },
+        {
+          "en": "Marc Chagall",
+          "mn": "Марк Шагал"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Klimt painted it in Vienna in 1907–08 during his “Golden Period”; it hangs in the Belvedere.",
+        "mn": "Климт үүнийг 1907–08 онд Венад «алтан үе»-ийнхээ үед зурсан; Бельведер ордонд хадгалагддаг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.world-famous-paintings",
+      "key": "pubquiz.world-famous-paintings.a33",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which Japanese artist made “The Great Wave off Kanagawa”?",
+        "mn": "«Канагавагийн их давалгаа» бүтээлийг аль япон зураач хийсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Utagawa Hiroshige",
+          "mn": "Утагава Хирошигэ"
+        },
+        {
+          "en": "Katsushika Hokusai",
+          "mn": "Кацусика Хокусай"
+        },
+        {
+          "en": "Kitagawa Utamaro",
+          "mn": "Китагава Утамаро"
+        },
+        {
+          "en": "Yayoi Kusama",
+          "mn": "Яёи Кусама"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The c. 1831 woodblock print shows Mount Fuji tiny behind the wave; it is part of “Thirty-six Views of Mount Fuji”.",
+        "mn": "1831 орчим оны модон барын хэвлэлд Фүжи уул давалгааны цаана жижигхэн харагддаг; «Фүжи уулын 36 дүр» цувралын нэг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.world-famous-paintings",
+      "key": "pubquiz.world-famous-paintings.a34",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which pop artist painted “Campbell’s Soup Cans”?",
+        "mn": "«Campbell’s шөлний лааз» бүтээлийг аль поп арт зураач хийсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Andy Warhol",
+          "mn": "Энди Уорхол"
+        },
+        {
+          "en": "Roy Lichtenstein",
+          "mn": "Рой Лихтенштейн"
+        },
+        {
+          "en": "Keith Haring",
+          "mn": "Кит Херинг"
+        },
+        {
+          "en": "Jackson Pollock",
+          "mn": "Жексон Поллок"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The 1962 work has 32 canvases, one for each soup flavour Campbell’s sold at the time.",
+        "mn": "1962 оны бүтээл 32 зотон бөгөөд тухайн үед Campbell’s-ийн зарж байсан шөлний амт бүрт нэг нэгийг зориулжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.world-famous-paintings",
+      "key": "pubquiz.world-famous-paintings.a35",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Who painted “American Gothic”, showing a farmer with a pitchfork?",
+        "mn": "Сэрээ барьсан фермерийг дүрсэлсэн «Америкийн готик» зургийг хэн зурсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Edward Hopper",
+          "mn": "Эдвард Хоппер"
+        },
+        {
+          "en": "Norman Rockwell",
+          "mn": "Норман Рокуэлл"
+        },
+        {
+          "en": "Andrew Wyeth",
+          "mn": "Эндрю Уайет"
+        },
+        {
+          "en": "Grant Wood",
+          "mn": "Грант Вуд"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The 1930 models were the artist’s sister and his dentist; it hangs in the Art Institute of Chicago.",
+        "mn": "1930 оны зургийн загвар нь зураачийн эгч ба шүдний эмч нь байсан; Чикагогийн урлагийн институтэд бий."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.world-famous-paintings",
+      "key": "pubquiz.world-famous-paintings.a36",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Who painted “Nighthawks”, a late-night diner scene?",
+        "mn": "Шөнийн кафег дүрсэлсэн «Шөнийн шувууд» зургийг хэн зурсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Grant Wood",
+          "mn": "Грант Вуд"
+        },
+        {
+          "en": "Mark Rothko",
+          "mn": "Марк Ротко"
+        },
+        {
+          "en": "Georgia O’Keeffe",
+          "mn": "Жоржиа О’Киф"
+        },
+        {
+          "en": "Edward Hopper",
+          "mn": "Эдвард Хоппер"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Painted in 1942, it captures urban loneliness; the diner has no visible door.",
+        "mn": "1942 онд зурсан энэ зураг хотын ганцаардлыг илэрхийлдэг; кафед харагдах хаалга байхгүй."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.world-famous-paintings",
+      "key": "pubquiz.world-famous-paintings.a37",
+      "difficulty": 2,
+      "prompt": {
+        "en": "“Liberty Leading the People” by Delacroix commemorates which event?",
+        "mn": "Делакруагийн «Ард түмнийг удирдаж буй эрх чөлөө» зураг ямар үйл явдлыг дурсдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Storming of the Bastille",
+          "mn": "Бастилийг эзэлсэн нь"
+        },
+        {
+          "en": "Paris Commune",
+          "mn": "Парисын коммун"
+        },
+        {
+          "en": "July Revolution of 1830",
+          "mn": "1830 оны Долдугаар сарын хувьсгал"
+        },
+        {
+          "en": "Battle of Waterloo",
+          "mn": "Ватерлоогийн тулалдаан"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "It is often mistaken for the 1789 Revolution; Marianne with the tricolour became a symbol of France.",
+        "mn": "Үүнийг 1789 оны хувьсгал гэж андуурах нь элбэг; гурван өнгийн туг барьсан Марианна Францын бэлгэдэл болсон."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.world-famous-paintings",
+      "key": "pubquiz.world-famous-paintings.a38",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which Renaissance artist painted “The School of Athens”?",
+        "mn": "«Афины сургууль» зургийг Сэргэн мандалтын үеийн аль зураач зурсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Michelangelo",
+          "mn": "Микеланджело"
+        },
+        {
+          "en": "Donatello",
+          "mn": "Донателло"
+        },
+        {
+          "en": "Botticelli",
+          "mn": "Боттичелли"
+        },
+        {
+          "en": "Raphael",
+          "mn": "Рафаэль"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Vatican fresco shows Plato and Aristotle at the centre; Plato’s face is thought to be Leonardo’s.",
+        "mn": "Ватиканы энэ фресконы төвд Платон, Аристотель байх бөгөөд Платоны нүүрийг Леонардогоор зурсан гэж үздэг."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.world-famous-paintings",
+      "key": "pubquiz.world-famous-paintings.a39",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Who painted “Las Meninas”, in which the painter himself appears?",
+        "mn": "Зураач өөрөө дүрслэгдсэн «Менинас» зургийг хэн зурсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Francisco Goya",
+          "mn": "Франсиско Гойя"
+        },
+        {
+          "en": "El Greco",
+          "mn": "Эль Греко"
+        },
+        {
+          "en": "Diego Velázquez",
+          "mn": "Диего Веласкес"
+        },
+        {
+          "en": "Bartolomé Murillo",
+          "mn": "Бартоломе Мурильо"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The 1656 work in Madrid’s Prado shows the Infanta Margaret Theresa, with the king and queen in a mirror.",
+        "mn": "1656 оны Мадридын Прадо музей дэх энэ зурагт гүнж Маргарита Тереза, толинд хаан, хатан тусгалаа олжээ."
+      }
+    },
+    {
+      "topicSlug": "pubquiz",
+      "lessonKey": "pubquiz.world-famous-paintings",
+      "key": "pubquiz.world-famous-paintings.a310",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which painting, attributed to Leonardo, sold for a record $450 million in 2017?",
+        "mn": "Леонардод хамааруулдаг аль зураг 2017 онд 450 сая доллараар рекорд үнээр зарагдсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Lady with an Ermine",
+          "mn": "Ермэнтэй хатагтай"
+        },
+        {
+          "en": "Salvator Mundi",
+          "mn": "Salvator Mundi"
+        },
+        {
+          "en": "The Annunciation",
+          "mn": "Мэдэгдэл"
+        },
+        {
+          "en": "Ginevra de’ Benci",
+          "mn": "Жиневра де Бенчи"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "“Saviour of the World” sold at Christie’s in New York; its attribution is still debated and it has not been shown publicly since.",
+        "mn": "«Дэлхийн аврагч» Нью-Йоркийн Christie’s-д зарагдсан; зохиогч нь маргаантай хэвээр бөгөөд түүнээс хойш олны өмнө дэлгэгдээгүй."
+      }
+    }
+  ]
+}

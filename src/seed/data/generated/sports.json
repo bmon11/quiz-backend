@@ -1,0 +1,1463 @@
+{
+  "lessons": [
+    {
+      "topicSlug": "sports",
+      "key": "sports.basketball-legends",
+      "order": 3,
+      "title": {
+        "en": "Basketball Legends",
+        "mn": "Сагсан бөмбөгийн домогт тамирчид"
+      },
+      "summary": {
+        "en": "The iconic players who redefined the NBA and became global cultural icons.",
+        "mn": "Үндэсний сагсан бөмбөгийн холбоог шинэ түвшинд гаргаж, дэлхийн соёлын бэлгэ тэмдэг болсон тамирчид."
+      },
+      "body": {
+        "en": "Professional basketball evolved from a local American sport into a multi-billion dollar global phenomenon, largely driven by its transcendent superstars. Players like Michael Jordan, Kobe Bryant, and LeBron James did not just win championships; they built global brands and redefined athletic excellence.",
+        "mn": "Мэргэжлийн сагсан бөмбөг нь Америкийн орон нутгийн спортоос дэлхийн хэмжээний тэрбум долларын бизнес болон хөгжихөд түүний сод супер одод гол үүрэг гүйцэтгэсэн юм. Майкл Жордан, Коби Брайант, Леброн Жэймс зэрэг тоглогчид зөвхөн аварга авсангүй, харин дэлхийн брэндийг бүтээж, спортын шилдэг амжилтыг шинээр тодорхойлсон билээ."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "👑",
+            "title": {
+              "en": "Michael Jordan",
+              "mn": "Майкл Жордан"
+            },
+            "facts": [
+              {
+                "en": "Led the Chicago Bulls to 6 NBA championships and won Finals MVP in all 6.",
+                "mn": "Чикаго Буллз багийг 6 удаа NBA-гийн аварга болгож, бүгдэд нь Финалын MVP-гээр тодорсон."
+              },
+              {
+                "en": "Never let a Finals series go to a Game 7.",
+                "mn": "Финалын цувралыг хэзээ ч 7 дахь тоглолт руу сунгаж байгаагүй."
+              }
+            ],
+            "subtitle": {
+              "en": "The GOAT of Chicago",
+              "mn": "Чикагогийн бүх цаг үеийн шилдэг"
+            }
+          },
+          {
+            "icon": "🐍",
+            "title": {
+              "en": "Kobe Bryant",
+              "mn": "Коби Брайант"
+            },
+            "facts": [
+              {
+                "en": "Won 5 NBA titles with the LA Lakers and scored 81 points in a single game.",
+                "mn": "Лос-Анжелес Лэйкерс багтай 5 удаа аваргалж, нэг тоглолтод 81 оноо авч байсан."
+              },
+              {
+                "en": "The only player to have two different numbers (8 and 24) retired by the same franchise.",
+                "mn": "Нэг багт хоёр өөр дугаарыг (8 ба 24) хамт мөнхөлсөн цорын ганц тоглогч."
+              }
+            ],
+            "subtitle": {
+              "en": "The Black Mamba",
+              "mn": "Хар Мамба"
+            }
+          },
+          {
+            "icon": "🦁",
+            "title": {
+              "en": "LeBron James",
+              "mn": "Леброн Жэймс"
+            },
+            "facts": [
+              {
+                "en": "Became the NBA's all-time leading scorer, surpassing Kareem Abdul-Jabbar.",
+                "mn": "Карим Абдул-Жаббарыг гүйцэж, NBA-гийн бүх цаг үеийн онооны дээд амжилтыг тогтоосон."
+              },
+              {
+                "en": "Won championships with three different franchises: Miami, Cleveland, and LA.",
+                "mn": "Майами, Кливленд, Лэйкерс гэсэн гурван өөр багт аварга авсан."
+              }
+            ],
+            "subtitle": {
+              "en": "King James",
+              "mn": "Хаан Жэймс"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "Michael Jordan wore a blank jersey with the number 12 in a 1990 game after his famous number 23 jersey was stolen right before tip-off.",
+          "mn": "Майкл Жорданы алдарт 23 дугаартай өмсгөл тоглолтын өмнөхөн хулгайд алдагдсаны улмаас тэрээр 1990 оны нэгэн тоглолтод 12 дугаартай, нэргүй өмсгөл өмсөж тоглож байжээ."
+        },
+        {
+          "en": "Kobe Bryant chose his nickname 'The Black Mamba' after watching Quentin Tarantino's film 'Kill Bill'.",
+          "mn": "Коби Брайант өөрийн 'Хар Мамба' (The Black Mamba) хэмээх хочийг Квентин Тарантиногийн 'Биллийг устга' (Kill Bill) киног үзсэнийхээ дараа сонгосон байна."
+        }
+      ]
+    },
+    {
+      "topicSlug": "sports",
+      "key": "sports.formula-1-history",
+      "order": 4,
+      "title": {
+        "en": "Formula 1 History",
+        "mn": "Формула 1-ийн түүх"
+      },
+      "summary": {
+        "en": "The evolution of the pinnacle of motorsport and its greatest records.",
+        "mn": "Авто спортын оргил цэг болсон уралдааны хувьсал болон түүний агуу амжилтууд."
+      },
+      "body": {
+        "en": "Since its inaugural World Championship season in 1950, Formula 1 has combined cutting-edge engineering with extreme human endurance. The sport has seen dominant eras, tragic safety lessons, and legendary rivalries that pushed limits on the world's most dangerous race tracks.",
+        "mn": "1950 онд анхны Дэлхийн аварга шалгаруулах тэмцээнээ зохион байгуулснаас хойш Формула 1 нь хамгийн сүүлийн үеийн инженерчлэлийг хүний тэсвэр хатуужилтай хослуулсаар ирсэн. Энэхүү спорт нь дэлхийн хамгийн аюултай замууд дээр хязгаарыг давсан давамгайлал, аюулгүй байдлын эмгэнэлт сургамж, домогт өрсөлдөөнүүдийг гэрчилсэн юм."
+      },
+      "visual": {
+        "kind": "timeline",
+        "items": [
+          {
+            "when": {
+              "en": "1950",
+              "mn": "1950 он"
+            },
+            "title": {
+              "en": "The First Championship",
+              "mn": "Анхны аварга шалгаруулах тэмцээн"
+            },
+            "body": {
+              "en": "The first official Formula 1 World Championship race is held at Silverstone, England, won by Giuseppe Farina.",
+              "mn": "Анхны албан ёсны Формула 1-ийн Дэлхийн аварга шалгаруулах уралдаан Английн Силверстоунд болж, Жузеппе Фарина түрүүлжээ."
+            }
+          },
+          {
+            "when": {
+              "en": "1968",
+              "mn": "1968 он"
+            },
+            "title": {
+              "en": "Sponsorship and Wings Appear",
+              "mn": "Ивээн тэтгэгч ба далавчнууд"
+            },
+            "body": {
+              "en": "Lotus introduces commercial sponsor liveries and aerodynamic wings, changing the look and speed of cars forever.",
+              "mn": "Лотус баг арилжааны ивээн тэтгэгчийн лого болон аэродинамик далавчийг нэвтрүүлснээр машинуудын өнгө үзэмж, хурдыг бүрмөсөн өөрчлөв."
+            }
+          },
+          {
+            "when": {
+              "en": "1994",
+              "mn": "1994 он"
+            },
+            "title": {
+              "en": "The Death of Ayrton Senna",
+              "mn": "Айртон Сеннагийн үхэл"
+            },
+            "body": {
+              "en": "The tragic crash of triple champion Ayrton Senna at Imola triggers a massive revolution in safety standards.",
+              "mn": "Гурван удаагийн аварга Айртон Сенна Имолагийн замд эмгэнэлтэйгээр осолдсон нь аюулгүй байдлын стандартад асар том хувьсгал хийх шалтгаан болов."
+            }
+          },
+          {
+            "when": {
+              "en": "2004",
+              "mn": "2004 он"
+            },
+            "title": {
+              "en": "Schumacher's Peak",
+              "mn": "Шумахерийн оргил амжилт"
+            },
+            "body": {
+              "en": "Michael Schumacher wins his record-breaking 7th World Championship title, dominating with Ferrari.",
+              "mn": "Михаэль Шумахер Феррари багтайгаа босоо байж, түүхэн амжилт тогтоосон 7 дахь Дэлхийн аваргын цомоо хүртэв."
+            }
+          },
+          {
+            "when": {
+              "en": "2020",
+              "mn": "2020 он"
+            },
+            "title": {
+              "en": "Hamilton Equals the Record",
+              "mn": "Хамильтон амжилтыг тэнцүүлэв"
+            },
+            "body": {
+              "en": "Lewis Hamilton wins his 7th World Championship, later becoming the first driver to reach 100 Grand Prix wins.",
+              "mn": "Льюис Хамильтон 7 дахь Дэлхийн аваргаа авч, улмаар 100 Гран Прид түрүүлсэн анхны уралдаанч болжээ."
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "An F1 car can theoretically drive upside down on the ceiling of a tunnel due to the aerodynamic downforce it generates at high speeds.",
+          "mn": "Формула 1-ийн машин нь өндөр хурдтай явахдаа үүсгэх аэродинамик даралтын хүчний тусламжтайгаар онолын хувьд туннелийн таазан дээр доошоо харан давхих боломжтой."
+        },
+        {
+          "en": "Drivers can lose up to 4 kilograms of body weight during a single race due to extreme heat and G-forces.",
+          "mn": "Уралдаанчдын биеийн жин хэт халуун болон ачааллаас шалтгаалж нэг уралдааны явцад 4 кг хүртэл хасагддаг байна."
+        }
+      ]
+    },
+    {
+      "topicSlug": "sports",
+      "key": "sports.chess-champions",
+      "order": 5,
+      "title": {
+        "en": "Chess Champions",
+        "mn": "Шатрын аваргууд"
+      },
+      "summary": {
+        "en": "The brilliant minds who dominated the 64 squares throughout history.",
+        "mn": "Шатрын 64 нүдийг эзэгнэж, түүхэнд нэрээ үлдээсэн суут ухаантнууд."
+      },
+      "body": {
+        "en": "The World Chess Championship officially began in 1886. Since then, the crown has passed through legendary strategists, Cold War icons, and modern computer-era prodigies who redefined how humans calculate and play the royal game.",
+        "mn": "Шатрын дэлхийн аварга шалгаруулах тэмцээн албан ёсоор 1886 онд эхэлсэн. Түүнээс хойш титэм нь домогт стратегичид, Хүйтэн дайны үеийн бэлгэ тэмдгүүд болон орчин үеийн компьютерын эрин үеийн гоц авьяастнуудын гар дамжин иржээ."
+      },
+      "visual": {
+        "kind": "bar",
+        "unit": {
+          "en": "Years as Champion",
+          "mn": "Аварга байсан жилүүд"
+        },
+        "horizontal": true,
+        "items": [
+          {
+            "label": {
+              "en": "Emanuel Lasker",
+              "mn": "Эмануэль Ласкер"
+            },
+            "value": 27
+          },
+          {
+            "label": {
+              "en": "Wilhelm Steinitz",
+              "mn": "Вильгельм Стейниц"
+            },
+            "value": 8
+          },
+          {
+            "label": {
+              "en": "Garry Kasparov",
+              "mn": "Гарри Каспаров"
+            },
+            "value": 15
+          },
+          {
+            "label": {
+              "en": "Anatoly Karpov",
+              "mn": "Анатолий Карпов"
+            },
+            "value": 10
+          },
+          {
+            "label": {
+              "en": "Magnus Carlsen",
+              "mn": "Магнус Карлсен"
+            },
+            "value": 10
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "Garry Kasparov became the youngest undisputed World Chess Champion in history in 1985 at the age of 22.",
+          "mn": "Гарри Каспаров 1985 онд 22 насандаа түүхэн дэх хамгийн залуу дэлхийн аварга болж байжээ."
+        },
+        {
+          "en": "The 1972 match between Bobby Fischer and Boris Spassky was dubbed the 'Match of the Century' as a symbolic Cold War battle.",
+          "mn": "1972 оны Бобби Фишер болон Борис Спасский нарын тоглолтыг Хүйтэн дайны бэлгэдэл хэмээн үзэж 'Зууны халз тулаан' гэж нэрлэж байв."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.chess-champions",
+      "key": "sports.chess-champions.g1",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Who is the longest-reigning official World Chess Champion in history, holding the title for a continuous 27 years?",
+        "mn": "Дэлхийн шатрын аваргын титмийг хамгийн удаан хугацаанд буюу тасралтгүй 27 жилийн турш эзэмшсэн түүхэн дэх цорын ганц шатарчин хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Alexander Alekhine",
+          "mn": "Александр Алехин"
+        },
+        {
+          "en": "Wilhelm Steinitz",
+          "mn": "Вильгельм Стейниц"
+        },
+        {
+          "en": "Garry Kasparov",
+          "mn": "Гарри Каспаров"
+        },
+        {
+          "en": "Emanuel Lasker",
+          "mn": "Эмануэль Ласкер"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Emanuel Lasker of Germany held the World Chess Championship title from 1894 to 1921. He was also a talented mathematician and a close friend of Albert Einstein.",
+        "mn": "Германы шатарчин Эмануэль Ласкер 1894-1921 оны хооронд дэлхийн аваргын титмийг хадгалжээ. Тэрээр мөн авьяаслаг математикч байсан бөгөөд Альберт Эйнштейнтэй дотны найзууд байв."
+      }
+    },
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.chess-champions",
+      "key": "sports.chess-champions.g2",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In 1985, who became the youngest undisputed World Chess Champion in history at the age of 22?",
+        "mn": "1985 онд ердөө 22 насандаа дэлхийн шатрын хамгийн залуу аварга болж түүхэнд үлдсэн шатарчин хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Garry Kasparov",
+          "mn": "Гарри Каспаров"
+        },
+        {
+          "en": "Magnus Carlsen",
+          "mn": "Магнус Карлсен"
+        },
+        {
+          "en": "Bobby Fischer",
+          "mn": "Бобби Фишер"
+        },
+        {
+          "en": "Anatoly Karpov",
+          "mn": "Анатолий Карпов"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Garry Kasparov won the title in 1985 after defeating Anatoly Karpov. He held the world No. 1 ranking for a record 255 months.",
+        "mn": "Гарри Каспаров 1985 онд Анатолий Карповыг хожсоноор энэхүү амжилтыг тогтоожээ. Тэрээр дэлхийн чансааг 255 сарын турш тэргүүлсэн дээд амжилтыг эзэмшдэг."
+      }
+    },
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.chess-champions",
+      "key": "sports.chess-champions.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The famous 1972 'Match of the Century' which served as a symbolic Cold War battle was played between Boris Spassky and which American prodigy?",
+        "mn": "Хүйтэн дайны үеийн бэлгэдэл болсон 1972 оны алдарт 'Зууны халз тулаан' Борис Спасский болон Америкийн ямар гоц авьяастны хооронд болсон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Bobby Fischer",
+          "mn": "Бобби Фишер"
+        },
+        {
+          "en": "Paul Morphy",
+          "mn": "Пол Морфи"
+        },
+        {
+          "en": "Hikaru Nakamura",
+          "mn": "Хикару Накамура"
+        },
+        {
+          "en": "Samuel Reshevsky",
+          "mn": "Самуэль Решевский"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Bobby Fischer won the historic match in Reykjavik, Iceland, ending 24 years of Soviet domination in the World Championship. The event was highly publicized worldwide.",
+        "mn": "Бобби Фишер Исландын Рейкьявикт болсон уг түүхэн тулаанд ялалт байгуулж, Зөвлөлтийн 24 жилийн ноёрхлыг зогсоожээ. Энэхүү тэмцээнийг дэлхий даяар маш их сонирхон үзсэн юм."
+      }
+    },
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.chess-champions",
+      "key": "sports.chess-champions.g4",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Who is the first officially recognized World Chess Champion, winning the inaugural match in 1886?",
+        "mn": "1886 онд зохиогдсон анхны албан ёсны Дэлхийн шатрын аварга шалгаруулах тэмцээнд түрүүлж, анхны албан ёсны аварга болсон шатарчин хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Adolf Anderssen",
+          "mn": "Адольф Андерсен"
+        },
+        {
+          "en": "Johannes Zukertort",
+          "mn": "Иоганн Цукерторт"
+        },
+        {
+          "en": "Wilhelm Steinitz",
+          "mn": "Вильгельм Стейниц"
+        },
+        {
+          "en": "Paul Morphy",
+          "mn": "Пол Морфи"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Austrian-American player Wilhelm Steinitz defeated Johannes Zukertort in 1886 to become the first official champion. He is widely regarded as the father of modern positional chess.",
+        "mn": "Австри-Америкийн шатарчин Вильгельм Стейниц 1886 онд Иоганн Цукертортыг хожиж анхны аварга болжээ. Түүнийг орчин үеийн байрлалын шатрын онолыг үндэслэгч гэж үздэг."
+      }
+    },
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.chess-champions",
+      "key": "sports.chess-champions.g5",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In 1997, Garry Kasparov famously lost a six-game match under standard time controls to which IBM supercomputer?",
+        "mn": "1997 онд Гарри Каспаров стандарт цагийн хяналттай зургаан өрөгт тоглолтод IBM компанийн ямар супер компьютерт ялагдсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Stockfish",
+          "mn": "Stockfish"
+        },
+        {
+          "en": "Watson",
+          "mn": "Watson"
+        },
+        {
+          "en": "Deep Blue",
+          "mn": "Deep Blue"
+        },
+        {
+          "en": "AlphaGo",
+          "mn": "AlphaGo"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Deep Blue's victory was a historic milestone in artificial intelligence, marking the first time a computer defeated a reigning world champion in a match.",
+        "mn": "Deep Blue компьютерын ялалт нь хиймэл оюун ухааны түүхэн дэх томоохон эргэлтийн цэг болсон бөгөөд дэлхийн аварга хүнийг халз тоглолтод хожсон анхны тохиолдол байв."
+      }
+    },
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.chess-champions",
+      "key": "sports.chess-champions.g6",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which Norwegian grandmaster won the World Chess Championship in 2013 and voluntarily abdicated his title in 2023?",
+        "mn": "2013 онд Дэлхийн шатрын аварга болж, улмаар 2023 онд титмээ хамгаалахаас сайн дураараа татгалзсан Норвегийн их мастер хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Magnus Carlsen",
+          "mn": "Магнус Карлсен"
+        },
+        {
+          "en": "Viswanathan Anand",
+          "mn": "Висванатан Ананд"
+        },
+        {
+          "en": "Ding Liren",
+          "mn": "Дин Лижэнь"
+        },
+        {
+          "en": "Ian Nepomniachtchi",
+          "mn": "Ян Непомнящий"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Magnus Carlsen decided not to defend his title in 2023 due to a lack of motivation, though he remains the world's top-rated player.",
+        "mn": "Магнус Карлсен урам зориггүй болсон гэх шалтгаанаар 2023 онд титмээ хамгаалах тоглолтод оролцоогүй ч дэлхийн чансааг тэргүүлсэн хэвээр байна."
+      }
+    },
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.chess-champions",
+      "key": "sports.chess-champions.g7",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Who was the first Asian player to officially win the World Chess Championship, holding the undisputed title from 2007 to 2013?",
+        "mn": "2007-2013 оны хооронд дэлхийн аваргын титмийг эзэмшсэн, Ази тивийн анхны албан ёсны дэлхийн шатрын аварга хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Hikaru Nakamura",
+          "mn": "Хикару Накамура"
+        },
+        {
+          "en": "Wesley So",
+          "mn": "Уэсли Со"
+        },
+        {
+          "en": "Ding Liren",
+          "mn": "Дин Лижэнь"
+        },
+        {
+          "en": "Viswanathan Anand",
+          "mn": "Висванатан Ананд"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Viswanathan Anand of India won the title in 2007. He is known for his lightning-fast playing speed, especially in his youth.",
+        "mn": "Энэтхэгийн шатарчин Висванатан Ананд 2007 онд дэлхийн аварга болсон юм. Тэрээр залуудаа маш хурдан тоглодог байснаараа алдартай байв."
+      }
+    },
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.chess-champions",
+      "key": "sports.chess-champions.g8",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which World Chess Champion died in 1946 while still holding the title, leading to an interregnum before a new champion was crowned?",
+        "mn": "Ямар дэлхийн шатрын аварга 1946 онд аварга цолоо эзэмшиж байхдаа таалал төгссөн бөгөөд үүний улмаас дараагийн аварга тодрох хүртэл титэм эзэнгүй байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Alexander Alekhine",
+          "mn": "Александр Алехин"
+        },
+        {
+          "en": "Mikhail Botvinnik",
+          "mn": "Михаил Ботвинник"
+        },
+        {
+          "en": "Jose Raul Capablanca",
+          "mn": "Хосе Рауль Капабланка"
+        },
+        {
+          "en": "Max Euwe",
+          "mn": "Макс Эйве"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Alexander Alekhine of France (born in Russia) is the only World Chess Champion to die while holding the title. This prompted FIDE to organize the 1948 tournament to find his successor.",
+        "mn": "Францын (Орост төрсөн) шатарчин Александр Алехин бол аварга цолоо эзэмшиж байхдаа таалал төгссөн цорын ганц шатарчин юм. Үүнээс болж Олон улсын шатрын холбоо (ФИДЕ) 1948 онд шинэ аварга шалгаруулах тэмцээнийг зохион байгуулжээ."
+      }
+    },
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.chess-champions",
+      "key": "sports.chess-champions.g9",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Known as the 'Human Chess Machine' for his legendary endgame skill and speed, which Cuban player was World Champion from 1921 to 1927?",
+        "mn": "Төгсгөлийн тоглолтын гайхалтай ур чадвараараа 'Хүн-шатрын машин' гэгддэг байсан, 1921-1927 оны хооронд дэлхийн аварга байсан Кубын шатарчин хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Jose Raul Capablanca",
+          "mn": "Хосе Рауль Капабланка"
+        },
+        {
+          "en": "Akiba Rubinstein",
+          "mn": "Акиба Рубинштейн"
+        },
+        {
+          "en": "Paul Keres",
+          "mn": "Пауль Керес"
+        },
+        {
+          "en": "Alexander Alekhine",
+          "mn": "Александр Алехин"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Jose Raul Capablanca was undefeated in tournament play for eight years from 1916 to 1924, a testament to his natural genius.",
+        "mn": "Хосе Рауль Капабланка 1916-1924 оны хооронд найман жилийн турш ямар ч тэмцээнд хожигдоогүй бөгөөд энэ нь түүний төрөлхийн гоц авьяасыг илтгэдэг."
+      }
+    },
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.chess-champions",
+      "key": "sports.chess-champions.g10",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In 2023, who defeated Ian Nepomniachtchi to become the first official World Chess Champion representing China?",
+        "mn": "2023 онд Ян Непомнящийг хожиж, БНХАУ-аас төрсөн анхны албан ёсны Дэлхийн шатрын аварга болсон шатарчин хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Yu Yangyi",
+          "mn": "Юй Янъи"
+        },
+        {
+          "en": "Wei Yi",
+          "mn": "Вэй И"
+        },
+        {
+          "en": "Wang Hao",
+          "mn": "Ван Хао"
+        },
+        {
+          "en": "Ding Liren",
+          "mn": "Дин Лижэнь"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Ding Liren won the championship in a dramatic rapid playoff tiebreak. He qualified for the match only after Magnus Carlsen vacated the title.",
+        "mn": "Дин Лижэнь түргэн тоглолтын нэмэлт өрөгт ялалт байгуулж аварга болсон. Тэрээр Магнус Карлсен титмээ хамгаалахаас татгалзсаны дараа л энэхүү халз тоглолтод оролцох эрх авсан юм."
+      }
+    },
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.chess-champions",
+      "key": "sports.chess-champions.g11",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which of these is NOT a piece in a standard game of chess?",
+        "mn": "Эдгээрээс аль нь стандартын шатрын хөлөг дээрх дүрс БИШ вэ?"
+      },
+      "choices": [
+        {
+          "en": "Knight",
+          "mn": "Морь"
+        },
+        {
+          "en": "Bishop",
+          "mn": "Тэмээ"
+        },
+        {
+          "en": "Rook",
+          "mn": "Тэрэг"
+        },
+        {
+          "en": "Duke",
+          "mn": "Гүн"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "A standard chess set consists of pawns, knights, bishops, rooks, queens, and kings. There is no 'Duke' piece in chess.",
+        "mn": "Стандарт шатрын багцад хүү, морь, тэмээ, тэрэг, бэрс, ноён зэрэг дүрсүүд багтдаг. Шатрын тоглоомд 'Гүн' (Duke) гэх дүрс байдаггүй."
+      }
+    },
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.chess-champions",
+      "key": "sports.chess-champions.g12",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Who was the Soviet champion known as the 'Patriarch' of the Soviet Chess School, dominating the post-WWII era?",
+        "mn": "Дэлхийн хоёрдугаар дайны дараах үед ноёрхож байсан, Зөвлөлтийн шатрын сургуулийн 'Эцэг' гэгддэг аварга хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Mikhail Botvinnik",
+          "mn": "Михаил Ботвинник"
+        },
+        {
+          "en": "Mikhail Tal",
+          "mn": "Михаил Таль"
+        },
+        {
+          "en": "Tigran Petrosian",
+          "mn": "Тигран Петросян"
+        },
+        {
+          "en": "Vasily Smyslov",
+          "mn": "Василий Смыслов"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Mikhail Botvinnik was a computer scientist and three-time World Champion. He trained future legends like Kasparov, Karpov, and Kramnik.",
+        "mn": "Михаил Ботвинник нь компьютер судлаач мэргэжилтэй, дэлхийн гурван удаагийн аварга байв. Тэрээр хожим Каспаров, Карпов, Крамник зэрэг домогт шатарчдыг бэлтгэсэн сургуулийг удирдаж байжээ."
+      }
+    },
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.formula-1-history",
+      "key": "sports.formula-1-history.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Who holds the record for the most Formula 1 World Championship titles, tied at 7 with Michael Schumacher?",
+        "mn": "Михаэль Шумахерын тогтоосон Дэлхийн аваргын 7 цомын амжилтыг тэнцүүлж, хамгийн олон удаа аваргалсан дээд амжилтыг хамтран эзэмшиж буй уралдаанч хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Lewis Hamilton",
+          "mn": "Льюис Хамильтон"
+        },
+        {
+          "en": "Sebastian Vettel",
+          "mn": "Себастьян Феттель"
+        },
+        {
+          "en": "Ayrton Senna",
+          "mn": "Айртон Сенна"
+        },
+        {
+          "en": "Max Verstappen",
+          "mn": "Макс Ферстаппен"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Lewis Hamilton won his seventh title in 2020. He also holds the record for the most individual race wins and pole positions in Formula 1 history.",
+        "mn": "Льюис Хамильтон 2020 онд долоо дахь аваргаа авсан юм. Тэрээр мөн Формула 1-ийн түүхэнд хамгийн олон түрүү, хамгийн олон тулгуурын байрлал (pole position) авсан амжилтыг эзэмшдэг."
+      }
+    },
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.formula-1-history",
+      "key": "sports.formula-1-history.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of the following countries has NEVER hosted an official Formula 1 Grand Prix?",
+        "mn": "Дараах улсуудын аль нь Формула 1-ийн албан ёсны Гран При уралдааныг хэзээ ч зохион байгуулж байгаагүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "South Africa",
+          "mn": "Өмнөд Африк"
+        },
+        {
+          "en": "India",
+          "mn": "Энэтхэг"
+        },
+        {
+          "en": "Egypt",
+          "mn": "Египет"
+        },
+        {
+          "en": "Morocco",
+          "mn": "Марокко"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Egypt has never hosted a Grand Prix. Morocco hosted once in 1958, India hosted from 2011 to 2013, and South Africa hosted multiple times, most recently in 1993.",
+        "mn": "Египет улс Гран При зохион байгуулж байгаагүй. Марокко 1958 онд нэг удаа, Энэтхэг 2011-2013 онд, харин Өмнөд Африк хамгийн сүүлд 1993 онд уралдаан хүлээн авч байжээ."
+      }
+    },
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.formula-1-history",
+      "key": "sports.formula-1-history.g3",
+      "difficulty": 3,
+      "prompt": {
+        "en": "This legendary British team, founded in 1977, dominated the 1980s and 1990s. Its cars are famous for the 'FW' chassis designation, named after its founder. What is this team?",
+        "mn": "1977 онд үүсгэн байгуулагдсан Британийн энэхүү домогт баг 1980, 1990-ээд онд ноёрхож байв. Тэдний машинууд үүсгэн байгуулагчийнх нь нэрээр нэрлэгдсэн 'FW' явах эд ангийн кодоор алдартай. Энэ аль баг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Lotus",
+          "mn": "Лотус"
+        },
+        {
+          "en": "McLaren",
+          "mn": "Макларен"
+        },
+        {
+          "en": "Tyrrell",
+          "mn": "Тиррелл"
+        },
+        {
+          "en": "Williams",
+          "mn": "Уильямс"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Williams Grand Prix Engineering was founded by Sir Frank Williams. The team won 9 Constructors' Championships between 1980 and 1997.",
+        "mn": "Уильямс багийг Сэр Фрэнк Уильямс үүсгэн байгуулжээ. Тус баг 1980-1997 оны хооронд Зохион бүтээгчдийн дэлхийн аварга шалгаруулах тэмцээнд 9 удаа түрүүлсэн байна."
+      }
+    },
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.formula-1-history",
+      "key": "sports.formula-1-history.g4",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which revolutionary head and neck support device, designed to prevent basilar skull fractures during high-impact crashes, became mandatory for all F1 drivers in 2003?",
+        "mn": "Хүчтэй мөргөлдөлтийн үед гавлын суурь ясны хугаралтаас сэргийлэх зориулалттай, 2003 оноос бүх уралдаанчдын заавал хэрэглэх хамгаалалт болсон төхөөрөмжийг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Halo",
+          "mn": "Хало хамгаалалт"
+        },
+        {
+          "en": "HANS device",
+          "mn": "HANS систем"
+        },
+        {
+          "en": "KERS system",
+          "mn": "KERS систем"
+        },
+        {
+          "en": "Nomex suit",
+          "mn": "Номекс хувцас"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The HANS (Head and Neck Support) device significantly limits head movement during a crash. It was invented in the 1980s by biomechanical engineering professor Robert Hubbard.",
+        "mn": "HANS (Толгой ба хүзүүний тулгуур) систем нь ослын үед толгойн хөдөлгөөнийг эрс хязгаарладаг. Үүнийг 1980-аад онд биомеханик инженерийн профессор Роберт Хаббард зохион бүтээжээ."
+      }
+    },
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.formula-1-history",
+      "key": "sports.formula-1-history.g5",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which iconic team is the oldest and most successful in Formula 1 history, having competed in every single season since the inaugural 1950 championship?",
+        "mn": "1950 оны анхны аварга шалгаруулах тэмцээнээс хойш улирал бүр тасралтгүй оролцож ирсэн, Формула 1-ийн түүхэн дэх хамгийн эртний бөгөөд хамгийн амжилттай баг аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Alfa Romeo",
+          "mn": "Альфа Ромео"
+        },
+        {
+          "en": "McLaren",
+          "mn": "Макларен"
+        },
+        {
+          "en": "Ferrari",
+          "mn": "Феррари"
+        },
+        {
+          "en": "Mercedes",
+          "mn": "Мерседес"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Scuderia Ferrari, founded by Enzo Ferrari, is the only team to have competed in every F1 season. They have won a record 16 Constructors' Championships.",
+        "mn": "Энцо Ферраригийн үүсгэн байгуулсан Скудериа Феррари бол Ф1-ийн бүх улиралд уралдсан цорын ганц баг юм. Тэд түүхэнд хамгийн олон буюу 16 удаа Зохион бүтээгчдийн цом хүртжээ."
+      }
+    },
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.formula-1-history",
+      "key": "sports.formula-1-history.g6",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Who is the only driver in Formula 1 history to win the World Championship posthumously, after a fatal crash during practice in 1970?",
+        "mn": "1970 оны бэлтгэл уралдааны үеэр эмгэнэлтэйгээр амиа алдсаныхаа дараа Дэлхийн аварга цолыг нөхөн хүртсэн, Формула 1-ийн түүхэн дэх цорын ганц уралдаанч хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Jochen Rindt",
+          "mn": "Йохен Риндт"
+        },
+        {
+          "en": "Gilles Villeneuve",
+          "mn": "Жиль Вильнёв"
+        },
+        {
+          "en": "Wolfgang von Trips",
+          "mn": "Вольфганг фон Трипс"
+        },
+        {
+          "en": "Jim Clark",
+          "mn": "Жим Кларк"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Austrian driver Jochen Rindt died during practice for the Italian GP at Monza. He had accumulated enough points earlier in the season that no other driver could surpass him.",
+        "mn": "Австрийн уралдаанч Йохен Риндт Монзагийн замд болсон Италийн Гран Пригийн бэлтгэлийн үеэр нас баржээ. Гэвч түүний цуглуулсан оноог улирлын эцэст ямар ч уралдаанч гүйцэж чадаагүй тул түүнд аваргын цолыг нөхөн олгосон юм."
+      }
+    },
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.formula-1-history",
+      "key": "sports.formula-1-history.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In 1978, Brabham introduced an infamous car that won its debut race but was quickly banned due to its controversial design. What was its popular nickname?",
+        "mn": "1978 онд Брэбхэм баг анхны уралдаандаа шууд түрүүлсэн боловч маргаантай загварын улмаас шууд хориглогдсон нэгэн машиныг танилцуулжээ. Энэ машиныг юу гэж хочилдог байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Six-wheeler",
+          "mn": "Зургаан дугуйт"
+        },
+        {
+          "en": "Fan Car",
+          "mn": "Сэнстэй машин"
+        },
+        {
+          "en": "Wing car",
+          "mn": "Далавчит машин"
+        },
+        {
+          "en": "Vacuum car",
+          "mn": "Вакуум машин"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Brabham BT46B 'Fan Car' used a massive fan at the rear to draw air from beneath the chassis, creating immense downforce. It was deemed a safety hazard and banned after one race.",
+        "mn": "Брэбхэм BT46B буюу 'Сэнстэй машин' нь арын хэсэгтээ асар том сэнс байрлуулж, доогуурх агаарыг сорж маш хүчтэй дарах хүч (downforce) үүсгэдэг байв. Үүнийг аюултай гэж үзэн ганцхан уралдааны дараа хоригложээ."
+      }
+    },
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.formula-1-history",
+      "key": "sports.formula-1-history.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The legendary rivalry between Alain Prost and Ayrton Senna peaked in 1989. Which team did both drivers race for during this highly controversial season?",
+        "mn": "Ален Прост, Айртон Сенна нарын домогт өрсөлдөөн 1989 онд дээд цэгтээ хүрсэн билээ. Тэд энэхүү маргаантай улиралд аль багт хамт уралдаж байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Ferrari",
+          "mn": "Феррари"
+        },
+        {
+          "en": "Renault",
+          "mn": "Рено"
+        },
+        {
+          "en": "Williams",
+          "mn": "Уильямс"
+        },
+        {
+          "en": "McLaren",
+          "mn": "Макларен"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Prost and Senna were teammates at McLaren-Honda in 1988 and 1989. Their toxic relationship culminated in a famous collision at the chicane during the 1989 Japanese Grand Prix.",
+        "mn": "Прост, Сенна хоёр 1988, 1989 онуудад Макларен-Хонда багт хамт уралджээ. Тэдний ширүүн өрсөлдөөн 1989 оны Японы Гран Пригийн үеэр бие биенээ мөргөж замаас гаргаснаар дууссан түүхтэй."
+      }
+    },
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.formula-1-history",
+      "key": "sports.formula-1-history.g9",
+      "difficulty": 1,
+      "prompt": {
+        "en": "During heavy braking and high-speed cornering, F1 drivers can experience lateral G-forces comparable to fighter jet pilots. Up to what level can these forces reach?",
+        "mn": "Хүчтэй тоормослох болон өндөр хурдтайгаар эргэлт хийх үед Формула 1-ийн уралдаанчид сөнөөгч онгоцны нисгэгчтэй адил хэмжээний таталцлын хүчийг (G-force) мэдэрдэг. Энэ нь дээд тал нь хэд хүрдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "5G to 6G",
+          "mn": "5-аас 6G"
+        },
+        {
+          "en": "1G to 2G",
+          "mn": "1-ээс 2G"
+        },
+        {
+          "en": "10G to 12G",
+          "mn": "10-аас 12G"
+        },
+        {
+          "en": "15G to 18G",
+          "mn": "15-аас 18G"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Drivers can experience up to 5G to 6G in high-speed corners. This means their head and helmet effectively feel five to six times heavier than normal.",
+        "mn": "Уралдаанчид өндөр хурдтай эргэлт дээр 5-аас 6G хүртэлх ачааллыг авдаг. Энэ нь тэдний толгой болон хамгаалалтын дуулга ердийнхөөс таваас зургаа дахин хүнд болж мэдрэгддэг гэсэн үг юм."
+      }
+    },
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.formula-1-history",
+      "key": "sports.formula-1-history.g10",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The 'Triple Crown of Motorsport' is an unofficial achievement for winning the three most prestigious races in the world. Which of these is NOT one of them?",
+        "mn": "Авто спортын 'Гурван титэм' (Triple Crown) нь дэлхийн хамгийн нэр хүндтэй гурван уралдаанд түрүүлсэн албан бус дээд амжилт юм. Дараах уралдаануудын аль нь үүнд багтдаггүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Indianapolis 500",
+          "mn": "Индианаполис 500"
+        },
+        {
+          "en": "Daytona 500",
+          "mn": "Дейтона 500"
+        },
+        {
+          "en": "Monaco Grand Prix",
+          "mn": "Монакогийн Гран При"
+        },
+        {
+          "en": "24 Hours of Le Mans",
+          "mn": "Ле-Маны 24 цагийн уралдаан"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Triple Crown consists of the Monaco GP, the Indy 500, and the 24 Hours of Le Mans. Graham Hill is the only driver in history to have won all three.",
+        "mn": "Гурван титэмд Монакогийн Гран При, Инди 500, Ле-Маны 24 цагийн уралдаан багтдаг. Түүхэнд Грэм Хилл л энэ гурван уралдаанд бүгдэд нь түрүүлж чадсан цорын ганц уралдаанч юм."
+      }
+    },
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.formula-1-history",
+      "key": "sports.formula-1-history.g11",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Who is the only driver from the African continent to win a Formula 1 World Drivers' Championship, achieving this feat in 1979?",
+        "mn": "1979 онд аваргалсан, Африкийн тивийн улсаас гаралтай Формула 1-ийн Дэлхийн аварга болсон цорын ганц уралдаанч хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Alan Jones",
+          "mn": "Алан Жонс"
+        },
+        {
+          "en": "Jack Brabham",
+          "mn": "Жек Брэбхэм"
+        },
+        {
+          "en": "Jody Scheckter",
+          "mn": "Жоди Шектер"
+        },
+        {
+          "en": "Mario Andretti",
+          "mn": "Марио Андретти"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "South African driver Jody Scheckter won the World Championship in 1979 driving for Ferrari. He retired from Formula 1 just one year later in 1980.",
+        "mn": "Өмнөд Африкийн уралдаанч Жоди Шектер 1979 онд Феррари багт байхдаа Дэлхийн аварга болсон юм. Тэрээр үүнээс ердөө жилийн дараа буюу 1980 онд зодог тайлжээ."
+      }
+    },
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.formula-1-history",
+      "key": "sports.formula-1-history.g12",
+      "difficulty": 3,
+      "prompt": {
+        "en": "At the very first F1 World Championship race at Silverstone in 1950, which member of the British Royal Family attended, marking a unique moment in the sport's history?",
+        "mn": "1950 онд Силверстоунд болсон анхны Ф1-ийн Дэлхийн аварга шалгаруулах уралдаанд Британийн Хааны гэр бүлийн аль гишүүн биечлэн оролцсон нь энэ спортын түүхэнд ганц тохиосон үйл явдал болсон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Prince Philip",
+          "mn": "Ханхүү Филип"
+        },
+        {
+          "en": "King George VI",
+          "mn": "Хаан VI Жорж"
+        },
+        {
+          "en": "Queen Elizabeth II",
+          "mn": "Хатан хаан II Элизабет"
+        },
+        {
+          "en": "King Edward VIII",
+          "mn": "Хаан VIII Эдуард"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "King George VI attended the 1950 British Grand Prix with Queen Elizabeth (later the Queen Mother) and Princess Margaret. It remains the only time a reigning British monarch has attended a British GP.",
+        "mn": "Хаан VI Жорж нь Хатан хаан Элизабет болон гүнж Маргарет нарын хамт 1950 оны Британийн Гран Приг үзэж сонирхсон байна. Энэ нь Британийн түүхэнд хаан ширээнд сууж буй монарх Гран При уралдаанд оролцсон цорын ганц тохиолдол юм."
+      }
+    },
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.basketball-legends",
+      "key": "sports.basketball-legends.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which NBA superstar is famously nicknamed 'The Black Mamba' and spent his entire 20-year career with the Los Angeles Lakers?",
+        "mn": "Аль алдартай NBA-гийн супер од 'Хар Мамба' хочит бөгөөд 20 жилийн замналаа бүхэлд нь Лос-Анжелес Лэйкерс багт өнгөрүүлсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Shaquille O'Neal",
+          "mn": "Шакил О'Нил"
+        },
+        {
+          "en": "LeBron James",
+          "mn": "Леброн Жэймс"
+        },
+        {
+          "en": "Michael Jordan",
+          "mn": "Майкл Жордан"
+        },
+        {
+          "en": "Kobe Bryant",
+          "mn": "Коби Брайант"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Kobe Bryant gave himself the nickname 'The Black Mamba' to separate his personal life from his on-court persona. He won five NBA championships with the Lakers.",
+        "mn": "Коби Брайант өөрийн хувийн амьдралыг талбай дээрх дүрээсээ зааглахын тулд 'Хар Мамба' хэмээх хочийг өөртөө өгчээ. Тэрээр Лэйкерс багтай хамт таван удаа NBA-гийн аварга болсон юм."
+      }
+    },
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.basketball-legends",
+      "key": "sports.basketball-legends.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Michael Jordan led the Chicago Bulls to six NBA championships. How many times was he named the Finals MVP during those championship runs?",
+        "mn": "Майкл Жордан Чикаго Буллз багийг зургаан удаа NBA-гийн аваргад хөтөлсөн. Эдгээр аваргын цувралуудад тэрээр хэдэн удаа Финалын үнэ цэнэтэй тоглогчоор (MVP) тодорсон бэ?"
+      },
+      "choices": [
+        {
+          "en": "6 times",
+          "mn": "6 удаа"
+        },
+        {
+          "en": "3 times",
+          "mn": "3 удаа"
+        },
+        {
+          "en": "5 times",
+          "mn": "5 удаа"
+        },
+        {
+          "en": "4 times",
+          "mn": "4 удаа"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Jordan won the Finals MVP award in all six of his championship appearances, setting an NBA record. His Chicago Bulls achieved two separate 'three-peats' (winning three titles in a row) in the 1990s.",
+        "mn": "Жордан аварга авсан зургаан цуврал болгондоо Финалын MVP шагналыг хүртэж, NBA-гийн дээд амжилтыг тогтоосон. Түүний Чикаго Буллз баг 1990-ээд онд хоёр удаа дараалан гурав аваргалж (three-peat) байв."
+      }
+    },
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.basketball-legends",
+      "key": "sports.basketball-legends.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "LeBron James has won NBA championships with three different franchises. Which of the following is NOT one of the teams he won a title with?",
+        "mn": "Леброн Жэймс гурван өөр багтай хамт NBA-гийн аварга цолыг хүртсэн. Дараах багуудын аль нь түүний аварга авч байгаагүй баг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Miami Heat",
+          "mn": "Майами Хит"
+        },
+        {
+          "en": "Cleveland Cavaliers",
+          "mn": "Кливленд Кавальерс"
+        },
+        {
+          "en": "Los Angeles Lakers",
+          "mn": "Лос-Анжелес Лэйкерс"
+        },
+        {
+          "en": "Golden State Warriors",
+          "mn": "Голден Стэйт Уорриорз"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "LeBron James won titles with Miami, Cleveland, and the LA Lakers. He famously faced the Golden State Warriors in four consecutive NBA Finals from 2015 to 2018, winning one.",
+        "mn": "Леброн Жэймс Майами, Кливленд, Лэйкерс багуудтай аварга авсан. Тэрээр 2015-аас 2018 оны хооронд Голден Стэйт Уорриорз багтай дөрвөн удаа дараалан Финалд тулж, нэг удаад нь ялж байв."
+      }
+    },
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.basketball-legends",
+      "key": "sports.basketball-legends.g4",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which basketball legend is depicted in the official NBA logo silhouette, though the league has never officially acknowledged it?",
+        "mn": "NBA-гийн албан ёсны логоны дүрсэнд аль сагсан бөмбөгийн домогт тоглогчийг дүрсэлсэн байдаг вэ? (хэдийгээр лигээс үүнийг албан ёсоор хүлээн зөвшөөрдөггүй ч)"
+      },
+      "choices": [
+        {
+          "en": "Magic Johnson",
+          "mn": "Мэжик Жонсон"
+        },
+        {
+          "en": "Bill Russell",
+          "mn": "Билл Расселл"
+        },
+        {
+          "en": "Wilt Chamberlain",
+          "mn": "Вилт Чемберлен"
+        },
+        {
+          "en": "Jerry West",
+          "mn": "Жерри Уэст"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The NBA logo silhouette is widely known to be modeled after Hall of Famer Jerry West. Brand designer Alan Siegel created the iconic logo in 1969 using a photo of West.",
+        "mn": "NBA-гийн логоны дүрсийг Алдрын танхимын гишүүн Жерри Уэстийн зургаас сэдэвлэн бүтээсэн нь нийтэд илэрхий байдаг. Брэндийн дизайнер Алан Сигел 1969 онд Уэстийн гэрэл зургийг ашиглан энэхүү алдартай логог бүтээжээ."
+      }
+    },
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.basketball-legends",
+      "key": "sports.basketball-legends.g5",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Who holds the NBA record for scoring the most points in a single game, with an astonishing 100 points scored on March 2, 1962?",
+        "mn": "1962 оны 3-р сарын 2-нд нэг тоглолтод гайхалтай 100 оноо авч, NBA-гийн түүхэнд нэг тоглолтод хамгийн олон оноо авсан дээд амжилтыг хэн эзэмшдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Elgin Baylor",
+          "mn": "Элжин Бэйлор"
+        },
+        {
+          "en": "Michael Jordan",
+          "mn": "Майкл Жордан"
+        },
+        {
+          "en": "Wilt Chamberlain",
+          "mn": "Вилт Чемберлен"
+        },
+        {
+          "en": "Kobe Bryant",
+          "mn": "Коби Брайант"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Wilt Chamberlain scored 100 points for the Philadelphia Warriors against the New York Knicks. Kobe Bryant's 81-point game in 2006 is the second-highest in NBA history.",
+        "mn": "Вилт Чемберлен Филадельфи Уорриорз багт тоглож байхдаа Нью-Йорк Никс багийн эсрэг 100 оноо авч байжээ. Коби Брайантын 2006 онд авсан 81 оноо нь NBA-гийн түүхэнд хоёрдугаарт ордог амжилт юм."
+      }
+    },
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.basketball-legends",
+      "key": "sports.basketball-legends.g6",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which legendary center holds the record for the most NBA championships won as a player, with 11 titles during his 13-year career?",
+        "mn": "13 жилийн замналдаа 11 удаа аваргалж, тоглогчийн хувиар хамгийн олон NBA-гийн бөгж зүүсэн дээд амжилтыг аль домогт төвийн тоглогч эзэмшдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Shaquille O'Neal",
+          "mn": "Шакил О'Нил"
+        },
+        {
+          "en": "Kareem Abdul-Jabbar",
+          "mn": "Карим Абдул-Жаббар"
+        },
+        {
+          "en": "Hakeem Olajuwon",
+          "mn": "Хаким Олажувон"
+        },
+        {
+          "en": "Bill Russell",
+          "mn": "Билл Расселл"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Bill Russell won 11 championships with the Boston Celtics in the 1950s and 1960s. He was also the first Black head coach in NBA history, serving as player-coach for his final two titles.",
+        "mn": "Билл Расселл 1950, 1960-аад онуудад Бостон Селтикс багтай 11 удаа аваргалсан. Тэрээр мөн NBA-гийн түүхэн дэх анхны өнгөт арьст ахлах дасгалжуулагч байсан бөгөөд сүүлийн хоёр аваргаа тоглогч-дасгалжуулагчийн хувиар авчээ."
+      }
+    },
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.basketball-legends",
+      "key": "sports.basketball-legends.g7",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In 1992, USA Basketball assembled the 'Dream Team' for the Barcelona Olympics. Which of these legends was NOT a member of that historic team?",
+        "mn": "1992 оны Барселоны Олимпод зориулж АНУ-ын сагсан бөмбөгийн холбоо алдарт 'Мөрөөдлийн баг'-ийг (Dream Team) бүрдүүлсэн. Эдгээр домогт тоглогчдын хэн нь тус багийн гишүүн байгаагүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Larry Bird",
+          "mn": "Ларри Бёрд"
+        },
+        {
+          "en": "Magic Johnson",
+          "mn": "Мэжик Жонсон"
+        },
+        {
+          "en": "Michael Jordan",
+          "mn": "Майкл Жордан"
+        },
+        {
+          "en": "Shaquille O'Neal",
+          "mn": "Шакил О'Нил"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Shaquille O'Neal was bypassed for the final roster spot in favor of college player Christian Laettner. The Dream Team is widely considered the greatest sports team ever assembled.",
+        "mn": "Шакил О'Нилын оронд коллежийн шилдэг тоглогч Кристиан Лэттнерийг бүрэлдэхүүнд сонгож байв. Тус 'Мөрөөдлийн баг'-ийг спортын түүхэн дэх хамгийн агуу баг гэж нийтээр хүлээн зөвшөөрдөг."
+      }
+    },
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.basketball-legends",
+      "key": "sports.basketball-legends.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Whose all-time NBA regular-season scoring record of 38,387 points did LeBron James break in February 2023?",
+        "mn": "Кареерынхаа турш 38,387 оноо авсан NBA-гийн бүх цаг үеийн онооны дээд амжилтыг Леброн Жэймс 2023 оны 2-р сард эвдсэн. Тэрээр хэний амжилтыг гүйцсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Michael Jordan",
+          "mn": "Майкл Жордан"
+        },
+        {
+          "en": "Wilt Chamberlain",
+          "mn": "Вилт Чемберлен"
+        },
+        {
+          "en": "Kareem Abdul-Jabbar",
+          "mn": "Карим Абдул-Жаббар"
+        },
+        {
+          "en": "Karl Malone",
+          "mn": "Карл Мэлоун"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Kareem Abdul-Jabbar held the scoring record for nearly 39 years before LeBron James surpassed it. Kareem is still famous for his unstoppable signature shot, the 'skyhook'.",
+        "mn": "Карим Абдул-Жаббар энэхүү онооны дээд амжилтыг бараг 39 жилийн турш эзэмшсэн бөгөөд Леброн Жэймс түүнийг гүйцсэн юм. Карим өөрийн хамгаалахад хамгийн хэцүү 'тэнгэрийн дэгээ' (skyhook) шидэлтээрээ алдартай."
+      }
+    },
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.basketball-legends",
+      "key": "sports.basketball-legends.g9",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Kobe Bryant is the only player in NBA history to have two different jersey numbers retired by the same franchise. Which numbers were they?",
+        "mn": "Коби Брайант бол нэг багт хоёр өөр өмсгөлийн дугаараа мөнхөлсөн NBA-гийн түүхэн дэх цорын ганц тоглогч юм. Эдгээр нь ямар дугаарууд байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "8 and 24",
+          "mn": "8 ба 24"
+        },
+        {
+          "en": "23 and 24",
+          "mn": "23 ба 24"
+        },
+        {
+          "en": "10 and 24",
+          "mn": "10 ба 24"
+        },
+        {
+          "en": "8 and 33",
+          "mn": "8 ба 33"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Kobe wore number 8 for the first half of his career and 24 for the second half. The Los Angeles Lakers retired both numbers in 2017 to honor his incredible legacy.",
+        "mn": "Коби замналынхаа эхний хагаст 8 дугаарыг, хоёрдугаар хагаст 24 дугаарыг өмсөж тоглосон. Лос-Анжелес Лэйкерс баг түүний гайхалтай амжилтыг хүндэтгэж, 2017 онд хоёр дугаарыг хоёуланг нь мөнхөлжээ."
+      }
+    },
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.basketball-legends",
+      "key": "sports.basketball-legends.g10",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which legendary point guard, famous for his 'no-look' passes, led the 'Showtime' Los Angeles Lakers to 5 NBA championships in the 1980s?",
+        "mn": "Харцгүй дамжуулалтаараа (no-look pass) алдартай аль домогт холбогч 1980-аад онд 'Шоутайм' Лос-Анжелес Лэйкерс багийг 5 удаа NBA-гийн аваргад хөтөлсөн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Magic Johnson",
+          "mn": "Мэжик Жонсон"
+        },
+        {
+          "en": "John Stockton",
+          "mn": "Жон Стоктон"
+        },
+        {
+          "en": "Steve Nash",
+          "mn": "Стив Нэш"
+        },
+        {
+          "en": "Isiah Thomas",
+          "mn": "Айзея Томас"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Earvin 'Magic' Johnson revolutionized the point guard position with his 6-foot-9 height and incredible court vision. His rivalry with Larry Bird of the Boston Celtics revitalized the NBA.",
+        "mn": "Ирвин 'Мэжик' Жонсон 206 см өндөр нуруу, талбайг харах ер бусын чадвараараа холбогчийн байрлалд хувьсгал хийсэн юм. Түүний Бостон Селтикс багийн Ларри Бёрдтой хийсэн өрсөлдөөн NBA-гийн нэр хүндийг асар их өсгөжээ."
+      }
+    },
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.basketball-legends",
+      "key": "sports.basketball-legends.g11",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which NBA legend and Hall of Famer is the league's all-time leader in both assists and steals, records that many experts believe will never be broken?",
+        "mn": "Ассист (оновчтой дамжуулалт) болон бөмбөг таслалтын тоогоор NBA-гийн бүх цаг үеийн дээд амжилтыг эзэмшдэг, олон шинжээчдийн үзэж байгаагаар хэзээ ч эвдэгдэхгүй амжилтын эзэн хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "John Stockton",
+          "mn": "Жон Стоктон"
+        },
+        {
+          "en": "Steve Nash",
+          "mn": "Стив Нэш"
+        },
+        {
+          "en": "Jason Kidd",
+          "mn": "Жэйсон Кидд"
+        },
+        {
+          "en": "Chris Paul",
+          "mn": "Крис Пол"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Utah Jazz legend John Stockton recorded 15,806 career assists and 3,265 steals. He famously spent his entire 19-year career playing alongside power forward Karl Malone.",
+        "mn": "Юта Жазз багийн домог Жон Стоктон замналдаа 15,806 ассист, 3,265 бөмбөг таслалт хийсэн байна. Тэрээр өөрийн 19 жилийн замналыг хүчний довтлогч Карл Мэлоуны хамт өнгөрүүлсэн юм."
+      }
+    },
+    {
+      "topicSlug": "sports",
+      "lessonKey": "sports.basketball-legends",
+      "key": "sports.basketball-legends.g12",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Who is the only player in NBA history to win the MVP award by a unanimous vote, achieving this feat in the 2015-16 season?",
+        "mn": "NBA-гийн түүхэнд санал нэгтэйгээр (100% саналаар) улирлын үнэ цэнэтэй тоглогчийн (MVP) шагнал хүртсэн цорын ганц тоглогч хэн бэ? (Тэрээр энэ амжилтыг 2015-16 оны улиралд тогтоосон)"
+      },
+      "choices": [
+        {
+          "en": "Michael Jordan",
+          "mn": "Майкл Жордан"
+        },
+        {
+          "en": "Stephen Curry",
+          "mn": "Стефен Карри"
+        },
+        {
+          "en": "Shaquille O'Neal",
+          "mn": "Шакил О'Нил"
+        },
+        {
+          "en": "LeBron James",
+          "mn": "Леброн Жэймс"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Stephen Curry won the MVP unanimously in 2016 after leading the Golden State Warriors to a historic 73-9 regular-season record. He is widely considered the greatest shooter in basketball history.",
+        "mn": "Стефен Карри 2016 онд Голден Стэйт Уорриорз багийг түүхэн 73 ялалт, 9 ялагдалтай дуусгахад хөтөлж, санал нэгтэйгээр MVP болж байв. Түүнийг сагсан бөмбөгийн түүхэн дэх хамгийн агуу шидэгч гэж үздэг."
+      }
+    }
+  ]
+}

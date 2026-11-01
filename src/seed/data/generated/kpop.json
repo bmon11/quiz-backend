@@ -1,0 +1,2412 @@
+{
+  "lessons": [
+    {
+      "topicSlug": "kpop",
+      "key": "kpop.kpop-generations-timeline",
+      "order": 1,
+      "title": {
+        "en": "K-pop Generations: A Timeline",
+        "mn": "К-попын үеүд: Түүхэн товчоон"
+      },
+      "summary": {
+        "en": "How Korean pop music evolved from a 1992 TV debut into a dominant global industry.",
+        "mn": "БНСУ-ын поп хөгжим 1992 оны анхны ТВ дебютээс хэрхэн дэлхийн хэмжээний супер үйлдвэрлэл болж хөгжсөн бэ?"
+      },
+      "body": {
+        "en": "K-pop history is divided into generations, each marked by distinct musical styles and marketing strategies. It began when Seo Taiji and Boys blended hip-hop with Korean lyrics in 1992. Today, the industry is in its fifth generation, utilizing global streaming, virtual members, and massive international fanbases.",
+        "mn": "К-попын түүхийг хөгжмийн урсгал болон маркетингийн стратегиар нь үеүдэд хуваадаг. Энэ бүхэн 1992 онд «Seo Taiji and Boys» хамтлаг хип хопыг солонгос үгтэй хослуулснаар эхэлжээ. Өнөөдөр тус салбар дэлхийн стриминг, виртуал гишүүд болон олон улсын асар том фэнүүдийг хамарсан тав дахь үедээ шилжээд байна."
+      },
+      "visual": {
+        "kind": "timeline",
+        "items": [
+          {
+            "when": {
+              "en": "1992",
+              "mn": "1992 он"
+            },
+            "title": {
+              "en": "The Spark: Seo Taiji and Boys",
+              "mn": "Эхлэл цэг: Seo Taiji and Boys"
+            },
+            "body": {
+              "en": "Their legendary TV performance of 'Nan Arayo' breaks traditional ballad dominance and births modern K-pop.",
+              "mn": "Тэдний телевизийн нэвтрүүлгээр дуулсан «Nan Arayo» дуу нь уламжлалт уянгын дууны давамгайллыг эвдэж, орчин үеийн К-попыг үүсгэсэн юм."
+            }
+          },
+          {
+            "when": {
+              "en": "1996 - 2004",
+              "mn": "1996 - 2004 он"
+            },
+            "title": {
+              "en": "1st Gen: The Blueprint",
+              "mn": "1-р үе: Загвар загварчлал"
+            },
+            "body": {
+              "en": "Groups like H.O.T. and S.E.S. pioneer the idol system, creating the first massive fandoms in Korea.",
+              "mn": "H.O.T., S.E.S. зэрэг хамтлагууд айдолын системийг анхлан нэвтрүүлж, Солонгост анхны асар том фэн клубуудыг үүсгэв."
+            }
+          },
+          {
+            "when": {
+              "en": "2005 - 2011",
+              "mn": "2005 - 2011 он"
+            },
+            "title": {
+              "en": "2nd Gen: Golden Era Goes Asian",
+              "mn": "2-р үе: Алтан үе ба Азийн зах зээл"
+            },
+            "body": {
+              "en": "TVXQ, Girls' Generation, and BIGBANG expand heavily into Japan and China, making K-pop a regional phenomenon.",
+              "mn": "TVXQ, Girls' Generation, BIGBANG хамтлагууд Япон, Хятадын зах зээлийг байлдан дагуулж, К-попыг Ази даяар алдаршуулав."
+            }
+          },
+          {
+            "when": {
+              "en": "2012 - 2017",
+              "mn": "2012 - 2017 он"
+            },
+            "title": {
+              "en": "3rd Gen: Global Breakthrough",
+              "mn": "3-р үе: Дэлхийн тавцанд"
+            },
+            "body": {
+              "en": "BTS, BLACKPINK, and EXO leverage social media to reach global charts, breaking Western market barriers.",
+              "mn": "BTS, BLACKPINK, EXO хамтлагууд сошиал медиаг ашиглан дэлхийн чартуудыг тэргүүлж, Өрнөдийн зах зээлийн хаалгыг нээв."
+            }
+          },
+          {
+            "when": {
+              "en": "2018 - 2022",
+              "mn": "2018 - 2022 он"
+            },
+            "title": {
+              "en": "4th Gen: Borderless Concept",
+              "mn": "4-р үе: Хил хязгааргүй концепт"
+            },
+            "body": {
+              "en": "Stray Kids, aespa, and NewJeans debut with complex fictional universes, virtual avatars, and instant global streaming reach.",
+              "mn": "Stray Kids, aespa, NewJeans зэрэг хамтлагууд виртуал ертөнц, өөрсдийн аватар болон шууд дэлхийн хэмжээний стримингтэйгээр гарч ирэв."
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "The term 'Hallyu' or 'Korean Wave' was actually coined by Chinese journalists in the late 1990s to describe the sudden popularity of Korean pop culture.",
+          "mn": "«Халлю» буюу «Солонгос давалгаа» гэх нэршлийг 1990-ээд оны сүүлчээр Хятадын сэтгүүлчид Солонгосын соёлын огцом өсөлтийг тайлбарлахын тулд анх зохиожээ."
+        },
+        {
+          "en": "First-generation groups like H.O.T. and S.E.S. established the standard 'idol training system' that remains the foundation of the industry today.",
+          "mn": "Анхны үеийн H.O.T., S.E.S. зэрэг хамтлагууд өнөөгийн К-попын суурь болсон «айдол бэлтгэх систем»-ийг анх стандарт болгон тогтоосон юм."
+        }
+      ]
+    },
+    {
+      "topicSlug": "kpop",
+      "key": "kpop.bts-global-icons",
+      "order": 2,
+      "title": {
+        "en": "BTS: The Global Icons",
+        "mn": "BTS: Дэлхийн хэмжээний одод"
+      },
+      "summary": {
+        "en": "The story of how a small-agency group grew into the world's biggest musical act.",
+        "mn": "Жижиг агентлагаас гараагаа эхэлсэн хамтлаг хэрхэн дэлхийн хамгийн том хөгжмийн төлөөлөл болсон түүх."
+      },
+      "body": {
+        "en": "Debuting in 2013 under a small label called Big Hit Entertainment, BTS (Bangtan Sonyeondan) overcame massive odds. Through socially conscious lyrics and direct connection with fans (known as ARMY), they became the first Korean group to top the US Billboard 200 and speak at the United Nations.",
+        "mn": "2013 онд «Big Hit Entertainment» хэмээх жижиг агентлагаас гараагаа эхэлсэн BTS (Бангтан Сонёндан) хамтлаг асар их саад бэрхшээлийг даван туулсан юм. Нийгмийн сэдэвтэй дууны үг болон фэнүүдтэйгээ (ARMY) шууд харилцах холбооныхоо ачаар тэд АНУ-ын Billboard 200 чартыг тэргүүлж, НҮБ-ын индэр дээрээс үг хэлсэн анхны солонгос хамтлаг болжээ."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "🎤",
+            "title": {
+              "en": "RM (Kim Nam-joon)",
+              "mn": "RM (Ким Нам Жүүн)"
+            },
+            "facts": [
+              {
+                "en": "The leader and main rapper of the group, who taught himself English by watching the sitcom 'Friends'.",
+                "mn": "Хамтлагийн ахлагч, гол рэппэр бөгөөд «Friends» цувралыг үзэж англи хэлийг бие даан сурчээ."
+              },
+              {
+                "en": "He delivered BTS's historic 'Love Myself' speech at the United Nations in 2018.",
+                "mn": "Тэрээр 2018 онд НҮБ-ын индэр дээр BTS-ийн түүхэн «Өөрийгөө хайрла» илтгэлийг тавьсан юм."
+              }
+            ],
+            "subtitle": {
+              "en": "Leader & Lyricist",
+              "mn": "Ахлагч бөгөөд дууны үг зохиогч"
+            }
+          },
+          {
+            "icon": "🕺",
+            "title": {
+              "en": "The Performance Trio",
+              "mn": "Бүжгийн гурвал"
+            },
+            "facts": [
+              {
+                "en": "J-Hope, Jimin, and Jungkook form the main dance backbone, known for incredibly synchronized, difficult choreography.",
+                "mn": "Жэй-Хөүп, Жимин, Жонгүг нар хамтлагийн бүжгийн гол тулгуур бөгөөд гайхалтай жигд, хүнд хөдөлгөөнтэй бүжгээрээ алдартай."
+              },
+              {
+                "en": "J-Hope was the first member to headline a major US music festival (Lollapalooza in 2022).",
+                "mn": "Жэй-Хөүп АНУ-ын томоохон хөгжмийн наадмыг (2022 оны Lollapalooza) гоцолж дуулсан хамтлагийн анхны гишүүн болсон."
+              }
+            ],
+            "subtitle": {
+              "en": "Main Dancers",
+              "mn": "Гол бүжигчид"
+            }
+          },
+          {
+            "icon": "💜",
+            "title": {
+              "en": "ARMY Fandom",
+              "mn": "ARMY Фэн клуб"
+            },
+            "facts": [
+              {
+                "en": "The name stands for 'Adorable Representative M.C. for Youth'.",
+                "mn": "Энэхүү нэр нь «Adorable Representative M.C. for Youth» гэх үгсийн товчлол юм."
+              },
+              {
+                "en": "Known for massive charity campaigns, matching BTS's $1 million Black Lives Matter donation in 24 hours.",
+                "mn": "Сайн үйлсийн аянд идэвхтэй оролцдог бөгөөд BTS-ийн «Black Lives Matter»-т өгсөн 1 сая долларын хандивыг 24 цагийн дотор давтан цуглуулж байв."
+              }
+            ],
+            "subtitle": {
+              "en": "The Global Fan Force",
+              "mn": "Дэлхийг хамарсан фэнүүдийн хүч"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "BTS was the first group since The Beatles to earn three number-one albums on the Billboard 200 chart in less than a year.",
+          "mn": "BTS хамтлаг нь алдарт «The Beatles»-ээс хойш нэг хүрэхгүй жилийн хугацаанд Billboard 200 чартад гурван цомог нь дараалан нэгдүгээрт бичигдсэн анхны хамтлаг болсон юм."
+        },
+        {
+          "en": "In 2021, South Korea's president appointed BTS as Special Presidential Envoys for Future Generations and Culture, granting them diplomatic passports.",
+          "mn": "2021 онд БНСУ-ын Ерөнхийлөгч BTS хамтлагийг «Ирээдүй хойч үе, соёлын асуудал эрхэлсэн Ерөнхийлөгчийн тусгай элч»-ээр томилж, дипломат паспорт олгожээ."
+        }
+      ]
+    },
+    {
+      "topicSlug": "kpop",
+      "key": "kpop.blackpink-girl-groups",
+      "order": 3,
+      "title": {
+        "en": "BLACKPINK and the Girl Groups",
+        "mn": "BLACKPINK ба Охидын хамтлагууд"
+      },
+      "summary": {
+        "en": "How female acts redefined global fashion and pop charts.",
+        "mn": "Охидын хамтлагууд дэлхийн загварын чиг хандлага болон поп чартуудыг хэрхэн шинээр тодорхойлсон бэ?"
+      },
+      "body": {
+        "en": "K-pop girl groups have historically brought visual innovation and infectious hooks to the global stage. Led by BLACKPINK's record-breaking Coachella performances and high-fashion ambassadorships, groups like Twice, Red Velvet, and NewJeans have cemented female representation at the top of the charts worldwide.",
+        "mn": "К-попын охидын хамтлагууд дэлхийн тавцанд харааны гайхалтай шийдэл, мартагдашгүй хэмнэлийг авчирсаар ирсэн. BLACKPINK-ийн Коачелла наадам дахь түүхэн тоглолт, дэлхийн тансаг зэрэглэлийн брэндүүдийг төлөөлөх болсон амжилт нь Twice, Red Velvet, NewJeans зэрэг охидын хамтлагуудыг дэлхийн чартын оройд гарахад гүүр болсон юм."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "💗",
+            "title": {
+              "en": "BLACKPINK",
+              "mn": "BLACKPINK"
+            },
+            "facts": [
+              {
+                "en": "A four-member powerhouse consisting of Jisoo, Jennie, Rosé, and Lisa.",
+                "mn": "Жисү, Жэнни, Розе, Лиза гэсэн дөрвөн гишүүнтэй дэлхийн хэмжээний хүчирхэг хамтлаг."
+              },
+              {
+                "en": "The first Korean group to top the UK Albums Chart and the US Billboard 200 simultaneously.",
+                "mn": "Их Британийн цомгийн чарт болон АНУ-ын Billboard 200 чартыг нэгэн зэрэг тэргүүлсэн анхны солонгос хамтлаг."
+              }
+            ],
+            "subtitle": {
+              "en": "The Record Breakers",
+              "mn": "Амжилтын эзэд"
+            }
+          },
+          {
+            "icon": "🍭",
+            "title": {
+              "en": "Twice",
+              "mn": "Twice"
+            },
+            "facts": [
+              {
+                "en": "A nine-member group famed for their incredibly catchy hits and massive physical album sales in Asia.",
+                "mn": "Сэтгэлд хоногшим хэмнэлтэй дуунууд болон Ази дахь цомгийн борлуулалтаараа тэргүүлдэг есөн гишүүнтэй хамтлаг."
+              },
+              {
+                "en": "They were the first K-pop girl group to complete a dome tour in Japan.",
+                "mn": "Тэд Японд «Дом» аялан тоглолтоо бүрэн хийж дуусгасан анхны К-поп охидын хамтлаг болсон юм."
+              }
+            ],
+            "subtitle": {
+              "en": "Asia's One-in-a-Million",
+              "mn": "Азийн саяас ганц"
+            }
+          },
+          {
+            "icon": "👖",
+            "title": {
+              "en": "NewJeans",
+              "mn": "NewJeans"
+            },
+            "facts": [
+              {
+                "en": "Pioneers of the late-90s and early-2000s nostalgic aesthetic and easy-listening R&B sounds.",
+                "mn": "1990-ээд оны сүүлч, 2000-аад оны эхэн үеийн чимэг гоо зүй болон сонсоход хялбар R&B урсгалыг дэлгэрүүлэгчид."
+              },
+              {
+                "en": "They achieved multiple million-selling albums within just their first year of debut.",
+                "mn": "Тэд дебютээ хийсэн эхний жилдээ л сая гаруй хувь борлогдсон хэд хэдэн цомогтой болж амжжээ."
+              }
+            ],
+            "subtitle": {
+              "en": "The 5th Gen Trendsetters",
+              "mn": "5-р үеийн чиг хандлагыг тодорхойлогчид"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "BLACKPINK became the first Korean group to headline the prestigious Coachella Valley Music and Arts Festival in 2023.",
+          "mn": "BLACKPINK хамтлаг нь 2023 онд АНУ-ын нэр хүндтэй «Coachella» хөгжмийн наадмыг гоцолж дуулсан анхны солонгос хамтлаг болсон юм."
+        },
+        {
+          "en": "All four members of BLACKPINK serve as global ambassadors for major French luxury fashion houses (Chanel, Dior, Saint Laurent, and Celine).",
+          "mn": "BLACKPINK хамтлагийн дөрвөн гишүүн бүгд Францын тансаг зэрэглэлийн загварын ордонуудын (Chanel, Dior, Saint Laurent, Celine) дэлхийн хэмжээний элч төлөөлөгчөөр ажилладаг."
+        }
+      ]
+    },
+    {
+      "topicSlug": "kpop",
+      "key": "kpop.agencies-hybe-sm-yg-jyp",
+      "order": 4,
+      "title": {
+        "en": "Agencies: HYBE, SM, YG, JYP",
+        "mn": "Агентлагууд: HYBE, SM, YG, JYP"
+      },
+      "summary": {
+        "en": "The corporate powerhouses behind the training, concepts, and success of K-pop idols.",
+        "mn": "К-поп айдолуудыг бэлтгэх, тэдний концепт болон амжилтын ард байдаг хүчирхэг компаниуд."
+      },
+      "body": {
+        "en": "Historically, the K-pop industry was dominated by the 'Big Three' agencies: SM, YG, and JYP. However, the meteoric rise of BTS propelled Big Hit Entertainment to acquire other labels and form HYBE, disrupting the traditional power structure to become the largest entertainment company in South Korea.",
+        "mn": "Түүхээс үзвэл К-попын салбарыг SM, YG, JYP гэх «Их гурван» агентлаг тодорхойлж ирсэн. Харин BTS-ийн гайхалтай амжилт нь «Big Hit Entertainment»-ийг бусад лейблүүдийг худалдан авч, HYBE-ийг байгуулах боломжийг олгосноор уламжлалт бүтцийг өөрчилж, БНСУ-ын хамгийн том энтертайнмент компани болгожээ."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "🏢",
+            "title": {
+              "en": "HYBE",
+              "mn": "HYBE"
+            },
+            "facts": [
+              {
+                "en": "Home to BTS, SEVENTEEN, Tomorrow X Together, and NewJeans (under ADOR).",
+                "mn": "BTS, SEVENTEEN, Tomorrow X Together болон ADOR лейблийн NewJeans хамтлагуудын толгой компани."
+              },
+              {
+                "en": "Operates on a multi-label system, separating creative production from corporate management.",
+                "mn": "Бүтээлч үйлдвэрлэлийг бизнесийн удирдлагаас тусгаарласан олон төрлийн хараат бус лейблийн системээр ажилладаг."
+              }
+            ],
+            "subtitle": {
+              "en": "The Modern Giant",
+              "mn": "Орчин үеийн аварга"
+            }
+          },
+          {
+            "icon": "💫",
+            "title": {
+              "en": "SM Entertainment",
+              "mn": "SM Entertainment"
+            },
+            "facts": [
+              {
+                "en": "Created legendary groups like TVXQ, Girls' Generation, EXO, and aespa.",
+                "mn": "TVXQ, Girls' Generation, EXO, aespa зэрэг домогт хамтлагуудыг төрүүлсэн."
+              },
+              {
+                "en": "Known for highly experimental music, complex vocal harmonies, and pioneering futuristic concepts.",
+                "mn": "Туршилтын хөгжмийн урсгал, хоолойн нарийн зохицол болон футурист концептыг анхлан нэвтрүүлснээрээ алдартай."
+              }
+            ],
+            "subtitle": {
+              "en": "The Pioneer of K-pop",
+              "mn": "К-попыг анхдагч"
+            }
+          },
+          {
+            "icon": "👑",
+            "title": {
+              "en": "YG Entertainment",
+              "mn": "YG Entertainment"
+            },
+            "facts": [
+              {
+                "en": "Famous for hip-hop heavy, rebellious image with BIGBANG, 2NE1, and BLACKPINK.",
+                "mn": "BIGBANG, 2NE1, BLACKPINK хамтлагуудын хип хоп хэмнэлтэй, тэрслүү дүр төрхөөрөө алдартай."
+              },
+              {
+                "en": "Focuses heavily on strong stage presence, charisma, and individual artist identity.",
+                "mn": "Тайзны хүчирхэг тоглолт, харизм болон уран бүтээлчийн хувийн онцлогт гол анхаарлаа хандуулдаг."
+              }
+            ],
+            "subtitle": {
+              "en": "The Hip-Hop House",
+              "mn": "Хип хопын өргөө"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "SM Entertainment's founder, Lee Soo-man, is widely credited with inventing the modern 'cultural technology' blueprint used to train all K-pop idols.",
+          "mn": "SM-ийг үүсгэн байгуулагч Ли Сү Ман нь орчин үеийн бүх К-поп айдолыг бэлтгэхэд ашигладаг «соёлын технологи»-ийг анх боловсруулсан хүн гэж тооцогддог."
+        },
+        {
+          "en": "JYP's founder, J.Y. Park, is a highly successful active singer-songwriter who still performs and produces music for his own artists.",
+          "mn": "JYP-ийг үүсгэн байгуулагч Ж.Ү. Пак (J.Y. Park) нь өнөөг хүртэл өөрөө тайзан дээр дуулж, өөрийн уран бүтээлчдэд зориулж дуу бичдэг амжилттай продюсер юм."
+        }
+      ]
+    },
+    {
+      "topicSlug": "kpop",
+      "key": "kpop.kpop-records-youtube",
+      "order": 5,
+      "title": {
+        "en": "K-pop Records & Most-Viewed Videos",
+        "mn": "К-попын дээд амжилтууд ба шилдэг хандалтууд"
+      },
+      "summary": {
+        "en": "The mind-blowing numbers and YouTube milestones achieved by Korean artists.",
+        "mn": "Солонгосын уран бүтээлчдийн тогтоосон санаанд оромгүй рекордууд ба YouTube-ийн түүхэн хандалтууд."
+      },
+      "body": {
+        "en": "K-pop fans are famous for their coordinated streaming power, turning music video releases into global events. From Psy's internet-breaking viral dance to BTS and BLACKPINK's multi-billion view clubs, Korean music regularly dominates global digital platforms.",
+        "mn": "К-поп фэнүүд нь хамтран зохион байгуулалттайгаар дууны хандалтыг өсгөдөгөөрөө алдартай бөгөөд шинэ клип гарах бүрийг дэлхийн хэмжээний үйл явдал болгон хувиргадаг. Псай (Psy)-ийн дэлхийг шуугиулсан бүжгээс эхлээд BTS, BLACKPINK хамтлагуудын тэрбум давсан үзүүлэлтүүд нь солонгос хөгжмийг дэлхийн дижитал платформд тэргүүлэгч болгожээ."
+      },
+      "visual": {
+        "kind": "bar",
+        "unit": {
+          "en": "Billion Views",
+          "mn": "Тэрбум үзэлт"
+        },
+        "horizontal": true,
+        "items": [
+          {
+            "label": {
+              "en": "Gangnam Style (Psy)",
+              "mn": "Gangnam Style (Psy)"
+            },
+            "value": 5.1
+          },
+          {
+            "label": {
+              "en": "Ddu-Du Ddu-Du (BLACKPINK)",
+              "mn": "Ddu-Du Ddu-Du (BLACKPINK)"
+            },
+            "value": 2.2
+          },
+          {
+            "label": {
+              "en": "Kill This Love (BLACKPINK)",
+              "mn": "Kill This Love (BLACKPINK)"
+            },
+            "value": 1.9
+          },
+          {
+            "label": {
+              "en": "Boy With Luv (BTS)",
+              "mn": "Boy With Luv (BTS)"
+            },
+            "value": 1.8
+          },
+          {
+            "label": {
+              "en": "Dynamite (BTS)",
+              "mn": "Dynamite (BTS)"
+            },
+            "value": 1.8
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "Psy's 'Gangnam Style' was the first video in YouTube history to reach 1 billion views, forcing YouTube to upgrade its counter system.",
+          "mn": "Псай-ийн «Gangnam Style» дуу нь YouTube-ийн түүхэнд 1 тэрбум хандалт авсан анхны видео болж, тус платформыг тоолуурын системээ шинэчлэхэд хүргэж байв."
+        },
+        {
+          "en": "BTS's 'Dynamite' holds the record for the biggest YouTube music video premiere in history, with over 3 million concurrent viewers.",
+          "mn": "BTS хамтлагийн «Dynamite» дуу нь цацагдах үедээ 3 сая гаруй хүн нэгэн зэрэг үзэж, YouTube-ийн түүхэн дэх хамгийн том нээлтийн рекордыг эзэмшдэг."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.blackpink-girl-groups",
+      "key": "kpop.blackpink-girl-groups.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which member of BLACKPINK released the record-breaking global hit single 'Lalisa' in 2021?",
+        "mn": "BLACKPINK хамтлагийн аль гишүүн 2021 онд дэлхий дахиныг байлдан дагуулсан 'Lalisa' бие даасан синглээ гаргасан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Lisa",
+          "mn": "Лиза"
+        },
+        {
+          "en": "Jennie",
+          "mn": "Жэнни"
+        },
+        {
+          "en": "Jisoo",
+          "mn": "Жисү"
+        },
+        {
+          "en": "Rosé",
+          "mn": "Розе"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Lisa's solo debut 'Lalisa' broke the record for the most-viewed YouTube music video by a solo artist in 24 hours. She is also the first K-pop solo artist to win an MTV Video Music Award.",
+        "mn": "Лизагийн бие даасан дебют болох 'Lalisa' дуу нь 24 цагийн дотор хамгийн их хандалт авсан гоцлол дуучны YouTube клипээр шалгарч байв. Мөн тэрээр MTV Video Music Awards-аас шагнал хүртсэн анхны К-поп гоцлол дуучин юм."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.blackpink-girl-groups",
+      "key": "kpop.blackpink-girl-groups.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In 2023, BLACKPINK made history as the first Korean group to headline which major US music festival?",
+        "mn": "2023 онд BLACKPINK хамтлаг АНУ-ын ямар алдартай хөгжмийн наадмыг голлон тоглогчоор (headline) оролцож түүх бүтээсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Coachella",
+          "mn": "Coachella"
+        },
+        {
+          "en": "Tomorrowland",
+          "mn": "Tomorrowland"
+        },
+        {
+          "en": "Glastonbury",
+          "mn": "Glastonbury"
+        },
+        {
+          "en": "Lollapalooza",
+          "mn": "Lollapalooza"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "BLACKPINK headlined Coachella in 2023 after first performing there in 2019. Their performance drew massive crowds both in person and online.",
+        "mn": "BLACKPINK хамтлаг 2019 онд анх Coachella наадамд оролцож байсан бэг, 2023 онд голлон тоглогчоор уригдан оролцжээ. Тэдний тоглолтыг талбай дээр болон онлайнаар асар олон хүн үзэж сонирхсон байна."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.blackpink-girl-groups",
+      "key": "kpop.blackpink-girl-groups.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which luxury fashion house signed BLACKPINK's Jennie as their global brand ambassador, earning her the nickname 'Human Chanel'?",
+        "mn": "BLACKPINK хамтлагийн Жэнниг дэлхийн брэнд элч төлөөлөгчөөрөө сонгож, түүнд 'Хүн-Шанель' гэх хочийг зүүлгэсэн тансаг зэрэглэлийн загварын ордон аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Celine",
+          "mn": "Celine"
+        },
+        {
+          "en": "Saint Laurent",
+          "mn": "Saint Laurent"
+        },
+        {
+          "en": "Chanel",
+          "mn": "Chanel"
+        },
+        {
+          "en": "Dior",
+          "mn": "Dior"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Jennie has been closely associated with Chanel since 2017. All four BLACKPINK members represent different high-end French luxury brands.",
+        "mn": "Жэнни 2017 оноос хойш Chanel брэндтэй нягт хамтран ажиллаж байна. BLACKPINK хамтлагийн дөрвөн гишүүн бүгд Францын өөр өөр тансаг зэрэглэлийн брэндүүдийг төлөөлдөг."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.blackpink-girl-groups",
+      "key": "kpop.blackpink-girl-groups.g4",
+      "difficulty": 1,
+      "prompt": {
+        "en": "How many active members make up the globally successful girl group Twice?",
+        "mn": "Дэлхий дахинд амжилттай яваа Twice охидын хамтлаг нийт хэдэн идэвхтэй гишүүнтэй вэ?"
+      },
+      "choices": [
+        {
+          "en": "5",
+          "mn": "5"
+        },
+        {
+          "en": "7",
+          "mn": "7"
+        },
+        {
+          "en": "9",
+          "mn": "9"
+        },
+        {
+          "en": "12",
+          "mn": "12"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Twice is a nine-member international group formed by JYP Entertainment. They consist of Korean, Japanese, and Taiwanese members.",
+        "mn": "Twice нь JYP Entertainment-аас гаргасан есөн гишүүнтэй олон улсын хамтлаг юм. Хамтлагийн бүрэлдэхүүнд солонгос, япон, тайвань гишүүд багтдаг."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.blackpink-girl-groups",
+      "key": "kpop.blackpink-girl-groups.g5",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which 5th-generation K-pop girl group debuted in 2022 and quickly popularized a nostalgic late-90s R&B aesthetic with hits like 'Attention' and 'Hype Boy'?",
+        "mn": "2022 онд дебютээ хийж, 'Attention', 'Hype Boy' зэрэг дуунуудаараа 1990-ээд оны сүүл үеийн R&B урсгал болон чимэг хэв маягийг тренд болгосон 5-р үеийн охидын хамтлаг аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "NewJeans",
+          "mn": "NewJeans"
+        },
+        {
+          "en": "aespa",
+          "mn": "aespa"
+        },
+        {
+          "en": "IVE",
+          "mn": "IVE"
+        },
+        {
+          "en": "LE SSERAFIM",
+          "mn": "LE SSERAFIM"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "NewJeans, managed by ADOR, achieved massive success within their first year, selling millions of copies of their albums. They are known for their distinct easy-listening retro sound.",
+        "mn": "ADOR агентлагийн удирдлага дор байдаг NewJeans хамтлаг дебютээ хийсэн эхний жилдээ л сая гаруй хувь цомог борлуулж, асар их амжилтад хүрсэн. Тэд өөрсдийн өвөрмөц retro хөгжмийн хэмнэлээрээ алдартай."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.blackpink-girl-groups",
+      "key": "kpop.blackpink-girl-groups.g6",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which K-pop girl group was the first to ever top the US Billboard 200 album chart with their release 'The Album' or 'Born Pink'?",
+        "mn": "АНУ-ын Billboard 200 цомгийн чартыг тэргүүлж чадсан анхны К-поп охидын хамтлаг аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Girls' Generation",
+          "mn": "Girls' Generation"
+        },
+        {
+          "en": "2NE1",
+          "mn": "2NE1"
+        },
+        {
+          "en": "BLACKPINK",
+          "mn": "BLACKPINK"
+        },
+        {
+          "en": "Twice",
+          "mn": "Twice"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "BLACKPINK reached number one on the Billboard 200 with their second studio album, 'Born Pink', in 2022. This made them the first female Korean group to achieve this milestone.",
+        "mn": "BLACKPINK хамтлаг 2022 онд гаргасан 'Born Pink' хэмээх хоёр дахь студийн цомгоороо Billboard 200 чартыг тэргүүлсэн юм. Энэ нь солонгос охидын хамтлаг тус чартыг тэргүүлсэн анхны тохиолдол болжээ."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.blackpink-girl-groups",
+      "key": "kpop.blackpink-girl-groups.g7",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Under which major South Korean entertainment agency did BLACKPINK debut in 2016?",
+        "mn": "BLACKPINK хамтлаг 2016 онд Өмнөд Солонгосын аль томоохон агентлагийн дор дебютээ хийж байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "HYBE",
+          "mn": "HYBE"
+        },
+        {
+          "en": "JYP Entertainment",
+          "mn": "JYP Entertainment"
+        },
+        {
+          "en": "YG Entertainment",
+          "mn": "YG Entertainment"
+        },
+        {
+          "en": "SM Entertainment",
+          "mn": "SM Entertainment"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "BLACKPINK was formed by YG Entertainment, following in the footsteps of their successful senior labelmates 2NE1.",
+        "mn": "BLACKPINK хамтлагийг YG Entertainment үүсгэн байгуулсан бөгөөд тэд өөрсдийн ахмад хамтлаг болох алдарт 2NE1-ийн залгамж халаа болон гарч ирсэн юм."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.blackpink-girl-groups",
+      "key": "kpop.blackpink-girl-groups.g8",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which K-pop girl group became the first to complete a full dome tour in Japan, performing at major venues like the Tokyo Dome?",
+        "mn": "Японы Токио Доум (Tokyo Dome) зэрэг хамгийн том цэнгэлдэх хүрээлэнгүүдийг хамарсан «Дом» аялан тоглолтыг бүрэн хийж дуусгасан анхны К-поп охидын хамтлаг аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Red Velvet",
+          "mn": "Red Velvet"
+        },
+        {
+          "en": "Twice",
+          "mn": "Twice"
+        },
+        {
+          "en": "KARA",
+          "mn": "KARA"
+        },
+        {
+          "en": "BLACKPINK",
+          "mn": "BLACKPINK"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Twice completed their historic Japanese dome tour in 2019, cementing their massive physical sales and popularity in the country. They sold out multiple shows within minutes.",
+        "mn": "Twice хамтлаг 2019 онд Японы алдарт дом цэнгэлдэхүүдээр хийх аялан тоглолтоо амжилттай дуусгаж, тус улс дахь нэр хүндээ баталсан юм. Тэдний тоглолтын тасалбар хэдхэн минутын дотор зарагдаж дуусч байжээ."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.blackpink-girl-groups",
+      "key": "kpop.blackpink-girl-groups.g9",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of these French luxury fashion houses is represented globally by BLACKPINK's Rosé?",
+        "mn": "BLACKPINK хамтлагийн Розе Францын аль тансаг зэрэглэлийн загварын ордны дэлхийн хэмжээний элч төлөөлөгчөөр ажилладаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Saint Laurent",
+          "mn": "Saint Laurent"
+        },
+        {
+          "en": "Chanel",
+          "mn": "Chanel"
+        },
+        {
+          "en": "Louis Vuitton",
+          "mn": "Louis Vuitton"
+        },
+        {
+          "en": "Dior",
+          "mn": "Dior"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Rosé was named the global ambassador for Yves Saint Laurent (Saint Laurent) in 2020. She is also a global ambassador for Tiffany & Co.",
+        "mn": "Розе 2020 онд Yves Saint Laurent (Saint Laurent) брэндийн дэлхийн элч төлөөлөгчөөр томилогдсон. Мөн тэрээр үнэт эдлэлийн Tiffany & Co. брэндийг төлөөлдөг."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.blackpink-girl-groups",
+      "key": "kpop.blackpink-girl-groups.g10",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which BLACKPINK member starred in the lead role of the historical South Korean television drama 'Snowdrop'?",
+        "mn": "Өмнөд Солонгосын түүхэн сэдэвт 'Snowdrop' (Цасанхөндий) олон ангит драмын гол дүрд BLACKPINK хамтлагийн аль гишүүн тоглосон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Rosé",
+          "mn": "Розе"
+        },
+        {
+          "en": "Jisoo",
+          "mn": "Жисү"
+        },
+        {
+          "en": "Jennie",
+          "mn": "Жэнни"
+        },
+        {
+          "en": "Lisa",
+          "mn": "Лиза"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Jisoo made her official acting debut as the lead actress in the JTBC drama 'Snowdrop' in 2021, showcasing her talents beyond music.",
+        "mn": "Жисү 2021 онд JTBC телевизийн 'Snowdrop' драманд гол дүр бүтээж, жүжигчний гараагаа албан ёсоор эхлүүлсэн бөгөөд өөрийгөө зөвхөн дуучин биш гэдгийг харуулсан юм."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.blackpink-girl-groups",
+      "key": "kpop.blackpink-girl-groups.g11",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the official fandom name of BLACKPINK?",
+        "mn": "BLACKPINK хамтлагийн албан ёсны фэн клубийн (fandom) нэр юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "BLINK",
+          "mn": "BLINK"
+        },
+        {
+          "en": "Once",
+          "mn": "Once"
+        },
+        {
+          "en": "Reveluv",
+          "mn": "Reveluv"
+        },
+        {
+          "en": "Army",
+          "mn": "Army"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The fandom name 'BLINK' is a portmanteau of the words 'BL/ACK' and 'p/INK', representing that fans start with the group and end with them.",
+        "mn": "Фэнүүдийн 'BLINK' гэдэг нэр нь 'BLACK' болон 'PINK' гэсэн үгсийн товчлол бөгөөд фэнүүд нь хамтлагтай үргэлж хамт байхыг бэлгэддэг байна."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.blackpink-girl-groups",
+      "key": "kpop.blackpink-girl-groups.g12",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which record-breaking 2020 single by BLACKPINK featured American pop star Selena Gomez?",
+        "mn": "BLACKPINK хамтлагийн 2020 онд гаргасан, Америкийн поп од Селена Гоместой хамтран дуулсан дуу аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Ice Cream",
+          "mn": "Ice Cream"
+        },
+        {
+          "en": "Sour Candy",
+          "mn": "Sour Candy"
+        },
+        {
+          "en": "How You Like That",
+          "mn": "How You Like That"
+        },
+        {
+          "en": "Pink Venom",
+          "mn": "Pink Venom"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "'Ice Cream' was a major global hit that peaked at number 13 on the US Billboard Hot 100, marking BLACKPINK's highest-charting single on the chart at the time.",
+        "mn": "'Ice Cream' дуу нь АНУ-ын Billboard Hot 100 чартын 13-т бичигдэж, тухайн үедээ BLACKPINK хамтлагийн хамгийн өндөр амжилт үзүүлсэн сингл болж байжээ."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.bts-global-icons",
+      "key": "kpop.bts-global-icons.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Who is the leader and main rapper of BTS who taught himself English by watching the sitcom 'Friends'?",
+        "mn": "«Friends» цувралыг үзэж англи хэлийг бие даан сурсан, BTS хамтлагийн ахлагч бөгөөд гол рэппэр хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "RM",
+          "mn": "RM"
+        },
+        {
+          "en": "Suga",
+          "mn": "Шуга"
+        },
+        {
+          "en": "J-Hope",
+          "mn": "Жэй-Хөүп"
+        },
+        {
+          "en": "Jin",
+          "mn": "Жин"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "RM (Kim Nam-joon) is the leader of BTS. He learned English as a child by watching the popular American sitcom with his mother.",
+        "mn": "RM (Ким Нам Жүүн) бол BTS хамтлагийн ахлагч юм. Тэрээр багадаа ээжтэйгээ хамт Америкийн алдартай ситком цувралыг үзэж англи хэл сурчээ."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.bts-global-icons",
+      "key": "kpop.bts-global-icons.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In which year did BTS deliver their historic 'Love Myself' speech at the United Nations General Assembly for the first time?",
+        "mn": "BTS хамтлаг НҮБ-ын Ерөнхий ассамблейн индэр дээр анх удаа түүхэн «Өөрийгөө хайрла» (Love Myself) илтгэлээ хэдэн онд тавьсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "2015",
+          "mn": "2015 онд"
+        },
+        {
+          "en": "2018",
+          "mn": "2018 онд"
+        },
+        {
+          "en": "2022",
+          "mn": "2022 онд"
+        },
+        {
+          "en": "2020",
+          "mn": "2020 онд"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "BTS delivered their first UN speech in 2018 in partnership with UNICEF. They returned to speak at the UN again in 2020 and 2021.",
+        "mn": "BTS хамтлаг 2018 онд ЮНИСЕФ-тэй хамтран НҮБ-д анхны илтгэлээ тавьсан. Үүний дараа тэд 2020 болон 2021 онуудад НҮБ-ын индэр дээр дахин гарсан билээ."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.bts-global-icons",
+      "key": "kpop.bts-global-icons.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which major US music festival did J-Hope headline in 2022, making him the first South Korean artist to do so?",
+        "mn": "Жэй-Хөүп 2022 онд АНУ-ын аль томоохон хөгжмийн наадмыг гоцолж дуулснаар тус наадмын түүхэн дэх анхны Өмнөд Солонгос уран бүтээлч болсон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Woodstock",
+          "mn": "Woodstock"
+        },
+        {
+          "en": "Glastonbury",
+          "mn": "Glastonbury"
+        },
+        {
+          "en": "Lollapalooza",
+          "mn": "Lollapalooza"
+        },
+        {
+          "en": "Coachella",
+          "mn": "Coachella"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "J-Hope headlined Lollapalooza in Chicago in 2022. His performance drew over 100,000 in-person attendees and millions of online viewers.",
+        "mn": "Жэй-Хөүп 2022 онд Чикаго хотод болсон Lollapalooza наадмыг гоцолж дуулсан. Түүний тоглолтыг биечлэн 100 гаруй мянган хүн үзэж, сая сая хүн онлайнаар шууд хүлээн авчээ."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.bts-global-icons",
+      "key": "kpop.bts-global-icons.g4",
+      "difficulty": 3,
+      "prompt": {
+        "en": "BTS was the first group since which legendary British band to earn three number-one albums on the Billboard 200 in less than a year?",
+        "mn": "BTS хамтлаг нэг жил хүрэхгүй хугацаанд Billboard 200 чартад гурван цомгоо тэргүүлүүлсэн нь аль домогт Британи хамтлагаас хойших анхны тохиолдол болсон бэ?"
+      },
+      "choices": [
+        {
+          "en": "The Beatles",
+          "mn": "The Beatles"
+        },
+        {
+          "en": "Queen",
+          "mn": "Queen"
+        },
+        {
+          "en": "Pink Floyd",
+          "mn": "Pink Floyd"
+        },
+        {
+          "en": "Led Zeppelin",
+          "mn": "Led Zeppelin"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "BTS achieved three number-one albums on the Billboard 200 within 11 months, a feat last accomplished by The Beatles in 1995-1996.",
+        "mn": "BTS хамтлаг 11 сарын дотор Billboard 200 чартыг гурван цомгоор тэргүүлсэн бөгөөд энэхүү амжилтыг хамгийн сүүлд 1995-1996 онд The Beatles хамтлаг үзүүлж байжээ."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.bts-global-icons",
+      "key": "kpop.bts-global-icons.g5",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What does the BTS fan club name 'ARMY' officially stand for?",
+        "mn": "BTS хамтлагийн фэн клубийн нэр болох «ARMY» нь албан ёсоор ямар утгатай үгсийн товчлол вэ?"
+      },
+      "choices": [
+        {
+          "en": "Adorable Representative M.C. for Youth",
+          "mn": "Adorable Representative M.C. for Youth"
+        },
+        {
+          "en": "Active Rally of Musical Youth",
+          "mn": "Active Rally of Musical Youth"
+        },
+        {
+          "en": "Amazing Revolution of Music and Youth",
+          "mn": "Amazing Revolution of Music and Youth"
+        },
+        {
+          "en": "Association of Representative Music Youth",
+          "mn": "Association of Representative Music Youth"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "ARMY stands for 'Adorable Representative M.C. for Youth'. Established shortly after the group's debut, it has grown into one of the world's most organized fandoms.",
+        "mn": "ARMY гэдэг нь «Adorable Representative M.C. for Youth» гэсэн үг бөгөөд хамтлаг дэбют хийсний дараахан байгуулагдсан дэлхийн хамгийн зохион байгуулалттай фэн клубуудын нэг юм."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.bts-global-icons",
+      "key": "kpop.bts-global-icons.g6",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Under which small entertainment agency did BTS debut in 2013 before it rebranded to HYBE?",
+        "mn": "BTS хамтлаг 2013 онд анх аль жижиг агентлагийн дор дэбютээ хийж байсан бэ? (Энэхүү агентлаг нь хожим HYBE болон нэрээ өөрчилсөн)"
+      },
+      "choices": [
+        {
+          "en": "SM Entertainment",
+          "mn": "SM Entertainment"
+        },
+        {
+          "en": "YG Entertainment",
+          "mn": "YG Entertainment"
+        },
+        {
+          "en": "Big Hit Entertainment",
+          "mn": "Big Hit Entertainment"
+        },
+        {
+          "en": "JYP Entertainment",
+          "mn": "JYP Entertainment"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "BTS debuted under Big Hit Entertainment, which was a small and struggling company at the time. The company rebranded to HYBE in 2021.",
+        "mn": "BTS хамтлаг тухайн үедээ санхүүгийн хүндрэлтэй байсан жижиг агентлаг болох Big Hit Entertainment-ийн дор дэбютээ хийж байв. Тус компани 2021 онд нэрээ HYBE болгон өөрчилжээ."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.bts-global-icons",
+      "key": "kpop.bts-global-icons.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In 2021, South Korea's president appointed BTS to which diplomatic role, granting them red diplomatic passports?",
+        "mn": "Өмнөд Солонгосын Ерөнхийлөгч 2021 онд BTS хамтлагт улаан өнгийн дипломат паспорт гардуулан, ямар дипломат албан тушаалд томилсон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Goodwill Peace Ambassadors",
+          "mn": "Энх тайвны элч"
+        },
+        {
+          "en": "Special Presidential Envoys",
+          "mn": "Ерөнхийлөгчийн тусгай элч"
+        },
+        {
+          "en": "Honorary Tourism Envoys",
+          "mn": "Аялал жуулчлалын хүндэт элч"
+        },
+        {
+          "en": "Global Cultural Ambassadors",
+          "mn": "Дэлхийн соёлын элч"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "President Moon Jae-in appointed BTS as Special Presidential Envoys for Future Generations and Culture. This allowed them to travel to the UN General Assembly with diplomatic status.",
+        "mn": "Ерөнхийлөгч Мүн Жэ Ин тэднийг «Ирээдүй хойч үе ба соёлын асуудал эрхэлсэн Ерөнхийлөгчийн тусгай элч»-ээр томилсон бөгөөд ингэснээр тэд НҮБ-ын Ерөнхий ассамблейд дипломат статустай оролцсон юм."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.bts-global-icons",
+      "key": "kpop.bts-global-icons.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which member of BTS released the highly acclaimed solo album 'Indigo' in late 2022?",
+        "mn": "BTS хамтлагийн аль гишүүн 2022 оны сүүлээр өндөр үнэлгээ авсан «Indigo» хэмээх бие даасан цомгоо гаргасан бэ?"
+      },
+      "choices": [
+        {
+          "en": "RM",
+          "mn": "RM"
+        },
+        {
+          "en": "Suga",
+          "mn": "Шуга"
+        },
+        {
+          "en": "Jimin",
+          "mn": "Жимин"
+        },
+        {
+          "en": "J-Hope",
+          "mn": "Жэй-Хөүп"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "RM released his official debut solo album 'Indigo' in December 2022. The album features collaborations with major artists like Erykah Badu and Anderson .Paak.",
+        "mn": "RM өөрийн албан ёсны анхны бие даасан «Indigo» цомгоо 2022 оны 12-р сард гаргасан. Энэхүү цомогт Эрика Баду, Андерсон Пак зэрэг алдартай уран бүтээлчид хамтран ажилласан байна."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.bts-global-icons",
+      "key": "kpop.bts-global-icons.g9",
+      "difficulty": 3,
+      "prompt": {
+        "en": "What is the title of BTS's first-ever fully English-language single, which debuted at number one on the US Billboard Hot 100 in 2020?",
+        "mn": "BTS хамтлагийн 2020 онд АНУ-ын Billboard Hot 100 чартыг тэргүүлсэн, тэдний хамгийн анхны бүрэн англи хэлээр дуулсан сингл дууны нэр юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Life Goes On",
+          "mn": "Life Goes On"
+        },
+        {
+          "en": "Dynamite",
+          "mn": "Dynamite"
+        },
+        {
+          "en": "Butter",
+          "mn": "Butter"
+        },
+        {
+          "en": "Permission to Dance",
+          "mn": "Permission to Dance"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Dynamite was BTS's first English-language single and their first song to reach number one on the Billboard Hot 100. It also earned them their first Grammy nomination.",
+        "mn": "Dynamite бол BTS-ийн анхны англи хэл дээрх сингл бөгөөд тэдний Billboard Hot 100 чартыг тэргүүлсэн анхны дуу юм. Мөн энэ дуугаараа тэд Грэмми шагналд анх удаа нэр дэвшжээ."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.bts-global-icons",
+      "key": "kpop.bts-global-icons.g10",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of the following BTS members is NOT part of the 'Performance Trio' known as the main dance backbone of the group?",
+        "mn": "Дараах BTS хамтлагийн гишүүдээс хэн нь бүжгийн гол тулгуур гэгддэг «Бүжгийн гурвал»-д багтдаггүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Jungkook",
+          "mn": "Жонгүг"
+        },
+        {
+          "en": "Suga",
+          "mn": "Шуга"
+        },
+        {
+          "en": "J-Hope",
+          "mn": "Жэй-Хөүп"
+        },
+        {
+          "en": "Jimin",
+          "mn": "Жимин"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Suga is part of the rap line. The Performance Trio consists of J-Hope, Jimin, and Jungkook, who are highly celebrated for their complex choreography.",
+        "mn": "Шуга бол хамтлагийн рэп рэппэрүүдийн нэг юм. Харин бүжгийн хүнд хөдөлгөөнүүдийг гайхалтай гүйцэтгэдэг «Бүжгийн гурвал»-д Жэй-Хөүп, Жимин, Жонгүг нар багтдаг."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.bts-global-icons",
+      "key": "kpop.bts-global-icons.g11",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the official color associated with BTS and their fandom ARMY, famously used in the phrase 'I purple you'?",
+        "mn": "BTS хамтлаг болон тэдний ARMY фэн клубийг бэлгэддэг, «I purple you» гэх хэллэгээр алдаршсан албан ёсны өнгө аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Purple",
+          "mn": "Нил ягаан"
+        },
+        {
+          "en": "Blue",
+          "mn": "Цэнхэр"
+        },
+        {
+          "en": "Pink",
+          "mn": "Ягаан"
+        },
+        {
+          "en": "Gold",
+          "mn": "Алтан шар"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Purple is the signature color of BTS and ARMY, coined by member V to mean 'I will trust and love you for a long time'.",
+        "mn": "Нил ягаан өнгө нь BTS болон ARMY-ийн бэлгэдэл өнгө бөгөөд хамтлагийн гишүүн V «Би чамд итгэж, чамайг удаан хугацаанд хайрлах болно» гэсэн утгаар энэ өнгийг ашиглаж эхэлжээ."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.kpop-generations-timeline",
+      "key": "kpop.kpop-generations-timeline.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "How many members make up the globally acclaimed K-pop group BTS?",
+        "mn": "Дэлхийд алдартай К-поп хамтлаг болох BTS нь хэдэн гишүүнтэй вэ?"
+      },
+      "choices": [
+        {
+          "en": "7",
+          "mn": "7"
+        },
+        {
+          "en": "9",
+          "mn": "9"
+        },
+        {
+          "en": "12",
+          "mn": "12"
+        },
+        {
+          "en": "5",
+          "mn": "5"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "BTS consists of seven members: RM, Jin, Suga, J-Hope, Jimin, V, and Jungkook. They debuted in 2013 under Big Hit Entertainment.",
+        "mn": "BTS хамтлаг нь РМ, Жин, Шүга, Жэй-Хөүп, Жимин, Ви, Жонгүг гэсэн долоон гишүүнтэй. Тэд 2013 онд Big Hit Entertainment-ийн дор дэбютээ хийжээ."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.kpop-generations-timeline",
+      "key": "kpop.kpop-generations-timeline.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The birth of modern K-pop is widely traced back to a single television performance of the song 'Nan Arayo' by Seo Taiji and Boys. In which year did this performance take place?",
+        "mn": "Орчин үеийн К-поп урлагийн үүсэл хөгжлийг 'Seo Taiji and Boys' хамтлагийн 'Nan Arayo' дуугаа анх телевизээр дуулсан тэрхүү түүхэн мөчөөс эхтэй гэж үздэг. Энэхүү үзүүлбэр хэдэн онд болсон бэ?"
+      },
+      "choices": [
+        {
+          "en": "1988",
+          "mn": "1988 он"
+        },
+        {
+          "en": "2000",
+          "mn": "2000 он"
+        },
+        {
+          "en": "1996",
+          "mn": "1996 он"
+        },
+        {
+          "en": "1992",
+          "mn": "1992 он"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Seo Taiji and Boys performed 'Nan Arayo' on April 11, 1992. This performance revolutionized the Korean music industry by blending American hip-hop breaks with Korean lyrics.",
+        "mn": "'Seo Taiji and Boys' хамтлаг 1992 оны 4-р сарын 11-нд 'Nan Arayo' дуугаа дуулжээ. Энэхүү үзүүлбэр нь Америкийн хип хоп хэмнэл, рэп урсгалыг солонгос үгтэй хослуулснаараа Солонгосын хөгжмийн салбарт хувьсгал хийсэн юм."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.kpop-generations-timeline",
+      "key": "kpop.kpop-generations-timeline.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The first generation of K-pop laid the blueprint for the modern idol system. Which of the following groups does NOT belong to the first generation?",
+        "mn": "К-попын нэгдүгээр үе нь орчин үеийн айдол системийн суурийг тавьсан билээ. Дараах хамтлагуудын аль нь нэгдүгээр үед хамаарахгүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "H.O.T.",
+          "mn": "H.O.T."
+        },
+        {
+          "en": "S.E.S.",
+          "mn": "S.E.S."
+        },
+        {
+          "en": "Sechs Kies",
+          "mn": "Sechs Kies"
+        },
+        {
+          "en": "SHINee",
+          "mn": "SHINee"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "SHINee debuted in 2008, making them a prominent part of the second generation. First-generation groups like H.O.T. and S.E.S. debuted in the late 1990s.",
+        "mn": "SHINee хамтлаг 2008 онд дэбютээ хийсэн тул хоёрдугаар үед хамаардаг. Харин H.O.T., S.E.S. зэрэг хамтлагууд 1990-ээд оны сүүлээр гарч ирсэн нэгдүгээр үеийн төлөөлөл юм."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.kpop-generations-timeline",
+      "key": "kpop.kpop-generations-timeline.g4",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The term 'Hallyu' (Korean Wave) is used globally to describe the rise of South Korean culture. Which country's journalists actually coined this term in the late 1990s?",
+        "mn": "Өмнөд Солонгосын соёлын давалгааг тодорхойлдог 'Халлю' (Hallyu) буюу 'Солонгос давалгаа' хэмээх нэршлийг 1990-ээд оны сүүлээр анх аль улсын сэтгүүлчид зохиосон бэ?"
+      },
+      "choices": [
+        {
+          "en": "China",
+          "mn": "Хятад"
+        },
+        {
+          "en": "Japan",
+          "mn": "Япон"
+        },
+        {
+          "en": "United States",
+          "mn": "Америк"
+        },
+        {
+          "en": "South Korea",
+          "mn": "Өмнөд Солонгос"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Chinese journalists in Beijing coined the term 'Hallyu' in the late 1990s to describe the sudden, massive popularity of South Korean dramas and music in China.",
+        "mn": "1990-ээд оны сүүлээр Бээжингийн сэтгүүлчид Хятадад Солонгосын олон ангит кино, хөгжим маш хурдан алдаршиж байгааг тайлбарлахын тулд 'Халлю' хэмээх нэршлийг анх ашиглажээ."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.kpop-generations-timeline",
+      "key": "kpop.kpop-generations-timeline.g5",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Formed by YG Entertainment, the record-breaking girl group BLACKPINK consists of how many members?",
+        "mn": "YG Entertainment-аас гаргасан, дэлхийн дээд амжилтуудыг эвдсэн 'BLACKPINK' охидын хамтлаг хэдэн гишүүнтэй вэ?"
+      },
+      "choices": [
+        {
+          "en": "4",
+          "mn": "4"
+        },
+        {
+          "en": "5",
+          "mn": "5"
+        },
+        {
+          "en": "9",
+          "mn": "9"
+        },
+        {
+          "en": "7",
+          "mn": "7"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "BLACKPINK consists of four members: Jisoo, Jennie, Rosé, and Lisa. They debuted in 2016 with the single album 'Square One'.",
+        "mn": "BLACKPINK хамтлаг нь Жисүү, Жэнни, Розе, Лиза гэсэн дөрвөн гишүүнтэй. Тэд 2016 онд 'Square One' цомгоороо дэбютээ хийсэн юм."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.kpop-generations-timeline",
+      "key": "kpop.kpop-generations-timeline.g6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "For many years, the K-pop industry was dominated by the 'Big Three' entertainment agencies. Which of the following was NOT one of these original three giants?",
+        "mn": "Олон жилийн турш К-поп салбарт 'Их Гурван' энтертайнмент давамгайлж байв. Дараах агентлагуудын аль нь анхны 'Их Гурав'-т багтдаггүй байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "HYBE",
+          "mn": "HYBE"
+        },
+        {
+          "en": "JYP Entertainment",
+          "mn": "JYP Entertainment"
+        },
+        {
+          "en": "SM Entertainment",
+          "mn": "SM Entertainment"
+        },
+        {
+          "en": "YG Entertainment",
+          "mn": "YG Entertainment"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "HYBE (formerly Big Hit Entertainment) grew into a giant later due to BTS's success. The original 'Big Three' were SM, YG, and JYP.",
+        "mn": "HYBE (хуучнаар Big Hit Entertainment) нь BTS-ийн амжилтын ачаар хожим аварга том компани болж өргөжсөн. Анхны 'Их Гурав'-т SM, YG, JYP багтдаг байв."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.kpop-generations-timeline",
+      "key": "kpop.kpop-generations-timeline.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which iconic music video was the first K-pop release to surpass 1 billion views on YouTube, changing the global perception of Korean music in 2012?",
+        "mn": "2012 онд Солонгос хөгжмийн талаарх дэлхий нийтийн ойлголтыг өөрчилж, YouTube суваг дээр 1 тэрбум хандалт авсан анхны К-поп клип аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "'Gangnam Style' by Psy",
+          "mn": "Psy - 'Gangnam Style'"
+        },
+        {
+          "en": "'Ddu-Du Ddu-Du' by BLACKPINK",
+          "mn": "BLACKPINK - 'Ddu-Du Ddu-Du'"
+        },
+        {
+          "en": "'Fantastic Baby' by BIGBANG",
+          "mn": "BIGBANG - 'Fantastic Baby'"
+        },
+        {
+          "en": "'Boy With Luv' by BTS",
+          "mn": "BTS - 'Boy With Luv'"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Psy's 'Gangnam Style' became a global sensation in 2012 and was the first YouTube video ever to reach 1 billion views. It held the title of the most-viewed YouTube video for several years.",
+        "mn": "Psy-ийн 'Gangnam Style' дуу 2012 онд дэлхий даяар шуугиан тарьж, YouTube-ийн түүхэнд 1 тэрбум хандалт авсан хамгийн анхны видео болсон юм."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.kpop-generations-timeline",
+      "key": "kpop.kpop-generations-timeline.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Often referred to as the 'Nation's Girl Group' in South Korea, Girls' Generation achieved legendary status with which infectious 2009 hit song?",
+        "mn": "Өмнөд Солонгост 'Үндэсний охидын хамтлаг' гэгддэг 'Girls' Generation' хамтлагийг 2009 онд домогт хэмжээнд хүргэсэн алдартай дуу нь аль вэ?"
+      },
+      "choices": [
+        {
+          "en": "'Gee'",
+          "mn": "'Gee'"
+        },
+        {
+          "en": "'Step'",
+          "mn": "'Step'"
+        },
+        {
+          "en": "'Nobody'",
+          "mn": "'Nobody'"
+        },
+        {
+          "en": "'I Am the Best'",
+          "mn": "'I Am the Best'"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Girls' Generation's 'Gee' held the record for the longest-running number-one song on KBS Music Bank for nine consecutive weeks, cementing their place in K-pop history.",
+        "mn": "Girls' Generation хамтлагийн 'Gee' дуу нь KBS Music Bank чартыг дараалан 9 долоо хоногийн турш тэргүүлж, К-попын түүхэнд тэдний байр суурийг баттай бэхжүүлсэн юм."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.kpop-generations-timeline",
+      "key": "kpop.kpop-generations-timeline.g9",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Known for their complex metaverse storyline, which fourth-generation girl group debuted with virtual avatar counterparts called 'ae' for each member?",
+        "mn": "Метаверс ертөнцийн сонирхолтой түүхээрээ алдартай, гишүүн бүр нь 'ae' хэмээх виртуал аватар дүртэйгээр дэбютээ хийсэн дөрөвдүгээр үеийн охидын хамтлаг аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "ITZY",
+          "mn": "ITZY"
+        },
+        {
+          "en": "aespa",
+          "mn": "aespa"
+        },
+        {
+          "en": "NewJeans",
+          "mn": "NewJeans"
+        },
+        {
+          "en": "LE SSERAFIM",
+          "mn": "LE SSERAFIM"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "SM Entertainment's aespa debuted in 2020 with a unique concept where the four real-world members interact with their virtual avatars in a digital universe.",
+        "mn": "SM Entertainment-ийн 'aespa' хамтлаг 2020 онд дэбютээ хийсэн бөгөөд бодит амьдрал дээрх дөрвөн гишүүн нь дижитал ертөнц дэх өөрсдийн виртуал аватаруудтай харилцдаг өвөрмөц концепттой."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.kpop-generations-timeline",
+      "key": "kpop.kpop-generations-timeline.g10",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which girl group made history in 2019 by becoming the first K-pop group to perform at the Coachella Valley Music and Arts Festival?",
+        "mn": "2019 онд Коачелла (Coachella) хөгжмийн наадамд тоглосон анхны К-поп хамтлаг болж түүхэнд бичигдсэн охидын хамтлаг аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Red Velvet",
+          "mn": "Red Velvet"
+        },
+        {
+          "en": "2NE1",
+          "mn": "2NE1"
+        },
+        {
+          "en": "BLACKPINK",
+          "mn": "BLACKPINK"
+        },
+        {
+          "en": "Twice",
+          "mn": "Twice"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "BLACKPINK performed at Coachella in 2019 and later returned in 2023 as the festival's first-ever Korean headlining act.",
+        "mn": "BLACKPINK хамтлаг 2019 онд Коачелла наадамд анх тоглосон бөгөөд хожим 2023 онд тус наадмын түүхэн дэх анхны Солонгос гол уран бүтээлчээр (headliner) уригдан оролцжээ."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.kpop-generations-timeline",
+      "key": "kpop.kpop-generations-timeline.g11",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In 2020, BTS achieved their first-ever number-one single on the US Billboard Hot 100 chart. Which English-language track earned them this historic milestone?",
+        "mn": "2020 онд BTS хамтлаг АНУ-ын 'Billboard Hot 100' чартад анх удаа тэргүүн байранд орсон юм. Тэдэнд энэхүү түүхэн амжилтыг авчирсан англи хэл дээрх дуу нь аль вэ?"
+      },
+      "choices": [
+        {
+          "en": "'Dynamite'",
+          "mn": "'Dynamite'"
+        },
+        {
+          "en": "'Life Goes On'",
+          "mn": "'Life Goes On'"
+        },
+        {
+          "en": "'Butter'",
+          "mn": "'Butter'"
+        },
+        {
+          "en": "'Boy With Luv'",
+          "mn": "'Boy With Luv'"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "'Dynamite' was BTS's first fully English-language single. It debuted at number one on the Billboard Hot 100 and was nominated for a Grammy Award.",
+        "mn": "'Dynamite' нь BTS хамтлагийн бүрэн англи хэлээр дуулсан анхны сингл юм. Энэ дуу Billboard Hot 100 чартыг тэргүүлж, Грэмми шагналд нэр дэвшиж байв."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.kpop-generations-timeline",
+      "key": "kpop.kpop-generations-timeline.g12",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Known for hits like 'Fantastic Baby' and 'Bang Bang Bang', the legendary boy group BIGBANG was formed by which entertainment agency?",
+        "mn": "'Fantastic Baby', 'Bang Bang Bang' зэрэг хит дуунуудаараа алдартай домогт 'BIGBANG' хамтлагийг аль энтертайнмент үүсгэн байгуулсан вэ?"
+      },
+      "choices": [
+        {
+          "en": "Big Hit Music",
+          "mn": "Big Hit Music"
+        },
+        {
+          "en": "SM Entertainment",
+          "mn": "SM Entertainment"
+        },
+        {
+          "en": "YG Entertainment",
+          "mn": "YG Entertainment"
+        },
+        {
+          "en": "JYP Entertainment",
+          "mn": "JYP Entertainment"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "BIGBANG debuted under YG Entertainment in 2006. They played a pivotal role in spreading the Korean Wave globally and are often called the 'Kings of K-pop'.",
+        "mn": "BIGBANG хамтлаг 2006 онд YG Entertainment-ийн дор дэбютээ хийсэн. Тэд Солонгосын давалгааг дэлхий даяар түгээхэд голлох үүрэг гүйцэтгэсэн тул 'К-попын хаад' гэгддэг."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.kpop-records-youtube",
+      "key": "kpop.kpop-records-youtube.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which K-pop music video was the first in YouTube history to surpass 1 billion views, famously breaking the platform's view counter in 2012?",
+        "mn": "2012 онд гарч, Юүтүбийн түүхэнд анх удаа 1 тэрбум үзэлт давж, тус платформын тоолуурын системийг эвдэж байсан К-поп клип аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Boy With Luv (BTS)",
+          "mn": "Boy With Luv (BTS)"
+        },
+        {
+          "en": "Fantastic Baby (BIGBANG)",
+          "mn": "Fantastic Baby (BIGBANG)"
+        },
+        {
+          "en": "Gee (Girls' Generation)",
+          "mn": "Gee (Girls' Generation)"
+        },
+        {
+          "en": "Gangnam Style (Psy)",
+          "mn": "Gangnam Style (Psy)"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Psy's 'Gangnam Style' became a global phenomenon in 2012. It forced YouTube to upgrade its 32-bit integer counter to a 64-bit integer to handle the massive traffic.",
+        "mn": "Псайгийн 'Gangnam Style' дуу 2012 онд дэлхий нийтийг байлдан дагуулсан билээ. Тус клипний асар их хандалтыг багтаахын тулд Юүтүб компани тоолуурын системээ 32 битээс 64 бит рүү шилжүүлэн шинэчилж байв."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.kpop-records-youtube",
+      "key": "kpop.kpop-records-youtube.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which BLACKPINK music video was the first by a K-pop group to surpass 2 billion views on YouTube?",
+        "mn": "Юүтүб дээр 2 тэрбум үзэлт давсан анхны К-поп хамтлагийн клип аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Boombayah",
+          "mn": "Boombayah"
+        },
+        {
+          "en": "How You Like That",
+          "mn": "How You Like That"
+        },
+        {
+          "en": "Ddu-Du Ddu-Du",
+          "mn": "Ddu-Du Ddu-Du"
+        },
+        {
+          "en": "Kill This Love",
+          "mn": "Kill This Love"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "BLACKPINK's 'Ddu-Du Ddu-Du', released in 2018, made history by becoming the first music video by a K-pop group to hit the 2 billion views milestone.",
+        "mn": "BLACKPINK хамтлагийн 2018 онд гаргасан 'Ddu-Du Ddu-Du' дууны клип К-поп хамтлагуудаас хамгийн анх удаа Юүтүб хуудаснаа 2 тэрбумын босгыг давж түүх бүтээжээ."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.kpop-records-youtube",
+      "key": "kpop.kpop-records-youtube.g3",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which BTS song became their first English-language single and debuted at number one on the US Billboard Hot 100 in 2020?",
+        "mn": "BTS хамтлагийн анхны бүрэн англи хэл дээрх сингл бөгөөд 2020 онд АНУ-ын Billboard Hot 100 чартыг тэргүүлсэн дуу аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Permission to Dance",
+          "mn": "Permission to Dance"
+        },
+        {
+          "en": "Butter",
+          "mn": "Butter"
+        },
+        {
+          "en": "Life Goes On",
+          "mn": "Life Goes On"
+        },
+        {
+          "en": "Dynamite",
+          "mn": "Dynamite"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Dynamite was a massive global hit that earned BTS their first Grammy nomination. Its music video also set a record for the biggest YouTube premiere with over 3 million concurrent viewers.",
+        "mn": "'Dynamite' дуу нь BTS-т Грэммийн анхны номинацыг авчирсан дэлхийн хэмжээний хит болсон юм. Мөн уг клип цацагдах агшинд Юүтүбээр зэрэг үзсэн хүний тоо 3 сая давж дээд амжилт тогтоож байв."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.kpop-records-youtube",
+      "key": "kpop.kpop-records-youtube.g4",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In K-pop history, which generation is generally defined by the rise of pioneer groups like H.O.T., Sechs Kies, S.E.S., and Fin.K.L in the late 1990s?",
+        "mn": "К-попын түүхэнд 1990-ээд оны сүүлчээр гарч ирсэн H.O.T., Sechs Kies, S.E.S., Fin.K.L зэрэг анхдагч хамтлагуудыг хэддүгээр үеийнх гэж үздэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "3rd Generation",
+          "mn": "3-р үе"
+        },
+        {
+          "en": "2nd Generation",
+          "mn": "2-р үе"
+        },
+        {
+          "en": "4th Generation",
+          "mn": "4-р үе"
+        },
+        {
+          "en": "1st Generation",
+          "mn": "1-р үе"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The 1st Generation of K-pop laid the foundation of the modern idol system. It began in the 1990s following the groundbreaking success of Seo Taiji and Boys.",
+        "mn": "К-попын 1-р үе нь орчин үеийн айдол системийн суурийг тавьсан юм. Энэхүү үе нь 'Seo Taiji and Boys' хамтлагийн гаргасан шинэ давалгааны дараа буюу 1990-ээд онд эхэлжээ."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.kpop-records-youtube",
+      "key": "kpop.kpop-records-youtube.g5",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which major entertainment agency, known as one of the traditional 'Big 3', was founded by Lee Soo-man and produced legendary groups like TVXQ, Girls' Generation, and EXO?",
+        "mn": "Уламжлалт 'Их 3' агентлагийн нэг бөгөөд Ли Сү Ман үүсгэн байгуулж, TVXQ, Girls' Generation, EXO зэрэг домогт хамтлагуудыг төрүүлсэн компани аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "JYP Entertainment",
+          "mn": "JYP Entertainment"
+        },
+        {
+          "en": "SM Entertainment",
+          "mn": "SM Entertainment"
+        },
+        {
+          "en": "HYBE",
+          "mn": "HYBE"
+        },
+        {
+          "en": "YG Entertainment",
+          "mn": "YG Entertainment"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "SM Entertainment, founded in 1995, is widely credited with pioneering the global Korean Wave (Hallyu).",
+        "mn": "1995 онд байгуулагдсан SM Entertainment нь Солонгосын соёлын давалгаа буюу Халлюг дэлхий дахинд түгээхэд гол анхдагч үүргийг гүйцэтгэсэн гэж тооцогддог."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.kpop-records-youtube",
+      "key": "kpop.kpop-records-youtube.g6",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Before rebranding and expanding into the multi-label giant HYBE, what was the original name of the entertainment agency founded by Bang Si-hyuk?",
+        "mn": "Олон салбар компанитай аварга том HYBE болон нэрээ өөрчлөхөөс өмнө Банг Шихёкийн үүсгэн байгуулсан энтертайнментийн анхны нэр юу байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Belift Lab",
+          "mn": "Belift Lab"
+        },
+        {
+          "en": "Source Music",
+          "mn": "Source Music"
+        },
+        {
+          "en": "Pledis Entertainment",
+          "mn": "Pledis Entertainment"
+        },
+        {
+          "en": "Big Hit Entertainment",
+          "mn": "Big Hit Entertainment"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Bang Si-hyuk founded Big Hit Entertainment in 2005. Following the massive global success of BTS, the company rebranded to HYBE in 2021.",
+        "mn": "Банг Шихёк 2005 онд Big Hit Entertainment-ийг үүсгэн байгуулжээ. BTS хамтлагийн дэлхий дахинд олсон асар их амжилтын дараа тус компани 2021 онд нэрээ HYBE болгон өөрчилсөн байна."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.kpop-records-youtube",
+      "key": "kpop.kpop-records-youtube.g7",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of the following K-pop girl groups does NOT belong to the '3rd Generation' of K-pop?",
+        "mn": "Дараах К-поп охидын хамтлагуудаас аль нь К-попын '3-р үе'-д хамаардаггүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "TWICE",
+          "mn": "TWICE"
+        },
+        {
+          "en": "BLACKPINK",
+          "mn": "BLACKPINK"
+        },
+        {
+          "en": "Red Velvet",
+          "mn": "Red Velvet"
+        },
+        {
+          "en": "NewJeans",
+          "mn": "NewJeans"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "NewJeans debuted in 2022 under ADOR (a subsidiary of HYBE), placing them firmly in the '4th Generation' of K-pop, while the others debuted during the mid-2010s.",
+        "mn": "NewJeans хамтлаг нь 2022 онд ADOR (HYBE-ийн охин компани) дор дебютээ хийсэн тул 4-р үеийн хамтлагт тооцогддог. Бусад хамтлагууд нь 2010-аад оны дундуур гарч ирсэн юм."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.kpop-records-youtube",
+      "key": "kpop.kpop-records-youtube.g8",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which 2nd Generation K-pop boy group, managed by YG Entertainment, made history with hits like 'Lies' and 'Haru Haru' and was the first to have members establish major solo careers?",
+        "mn": "YG Entertainment-ийн удирдлага дор 'Lies', 'Haru Haru' зэрэг хит дуунуудаараа түүх бүтээсэн, гишүүд нь бие даасан амжилттай карьер эхлүүлсэн К-попын 2-р үеийн эрэгтэй хамтлаг аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Super Junior",
+          "mn": "Super Junior"
+        },
+        {
+          "en": "BIGBANG",
+          "mn": "BIGBANG"
+        },
+        {
+          "en": "SHINee",
+          "mn": "SHINee"
+        },
+        {
+          "en": "2PM",
+          "mn": "2PM"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "BIGBANG, debuting in 2006, is often called the 'Kings of K-pop'. They helped shape the global industry and were pioneers in writing and producing their own music.",
+        "mn": "2006 онд дебютээ хийсэн BIGBANG хамтлагийг ихэвчлэн 'К-попын хаад' гэж нэрлэдэг. Тэд өөрсдийн дууг өөрсдөө зохиож, продюсерлодог анхдагчдын нэг байв."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.kpop-records-youtube",
+      "key": "kpop.kpop-records-youtube.g9",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Who was the first K-pop soloist to win a trophy at the MTV Video Music Awards (VMAs) for Best K-Pop in 2022?",
+        "mn": "2022 онд MTV Video Music Awards (VMAs) наадмаас 'Шилдэг К-Поп' төрөлд шагнал хүртсэн анхны К-поп гоцлол дуучин хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Lisa",
+          "mn": "Lisa"
+        },
+        {
+          "en": "Jungkook",
+          "mn": "Jungkook"
+        },
+        {
+          "en": "IU",
+          "mn": "IU"
+        },
+        {
+          "en": "Jimin",
+          "mn": "Jimin"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Lisa of BLACKPINK won the award for her solo debut track 'Lalisa'. She made history as both the first K-pop soloist and Thai artist to win a VMA.",
+        "mn": "BLACKPINK хамтлагийн Лиза өөрийн бие даасан 'Lalisa' дуугаараа уг шагналыг хүртжээ. Тэрээр VMA шагнал хүртсэн анхны К-поп гоцлол дуучин төдийгүй анхны Тайланд уран бүтээлч болсон юм."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.kpop-records-youtube",
+      "key": "kpop.kpop-records-youtube.g10",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of these K-pop groups is widely recognized as the pioneer of the '4th Generation' virtual or AI concept, featuring digital avatar counterparts for each member?",
+        "mn": "Гишүүн бүрдээ тохирсон дижитал аватар хувилбартай, К-попын '4-р үе'-ийн виртуал буюу хиймэл оюун ухааны концепцыг анхлан нэвтрүүлсэн хамтлаг аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "aespa",
+          "mn": "aespa"
+        },
+        {
+          "en": "LE SSERAFIM",
+          "mn": "LE SSERAFIM"
+        },
+        {
+          "en": "ITZY",
+          "mn": "ITZY"
+        },
+        {
+          "en": "IVE",
+          "mn": "IVE"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "SM Entertainment's aespa debuted in 2020 with a unique 'metaverse' concept where members have virtual counterparts called 'ae'.",
+        "mn": "SM Entertainment-ийн aespa хамтлаг нь 2020 онд гишүүдийнхээ 'ae' гэж нэрлэгддэг виртуал хувилбаруудтай 'метаверс' концепцтойгоор дебютээ хийж байв."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.kpop-records-youtube",
+      "key": "kpop.kpop-records-youtube.g11",
+      "difficulty": 1,
+      "prompt": {
+        "en": "How many members make up the global superstar boy group BTS?",
+        "mn": "Дэлхийн хэмжээний супер од BTS хамтлаг нийт хэдэн гишүүнтэй вэ?"
+      },
+      "choices": [
+        {
+          "en": "12",
+          "mn": "12"
+        },
+        {
+          "en": "9",
+          "mn": "9"
+        },
+        {
+          "en": "7",
+          "mn": "7"
+        },
+        {
+          "en": "5",
+          "mn": "5"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "BTS consists of seven members: RM, Jin, Suga, J-Hope, Jimin, V, and Jungkook. They debuted together in June 2013.",
+        "mn": "BTS хамтлаг нь RM, Жин, Шүга, Жэй-Хөүп, Жимин, Ви, Жонгүг гэсэн долоон гишүүний бүрэлдэхүүнтэй бөгөөд 2013 оны 6-р сард дебютээ хийжээ."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.kpop-records-youtube",
+      "key": "kpop.kpop-records-youtube.g12",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which iconic 2nd Generation girl group, managed by JYP Entertainment, was the first K-pop group to enter the US Billboard Hot 100 chart with their English version of 'Nobody' in 2009?",
+        "mn": "JYP Entertainment-ийн удирдлага дор 2009 онд 'Nobody' дууныхаа англи хувилбараар АНУ-ын Billboard Hot 100 чартад багтсан анхны К-поп хамтлаг аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "2NE1",
+          "mn": "2NE1"
+        },
+        {
+          "en": "Girls' Generation",
+          "mn": "Girls' Generation"
+        },
+        {
+          "en": "Wonder Girls",
+          "mn": "Wonder Girls"
+        },
+        {
+          "en": "KARA",
+          "mn": "KARA"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Wonder Girls made history by entering the Billboard Hot 100 at No. 76, paving the early path for K-pop in the United States.",
+        "mn": "Wonder Girls хамтлаг Billboard Hot 100 чартын 76-д бичигдэн түүх бүтээсэн нь К-поп урсгал АНУ-ын зах зээлд нэвтрэх эхний замыг зассан юм."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.agencies-hybe-sm-yg-jyp",
+      "key": "kpop.agencies-hybe-sm-yg-jyp.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which of the traditional 'Big Three' K-pop agencies was founded by Yang Hyun-suk, a former member of the pioneering 1990s group 'Seo Taiji and Boys'?",
+        "mn": "1990-ээд оны анхдагч 'Seo Taiji and Boys' хамтлагийн гишүүн байсан Ян Хён Сокийн үүсгэн байгуулсан, К-попын уламжлалт 'Их Гурван' агентлагийн нэг нь аль вэ?"
+      },
+      "choices": [
+        {
+          "en": "HYBE",
+          "mn": "HYBE"
+        },
+        {
+          "en": "YG Entertainment",
+          "mn": "YG Entertainment"
+        },
+        {
+          "en": "SM Entertainment",
+          "mn": "SM Entertainment"
+        },
+        {
+          "en": "JYP Entertainment",
+          "mn": "JYP Entertainment"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Yang Hyun-suk founded YG Entertainment in 1996 after the disbandment of Seo Taiji and Boys. The agency became famous for its distinct hip-hop and R&B influence.",
+        "mn": "Ян Хён Сок 1996 онд 'Seo Taiji and Boys' хамтлаг тарсны дараа YG Entertainment-ийг үүсгэн байгуулжээ. Тус агентлаг нь өөрийн өвөрмөц хип хоп, R&B хэв маягаараа алдартай болсон юм."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.agencies-hybe-sm-yg-jyp",
+      "key": "kpop.agencies-hybe-sm-yg-jyp.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Before rebranding as HYBE Corporation in 2021, what was the original name of the company founded by Bang Si-hyuk in 2005?",
+        "mn": "2021 онд нэрээ HYBE Corporation болгон өөрчлөхөөс өмнө 2005 онд Бан Ши Хёкийн үүсгэн байгуулсан компанийн анхны нэр юу байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Starship Entertainment",
+          "mn": "Starship Entertainment"
+        },
+        {
+          "en": "Big Hit Entertainment",
+          "mn": "Big Hit Entertainment"
+        },
+        {
+          "en": "Pledis Entertainment",
+          "mn": "Pledis Entertainment"
+        },
+        {
+          "en": "Jellyfish Entertainment",
+          "mn": "Jellyfish Entertainment"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "HYBE was originally founded as Big Hit Entertainment. Following the massive global success of BTS, the company expanded, acquired other labels, and rebranded to HYBE to reflect its status as a multi-label lifestyle platform.",
+        "mn": "HYBE нь анх Big Hit Entertainment нэртэйгээр байгуулагдсан. BTS хамтлагийн дэлхий дахины асар их амжилтын дараа компани өргөжиж, бусад лейблүүдийг нэгтгэн, олон талт үйл ажиллагаагаа илтгэхийн тулд нэрээ HYBE болгон өөрчилсөн юм."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.agencies-hybe-sm-yg-jyp",
+      "key": "kpop.agencies-hybe-sm-yg-jyp.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which entertainment agency pioneered the concept of a boy group with an 'unlimited' number of members divided into various global sub-units under the name NCT?",
+        "mn": "Аль агентлаг NCT нэрийн дор дэлхийн янз бүрийн салбар нэгжүүдэд хуваагдсан, 'хязгааргүй' гишүүдийн тоотой хөвгүүдийн хамтлагийн концептыг анхлан санаачилсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "SM Entertainment",
+          "mn": "SM Entertainment"
+        },
+        {
+          "en": "HYBE",
+          "mn": "HYBE"
+        },
+        {
+          "en": "JYP Entertainment",
+          "mn": "JYP Entertainment"
+        },
+        {
+          "en": "YG Entertainment",
+          "mn": "YG Entertainment"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "SM Entertainment created NCT (Neo Culture Technology) in 2016 to realize its vision of localized global sub-units. Units like NCT 127, NCT Dream, and WayV operate under this brand.",
+        "mn": "SM Entertainment нь дэлхийн хотуудад чиглэсэн салбар нэгжүүдийг бий болгох зорилгоор 2016 онд NCT (Neo Culture Technology) хамтлагийг байгуулсан. Энэхүү брэндийн дор NCT 127, NCT Dream, WayV зэрэг дэд хамтлагууд ажилладаг."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.agencies-hybe-sm-yg-jyp",
+      "key": "kpop.agencies-hybe-sm-yg-jyp.g4",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of the following highly successful K-pop girl groups was NOT debuted under JYP Entertainment?",
+        "mn": "Дараах өндөр амжилтад хүрсэн К-поп охидын хамтлагуудын аль нь JYP Entertainment-ийн дор дэбютээ хийгээгүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "TWICE",
+          "mn": "TWICE"
+        },
+        {
+          "en": "ITZY",
+          "mn": "ITZY"
+        },
+        {
+          "en": "Wonder Girls",
+          "mn": "Wonder Girls"
+        },
+        {
+          "en": "2NE1",
+          "mn": "2NE1"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "2NE1 was debuted by YG Entertainment in 2009. Wonder Girls, TWICE, and ITZY are all iconic girl groups created and managed by JYP Entertainment.",
+        "mn": "2NE1 хамтлаг нь 2009 онд YG Entertainment-ийн дор дэбютээ хийж байсан. Харин Wonder Girls, TWICE, ITZY нь бүгд JYP Entertainment-аас төрөн гарсан алдартай охидын хамтлагууд юм."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.agencies-hybe-sm-yg-jyp",
+      "key": "kpop.agencies-hybe-sm-yg-jyp.g5",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which South Korean entertainment company is home to the global music phenomenon BTS?",
+        "mn": "Дэлхийн хөгжмийн ертөнцийг байлдан дагуулж буй BTS хамтлаг Өмнөд Солонгосын аль энтертайнмент компанид харьяалагддаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "YG Entertainment",
+          "mn": "YG Entertainment"
+        },
+        {
+          "en": "SM Entertainment",
+          "mn": "SM Entertainment"
+        },
+        {
+          "en": "JYP Entertainment",
+          "mn": "JYP Entertainment"
+        },
+        {
+          "en": "HYBE",
+          "mn": "HYBE"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "BTS debuted under Big Hit Entertainment in 2013, which later expanded and restructured into HYBE. BTS remains the crown jewel of the company's roster.",
+        "mn": "BTS хамтлаг 2013 онд Big Hit Entertainment-ийн дор дэбютээ хийсэн бөгөөд сүүлд тус компани өргөжиж HYBE болон өөрчлөгдсөн. BTS нь тус компанийн хамгийн том уран бүтээлч хэвээр байна."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.agencies-hybe-sm-yg-jyp",
+      "key": "kpop.agencies-hybe-sm-yg-jyp.g6",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Widely credited as the very first modern K-pop idol group, which 1996 boy band was formed by SM Entertainment and set the template for the entire industry?",
+        "mn": "К-попын хамгийн анхны орчин үеийн айдол хамтлаг гэгддэг, 1996 онд SM Entertainment-аас гаргаж ирэн салбарын жишгийг тогтоосон хөвгүүдийн хамтлаг аль вэ?"
+      },
+      "choices": [
+        {
+          "en": "g.o.d.",
+          "mn": "g.o.d."
+        },
+        {
+          "en": "Shinhwa",
+          "mn": "Shinhwa"
+        },
+        {
+          "en": "Sechs Kies",
+          "mn": "Sechs Kies"
+        },
+        {
+          "en": "H.O.T.",
+          "mn": "H.O.T."
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "H.O.T. (Highfive Of Teenagers) is considered the first modern K-pop idol group. Created by Lee Soo-man, they achieved formulaic success that defined the 'first generation' of K-pop.",
+        "mn": "H.O.T. (Highfive Of Teenagers) хамтлагийг орчин үеийн анхны К-поп айдол хамтлаг гэж үздэг. Ли Сү Маны үүсгэн байгуулсан энэхүү хамтлаг нь К-попын 'нэгдүгээр үе'-ийг тодорхойлсон асар их амжилтад хүрсэн юм."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.agencies-hybe-sm-yg-jyp",
+      "key": "kpop.agencies-hybe-sm-yg-jyp.g7",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of the following legendary K-pop groups was debuted by YG Entertainment in 2016 and went on to become the first Korean group to headline the Coachella music festival?",
+        "mn": "2016 онд YG Entertainment-аас дэбютээ хийж, Коачелла (Coachella) хөгжмийн наадмыг голлон дуулсан анхны Солонгос хамтлаг болсон домогт хамтлаг аль вэ?"
+      },
+      "choices": [
+        {
+          "en": "2NE1",
+          "mn": "2NE1"
+        },
+        {
+          "en": "Red Velvet",
+          "mn": "Red Velvet"
+        },
+        {
+          "en": "BLACKPINK",
+          "mn": "BLACKPINK"
+        },
+        {
+          "en": "aespa",
+          "mn": "aespa"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "BLACKPINK debuted under YG Entertainment in 2016 and made history in 2019 as the first K-pop group to perform at Coachella, returning in 2023 as a headliner.",
+        "mn": "BLACKPINK хамтлаг 2016 онд YG Entertainment-ийн дор дэбютээ хийсэн бөгөөд 2019 онд Коачелла наадамд оролцсон анхны К-поп хамтлаг болж, улмаар 2023 онд тус наадмыг голлон дуулж түүх бүтээсэн билээ."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.agencies-hybe-sm-yg-jyp",
+      "key": "kpop.agencies-hybe-sm-yg-jyp.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of the 'Big Three' agencies was founded by Park Jin-young, a highly successful solo artist famous for his iconic 1990s stage outfits like clear plastic pants?",
+        "mn": "1990-ээд онд гялгар гялгар хуванцар өмд гэх мэт өвөрмөц тайзны хувцаслалтаараа алдартай байсан соло дуучин Пак Жин Ёны үүсгэн байгуулсан 'Их Гурван' агентлагийн нэг нь аль вэ?"
+      },
+      "choices": [
+        {
+          "en": "HYBE",
+          "mn": "HYBE"
+        },
+        {
+          "en": "YG Entertainment",
+          "mn": "YG Entertainment"
+        },
+        {
+          "en": "SM Entertainment",
+          "mn": "SM Entertainment"
+        },
+        {
+          "en": "JYP Entertainment",
+          "mn": "JYP Entertainment"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Park Jin-young (also known as J.Y. Park or JYP) founded JYP Entertainment in 1997. He is unique among K-pop founders for remaining an active, chart-topping performer and producer.",
+        "mn": "Пак Жин Ён (J.Y. Park буюу JYP гэдгээрээ алдартай) 1997 онд JYP Entertainment-ийг үүсгэн байгуулсан. Тэрээр К-поп агентлагуудын үүсгэн байгуулагчид дундаас өнөөг хүртэл өөрөө уран бүтээл туурвиж, тайзан дээр гардаг цорын ганц идэвхтэй дуучин, продюсер юм."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.agencies-hybe-sm-yg-jyp",
+      "key": "kpop.agencies-hybe-sm-yg-jyp.g9",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Under HYBE's multi-label system, which independent sub-label is the direct home and creator of the record-breaking girl group NewJeans?",
+        "mn": "HYBE-ийн олон лейблийн систем дор ажилладаг хараат бус салбар лейблүүдээс аль нь амжилтын дээд амжилтуудыг эвдэж буй NewJeans хамтлагийг шууд удирддаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "ADOR",
+          "mn": "ADOR"
+        },
+        {
+          "en": "Source Music",
+          "mn": "Source Music"
+        },
+        {
+          "en": "Pledis Entertainment",
+          "mn": "Pledis Entertainment"
+        },
+        {
+          "en": "Belift Lab",
+          "mn": "Belift Lab"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "NewJeans was created under ADOR, a subsidiary label under HYBE. The label was launched in 2021 and led by creative director Min Hee-jin.",
+        "mn": "NewJeans хамтлагийг HYBE-ийн охин компани болох ADOR лейбл дор байгуулсан. Тус лейблийг 2021 онд бүтээлч захирал Мин Хи Жин удирдлаган дор байгуулж байжээ."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.agencies-hybe-sm-yg-jyp",
+      "key": "kpop.agencies-hybe-sm-yg-jyp.g10",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which of the following is NOT one of the traditional 'Big Three' South Korean entertainment agencies that dominated K-pop prior to the rise of HYBE?",
+        "mn": "HYBE компани хүчирхэгжихээс өмнө К-поп салбарыг тэргүүлж байсан уламжлалт 'Их Гурван' энтертайнмент агентлагт дараахын аль нь хамаардаггүй ВЭ?"
+      },
+      "choices": [
+        {
+          "en": "YG Entertainment",
+          "mn": "YG Entertainment"
+        },
+        {
+          "en": "JYP Entertainment",
+          "mn": "JYP Entertainment"
+        },
+        {
+          "en": "SM Entertainment",
+          "mn": "SM Entertainment"
+        },
+        {
+          "en": "Cube Entertainment",
+          "mn": "Cube Entertainment"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The historical 'Big Three' consist of SM, YG, and JYP. While Cube Entertainment has produced highly successful groups like Beast and (G)I-DLE, it was never part of the Big Three.",
+        "mn": "К-попын түүхэн дэх 'Их Гурван' аваргад SM, YG, JYP багтдаг. Cube Entertainment нь Beast, (G)I-DLE зэрэг амжилттай хамтлагуудыг төрүүлсэн ч 'Их Гурван'-д хэзээ ч багтаж байгаагүй юм."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.agencies-hybe-sm-yg-jyp",
+      "key": "kpop.agencies-hybe-sm-yg-jyp.g11",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In the early 2000s, SM Entertainment's female soloist BoA achieved unprecedented success by becoming the first Korean artist to top the Oricon chart. Which country's music market did she famously conquer?",
+        "mn": "2000-ээд оны эхээр SM Entertainment-ийн соло дуучин БоА (BoA) Орикон (Oricon) чартыг тэргүүлсэн анхны Солонгос уран бүтээлч болж урьд өмнө байгаагүй амжилтад хүрсэн. Тэрээр аль улсын хөгжмийн зах зээлийг байлдан дагуулсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "United Kingdom",
+          "mn": "Их Британи"
+        },
+        {
+          "en": "China",
+          "mn": "Хятад"
+        },
+        {
+          "en": "Japan",
+          "mn": "Япон"
+        },
+        {
+          "en": "United States",
+          "mn": "АНУ"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "BoA's breakthrough in Japan with her 2002 album 'Listen to My Heart' established the blueprint for K-pop agencies to localize and promote their artists in international markets.",
+        "mn": "БоА 2002 онд 'Listen to My Heart' цомгоороо Японы зах зээлд цахиур хагалсан нь К-поп агентлагууд уран бүтээлчдээ олон улсын зах зээлд гаргах, нутагшуулах үндсэн загвар болсон юм."
+      }
+    },
+    {
+      "topicSlug": "kpop",
+      "lessonKey": "kpop.agencies-hybe-sm-yg-jyp",
+      "key": "kpop.agencies-hybe-sm-yg-jyp.g12",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of the following highly popular boy groups is managed by Pledis Entertainment, a label acquired by HYBE in 2020?",
+        "mn": "Дараах алдартай хөвгүүдийн хамтлагуудын аль нь 2020 онд HYBE-ийн худалдаж авсан Pledis Entertainment лейблд харьяалагддаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "SEVENTEEN",
+          "mn": "SEVENTEEN"
+        },
+        {
+          "en": "TREASURE",
+          "mn": "TREASURE"
+        },
+        {
+          "en": "NCT",
+          "mn": "NCT"
+        },
+        {
+          "en": "Stray Kids",
+          "mn": "Stray Kids"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "SEVENTEEN is managed by Pledis Entertainment. HYBE acquired a majority stake in Pledis in 2020, bringing the group under the massive HYBE Labels umbrella.",
+        "mn": "SEVENTEEN хамтлаг нь Pledis Entertainment-д харьяалагддаг. HYBE компани 2020 онд Pledis-ийн хяналтын багцыг худалдаж авснаар тус хамтлаг HYBE Labels-ийн том бүрэлдэхүүнд нэгдсэн юм."
+      }
+    }
+  ]
+}

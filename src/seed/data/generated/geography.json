@@ -1,0 +1,4589 @@
+{
+  "lessons": [
+    {
+      "topicSlug": "geography",
+      "key": "geography.major-deserts",
+      "order": 10,
+      "title": {
+        "en": "The World's Largest Deserts",
+        "mn": "Дэлхийн хамгийн том цөлүүд"
+      },
+      "summary": {
+        "en": "Explore the vast, dry expanses of our planet, from frozen polar deserts to scorching sands.",
+        "mn": "Манай гаригийн хамгийн том, хуурай газар нутгууд болох туйлын цөлөөс эхлээд халуун элсэн цөлүүдтэй танилцаарай."
+      },
+      "body": {
+        "en": "While many people picture deserts as hot and sandy, a desert is scientifically defined by its low annual precipitation. Under this definition, the polar regions are actually the largest deserts on Earth. These vast arid zones shape global climates and host unique ecosystems adapted to extreme survival.",
+        "mn": "Хүмүүс цөлийг ихэвчлэн халуун элсээр төсөөлдөг ч шинжлэх ухаанд жилд орох тунадасны хэмжээ бага газар нутгийг цөл гэж тодорхойлдог. Энэ тодорхойлолтоор дэлхийн хамгийн том цөлүүд нь туйлын бүсүүд юм. Эдгээр хуурай бүс нутаг нь дэлхийн уур амьсгалыг тодорхойлж, эрс тэс уур амьсгалд зохицсон өвөрмөц экосистемийг агуулдаг."
+      },
+      "visual": {
+        "kind": "bar",
+        "unit": {
+          "en": "square kilometers",
+          "mn": "ам дөрвөлжин километр"
+        },
+        "horizontal": true,
+        "items": [
+          {
+            "label": {
+              "en": "Antarctic Desert",
+              "mn": "Антарктидын цөл"
+            },
+            "value": 14200000
+          },
+          {
+            "label": {
+              "en": "Arctic Desert",
+              "mn": "Арктикийн цөл"
+            },
+            "value": 13900000
+          },
+          {
+            "label": {
+              "en": "Sahara Desert",
+              "mn": "Сахарын цөл"
+            },
+            "value": 9200000
+          },
+          {
+            "label": {
+              "en": "Arabian Desert",
+              "mn": "Арабын цөл"
+            },
+            "value": 2300000
+          },
+          {
+            "label": {
+              "en": "Gobi Desert",
+              "mn": "Говийн цөл"
+            },
+            "value": 1300000
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "The Atacama Desert in Chile is the driest non-polar desert on Earth, where some weather stations have never recorded rain.",
+          "mn": "Чили улсад орших Атакамагийн цөл нь дэлхийн хамгийн хуурай туйлын бус цөл бөгөөд зарим хэсэгт нь түүхэндээ огт бороо орж байгаагүй ажээ."
+        },
+        {
+          "en": "Deserts cover about one-third of the Earth's land surface.",
+          "mn": "Цөлөрхөг хээр болон цөлийн бүс нь дэлхийн хуурай газрын бараг гуравны нэг хувийг эзэлдэг."
+        }
+      ]
+    },
+    {
+      "topicSlug": "geography",
+      "key": "geography.famous-canals",
+      "order": 11,
+      "title": {
+        "en": "Great Canals of the World",
+        "mn": "Дэлхийн алдартай сувгууд"
+      },
+      "summary": {
+        "en": "Discover the artificial waterways that reshaped global trade and maritime navigation.",
+        "mn": "Дэлхийн худалдаа, усан тээврийн замыг бүрэн өөрчилсөн хүний гараар бүтсэн сувгуудыг танин мэдээрэй."
+      },
+      "body": {
+        "en": "Man-made canals have fundamentally altered global geography by connecting major oceans and seas. These engineering marvels eliminated the need for ships to travel around entire continents, saving weeks of transit time. Today, they remain the vital arteries of international commerce and global shipping.",
+        "mn": "Хүний гараар бүтээгдсэн сувгууд нь далай тэнгисүүдийг холбосноор дэлхийн газар зүйг үндсээр нь өөрчилсөн юм. Эдгээр инженерийн гайхамшигт байгууламжууд нь усан онгоцнуудын аяллын хугацааг хэдэн долоо хоногоор товчилсон бөгөөд өнөөдөр ч олон улсын худалдааны гол судсан судас хэвээр байна."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "🚢",
+            "title": {
+              "en": "Suez Canal",
+              "mn": "Суэцийн суваг"
+            },
+            "facts": [
+              {
+                "en": "Connects the Mediterranean Sea to the Red Sea.",
+                "mn": "Газар дундын тэнгисийг Улаан тэнгистэй холбодог."
+              },
+              {
+                "en": "Completed in 1869, creating the shortest maritime route between Europe and Asia.",
+                "mn": "1869 онд ашиглалтад орж, Европ болон Азийн хоорондох хамгийн дөхөм усан замыг нээсэн."
+              }
+            ],
+            "subtitle": {
+              "en": "Egypt",
+              "mn": "Египет"
+            }
+          },
+          {
+            "icon": "⚓",
+            "title": {
+              "en": "Panama Canal",
+              "mn": "Панамын суваг"
+            },
+            "facts": [
+              {
+                "en": "Connects the Atlantic Ocean with the Pacific Ocean.",
+                "mn": "Атлантын далайг Номхон далайтай холбодог."
+              },
+              {
+                "en": "Uses a system of lock gates to lift ships over the continental divide.",
+                "mn": "Усан онгоцнуудыг өргөж гаргахын тулд шлюзийн систем ашигладаг."
+              }
+            ],
+            "subtitle": {
+              "en": "Panama",
+              "mn": "Панам"
+            }
+          },
+          {
+            "icon": "🌊",
+            "title": {
+              "en": "Kiel Canal",
+              "mn": "Килийн суваг"
+            },
+            "facts": [
+              {
+                "en": "Connects the North Sea with the Baltic Sea.",
+                "mn": "Хойд тэнгисийг Балтын тэнгистэй холбодог."
+              },
+              {
+                "en": "It is the world's busiest artificial waterway by vessel transit count.",
+                "mn": "Дамжин өнгөрөх хөлөг онгоцны тоогоор дэлхийн хамгийн ачаалалтай суваг юм."
+              }
+            ],
+            "subtitle": {
+              "en": "Germany",
+              "mn": "Герман"
+            }
+          },
+          {
+            "icon": "🧱",
+            "title": {
+              "en": "Grand Canal",
+              "mn": "Их суваг"
+            },
+            "facts": [
+              {
+                "en": "The longest and oldest canal or artificial river in the world.",
+                "mn": "Дэлхийн хамгийн урт бөгөөд хамгийн эртний суваг юм."
+              },
+              {
+                "en": "Connects Beijing to Hangzhou and dates back to the 5th century BC.",
+                "mn": "Бээжин хотыг Ханжоутай холбодог бөгөөд МЭӨ V зуунд баригдаж эхэлжээ."
+              }
+            ],
+            "subtitle": {
+              "en": "China",
+              "mn": "Хятад"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "The Suez Canal originally opened in 1869 and has no locks because the Mediterranean and Red seas are at the same level.",
+          "mn": "Суэцийн суваг 1869 онд анх нээгдсэн бөгөөд Газар дундын тэнгис ба Улаан тэнгисийн усны түвшин ижил тул ямар нэгэн шлюз (хаалт) байдаггүй."
+        },
+        {
+          "en": "Passing through the Panama Canal can take around 8 to 10 hours, compared to weeks of sailing around South America.",
+          "mn": "Панамын сувгаар дамжин өнгөрөхөд 8-10 цаг зарцуулдаг бөгөөд энэ нь Өмнөд Америкийг тойрон аялах олон долоо хоногийн хугацааг хэмнэдэг."
+        }
+      ]
+    },
+    {
+      "topicSlug": "geography",
+      "key": "geography.great-lakes-formation",
+      "order": 12,
+      "title": {
+        "en": "The Story of the Great Lakes",
+        "mn": "Их нууруудын үүссэн түүх"
+      },
+      "summary": {
+        "en": "Trace the geological journey of North America's massive freshwater system.",
+        "mn": "Хойд Америкийн цэнгэг усны асар их нөөц бүхий Их нууруудын үүссэн геологийн түүхээр аялаарай."
+      },
+      "body": {
+        "en": "The Great Lakes contain over 20% of the world's surface fresh water. Their formation is a relatively recent geological event, carved out by massive ice sheets during the last glacial period. As the glaciers retreated, their meltwater filled the newly carved basins, creating the landscape we see today.",
+        "mn": "Их нуурууд нь дэлхийн гадаргын цэнгэг усны 20 гаруй хувийг агуулдаг. Тэдгээрийн үүсэл нь геологийн түүхэнд харьцангуй залууд тооцогдох бөгөөд сүүлчийн мөстлөгийн үед асар том мөсөн бүрхүүл газар орныг хонхойлон зүссэнээр үүсжээ. Мөсөн голууд хайлж ухрахдаа эдгээр сав газрыг усаар дүүргэсэн байна."
+      },
+      "visual": {
+        "kind": "timeline",
+        "items": [
+          {
+            "when": {
+              "en": "1.2 Billion Years Ago",
+              "mn": "1.2 тэрбум жилийн өмнө"
+            },
+            "title": {
+              "en": "Midcontinent Rift",
+              "mn": "Эх газрын дундах хагарал"
+            },
+            "body": {
+              "en": "Volcanic activity attempts to split North America apart, creating weak valley zones that would later shape the future lake basins.",
+              "mn": "Галт уулын идэвхжилийн улмаас Хойд Америкийн эх газар хуваагдах дөхөж, ирээдүйн нууруудын сав газар үүсэх сул хөндийгүүд бий болов."
+            }
+          },
+          {
+            "when": {
+              "en": "20,000 Years Ago",
+              "mn": "20,000 жилийн өмнө"
+            },
+            "title": {
+              "en": "Peak Glaciation",
+              "mn": "Мөстлөгийн оргил үе"
+            },
+            "body": {
+              "en": "The Laurentide Ice Sheet, up to 2 miles thick, covers the region, carving deep depressions into the bedrock as it moves.",
+              "mn": "Бүс нутгийг 3 км хүртэл зузаантай Лаурентидын мөсөн бүрхүүл бүрхэж, хөдлөх явцдаа газрын хөрсийг гүн ухан хонхорхойнууд үүсгэв."
+            }
+          },
+          {
+            "when": {
+              "en": "14,000 Years Ago",
+              "mn": "14,000 жилийн өмнө"
+            },
+            "title": {
+              "en": "Glacial Retreat",
+              "mn": "Мөсөн голын ухралт"
+            },
+            "body": {
+              "en": "As the climate warms, the massive glaciers begin to melt, filling the newly carved basins with immense volumes of water.",
+              "mn": "Уур амьсгал дулаарч, аварга том мөсөн голууд хайлж эхэлснээр шинээр үүссэн хонхорхойнууд асар их усаар дүүрч эхлэв."
+            }
+          },
+          {
+            "when": {
+              "en": "10,000 Years Ago",
+              "mn": "10,000 жилийн өмнө"
+            },
+            "title": {
+              "en": "Modern Outlets Form",
+              "mn": "Орчин үеийн урсгал чиглэлүүд"
+            },
+            "body": {
+              "en": "The lakes begin to drain through the St. Lawrence River to the Atlantic Ocean, establishing their modern shapes and flows.",
+              "mn": "Нууруудын илүүдэл ус Сент-Лоренс мөрнөөр дамжин Атлантын далай руу урсаж эхэлснээр өнөөгийн хэлбэр дүрсээ олжээ."
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "Lake Superior is so large that it could hold the water of all the other Great Lakes plus three extra Lake Eries.",
+          "mn": "Дээд нуур нь маш том тул бусад бүх Их нууруудын усыг багтаагаад дээр нь дахин гурван Эри нуурыг нэмсэн ч багтахаар хэмжээтэй."
+        },
+        {
+          "en": "If poured evenly over the contiguous United States, the water from the Great Lakes would cover the land to a depth of about 9.5 feet (2.9 meters).",
+          "mn": "Их нууруудын усыг АНУ-ын нутаг дэвсгэрт жигд асгавал бараг 2.9 метр гүн усан бүрхүүл тогтоно."
+        }
+      ]
+    },
+    {
+      "topicSlug": "geography",
+      "key": "geography.famous-straits",
+      "order": 13,
+      "title": {
+        "en": "Strategic Straits of the World",
+        "mn": "Дэлхийн стратегийн чухал хоолойнууд"
+      },
+      "summary": {
+        "en": "Learn about the narrow waterways that connect great seas and control global shipping lanes.",
+        "mn": "Их далайнуудыг холбож, дэлхийн усан тээврийн замыг хянадаг нарийн хоолойнуудын талаар суралцаарай."
+      },
+      "body": {
+        "en": "Straits are narrow passages of water connecting two larger bodies of water. Throughout history, these natural choke points have held immense geopolitical and economic importance, acting as gateways for trade and navy fleets alike. Controlling them has often decided the fate of empires.",
+        "mn": "Далайн хоолой гэдэг нь хоёр том усан санг холбосон нарийн усан зам юм. Түүхийн туршид эдгээр байгалийн нарийн гарцууд нь геополитик болон эдийн засгийн асар их ач холбогдолтой байж, худалдаа болон цэргийн флотын гол хаалга болж иржээ."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "🌍",
+            "title": {
+              "en": "Strait of Gibraltar",
+              "mn": "Гибралтарын хоолой"
+            },
+            "facts": [
+              {
+                "en": "Connects the Atlantic Ocean to the Mediterranean Sea.",
+                "mn": "Атлантын далайг Газар дундын тэнгистэй холбодог."
+              },
+              {
+                "en": "Separates Spain and Europe from Morocco and Africa.",
+                "mn": "Испани (Европ) болон Марокко (Африкийг) заагладаг."
+              }
+            ],
+            "subtitle": {
+              "en": "Europe / Africa",
+              "mn": "Европ / Африк"
+            }
+          },
+          {
+            "icon": "🌏",
+            "title": {
+              "en": "Strait of Malacca",
+              "mn": "Малаккын хоолой"
+            },
+            "facts": [
+              {
+                "en": "Connects the Indian Ocean with the Pacific Ocean.",
+                "mn": "Энэтхэгийн далайг Номхон далайтай холбодог."
+              },
+              {
+                "en": "The primary shipping channel between Asia and the Middle East/Europe.",
+                "mn": "Ази болон Ойрхи Дорнод, Европын хоорондох гол усан зам."
+              }
+            ],
+            "subtitle": {
+              "en": "Southeast Asia",
+              "mn": "Зүүн өмнөд Ази"
+            }
+          },
+          {
+            "icon": "🕌",
+            "title": {
+              "en": "Strait of Hormuz",
+              "mn": "Ормузын хоолой"
+            },
+            "facts": [
+              {
+                "en": "Connects the Persian Gulf to the Gulf of Oman.",
+                "mn": "Персийн булангийг Оманы булантай холбодог."
+              },
+              {
+                "en": "The world's most important oil transit chokepoint.",
+                "mn": "Дэлхийн газрын тосны тээврийн хамгийн чухал стратегийн гарц."
+              }
+            ],
+            "subtitle": {
+              "en": "Middle East",
+              "mn": "Ойрхи Дорнод"
+            }
+          },
+          {
+            "icon": "❄️",
+            "title": {
+              "en": "Bering Strait",
+              "mn": "Берингийн хоолой"
+            },
+            "facts": [
+              {
+                "en": "Connects the Pacific Ocean with the Arctic Ocean.",
+                "mn": "Номхон далайг Хойд мөсөн далайтай холбодог."
+              },
+              {
+                "en": "Separates Russia (Asia) from Alaska (North America).",
+                "mn": "Орос (Ази) болон Аляск (Хойд Америкийг) заагладаг."
+              }
+            ],
+            "subtitle": {
+              "en": "Asia / North America",
+              "mn": "Ази / Хойд Амери"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "The Strait of Gibraltar is only 14 kilometers (9 miles) wide at its narrowest point, separating Europe and Africa.",
+          "mn": "Гибралтарын хоолой нь хамгийн нарийн хэсэгтээ ердөө 14 километр өргөн бөгөөд Европ болон Африкийг заагладаг."
+        },
+        {
+          "en": "The Bosporus Strait in Turkey is the world's narrowest strait used for international navigation, dividing the city of Istanbul between two continents.",
+          "mn": "Турк дахь Босфорын хоолой нь олон улсын усан тээвэрт ашиглагддаг дэлхийн хамгийн нарийн хоолой бөгөөд Истанбул хотыг хоёр тивд хуваадаг."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-area",
+      "key": "geography.continents-area.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which continent is entirely surrounded by the Southern Ocean?",
+        "mn": "Аль тивийг Өмнөд далай бүхэлд нь хүрээлдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "South America",
+          "mn": "Өмнөд Америк"
+        },
+        {
+          "en": "Australia",
+          "mn": "Австрали"
+        },
+        {
+          "en": "Antarctica",
+          "mn": "Антарктид"
+        },
+        {
+          "en": "Africa",
+          "mn": "Африк"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Antarctica is the southernmost continent and is completely surrounded by the Southern Ocean. It is almost entirely covered by a thick sheet of ice.",
+        "mn": "Антарктид нь дэлхийн хамгийн өмнөд цэгт орших бөгөөд Өмнөд далайгаар бүрэн хүрээлэгдсэн байдаг. Энэ тив бараг бүхэлдээ зузаан мөсөн бүрхүүлээр хучигдсан байдаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-area",
+      "key": "geography.continents-area.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of these continents is physically connected to Asia, forming a single continuous landmass?",
+        "mn": "Дараах тивүүдийн аль нь Ази тивтэй хуурай газраар шууд холбогдож, нэгэн цул эх газрыг үүсгэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Europe",
+          "mn": "Европ"
+        },
+        {
+          "en": "Africa",
+          "mn": "Африк"
+        },
+        {
+          "en": "Australia",
+          "mn": "Австрали"
+        },
+        {
+          "en": "North America",
+          "mn": "Хойд Америк"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Europe and Asia are part of the same continuous landmass, often referred to as Eurasia. The Ural Mountains are traditionally considered the boundary between them.",
+        "mn": "Европ болон Ази нь Еврази гэгддэг нэгэн цул эх газрын хэсгүүд юм. Тэдгээрийн хилийн заагийг уламжлалт ёсоор Уралын нуруугаар заагладаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-area",
+      "key": "geography.continents-area.g3",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which continent contains the countries of Brazil, Argentina, and Peru?",
+        "mn": "Бразил, Аргентин, Перу зэрэг улсууд аль тивд байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Europe",
+          "mn": "Европ"
+        },
+        {
+          "en": "Africa",
+          "mn": "Африк"
+        },
+        {
+          "en": "North America",
+          "mn": "Хойд Америк"
+        },
+        {
+          "en": "South America",
+          "mn": "Өмнөд Америк"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "These countries are located in South America. Brazil is the largest country on this continent, covering nearly half of its land area.",
+        "mn": "Эдгээр улсууд Өмнөд Америк тивд оршдог. Бразил нь тус тивийн хамгийн том улс бөгөөд газар нутгийнх нь бараг талыг эзэлдэг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-area",
+      "key": "geography.continents-area.g4",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which canal separates the continents of North America and South America?",
+        "mn": "Хойд Америк болон Өмнөд Америк тивийг ямар суваг заагладаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Panama Canal",
+          "mn": "Панамын суваг"
+        },
+        {
+          "en": "Suez Canal",
+          "mn": "Суэцийн суваг"
+        },
+        {
+          "en": "Kiel Canal",
+          "mn": "Килийн суваг"
+        },
+        {
+          "en": "Erie Canal",
+          "mn": "Эри суваг"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Panama Canal is an artificial waterway that cuts through the Isthmus of Panama, separating North and South America while connecting the Atlantic and Pacific Oceans.",
+        "mn": "Панамын суваг нь Хойд болон Өмнөд Америкийг зааглахын зэрэгцээ Атлантын болон Номхон далайг холбосон хүний гараар бүтсэн усан зам юм."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-area",
+      "key": "geography.continents-area.g5",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which continent has the highest average elevation and is also the driest on Earth?",
+        "mn": "Дэлхийн хамгийн өндөр дундаж өндөрлөгтэй бөгөөд хамгийн хуурай тив аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Asia",
+          "mn": "Ази"
+        },
+        {
+          "en": "Australia",
+          "mn": "Австрали"
+        },
+        {
+          "en": "Africa",
+          "mn": "Африк"
+        },
+        {
+          "en": "Antarctica",
+          "mn": "Антарктид"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Antarctica is the coldest, windiest, and driest continent, and because of its thick ice sheets, it also has the highest average elevation.",
+        "mn": "Антарктид нь дэлхийн хамгийн хүйтэн, хамгийн салхитай, хамгийн хуурай тив бөгөөд зузаан мөсөн бүрхүүлийнхээ ачаар хамгийн өндөр дундаж өндөрлөгтэй тивд тооцогддог."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-area",
+      "key": "geography.continents-area.g6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which continent is home to the Sahara Desert, the world's largest hot desert?",
+        "mn": "Дэлхийн хамгийн том халуун цөл болох Сахарын цөл аль тивд байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "North America",
+          "mn": "Хойд Америк"
+        },
+        {
+          "en": "Asia",
+          "mn": "Ази"
+        },
+        {
+          "en": "Africa",
+          "mn": "Африк"
+        },
+        {
+          "en": "Australia",
+          "mn": "Австрали"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Sahara Desert is located in northern Africa. It covers an area of about 9.2 million square kilometers, which is nearly the size of the entire United States.",
+        "mn": "Сахарын цөл нь Африкийн хойд хэсэгт оршдог. Энэ цөл нь ойролцоогоор 9.2 сая хавтгай дөрвөлжин км газар нутгийг хамрах бөгөөд энэ нь бараг АНУ-ын газар нутагтай тэнцэх хэмжээ юм."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-area",
+      "key": "geography.continents-area.g7",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of the following is NOT a sovereign country but rather a continent that has no permanent human population?",
+        "mn": "Дараах газар нутгуудын аль нь тусгаар тогтносон улс биш, мөн байнгын оршин суугчгүй тив вэ?"
+      },
+      "choices": [
+        {
+          "en": "Antarctica",
+          "mn": "Антарктид"
+        },
+        {
+          "en": "Australia",
+          "mn": "Австрали"
+        },
+        {
+          "en": "Greenland",
+          "mn": "Гренланд"
+        },
+        {
+          "en": "Madagascar",
+          "mn": "Мадагаскар"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Antarctica has no permanent residents, only temporary scientific researchers. It is governed internationally by the Antarctic Treaty System.",
+        "mn": "Антарктидад байнгын оршин суугч байхгүй, зөвхөн судалгааны түр ажилтнууд л байдаг. Энэ тив нь Антарктидын гэрээний системээр олон улсын хэмжээнд зохицуулагддаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-area",
+      "key": "geography.continents-area.g8",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Through which continent do both the Equator and the Prime Meridian pass?",
+        "mn": "Экваторын шугам болон Анхны голдож (Гринвичийн голдож) хоёулаа дайрч өнгөрдөг цорын ганц тив аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "South America",
+          "mn": "Өмнөд Америк"
+        },
+        {
+          "en": "Africa",
+          "mn": "Африк"
+        },
+        {
+          "en": "Europe",
+          "mn": "Европ"
+        },
+        {
+          "en": "Asia",
+          "mn": "Ази"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Africa is the only continent centered on both the Equator and the Prime Meridian. They intersect in the Gulf of Guinea, just off the western coast of Africa.",
+        "mn": "Африк нь Экваторын шугам болон Гринвичийн голдож хоёулаа дайран өнгөрдөг цорын ганц тив юм. Тэдгээр нь Африкийн баруун эрэг орчмын Гвинейн буланд огтлолцдог."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-area",
+      "key": "geography.continents-area.g9",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In which continent would you find the Grand Canyon, the Great Lakes, and the Rocky Mountains?",
+        "mn": "Их хавцал (Grand Canyon), Их нуурууд болон Хадан уулс аль тивд байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Australia",
+          "mn": "Австрали"
+        },
+        {
+          "en": "Asia",
+          "mn": "Ази"
+        },
+        {
+          "en": "Europe",
+          "mn": "Европ"
+        },
+        {
+          "en": "North America",
+          "mn": "Хойд Америк"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "These famous natural landmarks are all located in North America, primarily within the United States and Canada.",
+        "mn": "Эдгээр алдартай байгалийн үзэсгэлэнт газрууд нь бүгд Хойд Америкт, голчлон АНУ болон Канадын нутаг дэвсгэрт байдаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-area",
+      "key": "geography.continents-area.g10",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which continent is completely located in both the Southern and Eastern Hemispheres?",
+        "mn": "Дэлхийн өмнөд болон зүүн бөмбөрцөгт бүхэлдээ багтдаг тив аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Antarctica",
+          "mn": "Антарктид"
+        },
+        {
+          "en": "South America",
+          "mn": "Өмнөд Америк"
+        },
+        {
+          "en": "Africa",
+          "mn": "Африк"
+        },
+        {
+          "en": "Australia",
+          "mn": "Австрали"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Australia is entirely in the Southern and Eastern Hemispheres. While Antarctica is in the Southern Hemisphere, it spans across all longitudes.",
+        "mn": "Австрали нь өмнөд болон зүүн бөмбөрцөгт бүхэлдээ байрладаг. Антарктид нь өмнөд бөмбөрцөгт оршдог ч бүх уртрагийг дамнан оршдог тул зөвхөн зүүн бөмбөрцөгт хамаардаггүй."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-people",
+      "key": "geography.continents-people.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which of these is the most populous city in the world by metropolitan area population?",
+        "mn": "Дэлхийн хамгийн олон хүн амтай хотын бөөгнөрөл (метрополитан бүс) аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Tokyo",
+          "mn": "Токио"
+        },
+        {
+          "en": "London",
+          "mn": "Лондон"
+        },
+        {
+          "en": "Paris",
+          "mn": "Парис"
+        },
+        {
+          "en": "New York",
+          "mn": "Нью-Йорк"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Greater Tokyo is the world's most populous metropolitan area, with over 37 million residents. Tokyo has held this top position for several decades.",
+        "mn": "Их Токио нь 37 сая гаруй оршин суугчтай дэлхийн хамгийн олон хүн амтай хотын бөөгнөрөл юм. Токио энэ байр сууриа хэдэн арван жилийн турш хадгалсаар байна."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-people",
+      "key": "geography.continents-people.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which country is the most densely populated country in the world, excluding city-states and territories?",
+        "mn": "Хот-улсууд болон хараат газар нутгуудыг оролцуулахгүйгээр дэлхийн хамгийн их хүн амын нягтаршилтай улс аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Australia",
+          "mn": "Австрали"
+        },
+        {
+          "en": "Russia",
+          "mn": "Орос"
+        },
+        {
+          "en": "Canada",
+          "mn": "Канад"
+        },
+        {
+          "en": "Bangladesh",
+          "mn": "Бангладеш"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Bangladesh has a population density of over 1,100 people per square kilometer, making it the most densely populated major country. This is due to its fertile delta land and large population.",
+        "mn": "Бангладеш улс нь нэг хавтгай дөрвөлжин километр тутамд 1100 гаруй хүн ногддог хамгийн их нягтаршилтай томоохон улс юм. Энэ нь үржил шимт бэлчир газар нутаг, их хүн амтай холбоотой."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-people",
+      "key": "geography.continents-people.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which continent has the lowest population density, excluding Antarctica?",
+        "mn": "Антарктидаас гадна хүн амын нягтаршил хамгийн багатай тив аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Europe",
+          "mn": "Европ"
+        },
+        {
+          "en": "Australia",
+          "mn": "Австрали"
+        },
+        {
+          "en": "Asia",
+          "mn": "Ази"
+        },
+        {
+          "en": "Africa",
+          "mn": "Африк"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Australia (as part of Oceania) has the lowest population density of any inhabited continent. Large parts of the Australian interior are arid and sparsely populated.",
+        "mn": "Австрали (Далайн орнуудын хамт) нь хүн ам суурьшсан тивүүдээс хамгийн бага нягтаршилтай нь юм. Австралийн төв хэсгийн асар том газар нутаг хуурайшилт ихтэй тул хүн маш цөөн суудаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-people",
+      "key": "geography.continents-people.g4",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of these countries is NOT among the top 5 most populous nations in the world?",
+        "mn": "Эдгээр улсуудын аль нь дэлхийн хамгийн олон хүн амтай 5 улсын тоонд ордоггүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Indonesia",
+          "mn": "Индонез"
+        },
+        {
+          "en": "United States",
+          "mn": "Америкийн Нэгдсэн Улс"
+        },
+        {
+          "en": "Pakistan",
+          "mn": "Пакистан"
+        },
+        {
+          "en": "Brazil",
+          "mn": "Бразил"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "While Brazil was historically in the top 5, it has been surpassed by Pakistan and Nigeria. The top 5 now includes India, China, the US, Indonesia, and Pakistan.",
+        "mn": "Бразил улс урьд нь эхний тавд ордог байсан ч Пакистан, Нигери улсуудад гүйцэгдсэн байна. Одоогийн байдлаар хамгийн олон хүн амтай 5 улсад Энэтхэг, Хятад, АНУ, Индонез, Пакистан орж байна."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-people",
+      "key": "geography.continents-people.g5",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the study of human populations, including their size, growth, and density, called?",
+        "mn": "Хүн амын тоо, өсөлт, нягтаршил зэрэг хүн ам зүйн шинж чанарыг судалдаг шинжлэх ухааныг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Archaeology",
+          "mn": "Археологи"
+        },
+        {
+          "en": "Demography",
+          "mn": "Демографи"
+        },
+        {
+          "en": "Geology",
+          "mn": "Геологи"
+        },
+        {
+          "en": "Meteorology",
+          "mn": "Метеорологи"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Demography is the statistical study of human populations. Governments use demographic data to plan infrastructure, schools, and healthcare.",
+        "mn": "Демографи (хүн ам зүй) нь хүн амын статистик судалгаа юм. Засгийн газрууд дэд бүтэц, сургууль, эрүүл мэндийн салбарыг төлөвлөхдөө демографийн өгөгдлийг ашигладаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-people",
+      "key": "geography.continents-people.g6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Roughly what percentage of the world's population lives in the Northern Hemisphere?",
+        "mn": "Дэлхийн хүн амын ойролцоогоор хэдэн хувь нь Дэлхийн бөмбөрцгийн хойд хагаст амьдардаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "About 90%",
+          "mn": "Ойролцоогоор 90%"
+        },
+        {
+          "en": "About 50%",
+          "mn": "Ойролцоогоор 50%"
+        },
+        {
+          "en": "About 30%",
+          "mn": "Ойролцоогоор 30%"
+        },
+        {
+          "en": "About 10%",
+          "mn": "Ойролцоогоор 10%"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Around 90% of the world's population lives in the Northern Hemisphere. This is because the Northern Hemisphere contains the vast majority of Earth's landmass.",
+        "mn": "Дэлхийн хүн амын бараг 90 хувь нь хойд хагаст амьдардаг. Учир нь дэлхийн хуурай газрын ихэнх хэсэг хойд хагаст байрладаг байна."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-people",
+      "key": "geography.continents-people.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which African country is projected to become the third most populous country in the world by 2050?",
+        "mn": "2050 он гэхэд Африкийн аль улс дэлхийн гуравдахь хамгийн олон хүн амтай улс болно гэж таамаглаж байгаа вэ?"
+      },
+      "choices": [
+        {
+          "en": "Nigeria",
+          "mn": "Нигери"
+        },
+        {
+          "en": "Egypt",
+          "mn": "Египет"
+        },
+        {
+          "en": "South Africa",
+          "mn": "Өмнөд Африк"
+        },
+        {
+          "en": "Ethiopia",
+          "mn": "Этиоп"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Nigeria's population is growing rapidly and is projected to surpass the United States by 2050. Currently, it is the most populous country in Africa.",
+        "mn": "Нигери улсын хүн ам маш хурдтай өсөж байгаа бөгөөд 2050 он гэхэд АНУ-ыг гүйцэж түрүүлнэ гэж таамаглаж байна. Одоогийн байдлаар энэ улс Африкийн хамгийн олон хүн амтай улс юм."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-people",
+      "key": "geography.continents-people.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which country is the most populous landlocked country in the world?",
+        "mn": "Далайд гарцгүй дэлхийн хамгийн олон хүн амтай улс аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Ethiopia",
+          "mn": "Этиоп"
+        },
+        {
+          "en": "Mongolia",
+          "mn": "Монгол"
+        },
+        {
+          "en": "Bolivia",
+          "mn": "Боливи"
+        },
+        {
+          "en": "Switzerland",
+          "mn": "Швейцар"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Ethiopia became landlocked in 1993 after Eritrea gained independence. It has a population of over 120 million, making it the most populous landlocked country.",
+        "mn": "Этиоп улс нь 1993 онд Эритрей тусгаар тогтносны дараа далайд гарцгүй болсон юм. 120 сая гаруй хүн амтай тус улс нь далайд гарцгүй хамгийн олон хүн амтай улсад тооцогддог."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-people",
+      "key": "geography.continents-people.g9",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of these island nations is the most populous in the world?",
+        "mn": "Эдгээр арлын улсуудаас аль нь дэлхийн хамгийн олон хүн амтай вэ?"
+      },
+      "choices": [
+        {
+          "en": "United Kingdom",
+          "mn": "Их Британи"
+        },
+        {
+          "en": "Philippines",
+          "mn": "Филиппин"
+        },
+        {
+          "en": "Japan",
+          "mn": "Япон"
+        },
+        {
+          "en": "Indonesia",
+          "mn": "Индонез"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Indonesia is the world's most populous island nation, with over 275 million people spread across thousands of islands. Java is its most populous island.",
+        "mn": "Индонез нь дэлхийн хамгийн олон хүн амтай арлын улс бөгөөд мянга мянган арал дээр 275 сая гаруй хүн амьдардаг. Ява арал нь хамгийн их хүн ам суурьшсан арал юм."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-people",
+      "key": "geography.continents-people.g10",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the term used to describe the shift of populations from rural areas to cities?",
+        "mn": "Хөдөө орон нутгаас хот суурин газар руу шилжих хүн амын шилжилт хөдөлгөөнийг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Migration",
+          "mn": "Цагаачлал"
+        },
+        {
+          "en": "Deportation",
+          "mn": "Албадан гаргалт"
+        },
+        {
+          "en": "Globalization",
+          "mn": "Даяаршил"
+        },
+        {
+          "en": "Urbanization",
+          "mn": "Хотжилт"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Urbanization is the process of global population moving into cities. More than half of the global population currently lives in urban areas.",
+        "mn": "Хотжилт гэдэг нь дэлхийн хүн ам хот руу шилжих үйл явц юм. Өнөөдөр дэлхийн нийт хүн амын талаас илүү хувь нь хотод амьдарч байна."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.rivers",
+      "key": "geography.rivers.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which of these is North America's longest river system?",
+        "mn": "Хойд Америкийн хамгийн урт мөрний систем аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Mississippi-Missouri",
+          "mn": "Миссисипи-Миссури"
+        },
+        {
+          "en": "Colorado",
+          "mn": "Колорадо"
+        },
+        {
+          "en": "Yukon",
+          "mn": "Юкон"
+        },
+        {
+          "en": "Rio Grande",
+          "mn": "Рио-Гранде"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Mississippi-Missouri river system is the longest in North America, stretching over 6,200 kilometers. It drains water from 31 US states and two Canadian provinces.",
+        "mn": "Миссисипи-Миссури мөрний систем нь 6200 гаруй километр үргэлжилдэг Хойд Америкийн хамгийн урт систем юм. Энэ нь АНУ-ын 31 муж, Канадын хоёр мужийн нутаг дэвсгэрийг дайран урсдаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.rivers",
+      "key": "geography.rivers.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Why is it difficult to determine the exact length of a river?",
+        "mn": "Мөрний яг таг уртыг тодорхойлоход юу хамгийн их хүндрэл учруулдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Political borders blocking access",
+          "mn": "Улс төрийн хил хязгаар нэвтрэхэд саад болох"
+        },
+        {
+          "en": "Evaporation rates changing daily",
+          "mn": "Өдөр тутмын ууршилтын хэмжээ өөрчлөгдөх"
+        },
+        {
+          "en": "The change in seasonal tides",
+          "mn": "Улирлын чанартай далайн түрлэг"
+        },
+        {
+          "en": "Finding the precise source",
+          "mn": "Эх ундаргаа хаанаас эхэлж байгааг тогтоох"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Determining a river's length is challenging because identifying its exact source and furthest tributary is often difficult. Different measurement methods can yield very different lengths.",
+        "mn": "Мөрний уртыг хэмжихэд хамгийн хол орших эх ундарга, цутгал голыг нарийн тогтоох нь хэцүү байдаг. Хэмжилтийн өөр өөр аргуудаас шалтгаалж урт нь зөрүүтэй гардаг байна."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.rivers",
+      "key": "geography.rivers.g3",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The Yenisei River system, which originates partly in Mongolia, empties into which ocean?",
+        "mn": "Монголоос эх авдаг Енисей мөрний систем аль далайд цутгадаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Indian Ocean",
+          "mn": "Энэтхэгийн далай"
+        },
+        {
+          "en": "Atlantic Ocean",
+          "mn": "Атлантын далай"
+        },
+        {
+          "en": "Pacific Ocean",
+          "mn": "Номхон далай"
+        },
+        {
+          "en": "Arctic Ocean",
+          "mn": "Хойд мөсөн далай"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Yenisei River flows north through Siberia and empties into the Kara Sea, which is part of the Arctic Ocean. It is the largest river system flowing into the Arctic.",
+        "mn": "Енисей мөрөн Сибирээр дамжин хойд зүгийг чиглэн урсаж, Хойд мөсөн далайн Карскийн тэнгист цутгадаг. Энэ нь Хойд мөсөн далайд цутгадаг хамгийн том мөрний систем юм."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.rivers",
+      "key": "geography.rivers.g4",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of these major world rivers is located entirely within a single country?",
+        "mn": "Дэлхийн эдгээр томоохон мөрнүүдээс аль нь бүхэлдээ ганцхан улсын нутаг дэвсгэрт урсдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Mekong",
+          "mn": "Меконг"
+        },
+        {
+          "en": "Nile",
+          "mn": "Нил"
+        },
+        {
+          "en": "Amazon",
+          "mn": "Амазон"
+        },
+        {
+          "en": "Yangtze",
+          "mn": "Янцзы"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Yangtze River is the longest river in Asia and flows entirely within the borders of China. In contrast, the Nile, Amazon, and Mekong all cross multiple international borders.",
+        "mn": "Янцзы мөрөн нь Азийн хамгийн урт мөрөн бөгөөд бүхэлдээ БНХАУ-ын нутаг дэвсгэрээр урсдаг. Харин Нил, Амазон, Меконг мөрнүүд хэд хэдэн улсын хил дамнан урсдаг байна."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.rivers",
+      "key": "geography.rivers.g5",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which river is famously known as the 'Yellow River' due to the color of its silt?",
+        "mn": "Тунадас шаврынхаа өнгөнөөс болж 'Шар мөрөн' гэж алдаршсан гол аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Yangtze",
+          "mn": "Янцзы"
+        },
+        {
+          "en": "Ganges",
+          "mn": "Ганга"
+        },
+        {
+          "en": "Huang He",
+          "mn": "Хуанхэ"
+        },
+        {
+          "en": "Mekong",
+          "mn": "Меконг"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Huang He, or Yellow River, gets its distinct yellow-brown color from the massive amounts of loose soil (loess) it carries. It is considered the cradle of Chinese civilization.",
+        "mn": "Хуанхэ буюу Шар мөрөн нь их хэмжээний шаварлаг хөрсийг урсган зөөдөг тул шар өнгөтэй харагддаг. Энэхүү мөрний сав газрыг Хятадын соёл иргэншлийн өлгий гэж үздэг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.rivers",
+      "key": "geography.rivers.g6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Approximately what percentage of the world's river water runoff is carried by the Amazon River?",
+        "mn": "Дэлхийн далайд цутгаж буй нийт гол мөрний усны ойролцоогоор хэдэн хувийг Амазон мөрөн дангаараа бүрдүүлдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "10%",
+          "mn": "10%"
+        },
+        {
+          "en": "20%",
+          "mn": "20%"
+        },
+        {
+          "en": "5%",
+          "mn": "5%"
+        },
+        {
+          "en": "50%",
+          "mn": "50%"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Amazon River carries about 20% (one fifth) of the world's total river flow. Its discharge is greater than the next seven largest rivers combined.",
+        "mn": "Амазон мөрөн дэлхийн нийт гол мөрний урсацын 20 хувийг (тавны нэг) дангаараа бүрдүүлдэг. Түүний усны урсгал нь араасаа орох хамгийн том 7 голын нийлбэрээс ч их байдаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.rivers",
+      "key": "geography.rivers.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of these rivers is NOT among the top five longest in the world?",
+        "mn": "Дараах мөрнүүдийн аль нь дэлхийн хамгийн урт таван мөрний тоонд ордоггүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Mississippi-Missouri",
+          "mn": "Миссисипи-Миссури"
+        },
+        {
+          "en": "Paraná",
+          "mn": "Парана"
+        },
+        {
+          "en": "Yangtze",
+          "mn": "Янцзы"
+        },
+        {
+          "en": "Nile",
+          "mn": "Нил"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Paraná River in South America is about 4,880 km long, which makes it very long, but not in the top five. The top five includes the Nile, Amazon, Yangtze, Mississippi-Missouri, and Yenisei.",
+        "mn": "Өмнөд Америкийн Парана мөрөн нь 4880 км урттай бөгөөд маш урт боловч дэлхийн шилдэг таван урт мөрний жагсаалтад багтдаггүй. Эхний тавд Нил, Амазон, Янцзы, Миссисипи-Миссури, Енисей мөрнүүд ордог."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.rivers",
+      "key": "geography.rivers.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Into which body of water does the Nile River empty?",
+        "mn": "Нил мөрөн аль тэнгист цутгадаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Mediterranean Sea",
+          "mn": "Газар дундын тэнгис"
+        },
+        {
+          "en": "Red Sea",
+          "mn": "Улаан тэнгис"
+        },
+        {
+          "en": "Indian Ocean",
+          "mn": "Энэтхэгийн далай"
+        },
+        {
+          "en": "Persian Gulf",
+          "mn": "Персийн булан"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Nile flows northward through northeastern Africa and empties into the Mediterranean Sea. It forms a massive, fertile delta in Egypt before reaching the sea.",
+        "mn": "Нил мөрөн Африк тивийн зүүн хойд хэсгээр хойд зүгт урсаж, Газар дундын тэнгист цутгадаг. Тэнгист цутгахынхаа өмнө Египетэд асар том үржил шимт бэлчир газрыг үүсгэдэг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.rivers",
+      "key": "geography.rivers.g9",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which river system is the longest in the world if we measure by the continuous freshwater flow originating in Mongolia?",
+        "mn": "Монгол улсаас эх аван урсдаг хамгийн урт цэнгэг усны мөрний систем аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Lena",
+          "mn": "Лена"
+        },
+        {
+          "en": "Amur-Shilka-Onon",
+          "mn": "Амур-Шилка-Онон"
+        },
+        {
+          "en": "Ob-Irtysh",
+          "mn": "Обь-Эрчис"
+        },
+        {
+          "en": "Yenisei-Angara-Selenge",
+          "mn": "Енисей-Ангар-Сэлэнгэ"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Yenisei-Angara-Selenge system is the 5th longest river system in the world. It starts with the Selenge River in Mongolia, flows into Lake Baikal, and exits as the Angara to join the Yenisei.",
+        "mn": "Енисей-Ангар-Сэлэнгэ мөрний систем нь дэлхийн 5 дахь урт систем юм. Энэ нь Монголын Сэлэнгэ мөрнөөс эх авч, Байгал нуурт цутган, тэндээсээ Ангар мөрөн болон гарч Енисейтэй нэгддэг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.rivers",
+      "key": "geography.rivers.g10",
+      "difficulty": 1,
+      "prompt": {
+        "en": "On which continent is the Yangtze, the world's third-longest river, located?",
+        "mn": "Дэлхийн гуравдахь урт мөрөн болох Янцзы аль тивд байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Africa",
+          "mn": "Африк"
+        },
+        {
+          "en": "North America",
+          "mn": "Хойд Америк"
+        },
+        {
+          "en": "Europe",
+          "mn": "Европ"
+        },
+        {
+          "en": "Asia",
+          "mn": "Ази"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Yangtze River is located entirely in Asia, specifically in China. It is the longest river on the Asian continent and the third-longest in the world.",
+        "mn": "Янцзы мөрөн нь бүхэлдээ Ази тивд, тодруулбал Хятад улсад байрладаг. Энэ нь Ази тивийн хамгийн урт, дэлхийн гурав дахь урт мөрөн юм."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.oceans",
+      "key": "geography.oceans.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which ocean is named after a country in South Asia?",
+        "mn": "Өмнөд Азийн нэгэн улсын нэрээр нэрлэгдсэн далай аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Indian Ocean",
+          "mn": "Энэтхэгийн далай"
+        },
+        {
+          "en": "Pacific Ocean",
+          "mn": "Номхон далай"
+        },
+        {
+          "en": "Atlantic Ocean",
+          "mn": "Атлантын далай"
+        },
+        {
+          "en": "Arctic Ocean",
+          "mn": "Хойд мөсөн далай"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Indian Ocean is named after India, which forms a major peninsula in its northern part. It is the third-largest of the world's five oceans.",
+        "mn": "Энэтхэгийн далай нь хойд талд нь орших Энэтхэг улсын нэрээр нэрлэгдсэн бөгөөд хэмжээгээрээ дэлхийд гуравдугаарт ордог."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.oceans",
+      "key": "geography.oceans.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which ocean is known for containing the Ring of Fire, a region with high volcanic and seismic activity?",
+        "mn": "Галт уул болон газар хөдлөлтийн идэвхтэй бүс болох 'Галт цагираг' аль далайд байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Indian Ocean",
+          "mn": "Энэтхэгийн далай"
+        },
+        {
+          "en": "Pacific Ocean",
+          "mn": "Номхон далай"
+        },
+        {
+          "en": "Southern Ocean",
+          "mn": "Өмнөд далай"
+        },
+        {
+          "en": "Atlantic Ocean",
+          "mn": "Атлантын далай"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Pacific Ring of Fire is a 40,000 km horseshoe-shaped area where about 90% of the world's earthquakes occur. It is home to over 450 volcanoes.",
+        "mn": "Номхон далайн 'Галт цагираг' нь 40,000 км урт үргэлжилсэн тах хэлбэртэй бүс бөгөөд дэлхийн газар хөдлөлтийн 90 орчим хувь нь энд болдог."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.oceans",
+      "key": "geography.oceans.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of these is NOT one of the officially recognized five oceans on Earth?",
+        "mn": "Дараах усан мандалуудын аль нь дэлхийн албан ёсны таван далайн тоонд ордоггүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Indian Ocean",
+          "mn": "Энэтхэгийн далай"
+        },
+        {
+          "en": "Mediterranean Sea",
+          "mn": "Газар дундын тэнгис"
+        },
+        {
+          "en": "Arctic Ocean",
+          "mn": "Хойд мөсөн далай"
+        },
+        {
+          "en": "Southern Ocean",
+          "mn": "Өмнөд далай"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Mediterranean Sea is a sea connected to the Atlantic Ocean, not one of the five major oceans. It is almost completely enclosed by land.",
+        "mn": "Газар дундын тэнгис нь Атлантын далайтай холбогддог тэнгис бөгөөд таван том далайн тоонд ордоггүй, бараг бүхэлдээ эх газраар хүрээлэгдсэн байдаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.oceans",
+      "key": "geography.oceans.g4",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which ocean is home to the Sargasso Sea, the only sea on Earth with no land boundaries?",
+        "mn": "Дэлхий дээрх цорын ганц эрэг хязгааргүй тэнгис болох Саргассын тэнгис аль далайд байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Pacific Ocean",
+          "mn": "Номхон далай"
+        },
+        {
+          "en": "Atlantic Ocean",
+          "mn": "Атлантын далай"
+        },
+        {
+          "en": "Southern Ocean",
+          "mn": "Өмнөд далай"
+        },
+        {
+          "en": "Indian Ocean",
+          "mn": "Энэтхэгийн далай"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Sargasso Sea is located in the North Atlantic Ocean and is bounded by four ocean currents instead of land. It is named after the Sargassum seaweed that floats there.",
+        "mn": "Саргассын тэнгис нь Хойд Атлантын далайд оршдог бөгөөд хуурай газраар биш, далайн дөрвөн урсгалаар хязгаарлагддаг онцлогтой."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.oceans",
+      "key": "geography.oceans.g5",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What percentage of the Earth's surface is covered by oceans?",
+        "mn": "Дэлхийн гадаргуугийн ойролцоогоор хэдэн хувийг далай тэнгис эзэлдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "About 90%",
+          "mn": "Ойролцоогоор 90%"
+        },
+        {
+          "en": "About 71%",
+          "mn": "Ойролцоогоор 71%"
+        },
+        {
+          "en": "About 50%",
+          "mn": "Ойролцоогоор 50%"
+        },
+        {
+          "en": "About 35%",
+          "mn": "Ойролцоогоор 35%"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Oceans cover about 71% of the Earth's surface and contain 97% of the planet's water. They play a vital role in regulating the Earth's climate.",
+        "mn": "Далай тэнгис нь дэлхийн гадаргуугийн 71 орчим хувийг бүрхэж, дэлхий дээрх нийт усны 97 хувийг агуулдаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.oceans",
+      "key": "geography.oceans.g6",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which ocean is the saltiest on average?",
+        "mn": "Дундаж давсжилтаараа хамгийн өндөр далай аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Atlantic Ocean",
+          "mn": "Атлантын далай"
+        },
+        {
+          "en": "Pacific Ocean",
+          "mn": "Номхон далай"
+        },
+        {
+          "en": "Indian Ocean",
+          "mn": "Энэтхэгийн далай"
+        },
+        {
+          "en": "Arctic Ocean",
+          "mn": "Хойд мөсөн далай"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Atlantic Ocean is the saltiest of the major oceans. High evaporation rates and low freshwater runoff in certain areas contribute to its salinity.",
+        "mn": "Атлантын далай нь бусад далайнуудаа бодвол хамгийн их давсжилттай байдаг. Энэ нь ууршилт их, цэнгэг усны цутгал бага байдагтай холбоотой."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.oceans",
+      "key": "geography.oceans.g7",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The Titanic sank in which of the five oceans?",
+        "mn": "Титаник хөлөг онгоц таван далайн алинд нь живсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Arctic Ocean",
+          "mn": "Хойд мөсөн далай"
+        },
+        {
+          "en": "Atlantic Ocean",
+          "mn": "Атлантын далай"
+        },
+        {
+          "en": "Indian Ocean",
+          "mn": "Энэтхэгийн далай"
+        },
+        {
+          "en": "Pacific Ocean",
+          "mn": "Номхон далай"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Titanic sank in the North Atlantic Ocean in 1912 after hitting an iceberg on its maiden voyage from Southampton to New York.",
+        "mn": "Титаник хөлөг онгоц 1912 онд Саутхемптоноос Нью-Йорк руу хийсэн анхны аяллынхаа үеэр мөсөн уул мөргөж, Хойд Атлантын далайд живжээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.oceans",
+      "key": "geography.oceans.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which ocean was the most recently recognized by the International Hydrographic Organization (in 2000)?",
+        "mn": "Олон улсын гидрографийн байгууллагаас хамгийн сүүлд (2000 онд) албан ёсоор тусгаарлан бүртгэсэн далай аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Southern Ocean",
+          "mn": "Өмнөд далай"
+        },
+        {
+          "en": "Arctic Ocean",
+          "mn": "Хойд мөсөн далай"
+        },
+        {
+          "en": "Indian Ocean",
+          "mn": "Энэтхэгийн далай"
+        },
+        {
+          "en": "Atlantic Ocean",
+          "mn": "Атлантын далай"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Southern Ocean (or Antarctic Ocean) was officially defined in 2000, combining the southern portions of the Pacific, Atlantic, and Indian Oceans.",
+        "mn": "Өмнөд далайг (эсвэл Антарктидын далай) 2000 онд Номхон, Атлантын болон Энэтхэгийн далайн өмнөд хэсгүүдийг нэгтгэн албан ёсоор тодорхойлсон."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.oceans",
+      "key": "geography.oceans.g9",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which ocean contains the Java Trench, its deepest point at over 7,000 meters?",
+        "mn": "Хамгийн гүн цэг болох Явын хотгор (7,000 гаруй метр гүн) аль далайд байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Arctic Ocean",
+          "mn": "Хойд мөсөн далай"
+        },
+        {
+          "en": "Pacific Ocean",
+          "mn": "Номхон далай"
+        },
+        {
+          "en": "Southern Ocean",
+          "mn": "Өмнөд далай"
+        },
+        {
+          "en": "Indian Ocean",
+          "mn": "Энэтхэгийн далай"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Java Trench (also called Sunda Double Trench) is the deepest point in the Indian Ocean, reaching a depth of about 7,192 meters.",
+        "mn": "Явын хотгор (мөн Зондын хотгор гэгддэг) нь Энэтхэгийн далайн хамгийн гүн цэг бөгөөд ойролцоогоор 7,192 метр гүнд хүрдэг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mountains",
+      "key": "geography.mountains.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In which continent are all 14 of the world's mountains over 8,000 meters located?",
+        "mn": "Дэлхийн 8,000 метрээс дээш өндөртэй 14 оргил бүгд аль тивд оршдог вэ?"
+      },
+      "choices": [
+        {
+          "en": "South America",
+          "mn": "Өмнөд Америк"
+        },
+        {
+          "en": "Europe",
+          "mn": "Европ"
+        },
+        {
+          "en": "Asia",
+          "mn": "Ази"
+        },
+        {
+          "en": "North America",
+          "mn": "Хойд Америк"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "All 14 peaks above 8,000 meters, known as the 'Eight-Thousanders', are located in Asia, specifically in the Himalaya and Karakoram ranges.",
+        "mn": "8,000 метрээс дээш өндөртэй 'Найман мянгатууд' гэгддэг 14 оргил бүгд Ази тивд, тодруулбал Гималай болон Каракорумын нуруунд байдаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mountains",
+      "key": "geography.mountains.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Who were the first two climbers confirmed to have reached the summit of Mount Everest?",
+        "mn": "Эверестийн оргилд анх гарсан нь батлагдсан хоёр уулчин хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "George Mallory and Andrew Irvine",
+          "mn": "Жорж Мэллори, Эндрю Ирвин"
+        },
+        {
+          "en": "Junko Tabei and Ang Rita Sherpa",
+          "mn": "Жүнко Табэй, Анг Рита Шерпа"
+        },
+        {
+          "en": "Edmund Hillary and Tenzing Norgay",
+          "mn": "Эдмунд Хиллари, Тенцинг Норгей"
+        },
+        {
+          "en": "Reinhold Messner and Peter Habeler",
+          "mn": "Райнхольд Месснер, Петер Хабелер"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Sir Edmund Hillary of New Zealand and Tenzing Norgay, a Sherpa of Nepal, reached the summit of Mount Everest on May 29, 1953.",
+        "mn": "Шинэ Зеландын иргэн Сэр Эдмунд Хиллари, Непалын шерпа Тенцинг Норгей нар 1953 оны 5 дугаар сарын 29-нд Эверестийн оргилд анх хөл тавьжээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mountains",
+      "key": "geography.mountains.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of these countries does NOT share a border with Mount Everest?",
+        "mn": "Дараах улсуудын аль нь Эверест уултай хиллэдэггүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "China",
+          "mn": "Хятад"
+        },
+        {
+          "en": "Nepal",
+          "mn": "Балба"
+        },
+        {
+          "en": "None of the above",
+          "mn": "Дээрх бүгд хиллэдэг"
+        },
+        {
+          "en": "India",
+          "mn": "Энэтхэг"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Mount Everest sits directly on the international border between Nepal and China (Tibet). India is close but does not border the mountain itself.",
+        "mn": "Эверест уул нь Балба болон Хятад (Төвд)-ын хилийн шугам дээр оршдог. Энэтхэг улс ойрхон орших ч уултай шууд хиллэдэггүй."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mountains",
+      "key": "geography.mountains.g4",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of the following is the highest mountain in North America?",
+        "mn": "Хойд Америкийн хамгийн өндөр уул аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Mount Whitney",
+          "mn": "Уитни уул"
+        },
+        {
+          "en": "Mount Rainier",
+          "mn": "Рейнир уул"
+        },
+        {
+          "en": "Mount Logan",
+          "mn": "Логан уул"
+        },
+        {
+          "en": "Denali",
+          "mn": "Денали"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Denali, formerly known as Mount McKinley, is the highest peak in North America with an elevation of 6,190 meters. It is located in Alaska.",
+        "mn": "Аляскад орших Денали (хуучин нэрээр Мак-Кинли) уул нь 6,190 метр өндөр бөгөөд Хойд Америкийн хамгийн өндөр оргил юм."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mountains",
+      "key": "geography.mountains.g5",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which mountain is the highest peak in Europe (excluding the Caucasus boundary debate, or counting Elbrus as European)?",
+        "mn": "Европын хамгийн өндөр оргил аль нь вэ? (Эльбрусыг Европт тооцвол)"
+      },
+      "choices": [
+        {
+          "en": "Mount Olympus",
+          "mn": "Олимп уул"
+        },
+        {
+          "en": "Mont Blanc",
+          "mn": "Монблан"
+        },
+        {
+          "en": "Mount Elbrus",
+          "mn": "Эльбрус"
+        },
+        {
+          "en": "Matterhorn",
+          "mn": "Маттерхорн"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Mount Elbrus, located in Russia's Caucasus Mountains, is the highest peak in Europe at 5,642 meters. Mont Blanc is the highest in Western Europe.",
+        "mn": "ОХУ-ын Кавказын нуруунд орших Эльбрус уул нь 5,642 метр өндөртэй бөгөөд Европын хамгийн өндөр оргил юм. Баруун Европын хувьд Монблан хамгийн өндөр нь юм."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mountains",
+      "key": "geography.mountains.g6",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the highest mountain in Antarctica?",
+        "mn": "Антарктид тивийн хамгийн өндөр уул аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Mount Erebus",
+          "mn": "Эребус уул"
+        },
+        {
+          "en": "Mount Vinson",
+          "mn": "Винсон уул"
+        },
+        {
+          "en": "Mount Cook",
+          "mn": "Кук уул"
+        },
+        {
+          "en": "Mount Kosciuszko",
+          "mn": "Косцюшко уул"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Mount Vinson (or Vinson Massif) is the highest peak in Antarctica, rising to 4,892 meters. It was first climbed in 1966.",
+        "mn": "Винсон уул (Винсон массив) нь 4,892 метр өндөртэй, Антарктид тивийн хамгийн өндөр цэг юм. Энэ оргилд анх 1966 онд гарч байжээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mountains",
+      "key": "geography.mountains.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Who was the first woman to reach the summit of Mount Everest?",
+        "mn": "Эверестийн оргилд гарсан анхны эмэгтэй уулчин хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Junko Tabei",
+          "mn": "Жүнко Табэй"
+        },
+        {
+          "en": "Wanda Rutkiewicz",
+          "mn": "Ванда Руткевич"
+        },
+        {
+          "en": "Alison Hargreaves",
+          "mn": "Элисон Харгривз"
+        },
+        {
+          "en": "Gerlinde Kaltenbrunner",
+          "mn": "Герлинде Кальтенбруннер"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Japanese mountaineer Junko Tabei became the first woman to reach the summit of Mount Everest on May 16, 1975.",
+        "mn": "Японы уулчин эмэгтэй Жүнко Табэй 1975 оны 5 дугаар сарын 16-нд Эверестийн оргилд гарч, энэ оргилд хүрсэн анхны эмэгтэй болжээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mountains",
+      "key": "geography.mountains.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which mountain is the highest peak in mainland Australia?",
+        "mn": "Австрали тивийн эх газрын хамгийн өндөр уул аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Mount Cook",
+          "mn": "Кук уул"
+        },
+        {
+          "en": "Mount Wilhelm",
+          "mn": "Вильгельм уул"
+        },
+        {
+          "en": "Mount Kosciuszko",
+          "mn": "Косцюшко уул"
+        },
+        {
+          "en": "Puncak Jaya",
+          "mn": "Пунчак-Джая"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Mount Kosciuszko is the highest mountain on the Australian mainland at 2,228 meters. In the wider Oceania region, Puncak Jaya is higher.",
+        "mn": "Косцюшко уул нь 2,228 метр өндөртэй бөгөөд Австралийн эх газрын хамгийн өндөр уул юм. Харин Далайн орнуудын бүс нутгийг хамруулбал Пунчак-Джая илүү өндөр юм."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mountains",
+      "key": "geography.mountains.g9",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of the following mountains is the third-highest in the world?",
+        "mn": "Дэлхийн гурав дахь хамгийн өндөр уул аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Makalu",
+          "mn": "Макалу"
+        },
+        {
+          "en": "Lhotse",
+          "mn": "Лхоцзе"
+        },
+        {
+          "en": "Cho Oyu",
+          "mn": "Чо-Ойю"
+        },
+        {
+          "en": "Kangchenjunga",
+          "mn": "Канченжунга"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Kangchenjunga, rising to 8,586 meters, is the third-highest mountain in the world. It lies on the border between Nepal and India.",
+        "mn": "Канченжунга уул нь 8,586 метр өндөртэй бөгөөд дэлхийн гурав дахь хамгийн өндөр уул юм. Энэ нь Балба болон Энэтхэгийн хил дээр оршдог."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mountains",
+      "key": "geography.mountains.g10",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which famous active volcano is the highest peak in Africa?",
+        "mn": "Африк тивийн хамгийн өндөр цэг болох алдартай унтарсан галт уул аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Mount Kenya",
+          "mn": "Кени уул"
+        },
+        {
+          "en": "Mount Kilimanjaro",
+          "mn": "Килиманжаро уул"
+        },
+        {
+          "en": "Mount Cameroon",
+          "mn": "Камерун уул"
+        },
+        {
+          "en": "Mount Stanley",
+          "mn": "Стэнли уул"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Mount Kilimanjaro in Tanzania is the highest peak in Africa at 5,895 meters. It is also the tallest free-standing mountain rise in the world.",
+        "mn": "Танзани улсад орших Килиманжаро уул нь 5,895 метр өндөртэй, Африкийн хамгийн өндөр оргил юм. Энэ нь мөн дэлхийн хамгийн өндөр бие даасан ганц уул юм."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.capitals",
+      "key": "geography.capitals.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which city is the capital of Japan?",
+        "mn": "Япон улсын нийслэл аль хот вэ?"
+      },
+      "choices": [
+        {
+          "en": "Tokyo",
+          "mn": "Токио"
+        },
+        {
+          "en": "Osaka",
+          "mn": "Осака"
+        },
+        {
+          "en": "Hiroshima",
+          "mn": "Хирошима"
+        },
+        {
+          "en": "Kyoto",
+          "mn": "Киото"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Tokyo is the capital of Japan and the center of the world's most populous metropolitan area. It was known as Edo until 1868.",
+        "mn": "Токио бол Япон улсын нийслэл бөгөөд дэлхийн хамгийн олон хүн амтай хотын бөөгнөрөл юм. Энэ хотыг 1868 он хүртэл Эдо гэж нэрлэдэг байв."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.capitals",
+      "key": "geography.capitals.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the capital of the United States of America?",
+        "mn": "Америкийн Нэгдсэн Улсын нийслэл аль хот вэ?"
+      },
+      "choices": [
+        {
+          "en": "New York City",
+          "mn": "Нью-Йорк"
+        },
+        {
+          "en": "Los Angeles",
+          "mn": "Лосанжелес"
+        },
+        {
+          "en": "Washington, D.C.",
+          "mn": "Вашингтон"
+        },
+        {
+          "en": "Chicago",
+          "mn": "Чикаго"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Washington, D.C. is the capital of the United States, while New York City is the country's most populous city. The city was named after George Washington.",
+        "mn": "АНУ-ын нийслэл нь Вашингтон хот бөгөөд харин Нью-Йорк нь тус улсын хамгийн том, олон хүн амтай хот юм. Тус хотыг Жорж Вашингтоны нэрээр нэрлэжээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.capitals",
+      "key": "geography.capitals.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of these countries does NOT have its largest city as its capital?",
+        "mn": "Дараах улсуудын альных нь нийслэл хот нь улсдаа хамгийн том хот БИШ вэ?"
+      },
+      "choices": [
+        {
+          "en": "India",
+          "mn": "Энэтхэг"
+        },
+        {
+          "en": "United Kingdom",
+          "mn": "Их Британи"
+        },
+        {
+          "en": "Russia",
+          "mn": "Орос"
+        },
+        {
+          "en": "Egypt",
+          "mn": "Египет"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The capital of India is New Delhi, but Mumbai is its most populous city. Delhi and Mumbai are both among the largest urban areas in the world.",
+        "mn": "Энэтхэгийн нийслэл нь Шинэ Дели боловч хамгийн олон хүн амтай хот нь Мумбай юм. Дели болон Мумбай хотууд хоёулаа дэлхийн хамгийн том хотуудын тоонд ордог."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.capitals",
+      "key": "geography.capitals.g4",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which city is the capital of Germany?",
+        "mn": "Герман улсын нийслэл аль хот вэ?"
+      },
+      "choices": [
+        {
+          "en": "Hamburg",
+          "mn": "Хамбург"
+        },
+        {
+          "en": "Berlin",
+          "mn": "Берлин"
+        },
+        {
+          "en": "Frankfurt",
+          "mn": "Франкфурт"
+        },
+        {
+          "en": "Munich",
+          "mn": "Мюнхен"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Berlin is the capital and largest city of Germany. During the Cold War, the city was famously divided into East and West Berlin by a wall.",
+        "mn": "Берлин бол Герман улсын нийслэл бөгөөд хамгийн том хот нь юм. Хүйтэн дайны үед тус хотыг алдарт Берлиний ханаар Зүүн ба Баруун Берлин болгон хувааж байжээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.capitals",
+      "key": "geography.capitals.g5",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the capital city of Italy?",
+        "mn": "Итали улсын нийслэл аль хот вэ?"
+      },
+      "choices": [
+        {
+          "en": "Rome",
+          "mn": "Ром"
+        },
+        {
+          "en": "Milan",
+          "mn": "Милан"
+        },
+        {
+          "en": "Florence",
+          "mn": "Флоренци"
+        },
+        {
+          "en": "Venice",
+          "mn": "Венеци"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Rome is the capital of Italy and has a history spanning over 2,500 years. Enclosed within Rome is Vatican City, the smallest independent country in the world.",
+        "mn": "Ром бол Итали улсын нийслэл бөгөөд 2500 гаруй жилийн баялаг түүхтэй. Ром хотын дотор дэлхийн хамгийн жижиг тусгаар тогтносон улс болох Ватикан оршдог."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.capitals",
+      "key": "geography.capitals.g6",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which country has three official capitals sharing government duties?",
+        "mn": "Засгийн газрын эрх мэдлээ хуваан авсан гурван албан ёсны нийслэлтэй улс аль вэ?"
+      },
+      "choices": [
+        {
+          "en": "Switzerland",
+          "mn": "Швейцар"
+        },
+        {
+          "en": "South Africa",
+          "mn": "Өмнөд Африк"
+        },
+        {
+          "en": "Bolivia",
+          "mn": "Боливи"
+        },
+        {
+          "en": "Malaysia",
+          "mn": "Малайз"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "South Africa has three capitals: Pretoria (executive), Cape Town (legislative), and Bloemfontein (judicial). This division was made to balance power across different regions.",
+        "mn": "Өмнөд Африк нь гурван нийслэлтэй: Преториа (гүйцэтгэх засаглал), Кейптаун (хууль тогтоох засаглал), Блумфонтейн (шүүх засаглал). Энэхүү хуваарилалтыг бүс нутгуудын эрх мэдлийг тэнцвэржүүлэх зорилгоор хийжээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.capitals",
+      "key": "geography.capitals.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of the following European countries does NOT have a officially designated capital city by law, though Bern serves as its de facto capital?",
+        "mn": "Хэдийгээр Берн хот нь де-факто нийслэл гэгддэг ч хуулиараа албан ёсны нийслэл хотгүй Европын улс аль вэ?"
+      },
+      "choices": [
+        {
+          "en": "Austria",
+          "mn": "Австри"
+        },
+        {
+          "en": "Netherlands",
+          "mn": "Нидерланд"
+        },
+        {
+          "en": "Switzerland",
+          "mn": "Швейцар"
+        },
+        {
+          "en": "Belgium",
+          "mn": "Бельги"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Switzerland does not have an official capital city designated in its constitution; Bern is referred to as the 'federal city' and functions as the de facto capital.",
+        "mn": "Швейцар улсын үндсэн хуульд албан ёсны нийслэл хотыг заагаагүй байдаг бөгөөд Берн хотыг 'холбооны хот' гэж нэрлэн, де-факто нийслэл болгон ашигладаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.capitals",
+      "key": "geography.capitals.g8",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which city is the capital of China?",
+        "mn": "Хятад улсын нийслэл аль хот вэ?"
+      },
+      "choices": [
+        {
+          "en": "Hong Kong",
+          "mn": "Хонконг"
+        },
+        {
+          "en": "Shanghai",
+          "mn": "Шанхай"
+        },
+        {
+          "en": "Guangzhou",
+          "mn": "Гуанжоу"
+        },
+        {
+          "en": "Beijing",
+          "mn": "Бээжин"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Beijing is the capital of China and one of the oldest cities in the world. Shanghai is the country's most populous city proper.",
+        "mn": "Бээжин бол Хятад улсын нийслэл бөгөөд дэлхийн хамгийн эртний хотуудын нэг юм. Харин Шанхай бол тус улсын хамгийн олон хүн амтай хот билээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.capitals",
+      "key": "geography.capitals.g9",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which city is the capital of Russia?",
+        "mn": "Орос улсын нийслэл аль хот вэ?"
+      },
+      "choices": [
+        {
+          "en": "Saint Petersburg",
+          "mn": "Санкт-Петербург"
+        },
+        {
+          "en": "Moscow",
+          "mn": "Москва"
+        },
+        {
+          "en": "Novosibirsk",
+          "mn": "Новосибирск"
+        },
+        {
+          "en": "Kazan",
+          "mn": "Казань"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Moscow is the capital and largest city of Russia. It is the northernmost and coldest megacity on Earth.",
+        "mn": "Москва бол Орос улсын нийслэл бөгөөд хамгийн том хот нь юм. Энэ хот нь дэлхийн хамгийн хойд зүгт орших, хамгийн хүйтэн саятан хотод тооцогддог."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.countries",
+      "key": "geography.countries.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "How many time zones does Russia, the world's largest country, stretch across?",
+        "mn": "Дэлхийн хамгийн том газар нутагтай Орос улс хэдэн цагийн бүсэд хуваагддаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "11 time zones",
+          "mn": "11 цагийн бүс"
+        },
+        {
+          "en": "3 time zones",
+          "mn": "3 цагийн бүс"
+        },
+        {
+          "en": "9 time zones",
+          "mn": "9 цагийн бүс"
+        },
+        {
+          "en": "5 time zones",
+          "mn": "5 цагийн бүс"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Russia is so wide that it stretches across 11 different time zones. This means that when it is morning in western Russia, it is already evening in the Far East.",
+        "mn": "Орос улс маш уудам газар нутагтай тул 11 өөр цагийн бүсийг дамнан оршдог. Энэ нь тус улсын баруун хязгаарт өглөө болж байхад Алс Дорнодод аль хэдийн орой болсон байдаг гэсэн үг юм."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.countries",
+      "key": "geography.countries.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of these European and Asian giant countries borders only two other nations?",
+        "mn": "Европ, Азийн заагт орших дараах аварга том улсуудын аль нь ердөө хоёрхон улстай хиллэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Mongolia",
+          "mn": "Монгол"
+        },
+        {
+          "en": "Kazakhstan",
+          "mn": "Казахстан"
+        },
+        {
+          "en": "India",
+          "mn": "Энэтхэг"
+        },
+        {
+          "en": "China",
+          "mn": "Хятад"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Mongolia is sandwiched entirely between Russia to the north and China to the south. Despite its massive size of 1.56 million km², it has only these two neighbors.",
+        "mn": "Монгол улс нь хойд талаараа Орос, урд талаараа Хятад улстай хиллэдэг. 1.56 сая км² уудам газар нутагтай хэдий ч ердөө энэ хоёр улстай л хил залгадаг байна."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.countries",
+      "key": "geography.countries.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of the following is the largest country located entirely within the southern hemisphere?",
+        "mn": "Дараах улсуудаас бүхэлдээ дэлхийн өмнөд хагаст оршдог хамгийн том улс аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Brazil",
+          "mn": "Бразил"
+        },
+        {
+          "en": "South Africa",
+          "mn": "Өмнөд Африкийн Бүгд Найрамдах Улс"
+        },
+        {
+          "en": "Australia",
+          "mn": "Австрали"
+        },
+        {
+          "en": "Argentina",
+          "mn": "Аргентин"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Australia is the largest country located entirely in the southern hemisphere. While Brazil is larger, the equator passes through its northern territory.",
+        "mn": "Австрали бол бүхэлдээ дэлхийн өмнөд хагаст байрладаг хамгийн том улс юм. Бразил нь газар нутгаар илүү том боловч экваторын шугам хойд хэсгийг нь дайран өнгөрдөг байна."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.countries",
+      "key": "geography.countries.g4",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which is the largest country in Oceania, taking up most of its continent's landmass?",
+        "mn": "Далайн орнууд (Океани) дотроос хамгийн том газар нутагтай улс аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Australia",
+          "mn": "Австрали"
+        },
+        {
+          "en": "Papua New Guinea",
+          "mn": "Папуа Шинэ Гвиней"
+        },
+        {
+          "en": "New Zealand",
+          "mn": "Шинэ Зеланд"
+        },
+        {
+          "en": "Indonesia",
+          "mn": "Индонез"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Australia covers about 7.7 million km², making it the sixth-largest country globally and the dominant nation in Oceania. It is also the only country to govern an entire continent.",
+        "mn": "Австрали улс нь 7.7 сая км² газар нутагтай бөгөөд дэлхийд зургадугаарт, далайн орнууд дотроо нэгдүгээрт ордог. Түүнчлэн бүхэл бүтэн тивийг ганцаараа эзэлдэг цорын ганц улс юм."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.countries",
+      "key": "geography.countries.g5",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of these giant countries has the highest number of land borders, sharing them with 14 neighboring nations?",
+        "mn": "Дараах аварга том улсуудаас хамгийн олон буюу 14 улстай хуурай газраар хиллэдэг улс аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Brazil",
+          "mn": "Бразил"
+        },
+        {
+          "en": "India",
+          "mn": "Энэтхэг"
+        },
+        {
+          "en": "Canada",
+          "mn": "Канад"
+        },
+        {
+          "en": "Russia",
+          "mn": "Орос"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Russia and China share the record for the most land borders, each bordering 14 sovereign countries. Russia's borders stretch across Europe and Asia.",
+        "mn": "Орос болон Хятад улсууд нь тус бүр 14 тусгаар тогтносон улстай хиллэдэг бөгөөд энэ нь дэлхийн хамгийн олон хил залгаа хөрштэй рекорд юм. Оросын хил Европ болон Азийг дамнадаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.countries",
+      "key": "geography.countries.g6",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Why do official lists sometimes switch the 3rd and 4th place rankings of China and the USA?",
+        "mn": "АНУ болон Хятад улсуудын газар нутгийн хэмжээ, дэлхийн 3 болон 4 дүгээр байрын дараалал яагаад заримдаа өөр өөрөөр бичигддэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Different map projections",
+          "mn": "Газрын зургийн проекцын ялгаанаас болж"
+        },
+        {
+          "en": "Due to tectonic plate movements",
+          "mn": "Тектоник хавтангийн шилжилт хөдөлгөөнөөс болж"
+        },
+        {
+          "en": "How coastal and territorial waters are counted",
+          "mn": "Далайн эрэг болон усан нутаг дэвсгэрийг хэрхэн тооцохоос шалтгаалж"
+        },
+        {
+          "en": "Because of seasonal ice melt",
+          "mn": "Улирлын чанартай мөсний хайлтоос болж"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The order of the USA and China depends on whether coastal and territorial waters are included in the calculation. Some sources count only land area, while others include water bodies.",
+        "mn": "АНУ, Хятадын дараалал нь нутаг дэвсгэрийн усан мандал болон эргийн усыг хэрхэн тооцохоос хамаардаг. Зарим эх сурвалж зөвхөн хуурай газрыг тоолдог бол зарим нь усан талбайг оруулж тооцдог байна."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.countries",
+      "key": "geography.countries.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of these European Union countries is the largest by land area?",
+        "mn": "Европын Холбооны гишүүн орнууд дундаас хамгийн том газар нутагтай улс аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Sweden",
+          "mn": "Швед"
+        },
+        {
+          "en": "Germany",
+          "mn": "Герман"
+        },
+        {
+          "en": "France",
+          "mn": "Франц"
+        },
+        {
+          "en": "Spain",
+          "mn": "Испани"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "France is the largest country in the European Union by area. While Russia and Ukraine are larger, they are not members of the EU.",
+        "mn": "Франц улс нь Европын Холбооны гишүүн орнууд дундаас хамгийн том газар нутагтай нь юм. Орос, Украин улсууд газар нутгаар илүү том боловч Европын Холбооны гишүүн биш билээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.countries",
+      "key": "geography.countries.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of the following countries is larger than the entire continent of Australia?",
+        "mn": "Дараах улсуудын аль нь Австрали тивээс бүхэлд нь авч үзсэн ч том газар нутагтай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Brazil",
+          "mn": "Бразил"
+        },
+        {
+          "en": "India",
+          "mn": "Энэтхэг"
+        },
+        {
+          "en": "Kazakhstan",
+          "mn": "Казахстан"
+        },
+        {
+          "en": "Argentina",
+          "mn": "Аргентин"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Brazil has an area of about 8.5 million km², which is larger than the Australian mainland (about 7.7 million km²). Brazil is the fifth-largest country in the world.",
+        "mn": "Бразил улсын газар нутаг 8.5 сая км² орчим бөгөөд энэ нь Австрали тивийн эх газраас (7.7 сая км² орчим) том юм. Бразил нь дэлхийн тав дахь том улс билээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.countries",
+      "key": "geography.countries.g9",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which is the largest country in South Asia, taking up most of the Indian subcontinent?",
+        "mn": "Өмнөд Азийн хамгийн том газар нутагтай улс аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Bangladesh",
+          "mn": "Бангладеш"
+        },
+        {
+          "en": "India",
+          "mn": "Энэтхэг"
+        },
+        {
+          "en": "Nepal",
+          "mn": "Непал"
+        },
+        {
+          "en": "Pakistan",
+          "mn": "Пакистан"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "India is the largest country in South Asia and the seventh-largest in the world, with an area of about 3.3 million km². It is also the most populous country in the world.",
+        "mn": "Энэтхэг улс нь Өмнөд Азийн хамгийн том, дэлхийн долоо дахь том улс бөгөөд 3.3 сая км² орчим газар нутагтай. Түүнчлэн дэлхийн хамгийн олон хүн амтай улс юм."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.records",
+      "key": "geography.records.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which of these is the largest lake in the world by surface area?",
+        "mn": "Дэлхийн гадаргуугийн талбайгаараа хамгийн том нуур аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Lake Baikal",
+          "mn": "Байгаль нуур"
+        },
+        {
+          "en": "Lake Superior",
+          "mn": "Дээд нуур"
+        },
+        {
+          "en": "Caspian Sea",
+          "mn": "Каспийн тэнгис"
+        },
+        {
+          "en": "Lake Victoria",
+          "mn": "Викториа нуур"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Caspian Sea is the world's largest lake by area, covering about 371,000 square kilometers. Although it is called a sea because of its size and salinity, it is technically a landlocked lake.",
+        "mn": "Каспийн тэнгис нь ойролцоогоор 371,000 хавтгай дөрвөлжин километр талбайтай, дэлхийн хамгийн том нуур юм. Хэмжээ болон давстай байдлаас нь шалтгаалж тэнгис гэж нэрлэдэг боловч гадагш урсгалгүй нуур юм."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.records",
+      "key": "geography.records.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In which South American country is Angel Falls, the world's highest waterfall, located?",
+        "mn": "Дэлхийн хамгийн өндөр Анхель хүрхрээ Өмнөд Америкийн аль улсад байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Brazil",
+          "mn": "Бразил"
+        },
+        {
+          "en": "Venezuela",
+          "mn": "Венесуэл"
+        },
+        {
+          "en": "Colombia",
+          "mn": "Колумби"
+        },
+        {
+          "en": "Peru",
+          "mn": "Перу"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Angel Falls is located in Venezuela and drops from a height of about 979 meters. It is so high that much of the falling water turns into mist before reaching the ground.",
+        "mn": "Анхель хүрхрээ нь Венесуэл улсад байдаг бөгөөд 979 метр орчим өндрөөс урсдаг. Хэтэрхий өндөр учраас унах усны ихэнх хэсэг нь газарт хүрэхээсээ өмнө мананцар болж хувирдаг байна."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.records",
+      "key": "geography.records.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which is the driest non-polar desert on Earth, where some areas have never recorded rain?",
+        "mn": "Зарим хэсэгт нь хэзээ ч бороо орж байгаагүй, дэлхийн хамгийн хуурай туйлын бус цөл аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Atacama Desert",
+          "mn": "Атакама цөл"
+        },
+        {
+          "en": "Kalahari Desert",
+          "mn": "Калахари цөл"
+        },
+        {
+          "en": "Gobi Desert",
+          "mn": "Говь цөл"
+        },
+        {
+          "en": "Sahara Desert",
+          "mn": "Сахар цөл"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Atacama Desert in Chile is the driest non-polar desert. Some weather stations there have never recorded a single drop of rain in history.",
+        "mn": "Чили улсад орших Атакама цөл нь туйлын бус хамгийн хуурай цөл юм. Тэндхийн зарим цаг уурын станцууд түүхэндээ нэг ч дусал бороо бүртгэж байгаагүй ажээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.records",
+      "key": "geography.records.g4",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Approximately how much of the world's unfrozen fresh surface water is held in Lake Baikal?",
+        "mn": "Байгаль нуурт дэлхийн хөлдөөгүй гадаргын цэвэр усны ойролцоогоор хэдэн хувь нь агуулагддаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "About 5%",
+          "mn": "Ойролцоогоор 5%"
+        },
+        {
+          "en": "About 10%",
+          "mn": "Ойролцоогоор 10%"
+        },
+        {
+          "en": "About 20%",
+          "mn": "Ойролцоогоор 20%"
+        },
+        {
+          "en": "About 50%",
+          "mn": "Ойролцоогоор 50%"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Lake Baikal holds about 20% of the world's unfrozen fresh surface water. It is also considered the oldest lake on Earth, dating back about 25 million years.",
+        "mn": "Байгаль нуур нь дэлхийн хөлдөөгүй гадаргын цэвэр усны 20 орчим хувийг агуулдаг. Мөн энэ нь дэлхийн хамгийн эртний нуур бөгөөд 25 сая орчим жилийн настай гэж үздэг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.records",
+      "key": "geography.records.g5",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which of these is NOT a characteristic of Vatican City?",
+        "mn": "Дараах шинж чанаруудын аль нь Ватикан хот-улсад хамаарахгүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "It is about 0.44 km²",
+          "mn": "Талбай нь ойролцоогоор 0.44 км²"
+        },
+        {
+          "en": "It is located inside Rome",
+          "mn": "Ром хотын дотор оршдог"
+        },
+        {
+          "en": "It is the smallest country",
+          "mn": "Дэлхийн хамгийн жижиг улс"
+        },
+        {
+          "en": "It is surrounded by ocean",
+          "mn": "Далайгаар хүрээлэгдсэн байдаг"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Vatican City is entirely landlocked and situated within the city limits of Rome, Italy. You can walk across the entire country in about 20 minutes.",
+        "mn": "Ватикан хот-улс нь Италийн Ром хотоор бүрэн хүрээлэгдсэн хуурай газрын улс юм. Энэ жижиг улсыг ердөө 20 минутын дотор алхаад туулчихдаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.records",
+      "key": "geography.records.g6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which ocean surrounds the icy desert continent of Antarctica?",
+        "mn": "Мөсөн цөл болох Антарктид тивийг ямар далай хүрээлдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Atlantic Ocean",
+          "mn": "Атлантын далай"
+        },
+        {
+          "en": "Arctic Ocean",
+          "mn": "Хойд мөсөн далай"
+        },
+        {
+          "en": "Indian Ocean",
+          "mn": "Энэтхэгийн далай"
+        },
+        {
+          "en": "Southern Ocean",
+          "mn": "Өмнөд далай"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Antarctica, the largest desert in the world, is entirely surrounded by the Southern Ocean (also known as the Antarctic Ocean).",
+        "mn": "Дэлхийн хамгийн том цөл болох Антарктид тивийг Өмнөд далай (мөн Антарктидын далай гэж нэрлэдэг) бүрэн хүрээлдэг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.records",
+      "key": "geography.records.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Greenland is the largest island in the world, but which country does it politically belong to?",
+        "mn": "Гренланд нь дэлхийн хамгийн том арал боловч улс төрийн хувьд аль улсад харьяалагддаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Iceland",
+          "mn": "Исланд"
+        },
+        {
+          "en": "Norway",
+          "mn": "Норвеги"
+        },
+        {
+          "en": "Denmark",
+          "mn": "Дани"
+        },
+        {
+          "en": "Canada",
+          "mn": "Канад"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Greenland is an autonomous territory within the Kingdom of Denmark. Despite its geographic location in North America, it has close political ties with Europe.",
+        "mn": "Гренланд нь Данийн Хаант Улсын харьяа өөртөө засах орон юм. Газар зүйн хувьд Хойд Америкт байрладаг ч улс төрийн хувьд Европтой нягт холбоотой."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.records",
+      "key": "geography.records.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The Sahara is the largest hot desert, but on which continent is it located?",
+        "mn": "Сахар нь хамгийн том халуун цөл боловч аль тивд оршдог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Australia",
+          "mn": "Австрали"
+        },
+        {
+          "en": "Asia",
+          "mn": "Ази"
+        },
+        {
+          "en": "Africa",
+          "mn": "Африк"
+        },
+        {
+          "en": "South America",
+          "mn": "Өмнөд Америк"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Sahara Desert covers much of North Africa, spanning about 9.2 million square kilometers. It is almost as large as the entire United States.",
+        "mn": "Сахар цөл нь Хойд Африкийн ихэнх хэсгийг эзлэн оршдог бөгөөд 9.2 сая хавтгай дөрвөлжин километр талбайтай. Энэ нь бараг АНУ-ын газар нутагтай тэнцэхүйц том юм."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.records",
+      "key": "geography.records.g9",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of these is the deepest ocean trench on Earth?",
+        "mn": "Дэлхийн хамгийн гүн далайн хотгор аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Tonga Trench",
+          "mn": "Тонга хотгор"
+        },
+        {
+          "en": "Puerto Rico Trench",
+          "mn": "Пуэрто-Рикогийн хотгор"
+        },
+        {
+          "en": "Mariana Trench",
+          "mn": "Марианы хотгор"
+        },
+        {
+          "en": "Java Trench",
+          "mn": "Ява хотгор"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Challenger Deep in the Mariana Trench is the deepest known point in Earth's oceans, reaching nearly 11,000 meters down in the Pacific Ocean.",
+        "mn": "Номхон далайд байрлах Марианы хотгорын Челленжерийн ангал нь дэлхийн далайн хамгийн гүн цэг бөгөөд бараг 11,000 метр гүнд хүрдэг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.records",
+      "key": "geography.records.g10",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which is the longest river in the world?",
+        "mn": "Дэлхийн хамгийн урт мөрөн аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Nile River",
+          "mn": "Нил мөрөн"
+        },
+        {
+          "en": "Amazon River",
+          "mn": "Амазон мөрөн"
+        },
+        {
+          "en": "Mississippi River",
+          "mn": "Миссисипи мөрөн"
+        },
+        {
+          "en": "Yangtze River",
+          "mn": "Янзц мөрөн"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Nile River is traditionally considered the longest river in the world, stretching over 6,650 kilometers through northeastern Africa, though some scientists argue the Amazon is longer.",
+        "mn": "Нил мөрөн нь зүүн хойд Африкаар дамжин 6,650 гаруй километр урсах бөгөөд дэлхийн хамгийн урт мөрөнд тооцогддог. Гэвч зарим эрдэмтэд Амазоныг илүү урт гэж маргадаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mongolia",
+      "key": "geography.mongolia.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which country is Mongolia's neighbor to the north?",
+        "mn": "Монгол улсын хойд хилээр ямар улс хиллэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Japan",
+          "mn": "Япон"
+        },
+        {
+          "en": "Russia",
+          "mn": "Орос"
+        },
+        {
+          "en": "China",
+          "mn": "Хятад"
+        },
+        {
+          "en": "Kazakhstan",
+          "mn": "Казахстан"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Mongolia is bordered only by Russia to the north and China to the south. This makes it one of the largest landlocked nations in the world.",
+        "mn": "Монгол улс нь хойд талаараа ОХУ-тай, өмнөд талаараа БНХАУ-тай хиллэдэг далайд гарцгүй орон юм."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mongolia",
+      "key": "geography.mongolia.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which major river flows from Mongolia into Russia's Lake Baikal?",
+        "mn": "Монгол орноос эх авч Оросын Байгал нуур руу урсдаг ямар том гол байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Tuul River",
+          "mn": "Туул гол"
+        },
+        {
+          "en": "Zavkhan River",
+          "mn": "Завхан гол"
+        },
+        {
+          "en": "Selenge River",
+          "mn": "Сэлэнгэ мөрөн"
+        },
+        {
+          "en": "Kherlen River",
+          "mn": "Хэрлэн гол"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Selenge River is Mongolia's largest river by water volume. It flows northwards and is the main source of water for Lake Baikal, the deepest lake in the world.",
+        "mn": "Сэлэнгэ мөрөн нь Монголын хамгийн их усан агууламжтай гол бөгөөд дэлхийн хамгийн гүн Байгал нуурт цутгадаг гол эх үүсвэр юм."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mongolia",
+      "key": "geography.mongolia.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the poetic nickname of Mongolia, inspired by its clear weather?",
+        "mn": "Цэлмэг цаг агаараас нь үүдэлтэй Монгол орны яруу найргийн хоч нэр юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Land of the Green Steppe",
+          "mn": "Ногоон талын орон"
+        },
+        {
+          "en": "Land of the White Snows",
+          "mn": "Цагаан цасны орон"
+        },
+        {
+          "en": "Land of the Golden Sands",
+          "mn": "Алтан элсний орон"
+        },
+        {
+          "en": "Land of the Blue Sky",
+          "mn": "Мөнх хөх тэнгэрийн орон"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Mongolia is often called the 'Land of the Blue Sky' because it enjoys over 250 sunny days throughout the year.",
+        "mn": "Монгол орныг жилд 250 гаруй өдөр нартай, цэлмэг байдаг тул элбэг нарны гэрлийг бэлгэдэж 'Мөнх хөх тэнгэрийн орон' гэж нэрлэдэг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mongolia",
+      "key": "geography.mongolia.g4",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Approximately what percentage of Mongolia's total population lives in its capital city, Ulaanbaatar?",
+        "mn": "Монгол улсын нийт хүн амын ойролцоогоор хэдэн хувь нь нийслэл Улаанбаатар хотод амьдардаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "About 25%",
+          "mn": "Ойролцоогоор 25%"
+        },
+        {
+          "en": "About 10%",
+          "mn": "Ойролцоогоор 10%"
+        },
+        {
+          "en": "About 50%",
+          "mn": "Ойролцоогоор 50%"
+        },
+        {
+          "en": "About 80%",
+          "mn": "Ойролцоогоор 80%"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Nearly half of Mongolia's 3.5 million citizens live in Ulaanbaatar, making it one of the most centralized urban populations in the world.",
+        "mn": "Монгол улсын 3.5 сая орчим хүн амын бараг тал хувь нь Улаанбаатар хотод төвлөрөн суурьшиж байна."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mongolia",
+      "key": "geography.mongolia.g5",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of these is NOT a mountain range in Mongolia?",
+        "mn": "Эдгээрийн аль нь Монголын нуруу биш вэ?"
+      },
+      "choices": [
+        {
+          "en": "Khangai Mountains",
+          "mn": "Хангайн нуруу"
+        },
+        {
+          "en": "Ural Mountains",
+          "mn": "Уралын нуруу"
+        },
+        {
+          "en": "Khentii Mountains",
+          "mn": "Хэнтийн нуруу"
+        },
+        {
+          "en": "Altai Mountains",
+          "mn": "Алтайн нуруу"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Ural Mountains are located in Russia and Kazakhstan, serving as a boundary between Europe and Asia. Mongolia's three main ranges are the Altai, Khangai, and Khentii.",
+        "mn": "Уралын нуруу нь Орос, Казахстанд байрладаг бөгөөд Европ, Азийн зааг болдог. Харин Монголд Алтай, Хангай, Хэнтийн нуруу байдаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mongolia",
+      "key": "geography.mongolia.g6",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of the following countries is the ONLY landlocked country larger than Mongolia?",
+        "mn": "Дараах улсуудын аль нь Монголоос том газар нутагтай цорын ганц далайд гарцгүй улс вэ?"
+      },
+      "choices": [
+        {
+          "en": "Kazakhstan",
+          "mn": "Казахстан"
+        },
+        {
+          "en": "Bolivia",
+          "mn": "Боливи"
+        },
+        {
+          "en": "Ethiopia",
+          "mn": "Этиоп"
+        },
+        {
+          "en": "Switzerland",
+          "mn": "Швейцар"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Kazakhstan is the largest landlocked country in the world, with Mongolia ranking as the second-largest.",
+        "mn": "Казахстан улс нь газар нутгийн хэмжээгээрээ дэлхийн хамгийн том далайд гарцгүй улс бөгөөд Монгол улс түүний дараа хоёрдугаарт ордог."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mongolia",
+      "key": "geography.mongolia.g7",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the average population density of Mongolia per square kilometer?",
+        "mn": "Монгол улсын нэг хавтгай дөрвөлжин километр газар нутагт дунджаар хэдэн хүн ногддог вэ?"
+      },
+      "choices": [
+        {
+          "en": "About 150 people",
+          "mn": "Ойролцоогоор 150 хүн"
+        },
+        {
+          "en": "About 50 people",
+          "mn": "Ойролцоогоор 50 хүн"
+        },
+        {
+          "en": "About 2 people",
+          "mn": "Ойролцоогоор 2 хүн"
+        },
+        {
+          "en": "About 500 people",
+          "mn": "Ойролцоогоор 500 хүн"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "With roughly 2 people per square kilometer, Mongolia has the lowest population density of any independent sovereign nation.",
+        "mn": "Нэг хавтгай дөрвөлжин километрт дунджаар 2 орчим хүн ногддог тул Монгол улс нь дэлхийн хамгийн сийрэг хүн амтай тусгаар тогтносон улс юм."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mongolia",
+      "key": "geography.mongolia.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What famous fossil discovery was made in the Mongolian Gobi by Roy Chapman Andrews in the 1920s?",
+        "mn": "1920-иод онд Рой Чэпмэн Эндрюс Монголын говиос ямар алдартай олдворыг нээсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Ancient hominid skulls",
+          "mn": "Эртний хүний гавлын яс"
+        },
+        {
+          "en": "First dinosaur eggs",
+          "mn": "Анхны үлэг гүрвэлийн өндөг"
+        },
+        {
+          "en": "Petrified forests",
+          "mn": "Чулуужсан ой"
+        },
+        {
+          "en": "Mammoth skeletons",
+          "mn": "Мамонтын араг яс"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Roy Chapman Andrews discovered the world's first recognized fossilized dinosaur eggs at the Flaming Cliffs (Bayanzag) in 1923.",
+        "mn": "Рой Чэпмэн Эндрюс 1923 онд Баянзаг (Улаан эрэг) хэмээх газраас дэлхийд анх удаа үлэг гүрвэлийн чулуужсан өндгийг олж нээжээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mongolia",
+      "key": "geography.mongolia.g9",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which geographic phenomenon describes Mongolia's climate, characterized by extreme temperature shifts and distance from oceans?",
+        "mn": "Далай тэнгисээс алслагдсан, агаарын хэм огцом хэлбэлздэг Монголын уур амьсгалыг газар зүйн ямар нэр томьёогоор тодорхойлдог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Extreme continentality",
+          "mn": "Эх газрын эрс тэс уур амьсгал"
+        },
+        {
+          "en": "Tropical monsoon",
+          "mn": "Тропикийн муссон уур амьсгал"
+        },
+        {
+          "en": "Mediterranean climate",
+          "mn": "Газар дундын тэнгисийн уур амьсгал"
+        },
+        {
+          "en": "Maritime climate",
+          "mn": "Далайн уур амьсгал"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Mongolia has an extreme continental climate with very cold, dry winters and short, warm summers because it is isolated deep inside Eurasia.",
+        "mn": "Монгол орон Евразийн эх газрын гүнд байрладаг тул өвөл нь маш хүйтэн, хуурай, зун нь богино, дулаан байдаг эрс тэс уур амьсгалтай."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mongolia",
+      "key": "geography.mongolia.g10",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In which part of Mongolia is the famous Gobi Desert located?",
+        "mn": "Алдарт Говийн цөл Монгол орны аль хэсэгт байрладаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "West",
+          "mn": "Баруун"
+        },
+        {
+          "en": "North",
+          "mn": "Хойд"
+        },
+        {
+          "en": "South",
+          "mn": "Өмнөд"
+        },
+        {
+          "en": "East",
+          "mn": "Зүүн"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Gobi Desert stretches across southern Mongolia and northern China. It is a cold desert where snow can sometimes be seen on its dunes.",
+        "mn": "Говийн цөл нь Монголын өмнөд хэсэг болон Хятадын хойд хэсгийг дамнан оршдог. Энэ нь өвөлдөө элсэн толгод дээр нь цас ордог хүйтэн цөл юм."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-canals",
+      "key": "geography.famous-canals.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which canal connects the Mediterranean Sea directly to the Red Sea?",
+        "mn": "Газар дундын тэнгисийг Улаан тэнгистэй шууд холбодог суваг аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Grand Canal",
+          "mn": "Их суваг"
+        },
+        {
+          "en": "Panama Canal",
+          "mn": "Панамын суваг"
+        },
+        {
+          "en": "Suez Canal",
+          "mn": "Суэцийн суваг"
+        },
+        {
+          "en": "Kiel Canal",
+          "mn": "Килийн суваг"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Suez Canal is a sea-level waterway in Egypt that connects the Mediterranean Sea to the Red Sea. It opened in 1869 and has no locks because the water levels are nearly identical.",
+        "mn": "Суэцийн суваг нь Египетэд байрлах, Газар дундын тэнгисийг Улаан тэнгистэй холбодог суваг юм. Энэ нь 1869 онд нээгдсэн бөгөөд усны түвшин ижил тул шлюз ашигладаггүй."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-canals",
+      "key": "geography.famous-canals.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which country controls the Suez Canal?",
+        "mn": "Суэцийн сувгийг аль улс хянадаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Egypt",
+          "mn": "Египет"
+        },
+        {
+          "en": "France",
+          "mn": "Франц"
+        },
+        {
+          "en": "Panama",
+          "mn": "Панам"
+        },
+        {
+          "en": "United Kingdom",
+          "mn": "Их Британи"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Suez Canal is entirely located in Egypt and is operated by the state-owned Suez Canal Authority. Egypt nationalized the canal in 1956.",
+        "mn": "Суэцийн суваг нь бүхэлдээ Египет улсын нутаг дэвсгэрт оршдог бөгөөд төрийн өмчит Суэцийн сувгийн захиргаа удирддаг. Египет улс уг сувгийг 1956 онд үндэсний өмч болгожээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-canals",
+      "key": "geography.famous-canals.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which country built the Panama Canal and controlled it until December 31, 1999?",
+        "mn": "Панамын сувгийг аль улс барьж байгуулан, 1999 оны 12-р сарын 31-нийг хүртэл хянаж байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Colombia",
+          "mn": "Колумби"
+        },
+        {
+          "en": "United States",
+          "mn": "Америкийн Нэгдсэн Улс"
+        },
+        {
+          "en": "France",
+          "mn": "Франц"
+        },
+        {
+          "en": "Spain",
+          "mn": "Испани"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The United States completed construction of the Panama Canal in 1914 and officially handed full control over to Panama at the end of 1999.",
+        "mn": "Америкийн Нэгдсэн Улс Панамын сувгийн барилгын ажлыг 1914 онд дуусгаж, 1999 оны сүүлчээр хяналтаа Панам улсад албан ёсоор шилжүүлэн өгчээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-canals",
+      "key": "geography.famous-canals.g4",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which ocean is connected to the Pacific Ocean by the Panama Canal?",
+        "mn": "Панамын сувгаар Номхон далайтай холбогддог далай аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Indian Ocean",
+          "mn": "Энэтхэгийн далай"
+        },
+        {
+          "en": "Atlantic Ocean",
+          "mn": "Атлантын далай"
+        },
+        {
+          "en": "Southern Ocean",
+          "mn": "Өмнөд далай"
+        },
+        {
+          "en": "Arctic Ocean",
+          "mn": "Хойд мөсөн далай"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Panama Canal cuts through the Isthmus of Panama to connect the Atlantic Ocean (via the Caribbean Sea) and the Pacific Ocean.",
+        "mn": "Панамын суваг нь Панамын хүзүүвчийг дайран өнгөрч, Атлантын далайг (Карибын тэнгисээр дамжин) Номхон далайтай холбодог."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-canals",
+      "key": "geography.famous-canals.g5",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of these canals is located in Germany and connects the North Sea to the Baltic Sea?",
+        "mn": "Германд байрладаг, Хойд тэнгисийг Балтын тэнгистэй холбодог суваг аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Kiel Canal",
+          "mn": "Килийн суваг"
+        },
+        {
+          "en": "Gota Canal",
+          "mn": "Гёта суваг"
+        },
+        {
+          "en": "Erie Canal",
+          "mn": "Эри суваг"
+        },
+        {
+          "en": "Corinth Canal",
+          "mn": "Коринтын суваг"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Kiel Canal is a 98-kilometer-long waterway in Germany. It saves shipping time by bypassing the Jutland Peninsula.",
+        "mn": "Килийн суваг нь Германы нутагт орших 98 километр урт усан зам юм. Энэ суваг нь Ютландын хошууг тойрох замыг товчилж, цаг хугацаа хэмнэдэг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-canals",
+      "key": "geography.famous-canals.g6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which ancient water system is recognized as the world's longest and oldest artificial canal?",
+        "mn": "Дэлхийн хамгийн урт бөгөөд хамгийн эртний хиймэл суваг гэж аль усан системийг үздэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "The Rideau Canal",
+          "mn": "Ридо суваг"
+        },
+        {
+          "en": "The Corinth Canal",
+          "mn": "Коринтын суваг"
+        },
+        {
+          "en": "The Grand Canal of China",
+          "mn": "Хятадын Их суваг"
+        },
+        {
+          "en": "The Welland Canal",
+          "mn": "Уэлланд суваг"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Grand Canal of China is a UNESCO World Heritage site and is the longest canal in the world, stretching over 1,700 kilometers.",
+        "mn": "Хятадын Их суваг нь ЮНЕСКО-гийн Дэлхийн өвд бүртгэгдсэн бөгөөд 1700 гаруй километр үргэлжилдэг дэлхийн хамгийн урт суваг юм."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-canals",
+      "key": "geography.famous-canals.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The Panama Canal uses locks to raise ships to the level of which artificial lake?",
+        "mn": "Панамын суваг усан онгоцнуудыг аль хиймэл нуурын түвшинд хүртэл өргөхийн тулд шлюз ашигладаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Lake Nasser",
+          "mn": "Насер нуур"
+        },
+        {
+          "en": "Gatun Lake",
+          "mn": "Гатун нуур"
+        },
+        {
+          "en": "Lake Victoria",
+          "mn": "Викториа нуур"
+        },
+        {
+          "en": "Lake Maracaibo",
+          "mn": "Маракайбо нуур"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Gatun Lake was created during the construction of the Panama Canal to reduce the amount of excavation work needed. Ships are lifted 26 meters to cross it.",
+        "mn": "Гатун нуурыг Панамын сувгийн барилгын ажлын явцад малталтын хэмжээг багасгах зорилгоор байгуулжээ. Онгоцнуудыг энэ нуураар гаргахын тулд 26 метр өндөрт өргөдөг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-canals",
+      "key": "geography.famous-canals.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which narrow Greek canal cuts through the Isthmus of Corinth, separating the Peloponnese from the Greek mainland?",
+        "mn": "Пелопоннесын хошууг Грекийн эх газраас заагладаг, Коринтын хүзүүвчийг дайран өнгөрдөг нарийн суваг аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Kiel Canal",
+          "mn": "Килийн суваг"
+        },
+        {
+          "en": "Corinth Canal",
+          "mn": "Коринтын суваг"
+        },
+        {
+          "en": "Suez Canal",
+          "mn": "Суэцийн суваг"
+        },
+        {
+          "en": "Erie Canal",
+          "mn": "Эри суваг"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Corinth Canal is extremely narrow (only 21 meters wide at its base), making it impassable for most modern cargo ships, but it is a popular tourist attraction.",
+        "mn": "Коринтын суваг нь маш нарийн (ёроол хэсэгтээ ердөө 21 метр өргөн) тул орчин үеийн ихэнх ачааны онгоц багтдаггүй ч жуулчдын очих дуртай газар юм."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-canals",
+      "key": "geography.famous-canals.g9",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which historic US canal, completed in 1825, connected the Hudson River to the Great Lakes?",
+        "mn": "1825 онд ашиглалтад орсон, Хадсон голыг Их нууруудтай холбосон АНУ-ын түүхэн суваг аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "St. Lawrence Seaway",
+          "mn": "Гэгээн Лоренсын усан зам"
+        },
+        {
+          "en": "Erie Canal",
+          "mn": "Эри суваг"
+        },
+        {
+          "en": "Panama Canal",
+          "mn": "Панамын суваг"
+        },
+        {
+          "en": "Welland Canal",
+          "mn": "Уэлланд суваг"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Erie Canal greatly reduced the cost of shipping goods between the Atlantic Ocean and the Great Lakes, boosting the economic growth of New York City.",
+        "mn": "Эри суваг нь Атлантын далай болон Их нууруудын хооронд ачаа тээвэрлэх зардлыг асар их хэмжээгээр бууруулж, Нью-Йорк хотын эдийн засгийн өсөлтөд чухал нөлөө үзүүлсэн юм."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-canals",
+      "key": "geography.famous-canals.g10",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Before the Panama Canal was built, ships traveling from New York to San Francisco had to sail around which continent?",
+        "mn": "Панамын суваг баригдахаас өмнө Нью-Йоркоос Сан-Франциско руу явах хөлөг онгоцнууд аль тивийг тойрч аялдаг байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Asia",
+          "mn": "Ази"
+        },
+        {
+          "en": "Australia",
+          "mn": "Австрали"
+        },
+        {
+          "en": "Africa",
+          "mn": "Африк"
+        },
+        {
+          "en": "South America",
+          "mn": "Өмнөд Америк"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Ships had to sail around Cape Horn at the southern tip of South America, a treacherous journey that added thousands of miles to the trip.",
+        "mn": "Хөлөг онгоцнууд Өмнөд Америкийн өмнөд цэг болох Горн хошууг тойрч гардаг байсан нь аялалд олон мянган бээр нэмдэг аюултай зам байв."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.great-lakes-formation",
+      "key": "geography.great-lakes-formation.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which of the Great Lakes is the largest by surface area and volume?",
+        "mn": "Их нууруудаас аль нь гадаргуугийн талбай болон усны эзлэхүүнээрээ хамгийн том бэ?"
+      },
+      "choices": [
+        {
+          "en": "Lake Superior",
+          "mn": "Дээд нуур"
+        },
+        {
+          "en": "Lake Huron",
+          "mn": "Хурон нуур"
+        },
+        {
+          "en": "Lake Erie",
+          "mn": "Эри нуур"
+        },
+        {
+          "en": "Lake Michigan",
+          "mn": "Мичиган нуур"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Lake Superior is the largest of the Great Lakes and the world's largest freshwater lake by surface area. It contains more water than the other four Great Lakes combined.",
+        "mn": "Дээд нуур нь Их нууруудаас хамгийн том бөгөөд гадаргуугийн талбайгаараа дэлхийн хамгийн том цэнгэг уст нуур юм. Энэ нуурт бусад дөрвөн нуурын усыг нийлүүлснээс ч их ус агуулагддаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.great-lakes-formation",
+      "key": "geography.great-lakes-formation.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which river serves as the primary natural outlet connecting the Great Lakes to the Atlantic Ocean?",
+        "mn": "Их нууруудыг Атлантын далайтай холбодог байгалийн үндсэн гадагшлах урсгал аль гол вэ?"
+      },
+      "choices": [
+        {
+          "en": "St. Lawrence River",
+          "mn": "Сент-Лоренс мөрөн"
+        },
+        {
+          "en": "Ohio River",
+          "mn": "Охайо гол"
+        },
+        {
+          "en": "Hudson River",
+          "mn": "Хадсон гол"
+        },
+        {
+          "en": "Mississippi River",
+          "mn": "Миссисипи мөрөн"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The St. Lawrence River drains the Great Lakes basin into the Gulf of St. Lawrence and the Atlantic Ocean. It has served as a crucial shipping route since colonial times.",
+        "mn": "Сент-Лоренс мөрөн нь Их нууруудын сав газрын усыг Сент-Лоренсын булан болон Атлантын далай руу урсгадаг. Энэ нь колоничлолын үеэс хойш усан тээврийн чухал зам байсаар ирсэн."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.great-lakes-formation",
+      "key": "geography.great-lakes-formation.g3",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which of the Great Lakes is located entirely within the territory of the United States?",
+        "mn": "Их нууруудаас аль нь бүхэлдээ Америкийн Нэгдсэн Улсын нутаг дэвсгэрт оршдог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Lake Erie",
+          "mn": "Эри нуур"
+        },
+        {
+          "en": "Lake Michigan",
+          "mn": "Мичиган нуур"
+        },
+        {
+          "en": "Lake Ontario",
+          "mn": "Онтарио нуур"
+        },
+        {
+          "en": "Lake Superior",
+          "mn": "Дээд нуур"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "While the other four Great Lakes span the border between the U.S. and Canada, Lake Michigan lies entirely within the United States. It is bounded by the states of Michigan, Indiana, Illinois, and Wisconsin.",
+        "mn": "Бусад дөрвөн нуур нь АНУ болон Канадын хил дамнан оршдог бол Мичиган нуур нь бүхэлдээ АНУ-ын нутаг дэвсгэрт байдаг. Энэ нуур Мичиган, Индиана, Иллинойс, Висконсин мужуудаар хүрээлэгддэг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.great-lakes-formation",
+      "key": "geography.great-lakes-formation.g4",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What geologic process was primarily responsible for carving out the deep basins of the Great Lakes?",
+        "mn": "Их нууруудын гүн сав газрыг ухан гаргахад ямар геологийн үйл явц голлон нөлөөлсөн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Tectonic rifting",
+          "mn": "Тектоникийн хагарал"
+        },
+        {
+          "en": "Glacial movement",
+          "mn": "Мөсөн голын хөдөлгөөн"
+        },
+        {
+          "en": "Meteorite impacts",
+          "mn": "Метеоритын мөргөлдөөн"
+        },
+        {
+          "en": "Volcanic eruptions",
+          "mn": "Галт уулын дэлбэрэлт"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Massive advancing and retreating continental ice sheets during the last ice age carved deep basins into the bedrock. These basins then filled with glacial meltwater as the ice retreated.",
+        "mn": "Сүүлчийн мөстлөгийн үед аварга том эх газрын мөсөн бүрхүүл урагшлах, ухрах явцдаа газрын хөрсийг гүн ухжээ. Хожим нь мөс хайлж ухрах үед эдгээр сав газрууд усаар дүүрсэн байна."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.great-lakes-formation",
+      "key": "geography.great-lakes-formation.g5",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of the Great Lakes is the shallowest and therefore the warmest during the summer?",
+        "mn": "Их нууруудаас аль нь хамгийн гүехэн бөгөөд зуны улиралд хамгийн дулаан байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Lake Erie",
+          "mn": "Эри нуур"
+        },
+        {
+          "en": "Lake Ontario",
+          "mn": "Онтарио нуур"
+        },
+        {
+          "en": "Lake Michigan",
+          "mn": "Мичиган нуур"
+        },
+        {
+          "en": "Lake Huron",
+          "mn": "Хурон нуур"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Lake Erie is the shallowest of the Great Lakes, with an average depth of only about 62 feet (19 meters). Because of its shallow volume, it warms up quickly in the summer and can freeze over completely in winter.",
+        "mn": "Эри нуур нь Их нууруудаас хамгийн гүехэн нь бөгөөд дундаж гүн нь ердөө 19 метр орчим байдаг. Ийм гүехэн тул зундаа хурдан дулаарч, өвөлдөө бүрэн хөлдөх нь элбэг байдаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.great-lakes-formation",
+      "key": "geography.great-lakes-formation.g6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Roughly what percentage of the world's liquid surface fresh water is contained within the Great Lakes?",
+        "mn": "Дэлхийн гадаргуугийн шингэн цэнгэг усны ойролцоогоор хэдэн хувь нь Их нууруудад агуулагддаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "20%",
+          "mn": "20%"
+        },
+        {
+          "en": "50%",
+          "mn": "50%"
+        },
+        {
+          "en": "5%",
+          "mn": "5%"
+        },
+        {
+          "en": "80%",
+          "mn": "80%"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Great Lakes hold about 21% of the world's surface fresh water. This is enough water to cover the entire continental United States in nearly 10 feet of water.",
+        "mn": "Их нуурууд нь дэлхийн гадаргуугийн цэнгэг усны 21 орчим хувийг агуулдаг. Энэ нь АНУ-ын эх газрыг бүхэлд нь 3 метр орчим зузаан усаар бүрхэхэд хүрэлцэхүйц хэмжээний ус юм."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.great-lakes-formation",
+      "key": "geography.great-lakes-formation.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which famous natural wonder connects Lake Erie to Lake Ontario?",
+        "mn": "Эри нуурыг Онтарио нууртай холбодог байгалийн ямар алдартай гайхамшиг байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Niagara Falls",
+          "mn": "Ниагара хүрхрээ"
+        },
+        {
+          "en": "The Grand Canyon",
+          "mn": "Их хавцал"
+        },
+        {
+          "en": "Old Faithful",
+          "mn": "Олд Фэйтфул гейзер"
+        },
+        {
+          "en": "Yosemite Valley",
+          "mn": "Йосемитийн хөндий"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Niagara Falls is located on the Niagara River, which drains Lake Erie into Lake Ontario. The falls bypass a major elevation drop between the two lakes.",
+        "mn": "Ниагара хүрхрээ нь Эри нуурын усыг Онтарио нуур руу урсгадаг Ниагара гол дээр байрладаг. Энэхүү хүрхрээ нь хоёр нуурын хоорондох өндрийн их зөрүүг заагладаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.great-lakes-formation",
+      "key": "geography.great-lakes-formation.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which two Great Lakes share the exact same water level and are hydrologically considered a single lake?",
+        "mn": "Их нууруудын аль хоёр нь усны түвшин нь яг ижил бөгөөд гидрологийн хувьд нэг нуур гэж тооцогддог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Lake Erie and Lake Ontario",
+          "mn": "Эри нуур ба Онтарио нуур"
+        },
+        {
+          "en": "Lake Michigan and Lake Huron",
+          "mn": "Мичиган нуур ба Хурон нуур"
+        },
+        {
+          "en": "Lake Superior and Lake Michigan",
+          "mn": "Дээд нуур ба Мичиган нуур"
+        },
+        {
+          "en": "Lake Superior and Lake Huron",
+          "mn": "Дээд нуур ба Хурон нуур"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Lake Michigan and Lake Huron are joined by the wide Straits of Mackinac. Because they share the same elevation, they are hydrologically a single body of water.",
+        "mn": "Мичиган нуур болон Хурон нуур нь Макиногийн өргөн хоолойгоор холбогддог. Тэд ижил өндөрлөгт оршдог тул гидрологийн хувьд нэгдмэл нэг усан сан гэж тооцогддог."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.great-lakes-formation",
+      "key": "geography.great-lakes-formation.g9",
+      "difficulty": 1,
+      "prompt": {
+        "en": "How many lakes make up the group known as the Great Lakes of North America?",
+        "mn": "Хойд Америкийн Их нуурууд гэж нэрлэгддэг бүлэгт нийт хэдэн нуур багтдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Five",
+          "mn": "Таван нуур"
+        },
+        {
+          "en": "Six",
+          "mn": "Зургаан нуур"
+        },
+        {
+          "en": "Four",
+          "mn": "Дөрвөн нуур"
+        },
+        {
+          "en": "Three",
+          "mn": "Гурван нуур"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Great Lakes consist of five massive lakes: Superior, Huron, Michigan, Erie, and Ontario. They are often remembered using the acronym HOMES.",
+        "mn": "Их нуурууд нь Дээд, Хурон, Мичиган, Эри, Онтарио гэсэн таван том нуураас бүрддэг. Англи хэлэнд тэдгээрийг HOMES гэсэн товчлолоор цээжлэх нь элбэг байдаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.great-lakes-formation",
+      "key": "geography.great-lakes-formation.g10",
+      "difficulty": 3,
+      "prompt": {
+        "en": "What major environmental issue in the mid-20th century led to Lake Erie being famously declared 'dead'?",
+        "mn": "20-р зууны дунд үед байгаль орчны ямар ноцтой асуудлаас болж Эри нуурыг 'үхмэл нуур' гэж зарлахад хүрсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Eutrophication from fertilizer runoff",
+          "mn": "Бордооны урсгалаас үүдэлтэй эвтрофикаци"
+        },
+        {
+          "en": "Acid rain",
+          "mn": "Хүчиллэг бороо"
+        },
+        {
+          "en": "Severe drought",
+          "mn": "Хэт их ган гачиг"
+        },
+        {
+          "en": "Nuclear waste dumping",
+          "mn": "Цөмийн хаягдал асгалт"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Excessive phosphorus from agricultural runoff and sewage caused massive algae blooms, depleting oxygen levels and killing fish. This process is called eutrophication.",
+        "mn": "Хөдөө аж ахуйн бордоо болон бохир усны фосфорын илүүдэл нь нууранд замаг хэт их үржих шалтгаан болж, хүчилтөрөгчийг нь шавхан загас олноор үхэхэд хүргэсэн. Үүнийг эвтрофикаци гэж нэрлэдэг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-straits",
+      "key": "geography.famous-straits.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which strait separates the continents of Europe and Africa?",
+        "mn": "Европ болон Африк тивийг заагладаг хоолой аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Strait of Gibraltar",
+          "mn": "Гибралтарын хоолой"
+        },
+        {
+          "en": "Strait of Malacca",
+          "mn": "Малаккын хоолой"
+        },
+        {
+          "en": "Bering Strait",
+          "mn": "Берингийн хоолой"
+        },
+        {
+          "en": "Strait of Hormuz",
+          "mn": "Ормузын хоолой"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Strait of Gibraltar separates Spain (Europe) from Morocco (Africa). At its narrowest point, it is only about 14 kilometers wide.",
+        "mn": "Гибралтарын хоолой нь Испани (Европ) болон Марокког (Африк) заагладаг. Хамгийн нарийн хэсэгтээ энэ хоолой нь ердөө 14 орчим километр өргөн байдаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-straits",
+      "key": "geography.famous-straits.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of these straits is the world's most critical chokepoint for global oil shipments?",
+        "mn": "Дэлхийн газрын тосны тээвэрлэлтийн хамгийн чухал, стратегийн ач холбогдолтой хоолой аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Bering Strait",
+          "mn": "Берингийн хоолой"
+        },
+        {
+          "en": "Strait of Malacca",
+          "mn": "Малаккын хоолой"
+        },
+        {
+          "en": "Strait of Hormuz",
+          "mn": "Ормузын хоолой"
+        },
+        {
+          "en": "Strait of Gibraltar",
+          "mn": "Гибралтарын хоолой"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Strait of Hormuz connects the Persian Gulf with the Gulf of Oman. Roughly one-fifth of the world's petroleum consumption passes through this narrow waterway daily.",
+        "mn": "Ормузын хоолой нь Персийн булангийг Оманы булантай холбодог. Дэлхийн газрын тосны хэрэглээний бараг тавны нэг нь өдөр бүр энэхүү нарийн усан замаар дамжин өнгөрдөг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-straits",
+      "key": "geography.famous-straits.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which body of water is connected to the Pacific Ocean by the Bering Strait?",
+        "mn": "Берингийн хоолой нь Номхон далайг ямар далайтай холбодог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Indian Ocean",
+          "mn": "Энэтхэгийн далай"
+        },
+        {
+          "en": "Arctic Ocean",
+          "mn": "Хойд мөсөн далай"
+        },
+        {
+          "en": "Atlantic Ocean",
+          "mn": "Атлантын далай"
+        },
+        {
+          "en": "Southern Ocean",
+          "mn": "Өмнөд далай"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Bering Strait connects the Pacific Ocean to the Arctic Ocean. It separates the easternmost point of Asia (Russia) from the westernmost point of North America (Alaska).",
+        "mn": "Берингийн хоолой нь Номхон далайг Хойд мөсөн далайтай холбодог. Энэ нь Азийн хамгийн зүүн цэг (Орос) болон Хойд Америкийн хамгийн баруун цэгийг (Аляск) заагладаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-straits",
+      "key": "geography.famous-straits.g4",
+      "difficulty": 1,
+      "prompt": {
+        "en": "The Strait of Malacca is a crucial shipping lane located between which two landmasses?",
+        "mn": "Малаккын хоолой нь аль хоёр хуурай газрын хооронд оршдог чухал усан зам бэ?"
+      },
+      "choices": [
+        {
+          "en": "India and Sri Lanka",
+          "mn": "Энэтхэг болон Шри-Ланка"
+        },
+        {
+          "en": "Saudi Arabia and Iran",
+          "mn": "Саудын Араб болон Иран"
+        },
+        {
+          "en": "Australia and Tasmania",
+          "mn": "Австрали болон Тасмани"
+        },
+        {
+          "en": "The Malay Peninsula and Sumatra",
+          "mn": "Малайн хойг болон Суматра арал"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Strait of Malacca runs between the Malay Peninsula and the Indonesian island of Sumatra. It is the primary shipping channel between the Indian and Pacific Oceans.",
+        "mn": "Малаккын хоолой нь Малайн хойг болон Индонезийн Суматра арлын хооронд оршдог. Энэ нь Энэтхэгийн болон Номхон далайг холбосон тээврийн гол суваг юм."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-straits",
+      "key": "geography.famous-straits.g5",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which narrow strait splits the city of Istanbul into European and Asian halves?",
+        "mn": "Стамбул хотыг Европын болон Азийн хэсэгт хуваадаг нарийн хоолой аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Dardanelles Strait",
+          "mn": "Дарданеллын хоолой"
+        },
+        {
+          "en": "Bosporus Strait",
+          "mn": "Босфорын хоолой"
+        },
+        {
+          "en": "English Channel",
+          "mn": "Ла-Маншийн хоолой"
+        },
+        {
+          "en": "Strait of Messina",
+          "mn": "Мессины хоолой"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Bosporus Strait is the world's narrowest strait used for international navigation. It splits Istanbul, making it one of the few cities spanning two continents.",
+        "mn": "Босфорын хоолой нь олон улсын усан тээвэрт ашиглагддаг дэлхийн хамгийн нарийн хоолой юм. Энэ нь Стамбул хотыг хуваадаг тул тус хотыг хоёр тив дамнасан цөөн хотуудын нэг болгодог."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-straits",
+      "key": "geography.famous-straits.g6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The Bab-el-Mandeb Strait, known as the 'Gate of Tears', connects the Red Sea to which body of water?",
+        "mn": "'Нулимсны хаалга' гэгддэг Баб-эль-Мандебын хоолой нь Улаан тэнгисийг ямар усан устай холбодог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Persian Gulf",
+          "mn": "Персийн булан"
+        },
+        {
+          "en": "Gulf of Aden",
+          "mn": "Адены булан"
+        },
+        {
+          "en": "Mediterranean Sea",
+          "mn": "Газар дундын тэнгис"
+        },
+        {
+          "en": "Caspian Sea",
+          "mn": "Каспийн тэнгис"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Bab-el-Mandeb connects the Red Sea to the Gulf of Aden (and the Indian Ocean). It is located between Yemen on the Arabian Peninsula and Djibouti and Eritrea in the Horn of Africa.",
+        "mn": "Баб-эль-Мандебын хоолой нь Улаан тэнгисийг Адены булантай (улмаар Энэтхэгийн далайтай) холбодог. Энэ нь Арабын хойг дахь Йемен болон Африкийн эвэр дэх Жибути, Эритрей улсуудын хооронд оршдог."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-straits",
+      "key": "geography.famous-straits.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which strait separates the island of Great Britain from mainland Europe?",
+        "mn": "Их Британи арлыг Европын эх газраас тусгаарладаг хоолой аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Strait of Magellan",
+          "mn": "Магелланы хоолой"
+        },
+        {
+          "en": "Cook Strait",
+          "mn": "Кукийн хоолой"
+        },
+        {
+          "en": "Strait of Gibraltar",
+          "mn": "Гибралтарын хоолой"
+        },
+        {
+          "en": "Strait of Dover",
+          "mn": "Доверын хоолой"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Strait of Dover is the narrowest part of the English Channel, separating Great Britain from France. On a clear day, the famous White Cliffs of Dover can be seen from the French coast.",
+        "mn": "Доверын хоолой нь Ла-Маншийн хоолойн хамгийн нарийн хэсэг бөгөөд Их Британийг Францаас тусгаарладаг. Цэлмэг өдөр Францын эргээс Доверын алдарт Цагаан хад харагддаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-straits",
+      "key": "geography.famous-straits.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which historical navigator is the namesake of the passage at the southern tip of South America?",
+        "mn": "Өмнөд Америкийн өмнөд үзүүрт орших байгалийн усан замыг ямар түүхэн аялагчийн нэрээр нэрлэсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Ferdinand Magellan",
+          "mn": "Фердинанд Магеллан"
+        },
+        {
+          "en": "Christopher Columbus",
+          "mn": "Христофор Колумб"
+        },
+        {
+          "en": "James Cook",
+          "mn": "Жеймс Кук"
+        },
+        {
+          "en": "Vasco da Gama",
+          "mn": "Васко да Гама"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Strait of Magellan is named after Ferdinand Magellan, who became the first European to navigate it in 1520 during his global circumnavigation voyage.",
+        "mn": "Магелланы хоолойг 1520 онд дэлхийг тойрох аяллынхаа үеэр энэ замаар явсан анхны европ хүн болох Фердинанд Магелланы нэрээр нэрлэжээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-straits",
+      "key": "geography.famous-straits.g9",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of these straits separates the South Island and North Island of New Zealand?",
+        "mn": "Шинэ Зеландын Өмнөд болон Хойд арлуудыг заагладаг хоолой аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Cook Strait",
+          "mn": "Кукийн хоолой"
+        },
+        {
+          "en": "Taiwan Strait",
+          "mn": "Тайванийн хоолой"
+        },
+        {
+          "en": "Torres Strait",
+          "mn": "Торресын хоолой"
+        },
+        {
+          "en": "Bass Strait",
+          "mn": "Бассын хоолой"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Cook Strait separates the North and South Islands of New Zealand, connecting the Tasman Sea with the Pacific Ocean. It is named after James Cook, the first European commander to sail through it.",
+        "mn": "Кукийн хоолой нь Шинэ Зеландын Хойд болон Өмнөд арлуудыг тусгаарлаж, Тасманы тэнгисийг Номхон далайтай холбодог. Үүнийг тус хоолойгоор аялсан анхны европ удирдагч Жеймс Кукийн нэрээр нэрлэжээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-straits",
+      "key": "geography.famous-straits.g10",
+      "difficulty": 1,
+      "prompt": {
+        "en": "The Taiwan Strait separates the island of Taiwan from which major country?",
+        "mn": "Тайванийн хоолой нь Тайвань арлыг аль улсаас тусгаарладаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Philippines",
+          "mn": "Филиппин"
+        },
+        {
+          "en": "Japan",
+          "mn": "Япон"
+        },
+        {
+          "en": "Vietnam",
+          "mn": "Вьетнам"
+        },
+        {
+          "en": "China",
+          "mn": "Хятад"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Taiwan Strait, also known as the Formosa Strait, separates the island of Taiwan from mainland China. It is a highly sensitive geopolitical area.",
+        "mn": "Тайванийн хоолой (мөн Формозагийн хоолой гэгддэг) нь Тайвань арлыг эх газрын Хятадаас тусгаарладаг. Энэ нь геополитикийн маш эмзэг бүс юм."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.major-deserts",
+      "key": "geography.major-deserts.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which of the following is scientifically the largest desert on Earth?",
+        "mn": "Шинжлэх ухааны тодорхойлолтоор дэлхийн хамгийн том цөл аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Arabian Desert",
+          "mn": "Арабын цөл"
+        },
+        {
+          "en": "Gobi Desert",
+          "mn": "Говийн цөл"
+        },
+        {
+          "en": "Antarctic Desert",
+          "mn": "Антарктидын цөл"
+        },
+        {
+          "en": "Sahara Desert",
+          "mn": "Сахарын цөл"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "A desert is defined by its low annual precipitation. Under this definition, the cold Antarctic Desert is the largest in the world, followed closely by the Arctic Desert.",
+        "mn": "Цөлийг жилд унах тунадасны хэмжээгээр тодорхойлдог. Энэхүү тодорхойлолтоор хүйтэн Антарктидын цөл нь дэлхийн хамгийн том цөлд тооцогддог бөгөөд түүний дараа Арктикийн цөл ордог."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.major-deserts",
+      "key": "geography.major-deserts.g2",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which is the largest hot desert in the world?",
+        "mn": "Дэлхийн хамгийн том халуун цөл аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Thar Desert",
+          "mn": "Тарын цөл"
+        },
+        {
+          "en": "Sahara Desert",
+          "mn": "Сахарын цөл"
+        },
+        {
+          "en": "Gobi Desert",
+          "mn": "Говийн цөл"
+        },
+        {
+          "en": "Kalahari Desert",
+          "mn": "Калахарийн цөл"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Sahara is the largest hot desert on Earth, covering much of North Africa. It is nearly as large as the entire United States.",
+        "mn": "Сахарын цөл нь Хойд Африкийн ихэнх хэсгийг хамарсан дэлхийн хамгийн том халуун цөл юм. Энэ нь бараг АНУ-ын газар нутагтай тэнцэхүйц хэмжээтэй."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.major-deserts",
+      "key": "geography.major-deserts.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In which continent is the extremely dry Atacama Desert located?",
+        "mn": "Хэт хуурай уур амьсгалтай Атакамагийн цөл аль тивд оршдог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Asia",
+          "mn": "Ази"
+        },
+        {
+          "en": "Africa",
+          "mn": "Африк"
+        },
+        {
+          "en": "Australia",
+          "mn": "Австрали"
+        },
+        {
+          "en": "South America",
+          "mn": "Өмнөд Америк"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Atacama Desert is located in South America, primarily in Chile. It is known as the driest non-polar place on Earth, with some parts not seeing rain for centuries.",
+        "mn": "Атакамагийн цөл нь Өмнөд Америкт, голчлон Чили улсад оршдог. Энэ нь туйлын бус бүс дэх дэлхийн хамгийн хуурай газар бөгөөд зарим хэсэгт нь хэдэн зууны турш бороо ороогүй байдаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.major-deserts",
+      "key": "geography.major-deserts.g4",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which geographical feature causes the Gobi Desert to be so dry?",
+        "mn": "Говийн цөлийг ийм хуурай болгодог газар зүйн гол хүчин зүйл юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Volcanic activity",
+          "mn": "Галт уулын идэвхжил"
+        },
+        {
+          "en": "The Himalaya rain shadow",
+          "mn": "Гималайн нурууны борооны хаалт"
+        },
+        {
+          "en": "Oceanic trenches",
+          "mn": "Далайн гүн суваг"
+        },
+        {
+          "en": "Equatorial high pressure",
+          "mn": "Экваторын өндөр даралт"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Gobi Desert is a rain shadow desert, formed because the massive Himalayan range blocks rain-carrying clouds from the Indian Ocean from reaching the area.",
+        "mn": "Говийн цөл нь борооны хаалтын нөлөөгөөр үүссэн бөгөөд Гималайн өндөр нурууд Энэтхэгийн далайгаас ирэх чийглэг агаарыг хааснаар ийм хуурай уур амьсгалтай болжээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.major-deserts",
+      "key": "geography.major-deserts.g5",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What percentage of the Earth's land surface is covered by deserts?",
+        "mn": "Дэлхийн хуурай газрын ойролцоогоор хэдэн хувийг цөл эзэлдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "About 10%",
+          "mn": "Ойролцоогоор 10%"
+        },
+        {
+          "en": "About 33%",
+          "mn": "Ойролцоогоор 33%"
+        },
+        {
+          "en": "About 50%",
+          "mn": "Ойролцоогоор 50%"
+        },
+        {
+          "en": "About 5%",
+          "mn": "Ойролцоогоор 5%"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Deserts cover about one-third (33%) of the Earth's land surface. This includes both hot deserts and cold polar deserts like Antarctica.",
+        "mn": "Дэлхийн хуурай газрын бараг гуравны нэгийг (33%) цөл эзэлдэг. Үүнд халуун цөлүүдээс гадна Антарктид шиг хүйтэн туйлын цөлүүд ч багтдаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.major-deserts",
+      "key": "geography.major-deserts.g6",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of these is NOT a desert located in North America?",
+        "mn": "Дараах цөлүүдийн аль нь Хойд Америкт байдаггүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Sonoran Desert",
+          "mn": "Соноран цөл"
+        },
+        {
+          "en": "Mojave Desert",
+          "mn": "Мохаве цөл"
+        },
+        {
+          "en": "Kalahari Desert",
+          "mn": "Калахарийн цөл"
+        },
+        {
+          "en": "Chihuahuan Desert",
+          "mn": "Чиуауа цөл"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Kalahari Desert is located in southern Africa. The Mojave, Sonoran, and Chihuahuan deserts are all well-known deserts in North America.",
+        "mn": "Калахарийн цөл нь Африкийн өмнөд хэсэгт оршдог. Харин Мохаве, Соноран, Чиуауа цөлүүд нь Хойд Америкийн алдартай цөлүүд юм."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.major-deserts",
+      "key": "geography.major-deserts.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which desert is famous for having the highest recorded air temperature on Earth?",
+        "mn": "Дэлхий дээрх хамгийн өндөр агаарын хэм бүртгэгдсэн аль цөл вэ?"
+      },
+      "choices": [
+        {
+          "en": "Arabian Desert",
+          "mn": "Арабын цөл"
+        },
+        {
+          "en": "Sahara Desert",
+          "mn": "Сахарын цөл"
+        },
+        {
+          "en": "Death Valley (Mojave)",
+          "mn": "Үхлийн хөндий (Мохаве)"
+        },
+        {
+          "en": "Lut Desert",
+          "mn": "Деште-Лут цөл"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Death Valley in the Mojave Desert, USA, holds the record for the highest reliably recorded air temperature on Earth at 56.7°C (134°F) in 1913.",
+        "mn": "АНУ-ын Мохаве цөл дэх Үхлийн хөндийд 1913 онд дэлхийн хамгийн өндөр агаарын хэм буюу 56.7°C бүртгэгдсэн байдаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.major-deserts",
+      "key": "geography.major-deserts.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the primary factor that defines an area as a desert?",
+        "mn": "Тухайн газар нутгийг цөл гэж тодорхойлох үндсэн хүчин зүйл юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Lack of animal life",
+          "mn": "Амьд амьтны хомсдол"
+        },
+        {
+          "en": "High temperature",
+          "mn": "Өндөр температур"
+        },
+        {
+          "en": "Amount of sand dunes",
+          "mn": "Элсэн манхны хэмжээ"
+        },
+        {
+          "en": "Low annual precipitation",
+          "mn": "Жилийн хур тунадасны бага хэмжээ"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Deserts are defined by aridity, specifically receiving less than 250 millimeters (10 inches) of precipitation per year, regardless of temperature.",
+        "mn": "Цөлийг агаарын хэмээс үл хамааран жилд дунджаар 250 миллиметрээс бага хур тунадас ордог хуурайшилтын хэмжээгээр нь тодорхойлдог."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.major-deserts",
+      "key": "geography.major-deserts.g9",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which country is home to the Great Victoria Desert?",
+        "mn": "Их Виктория цөл аль улсад байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Egypt",
+          "mn": "Египет"
+        },
+        {
+          "en": "Australia",
+          "mn": "Австрали"
+        },
+        {
+          "en": "South Africa",
+          "mn": "Өмнөд Африк"
+        },
+        {
+          "en": "Canada",
+          "mn": "Канад"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Great Victoria Desert is the largest desert in Australia, consisting of many small sandhills, grassland plains, and salt lakes.",
+        "mn": "Их Виктория цөл нь Австралийн хамгийн том цөл бөгөөд олон жижиг элсэн толгод, бэлчээр тал, давст нууруудаас бүрддэг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.major-deserts",
+      "key": "geography.major-deserts.g10",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which of these is a famous cold winter desert in Asia known for its dinosaur fossils?",
+        "mn": "Азид орших, үлэг гүрвэлийн олдвороороо алдартай хүйтэн өвлийн цөл аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Arabian Desert",
+          "mn": "Арабын цөл"
+        },
+        {
+          "en": "Kalahari Desert",
+          "mn": "Калахарийн цөл"
+        },
+        {
+          "en": "Gobi Desert",
+          "mn": "Говийн цөл"
+        },
+        {
+          "en": "Sahara Desert",
+          "mn": "Сахарын цөл"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Gobi Desert is a cold desert located in northern China and southern Mongolia. It is world-famous for the discovery of the first dinosaur eggs.",
+        "mn": "Говийн цөл нь Хятадын хойд, Монголын өмнөд хэсэгт орших хүйтэн цөл юм. Эндээс дэлхийд анх удаа үлэг гүрвэлийн өндөг олдож байснаараа алдартай."
+      }
+    }
+  ]
+}

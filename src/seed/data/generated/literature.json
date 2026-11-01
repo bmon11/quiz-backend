@@ -1,0 +1,485 @@
+{
+  "lessons": [
+    {
+      "topicSlug": "literature",
+      "key": "literature.famous-idioms",
+      "order": 4,
+      "title": {
+        "en": "Famous Idioms & Their Origins",
+        "mn": "Хэлцийн гарал үүсэл"
+      },
+      "summary": {
+        "en": "Discover the surprising and historical stories behind everyday English and global idioms.",
+        "mn": "Өдөр тутмын хэлц үгсийн цаадах сонирхолтой түүх, гарал үүслийг таньж мэдэх нь."
+      },
+      "body": {
+        "en": "Many of our most common phrases come from historical practices, old theater rules, or maritime traditions. Understanding their true origins helps us appreciate how language evolves over centuries. Often, what sounds like nonsense today was once a literal description of daily life.",
+        "mn": "Бидний өдөр тутамд хэрэглэдэг олон хэлц үгс нь түүхэн уламжлал, театрын дүрэм, эсвэл далайчдын амьдралаас үүсэлтэй байдаг. Тэдгээрийн жинхэнэ гарал үүслийг мэдэх нь хэлний хөгжлийг ойлгоход тусалдаг. Өнөөдөр утгагүй сонсогдох зарим хэлцүүд урьд цагт амьдралын бодит дүрслэл байжээ."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "🎭",
+            "title": {
+              "en": "Break a leg",
+              "mn": "Хөлөө хугалаарай"
+            },
+            "facts": [
+              {
+                "en": "Commonly said to actors and musicians before a performance instead of wishing them 'good luck'.",
+                "mn": "Жүжигчид, хөгжимчдийг тайзан дээр гарахаас өмнө \"амжилт хүсье\" гэхийн оронд хэлдэг уламжлалт үг."
+              },
+              {
+                "en": "In old theater, 'breaking the leg' referred to crossing the side curtains (legs) to get on stage and get paid.",
+                "mn": "Хуучны театрт тайзны хажуугийн хөшгийг (leg) давж тайзан дээр гарч тоглож байж л хөлс мөнгөө авдаг байснаас үүсэлтэй."
+              }
+            ],
+            "subtitle": {
+              "en": "Theatrical Superstition",
+              "mn": "Театрын мухар сүсэг"
+            }
+          },
+          {
+            "icon": "🐈",
+            "title": {
+              "en": "Raining cats and dogs",
+              "mn": "Хувингаар цутгах мэт"
+            },
+            "facts": [
+              {
+                "en": "An idiom used to describe particularly heavy or torrential rain.",
+                "mn": "Маш хүчтэй, аадар бороо орохыг дүрсэлдэг хэлц үг."
+              },
+              {
+                "en": "One theory points to 17th-century England where poor drainage left drowned street animals visible after storms.",
+                "mn": "Нэгэн таамаглалаар 17-р зууны Англид ус зайлуулах суваг муу байснаас үерийн дараа гудамжинд үхсэн муур, нохой харагддаг байснаас үүсчээ."
+              }
+            ],
+            "subtitle": {
+              "en": "Weather Lore",
+              "mn": "Цаг агаарын хэлц"
+            }
+          },
+          {
+            "icon": "🥶",
+            "title": {
+              "en": "Cold shoulder",
+              "mn": "Хүйтэн хандах"
+            },
+            "facts": [
+              {
+                "en": "To deliberately ignore someone or treat them in an unfriendly manner.",
+                "mn": "Хэн нэгнийг санаатайгаар үл тоомсорлож, найрсаг бус хандахыг хэлнэ."
+              },
+              {
+                "en": "In medieval England, hosts gave guests a cold cut of beef or mutton shoulder when it was time for them to leave.",
+                "mn": "Дундад зууны Англид зочдыг явах цаг болсныг сануулахын тулд халуун хоол биш, хонины хүйтэн bөр (shoulder) өгдөг байснаас үүсчээ."
+              }
+            ],
+            "subtitle": {
+              "en": "Social Etiquette",
+              "mn": "Нийгмийн ёс зүй"
+            }
+          },
+          {
+            "icon": "🪵",
+            "title": {
+              "en": "Touch wood / Knock on wood",
+              "mn": "Мод тогших"
+            },
+            "facts": [
+              {
+                "en": "Spoken to avoid tempting bad luck after boasting or making a positive prediction.",
+                "mn": "Амны билгээс айж, муу зүйлийг холдуулахын тулд ямар нэгэн сайн зүйл ярьсныхаа дараа хэлдэг үг."
+              },
+              {
+                "en": "Stems from ancient pagan beliefs that protective spirits and deities lived inside trees.",
+                "mn": "Модон дотор хамгаалагч сахиус, бурхад амьдардаг гэж үздэг байсан эртний бөө мөргөлийн зан үйлээс гаралтай."
+              }
+            ],
+            "subtitle": {
+              "en": "Warding Evil",
+              "mn": "Муугаас хамгаалах"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "The phrase 'bite the bullet' comes from soldiers biting on lead bullets to cope with pain during battlefield surgeries before anesthesia.",
+          "mn": "\"Шүд зуух\" (bite the bullet) гэх хэлц нь мэдээ алдуулагч бий болохоос өмнө цэргүүд тулааны талбарт хагалгаанд орохдоо өвдөлтөө тэсэхийн тулд сумыг зуудаг байснаас үүсэлтэй."
+        },
+        {
+          "en": "To 'spill the beans' might originate from ancient Greek voting systems where people dropped colored beans into a jar.",
+          "mn": "\"Нууцыг задруулах\" (spill the beans) гэдэг үг нь эртний Грекийн санал хураалтын системээс үүссэн байх магадлалтай бөгөөд хүмүүс өнгөт шошийг саванд хийж саналаа өгдөг байжээ."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "topicSlug": "literature",
+      "lessonKey": "literature.famous-idioms",
+      "key": "literature.famous-idioms.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "The theatrical phrase 'break a leg' is commonly used to wish performers good luck. Which of the following phrases is its traditional equivalent in the world of opera and ballet?",
+        "mn": "Жүжигчдэд амжилт хүсэж \"хөлөө хугалаарай\" (break a leg) гэдэг шиг дуурь, балетын урлагийнхан тайзан дээр гарахын өмнө бие биедээ юу гэж хэлдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Bravo",
+          "mn": "Браво"
+        },
+        {
+          "en": "Encore",
+          "mn": "Анкор"
+        },
+        {
+          "en": "Mamma mia",
+          "mn": "Мамма миа"
+        },
+        {
+          "en": "Toi toi toi",
+          "mn": "Той той той"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "'Toi toi toi' is an idiom used in opera to ward off a spell or bad luck, mimicking the sound of spitting. It is the classical music equivalent of 'break a leg'.",
+        "mn": "\"Той той той\" гэдэг нь муу ёр, чөтгөрийг үргээх гэж нулимах чимээг дуурайсан үг бөгөөд сонгодог урлагийнхан бие биедээ амжилт хүсэхдээ хэрэглэдэг."
+      }
+    },
+    {
+      "topicSlug": "literature",
+      "lessonKey": "literature.famous-idioms",
+      "key": "literature.famous-idioms.g2",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The idiom 'spill the beans' means to reveal a secret. According to a popular historical theory, this phrase originates from which ancient process?",
+        "mn": "\"Spill the beans\" буюу нууц задруулах гэсэн хэлц үг эртний ямар үйл явцаас үүсэлтэй гэж үздэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Greek voting with colored beans",
+          "mn": "Эртний Грекийн шошоор санал өгөх зан үйл"
+        },
+        {
+          "en": "Roman agricultural taxation",
+          "mn": "Ромын хөдөө аж ахуйн татвар хураалт"
+        },
+        {
+          "en": "Mayan hot chocolate ceremonies",
+          "mn": "Маяачуудын халуун шоколадны зан үйл"
+        },
+        {
+          "en": "Egyptian trade negotiations",
+          "mn": "Египетийн худалдааны хэлэлцээр"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "In ancient Greece, voters dropped colored beans (white for yes, black for no) into a jar. If the jar was knocked over, the secret votes were prematurely revealed.",
+        "mn": "Эртний Грект хүмүүс вааранд өнгөтэй шош (тийм бол цагаан, үгүй бол хар) хийж санал өгдөг байсан бөгөөд ваар асгарвал нууц санал хураалт задардаг байснаас үүссэн гэж үздэг."
+      }
+    },
+    {
+      "topicSlug": "literature",
+      "lessonKey": "literature.famous-idioms",
+      "key": "literature.famous-idioms.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The phrase 'bite the bullet' means to face a painful situation with courage. Before anesthesia, why did soldiers literally bite on lead bullets?",
+        "mn": "Хэцүү зүйлийг тэвчих, шүд зуун өнгөрөөхийг англиар 'bite the bullet' (сум зуух) гэдэг. Мэдээ алдуулагч үүсэхээс өмнө цэргүүд яагаад сумыг зуудаг байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "To test if the ammunition was real",
+          "mn": "Сум нь жинхэнэ эсэхийг шалгах гэж"
+        },
+        {
+          "en": "To cope with battlefield surgery pain",
+          "mn": "Тайруулах хагалгааны өвдөлтийг тэсвэрлэх гэж"
+        },
+        {
+          "en": "To absorb minerals during famine",
+          "mn": "Өлсгөлөнгийн үед эрдэс бодис авах гэж"
+        },
+        {
+          "en": "To clean their teeth before battle",
+          "mn": "Тулааны өмнө шүдээ цэвэрлэх гэж"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "During battlefield surgeries without anesthesia, wounded soldiers were given a soft lead bullet to bite on to cope with the pain and keep from screaming.",
+        "mn": "Дайны талбарт мэдээ алдуулагчгүй хагалгаа хийх үед шархадсан цэргүүдэд өвдөлтөө тэсвэрлэхэд нь тусалж, тугалган сум зуулгадаг байжээ."
+      }
+    },
+    {
+      "topicSlug": "literature",
+      "lessonKey": "literature.famous-idioms",
+      "key": "literature.famous-idioms.g4",
+      "difficulty": 2,
+      "prompt": {
+        "en": "People say 'knock on wood' to avoid ruining their good luck. This practice is believed to stem from ancient pagan beliefs about what?",
+        "mn": "Муу ёрноос сэргийлж хүмүүс \"мод тогшдог\". Энэхүү зан үйл нь эртний бөө мөргөлийн ямар итгэл үнэмшлээс үүсэлтэй вэ?"
+      },
+      "choices": [
+        {
+          "en": "The sound of woodpeckers",
+          "mn": "Тоншуулын гаргадаг чимээ"
+        },
+        {
+          "en": "Spirits living inside trees",
+          "mn": "Модон дотор амьдардаг сахиусуд"
+        },
+        {
+          "en": "Shipbuilding techniques",
+          "mn": "Усан онгоц үйлдвэрлэх арга"
+        },
+        {
+          "en": "The hardness of oak wood",
+          "mn": "Царс модны бат бөх чанар"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Ancient pagan cultures, including the Celts, believed that protective spirits and deities lived inside trees. Knocking on the wood invoked their protection.",
+        "mn": "Кельт зэрэг эртний ард түмэн модон дотор хамгаалагч сахиус, бурхад амьдардаг гэж үздэг байсан тул мод тогшиж тэднээс тусламж, хамгаалалт хүсдэг байжээ."
+      }
+    },
+    {
+      "topicSlug": "literature",
+      "lessonKey": "literature.famous-idioms",
+      "key": "literature.famous-idioms.g5",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which of these weather-related idioms is used to describe an extremely heavy rainstorm?",
+        "mn": "Аадар бороо маш хүчтэй орохыг англи хэлэнд ямар амьтдаар төлөөлүүлэн хэлдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Raining cats and dogs",
+          "mn": "Raining cats and dogs"
+        },
+        {
+          "en": "Blowing birds and bees",
+          "mn": "Blowing birds and bees"
+        },
+        {
+          "en": "Snowing bears and wolves",
+          "mn": "Snowing bears and wolves"
+        },
+        {
+          "en": "Hailing frogs and fish",
+          "mn": "Hailing frogs and fish"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "'Raining cats and dogs' is a classic idiom. One historical theory links it to 17th-century England, where heavy rain washed dead street animals down flooded roads.",
+        "mn": "\"Raining cats and dogs\" (Муур, нохой орж байна) гэдэг нь маш хүчтэй аадар орохыг хэлнэ. 17-р зууны Англид үерийн усаар гудамжны үхсэн амьтад урсдаг байснаас үүссэн гэх таамаг бий."
+      }
+    },
+    {
+      "topicSlug": "literature",
+      "lessonKey": "literature.famous-idioms",
+      "key": "literature.famous-idioms.g6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The idiom 'barking up the wrong tree' means pursuing a mistaken line of thought. Which historical activity does this phrase originate from?",
+        "mn": "\"Barking up the wrong tree\" (буруу мод руу хуцах) буюу буруу замаар явах, андуурах гэсэн хэлц үг аль салбараас гаралтай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Hunting with dogs",
+          "mn": "Анч нохойтой ан хийх"
+        },
+        {
+          "en": "Shipbuilding",
+          "mn": "Усан онгоцны үйлдвэрлэл"
+        },
+        {
+          "en": "Apple harvesting",
+          "mn": "Алимны ургац хураалт"
+        },
+        {
+          "en": "Forestry and logging",
+          "mn": "Ойн аж ахуй, мод бэлтгэл"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "It comes from raccoon hunting in America, where hunting dogs would bark at the base of a tree, mistakenly believing the prey was up there when it had escaped.",
+        "mn": "Энэ нь Америкт илбэнх агнадаг анч ноход олзоо өөр мод руу үсрээд зугтсаныг мэдэлгүй, хоосон мод руу харан хуцдаг байснаас үүсжээ."
+      }
+    },
+    {
+      "topicSlug": "literature",
+      "lessonKey": "literature.famous-idioms",
+      "key": "literature.famous-idioms.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The idiom 'to show one's true colors' means to reveal one's real character. What does 'colors' refer to in the original context of this phrase?",
+        "mn": "\"Show one's true colors\" (жинхэнэ өнгөө харуулах) гэдэг хэлц үгэнд орсон 'colors' (өнгө) гэдэг нь анх ямар утгатай байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "An artist's paint palette",
+          "mn": "Зураачийн будгийн өнгө"
+        },
+        {
+          "en": "Jockey silks in horse racing",
+          "mn": "Хурдан морины унаачийн хувцас"
+        },
+        {
+          "en": "A ship's flags",
+          "mn": "Усан онгоцны далбаа"
+        },
+        {
+          "en": "A soldier's uniform",
+          "mn": "Цэргийн дүрэмт хувцас"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "In maritime warfare, ships would fly false flags ('colors') to deceive enemies, but were legally required to hoist their actual national flag before firing.",
+        "mn": "Далайн тулаанд усан онгоцууд дайснаа хуурахын тулд хуурамч далбаа (colors) мандуулдаг байсан ч довтлохынхоо өмнө жинхэнэ улсынхаа далбааг мандуулах ёстой байжээ."
+      }
+    },
+    {
+      "topicSlug": "literature",
+      "lessonKey": "literature.famous-idioms",
+      "key": "literature.famous-idioms.g8",
+      "difficulty": 3,
+      "prompt": {
+        "en": "If you are 'saved by the bell', you are rescued from a difficult situation at the last minute. While commonly associated with boxing, what morbid historical fear is also rumored to have inspired this phrase?",
+        "mn": "\"Saved by the bell\" (хонхоор аврагдах) буюу эцсийн мөчид аврагдах гэсэн хэлц нь боксын спорттой холбоотойгоос гадна өөр ямар айдастай холбоотой яриа байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "A school test starting",
+          "mn": "Сургуулийн шалгалт эхлэх"
+        },
+        {
+          "en": "A ship hitting rocks in fog",
+          "mn": "Манан дунд онгоц хад мөргөх"
+        },
+        {
+          "en": "Being late for church",
+          "mn": "Сүмийн мөргөлөөс хоцрох"
+        },
+        {
+          "en": "Being buried alive",
+          "mn": "Амьдаараа оршуулагдах"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Although its modern use comes from boxing, a popular legend links it to Victorian 'safety coffins' equipped with a bell so a mistakenly buried person could signal for help.",
+        "mn": "Орчин үед боксын спорттой холбогддог ч Викторийн эринд хүмүүсийг андууран амьдаар нь оршуулахаас сэргийлж, авсанд хонх суурилуулдаг байснаас үүссэн гэх домог бий."
+      }
+    },
+    {
+      "topicSlug": "literature",
+      "lessonKey": "literature.famous-idioms",
+      "key": "literature.famous-idioms.g9",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The idiom 'burn the midnight oil' means to work late into the night. What does the 'oil' in this phrase refer to?",
+        "mn": "\"Burn the midnight oil\" (шөнийн тос шатаах) буюу шөнө дөл болтол ажиллах, хичээл хийх гэсэн хэлц үгний 'oil' (тос) нь юуг илэрхийлдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Whale blubber for heating",
+          "mn": "Дулаацуулах халимны өөх"
+        },
+        {
+          "en": "Engine oil",
+          "mn": "Хөдөлгүүрийн тос"
+        },
+        {
+          "en": "Lamp oil",
+          "mn": "Дэнлүүний тос"
+        },
+        {
+          "en": "Cooking oil",
+          "mn": "Хоолны тос"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Before electricity, people used oil lamps (often containing whale oil or kerosene) to read or work after dark. Burning it past midnight meant working exceptionally late.",
+        "mn": "Цахилгаан эрчим хүч үүсэхээс өмнө хүмүүс шөнө ажиллахдаа тосон дэнлүү хэрэглэдэг байснаас шөнө дөл болтол ажиллахыг ийнхүү нэрлэжээ."
+      }
+    },
+    {
+      "topicSlug": "literature",
+      "lessonKey": "literature.famous-idioms",
+      "key": "literature.famous-idioms.g10",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which famous English playwright is credited with popularizing or inventing common idioms like 'break the ice', 'wild goose chase', and 'in a pickle'?",
+        "mn": "\"Break the ice\" (мөс хагалах), \"wild goose chase\" (бүтэхгүй зүйлийн араас хөөцөлдөх) зэрэг олон хэлц үгийг зохиож, алдаршуулсан Английн алдарт зохиолч хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Geoffrey Chaucer",
+          "mn": "Жеффри Чосер"
+        },
+        {
+          "en": "William Shakespeare",
+          "mn": "Уильям Шекспир"
+        },
+        {
+          "en": "Charles Dickens",
+          "mn": "Чарльз Диккенс"
+        },
+        {
+          "en": "Jane Austen",
+          "mn": "Жейн Остин"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "William Shakespeare introduced or popularized thousands of words and idioms in his plays, including 'heart of gold' and 'love is blind'.",
+        "mn": "Уильям Шекспир өөрийн жүжгүүдээрээ дамжуулан англи хэлэнд мянга гаруй шинэ үг, хэлц үгийг нэвтрүүлж, алдаршуулсан байдаг."
+      }
+    },
+    {
+      "topicSlug": "literature",
+      "lessonKey": "literature.famous-idioms",
+      "key": "literature.famous-idioms.g11",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The idiom 'straight from the horse's mouth' means getting information from the highest authority. What trade does this phrase originate from?",
+        "mn": "\"Straight from the horse's mouth\" (морины амнаас шууд сонсох) буюу хамгийн найдвартай эх сурвалжаас мэдээлэл авах гэсэн хэлц үг ямар салбараас гаралтай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Royal mail delivery",
+          "mn": "Хааны шуудан хүргэлт"
+        },
+        {
+          "en": "Agricultural plowing",
+          "mn": "Газар тариалан, анжис анжислах"
+        },
+        {
+          "en": "Cavalry warfare",
+          "mn": "Морин цэргийн тулаан"
+        },
+        {
+          "en": "Horse racing and trading",
+          "mn": "Морин уралдаан, морины наймаа"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "In horse trading, a buyer could determine a horse's true age and health by examining its teeth, which was much more reliable than trusting the seller's words.",
+        "mn": "Морины наймаанд худалдагчийн үгэнд итгэхийн оронд морины шүдийг нь үзэж насыг нь үнэн зөвөөр тодорхойлдог байснаас энэ хэлц үүсжээ."
+      }
+    }
+  ]
+}

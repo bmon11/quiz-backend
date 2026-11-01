@@ -1,0 +1,1865 @@
+{
+  "lessons": [
+    {
+      "topicSlug": "countries",
+      "key": "countries.flags-of-the-world",
+      "order": 4,
+      "title": {
+        "en": "Flags of the World",
+        "mn": "Дэлхийн улсуудын далбаа"
+      },
+      "summary": {
+        "en": "Discover the unique designs, rare colors, and non-rectangular shapes of national flags.",
+        "mn": "Улс орнуудын төрийн далбааны өвөрмөц загвар, ховор өнгө, тэгш өнцөгт бус хэлбэрийн нууцыг таниж мэдээрэй."
+      },
+      "body": {
+        "en": "National flags use symbols and colors to tell a nation's story. While most are rectangular, Nepal's double-pennon stands out. Purple is the rarest color, historically because the dye was extremely expensive.",
+        "mn": "Улс орнуудын төрийн далбаа нь түүх, соёл, тусгаар тогтнолын бэлгэдэл байдаг. Дэлхийн ихэнх далбаа тэгш өнцөгт хэлбэртэй боловч Непал улсынх цор ганц гурвалжин хэлбэртэй. Мөн нил ягаан өнгө нь түүхэндээ маш үнэтэй будаг байснаас шалтгаалан хамгийн ховор хэрэглэгддэг өнгө юм."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "🇳🇵",
+            "title": {
+              "en": "Nepal",
+              "mn": "Непал"
+            },
+            "facts": [
+              {
+                "en": "The only non-quadrilateral national flag in the world.",
+                "mn": "Дэлхий дээрх цорын ганц тэгш өнцөгт бус хэлбэртэй төрийн далбаа."
+              }
+            ],
+            "subtitle": {
+              "en": "Double-pennon",
+              "mn": "Хос гурвалжин"
+            }
+          },
+          {
+            "icon": "🇨🇭",
+            "title": {
+              "en": "Switzerland",
+              "mn": "Швейцар"
+            },
+            "facts": [
+              {
+                "en": "Features a white cross on a square red field.",
+                "mn": "Улаан дэвсгэр дээр цагаан загалмай бүхий дөрвөлжин далбаа."
+              }
+            ],
+            "subtitle": {
+              "en": "Square Flag",
+              "mn": "Дөрвөлжин далбаа"
+            }
+          },
+          {
+            "icon": "🇩🇲",
+            "title": {
+              "en": "Dominica",
+              "mn": "Доминика"
+            },
+            "facts": [
+              {
+                "en": "One of the few flags to feature the color purple, depicting a parrot.",
+                "mn": "Нил ягаан өнгө орсон цөөн далбааны нэг бөгөөд тоть шувууг дүрсэлсэн байдаг."
+              }
+            ],
+            "subtitle": {
+              "en": "Sisserou Parrot",
+              "mn": "Сиссероу тоть"
+            }
+          },
+          {
+            "icon": "🇲🇿",
+            "title": {
+              "en": "Mozambique",
+              "mn": "Мозамбик"
+            },
+            "facts": [
+              {
+                "en": "Features an AK-47 assault rifle representing defense and vigilance.",
+                "mn": "Батлан хамгаалалт, сонор сэрэмжийг бэлгэдсэн АК-47 автомат бууны зурагтай."
+              }
+            ],
+            "subtitle": {
+              "en": "Modern Weaponry",
+              "mn": "Орчин үеийн зэвсэг"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "Only Switzerland and Vatican City have square national flags.",
+          "mn": "Дэлхий дээр зөвхөн Швейцар болон Ватикан гэсэн хоёр улс л дөрвөлжин хэлбэртэй төрийн далбаатай байдаг."
+        },
+        {
+          "en": "Liechtenstein and Haiti accidentally designed identical civil flags, only realizing it at the 1936 Olympics.",
+          "mn": "Лихтенштейн болон Гаити улсууд ижил төрийн далбаатай гэдгээ 1936 оны Олимпын наадам дээр л анх мэджээ."
+        }
+      ]
+    },
+    {
+      "topicSlug": "countries",
+      "key": "countries.currencies",
+      "order": 5,
+      "title": {
+        "en": "Currencies",
+        "mn": "Мөнгөн тэмдэгтүүд"
+      },
+      "summary": {
+        "en": "Explore the fascinating history and value of global currencies, from the US dollar to the Mongolian tögrög.",
+        "mn": "Ам.доллароос эхлээд Монголын төгрөг хүртэлх дэлхийн мөнгөн тэмдэгтүүдийн сонирхолтой түүх, үнэ цэнийг судлаарай."
+      },
+      "body": {
+        "en": "Modern currencies are protected by advanced security features and represent a country's economic strength. The US dollar is the most widely held reserve currency, while the Kuwaiti dinar holds the title of the highest-valued currency unit.",
+        "mn": "Орчин үеийн мөнгөн тэмдэгтүүд нь нууцлалын өндөр технологитой бөгөөд улс орныхоо эдийн засгийн хүчин чадлыг илтгэдэг. Ам.доллар дэлхийн хамгийн түгээмэл нөөц валют бол Кувейт динар хамгийн өндөр ханштай мөнгөн тэмдэгт юм."
+      },
+      "visual": {
+        "kind": "bar",
+        "unit": {
+          "en": "USD value per unit",
+          "mn": "Нэгж валютын ам.доллартай харьцах ханш"
+        },
+        "horizontal": true,
+        "items": [
+          {
+            "label": {
+              "en": "Kuwaiti Dinar (KWD)",
+              "mn": "Кувейт динар (KWD)"
+            },
+            "value": 3.25
+          },
+          {
+            "label": {
+              "en": "Bahraini Dinar (BHD)",
+              "mn": "Бахрейн динар (BHD)"
+            },
+            "value": 2.65
+          },
+          {
+            "label": {
+              "en": "Omani Rial (OMR)",
+              "mn": "Оман риал (OMR)"
+            },
+            "value": 2.6
+          },
+          {
+            "label": {
+              "en": "Jordanian Dinar (JOD)",
+              "mn": "Иордан динар (JOD)"
+            },
+            "value": 1.41
+          },
+          {
+            "label": {
+              "en": "British Pound (GBP)",
+              "mn": "Британийн фунт (GBP)"
+            },
+            "value": 1.27
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "The Mongolian tögrög was introduced in 1925 to replace the Chinese liang and Russian rubles.",
+          "mn": "Монгол улсын үндэсний мөнгөн тэмдэгт төгрөгийг 1925 онд Хятадын лан болон Оросын рублийг орлуулан гүйлгээнд нэвтрүүлжээ."
+        },
+        {
+          "en": "Zimbabwe once printed a 100-trillion-dollar note due to extreme hyperinflation.",
+          "mn": "Зимбабве улс хэт инфляцаас шалтгаалан түүхэндээ 100 их наяд долларын дэвсгэртийг хэвлэж байжээ."
+        }
+      ]
+    },
+    {
+      "topicSlug": "countries",
+      "key": "countries.official-languages",
+      "order": 6,
+      "title": {
+        "en": "Official Languages",
+        "mn": "Албан ёсны хэлнүүд"
+      },
+      "summary": {
+        "en": "How countries manage communication, from single national languages to nations with dozens of official tongues.",
+        "mn": "Нэг хэлтэй улсаас эхлээд олон арван албан ёсны хэлтэй улсууд харилцаа холбоогоо хэрхэн зохицуулдаг вэ?"
+      },
+      "body": {
+        "en": "While many countries have a single official language to unify the nation, others embrace linguistic diversity. Some nations, like the United States, do not have a legally declared official language at the federal level.",
+        "mn": "Олон улс орон үндэсний эв нэгдлийг хангахын тулд ганцхан албан ёсны хэлтэй байдаг бол зарим нь хэлний олон төрлийг хүлээн зөвшөөрдөг. АНУ зэрэг зарим улс холбооны хэмжээнд хуулиар тогтоосон албан ёсны хэлгүй байдаг."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "icon": "🇨🇭",
+            "title": {
+              "en": "Switzerland",
+              "mn": "Швейцар"
+            },
+            "facts": [
+              {
+                "en": "Has four official languages: German, French, Italian, and Romansh.",
+                "mn": "Герман, франц, итали, романш гэсэн дөрвөн албан ёсны хэлтэй."
+              }
+            ],
+            "subtitle": {
+              "en": "Quad-lingual",
+              "mn": "Дөрвөн хэлтэн"
+            }
+          },
+          {
+            "icon": "🇿🇦",
+            "title": {
+              "en": "South Africa",
+              "mn": "Өмнөд Африкийн Бүгд Найрамдах Улс"
+            },
+            "facts": [
+              {
+                "en": "Recognizes 12 official languages to promote cultural inclusivity.",
+                "mn": "Соёлын олон талт байдлыг хангах үүднээс 12 албан ёсны хэлийг хүлээн зөвшөөрдөг."
+              }
+            ],
+            "subtitle": {
+              "en": "Rainbow Nation",
+              "mn": "Солонгон үндэстэн"
+            }
+          },
+          {
+            "icon": "🇧🇴",
+            "title": {
+              "en": "Bolivia",
+              "mn": "Боливи"
+            },
+            "facts": [
+              {
+                "en": "Recognizes Spanish and over 36 indigenous languages as official.",
+                "mn": "Испани хэл болон нутгийн уугуул иргэдийн 36 гаруй хэлийг албан ёсных гэж үздэг."
+              }
+            ],
+            "subtitle": {
+              "en": "Indigenous Diversity",
+              "mn": "Уугуул хэлний баялаг"
+            }
+          },
+          {
+            "icon": "🇸🇬",
+            "title": {
+              "en": "Singapore",
+              "mn": "Сингапур"
+            },
+            "facts": [
+              {
+                "en": "Uses English, Malay, Mandarin, and Tamil as official languages.",
+                "mn": "Англи, малай, мандарин хятад, тамил хэлийг албан ёсоор хэрэглэдэг."
+              }
+            ],
+            "subtitle": {
+              "en": "Multicultural Hub",
+              "mn": "Олон соёлт төв"
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "Papua New Guinea is the most linguistically diverse country, with over 800 spoken languages.",
+          "mn": "Папуа Шинэ Гвиней бол дэлхийн хамгийн олон хэлтэй улс бөгөөд тэнд 800 гаруй хэлээр ярьдаг."
+        },
+        {
+          "en": "French was the official language of England for nearly 300 years following the Norman Conquest.",
+          "mn": "Норманчуудын байлдан дагуулалтын дараа Англи улсын албан ёсны хэл бараг 300 жилийн турш франц хэл байжээ."
+        }
+      ]
+    },
+    {
+      "topicSlug": "countries",
+      "key": "countries.neighbours-and-borders",
+      "order": 7,
+      "title": {
+        "en": "Neighbours and Borders",
+        "mn": "Хөршүүд ба хил хязгаар"
+      },
+      "summary": {
+        "en": "Explore the world's longest borders, enclave territories, and landlocked nations.",
+        "mn": "Дэлхийн хамгийн урт хил хязгаар, анклав газар нутаг болон далайд гарцгүй орнуудын сонирхолтой газар зүйг судлаарай."
+      },
+      "body": {
+        "en": "Borders define the political reach of nations, sometimes dividing communities or creating unique enclaves. China and Russia have the most land borders, while Canada and the US share the longest international land border.",
+        "mn": "Улсын хил нь газар нутгийн хязгаарыг тогтоохоос гадна заримдаа сонирхолтой анклав нутгуудыг үүсгэдэг. Хятад болон Орос улсууд хамгийн олон хөрштэй бол Канад, АНУ-ын хил дэлхийн хамгийн урт хуурай газрын хил юм."
+      },
+      "visual": {
+        "kind": "timeline",
+        "items": [
+          {
+            "when": {
+              "en": "1815",
+              "mn": "1815 он"
+            },
+            "title": {
+              "en": "Congress of Vienna",
+              "mn": "Венийн конгресс"
+            },
+            "body": {
+              "en": "Established Switzerland's permanently neutral borders, recognized globally.",
+              "mn": "Швейцар улсын байнгын төвийг сахих хилийн шугамыг олон улсад албан ёсоор баталгаажуулав."
+            }
+          },
+          {
+            "when": {
+              "en": "1911",
+              "mn": "1911 он"
+            },
+            "title": {
+              "en": "Mongolian Independence",
+              "mn": "Монгол улс тусгаар тогтнолоо сэргээв"
+            },
+            "body": {
+              "en": "Began redefining borders with Russia and China after declaring independence from the Qing Dynasty.",
+              "mn": "Манж Чин улсаас тусгаар тогтнолоо зарласны дараа Орос, Хятад улстай хилээ шинэчлэн тогтоох ажил эхэлжээ."
+            }
+          },
+          {
+            "when": {
+              "en": "1989",
+              "mn": "1989 он"
+            },
+            "title": {
+              "en": "Fall of the Berlin Wall",
+              "mn": "Берлиний хана нурав"
+            },
+            "body": {
+              "en": "Initiated the dissolution of the inner German border, reuniting East and West Germany.",
+              "mn": "Зүүн ба Баруун Германыг зааглаж байсан хилийн хаалт нурж, хоёр улс нэгдэх зам нээгдэв."
+            }
+          },
+          {
+            "when": {
+              "en": "1995",
+              "mn": "1995 он"
+            },
+            "title": {
+              "en": "Schengen Agreement",
+              "mn": "Шенгений хэлэлцээр"
+            },
+            "body": {
+              "en": "Abolished systematic internal border controls across participating European countries.",
+              "mn": "Европын гишүүн орнуудын хооронд иргэд чөлөөтэй зорчих, хилийн хяналтыг цуцлах журам хэрэгжиж эхлэв."
+            }
+          },
+          {
+            "when": {
+              "en": "2026",
+              "mn": "2026 он"
+            },
+            "title": {
+              "en": "Digital Borders",
+              "mn": "Цахим хил"
+            },
+            "body": {
+              "en": "Integration of automated biometric systems and satellite tracking to monitor remote international borders.",
+              "mn": "Алслагдсан улсын хилийг хянах зорилгоор биометрик систем болон хиймэл дагуулын хяналтыг нэвтрүүлж байна."
+            }
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "Lesotho and San Marino are completely surrounded by a single other country.",
+          "mn": "Лесото болон Сан-Марино улсууд нь газар нутгаараа зөвхөн нэг л улсаар бүрэн хүрээлэгдсэн байдаг."
+        },
+        {
+          "en": "Mongolia is the second-largest landlocked country in the world, after Kazakhstan.",
+          "mn": "Монгол улс нь газар нутгийн хэмжээгээрээ Казахстан улсын дараа дэлхийд хоёрдугаарт ордог далайд гарцгүй орнууд юм."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.currencies",
+      "key": "countries.currencies.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which of these currencies is the most widely held reserve currency in the world?",
+        "mn": "Дэлхийн хамгийн түгээмэл нөөц валют аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "US Dollar",
+          "mn": "Ам.доллар"
+        },
+        {
+          "en": "Euro",
+          "mn": "Евро"
+        },
+        {
+          "en": "Japanese Yen",
+          "mn": "Японы иен"
+        },
+        {
+          "en": "British Pound",
+          "mn": "Британийн фунт"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The US Dollar (USD) is the dominant global reserve currency, representing over 58% of known central bank foreign exchange reserves. It has held this dominant position since the 1944 Bretton Woods Agreement.",
+        "mn": "Америкийн нэгдсэн улсын доллар (USD) нь дэлхийн хамгийн гол нөөц валют бөгөөд төв банкнуудын гадаад валютын нөөцийн 58 гаруй хувийг бүрдүүлдэг. Энэхүү давамгайлах байр сууриа 1944 оны Бреттон-Вүүдсийн хэлэлцээрээс хойш хадгалж байна."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.currencies",
+      "key": "countries.currencies.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which national currency is officially recognized as the highest-valued currency unit in the world against the US dollar?",
+        "mn": "Ам.доллартай харьцуулахад дэлхийн хамгийн өндөр ханштай мөнгөн тэмдэгтэд тооцогддог үндэсний валют аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "British Pound",
+          "mn": "Британийн фунт"
+        },
+        {
+          "en": "Bahraini Dinar",
+          "mn": "Бахрейн динар"
+        },
+        {
+          "en": "Swiss Franc",
+          "mn": "Швейцар франк"
+        },
+        {
+          "en": "Kuwaiti Dinar",
+          "mn": "Кувейт динар"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Kuwaiti Dinar (KWD) is the world's highest-valued currency unit, largely due to Kuwait's massive oil reserves and stable economic policies. One dinar is consistently worth more than three US dollars.",
+        "mn": "Кувейт улсын асар их газрын тосны нөөц болон эдийн засгийн тогтвортой бодлогын ачаар Кувейт динар (KWD) нь дэлхийн хамгийн өндөр ханштай мөнгөн тэмдэгтэд тооцогддог. Нэг динар нь тогтмол гурваас олон ам.доллартай тэнцдэг."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.currencies",
+      "key": "countries.currencies.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In 1925, Mongolia introduced the tögrög to replace which currencies that were commonly circulating in the country?",
+        "mn": "1925 онд Монгол Улс үндэсний мөнгөн тэмдэгт төгрөгийг гүйлгээнд нэвтрүүлэхээс өмнө зах зээлд ямар валютууд голлон эргэлдэж байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "American dollars and Spanish pesos",
+          "mn": "Америк доллар ба Испани песо"
+        },
+        {
+          "en": "French francs and German marks",
+          "mn": "Францын франк ба Германы марк"
+        },
+        {
+          "en": "Chinese liang and Russian rubles",
+          "mn": "Хятадын лан ба Оросын рубль"
+        },
+        {
+          "en": "Japanese yen and British pounds",
+          "mn": "Японы иен ба Британийн фунт"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Before the introduction of the tögrög in late 1925, Mongolia's economy relied heavily on Chinese silver liang (lan) and Russian rubles. The currency reform helped stabilize the young nation's economy and sovereignty.",
+        "mn": "1925 оны сүүлчээр төгрөгийг нэвтрүүлэхээс өмнө Монголын эдийн засагт Хятадын мөнгөн лан болон Оросын рубль голлон хэрэглэгдэж байв. Мөнгөний шинэчлэл нь залуу улсын эдийн засаг, тусгаар тогтнолыг бэхжүүлэхэд чухал үүрэг гүйцэтгэсэн."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.currencies",
+      "key": "countries.currencies.g4",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which country printed a 100-trillion-dollar banknote in 2008 due to historic hyperinflation?",
+        "mn": "Түүхэн дэх хамгийн хүчтэй хэт инфляцын улмаас 2008 онд аль улс 100 триллион (их наяд) долларын дэвсгэрт хэвлэж байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Argentina",
+          "mn": "Аргентин"
+        },
+        {
+          "en": "Venezuela",
+          "mn": "Венесуэл"
+        },
+        {
+          "en": "Zimbabwe",
+          "mn": "Зимбабве"
+        },
+        {
+          "en": "Hungary",
+          "mn": "Унгар"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Zimbabwe issued the 100-trillion-dollar note in 2008 during a period of extreme hyperinflation. Although it is no longer legal tender, these notes are now popular collector's items.",
+        "mn": "Зимбабве улс 2008 онд хэт инфляцын оргил үед 100 их наяд долларын дэвсгэртийг хэвлэн гаргаж байжээ. Өдгөө энэ нь албан ёсны төлбөрийн хэрэгсэл биш ч цуглуулагчдын дунд маш их эрэлттэй байдаг."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.currencies",
+      "key": "countries.currencies.g5",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the official currency of the United Kingdom?",
+        "mn": "Их Британи улсын албан ёсны мөнгөн тэмдэгт юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Franc",
+          "mn": "Франк"
+        },
+        {
+          "en": "Euro",
+          "mn": "Евро"
+        },
+        {
+          "en": "Pound Sterling",
+          "mn": "Фунт стерлинг"
+        },
+        {
+          "en": "Krone",
+          "mn": "Крон"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The British Pound Sterling (GBP) is the oldest currency in continuous use that is still in existence today. It is issued by the Bank of England.",
+        "mn": "Британийн фунт стерлинг (GBP) нь өнөөг хүртэл тасралтгүй хэрэглэгдэж буй дэлхийн хамгийн эртний валют юм. Үүнийг Английн банкнаас хэвлэн гаргадаг."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.currencies",
+      "key": "countries.currencies.g6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of these countries does NOT use the Euro (€) as its official national currency?",
+        "mn": "Дараах улсуудын аль нь Еврог (€) албан ёсны үндэсний мөнгөн тэмдэгтээ болгон ашигладагГҮЙ вэ?"
+      },
+      "choices": [
+        {
+          "en": "Portugal",
+          "mn": "Португал"
+        },
+        {
+          "en": "Ireland",
+          "mn": "Ирланд"
+        },
+        {
+          "en": "Finland",
+          "mn": "Финланд"
+        },
+        {
+          "en": "Sweden",
+          "mn": "Швед"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Sweden is a member of the European Union but has kept its own currency, the Swedish krona (SEK), instead of adopting the Euro. It joined the EU in 1995 but voted against the Euro in a 2003 referendum.",
+        "mn": "Швед улс нь Европын Холбооны гишүүн боловч Еврог нэвтрүүлэлгүй, өөрийн үндэсний мөнгөн тэмдэгт болох Шведийн кроныг (SEK) хадгалж үлдсэн юм. Тэд 1995 онд ЕХ-нд элссэн ч 2003 оны бүх нийтийн санал асуулгаар Еврог дэмжээгүй байна."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.currencies",
+      "key": "countries.currencies.g7",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which country is home to the Rand (ZAR), a currency also widely used by its immediate neighbors?",
+        "mn": "Хөрш зэргэлдээ орнууддаа ч өргөн хэрэглэгддэг Ранд (ZAR) хэмээх мөнгөн тэмдэгттэй улс аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Nigeria",
+          "mn": "Нигери"
+        },
+        {
+          "en": "Kenya",
+          "mn": "Кени"
+        },
+        {
+          "en": "Egypt",
+          "mn": "Египет"
+        },
+        {
+          "en": "South Africa",
+          "mn": "Өмнөд Африк"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The South African Rand is the official currency of South Africa. It is also accepted as legal tender alongside local currencies in Lesotho, Eswatini, and Namibia through the Common Monetary Area.",
+        "mn": "Өмнөд Африкийн ранд нь Өмнөд Африк улсын албан ёсны валют юм. Мөн Эвслийн мөнгөний холбооны гэрээний дагуу Лесото, Эсватини, Намиби улсуудад үндэсний мөнгөн тэмдэгттэй нь зэрэгцэн хууль ёсоор ашиглагддаг."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.currencies",
+      "key": "countries.currencies.g8",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The currency code 'CHF' represents the 'Confoederatio Helvetica Franc'. Which country's currency is this?",
+        "mn": "'CHF' буюу 'Confoederatio Helvetica Franc' гэх валютын код нь аль улсын мөнгөн тэмдэгтийг илэрхийлдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Hungary",
+          "mn": "Унгар"
+        },
+        {
+          "en": "Czech Republic",
+          "mn": "Чех"
+        },
+        {
+          "en": "Croatia",
+          "mn": "Хорват"
+        },
+        {
+          "en": "Switzerland",
+          "mn": "Швейцар"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "CHF is the currency code for the Swiss Franc. 'Confoederatio Helvetica' is the Latin name for the Swiss Confederation, chosen to avoid favoring any of the nation's four official languages.",
+        "mn": "CHF нь Швейцар франкийн валютын код юм. 'Confoederatio Helvetica' гэдэг нь тус улсын дөрвөн албан ёсны хэлний аль нэгийг нь илүүд үзэхгүй байх үүднээс сонгосон Швейцарын Холбооны латин нэр юм."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.currencies",
+      "key": "countries.currencies.g9",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the official currency of Japan?",
+        "mn": "Япон улсын албан ёсны мөнгөн тэмдэгт юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Ringgit",
+          "mn": "Ринггит"
+        },
+        {
+          "en": "Yuan",
+          "mn": "Юань"
+        },
+        {
+          "en": "Won",
+          "mn": "Вон"
+        },
+        {
+          "en": "Yen",
+          "mn": "Иен"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Japanese Yen (JPY) is the official currency of Japan and is the third most traded currency in the foreign exchange market. The word 'yen' literally means 'round object' in Japanese.",
+        "mn": "Японы иен (JPY) нь тус улсын албан ёсны мөнгөн тэмдэгт бөгөөд дэлхийн гадаад валютын зах зээлд арилжаалагддаг гуравдагч том валют юм. 'Иен' гэдэг үг нь япон хэлээр 'бөөрөнхий зүйл' гэсэн утгатай."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.currencies",
+      "key": "countries.currencies.g10",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which country uses the 'Real' (BRL) as its official currency?",
+        "mn": "Аль улс 'Реал' (BRL) хэмээх мөнгөн тэмдэгтийг албан ёсоор ашигладаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Mexico",
+          "mn": "Мексик"
+        },
+        {
+          "en": "Spain",
+          "mn": "Испани"
+        },
+        {
+          "en": "Argentina",
+          "mn": "Аргентин"
+        },
+        {
+          "en": "Brazil",
+          "mn": "Бразил"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Brazilian Real was introduced in 1994 as part of a successful economic plan to stabilize the country's hyperinflation. It replaced the short-lived cruzeiro real.",
+        "mn": "Бразилын реал нь тус улсын хэт инфляцыг тогтворжуулах эдийн засгийн амжилттай төлөвлөгөөний хүрээнд 1994 онд нэвтэрсэн юм. Энэ нь богино хугацаанд хэрэглэгдсэн крузейро реалыг орложээ."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.currencies",
+      "key": "countries.currencies.g11",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of these currencies is pegged directly to the US Dollar at a fixed exchange rate of exactly 1 USD to 3.64 QR?",
+        "mn": "Дараах валютуудын аль нь ам.доллартай 1 USD = 3.64 QR гэсэн тогтмол ханшаар шууд уягдсан байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Qatari Riyal",
+          "mn": "Катар риял"
+        },
+        {
+          "en": "Saudi Riyal",
+          "mn": "Саудын риял"
+        },
+        {
+          "en": "Kuwaiti Dinar",
+          "mn": "Кувейт динар"
+        },
+        {
+          "en": "Omani Rial",
+          "mn": "Оман риал"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Qatari Riyal (QAR) is officially pegged to the US Dollar at a fixed rate of 3.64 riyals per dollar. This peg has been maintained by decree since 2001 to ensure economic stability.",
+        "mn": "Катар риял (QAR) нь ам.доллартай 1 USD = 3.64 риял гэсэн тогтмол ханшаар уягдсан байдаг. Эдийн засгийн тогтвортой байдлыг хангах үүднээс энэхүү тогтмол ханшийг 2001 оноос хойш мөрдөж байна."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.neighbours-and-borders",
+      "key": "countries.neighbours-and-borders.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which of the following countries is completely landlocked, meaning it has no direct access to an open ocean?",
+        "mn": "Дараах улсуудын аль нь задгай далайд гарцгүй буюу бүх талаараа газраар хүрээлэгдсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Mongolia",
+          "mn": "Монгол"
+        },
+        {
+          "en": "Vietnam",
+          "mn": "Вьетнам"
+        },
+        {
+          "en": "Japan",
+          "mn": "Япон"
+        },
+        {
+          "en": "India",
+          "mn": "Энэтхэг"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Mongolia is the second-largest landlocked country in the world, completely surrounded by Russia and China. Kazakhstan is the largest.",
+        "mn": "Монгол Улс нь газар нутгийн хэмжээгээрээ Казахстан улсын дараа ордог дэлхийн хоёр дахь том далайд гарцгүй орон юм."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.neighbours-and-borders",
+      "key": "countries.neighbours-and-borders.g2",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which two countries share the longest international land border in the world?",
+        "mn": "Дэлхийн хамгийн урт хуурай газрын хил заагийг аль хоёр улс хуваалцдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Canada and the USA",
+          "mn": "Канад ба АНУ"
+        },
+        {
+          "en": "Russia and China",
+          "mn": "Орос ба Хятад"
+        },
+        {
+          "en": "India and China",
+          "mn": "Энэтхэг ба Хятад"
+        },
+        {
+          "en": "Brazil and Argentina",
+          "mn": "Бразил ба Аргентин"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Canada–United States border is the longest international land border, stretching over 8,891 kilometers (5,525 miles).",
+        "mn": "Канад болон АНУ-ын хил нь 8,891 километр үргэлжилдэг дэлхийн хамгийн урт хуурай газрын хил юм."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.neighbours-and-borders",
+      "key": "countries.neighbours-and-borders.g3",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which European microstate is completely surrounded by the single nation of Italy?",
+        "mn": "Итали улсын нутаг дэвсгэрээр бүрэн хүрээлэгдсэн Европын жижиг улс аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Andorra",
+          "mn": "Андорра"
+        },
+        {
+          "en": "Monaco",
+          "mn": "Монако"
+        },
+        {
+          "en": "San Marino",
+          "mn": "Сан-Марино"
+        },
+        {
+          "en": "Liechtenstein",
+          "mn": "Лихтенштейн"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "San Marino is an enclave completely surrounded by Italy. Vatican City is another example of a country entirely inside Italy.",
+        "mn": "Сан-Марино нь Итали улсаар бүрэн хүрээлэгдсэн анклав улс юм. Ватикан хот мөн Итали дотор оршдог өөр нэг жишээ билээ."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.neighbours-and-borders",
+      "key": "countries.neighbours-and-borders.g4",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which two countries have the highest number of neighboring countries sharing land borders, with 14 neighbors each?",
+        "mn": "Хуурай газраар хамгийн олон буюу тус бүр 14 улстай хиллэдэг ямар хоёр улс байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "India and Pakistan",
+          "mn": "Энэтхэг ба Пакистан"
+        },
+        {
+          "en": "Brazil and Germany",
+          "mn": "Бразил ба Герман"
+        },
+        {
+          "en": "Canada and Russia",
+          "mn": "Канад ба Орос"
+        },
+        {
+          "en": "China and Russia",
+          "mn": "Хятад ба Орос"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "China and Russia each share official land borders with 14 sovereign countries, more than any other nation in the world.",
+        "mn": "Хятад болон Орос улсууд тус бүр хуурай газраар 14 тусгаар тогтносон улстай хиллэдэг нь дэлхийн хамгийн олон хөрштэй орнуудад тооцогддог."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.neighbours-and-borders",
+      "key": "countries.neighbours-and-borders.g5",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which agreement, signed in 1985, led to the creation of Europe's border-free zone?",
+        "mn": "Европын орнуудын хооронд хилийн хяналтгүй чөлөөтэй зорчих бүсийг бий болгосон 1985 оны хэлэлцээрийг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Schengen Agreement",
+          "mn": "Шенгений хэлэлцээр"
+        },
+        {
+          "en": "Treaty of Versailles",
+          "mn": "Версалийн гэрээ"
+        },
+        {
+          "en": "Maastricht Treaty",
+          "mn": "Маастрихтын гэрээ"
+        },
+        {
+          "en": "Geneva Convention",
+          "mn": "Женевийн конвенц"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Schengen Agreement was signed in a small wine-producing village in Luxembourg. Today, it allows passport-free travel across most European countries.",
+        "mn": "Шенгений хэлэлцээрт Люксембургийн усан үзмийн тариалан бүхий жижиг тосгонд гарын үсэг зурж байжээ. Өнөөдөр энэ нь Европын ихэнх орнуудаар визгүй зорчих боломжийг олгож байна."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.neighbours-and-borders",
+      "key": "countries.neighbours-and-borders.g6",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of these is a 'doubly landlocked' country, meaning it is surrounded entirely by other landlocked countries?",
+        "mn": "Дараах улсуудаас аль нь зөвхөн далайд гарцгүй орнуудаар хүрээлэгдсэн 'давхар далайд гарцгүй' улс вэ?"
+      },
+      "choices": [
+        {
+          "en": "Liechtenstein",
+          "mn": "Лихтенштейн"
+        },
+        {
+          "en": "Switzerland",
+          "mn": "Швейцар"
+        },
+        {
+          "en": "Mongolia",
+          "mn": "Монгол"
+        },
+        {
+          "en": "Bolivia",
+          "mn": "Боливи"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Liechtenstein and Uzbekistan are the only two doubly landlocked countries in the world. To reach an ocean from there, you must cross at least two borders.",
+        "mn": "Дэлхий дээр Лихтенштейн болон Узбекистан гэсэн ердөө хоёрхон давхар далайд гарцгүй улс байдаг. Эдгээр улсаас далайд гарахын тулд хамгийн багадаа хоёр улсын хилийг давах шаардлагатай."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.neighbours-and-borders",
+      "key": "countries.neighbours-and-borders.g7",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of the following countries does NOT share a land border with Mongolia?",
+        "mn": "Дараах улсуудаас аль нь Монгол Улстай хуурай газраар хиллэдэггүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "China",
+          "mn": "Хятад"
+        },
+        {
+          "en": "None of these",
+          "mn": "Эдгээрийн аль нь ч биш"
+        },
+        {
+          "en": "Russia",
+          "mn": "Орос"
+        },
+        {
+          "en": "Kazakhstan",
+          "mn": "Казахстан"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Although Kazakhstan is only about 37 kilometers away from Mongolia's western tip, they do not share a border and are separated by Russia and China.",
+        "mn": "Казахстан улс нь Монгол Улсын баруун захаас ердөө 37 орчим километрийн зайд оршдог боловч Орос, Хятад улсын нутаг дэвсгэрээр зааглагддаг тул шууд хиллэдэггүй."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.neighbours-and-borders",
+      "key": "countries.neighbours-and-borders.g8",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which country has the longest continuous coastline in the world?",
+        "mn": "Дэлхийн хамгийн урт үргэлжилсэн далайн эргийн шугамтай улс аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Canada",
+          "mn": "Канад"
+        },
+        {
+          "en": "Indonesia",
+          "mn": "Индонези"
+        },
+        {
+          "en": "Russia",
+          "mn": "Орос"
+        },
+        {
+          "en": "Australia",
+          "mn": "Австрали"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Canada has the longest coastline of any country in the world, stretching over 243,042 kilometers (151,019 miles) across three oceans.",
+        "mn": "Канад улс нь гурван далай дамнасан 243,042 километр урт эргийн шугамтай бөгөөд энэ үзүүлэлтээрээ дэлхийд тэргүүлдэг."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.neighbours-and-borders",
+      "key": "countries.neighbours-and-borders.g9",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of these island countries shares a land border with the United Kingdom?",
+        "mn": "Дараах арлын улсуудаас аль нь Их Британи улстай хуурай газраар хиллэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "France",
+          "mn": "Франц"
+        },
+        {
+          "en": "Iceland",
+          "mn": "Исланд"
+        },
+        {
+          "en": "Denmark",
+          "mn": "Дани"
+        },
+        {
+          "en": "Ireland",
+          "mn": "Ирланд"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Republic of Ireland shares a 499-kilometer land border with Northern Ireland, which is part of the United Kingdom.",
+        "mn": "Бүгд Найрамдах Ирланд Улс нь Их Британийн бүрэлдэхүүн хэсэг болох Хойд Ирландтай 499 километр урт газраар хиллэдэг."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.neighbours-and-borders",
+      "key": "countries.neighbours-and-borders.g10",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which of these South American nations shares a land border with France?",
+        "mn": "Өмнөд Америкийн дараах орнуудын аль нь Франц улстай хуурай газраар хиллэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Argentina",
+          "mn": "Аргентин"
+        },
+        {
+          "en": "Colombia",
+          "mn": "Колумби"
+        },
+        {
+          "en": "Brazil",
+          "mn": "Бразил"
+        },
+        {
+          "en": "Venezuela",
+          "mn": "Венесуэл"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "France shares its longest land border with Brazil via French Guiana, an overseas department of France located in South America.",
+        "mn": "Франц улсын хамгийн урт хуурай газрын хил нь Өмнөд Америкт орших түүний хилийн чанад дахь газар нутаг болох Францын Гвианагаар дамжин Бразил улстай хиллэдэг шугам юм."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.neighbours-and-borders",
+      "key": "countries.neighbours-and-borders.g11",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which physical geographical feature forms the natural border between Europe and Asia in Russia?",
+        "mn": "ОХУ-ын нутаг дэвсгэрт Европ болон Ази тивийг заагладаг байгалийн хилийн шугам болох нурууг нэрлэнэ үү."
+      },
+      "choices": [
+        {
+          "en": "Ural Mountains",
+          "mn": "Уралын нуруу"
+        },
+        {
+          "en": "Alps",
+          "mn": "Альпийн нуруу"
+        },
+        {
+          "en": "Himalayas",
+          "mn": "Гималайн нуруу"
+        },
+        {
+          "en": "Andes",
+          "mn": "Андын нуруу"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Ural Mountains run from north to south through western Russia and are widely accepted as the natural boundary between Europe and Asia.",
+        "mn": "Уралын нуруу нь Оросын баруун хэсгээр хойноос урагш үргэлжлэх бөгөөд Ази болон Европ тивийг зааглах газар зүйн байгалийн хил болдог."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.flags-of-the-world",
+      "key": "countries.flags-of-the-world.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "While almost all national flags are rectangular, only two sovereign states in the world have officially square national flags. One is Switzerland; which is the other?",
+        "mn": "Дэлхийн бараг бүх улсын төрийн далбаа тэгш өнцөгт хэлбэртэй байдаг бол ердөө хоёрхон улс албан ёсоор дөрвөлжин хэлбэртэй далбаатай байдаг. Нэг нь Швейцар улс бол нөгөөх нь аль улс вэ?"
+      },
+      "choices": [
+        {
+          "en": "Liechtenstein",
+          "mn": "Лихтенштейн"
+        },
+        {
+          "en": "Monaco",
+          "mn": "Монако"
+        },
+        {
+          "en": "San Marino",
+          "mn": "Сан-Марино"
+        },
+        {
+          "en": "Vatican City",
+          "mn": "Ватикан"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Switzerland and Vatican City are the only two countries with square flags. The Vatican flag features the coat of arms with the keys of Saint Peter.",
+        "mn": "Швейцар болон Ватикан нь дөрвөлжин төрийн далбаатай дэлхийн цорын ганц хоёр улс юм. Ватиканы далбаан дээр Гэгээн Петрийн түлхүүр бүхий сүлдийг дүрсэлсэн байдаг."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.flags-of-the-world",
+      "key": "countries.flags-of-the-world.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Nepal has the world's only non-quadrilateral national flag. What geometric shape is it officially classified as?",
+        "mn": "Непал улс нь дэлхийн хамгийн өвөрмөц буюу тэгш өнцөгт бус төрийн далбаатай цорын ганц улс юм. Энэхүү далбааны хэлбэрийг албан ёсоор юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Pentagon",
+          "mn": "Таван өнцөгт"
+        },
+        {
+          "en": "Trapezoid",
+          "mn": "Трапец"
+        },
+        {
+          "en": "Hexagon",
+          "mn": "Зургаан өнцөгт"
+        },
+        {
+          "en": "Double-pennon",
+          "mn": "Хос гурвалжин"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Nepal's flag is made of two stacked triangles (a double-pennon). The blue border symbolizes peace, while the crimson red is Nepal's national color.",
+        "mn": "Непалын далбаа нь дээр дээрээсээ давхарласан хоёр гурвалжин дүрсийг үүсгэдэг. Цэнхэр хүрээ нь амар амгаланг, харин тод улаан өнгө нь Непалын үндэсний өнгийг бэлгэддэг."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.flags-of-the-world",
+      "key": "countries.flags-of-the-world.g3",
+      "difficulty": 3,
+      "prompt": {
+        "en": "At the 1936 Summer Olympics, two nations realized they had been using identical civil flags. To avoid future confusion, one of them added a crown to its flag. Which nation added the crown?",
+        "mn": "1936 оны Зуны Олимпын наадамд хоёр улс яг ижилхэн иргэний далбаа ашиглаж байгаагаа анзаарчээ. Дараа нь үүнээс сэргийлэхийн тулд нэг улс нь далбаан дээрээ титэм нэмсэн байна. Аль улс нь титэм нэмсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Haiti",
+          "mn": "Гаити"
+        },
+        {
+          "en": "Liechtenstein",
+          "mn": "Лихтенштейн"
+        },
+        {
+          "en": "Luxembourg",
+          "mn": "Люксембург"
+        },
+        {
+          "en": "Monaco",
+          "mn": "Монако"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Liechtenstein added a gold crown in 1937 to distinguish its flag from Haiti's. Haiti also modified its state flag by adding its coat of arms on a white square.",
+        "mn": "Лихтенштейн улс Гаитийн далбаанаас ялгарахын тулд 1937 онд алтан титэм нэмж оруулжээ. Харин Гаити улс цагаан дөрвөлжин дээр төрийн сүлдээ байршуулан өөрчилсөн байна."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.flags-of-the-world",
+      "key": "countries.flags-of-the-world.g4",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Dominica is one of the very few countries to feature the rare color purple on its national flag, depicting its national bird. What is this bird?",
+        "mn": "Доминика улс нь төрийн далбаандаа маш ховор нил ягаан өнгийг оруулсан цөөхөн улсын нэг бөгөөд үндэсний шувуугаа дүрсэлсэн байдаг. Энэ нь ямар шувуу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Scarlet macaw",
+          "mn": "Ара тоть"
+        },
+        {
+          "en": "Sisserou parrot",
+          "mn": "Сиссероу тоть"
+        },
+        {
+          "en": "Bald eagle",
+          "mn": "Цагаан толгойт бүргэд"
+        },
+        {
+          "en": "Quetzal",
+          "mn": "Кетцаль шувуу"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Sisserou parrot (Imperial Amazon) is endemic to Dominica and is critically endangered. Purple dye was historically so expensive that few nations could afford to use it on flags.",
+        "mn": "Сиссероу тоть (Амазоны эзэн хааны тоть) нь зөвхөн Доминикад байдаг, устах аюулд орсон шувуу юм. Түүхэнд нил ягаан будгийг маш өндөр өртөгтэйгөөр гаргаж авдаг байсан тул улс орнууд далбаандаа ашиглаж чаддаггүй байв."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.flags-of-the-world",
+      "key": "countries.flags-of-the-world.g5",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which African nation's national flag features an image of a modern AK-47 assault rifle, representing defense and vigilance?",
+        "mn": "Батлан хамгаалах болон сонор сэрэмжийг бэлгэдсэн, орчин үеийн АК-47 автомат бууны зураг бүхий төрийн далбаатай Африкийн улс аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Mozambique",
+          "mn": "Мозамбик"
+        },
+        {
+          "en": "Angola",
+          "mn": "Ангол"
+        },
+        {
+          "en": "Zimbabwe",
+          "mn": "Зимбабве"
+        },
+        {
+          "en": "Somalia",
+          "mn": "Сомали"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Mozambique's flag is the only UN member state flag to feature a modern assault rifle. It symbolizes the country's armed struggle for independence.",
+        "mn": "Мозамбик бол НҮБ-ын гишүүн орнуудаас төрийн далбаан дээрээ орчин үеийн автомат буу дүрсэлсэн цорын ганц улс юм. Энэ нь тус улсын тусгаар тогтнолын төлөөх зэвсэгт тэмцлийг илэрхийлдэг."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.flags-of-the-world",
+      "key": "countries.flags-of-the-world.g6",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which of the following sovereign, independent countries still features the British Union Jack in the canton (upper left corner) of its national flag?",
+        "mn": "Дараах тусгаар тогтносон улсуудаас аль нь төрийн далбааныхаа зүүн дээд буланд Их Британийн далбааг (Юнион Жек) багтаасан хэвээр байгаа вэ?"
+      },
+      "choices": [
+        {
+          "en": "South Africa",
+          "mn": "Өмнөд Африкийн Улс"
+        },
+        {
+          "en": "India",
+          "mn": "Энэтхэг"
+        },
+        {
+          "en": "Canada",
+          "mn": "Канад"
+        },
+        {
+          "en": "New Zealand",
+          "mn": "Шинэ Зеланд"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "New Zealand and Australia still retain the Union Jack on their flags. Canada replaced its red ensign with the famous maple leaf flag in 1965.",
+        "mn": "Шинэ Зеланд болон Австрали улс далбаандаа Юнион Жекийг хэвээр үлдээсэн байдаг. Канад улс 1965 онд улаан далбаагаа алдарт агч модны навчтай далбаагаар сольсон юм."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.flags-of-the-world",
+      "key": "countries.flags-of-the-world.g7",
+      "difficulty": 3,
+      "prompt": {
+        "en": "According to legend, this country's flag fell from the sky during the Battle of Lyndanisse in 1219, making it the oldest continuously used national flag in the world. Which country is it?",
+        "mn": "Домогт өгүүлснээр, 1219 оны Линданиссын тулалдааны үеэр тэнгэрээс унаж ирсэн гэгддэг, дэлхийн хамгийн эртнээс тасралтгүй ашиглагдаж буй төрийн далбаа аль улсынх вэ?"
+      },
+      "choices": [
+        {
+          "en": "Austria",
+          "mn": "Австри"
+        },
+        {
+          "en": "Denmark",
+          "mn": "Дани"
+        },
+        {
+          "en": "Sweden",
+          "mn": "Швед"
+        },
+        {
+          "en": "Norway",
+          "mn": "Норвеги"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Known as the Dannebrog, Denmark's flag holds the Guinness World Record for the oldest continuously used national flag. It inspired the Nordic cross design used by neighboring countries.",
+        "mn": "Уг далбаа нь дэлхийн хамгийн эртний, тасралтгүй ашиглагдаж буй далбаа гэж Гиннесийн номд бүртгэгджээ. Энэ нь Скандинавын бусад орнуудын загалмайт далбааны загварт нөлөөлсөн юм."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.flags-of-the-world",
+      "key": "countries.flags-of-the-world.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Only two internationally recognized countries feature a map of their own territory on their national flag. One is Kosovo; which is the other?",
+        "mn": "Олон улсад хүлээн зөвшөөрөгдсөн улсуудаас ердөө хоёр нь төрийн далбаан дээрээ өөрийн газар нутгийн зургийг дүрсэлсэн байдаг. Нэг нь Косово бол нөгөөх нь аль улс вэ?"
+      },
+      "choices": [
+        {
+          "en": "Cyprus",
+          "mn": "Кипр"
+        },
+        {
+          "en": "Sri Lanka",
+          "mn": "Шри-Ланка"
+        },
+        {
+          "en": "Madagascar",
+          "mn": "Мадагаскар"
+        },
+        {
+          "en": "Iceland",
+          "mn": "Исланд"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Cyprus and Kosovo are the only nations to display their geographic map on their national flags. The copper color on the Cypriot flag represents the island's rich copper deposits.",
+        "mn": "Кипр болон Косово нь газар нутгийнхаа зургийг далбаан дээрээ дүрсэлсэн цорын ганц улсууд юм. Киприйн далбаан дээрх зэс шар өнгө нь тус арлын зэсийн баялаг ордуудыг илэрхийлдэг."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.flags-of-the-world",
+      "key": "countries.flags-of-the-world.g9",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which European country's national flag consists of three horizontal stripes of black, red, and gold?",
+        "mn": "Хар, улаан, шар өнгийн хэвтээ гурван судал бүхий төрийн далбаатай Европын улс аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "France",
+          "mn": "Франц"
+        },
+        {
+          "en": "Belgium",
+          "mn": "Бельги"
+        },
+        {
+          "en": "Germany",
+          "mn": "Герман"
+        },
+        {
+          "en": "Spain",
+          "mn": "Испани"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Germany's flag colors date back to the early 19th century and represent unity and freedom. Belgium has the same colors but in vertical stripes.",
+        "mn": "Германы далбааны өнгөнүүд нь 19-р зууны эхэн үеэс гаралтай бөгөөд эв нэгдэл, эрх чөлөөг бэлгэддэг. Бельги улс ижил өнгөнүүдийг ашигладаг боловч босоо судалтай байдаг."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.flags-of-the-world",
+      "key": "countries.flags-of-the-world.g10",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which Caribbean island nation has the unique distinction of having the only national flag in the world that does not contain any red, white, or blue?",
+        "mn": "Дэлхий дээрх төрийн далбаануудаас улаан, цагаан, хөх өнгөний аль нь ч ороогүй цорын ганц далбаатай Карибын тэнгисийн арлын улс аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Grenada",
+          "mn": "Гренада"
+        },
+        {
+          "en": "Barbados",
+          "mn": "Барбадос"
+        },
+        {
+          "en": "Bahamas",
+          "mn": "Багам"
+        },
+        {
+          "en": "Jamaica",
+          "mn": "Ямайка"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Jamaica's flag consists of gold, green, and black. Gold represents the sun, green symbolizes the lush land, and black stands for strength and creativity.",
+        "mn": "Ямайк улсын далбаа нь шар, ногоон, хар өнгөнөөс бүрддэг. Шар өнгө нь нарны гэрлийг, ногоон нь үржил шимт газар нутгийг, хар өнгө нь хүч чадал, бүтээлч байдлыг илэрхийлдэг."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.flags-of-the-world",
+      "key": "countries.flags-of-the-world.g11",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The 'Nordic Cross' design is shared by several Northern European countries. Which of the following countries does NOT use a Nordic Cross on its national flag?",
+        "mn": "Скандинавын орнууд төрийн далбаандаа 'Скандинавын загалмай' хэмээх ижил загварыг ашигладаг. Дараах улсуудаас аль нь далбаандаа энэхүү загалмайг ашигладаггүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Ireland",
+          "mn": "Ирланд"
+        },
+        {
+          "en": "Norway",
+          "mn": "Норвеги"
+        },
+        {
+          "en": "Iceland",
+          "mn": "Исланд"
+        },
+        {
+          "en": "Finland",
+          "mn": "Финланд"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Ireland uses a vertical tricolor of green, white, and orange. Finland, Iceland, Norway, Sweden, and Denmark all feature the off-center Nordic cross.",
+        "mn": "Ирланд улс нь ногоон, цагаан, улбар шар өнгийн босоо гурван судал бүхий далбаатай. Харин Финланд, Исланд, Норвеги, Швед, Дани зэрэг орнууд төвөөсөө хазайсан Скандинавын загалмайг ашигладаг."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.flags-of-the-world",
+      "key": "countries.flags-of-the-world.g12",
+      "difficulty": 1,
+      "prompt": {
+        "en": "The national flag of Japan features a simple red circle on a white background. What astronomical body does this red circle represent?",
+        "mn": "Япон улсын төрийн далбаа нь цагаан дэвсгэр дээрх энгийн улаан дугуй дүрсээс бүрддэг. Энэхүү улаан дугуй нь ямар огторгуйн биетийг бэлгэддэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Mars",
+          "mn": "Ангараг"
+        },
+        {
+          "en": "Venus",
+          "mn": "Сугар"
+        },
+        {
+          "en": "The Moon",
+          "mn": "Сар"
+        },
+        {
+          "en": "The Sun",
+          "mn": "Нар"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The red disc represents the sun, reflecting Japan's name which translates to 'the land of the rising sun'. The official name of the flag is Nisshoki, meaning 'sun-mark flag'.",
+        "mn": "Улаан дугуй дүрс нь нарыг илэрхийлдэг бөгөөд энэ нь Японыг 'Мандах нарны орон' гэж нэрлэдэгтэй холбоотой юм. Далбааны албан ёсны нэрийг 'Ниссёки' буюу нарны тэмдэгт далбаа гэдэг."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.official-languages",
+      "key": "countries.official-languages.g1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the only country in South America where Portuguese is the sole official language?",
+        "mn": "Өмнөд Америкийн орнуудаас зөвхөн португал хэлийг цорын ганц албан ёсны хэлээ болгосон улс аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Brazil",
+          "mn": "Бразил"
+        },
+        {
+          "en": "Argentina",
+          "mn": "Аргентин"
+        },
+        {
+          "en": "Colombia",
+          "mn": "Колумби"
+        },
+        {
+          "en": "Venezuela",
+          "mn": "Венесуэл"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Brazil is the only Portuguese-speaking nation in the Americas. It was colonized by Portugal, unlike most of its Spanish-speaking neighbors.",
+        "mn": "Бразил улс нь Америк тив дэх португал хэлтэй цорын ганц улс юм. Хөрш орнууд нь испани хэлээр ярьдаг бол тус улс Португалийн колони байсан түүхтэй."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.official-languages",
+      "key": "countries.official-languages.g2",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Switzerland is famous for having multiple official languages. Which of the following is NOT one of Switzerland's four official languages?",
+        "mn": "Швейцар улс олон албан ёсны хэлтэй гэдгээрээ алдартай. Дараах хэлнүүдээс аль нь тус улсын дөрвөн албан ёсны хэлэнд багтдаггүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Romansh",
+          "mn": "Романш"
+        },
+        {
+          "en": "Spanish",
+          "mn": "Испани"
+        },
+        {
+          "en": "Italian",
+          "mn": "Итали"
+        },
+        {
+          "en": "French",
+          "mn": "Франц"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Switzerland has four official languages: German, French, Italian, and Romansh. Spanish is not an official language there.",
+        "mn": "Швейцар улс герман, франц, итали, романш гэсэн дөрвөн албан ёсны хэлтэй. Испани хэл үүнд багтдаггүй."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.official-languages",
+      "key": "countries.official-languages.g3",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Despite English being the dominant language spoken, which of these major countries does NOT have a legally declared official language at the federal level?",
+        "mn": "Англи хэл давамгайлдаг хэдий ч холбооны түвшинд хуулиар тогтоосон албан ёсны хэлгүй улс аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "United States",
+          "mn": "АНУ"
+        },
+        {
+          "en": "South Africa",
+          "mn": "Өмнөд Африк"
+        },
+        {
+          "en": "New Zealand",
+          "mn": "Шинэ Зеланд"
+        },
+        {
+          "en": "Canada",
+          "mn": "Канад"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The United States has no official language at the federal level, though English is the de facto national language and many states have declared it official.",
+        "mn": "АНУ холбооны түвшинд ямар нэгэн албан ёсны хэл хуульчлаагүй бөгөөд англи хэлийг де-факто буюу бодит байдал дээр гол хэл болгон ашигладаг."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.official-languages",
+      "key": "countries.official-languages.g4",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Canada recognizes two official languages. What are they?",
+        "mn": "Канад улс хоёр албан ёсны хэлийг хүлээн зөвшөөрдөг. Эдгээр нь ямар хэлнүүд вэ?"
+      },
+      "choices": [
+        {
+          "en": "English and Spanish",
+          "mn": "Англи болон испани"
+        },
+        {
+          "en": "French and German",
+          "mn": "Франц болон герман"
+        },
+        {
+          "en": "English and French",
+          "mn": "Англи болон франц"
+        },
+        {
+          "en": "English and Dutch",
+          "mn": "Англи болон нидерланд"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Under the Official Languages Act of 1969, Canada established English and French as its two official languages, giving them equal status.",
+        "mn": "1969 оны Албан ёсны хэлний тухай хуулиар Канад улс англи болон франц хэлийг албан ёсны хэл хэмээн тунхаглаж, эрх тэгш статустай болгожээ."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.official-languages",
+      "key": "countries.official-languages.g5",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which sovereign city-state is the only state in the world to use Latin as an official language?",
+        "mn": "Латин хэлийг албан ёсны хэлээ болгон ашигладаг дэлхийн цорын ганц тусгаар тогтносон улс аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Liechtenstein",
+          "mn": "Лихтенштейн"
+        },
+        {
+          "en": "Vatican City",
+          "mn": "Ватикан"
+        },
+        {
+          "en": "Monaco",
+          "mn": "Монако"
+        },
+        {
+          "en": "San Marino",
+          "mn": "Сан-Марино"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Vatican City uses Latin as an official language for the Holy See, making it the only country where this ancient language retains official status.",
+        "mn": "Ватикан улс нь Латин хэлийг албан ёсоор ашигладаг дэлхийн цорын ганц улс бөгөөд голдуу шашны болон төрийн албан бичигт хэрэглэдэг."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.official-languages",
+      "key": "countries.official-languages.g6",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Papua New Guinea is the world's most linguistically diverse nation. Which of its official languages is a widely spoken English-based creole?",
+        "mn": "Папуа Шинэ Гвиней нь дэлхийн хамгийн олон хэлний төрөл зүйлтэй улс юм. Тус улсын албан ёсны хэлнүүдээс англи хэлэнд суурилсан пижин буюу креол хэл нь аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Tok Pisin",
+          "mn": "Ток писин"
+        },
+        {
+          "en": "Maori",
+          "mn": "Маори"
+        },
+        {
+          "en": "Tagalog",
+          "mn": "Тагалог"
+        },
+        {
+          "en": "Hiri Motu",
+          "mn": "Хири моту"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Tok Pisin is an English-based creole and the most widely spoken language in Papua New Guinea, facilitating communication among hundreds of tribes.",
+        "mn": "Ток писин хэл нь англи хэлэнд суурилсан креол хэл бөгөөд олон зуун өөр хэлээр ярьдаг овог аймгуудын хооронд харилцах гол хэрэгсэл болдог."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.official-languages",
+      "key": "countries.official-languages.g7",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Singapore has four official languages, but which of these is uniquely designated as the single symbolic \"national language\"?",
+        "mn": "Сингапур улс дөрвөн албан ёсны хэлтэй боловч тэдгээрээс зөвхөн алийг нь цорын ганц бэлгэдлийн \"үндэсний хэл\" болгон заасан байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Tamil",
+          "mn": "Тамил"
+        },
+        {
+          "en": "Mandarin",
+          "mn": "Мандарин хятад"
+        },
+        {
+          "en": "Malay",
+          "mn": "Малай"
+        },
+        {
+          "en": "English",
+          "mn": "Англи"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "While English is the primary language of administration, Malay is designated as the symbolic national language, and the national anthem is sung in Malay.",
+        "mn": "Төрийн захиргааны гол хэл нь англи хэл боловч малай хэлийг бэлгэдлийн чанартай үндэсний хэл гэж үздэг бөгөөд төрийн дууллаа малай хэлээр дуулдаг."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.official-languages",
+      "key": "countries.official-languages.g8",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Bolivia holds the record for the constitution with the most official languages. Approximately how many official languages does Bolivia recognize?",
+        "mn": "Боливи улс хамгийн олон албан ёсны хэлийг үндсэн хуулиараа баталгаажуулсан дэлхийн дээд амжилтыг эзэмшдэг. Тус улс ойролцоогоор хэдэн албан ёсны хэлийг хүлээн зөвшөөрдөг вэ?"
+      },
+      "choices": [
+        {
+          "en": "11",
+          "mn": "11"
+        },
+        {
+          "en": "37",
+          "mn": "37"
+        },
+        {
+          "en": "82",
+          "mn": "82"
+        },
+        {
+          "en": "4",
+          "mn": "4"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Bolivia recognizes Spanish and 36 indigenous languages as official, making 37 official languages in total under its 2009 Constitution.",
+        "mn": "Боливи улс испани хэл болон нутгийн уугуул иргэдийн 36 хэлийг албан ёсных гэж үздэг тул 2009 оны Үндсэн хуулиараа нийт 37 албан ёсны хэлтэй болсон."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.official-languages",
+      "key": "countries.official-languages.g9",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the official state language of Mongolia, as defined by the Constitution?",
+        "mn": "Монгол Улсын Үндсэн хуульд зааснаар төрийн албан ёсны хэл аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Mongolian",
+          "mn": "Монгол хэл"
+        },
+        {
+          "en": "Khalkha",
+          "mn": "Халх аялга"
+        },
+        {
+          "en": "Cyrillic",
+          "mn": "Кирилл бичиг"
+        },
+        {
+          "en": "Uyghurjin",
+          "mn": "Монгол бичиг"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Constitution of Mongolia states that Mongolian is the official state language. It is written in Cyrillic, with steps being taken to co-use the traditional Mongolian script.",
+        "mn": "Монгол Улсын Үндсэн хуульд төрийн албан ёсны хэл нь монгол хэл байна гэж заасан байдаг. Одоогоор кирилл үсгээр бичиж байгаа бөгөөд үндэсний монгол бичгийг хослуулан хэрэглэх бэлтгэл ажил хийгдэж байна."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.official-languages",
+      "key": "countries.official-languages.g10",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In the Republic of Ireland, two languages have official status. Which language is constitutionally defined as the \"first official language\"?",
+        "mn": "Ирланд улсад хоёр хэл албан ёсны статустай байдаг. Үндсэн хуулиар аль хэлийг нь \"анхны албан ёсны хэл\" гэж тодорхойлсон байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Scots",
+          "mn": "Шотланд"
+        },
+        {
+          "en": "English",
+          "mn": "Англи"
+        },
+        {
+          "en": "Irish (Gaelic)",
+          "mn": "Ирланд (Гел)"
+        },
+        {
+          "en": "Welsh",
+          "mn": "Уэльс"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Constitution of Ireland designates Irish (Gaeilge) as the first official language, while English is recognized as the second official language.",
+        "mn": "Ирландын Үндсэн хуулиар ирланд (гел) хэлийг анхны албан ёсны хэл, харин англи хэлийг хоёр дахь албан ёсны хэл хэмээн заажээ."
+      }
+    },
+    {
+      "topicSlug": "countries",
+      "lessonKey": "countries.official-languages",
+      "key": "countries.official-languages.g11",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In 2023, South Africa officially recognized its 12th official language to promote inclusivity. What was this historic 12th language?",
+        "mn": "Өмнөд Африк улс 2023 онд тэгш байдлыг хангах үүднээс 12 дахь албан ёсны хэлээ хүлээн зөвшөөрсөн түүхтэй. Энэхүү 12 дахь хэл нь аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "South African Sign Language",
+          "mn": "Өмнөд Африкийн дохионы хэл"
+        },
+        {
+          "en": "Swahili",
+          "mn": "Суахили"
+        },
+        {
+          "en": "Khoekhoe",
+          "mn": "Хойхой хэл"
+        },
+        {
+          "en": "Portuguese",
+          "mn": "Португал"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "South African Sign Language (SASL) became the country's 12th official language in 2023, ensuring equal societal access for the deaf community.",
+        "mn": "Өмнөд Африкийн дохионы хэл (SASL) нь 2023 онд тус улсын 12 дахь албан ёсны хэл болсон бөгөөд энэ нь сонсголын бэрхшээлтэй иргэдийн эрхийг хамгаалсан түүхэн шийдвэр байв."
+      }
+    }
+  ]
+}

@@ -1,0 +1,3635 @@
+{
+ "lessons": [],
+ "questions": [
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.origins",
+   "key": "gods.origins.b11",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Which goat nursed baby Zeus while he hid on Crete?",
+    "mn": "Нялх Зевсийг Крит аралд нуугдаж байхад нь ямар ямаа хөхүүлсэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Amalthea",
+     "mn": "Амалтея"
+    },
+    {
+     "en": "Io",
+     "mn": "Ио"
+    },
+    {
+     "en": "Callisto",
+     "mn": "Каллисто"
+    },
+    {
+     "en": "Arachne",
+     "mn": "Арахна"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "Amalthea fed Zeus with her milk; one of her horns later became the cornucopia, the horn of plenty. In some versions Amalthea is a nymph who owned the goat.",
+    "mn": "Амалтея Зевсийг сүүгээрээ тэжээжээ. Түүний нэг эвэр хожим элбэг дэлбэгийн эвэр (корнукопия) болсон гэдэг. Зарим хувилбарт Амалтея ямаа биш, ямааны эзэн нимф байдаг."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.origins",
+   "key": "gods.origins.b12",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Which warriors clashed their spears and shields so Cronus would not hear baby Zeus crying?",
+    "mn": "Нялх Зевсийн уйлахыг Кронос сонсохгүйн тулд жад, бамбайгаа хангинуулж байсан дайчид хэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "The Cyclopes",
+     "mn": "Циклопууд"
+    },
+    {
+     "en": "The Satyrs",
+     "mn": "Сатирууд"
+    },
+    {
+     "en": "The Amazons",
+     "mn": "Амазонууд"
+    },
+    {
+     "en": "The Curetes",
+     "mn": "Куретүүд"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "The Curetes danced a noisy war dance around the cave on Crete to cover the baby's cries. Cretan youths later re-enacted this armed dance in Zeus's honour.",
+    "mn": "Куретүүд Критийн агуйн өмнө чимээ шуугиантай дайны бүжиг хийж, хүүхдийн уйлааныг дарж байжээ. Хожим Критийн залуучууд Зевсийг хүндэтгэн энэ зэвсэгт бүжгийг давтан бүжиглэдэг болсон."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.origins",
+   "key": "gods.origins.b13",
+   "difficulty": 3,
+   "prompt": {
+    "en": "Which of Cronus's children was swallowed first and therefore came out last?",
+    "mn": "Кроносын хүүхдүүдээс хэнийг нь хамгийн түрүүнд залгиж, тиймээс хамгийн сүүлд бөөлжсөн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Hera",
+     "mn": "Гера"
+    },
+    {
+     "en": "Demeter",
+     "mn": "Деметра"
+    },
+    {
+     "en": "Hestia",
+     "mn": "Гестиа"
+    },
+    {
+     "en": "Poseidon",
+     "mn": "Посейдон"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Hestia was Cronus's firstborn, so she was swallowed first and disgorged last. That is why she was called both the eldest and the youngest of the siblings.",
+    "mn": "Гестиа Кроносын ууган хүүхэд байсан тул хамгийн түрүүнд залгигдаж, хамгийн сүүлд гарчээ. Тиймээс түүнийг ах дүүсийн хамгийн ахмад, бас хамгийн бага нь гэж хоёуланг нь хэлдэг."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.origins",
+   "key": "gods.origins.b14",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Besides Zeus's thunderbolt, what did the Cyclopes forge for Poseidon?",
+    "mn": "Циклопууд Зевсийн аянгаас гадна Посейдонд юу хийж өгсөн бэ?"
+   },
+   "choices": [
+    {
+     "en": "A golden net",
+     "mn": "Алтан тор"
+    },
+    {
+     "en": "His trident",
+     "mn": "Гурван салаа сэрээ"
+    },
+    {
+     "en": "A silver bow",
+     "mn": "Мөнгөн нум"
+    },
+    {
+     "en": "A bronze chariot",
+     "mn": "Хүрэл тэрэг"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "Freed from Tartarus by Zeus, the Cyclopes thanked the gods with weapons: the thunderbolt for Zeus, the trident for Poseidon and the helmet of invisibility for Hades.",
+    "mn": "Зевс Циклопуудыг Тартараас суллахад тэд талархлаа зэвсгээр илэрхийлсэн: Зевст аянга, Посейдонд гурван салаа сэрээ, Хадест үл үзэгдэх дуулга."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.origins",
+   "key": "gods.origins.b15",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Which giants with a hundred hands and fifty heads fought on Zeus's side against the Titans?",
+    "mn": "Зуун гар, тавин толгойтой, Титануудын эсрэг Зевсийн талд тулалдсан аварга нар хэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "The Gigantes",
+     "mn": "Гигантууд"
+    },
+    {
+     "en": "The Hecatoncheires",
+     "mn": "Гекатонхейрүүд"
+    },
+    {
+     "en": "The Erinyes",
+     "mn": "Эриниүүд"
+    },
+    {
+     "en": "The Cyclopes",
+     "mn": "Циклопууд"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "The Hecatoncheires hurled boulders by the hundred at the Titans and helped end the ten-year war. Afterwards they became the guards of the Titans imprisoned in Tartarus.",
+    "mn": "Гекатонхейрүүд Титанууд руу зуу зуугаар нь хад чулуу шидэж, арван жилийн дайныг дуусгахад тусалжээ. Дараа нь тэд Тартарт хоригдсон Титануудын харуул болсон."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.origins",
+   "key": "gods.origins.b16",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Which monster did Gaia send against Zeus as his last great challenger, according to Hesiod?",
+    "mn": "Гесиодын хэлснээр Гая Зевсийн эсрэг сүүлчийн аюултай өрсөлдөгч болгон ямар мангасыг илгээсэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Typhon",
+     "mn": "Тифон"
+    },
+    {
+     "en": "Python",
+     "mn": "Пифон"
+    },
+    {
+     "en": "The Hydra",
+     "mn": "Гидра"
+    },
+    {
+     "en": "Ladon",
+     "mn": "Ладон"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "Typhon had a hundred serpent heads and nearly overthrew the gods. Zeus defeated him with thunderbolts; later writers said he was buried under Mount Etna.",
+    "mn": "Тифон зуун могой толгойтой байсан бөгөөд бурхдыг бараг түлхэн унагаах шахжээ. Зевс түүнийг аянгаар дарсан бөгөөд хожмын зохиолчид түүнийг Этна уулын доор булагдсан гэж бичсэн."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.origins",
+   "key": "gods.origins.b17",
+   "difficulty": 2,
+   "prompt": {
+    "en": "What was the war between the Olympian gods and the Giants called?",
+    "mn": "Олимпийн бурхад ба Гигантуудын хоорондох дайныг юу гэж нэрлэдэг вэ?"
+   },
+   "choices": [
+    {
+     "en": "The Titanomachy",
+     "mn": "Титаномахи"
+    },
+    {
+     "en": "The Theogony",
+     "mn": "Теогони"
+    },
+    {
+     "en": "The Iliad",
+     "mn": "Илиада"
+    },
+    {
+     "en": "The Gigantomachy",
+     "mn": "Гигантомахи"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "In the Gigantomachy the gods could only win with the help of a mortal, so Heracles fought beside them. The battle was a favourite subject of Greek temple sculpture, such as the Pergamon Altar.",
+    "mn": "Гигантомахид бурхад зөвхөн мөнх бус хүний тусламжтай ялах ёстой байсан тул Геракл тэдний талд тулалдсан. Энэ тулаан Пергамын тахилын ширээ зэрэг Грекийн сүм хийдийн баримал урлалын дуртай сэдэв байжээ."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.origins",
+   "key": "gods.origins.b18",
+   "difficulty": 1,
+   "prompt": {
+    "en": "What did Prometheus steal from the gods and give to humans?",
+    "mn": "Прометей бурхдаас юу хулгайлж, хүмүүст өгсөн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Wheat",
+     "mn": "Улаан буудай"
+    },
+    {
+     "en": "Wine",
+     "mn": "Дарс"
+    },
+    {
+     "en": "Fire",
+     "mn": "Гал"
+    },
+    {
+     "en": "Iron",
+     "mn": "Төмөр"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Prometheus smuggled fire to humanity hidden inside a hollow fennel stalk. As punishment Zeus chained him to a rock where an eagle ate his liver every day.",
+    "mn": "Прометей галыг хөндий ургамлын ишэнд нууж хүмүүст авчирсан. Үүний төлөө Зевс түүнийг хаданд гинжилж, бүргэд өдөр бүр элгийг нь иддэг болгожээ."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.origins",
+   "key": "gods.origins.b19",
+   "difficulty": 1,
+   "prompt": {
+    "en": "In Hesiod's 'Ages of Man', which was the first and happiest age?",
+    "mn": "Гесиодын «Хүн төрөлхтний үеүүд»-д хамгийн анхны, хамгийн аз жаргалтай үе аль нь вэ?"
+   },
+   "choices": [
+    {
+     "en": "The Silver Age",
+     "mn": "Мөнгөн үе"
+    },
+    {
+     "en": "The Bronze Age",
+     "mn": "Хүрэл үе"
+    },
+    {
+     "en": "The Golden Age",
+     "mn": "Алтан үе"
+    },
+    {
+     "en": "The Iron Age",
+     "mn": "Төмөр үе"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "In the Golden Age, under Cronus, people lived without toil, illness or old age. Hesiod gloomily placed his own time in the Iron Age, the worst of the five.",
+    "mn": "Кроносын үеийн Алтан үед хүмүүс хөдөлмөр, өвчин, өтлөлгүй амьдардаг байжээ. Гесиод өөрийн цагийг таван үеийн хамгийн муу нь болох Төмөр үед хамааруулсан."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.origins",
+   "key": "gods.origins.b110",
+   "difficulty": 3,
+   "prompt": {
+    "en": "According to Hesiod, who was Zeus's first wife, whom he swallowed while she was pregnant?",
+    "mn": "Гесиодын хэлснээр Зевсийн анхны эхнэр хэн байсан бэ? Зевс түүнийг жирэмсэн байхад нь залгисан."
+   },
+   "choices": [
+    {
+     "en": "Themis",
+     "mn": "Фемида"
+    },
+    {
+     "en": "Metis",
+     "mn": "Метис"
+    },
+    {
+     "en": "Mnemosyne",
+     "mn": "Мнемосина"
+    },
+    {
+     "en": "Tethys",
+     "mn": "Тефида"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "A prophecy said Metis would bear a son stronger than Zeus, so he swallowed her. Her unborn daughter Athena later sprang out of Zeus's head.",
+    "mn": "Метис Зевсээс хүчтэй хүү төрүүлнэ гэсэн зөгнөл байсан тул Зевс түүнийг залгижээ. Түүний хэвлийд байсан охин Афина хожим Зевсийн толгойноос гарч ирсэн."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.family-tree",
+   "key": "gods.family-tree.b11",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Who was the mother of the nine Muses?",
+    "mn": "Есөн Музагийн ээж хэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Mnemosyne",
+     "mn": "Мнемосина"
+    },
+    {
+     "en": "Themis",
+     "mn": "Фемида"
+    },
+    {
+     "en": "Hera",
+     "mn": "Гера"
+    },
+    {
+     "en": "Gaia",
+     "mn": "Гая"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "The Muses were daughters of Zeus and the Titaness Mnemosyne, whose name means 'Memory'. Fittingly, the arts were born of memory in a world before writing.",
+    "mn": "Музанууд Зевс болон «Ой санамж» гэсэн утгатай нэртэй Титан эмэгтэй Мнемосинагийн охид юм. Бичиг үсэг гарахаас өмнөх ертөнцөд урлаг ой санамжаас төрсөн гэдэг нь утга учиртай."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.family-tree",
+   "key": "gods.family-tree.b12",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Which goddess was married to Hephaestus, the lame smith god?",
+    "mn": "Доголон дархан бурхан Гефестийн эхнэр аль дарь эх вэ?"
+   },
+   "choices": [
+    {
+     "en": "Athena",
+     "mn": "Афина"
+    },
+    {
+     "en": "Artemis",
+     "mn": "Артемис"
+    },
+    {
+     "en": "Hestia",
+     "mn": "Гестиа"
+    },
+    {
+     "en": "Aphrodite",
+     "mn": "Афродита"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "Zeus married Aphrodite to Hephaestus, but she loved Ares. In the Odyssey, Hephaestus catches the two lovers in an unbreakable golden net.",
+    "mn": "Зевс Афродитаг Гефестэд хадамд гаргасан ч тэр Арест дурлажээ. «Одиссей»-д Гефест хоёр амрагийг тасрахгүй алтан тороор барьдаг."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.family-tree",
+   "key": "gods.family-tree.b13",
+   "difficulty": 3,
+   "prompt": {
+    "en": "According to Hesiod, how was Hephaestus born?",
+    "mn": "Гесиодын хэлснээр Гефест хэрхэн төрсөн бэ?"
+   },
+   "choices": [
+    {
+     "en": "From Zeus's head",
+     "mn": "Зевсийн толгойноос"
+    },
+    {
+     "en": "From sea foam",
+     "mn": "Далайн хөөснөөс"
+    },
+    {
+     "en": "From a golden egg",
+     "mn": "Алтан өндөгнөөс"
+    },
+    {
+     "en": "Hera bore him alone",
+     "mn": "Гера ганцаараа төрүүлсэн"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "Hesiod says Hera, angry that Zeus had produced Athena on his own, bore Hephaestus without a father. Homer, by contrast, calls him the son of Zeus and Hera.",
+    "mn": "Зевс Афинаг ганцаараа төрүүлсэнд уурласан Гера Гефестийг эцэггүйгээр төрүүлсэн гэж Гесиод бичжээ. Харин Гомер түүнийг Зевс, Гера хоёрын хүү гэдэг."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.family-tree",
+   "key": "gods.family-tree.b14",
+   "difficulty": 1,
+   "prompt": {
+    "en": "In most later myths, who is the mother of Eros (Cupid)?",
+    "mn": "Хожмын ихэнх домогт Эрос (Купидон)-ын ээж хэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Hera",
+     "mn": "Гера"
+    },
+    {
+     "en": "Athena",
+     "mn": "Афина"
+    },
+    {
+     "en": "Aphrodite",
+     "mn": "Афродита"
+    },
+    {
+     "en": "Demeter",
+     "mn": "Деметра"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Later poets made Eros the son of Aphrodite, usually by Ares. In Hesiod, however, Eros is one of the oldest gods, born right after Chaos.",
+    "mn": "Хожмын яруу найрагчид Эросыг Афродитагийн, ихэвчлэн Арестай төрүүлсэн хүү болгосон. Харин Гесиодод Эрос Хаосын дараахан үүссэн хамгийн эртний бурхдын нэг."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.family-tree",
+   "key": "gods.family-tree.b15",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Zeus visited the imprisoned princess Danaë as a shower of gold. Which hero was their son?",
+    "mn": "Зевс шоронд хоригдсон гүнж Данаяд алтан бороо болон очжээ. Тэдний хүү аль баатар вэ?"
+   },
+   "choices": [
+    {
+     "en": "Theseus",
+     "mn": "Тесей"
+    },
+    {
+     "en": "Perseus",
+     "mn": "Персей"
+    },
+    {
+     "en": "Jason",
+     "mn": "Ясон"
+    },
+    {
+     "en": "Achilles",
+     "mn": "Ахиллес"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "Danaë's father had locked her away because an oracle said her son would kill him. The prophecy came true when Perseus accidentally struck his grandfather with a discus.",
+    "mn": "Данаягийн хүү өвөөгөө ална гэж мэргэч хэлсэн тул аав нь түүнийг цоожилж хорьжээ. Персей хожим диск шидэхдээ санамсаргүй өвөөгөө оносноор зөгнөл биелсэн."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.family-tree",
+   "key": "gods.family-tree.b16",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Which daughter of Zeus and Hera was the goddess of youth who poured nectar for the gods?",
+    "mn": "Зевс, Гера хоёрын охин, бурхдад нектар хийж өгдөг байсан залуу насны дарь эх хэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Hebe",
+     "mn": "Геба"
+    },
+    {
+     "en": "Iris",
+     "mn": "Ирида"
+    },
+    {
+     "en": "Nike",
+     "mn": "Нике"
+    },
+    {
+     "en": "Eos",
+     "mn": "Эос"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "Hebe served as cupbearer on Olympus. When Heracles became a god after his death, he was given Hebe as his wife.",
+    "mn": "Геба Олимпод хундага барьдаг байжээ. Геракл нас бараад бурхан болоход түүнд Гебаг эхнэр болгон өгсөн."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.family-tree",
+   "key": "gods.family-tree.b17",
+   "difficulty": 3,
+   "prompt": {
+    "en": "Which Titan was the father of both Atlas and Prometheus?",
+    "mn": "Атлас, Прометей хоёрын аль алиных нь эцэг аль Титан вэ?"
+   },
+   "choices": [
+    {
+     "en": "Iapetus",
+     "mn": "Япет"
+    },
+    {
+     "en": "Hyperion",
+     "mn": "Гиперион"
+    },
+    {
+     "en": "Oceanus",
+     "mn": "Океан"
+    },
+    {
+     "en": "Coeus",
+     "mn": "Кой"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "Iapetus and the Oceanid Clymene had four sons: Atlas, Prometheus, Epimetheus and Menoetius. Through Prometheus's son Deucalion, Greeks traced humanity back to Iapetus.",
+    "mn": "Япет, Океанид Климена хоёр Атлас, Прометей, Эпиметей, Меноитий гэсэн дөрвөн хүүтэй. Прометейн хүү Девкалионоор дамжуулан Грекчүүд хүн төрөлхтний удмыг Япетаас эхэлдэг гэж үздэг байв."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.family-tree",
+   "key": "gods.family-tree.b18",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Who was the son of Apollo who became the god of medicine?",
+    "mn": "Аполлоны хүү, анагаах ухааны бурхан болсон хэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Orpheus",
+     "mn": "Орфей"
+    },
+    {
+     "en": "Hermes",
+     "mn": "Гермес"
+    },
+    {
+     "en": "Phaethon",
+     "mn": "Фаэтон"
+    },
+    {
+     "en": "Asclepius",
+     "mn": "Асклепий"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "Asclepius became so skilled that he raised the dead, so Zeus killed him with a thunderbolt. His snake-entwined staff is still a symbol of medicine.",
+    "mn": "Асклепий үхэгсдийг амилуулах хэмжээнд эрдэмтэй болсон тул Зевс түүнийг аянгаар цохиж алжээ. Түүний могой ороосон таяг өнөөг хүртэл анагаах ухааны бэлгэ тэмдэг хэвээр."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.family-tree",
+   "key": "gods.family-tree.b19",
+   "difficulty": 1,
+   "prompt": {
+    "en": "The goat-legged god Pan is most often called the son of which Olympian?",
+    "mn": "Ямааны хөлтэй Пан бурхныг ихэвчлэн Олимпийн аль бурхны хүү гэдэг вэ?"
+   },
+   "choices": [
+    {
+     "en": "Ares",
+     "mn": "Арес"
+    },
+    {
+     "en": "Poseidon",
+     "mn": "Посейдон"
+    },
+    {
+     "en": "Hermes",
+     "mn": "Гермес"
+    },
+    {
+     "en": "Hephaestus",
+     "mn": "Гефест"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "The Homeric Hymn to Pan makes him Hermes's son; his mother is said to have fled at the sight of the hairy, horned baby. Other sources give him different parents.",
+    "mn": "«Пан бурхны магтаал»-д түүнийг Гермесийн хүү гэдэг бөгөөд үстэй, эвэртэй нялх хүүхдийг хараад ээж нь зугтсан гэдэг. Бусад сурвалжид өөр эцэг эхтэй байдаг."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.family-tree",
+   "key": "gods.family-tree.b110",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Who was the husband of Persephone?",
+    "mn": "Персефонагийн нөхөр хэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Apollo",
+     "mn": "Аполлон"
+    },
+    {
+     "en": "Hades",
+     "mn": "Хадес"
+    },
+    {
+     "en": "Hermes",
+     "mn": "Гермес"
+    },
+    {
+     "en": "Ares",
+     "mn": "Арес"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "Persephone became queen of the underworld as the wife of Hades. Hades was also her uncle, since he was the brother of both Zeus and Demeter.",
+    "mn": "Персефона Хадест гэрлэж үхэгсдийн орны хатан болсон. Хадес Зевс, Деметра хоёрын ах тул Персефонагийн авга ах ч байсан."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.olympians",
+   "key": "gods.olympians.b11",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Which bird was sacred to Hera, its tail said to carry the eyes of the giant Argus?",
+    "mn": "Аль шувуу Герагийн ариун шувуу байсан бэ? Түүний сүүлэнд аварга Аргусын нүднүүд бий гэдэг."
+   },
+   "choices": [
+    {
+     "en": "The owl",
+     "mn": "Шар шувуу"
+    },
+    {
+     "en": "The peacock",
+     "mn": "Тогос"
+    },
+    {
+     "en": "The eagle",
+     "mn": "Бүргэд"
+    },
+    {
+     "en": "The swan",
+     "mn": "Хун"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "Argus had a hundred eyes and guarded Io for Hera until Hermes killed him. Hera set his eyes in the peacock's tail in his memory.",
+    "mn": "Зуун нүдтэй Аргус Герагийн тушаалаар Иог харуулдаж байгаад Гермест алагджээ. Гера түүнийг дурсан нүднүүдийг нь тогосны сүүлэнд суулгасан."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.olympians",
+   "key": "gods.olympians.b12",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Which instrument did baby Hermes make from a tortoise shell?",
+    "mn": "Нялх Гермес яст мэлхийн хуягаар ямар хөгжим хийсэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "The lyre",
+     "mn": "Лир"
+    },
+    {
+     "en": "The flute",
+     "mn": "Лимбэ"
+    },
+    {
+     "en": "The drum",
+     "mn": "Бөмбөр"
+    },
+    {
+     "en": "The trumpet",
+     "mn": "Бүрээ"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "Hermes invented the lyre on the day he was born. He later gave it to Apollo, who became its most famous player.",
+    "mn": "Гермес төрсөн өдрөө лирийг зохион бүтээжээ. Дараа нь тэр үүнийгээ Аполлонд өгч, Аполлон түүний хамгийн алдартай хөгжимчин болсон."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.olympians",
+   "key": "gods.olympians.b13",
+   "difficulty": 2,
+   "prompt": {
+    "en": "What did Hermes steal from Apollo on the very day he was born?",
+    "mn": "Гермес төрсөн өдрөө Аполлоноос юу хулгайлсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "His bow",
+     "mn": "Нумыг нь"
+    },
+    {
+     "en": "His chariot",
+     "mn": "Тэргийг нь"
+    },
+    {
+     "en": "His laurel crown",
+     "mn": "Лаврын титмийг нь"
+    },
+    {
+     "en": "His cattle",
+     "mn": "Үхэр сүргийг нь"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "Baby Hermes drove off fifty of Apollo's cattle, even making them walk backwards to confuse the trail. He settled the quarrel by giving Apollo the lyre.",
+    "mn": "Нялх Гермес Аполлоны тавин үхрийг хулгайлж, мөрийг нь будлиулахын тулд ухрааж алхуулсан гэдэг. Эцэст нь лирээ Аполлонд өгч эвлэрчээ."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.olympians",
+   "key": "gods.olympians.b14",
+   "difficulty": 1,
+   "prompt": {
+    "en": "According to Hesiod, how was Aphrodite born?",
+    "mn": "Гесиодын хэлснээр Афродита хэрхэн төрсөн бэ?"
+   },
+   "choices": [
+    {
+     "en": "From Zeus's head",
+     "mn": "Зевсийн толгойноос"
+    },
+    {
+     "en": "From a seashell pearl",
+     "mn": "Сувдан хясаанаас"
+    },
+    {
+     "en": "From sea foam",
+     "mn": "Далайн хөөснөөс"
+    },
+    {
+     "en": "From Gaia's tears",
+     "mn": "Гаягийн нулимснаас"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Hesiod says she rose from the foam around Uranus's severed parts and came ashore at Cyprus. Homer instead calls her the daughter of Zeus and Dione.",
+    "mn": "Гесиод түүнийг Ураны таслагдсан эрхтний орчмын далайн хөөснөөс төрж, Кипрт эрэг дээр гарсан гэж бичжээ. Харин Гомер түүнийг Зевс, Диона хоёрын охин гэдэг."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.olympians",
+   "key": "gods.olympians.b15",
+   "difficulty": 3,
+   "prompt": {
+    "en": "In myth, what was the aegis carried by Zeus and Athena?",
+    "mn": "Домогт Зевс, Афина хоёрын барьдаг эгида гэж юу вэ?"
+   },
+   "choices": [
+    {
+     "en": "A golden spear",
+     "mn": "Алтан жад"
+    },
+    {
+     "en": "A winged helmet",
+     "mn": "Далавчтай дуулга"
+    },
+    {
+     "en": "A goatskin shield or cloak",
+     "mn": "Ямааны арьсан бамбай, нөмрөг"
+    },
+    {
+     "en": "A silver chariot",
+     "mn": "Мөнгөн тэрэг"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Shaking the aegis spread terror among enemies. Athena's aegis bore the Gorgon Medusa's head, a gift from Perseus; today 'under the aegis' means 'under the protection of'.",
+    "mn": "Эгидаг сэгсрэхэд дайснууд айдаст автдаг байжээ. Афинагийн эгида дээр Персейн бэлэглэсэн Медузагийн толгой байдаг. Өнөөдөр англиар «under the aegis» гэдэг нь «ивээл дор» гэсэн утгатай."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.olympians",
+   "key": "gods.olympians.b16",
+   "difficulty": 3,
+   "prompt": {
+    "en": "On which island did Hephaestus land when he was hurled down from Olympus?",
+    "mn": "Гефестийг Олимпоос шидэхэд тэр аль арал дээр унасан бэ?"
+   },
+   "choices": [
+    {
+     "en": "Crete",
+     "mn": "Крит"
+    },
+    {
+     "en": "Lemnos",
+     "mn": "Лемнос"
+    },
+    {
+     "en": "Delos",
+     "mn": "Делос"
+    },
+    {
+     "en": "Cyprus",
+     "mn": "Кипр"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "In the Iliad, Zeus throws him down and he falls a whole day before landing on Lemnos, which became his favourite island. In another version Hera throws him into the sea, where Thetis rescues him.",
+    "mn": "«Илиада»-д Зевс түүнийг шидэхэд бүтэн өдөр унаж байгаад Лемнос дээр буусан бөгөөд энэ арал түүний хайртай газар болжээ. Өөр хувилбарт Гера түүнийг далай руу шидэж, Фетида аварсан."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.olympians",
+   "key": "gods.olympians.b17",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Which animal is most closely associated with Artemis, goddess of the hunt?",
+    "mn": "Ангийн дарь эх Артемистэй хамгийн их холбогддог амьтан аль нь вэ?"
+   },
+   "choices": [
+    {
+     "en": "The deer",
+     "mn": "Буга"
+    },
+    {
+     "en": "The owl",
+     "mn": "Шар шувуу"
+    },
+    {
+     "en": "The dolphin",
+     "mn": "Далайн гахай"
+    },
+    {
+     "en": "The peacock",
+     "mn": "Тогос"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "Artemis is often shown with a deer, and her chariot was said to be drawn by golden-horned hinds. When the hunter Actaeon saw her bathing, she turned him into a stag.",
+    "mn": "Артемисийг ихэвчлэн бугатай хамт дүрсэлдэг бөгөөд түүний тэргийг алтан эвэртэй согоонууд чирдэг гэдэг. Анчин Актеон түүнийг усанд орж байхад харсан тул тэр түүнийг буга болгосон."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.olympians",
+   "key": "gods.olympians.b18",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Besides the sea, Poseidon was the god of earthquakes and which animal?",
+    "mn": "Посейдон далайгаас гадна газар хөдлөлт болон аль амьтны бурхан байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "Wolves",
+     "mn": "Чоно"
+    },
+    {
+     "en": "Eagles",
+     "mn": "Бүргэд"
+    },
+    {
+     "en": "Snakes",
+     "mn": "Могой"
+    },
+    {
+     "en": "Horses",
+     "mn": "Морь"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "Poseidon was said to have created the horse, and he drove a chariot pulled by horses across the waves. His title 'Earth-Shaker' reflects his power over earthquakes.",
+    "mn": "Посейдон морийг бүтээсэн гэж ярьдаг бөгөөд долгион дээгүүр морьтой тэрэг унадаг. «Газар доргиогч» гэсэн цол нь түүний газар хөдлөлтийг захирах хүчийг илэрхийлнэ."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.olympians",
+   "key": "gods.olympians.b19",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Which Olympian god was lame and walked with difficulty?",
+    "mn": "Олимпийн аль бурхан доголон, хүндрэлтэй алхдаг байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "Hermes",
+     "mn": "Гермес"
+    },
+    {
+     "en": "Apollo",
+     "mn": "Аполлон"
+    },
+    {
+     "en": "Ares",
+     "mn": "Арес"
+    },
+    {
+     "en": "Hephaestus",
+     "mn": "Гефест"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "Hephaestus was the only Olympian with a physical disability, blamed either on birth or on his fall from Olympus. He built himself golden robot-like helpers to assist him in his forge.",
+    "mn": "Гефест бол бие эрхтний гэмтэлтэй цорын ганц Олимпийн бурхан бөгөөд үүнийг төрөлхийн эсвэл Олимпоос унасны улмаас гэдэг. Тэр дархандаа туслах алтан «робот» туслахуудыг өөрөө бүтээжээ."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.olympians",
+   "key": "gods.olympians.b110",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Which tree became sacred to Apollo after the nymph Daphne was transformed into it?",
+    "mn": "Нимф Дафна хувирсны дараа аль мод Аполлоны ариун мод болсон бэ?"
+   },
+   "choices": [
+    {
+     "en": "Olive",
+     "mn": "Чидун"
+    },
+    {
+     "en": "Oak",
+     "mn": "Царс"
+    },
+    {
+     "en": "Laurel",
+     "mn": "Лавр"
+    },
+    {
+     "en": "Cypress",
+     "mn": "Кипарис"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "In Ovid's Metamorphoses, Daphne fled Apollo and was turned into a laurel tree. Apollo then wore laurel leaves, and laurel wreaths became prizes for victors and poets.",
+    "mn": "Овидийн «Хувирал»-д Дафна Аполлоноос зугтаж байгаад лавр мод болон хувирчээ. Үүнээс хойш Аполлон лаврын навч зүүдэг болж, лаврын титэм ялагч, яруу найрагчдын шагнал болсон."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.greek-roman",
+   "key": "gods.greek-roman.b11",
+   "difficulty": 1,
+   "prompt": {
+    "en": "What did the Romans call Eros, the winged god of love?",
+    "mn": "Ромчууд хайрын далавчит бурхан Эросыг юу гэж нэрлэдэг байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "Janus",
+     "mn": "Янус"
+    },
+    {
+     "en": "Cupid",
+     "mn": "Купидон"
+    },
+    {
+     "en": "Faunus",
+     "mn": "Фавн"
+    },
+    {
+     "en": "Liber",
+     "mn": "Либер"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "Cupid, also called Amor, shoots arrows that make people fall in love. His Latin name comes from 'cupido', meaning desire.",
+    "mn": "Амор гэж бас нэрлэдэг Купидон хүмүүсийг дурлуулдаг сум хардаг. Түүний латин нэр «хүсэл» гэсэн утгатай «cupido» гэдэг үгнээс гаралтай."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.greek-roman",
+   "key": "gods.greek-roman.b12",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Selene, the Greek goddess of the Moon, was known to the Romans as…",
+    "mn": "Грекийн Сарны дарь эх Селенаг Ромчууд … гэж нэрлэдэг байв."
+   },
+   "choices": [
+    {
+     "en": "Luna",
+     "mn": "Луна"
+    },
+    {
+     "en": "Vesta",
+     "mn": "Веста"
+    },
+    {
+     "en": "Aurora",
+     "mn": "Аврора"
+    },
+    {
+     "en": "Flora",
+     "mn": "Флора"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "Luna drove a silver chariot across the night sky. Her name survives in words like 'lunar' and the Russian Luna probes that first reached the Moon.",
+    "mn": "Луна шөнийн тэнгэрээр мөнгөн тэрэг хөлөглөдөг байжээ. Түүний нэр «lunar» (сарны) гэдэг үг болон Саранд анх хүрсэн Зөвлөлтийн «Луна» сансрын төхөөрөмжүүдийн нэрэнд үлджээ."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.greek-roman",
+   "key": "gods.greek-roman.b13",
+   "difficulty": 2,
+   "prompt": {
+    "en": "What was the Roman name for Helios, the Sun god who drove a fiery chariot?",
+    "mn": "Галт тэрэг хөлөглөдөг Нарны бурхан Гелиосын Ром нэр юу вэ?"
+   },
+   "choices": [
+    {
+     "en": "Sol",
+     "mn": "Сол"
+    },
+    {
+     "en": "Mars",
+     "mn": "Марс"
+    },
+    {
+     "en": "Janus",
+     "mn": "Янус"
+    },
+    {
+     "en": "Vulcan",
+     "mn": "Вулкан"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "Sol gives us words like 'solar'. Under the later Empire the cult of Sol Invictus, the 'Unconquered Sun', became an official state religion.",
+    "mn": "Сол бурхнаас «solar» (нарны) гэх мэт үгс гаралтай. Хожуу эзэнт гүрний үед «Ялагдашгүй Нар» буюу Сол Инвиктусыг шүтэх нь төрийн албан ёсны шүтлэг болсон."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.greek-roman",
+   "key": "gods.greek-roman.b14",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Eos, the Greek goddess of dawn, was called by which name in Rome?",
+    "mn": "Грекийн үүрийн дарь эх Эосыг Ромд ямар нэрээр нэрлэдэг байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "Luna",
+     "mn": "Луна"
+    },
+    {
+     "en": "Venus",
+     "mn": "Венера"
+    },
+    {
+     "en": "Diana",
+     "mn": "Диана"
+    },
+    {
+     "en": "Aurora",
+     "mn": "Аврора"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "Aurora opened the gates of heaven each morning for the Sun. Her name lives on in the aurora borealis, the northern lights.",
+    "mn": "Аврора өглөө бүр Нарны төлөө тэнгэрийн хаалгыг нээдэг байжээ. Түүний нэр туйлын туяа буюу «aurora borealis»-д үлджээ."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.greek-roman",
+   "key": "gods.greek-roman.b15",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Nike, the Greek goddess of victory, was known in Rome as…",
+    "mn": "Грекийн ялалтын дарь эх Никег Ромд … гэж нэрлэдэг байв."
+   },
+   "choices": [
+    {
+     "en": "Fortuna",
+     "mn": "Фортуна"
+    },
+    {
+     "en": "Bellona",
+     "mn": "Беллона"
+    },
+    {
+     "en": "Victoria",
+     "mn": "Виктория"
+    },
+    {
+     "en": "Minerva",
+     "mn": "Минерва"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Victoria was shown with wings, holding a wreath or palm branch. The Roman Senate had an altar of Victory whose removal in the 4th century caused a famous dispute.",
+    "mn": "Викторияг далавчтай, титэм юм уу далдуу модны мөчир барьсан байдлаар дүрсэлдэг. Ромын Сенатад Ялалтын тахилын ширээ байсан бөгөөд IV зуунд түүнийг зайлуулсан нь алдартай маргаан дагуулсан."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.greek-roman",
+   "key": "gods.greek-roman.b16",
+   "difficulty": 2,
+   "prompt": {
+    "en": "What was the Roman name for Gaia, the Earth mother?",
+    "mn": "Газар эх Гаягийн Ром нэр юу вэ?"
+   },
+   "choices": [
+    {
+     "en": "Ops",
+     "mn": "Опс"
+    },
+    {
+     "en": "Terra",
+     "mn": "Терра"
+    },
+    {
+     "en": "Ceres",
+     "mn": "Церера"
+    },
+    {
+     "en": "Juno",
+     "mn": "Юнона"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "The Romans called her Terra or Tellus Mater, 'Mother Earth'. Her name survives in words like 'terrain', 'territory' and 'terrestrial'.",
+    "mn": "Ромчууд түүнийг Терра эсвэл Теллус Матер буюу «Газар эх» гэдэг байв. Түүний нэр «terrain», «territory», «terrestrial» зэрэг үгэнд үлджээ."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.greek-roman",
+   "key": "gods.greek-roman.b17",
+   "difficulty": 3,
+   "prompt": {
+    "en": "Rhea, mother of the Olympian gods, was identified by the Romans with which goddess?",
+    "mn": "Олимпийн бурхдын ээж Реяг Ромчууд аль дарь эхтэй адилтгадаг байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "Vesta",
+     "mn": "Веста"
+    },
+    {
+     "en": "Ops",
+     "mn": "Опс"
+    },
+    {
+     "en": "Flora",
+     "mn": "Флора"
+    },
+    {
+     "en": "Luna",
+     "mn": "Луна"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "Ops was a goddess of plenty and the wife of Saturn, just as Rhea was the wife of Cronus. The Latin word 'opulent', meaning rich, is related to her name.",
+    "mn": "Рея Кроносын эхнэр байсны адил Опс элбэг баялгийн дарь эх бөгөөд Санчирын эхнэр байжээ. «Баян тансаг» гэсэн утгатай латин гаралтай «opulent» гэдэг үг түүний нэртэй холбоотой."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.greek-roman",
+   "key": "gods.greek-roman.b18",
+   "difficulty": 3,
+   "prompt": {
+    "en": "Uranus, the Greek sky god, was called by which name in Latin?",
+    "mn": "Грекийн тэнгэрийн бурхан Ураныг латинаар ямар нэрээр нэрлэдэг байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "Caelus",
+     "mn": "Целус"
+    },
+    {
+     "en": "Janus",
+     "mn": "Янус"
+    },
+    {
+     "en": "Saturn",
+     "mn": "Санчир"
+    },
+    {
+     "en": "Sol",
+     "mn": "Сол"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "Caelus comes from 'caelum', the Latin word for sky, which also gives us 'celestial'. The planet Uranus, however, kept its Greek name.",
+    "mn": "Целус нэр нь латинаар тэнгэр гэсэн утгатай «caelum» үгнээс гаралтай бөгөөд «celestial» (тэнгэрийн) гэдэг үг ч мөн эндээс. Гэвч Тэнгэрийн ван гариг Грек нэрээ хадгалсан."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.greek-roman",
+   "key": "gods.greek-roman.b19",
+   "difficulty": 1,
+   "prompt": {
+    "en": "What is the Latin name for the hero Odysseus?",
+    "mn": "Баатар Одиссейн латин нэр юу вэ?"
+   },
+   "choices": [
+    {
+     "en": "Aeneas",
+     "mn": "Эней"
+    },
+    {
+     "en": "Hercules",
+     "mn": "Геркулес"
+    },
+    {
+     "en": "Pollux",
+     "mn": "Поллукс"
+    },
+    {
+     "en": "Ulysses",
+     "mn": "Улисс"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "Romans called him Ulixes, which became Ulysses in English. James Joyce named his famous 1922 novel 'Ulysses' after him.",
+    "mn": "Ромчууд түүнийг Уликсес гэдэг байсан бөгөөд англиар Улисс болжээ. Жеймс Жойс 1922 оны алдарт романаа түүний нэрээр «Улисс» гэж нэрлэсэн."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.greek-roman",
+   "key": "gods.greek-roman.b110",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Tyche, the Greek goddess of luck, matches which Roman goddess?",
+    "mn": "Грекийн аз завшааны дарь эх Тихе Ромын аль дарь эхтэй дүйцдэг вэ?"
+   },
+   "choices": [
+    {
+     "en": "Victoria",
+     "mn": "Виктория"
+    },
+    {
+     "en": "Bellona",
+     "mn": "Беллона"
+    },
+    {
+     "en": "Fortuna",
+     "mn": "Фортуна"
+    },
+    {
+     "en": "Pomona",
+     "mn": "Помона"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Fortuna was often shown with a ship's rudder and a wheel, the 'wheel of fortune' that raises people up and casts them down. The word 'fortune' comes from her name.",
+    "mn": "Фортунаг ихэвчлэн хөлгийн жолоо, хүмүүсийг өргөж бас унагадаг «азын хүрд»-тэй дүрсэлдэг. Англи хэлний «fortune» (аз, хөрөнгө) гэдэг үг түүний нэрээс гаралтай."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.underworld",
+   "key": "gods.underworld.b11",
+   "difficulty": 1,
+   "prompt": {
+    "en": "What mistake made Orpheus lose Eurydice forever?",
+    "mn": "Орфей ямар алдаа гаргаж Эвридикаг үүрд алдсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "He ate underworld food",
+     "mn": "Үхэгсдийн орны хоол идсэн"
+    },
+    {
+     "en": "He stopped playing music",
+     "mn": "Хөгжмөө зогсоосон"
+    },
+    {
+     "en": "He looked back at her",
+     "mn": "Эргэж харсан"
+    },
+    {
+     "en": "He insulted Hades",
+     "mn": "Хадесийг доромжилсон"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Hades let Eurydice follow Orpheus out on one condition: he must not look back until they reached daylight. Just before the exit he turned around, and she vanished.",
+    "mn": "Хадес Эвридикаг Орфейг дагаж гарахыг зөвшөөрсөн ч гэрэлд гартал эргэж харахгүй байх нөхцөл тавьжээ. Гарцын яг өмнө Орфей эргэж харснаар Эвридика алга болсон."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.underworld",
+   "key": "gods.underworld.b12",
+   "difficulty": 1,
+   "prompt": {
+    "en": "What was Sisyphus's eternal punishment in the underworld?",
+    "mn": "Сизифийн үхэгсдийн орон дахь мөнхийн шийтгэл юу байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "Holding up the sky",
+     "mn": "Тэнгэр тулах"
+    },
+    {
+     "en": "Rolling a boulder uphill",
+     "mn": "Хад өөд чулуу өнхрүүлэх"
+    },
+    {
+     "en": "Being eaten by an eagle",
+     "mn": "Бүргэдэд идэгдэх"
+    },
+    {
+     "en": "Spinning on a wheel",
+     "mn": "Хүрд дээр эргэх"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "Sisyphus had to push a huge rock up a hill, only for it to roll back down every time near the top. He was punished for cheating death, once even chaining up Thanatos.",
+    "mn": "Сизиф асар том чулууг толгод өөд түлхэх ёстой ч орой дээр хүрэх дөхөхөд тэр бүр эргэн өнхөрдөг. Тэр үхлийг хууран мэхэлсний төлөө, бүр Танатосыг гинжилсний төлөө шийтгэгджээ."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.underworld",
+   "key": "gods.underworld.b13",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Which king stood in water beneath fruit he could never reach, giving us the word 'tantalise'?",
+    "mn": "Хүрч чадахгүй жимсний доор усанд зогсдог байсан, англи хэлний «tantalise» (хүсэл хөдөлгөөд өгөхгүй тамлах) гэдэг үгийг үлдээсэн хаан хэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Tantalus",
+     "mn": "Тантал"
+    },
+    {
+     "en": "Midas",
+     "mn": "Мидас"
+    },
+    {
+     "en": "Minos",
+     "mn": "Минос"
+    },
+    {
+     "en": "Priam",
+     "mn": "Приам"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "Whenever Tantalus bent to drink, the water drained away, and the fruit branches lifted out of reach. He was punished for serving his own son Pelops to the gods as a meal.",
+    "mn": "Тантал ус уух гэж бөхийх бүрт ус татарч, жимстэй мөчир гар хүрэхгүй дээш өргөгддөг байжээ. Тэр өөрийн хүү Пелопсыг бурхдад хоол болгон тавьсныхаа төлөө шийтгэгдсэн."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.underworld",
+   "key": "gods.underworld.b14",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Which of these was one of the three judges of the dead?",
+    "mn": "Эдгээрийн аль нь үхэгсдийн гурван шүүгчийн нэг вэ?"
+   },
+   "choices": [
+    {
+     "en": "Midas",
+     "mn": "Мидас"
+    },
+    {
+     "en": "Priam",
+     "mn": "Приам"
+    },
+    {
+     "en": "Nestor",
+     "mn": "Нестор"
+    },
+    {
+     "en": "Minos",
+     "mn": "Минос"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "The judges were Minos, his brother Rhadamanthus, and Aeacus, all famed for justice in life. Minos was the same Cretan king whose Labyrinth held the Minotaur.",
+    "mn": "Шүүгчид нь Минос, түүний ах дүү Радамант, Эак нар бөгөөд бүгд амьд ахуйдаа шударгаараа алдаршжээ. Минос бол Лабиринтэд Минотаврыг хорьсон Критийн хаан мөн."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.underworld",
+   "key": "gods.underworld.b15",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Where did the souls of ordinary people, neither heroes nor wicked, usually go?",
+    "mn": "Баатар ч биш, муу санаатан ч биш энгийн хүмүүсийн сүнс ихэвчлэн хаашаа очдог байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "Mount Olympus",
+     "mn": "Олимп уул"
+    },
+    {
+     "en": "The Isles of Crete",
+     "mn": "Критийн арлууд"
+    },
+    {
+     "en": "The Garden of Hesperides",
+     "mn": "Гесперидын цэцэрлэг"
+    },
+    {
+     "en": "The Asphodel Meadows",
+     "mn": "Асфоделийн нуга"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "The Asphodel Meadows were a grey, shadowy plain where most souls drifted without joy or pain. The asphodel is a real pale flower that Greeks linked with the dead.",
+    "mn": "Асфоделийн нуга бол ихэнх сүнс баяр ч, зовлон ч үгүй тэнэдэг саарал, сүүдэртэй тал байжээ. Асфодел бол Грекчүүд үхэлтэй холбодог бодит цайвар цэцэг."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.underworld",
+   "key": "gods.underworld.b16",
+   "difficulty": 3,
+   "prompt": {
+    "en": "Which group of sisters had to carry water in leaking jars forever for murdering their husbands?",
+    "mn": "Нөхрөө хөнөөсний төлөө цоорхой саваар мөнхөд ус зөөх ёстой болсон эгч дүүс хэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "The Gorgons",
+     "mn": "Горгонууд"
+    },
+    {
+     "en": "The Muses",
+     "mn": "Музанууд"
+    },
+    {
+     "en": "The Danaids",
+     "mn": "Данаидууд"
+    },
+    {
+     "en": "The Graces",
+     "mn": "Харитууд"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "The fifty daughters of King Danaus were forced to marry their cousins, and all but one killed their husbands on the wedding night. Their jars could never be filled, a symbol of endless futile work.",
+    "mn": "Данай хааны тавин охиныг үеэлүүдэд нь хүчээр хадамд гаргахад нэгээс бусад нь хуримын шөнөө нөхрөө хөнөөжээ. Тэдний сав хэзээ ч дүүрдэггүй нь эцэс төгсгөлгүй дэмий хөдөлмөрийн бэлгэдэл болсон."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.underworld",
+   "key": "gods.underworld.b17",
+   "difficulty": 3,
+   "prompt": {
+    "en": "Which king was bound to a burning wheel spinning forever as punishment?",
+    "mn": "Аль хааныг шийтгэл болгон мөнхөд эргэх шатаж буй хүрдэнд хүлсэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Tantalus",
+     "mn": "Тантал"
+    },
+    {
+     "en": "Ixion",
+     "mn": "Иксион"
+    },
+    {
+     "en": "Sisyphus",
+     "mn": "Сизиф"
+    },
+    {
+     "en": "Minos",
+     "mn": "Минос"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "Ixion tried to seduce Hera, so Zeus tied him to a fiery wheel. Early sources have it spinning through the sky; later ones place it in Tartarus.",
+    "mn": "Иксион Герад дурлан уруу татахыг оролдсон тул Зевс түүнийг галт хүрдэнд хүлжээ. Эртний сурвалжид хүрд тэнгэрт эргэдэг бол хожмын сурвалжид Тартарт байдаг."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.underworld",
+   "key": "gods.underworld.b18",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Which river of the underworld was said to flow with fire?",
+    "mn": "Үхэгсдийн орны аль гол галаар урсдаг гэж үздэг байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "Phlegethon",
+     "mn": "Флегетон"
+    },
+    {
+     "en": "Lethe",
+     "mn": "Лета"
+    },
+    {
+     "en": "Cocytus",
+     "mn": "Коцит"
+    },
+    {
+     "en": "Acheron",
+     "mn": "Ахерон"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "Phlegethon means 'flaming' and it flowed down into Tartarus. Dante later used it in his Inferno as a river of boiling blood.",
+    "mn": "Флегетон гэдэг нь «дүрэлзсэн» гэсэн утгатай бөгөөд Тартар руу урсдаг. Хожим Данте «Там» зохиолдоо үүнийг буцалж буй цусан гол болгон ашигласан."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.underworld",
+   "key": "gods.underworld.b19",
+   "difficulty": 1,
+   "prompt": {
+    "en": "How did Persephone first come to the underworld?",
+    "mn": "Персефона анх хэрхэн үхэгсдийн оронд очсон бэ?"
+   },
+   "choices": [
+    {
+     "en": "Hades abducted her",
+     "mn": "Хадес хулгайлсан"
+    },
+    {
+     "en": "She followed Orpheus",
+     "mn": "Орфейг дагасан"
+    },
+    {
+     "en": "She fell into a river",
+     "mn": "Гол руу унасан"
+    },
+    {
+     "en": "Zeus sent her as punishment",
+     "mn": "Зевс шийтгэж илгээсэн"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "While Persephone picked flowers, the earth split open and Hades carried her off in his chariot. The story is told in the Homeric Hymn to Demeter.",
+    "mn": "Персефона цэцэг түүж байхад газар ангайж, Хадес түүнийг тэргэндээ суулган авч одсон. Энэ түүхийг «Деметрагийн магтаал»-д өгүүлдэг."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.underworld",
+   "key": "gods.underworld.b110",
+   "difficulty": 2,
+   "prompt": {
+    "en": "In the Odyssey, which blind prophet did Odysseus consult in the underworld?",
+    "mn": "«Одиссей»-д Одиссей үхэгсдийн оронд аль сохор зөнчөөс зөвлөгөө авсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "Calchas",
+     "mn": "Калхас"
+    },
+    {
+     "en": "Cassandra",
+     "mn": "Кассандра"
+    },
+    {
+     "en": "Nestor",
+     "mn": "Нестор"
+    },
+    {
+     "en": "Tiresias",
+     "mn": "Тиресий"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "Odysseus offered blood to the shades, and Tiresias drank it so he could speak. The prophet warned him not to harm the Sun god's cattle.",
+    "mn": "Одиссей сүнснүүдэд цус өргөхөд Тиресий түүнийг ууж ярих чадвартай болжээ. Зөнч түүнд Нарны бурхны үхрийг бүү хөнд гэж сануулсан."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.heroes-monsters",
+   "key": "gods.heroes-monsters.b11",
+   "difficulty": 1,
+   "prompt": {
+    "en": "What happened when one of the Hydra's heads was cut off?",
+    "mn": "Гидрагийн нэг толгойг тайрахад юу болдог байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "It turned to stone",
+     "mn": "Чулуу болдог"
+    },
+    {
+     "en": "It exploded in fire",
+     "mn": "Галд дэлбэрдэг"
+    },
+    {
+     "en": "Two grew back",
+     "mn": "Хоёр толгой ургадаг"
+    },
+    {
+     "en": "The Hydra died",
+     "mn": "Гидра үхдэг"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Heracles beat the regrowing heads by having his nephew Iolaus burn each stump. He then dipped his arrows in the Hydra's poisonous blood.",
+    "mn": "Геракл зээ хүү Иолайдаа тайрсан хүзүү бүрийг галаар түлүүлж, толгой дахин ургахыг зогсоожээ. Дараа нь сумаа Гидрагийн хортой цусанд дүрсэн."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.heroes-monsters",
+   "key": "gods.heroes-monsters.b12",
+   "difficulty": 1,
+   "prompt": {
+    "en": "What did Jason and the Argonauts sail to find?",
+    "mn": "Ясон болон Аргонавтууд юу хайж далайд гарсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "The Holy Grail",
+     "mn": "Ариун цом"
+    },
+    {
+     "en": "The Golden Fleece",
+     "mn": "Алтан ноос"
+    },
+    {
+     "en": "The Apple of Discord",
+     "mn": "Хэрүүлийн алим"
+    },
+    {
+     "en": "Medusa's head",
+     "mn": "Медузагийн толгой"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "The fleece came from a golden flying ram and hung in Colchis, guarded by a dragon. Jason won it with the help of the sorceress Medea.",
+    "mn": "Алтан ноос нь нисдэг алтан хуцных байсан бөгөөд Колхидад луугаар хамгаалуулан өлгөөтэй байжээ. Ясон шидтэн Медеягийн тусламжтайгаар түүнийг олж авсан."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.heroes-monsters",
+   "key": "gods.heroes-monsters.b13",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Why did Icarus fall into the sea?",
+    "mn": "Икар яагаад далай руу унасан бэ?"
+   },
+   "choices": [
+    {
+     "en": "A storm broke his wings",
+     "mn": "Шуурга далавчийг хугалсан"
+    },
+    {
+     "en": "The sun melted his wings' wax",
+     "mn": "Нар далавчны лавыг хайлуулсан"
+    },
+    {
+     "en": "Zeus struck him down",
+     "mn": "Зевс цохиж унагасан"
+    },
+    {
+     "en": "His father cut the ropes",
+     "mn": "Аав нь олсыг таслан"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "Daedalus made wings of feathers and wax so he and his son could escape Crete. Icarus ignored the warning and flew too close to the sun.",
+    "mn": "Дедал хүүтэйгээ Критээс зугтахын тулд өд, лаваар далавч хийжээ. Икар сануулгыг үл тоон нартай хэт ойртож ниссэн."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.heroes-monsters",
+   "key": "gods.heroes-monsters.b14",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Riding Pegasus, which hero killed the fire-breathing Chimera?",
+    "mn": "Пегасыг унаж, гал бадраадаг Химераг алсан баатар хэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Bellerophon",
+     "mn": "Беллерофонт"
+    },
+    {
+     "en": "Perseus",
+     "mn": "Персей"
+    },
+    {
+     "en": "Theseus",
+     "mn": "Тесей"
+    },
+    {
+     "en": "Jason",
+     "mn": "Ясон"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "The Chimera was part lion, part goat and part serpent. Bellerophon later tried to fly Pegasus up to Olympus, and the gods threw him down.",
+    "mn": "Химера нь хэсэгтээ арслан, хэсэгтээ ямаа, хэсэгтээ могой байжээ. Хожим Беллерофонт Пегасыг унаж Олимп руу нисэхийг оролдоход бурхад түүнийг унагасан."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.heroes-monsters",
+   "key": "gods.heroes-monsters.b15",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Which hero solved the riddle of the Sphinx at Thebes?",
+    "mn": "Фивт Сфинксийн оньсогыг тайлсан баатар хэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Odysseus",
+     "mn": "Одиссей"
+    },
+    {
+     "en": "Heracles",
+     "mn": "Геракл"
+    },
+    {
+     "en": "Perseus",
+     "mn": "Персей"
+    },
+    {
+     "en": "Oedipus",
+     "mn": "Эдип"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "The riddle asked what walks on four legs in the morning, two at noon and three in the evening; Oedipus answered 'man'. The defeated Sphinx threw herself to her death.",
+    "mn": "Оньсого нь «өглөө дөрвөн хөлөөр, өдөр хоёр хөлөөр, орой гурван хөлөөр алхдаг юу вэ?» гэсэн бөгөөд Эдип «хүн» гэж хариулжээ. Ялагдсан Сфинкс өөрийгөө хад уруу шидсэн."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.heroes-monsters",
+   "key": "gods.heroes-monsters.b16",
+   "difficulty": 2,
+   "prompt": {
+    "en": "What was the name of Jason's ship?",
+    "mn": "Ясоны хөлгийн нэр юу вэ?"
+   },
+   "choices": [
+    {
+     "en": "The Odyssey",
+     "mn": "Одиссей"
+    },
+    {
+     "en": "The Nautilus",
+     "mn": "Наутилус"
+    },
+    {
+     "en": "The Argo",
+     "mn": "Арго"
+    },
+    {
+     "en": "The Trident",
+     "mn": "Тридент"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "The Argo was built with Athena's help and had a talking beam of sacred oak from Dodona. Its crew, the Argonauts, included Heracles and Orpheus.",
+    "mn": "Аргог Афинагийн тусламжтай барьсан бөгөөд Додонагийн ариун царс модоор хийсэн ярьдаг дам нуруутай байжээ. Аргонавтуудын дунд Геракл, Орфей нар байсан."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.heroes-monsters",
+   "key": "gods.heroes-monsters.b17",
+   "difficulty": 2,
+   "prompt": {
+    "en": "How did Odysseus's wife Penelope delay her many suitors?",
+    "mn": "Одиссейн эхнэр Пенелопа олон гуйгчаа хэрхэн хүлээлгэж байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "She set them impossible tasks",
+     "mn": "Боломжгүй даалгавар өгдөг"
+    },
+    {
+     "en": "She hid on an island",
+     "mn": "Арал дээр нуугдсан"
+    },
+    {
+     "en": "She unwove her weaving nightly",
+     "mn": "Нэхсэнээ шөнө задалдаг байсан"
+    },
+    {
+     "en": "She pretended to be ill",
+     "mn": "Өвчтэй дүр эсгэсэн"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Penelope promised to choose a husband once she finished a burial shroud for Odysseus's father, then secretly unravelled it every night. The trick worked for three years.",
+    "mn": "Пенелопа Одиссейн аавын оршуулгын нөмрөгийг нэхэж дуусаад нөхөр сонгоно гэж амлаад, шөнө бүр нууцаар задалдаг байжээ. Энэ заль гурван жил үр дүнгээ өгсөн."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.heroes-monsters",
+   "key": "gods.heroes-monsters.b18",
+   "difficulty": 2,
+   "prompt": {
+    "en": "How did Odysseus's sailors avoid hearing the Sirens' song?",
+    "mn": "Одиссейн далайчид Сирен нарын дууг хэрхэн сонсохгүй өнгөрсөн бэ?"
+   },
+   "choices": [
+    {
+     "en": "They sang louder",
+     "mn": "Илүү чангаар дуулсан"
+    },
+    {
+     "en": "Beeswax in their ears",
+     "mn": "Чихээ лаваар бөглөсөн"
+    },
+    {
+     "en": "They sailed at night",
+     "mn": "Шөнө далайд гарсан"
+    },
+    {
+     "en": "Hermes made them deaf",
+     "mn": "Гермес дүлий болгосон"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "Odysseus plugged his crew's ears with beeswax but had himself tied to the mast so he could hear the song safely. Jason's crew used a different trick: Orpheus out-sang the Sirens.",
+    "mn": "Одиссей далайчдынхаа чихийг лаваар бөглөөд, өөрөө дууг аюулгүй сонсохын тулд шургуулганд хүлүүлжээ. Ясоны баг өөр арга хэрэглэсэн: Орфей Сирен нараас илүү гоё дуулсан."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.heroes-monsters",
+   "key": "gods.heroes-monsters.b19",
+   "difficulty": 3,
+   "prompt": {
+    "en": "Which beast did Heracles face in his first labour?",
+    "mn": "Геракл анхны гавьяандаа ямар араатантай тулсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "The Nemean Lion",
+     "mn": "Немейн арслан"
+    },
+    {
+     "en": "The Erymanthian Boar",
+     "mn": "Эриманфын зэрлэг гахай"
+    },
+    {
+     "en": "The Cretan Bull",
+     "mn": "Критийн бух"
+    },
+    {
+     "en": "The Stymphalian Birds",
+     "mn": "Стимфалын шувууд"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "The Nemean Lion's hide could not be pierced by weapons, so Heracles strangled it. He then wore its skin as armour, which is why he is shown in a lion pelt.",
+    "mn": "Немейн арслангийн арьсыг зэвсэг нэвтэлдэггүй байсан тул Геракл түүнийг боомилж алжээ. Дараа нь арьсыг нь хуяг болгон өмссөн тул түүнийг арслангийн арьстай дүрсэлдэг."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.heroes-monsters",
+   "key": "gods.heroes-monsters.b110",
+   "difficulty": 3,
+   "prompt": {
+    "en": "Who killed Achilles with an arrow guided by Apollo?",
+    "mn": "Аполлоны чиглүүлсэн сумаар Ахиллесийг хэн алсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "Hector",
+     "mn": "Гектор"
+    },
+    {
+     "en": "Aeneas",
+     "mn": "Эней"
+    },
+    {
+     "en": "Priam",
+     "mn": "Приам"
+    },
+    {
+     "en": "Paris",
+     "mn": "Парис"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "Paris, whose abduction of Helen started the war, shot Achilles after Hector's death. The Iliad only foretells this; the scene is told in later poems.",
+    "mn": "Хеленийг булааснаараа дайныг эхлүүлсэн Парис Гекторыг үхсэний дараа Ахиллесийг харваж алжээ. «Илиада»-д үүнийг зөвхөн зөгнөдөг бөгөөд үйл явдлыг хожмын туульсад өгүүлдэг."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.in-our-world",
+   "key": "gods.in-our-world.b11",
+   "difficulty": 1,
+   "prompt": {
+    "en": "The word 'narcissism' comes from a youth who fell in love with what?",
+    "mn": "«Нарциссизм» гэдэг үг юунд дурласан залуугаас гаралтай вэ?"
+   },
+   "choices": [
+    {
+     "en": "A goddess",
+     "mn": "Дарь эхэд"
+    },
+    {
+     "en": "A golden statue",
+     "mn": "Алтан хөшөөнд"
+    },
+    {
+     "en": "The Moon",
+     "mn": "Саранд"
+    },
+    {
+     "en": "His own reflection",
+     "mn": "Өөрийнхөө тусгалд"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "In Ovid's version, Narcissus rejected the nymph Echo and was cursed to love his reflection in a pool. He wasted away and became the narcissus flower.",
+    "mn": "Овидийн хувилбарт Нарцисс нимф Эхог няцаасан тул усан дахь тусгалдаа дурлах хараал хүртжээ. Тэр шаналан үхэж, нарцисс цэцэг болон хувирсан."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.in-our-world",
+   "key": "gods.in-our-world.b12",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Today, what does it mean to 'open Pandora's box'?",
+    "mn": "Өнөөдөр «Пандорагийн хайрцгийг нээх» гэдэг нь юу гэсэн утгатай вэ?"
+   },
+   "choices": [
+    {
+     "en": "To find hidden treasure",
+     "mn": "Нуусан эрдэнэ олох"
+    },
+    {
+     "en": "To tell a secret",
+     "mn": "Нууц задлах"
+    },
+    {
+     "en": "To unleash many troubles",
+     "mn": "Олон зовлон гаргах"
+    },
+    {
+     "en": "To begin a journey",
+     "mn": "Аялал эхлэх"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "The phrase means starting something that causes many unforeseen problems. The 'box' was a mistranslation by Erasmus of the Greek word for a storage jar.",
+    "mn": "Энэ хэллэг нь олон урьдчилан тооцоогүй асуудал үүсгэх зүйл эхлүүлэхийг хэлдэг. «Хайрцаг» гэдэг нь Эразмын хийсэн буруу орчуулга бөгөөд Грекээр том сав гэсэн үг байжээ."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.in-our-world",
+   "key": "gods.in-our-world.b13",
+   "difficulty": 2,
+   "prompt": {
+    "en": "The word 'hypnosis' comes from the Greek god of what?",
+    "mn": "«Гипноз» гэдэг үг Грекийн юуны бурхнаас гаралтай вэ?"
+   },
+   "choices": [
+    {
+     "en": "Dreams of prophecy",
+     "mn": "Зөгнөлт зүүд"
+    },
+    {
+     "en": "Sleep",
+     "mn": "Нойр"
+    },
+    {
+     "en": "Madness",
+     "mn": "Солиорол"
+    },
+    {
+     "en": "Silence",
+     "mn": "Нам гүм"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "Hypnos was the god of sleep and the twin brother of Thanatos, Death. The Scottish surgeon James Braid popularised the term 'hypnotism' in the 1840s.",
+    "mn": "Гипнос бол нойрны бурхан бөгөөд Үхэл буюу Танатосын ихэр ах дүү юм. Шотландын мэс засалч Жеймс Брейд 1840-өөд онд «гипнотизм» гэдэг нэр томьёог түгээсэн."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.in-our-world",
+   "key": "gods.in-our-world.b14",
+   "difficulty": 2,
+   "prompt": {
+    "en": "The painkiller morphine is named after Morpheus, the god of what?",
+    "mn": "Өвчин намдаагч морфиныг Морфейн нэрээр нэрлэсэн. Морфей юуны бурхан бэ?"
+   },
+   "choices": [
+    {
+     "en": "Dreams",
+     "mn": "Зүүд"
+    },
+    {
+     "en": "Medicine",
+     "mn": "Анагаах ухаан"
+    },
+    {
+     "en": "War",
+     "mn": "Дайн"
+    },
+    {
+     "en": "The harvest",
+     "mn": "Ургац"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "German chemist Friedrich Sertürner isolated morphine from opium around 1804 and named it after Morpheus because it induces sleep. In Ovid, Morpheus takes human shapes in people's dreams.",
+    "mn": "Германы химич Фридрих Зертюрнер 1804 оны орчим опиумаас морфиныг ялгаж, нойр хүргэдэг тул Морфейн нэрээр нэрлэжээ. Овидийн бүтээлд Морфей хүмүүсийн зүүдэнд хүний дүрээр ордог."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.in-our-world",
+   "key": "gods.in-our-world.b15",
+   "difficulty": 1,
+   "prompt": {
+    "en": "In computing, what is malware disguised as a harmless program called?",
+    "mn": "Компьютерт хор хөнөөлгүй программын дүрд хувирсан хортой программыг юу гэж нэрлэдэг вэ?"
+   },
+   "choices": [
+    {
+     "en": "A Trojan horse",
+     "mn": "Троян морь"
+    },
+    {
+     "en": "A Cyclops",
+     "mn": "Циклоп"
+    },
+    {
+     "en": "A Hydra",
+     "mn": "Гидра"
+    },
+    {
+     "en": "A Siren",
+     "mn": "Сирен"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "Like the wooden horse that hid Greek soldiers inside Troy's walls, a Trojan sneaks harmful code in under a friendly disguise. Unlike viruses, Trojans usually do not copy themselves.",
+    "mn": "Тройн хэрэм дотор Грек цэргүүдийг нууж оруулсан модон морь шиг, троян программ хор хөнөөлтэй кодоо найрсаг дүрийн дор нууж оруулдаг. Вирусаас ялгаатай нь троян ихэвчлэн өөрийгөө олшруулдаггүй."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.in-our-world",
+   "key": "gods.in-our-world.b16",
+   "difficulty": 2,
+   "prompt": {
+    "en": "The Amazon River was named after which mythical group?",
+    "mn": "Амазон мөрөнг ямар домгийн бүлгийн нэрээр нэрлэсэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Sea nymphs",
+     "mn": "Далайн нимфүүд"
+    },
+    {
+     "en": "River gods",
+     "mn": "Голын бурхад"
+    },
+    {
+     "en": "Giant serpents",
+     "mn": "Аварга могойнууд"
+    },
+    {
+     "en": "Women warriors",
+     "mn": "Эмэгтэй дайчид"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "Spanish explorer Francisco de Orellana reported fighting fierce women warriors on the river in 1542 and named it after the Amazons of Greek myth. In legend the Amazons fought against Heracles and Achilles.",
+    "mn": "Испанийн судлаач Франсиско де Ореллана 1542 онд мөрөн дээр догшин эмэгтэй дайчидтай тулалдсан гэж мэдээлж, Грек домгийн Амазонуудын нэрээр нэрлэжээ. Домогт Амазонууд Геракл, Ахиллестэй тулалдсан байдаг."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.in-our-world",
+   "key": "gods.in-our-world.b17",
+   "difficulty": 2,
+   "prompt": {
+    "en": "The month of June is most often said to be named after which goddess?",
+    "mn": "Зургаадугаар сарын англи нэр June ихэвчлэн аль дарь эхийн нэрээс гаралтай гэдэг вэ?"
+   },
+   "choices": [
+    {
+     "en": "Diana",
+     "mn": "Диана"
+    },
+    {
+     "en": "Minerva",
+     "mn": "Минерва"
+    },
+    {
+     "en": "Juno",
+     "mn": "Юнона"
+    },
+    {
+     "en": "Vesta",
+     "mn": "Веста"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Juno was the Roman queen of the gods and protector of marriage, which is one reason June is a popular wedding month. Ovid offers more than one origin for the name, so this is the leading view rather than a certainty.",
+    "mn": "Юнона бол Ромын бурхдын хатан, гэрлэлтийн ивээгч бөгөөд энэ нь June сар хуримын алдартай сар болсны нэг шалтгаан гэдэг. Овид энэ нэрийн гарлын хэд хэдэн тайлбарыг өгдөг тул энэ нь баттай биш, давамгай үзэл юм."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.in-our-world",
+   "key": "gods.in-our-world.b18",
+   "difficulty": 3,
+   "prompt": {
+    "en": "Which mythological creature appears in the Starbucks logo?",
+    "mn": "Starbucks-ийн логонд ямар домгийн амьтан дүрслэгдсэн байдаг вэ?"
+   },
+   "choices": [
+    {
+     "en": "A Gorgon",
+     "mn": "Горгон"
+    },
+    {
+     "en": "A twin-tailed siren",
+     "mn": "Хоёр сүүлт сирен"
+    },
+    {
+     "en": "A sphinx",
+     "mn": "Сфинкс"
+    },
+    {
+     "en": "A harpy",
+     "mn": "Гарпи"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "The logo, adopted in 1971, was inspired by an old woodcut and meant to evoke the seafaring lure of coffee. The name Starbucks itself comes from a character in Moby-Dick.",
+    "mn": "1971 онд баталсан энэ лого хуучин модон сийлбэрээс сэдэвлэсэн бөгөөд кофены далайн аялалын татах хүчийг илэрхийлэх зорилготой. Starbucks нэр өөрөө «Моби Дик» романы дүрээс гаралтай."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.in-our-world",
+   "key": "gods.in-our-world.b19",
+   "difficulty": 1,
+   "prompt": {
+    "en": "What does the word 'odyssey' mean in everyday English?",
+    "mn": "Англи хэлэнд «odyssey» гэдэг үг өдөр тутамд юу гэсэн утгатай вэ?"
+   },
+   "choices": [
+    {
+     "en": "A great battle",
+     "mn": "Агуу тулаан"
+    },
+    {
+     "en": "A long eventful journey",
+     "mn": "Урт, адал явдалтай аялал"
+    },
+    {
+     "en": "A love story",
+     "mn": "Хайрын түүх"
+    },
+    {
+     "en": "A wise old man",
+     "mn": "Мэргэн өвгөн"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "The word comes from Homer's Odyssey, about Odysseus's ten-year voyage home. Stanley Kubrick borrowed it for his 1968 film '2001: A Space Odyssey'.",
+    "mn": "Энэ үг Одиссейн гэртээ харих арван жилийн аяллыг өгүүлдэг Гомерын «Одиссей» туульсаас гаралтай. Стэнли Кубрик үүнийг 1968 оны «2001: Сансрын одиссей» кинондоо ашигласан."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.in-our-world",
+   "key": "gods.in-our-world.b110",
+   "difficulty": 3,
+   "prompt": {
+    "en": "Which chemical element was named after the Titans of Greek myth?",
+    "mn": "Аль химийн элементийг Грек домгийн Титануудын нэрээр нэрлэсэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Titanium",
+     "mn": "Титан"
+    },
+    {
+     "en": "Uranium",
+     "mn": "Уран"
+    },
+    {
+     "en": "Mercury",
+     "mn": "Мөнгөн ус"
+    },
+    {
+     "en": "Helium",
+     "mn": "Гели"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "German chemist Martin Heinrich Klaproth named titanium in 1795 after the Titans, the children of Gaia. Fittingly, it is known for its great strength.",
+    "mn": "Германы химич Мартин Генрих Клапрот 1795 онд титаныг Гаягийн хүүхдүүд болох Титануудын нэрээр нэрлэжээ. Тохирох нь гэвэл энэ металл маш бат бөх гэдгээрээ алдартай."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.gods-of-the-hearth-and-home",
+   "key": "gods.gods-of-the-hearth-and-home.b11",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Who tended the sacred fire of Vesta in ancient Rome?",
+    "mn": "Эртний Ромд Вестагийн ариун галыг хэн сахидаг байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "The Senators",
+     "mn": "Сенаторууд"
+    },
+    {
+     "en": "The Gladiators",
+     "mn": "Гладиаторууд"
+    },
+    {
+     "en": "The Augurs",
+     "mn": "Авгурууд"
+    },
+    {
+     "en": "The Vestal Virgins",
+     "mn": "Вестал онгон охид"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "The Vestal Virgins were priestesses who kept Vesta's flame burning; if it went out, it was seen as a terrible omen for Rome. They served for 30 years and had rare privileges for Roman women.",
+    "mn": "Вестал онгон охид бол Вестагийн галыг унтраахгүй сахидаг тахилч эмэгтэйчүүд байв. Гал унтарвал Ромд аймшигт муу ёр гэж үздэг байжээ. Тэд 30 жил үйлчилдэг бөгөөд Ромын эмэгтэйчүүдэд ховор эрх ямбатай байв."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.gods-of-the-hearth-and-home",
+   "key": "gods.gods-of-the-hearth-and-home.b12",
+   "difficulty": 3,
+   "prompt": {
+    "en": "How many Vestal Virgins served at one time in the classical period?",
+    "mn": "Сонгодог үед нэг дор хэдэн Вестал онгон охин үйлчилдэг байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "Three",
+     "mn": "Гурав"
+    },
+    {
+     "en": "Twelve",
+     "mn": "Арван хоёр"
+    },
+    {
+     "en": "Six",
+     "mn": "Зургаа"
+    },
+    {
+     "en": "Nine",
+     "mn": "Ес"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "There were six Vestals, chosen as young girls between 6 and 10 years old. They spent ten years learning, ten serving and ten teaching.",
+    "mn": "Вестал охид зургаа байсан бөгөөд 6-10 насандаа сонгогддог байжээ. Тэд арван жил суралцаж, арван жил үйлчилж, арван жил заадаг байв."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.gods-of-the-hearth-and-home",
+   "key": "gods.gods-of-the-hearth-and-home.b13",
+   "difficulty": 2,
+   "prompt": {
+    "en": "What was the punishment for a Vestal Virgin who broke her vow of chastity?",
+    "mn": "Ариун явдлын тангаргаа зөрчсөн Вестал охинд ямар шийтгэл ногдуулдаг байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "Exile to an island",
+     "mn": "Арал руу цөлөх"
+    },
+    {
+     "en": "A heavy fine",
+     "mn": "Их торгууль"
+    },
+    {
+     "en": "Being buried alive",
+     "mn": "Амьдаар нь булах"
+    },
+    {
+     "en": "Losing her hair",
+     "mn": "Үсийг нь хусах"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Because a Vestal's blood could not be shed, she was sealed in an underground chamber with a little food and water. Such cases were rare but recorded by Roman historians.",
+    "mn": "Вестал охины цусыг урсгаж болохгүй тул түүнийг бага зэрэг хоол, устай газар доорх өрөөнд битүүмжилдэг байжээ. Ийм тохиолдол ховор ч Ромын түүхчид тэмдэглэн үлдээсэн."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.gods-of-the-hearth-and-home",
+   "key": "gods.gods-of-the-hearth-and-home.b14",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Which daughter of Zeus and Hera was the Greek goddess of childbirth?",
+    "mn": "Зевс, Гера хоёрын охин, Грекийн төрөх эхийн дарь эх хэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Hebe",
+     "mn": "Геба"
+    },
+    {
+     "en": "Eileithyia",
+     "mn": "Илифия"
+    },
+    {
+     "en": "Iris",
+     "mn": "Ирида"
+    },
+    {
+     "en": "Nemesis",
+     "mn": "Немезида"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "Mothers in labour prayed to Eileithyia. In one myth, jealous Hera kept her away so that Leto could not give birth to Apollo and Artemis.",
+    "mn": "Төрж буй эхчүүд Илифияд залбирдаг байжээ. Нэгэн домогт атаархсан Гера түүнийг саатуулж, Летог Аполлон, Артемис хоёрыг төрүүлэхэд нь саад хийсэн."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.gods-of-the-hearth-and-home",
+   "key": "gods.gods-of-the-hearth-and-home.b15",
+   "difficulty": 3,
+   "prompt": {
+    "en": "What did it mean when the doors of the Temple of Janus in Rome were closed?",
+    "mn": "Ром дахь Янусын сүмийн хаалгыг хаасан байх нь юу гэсэн утгатай байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "Rome was at peace",
+     "mn": "Ром энх тайван байна"
+    },
+    {
+     "en": "The emperor had died",
+     "mn": "Эзэн хаан нас барсан"
+    },
+    {
+     "en": "A festival began",
+     "mn": "Баяр эхэлсэн"
+    },
+    {
+     "en": "Winter had arrived",
+     "mn": "Өвөл ирсэн"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "The doors stood open in wartime and were closed only when Rome was at peace everywhere. That was so rare that Augustus proudly recorded closing them three times.",
+    "mn": "Дайны үед хаалга нээлттэй байж, Ром хаа сайгүй энх тайван болсон үед л хаагддаг байжээ. Энэ нь маш ховор байсан тул Август хаалгыг гурван удаа хаасандаа бахархан тэмдэглэжээ."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.gods-of-the-hearth-and-home",
+   "key": "gods.gods-of-the-hearth-and-home.b16",
+   "difficulty": 2,
+   "prompt": {
+    "en": "When Greeks founded a new colony, what did they take from their home city's hearth?",
+    "mn": "Грекчүүд шинэ колони байгуулахдаа эх хотынхоо голомтоос юу авч явдаг байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "A statue of Zeus",
+     "mn": "Зевсийн хөшөө"
+    },
+    {
+     "en": "Soil from the agora",
+     "mn": "Агорагийн шороо"
+    },
+    {
+     "en": "Water from a sacred spring",
+     "mn": "Ариун булгийн ус"
+    },
+    {
+     "en": "Fire from Hestia's hearth",
+     "mn": "Гестиагийн голомтын гал"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "The flame from the city's public hearth of Hestia lit the new colony's hearth, linking the two cities like parent and child. Each city's hearth was kept in a building called the prytaneion.",
+    "mn": "Хотын нийтийн Гестиагийн голомтын галаар шинэ колонийн голомтыг асааж, хоёр хотыг эх ба хүүхэд мэт холбодог байжээ. Хот бүрийн голомтыг пританей гэдэг байранд хадгалдаг байв."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.gods-of-the-hearth-and-home",
+   "key": "gods.gods-of-the-hearth-and-home.b17",
+   "difficulty": 1,
+   "prompt": {
+    "en": "As Zeus Xenios, Zeus protected which sacred custom?",
+    "mn": "Зевс Ксениос нэрээрээ ямар ариун ёсыг хамгаалдаг байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "Paying taxes",
+     "mn": "Татвар төлөх"
+    },
+    {
+     "en": "Military service",
+     "mn": "Цэргийн алба"
+    },
+    {
+     "en": "Keeping fasts",
+     "mn": "Мацаг барих"
+    },
+    {
+     "en": "Hospitality to guests",
+     "mn": "Зочинд зочломтгой хандах"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "The Greek custom of xenia required hosts to welcome strangers with food and shelter before even asking their names. Paris broke it by stealing Helen from his host, Menelaus.",
+    "mn": "Грекийн ксениа ёсоор гэрийн эзэн танихгүй хүнийг нэрийг нь асуухаас өмнө хоол, хоноглох газраар хангах ёстой байв. Парис гэрийн эзэн Менелайгаас Хеленийг булааж энэ ёсыг зөрчсөн."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.gods-of-the-hearth-and-home",
+   "key": "gods.gods-of-the-hearth-and-home.b18",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Which god's pillar-shaped statues, called herms, stood at Greek doorways and crossroads?",
+    "mn": "Герм гэж нэрлэгдэх багана хэлбэрийн хөшөөнүүд Грекийн хаалга, уулзварт зогсдог байсан нь аль бурхных вэ?"
+   },
+   "choices": [
+    {
+     "en": "Apollo",
+     "mn": "Аполлон"
+    },
+    {
+     "en": "Hephaestus",
+     "mn": "Гефест"
+    },
+    {
+     "en": "Hermes",
+     "mn": "Гермес"
+    },
+    {
+     "en": "Ares",
+     "mn": "Арес"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Herms were stone pillars topped with Hermes's head, set up to protect homes, roads and boundaries. In 415 BC, the mysterious smashing of Athens's herms caused a political scandal.",
+    "mn": "Герм хөшөөнүүд нь дээрээ Гермесийн толгойтой чулуун багана бөгөөд гэр орон, зам, хил хязгаарыг хамгаалахаар босгодог байжээ. МЭӨ 415 онд Афины гермүүдийг учир битүүлгээр эвдсэн нь улс төрийн дуулиан тарьсан."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.gods-of-the-hearth-and-home",
+   "key": "gods.gods-of-the-hearth-and-home.b19",
+   "difficulty": 1,
+   "prompt": {
+    "en": "What shape was the Temple of Vesta in the Roman Forum?",
+    "mn": "Ромын Форум дахь Вестагийн сүм ямар хэлбэртэй байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "Square",
+     "mn": "Дөрвөлжин"
+    },
+    {
+     "en": "Round",
+     "mn": "Дугуй"
+    },
+    {
+     "en": "Triangular",
+     "mn": "Гурвалжин"
+    },
+    {
+     "en": "Star-shaped",
+     "mn": "Од хэлбэртэй"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "The round shape is thought to recall the early round huts of Italy. Unusually, the temple held no statue of Vesta, only her ever-burning fire.",
+    "mn": "Дугуй хэлбэр нь Италийн эртний дугуй овоохойг санагдуулдаг гэж үздэг. Сонин нь, сүмд Вестагийн хөшөө байгаагүй бөгөөд зөвхөн мөнх бадрах гал нь байжээ."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.gods-of-the-hearth-and-home",
+   "key": "gods.gods-of-the-hearth-and-home.b110",
+   "difficulty": 2,
+   "prompt": {
+    "en": "In Ovid's tale, what did the poor couple Philemon and Baucis ask of Zeus after welcoming him?",
+    "mn": "Овидийн өгүүлэлд ядуу хосууд Филемон, Бавкида хоёр Зевсийг хүлээн авсныхаа дараа түүнээс юу хүссэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "To die at the same moment",
+     "mn": "Нэг агшинд хамт үхэх"
+    },
+    {
+     "en": "Endless gold",
+     "mn": "Шавхагдашгүй алт"
+    },
+    {
+     "en": "Eternal youth",
+     "mn": "Мөнх залуу нас"
+    },
+    {
+     "en": "A large family",
+     "mn": "Олон хүүхэд"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "Zeus and Hermes, disguised as travellers, were turned away by everyone except this old couple. Their wish was granted: at death they became an oak and a linden tree growing side by side.",
+    "mn": "Аялагчийн дүрд хувирсан Зевс, Гермес хоёрыг энэ өвгөн хөгшин хоёроос өөр хэн ч хүлээж аваагүй. Тэдний хүсэл биелж, нас барахдаа зэрэгцэн ургах царс, хужир мод болон хувирсан."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.festivals-of-the-gods",
+   "key": "gods.festivals-of-the-gods.b11",
+   "difficulty": 1,
+   "prompt": {
+    "en": "The great Panathenaea festival of Athens honoured which goddess?",
+    "mn": "Афины агуу Панафиней баяр аль дарь эхийг хүндэтгэдэг байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "Athena",
+     "mn": "Афина"
+    },
+    {
+     "en": "Hera",
+     "mn": "Гера"
+    },
+    {
+     "en": "Aphrodite",
+     "mn": "Афродита"
+    },
+    {
+     "en": "Demeter",
+     "mn": "Деметра"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "The Panathenaea celebrated Athena's birthday with a grand procession up to the Acropolis. Part of this procession is carved on the Parthenon frieze.",
+    "mn": "Панафиней баяраар Афинагийн төрсөн өдрийг Акрополь руу чиглэсэн сүр жавхлант жагсаалаар тэмдэглэдэг байв. Энэ жагсаалын нэг хэсгийг Парфеноны фризэнд сийлсэн байдаг."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.festivals-of-the-gods",
+   "key": "gods.festivals-of-the-gods.b12",
+   "difficulty": 2,
+   "prompt": {
+    "en": "What was presented to Athena's statue during the Panathenaic procession?",
+    "mn": "Панафиней жагсаалын үеэр Афинагийн хөшөөнд юу өргөдөг байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "A golden crown",
+     "mn": "Алтан титэм"
+    },
+    {
+     "en": "A live owl",
+     "mn": "Амьд шар шувуу"
+    },
+    {
+     "en": "A bronze shield",
+     "mn": "Хүрэл бамбай"
+    },
+    {
+     "en": "A new woven robe",
+     "mn": "Шинэ нэхмэл хувцас"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "The robe, called a peplos, was woven by Athenian women and girls over many months. At the Great Panathenaea it was huge and was carried hung like a sail on a ship-shaped cart.",
+    "mn": "Пеплос гэж нэрлэгдэх энэ хувцсыг Афины эмэгтэйчүүд, охид олон сарын турш нэхдэг байжээ. Их Панафинейд энэ нь маш том байсан бөгөөд хөлөг онгоц хэлбэртэй тэргэнд дарвуул шиг өлгөөтэй авч явдаг байв."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.festivals-of-the-gods",
+   "key": "gods.festivals-of-the-gods.b13",
+   "difficulty": 2,
+   "prompt": {
+    "en": "What prize did winners at the Panathenaic Games receive?",
+    "mn": "Панафиней наадмын ялагчид ямар шагнал авдаг байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "Bags of silver",
+     "mn": "Уут дүүрэн мөнгө"
+    },
+    {
+     "en": "A herd of cattle",
+     "mn": "Нэг сүрэг үхэр"
+    },
+    {
+     "en": "Jars of olive oil",
+     "mn": "Сав дүүрэн чидуны тос"
+    },
+    {
+     "en": "A marble statue",
+     "mn": "Гантиг хөшөө"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Victors won painted amphorae filled with oil from Athena's sacred olive trees, sometimes dozens of jars. Many of these Panathenaic amphorae survive in museums today.",
+    "mn": "Ялагчид Афинагийн ариун чидун модны тосоор дүүргэсэн будгийн зурагтай амфоруудыг заримдаа хэдэн арваар нь авдаг байв. Эдгээр Панафиней амфорын олонх нь өнөөдөр музейд хадгалагдаж байна."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.festivals-of-the-gods",
+   "key": "gods.festivals-of-the-gods.b14",
+   "difficulty": 1,
+   "prompt": {
+    "en": "What were winners at the ancient Olympic Games crowned with?",
+    "mn": "Эртний Олимпийн наадмын ялагчдыг юугаар титэмлэдэг байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "A gold medal",
+     "mn": "Алтан медаль"
+    },
+    {
+     "en": "An olive wreath",
+     "mn": "Чидун мөчрийн титэм"
+    },
+    {
+     "en": "A laurel wreath",
+     "mn": "Лаврын титэм"
+    },
+    {
+     "en": "A silver crown",
+     "mn": "Мөнгөн титэм"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "The wreath was cut from a sacred wild olive tree at Olympia with a golden sickle. The prize itself was simple, but champions were showered with honours back home.",
+    "mn": "Титмийг Олимпия дахь ариун зэрлэг чидун модноос алтан хадуураар тайрдаг байжээ. Шагнал энгийн ч аваргууд нутагтаа буцаж ирэхэд асар их хүндэтгэл хүлээдэг байв."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.festivals-of-the-gods",
+   "key": "gods.festivals-of-the-gods.b15",
+   "difficulty": 1,
+   "prompt": {
+    "en": "The Pythian Games at Delphi were held in honour of which god?",
+    "mn": "Дельфи дэх Пифийн наадмыг аль бурхныг хүндэтгэн зохиодог байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "Zeus",
+     "mn": "Зевс"
+    },
+    {
+     "en": "Apollo",
+     "mn": "Аполлон"
+    },
+    {
+     "en": "Poseidon",
+     "mn": "Посейдон"
+    },
+    {
+     "en": "Ares",
+     "mn": "Арес"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "The games celebrated Apollo's victory over the serpent Python and included music contests as well as athletics. Winners received a laurel wreath, Apollo's sacred plant.",
+    "mn": "Энэ наадам Аполлоны Пифон могойг ялсныг тэмдэглэдэг бөгөөд биеийн тамирын тэмцээнээс гадна хөгжмийн уралдаантай байв. Ялагчид Аполлоны ариун ургамал болох лаврын титэм авдаг байжээ."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.festivals-of-the-gods",
+   "key": "gods.festivals-of-the-gods.b16",
+   "difficulty": 2,
+   "prompt": {
+    "en": "The Isthmian Games near Corinth honoured which god?",
+    "mn": "Коринфын ойролцоох Истмийн наадам аль бурхныг хүндэтгэдэг байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "Poseidon",
+     "mn": "Посейдон"
+    },
+    {
+     "en": "Apollo",
+     "mn": "Аполлон"
+    },
+    {
+     "en": "Hermes",
+     "mn": "Гермес"
+    },
+    {
+     "en": "Dionysus",
+     "mn": "Дионис"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "Corinth sits on a narrow isthmus between two seas, a fitting place to honour the sea god. The Isthmian Games were one of the four great Panhellenic games.",
+    "mn": "Коринф хоёр тэнгисийн хоорондох нарийхан хоолой дээр оршдог нь далайн бурхныг хүндэтгэхэд тохиромжтой газар байв. Истмийн наадам Бүх Грекийн дөрвөн их наадмын нэг байжээ."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.festivals-of-the-gods",
+   "key": "gods.festivals-of-the-gods.b17",
+   "difficulty": 3,
+   "prompt": {
+    "en": "What was the victor's crown made of at the Nemean Games?",
+    "mn": "Немейн наадмын ялагчийн титмийг юугаар хийдэг байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "Olive branches",
+     "mn": "Чидун мөчир"
+    },
+    {
+     "en": "Laurel leaves",
+     "mn": "Лаврын навч"
+    },
+    {
+     "en": "Pine needles",
+     "mn": "Нарсны шилмүүс"
+    },
+    {
+     "en": "Wild celery",
+     "mn": "Зэрлэг яншуй"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "The Nemean Games honoured Zeus, and their celery crown was linked to mourning for a baby prince killed there by a serpent. Myth also said Heracles founded the games after killing the Nemean Lion.",
+    "mn": "Немейн наадам Зевсийг хүндэтгэдэг бөгөөд яншуйн титэм нь тэнд могойд алагдсан нялх ханхүүгийн гашуудалтай холбоотой. Домогт Геракл Немейн арслангийг алсны дараа наадмыг үүсгэсэн гэж бас ярьдаг."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.festivals-of-the-gods",
+   "key": "gods.festivals-of-the-gods.b18",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Which Roman festival in February had young men run through the city striking people with goatskin strips?",
+    "mn": "Хоёрдугаар сард болдог, залуу эрчүүд ямааны арьсан туузаар хүмүүсийг ташуурдан хотоор гүйдэг Ромын баяр аль нь вэ?"
+   },
+   "choices": [
+    {
+     "en": "Saturnalia",
+     "mn": "Сатурналия"
+    },
+    {
+     "en": "Vestalia",
+     "mn": "Весталия"
+    },
+    {
+     "en": "Lupercalia",
+     "mn": "Луперкалия"
+    },
+    {
+     "en": "Floralia",
+     "mn": "Флоралия"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Being struck was thought to bring fertility, so women welcomed it. Mark Antony famously ran in the Lupercalia of 44 BC when he offered Caesar a crown.",
+    "mn": "Ташуурдуулах нь үр хүүхэдтэй болгодог гэж үздэг байсан тул эмэгтэйчүүд дуртай угтдаг байжээ. Марк Антони МЭӨ 44 оны Луперкалияд гүйж байхдаа Цезарьт титэм өргөсөн нь алдартай."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.festivals-of-the-gods",
+   "key": "gods.festivals-of-the-gods.b19",
+   "difficulty": 3,
+   "prompt": {
+    "en": "Which Greek festival of Demeter was open only to married women?",
+    "mn": "Деметрагийн аль баярт зөвхөн гэрлэсэн эмэгтэйчүүд оролцдог байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "The Panathenaea",
+     "mn": "Панафиней"
+    },
+    {
+     "en": "The Anthesteria",
+     "mn": "Анфестерия"
+    },
+    {
+     "en": "The Thesmophoria",
+     "mn": "Фесмофория"
+    },
+    {
+     "en": "The Dionysia",
+     "mn": "Дионисия"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Men were strictly excluded from the Thesmophoria, which prayed for fertile fields. Aristophanes wrote a comedy about a man who sneaks in disguised as a woman.",
+    "mn": "Тариан талбайн үржил шимийг гуйдаг Фесмофорияд эрэгтэйчүүдийг огт оруулдаггүй байжээ. Аристофан эмэгтэйн хувцас өмсөж нууцаар орсон эрийн тухай инээдмийн жүжиг бичсэн."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.festivals-of-the-gods",
+   "key": "gods.festivals-of-the-gods.b110",
+   "difficulty": 1,
+   "prompt": {
+    "en": "The secret Eleusinian Mysteries honoured Demeter and which other goddess?",
+    "mn": "Нууц Элевсины ёслол Деметра болон өөр аль дарь эхийг хүндэтгэдэг байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "Athena",
+     "mn": "Афина"
+    },
+    {
+     "en": "Persephone",
+     "mn": "Персефона"
+    },
+    {
+     "en": "Artemis",
+     "mn": "Артемис"
+    },
+    {
+     "en": "Hera",
+     "mn": "Гера"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "Initiates were promised a happier afterlife, but the rites were kept so secret that we still do not know exactly what happened. They were held at Eleusis near Athens for nearly 2,000 years.",
+    "mn": "Ёслолд нэгдсэн хүмүүст хойд насанд илүү аз жаргал амладаг байсан ч ёслол маш нууц байсан тул яг юу болдгийг бид одоо ч мэдэхгүй. Афины ойролцоох Элевсинд бараг 2000 жил зохиогдож байжээ."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.the-oracles-and-prophecy",
+   "key": "gods.the-oracles-and-prophecy.b11",
+   "difficulty": 1,
+   "prompt": {
+    "en": "What was the curse placed on the Trojan prophetess Cassandra?",
+    "mn": "Тройн зөнч эмэгтэй Кассандрад ямар хараал оногдсон бэ?"
+   },
+   "choices": [
+    {
+     "en": "No one believed her",
+     "mn": "Хэн ч түүнд итгэдэггүй"
+    },
+    {
+     "en": "She went blind",
+     "mn": "Сохор болсон"
+    },
+    {
+     "en": "She could not speak",
+     "mn": "Ярьж чаддаггүй"
+    },
+    {
+     "en": "She aged instantly",
+     "mn": "Агшин зуур хөгширсөн"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "Apollo gave Cassandra the gift of prophecy, but when she rejected him he cursed her never to be believed. She warned Troy about the wooden horse, but nobody listened.",
+    "mn": "Аполлон Кассандрад зөн билэг хайрласан ч тэр түүнээс татгалзсан тул хэн ч итгэхгүй байх хараал хүртээжээ. Тэр Тройчуудад модон морины талаар сануулсан ч хэн ч сонсоогүй."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.the-oracles-and-prophecy",
+   "key": "gods.the-oracles-and-prophecy.b12",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Which famous saying was inscribed at the Temple of Apollo at Delphi?",
+    "mn": "Дельфи дэх Аполлоны сүмд ямар алдартай үг сийлэгдсэн байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "Carpe diem",
+     "mn": "Өдрийг ашигла"
+    },
+    {
+     "en": "I came, I saw, I conquered",
+     "mn": "Ирлээ, харлаа, яллаа"
+    },
+    {
+     "en": "All roads lead to Rome",
+     "mn": "Бүх зам Ромд хүрнэ"
+    },
+    {
+     "en": "Know thyself",
+     "mn": "Өөрийгөө таньж мэд"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "'Know thyself' (gnōthi seauton) was one of several maxims carved at the temple entrance. Another was 'Nothing in excess'.",
+    "mn": "«Өөрийгөө таньж мэд» (гноти сеаутон) бол сүмийн үүдэнд сийлсэн хэд хэдэн сургаалын нэг. Өөр нэг нь «Юуг ч хэтрүүлж болохгүй» байжээ."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.the-oracles-and-prophecy",
+   "key": "gods.the-oracles-and-prophecy.b13",
+   "difficulty": 2,
+   "prompt": {
+    "en": "What was the omphalos stone at Delphi believed to mark?",
+    "mn": "Дельфи дэх омфалос чулуу юуг тэмдэглэдэг гэж үздэг байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "Apollo's grave",
+     "mn": "Аполлоны булш"
+    },
+    {
+     "en": "The gate to Hades",
+     "mn": "Хадесийн хаалга"
+    },
+    {
+     "en": "The first Olympic race",
+     "mn": "Анхны Олимпийн уралдаан"
+    },
+    {
+     "en": "The centre of the world",
+     "mn": "Дэлхийн төв"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "Omphalos means 'navel'. Zeus released two eagles from opposite ends of the earth, and they met over Delphi, marking it as the world's centre.",
+    "mn": "Омфалос гэдэг нь «хүйс» гэсэн утгатай. Зевс дэлхийн хоёр захаас хоёр бүргэд тавихад тэд Дельфийн дээр тааралдсан тул энэ газрыг дэлхийн төв гэж тооцох болжээ."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.the-oracles-and-prophecy",
+   "key": "gods.the-oracles-and-prophecy.b14",
+   "difficulty": 2,
+   "prompt": {
+    "en": "At the oracle of Dodona, how did Zeus's priests read his will?",
+    "mn": "Додонагийн мэргэ төлгийн газарт Зевсийн тахилч нар түүний хүслийг хэрхэн уншдаг байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "From a sacred fire",
+     "mn": "Ариун галаас"
+    },
+    {
+     "en": "From a talking statue",
+     "mn": "Ярьдаг хөшөөнөөс"
+    },
+    {
+     "en": "From rustling oak leaves",
+     "mn": "Царс модны навчны шаржигнаанаас"
+    },
+    {
+     "en": "From the stars",
+     "mn": "Оддоос"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Dodona, in northwest Greece, was probably the oldest Greek oracle, mentioned by Homer. Archaeologists have found thousands of lead tablets on which people scratched their questions.",
+    "mn": "Грекийн баруун хойд хэсэгт орших Додона бол Гомерын дурдсан, Грекийн хамгийн эртний мэргэ төлгийн газар байж магадгүй. Археологичид хүмүүс асуултаа сийлсэн мянга мянган тугалган хавтанг олсон."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.the-oracles-and-prophecy",
+   "key": "gods.the-oracles-and-prophecy.b15",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Which monstrous serpent did Apollo kill to claim Delphi?",
+    "mn": "Аполлон Дельфийг эзлэхийн тулд аль аварга могойг алсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "Typhon",
+     "mn": "Тифон"
+    },
+    {
+     "en": "Python",
+     "mn": "Пифон"
+    },
+    {
+     "en": "Ladon",
+     "mn": "Ладон"
+    },
+    {
+     "en": "The Hydra",
+     "mn": "Гидра"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "According to the Homeric Hymn to Apollo, the young god shot the serpent with his arrows. The name Pythia, for Delphi's priestess, comes from Python.",
+    "mn": "«Аполлоны магтаал»-ын дагуу залуу бурхан могойг сумаар харваж алжээ. Дельфийн тахилч эмэгтэйн нэр Пифия нь Пифоноос гаралтай."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.the-oracles-and-prophecy",
+   "key": "gods.the-oracles-and-prophecy.b16",
+   "difficulty": 1,
+   "prompt": {
+    "en": "What did the oracle foretell that Oedipus would do?",
+    "mn": "Мэргэч Эдипийг юу хийнэ гэж зөгнөсөн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Kill his father, marry his mother",
+     "mn": "Эцгээ алж, эхтэйгээ гэрлэнэ"
+    },
+    {
+     "en": "Found a great city",
+     "mn": "Агуу хот байгуулна"
+    },
+    {
+     "en": "Defeat the Titans",
+     "mn": "Титануудыг ялна"
+    },
+    {
+     "en": "Sail to the edge of the world",
+     "mn": "Дэлхийн зах хүртэл далайд гарна"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "Oedipus fled home to avoid the prophecy, not knowing he had been adopted, and so fulfilled it. Sophocles's tragedy 'Oedipus Rex' tells the story.",
+    "mn": "Эдип өөрийгөө үрчлэгдсэн гэдгийг мэдэлгүй зөгнөлөөс зугтан гэрээсээ гарсан нь эцэстээ түүнийг биелүүлжээ. Софоклын «Эдип хаан» эмгэнэлт жүжиг энэ түүхийг өгүүлдэг."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.the-oracles-and-prophecy",
+   "key": "gods.the-oracles-and-prophecy.b17",
+   "difficulty": 2,
+   "prompt": {
+    "en": "According to Plato, what did the Delphic oracle say about Socrates?",
+    "mn": "Платоны бичсэнээр Дельфийн мэргэч Сократын тухай юу гэж хэлсэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "No one was wiser",
+     "mn": "Түүнээс мэргэн хүн байхгүй"
+    },
+    {
+     "en": "He would become king",
+     "mn": "Тэр хаан болно"
+    },
+    {
+     "en": "He would die at sea",
+     "mn": "Далайд үхнэ"
+    },
+    {
+     "en": "He was a son of Zeus",
+     "mn": "Тэр Зевсийн хүү"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "Socrates's friend Chaerephon asked the oracle, and Socrates was puzzled since he believed he knew nothing. He concluded he was wise only in knowing how little he knew.",
+    "mn": "Сократын найз Херефонт мэргэчээс асуусан бөгөөд өөрийгөө юу ч мэдэхгүй гэж боддог Сократ гайхжээ. Тэр өөрийн мэдлэг хэр бага гэдгийг мэддэгээрээ л мэргэн гэсэн дүгнэлтэд хүрсэн."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.the-oracles-and-prophecy",
+   "key": "gods.the-oracles-and-prophecy.b18",
+   "difficulty": 3,
+   "prompt": {
+    "en": "Before the Battle of Salamis, Themistocles interpreted the oracle's 'wooden wall' as what?",
+    "mn": "Саламины тулалдааны өмнө Фемистокл мэргэчийн «модон хэрэм»-ийг юу гэж тайлбарласан бэ?"
+   },
+   "choices": [
+    {
+     "en": "The Acropolis fence",
+     "mn": "Акрополийн хашаа"
+    },
+    {
+     "en": "A forest ambush",
+     "mn": "Ойн отолт"
+    },
+    {
+     "en": "A wooden horse",
+     "mn": "Модон морь"
+    },
+    {
+     "en": "The Athenian fleet",
+     "mn": "Афины флот"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "Delphi told Athens that a 'wooden wall' would save them from Persia. Themistocles argued it meant their ships, and the Greek navy won at Salamis in 480 BC.",
+    "mn": "Дельфи Афинчуудад «модон хэрэм» тэднийг Персээс аварна гэж хэлжээ. Фемистокл үүнийг хөлөг онгоцууд гэж тайлбарласан бөгөөд МЭӨ 480 онд Грекийн тэнгисийн цэрэг Саламинд ялсан."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.the-oracles-and-prophecy",
+   "key": "gods.the-oracles-and-prophecy.b19",
+   "difficulty": 3,
+   "prompt": {
+    "en": "In Virgil's Aeneid, which prophetess guided Aeneas into the underworld?",
+    "mn": "Вергилийн «Энеида»-д аль зөнч эмэгтэй Энейг үхэгсдийн оронд хөтөлсөн бэ?"
+   },
+   "choices": [
+    {
+     "en": "The Pythia",
+     "mn": "Пифия"
+    },
+    {
+     "en": "Cassandra",
+     "mn": "Кассандра"
+    },
+    {
+     "en": "The Sibyl of Cumae",
+     "mn": "Кумын Сивилла"
+    },
+    {
+     "en": "Medea",
+     "mn": "Медея"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "The Cumaean Sibyl led Aeneas past Cerberus to meet his dead father. In Ovid's telling, she had asked Apollo for long life but forgot to ask for youth, so she withered for centuries.",
+    "mn": "Кумын Сивилла Энейг Церберийн хажуугаар хөтөлж, нас барсан аавтай нь уулзуулжээ. Овидийн өгүүлснээр тэр Аполлоноос урт наслахыг хүссэн ч залуу насыг хүсэхээ мартсан тул олон зуун жил хатаж гандсан."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.the-oracles-and-prophecy",
+   "key": "gods.the-oracles-and-prophecy.b110",
+   "difficulty": 2,
+   "prompt": {
+    "en": "What did the Pythia sit on while giving prophecies at Delphi?",
+    "mn": "Пифия Дельфид зөгнөл хэлэхдээ юун дээр суудаг байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "A golden throne",
+     "mn": "Алтан сэнтий"
+    },
+    {
+     "en": "A bronze tripod",
+     "mn": "Хүрэл тулгуур"
+    },
+    {
+     "en": "A marble lion",
+     "mn": "Гантиг арслан"
+    },
+    {
+     "en": "A wooden chair",
+     "mn": "Модон сандал"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "The Pythia sat on a tall three-legged stand in the inner chamber of Apollo's temple. Tripods became so linked to Apollo that they were common prizes and offerings.",
+    "mn": "Пифия Аполлоны сүмийн дотоод тасалгаанд өндөр гурван хөлтэй тулгуур дээр суудаг байв. Гурван хөлт тулгуур Аполлонтой маш нягт холбогдсон тул түгээмэл шагнал, өргөл болсон."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.the-primordial-forces",
+   "key": "gods.the-primordial-forces.b11",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Which primordial god of deep darkness was born from Chaos along with Night?",
+    "mn": "Шөнийн хамт Хаосоос үүссэн гүн харанхуйн эртний бурхан хэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Aether",
+     "mn": "Эфир"
+    },
+    {
+     "en": "Erebus",
+     "mn": "Эреб"
+    },
+    {
+     "en": "Pontus",
+     "mn": "Понт"
+    },
+    {
+     "en": "Eros",
+     "mn": "Эрос"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "Hesiod says Chaos produced Erebus and Night, who then became parents of Aether and Day. Erebus also came to mean the dark region souls passed through on the way to Hades.",
+    "mn": "Гесиодын бичсэнээр Хаосоос Эреб ба Шөнө үүсэж, тэд Эфир, Өдөр хоёрын эцэг эх болжээ. Эреб гэдэг нь сүнснүүд Хадест очих замдаа дайран өнгөрдөг харанхуй орон гэсэн утгатай ч болсон."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.the-primordial-forces",
+   "key": "gods.the-primordial-forces.b12",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Which daughter of Nyx (Night) personified Day?",
+    "mn": "Шөнө (Никс)-ийн аль охин Өдрийг бэлгэддэг вэ?"
+   },
+   "choices": [
+    {
+     "en": "Hemera",
+     "mn": "Гемера"
+    },
+    {
+     "en": "Eos",
+     "mn": "Эос"
+    },
+    {
+     "en": "Selene",
+     "mn": "Селена"
+    },
+    {
+     "en": "Iris",
+     "mn": "Ирида"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "In a striking paradox, Hesiod makes Day the child of Night. He describes Nyx and Hemera greeting each other as they pass at the bronze threshold of the sky.",
+    "mn": "Гесиод Өдрийг Шөнийн хүүхэд болгосон нь гайхалтай парадокс юм. Тэрээр Никс, Гемера хоёр тэнгэрийн хүрэл босгон дээр зөрөхдөө бие биетэйгээ мэндэлдэг гэж дүрсэлжээ."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.the-primordial-forces",
+   "key": "gods.the-primordial-forces.b13",
+   "difficulty": 2,
+   "prompt": {
+    "en": "Aether, a primordial son of Night, personified what?",
+    "mn": "Шөнийн хүү, эртний бурхан Эфир юуг бэлгэддэг вэ?"
+   },
+   "choices": [
+    {
+     "en": "The deep ocean",
+     "mn": "Гүн далай"
+    },
+    {
+     "en": "Volcanic fire",
+     "mn": "Галт уулын гал"
+    },
+    {
+     "en": "The underworld",
+     "mn": "Үхэгсдийн орон"
+    },
+    {
+     "en": "The bright upper air",
+     "mn": "Тэнгэрийн дээд тунгалаг агаар"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "Aether was the pure, glowing air breathed by the gods, above the ordinary air of mortals. Aristotle later made aether the fifth element that the heavens were made of.",
+    "mn": "Эфир бол мөнх бусын энгийн агаараас дээгүүр орших, бурхдын амьсгалдаг цэвэр, гэрэлтсэн агаар байв. Хожим Аристотель эфирийг тэнгэрийн биетүүдийг бүрдүүлэх тав дахь махбод гэж үзсэн."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.the-primordial-forces",
+   "key": "gods.the-primordial-forces.b14",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Which god of death was the twin brother of Hypnos (Sleep)?",
+    "mn": "Аль үхлийн бурхан Гипнос (Нойр)-ын ихэр ах дүү байсан бэ?"
+   },
+   "choices": [
+    {
+     "en": "Hades",
+     "mn": "Хадес"
+    },
+    {
+     "en": "Charon",
+     "mn": "Харон"
+    },
+    {
+     "en": "Thanatos",
+     "mn": "Танатос"
+    },
+    {
+     "en": "Erebus",
+     "mn": "Эреб"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Thanatos and Hypnos were both sons of Nyx. Unlike Hades, who ruled the dead, Thanatos personified death itself and gently carried people away.",
+    "mn": "Танатос, Гипнос хоёр хоёулаа Никсийн хөвгүүд. Үхэгсдийг захирдаг Хадесаас ялгаатай нь Танатос үхлийг өөрийг нь бэлгэдэж, хүмүүсийг зөөлнөөр авч одох байжээ."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.the-primordial-forces",
+   "key": "gods.the-primordial-forces.b15",
+   "difficulty": 3,
+   "prompt": {
+    "en": "Which primordial beings, born from Gaia, personified the mountains?",
+    "mn": "Гаягаас төрсөн аль эртний бурхад уулсыг бэлгэддэг вэ?"
+   },
+   "choices": [
+    {
+     "en": "The Nereids",
+     "mn": "Нереидүүд"
+    },
+    {
+     "en": "The Hesperides",
+     "mn": "Гесперидүүд"
+    },
+    {
+     "en": "The Ourea",
+     "mn": "Оуреа"
+    },
+    {
+     "en": "The Horae",
+     "mn": "Орууд"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Hesiod says Gaia bore Uranus, the Ourea (mountains) and Pontus (sea) all on her own. Each great mountain could be seen as its own god.",
+    "mn": "Гесиодын бичсэнээр Гая Уран, Оуреа (уулс), Понт (тэнгис) гурвыг ганцаараа төрүүлжээ. Томоохон уул бүрийг тус тусдаа бурхан гэж үзэж болох байв."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.the-primordial-forces",
+   "key": "gods.the-primordial-forces.b16",
+   "difficulty": 3,
+   "prompt": {
+    "en": "In Orphic tradition, which primordial god of Time is often confused with the Titan Cronus?",
+    "mn": "Орфейн уламжлалд Титан Кроностой ихэвчлэн андуурагддаг Цаг хугацааны эртний бурхан хэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Aion",
+     "mn": "Айон"
+    },
+    {
+     "en": "Chronos",
+     "mn": "Хронос"
+    },
+    {
+     "en": "Ananke",
+     "mn": "Ананке"
+    },
+    {
+     "en": "Phanes",
+     "mn": "Фанес"
+    }
+   ],
+   "answer": 1,
+   "explanation": {
+    "en": "Chronos means 'time', while Cronus is the Titan father of Zeus; the similar names led ancient writers to merge them. That blend gave us 'Father Time' carrying Cronus's sickle.",
+    "mn": "Хронос гэдэг нь «цаг хугацаа» гэсэн утгатай бол Кронос бол Зевсийн эцэг Титан юм. Нэр нь төстэй тул эртний зохиолчид хоёрыг нэгтгэжээ. Үүнээс Кроносын хадуурыг барьсан «Цаг хугацааны өвгөн» дүр бий болсон."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.the-primordial-forces",
+   "key": "gods.the-primordial-forces.b17",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Which Greek word, meaning 'order', was the opposite of Chaos?",
+    "mn": "«Дэг журам» гэсэн утгатай, Хаосын эсрэг утгатай Грек үг аль нь вэ?"
+   },
+   "choices": [
+    {
+     "en": "Cosmos",
+     "mn": "Космос"
+    },
+    {
+     "en": "Logos",
+     "mn": "Логос"
+    },
+    {
+     "en": "Ethos",
+     "mn": "Этос"
+    },
+    {
+     "en": "Pathos",
+     "mn": "Патос"
+    }
+   ],
+   "answer": 0,
+   "explanation": {
+    "en": "Pythagoras is said to have first called the universe 'kosmos' because of its order and harmony. The word also meant ornament, which is why we have 'cosmetics'.",
+    "mn": "Пифагор орчлон ертөнцийг дэг журам, эв зохицолтой тул анх «космос» гэж нэрлэсэн гэдэг. Энэ үг бас «гоёл» гэсэн утгатай байсан бөгөөд «косметик» гэдэг үг үүнээс гаралтай."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.the-primordial-forces",
+   "key": "gods.the-primordial-forces.b18",
+   "difficulty": 2,
+   "prompt": {
+    "en": "According to Hesiod, from what were the Erinyes (Furies) born?",
+    "mn": "Гесиодын хэлснээр Эриниүүд (Хилэнцэт эмэгтэйчүүд) юунаас төрсөн бэ?"
+   },
+   "choices": [
+    {
+     "en": "Zeus's tears",
+     "mn": "Зевсийн нулимснаас"
+    },
+    {
+     "en": "Sea foam",
+     "mn": "Далайн хөөснөөс"
+    },
+    {
+     "en": "The ashes of Typhon",
+     "mn": "Тифоны үнснээс"
+    },
+    {
+     "en": "Drops of Uranus's blood",
+     "mn": "Ураны цусны дуслаас"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "When Cronus wounded Uranus with the sickle, his blood fell on Gaia and she bore the Erinyes and the Giants. The Furies punished crimes against family, above all murder of kin.",
+    "mn": "Кронос Ураныг хадуураар шархлуулахад түүний цус Гаягийн дээр дусаж, тэр Эриниүд болон Гигантуудыг төрүүлжээ. Эриниүд гэр бүлийн эсрэг гэмт хэрэг, ялангуяа төрөл саднаа хөнөөхийг шийтгэдэг байв."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.the-primordial-forces",
+   "key": "gods.the-primordial-forces.b19",
+   "difficulty": 1,
+   "prompt": {
+    "en": "The 'Gaia hypothesis' about Earth as a self-regulating system is named after whom?",
+    "mn": "Дэлхийг өөрийгөө зохицуулдаг систем гэж үздэг «Гая таамаглал» хэний нэрээр нэрлэгдсэн бэ?"
+   },
+   "choices": [
+    {
+     "en": "The goddess of Night",
+     "mn": "Шөнийн дарь эх"
+    },
+    {
+     "en": "The sea god",
+     "mn": "Тэнгисийн бурхан"
+    },
+    {
+     "en": "The sky god",
+     "mn": "Тэнгэрийн бурхан"
+    },
+    {
+     "en": "The Earth goddess",
+     "mn": "Газрын дарь эх"
+    }
+   ],
+   "answer": 3,
+   "explanation": {
+    "en": "Scientist James Lovelock proposed the idea in the 1970s, and his neighbour, novelist William Golding, suggested the name Gaia. It sees life and the planet as one interacting system.",
+    "mn": "Эрдэмтэн Жеймс Лавлок энэ санааг 1970-аад онд дэвшүүлсэн бөгөөд хөрш нь болох зохиолч Уильям Голдинг Гая гэдэг нэрийг санал болгожээ. Энэ нь амьдрал ба гаригийг харилцан үйлчлэх нэг систем гэж үздэг."
+   }
+  },
+  {
+   "topicSlug": "gods",
+   "lessonKey": "gods.the-primordial-forces",
+   "key": "gods.the-primordial-forces.b110",
+   "difficulty": 1,
+   "prompt": {
+    "en": "Nemesis, a daughter of Nyx, was the goddess of what?",
+    "mn": "Никсийн охин Немезида юуны дарь эх вэ?"
+   },
+   "choices": [
+    {
+     "en": "Love",
+     "mn": "Хайр"
+    },
+    {
+     "en": "The harvest",
+     "mn": "Ургац"
+    },
+    {
+     "en": "Retribution",
+     "mn": "Хариу шийтгэл"
+    },
+    {
+     "en": "Music",
+     "mn": "Хөгжим"
+    }
+   ],
+   "answer": 2,
+   "explanation": {
+    "en": "Nemesis punished hubris, the arrogant pride of mortals who thought themselves equal to the gods. In some myths it was she who doomed Narcissus to love his reflection.",
+    "mn": "Немезида өөрсдийгөө бурхадтай эн тэнцүү гэж бодсон мөнх бусын бардам зан буюу хюбрисийг шийтгэдэг байв. Зарим домогт Нарциссыг тусгалдаа дурлах хувь тавиланд хүргэсэн нь түүний ажил гэдэг."
+   }
+  }
+ ]
+}

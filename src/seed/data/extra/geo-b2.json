@@ -1,0 +1,4295 @@
+{
+  "lessons": [],
+  "questions": [
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-area",
+      "key": "geography.continents-area.b21",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What was the name of the supercontinent that held all land about 300–200 million years ago?",
+        "mn": "Ойролцоогоор 300–200 сая жилийн өмнө бүх хуурай газрыг нэгтгэж байсан супертивийг юу гэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Pangaea",
+          "mn": "Пангей"
+        },
+        {
+          "en": "Atlantis",
+          "mn": "Атлантид"
+        },
+        {
+          "en": "Gondwana Minor",
+          "mn": "Бага Гондвана"
+        },
+        {
+          "en": "Eurasia",
+          "mn": "Евразия"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Pangaea began breaking apart about 200 million years ago, and its pieces drifted into today’s continents. Its name means “all lands” in Greek.",
+        "mn": "Пангей ойролцоогоор 200 сая жилийн өмнө задарч эхэлсэн бөгөөд хэлтэрхийнүүд нь шилжсээр өнөөгийн тивүүдийг үүсгэжээ. Нэр нь грекээр «бүх газар» гэсэн утгатай."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-area",
+      "key": "geography.continents-area.b22",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which continent has the most countries?",
+        "mn": "Аль тив хамгийн олон улстай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Asia",
+          "mn": "Ази"
+        },
+        {
+          "en": "Europe",
+          "mn": "Европ"
+        },
+        {
+          "en": "South America",
+          "mn": "Өмнөд Америк"
+        },
+        {
+          "en": "Africa",
+          "mn": "Африк"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Africa has 54 countries recognised by the UN — more than any other continent. South Sudan, which became independent in 2011, is the newest.",
+        "mn": "Африкт НҮБ-ын хүлээн зөвшөөрсөн 54 улс бий нь бусад тивээс олон. Хамгийн залуу нь 2011 онд тусгаар тогтносон Өмнөд Судан."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-area",
+      "key": "geography.continents-area.b23",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which mountain range is traditionally used as the border between Europe and Asia?",
+        "mn": "Европ, Азийн хилийг уламжлал ёсоор аль нурууг даган тогтоодог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Alps",
+          "mn": "Альпийн нуруу"
+        },
+        {
+          "en": "Carpathians",
+          "mn": "Карпатын нуруу"
+        },
+        {
+          "en": "Ural Mountains",
+          "mn": "Урал нуруу"
+        },
+        {
+          "en": "Pyrenees",
+          "mn": "Пиренейн нуруу"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Urals run about 2,500 km north to south through Russia. Their rocks are among the oldest mountains on Earth, worn down to modest heights.",
+        "mn": "Урал нуруу Оросын нутгаар хойноос урагш 2,500 орчим км үргэлжилдэг. Дэлхийн хамгийн эртний уулсын нэг тул элэгдэж нэлээд намсчээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-area",
+      "key": "geography.continents-area.b24",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which ocean lies between Africa and Australia?",
+        "mn": "Африк, Австралийн хооронд аль далай оршдог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Atlantic Ocean",
+          "mn": "Атлантын далай"
+        },
+        {
+          "en": "Indian Ocean",
+          "mn": "Энэтхэгийн далай"
+        },
+        {
+          "en": "Arctic Ocean",
+          "mn": "Хойд мөсөн далай"
+        },
+        {
+          "en": "Pacific Ocean",
+          "mn": "Номхон далай"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Indian Ocean is bordered by Africa to the west, Asia to the north and Australia to the east. It is the third-largest ocean.",
+        "mn": "Энэтхэгийн далайг баруунаас Африк, хойноос Ази, зүүнээс Австрали хүрээлдэг. Энэ нь хэмжээгээрээ гуравдугаарт ордог далай."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-area",
+      "key": "geography.continents-area.b25",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which narrow strip of land joins Africa to Asia?",
+        "mn": "Африкийг Азитай холбодог нарийн хуурай газрыг юу гэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Isthmus of Panama",
+          "mn": "Панамын хоолой газар"
+        },
+        {
+          "en": "Isthmus of Suez",
+          "mn": "Суэцийн хоолой газар"
+        },
+        {
+          "en": "Isthmus of Corinth",
+          "mn": "Коринфын хоолой газар"
+        },
+        {
+          "en": "Bering land bridge",
+          "mn": "Берингийн хуурай гүүр"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Isthmus of Suez is about 125 km wide. Since 1869 the Suez Canal has cut through it, so ships can pass between the Mediterranean and the Red Sea.",
+        "mn": "Суэцийн хоолой газар 125 орчим км өргөн. 1869 оноос Суэцийн суваг түүнийг огтлон гарч, хөлөг онгоцууд Газар дундын тэнгисээс Улаан тэнгис рүү шууд гардаг болжээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-area",
+      "key": "geography.continents-area.b26",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which continent is the flattest, with the lowest average height?",
+        "mn": "Аль тив хамгийн тэгш, дундаж өндрөөрөө хамгийн нам вэ?"
+      },
+      "choices": [
+        {
+          "en": "Australia",
+          "mn": "Австрали"
+        },
+        {
+          "en": "Europe",
+          "mn": "Европ"
+        },
+        {
+          "en": "Africa",
+          "mn": "Африк"
+        },
+        {
+          "en": "South America",
+          "mn": "Өмнөд Америк"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Australia’s average elevation is only about 330 m. Its old mountains have been worn down by wind and water for hundreds of millions of years.",
+        "mn": "Австралийн дундаж өндөр ердөө 330 орчим м. Эртний уулс нь хэдэн зуун сая жилийн турш салхи, усанд элэгдэн намсчээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-area",
+      "key": "geography.continents-area.b27",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Who proposed in 1912 that the continents slowly drift across Earth’s surface?",
+        "mn": "1912 онд тивүүд дэлхийн гадаргуу дээгүүр аажмаар шилждэг гэсэн онолыг хэн дэвшүүлсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Charles Darwin",
+          "mn": "Чарлз Дарвин"
+        },
+        {
+          "en": "Isaac Newton",
+          "mn": "Исаак Ньютон"
+        },
+        {
+          "en": "Alexander von Humboldt",
+          "mn": "Александр фон Гумбольдт"
+        },
+        {
+          "en": "Alfred Wegener",
+          "mn": "Альфред Вегенер"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Wegener noticed that South America and Africa fit together like puzzle pieces and share the same fossils. His idea was widely accepted only in the 1960s, as plate tectonics.",
+        "mn": "Вегенер Өмнөд Америк, Африкийн эрэг тааврын хэсэг шиг нийлдэг, ижил чулуужсан олдвортой болохыг анзаарчээ. Түүний санааг зөвхөн 1960-аад онд хавтангийн тектоникийн онол болгон хүлээн зөвшөөрсөн."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-area",
+      "key": "geography.continents-area.b28",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which continent was the last to be sighted by people, in 1820?",
+        "mn": "1820 онд хүн төрөлхтөн хамгийн сүүлд аль тивийг нээж харсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Australia",
+          "mn": "Австрали"
+        },
+        {
+          "en": "North America",
+          "mn": "Хойд Америк"
+        },
+        {
+          "en": "Antarctica",
+          "mn": "Антарктид"
+        },
+        {
+          "en": "South America",
+          "mn": "Өмнөд Америк"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Russian, British and American expeditions all reported seeing Antarctica in 1820. The first confirmed landing on the mainland came decades later.",
+        "mn": "1820 онд Орос, Англи, Америкийн экспедицүүд Антарктидыг харсан тухай мэдээлжээ. Эх газарт нь анх баталгаатай буусан нь хэдэн арван жилийн дараа болсон."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-area",
+      "key": "geography.continents-area.b29",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which mostly underwater continent lies around New Zealand?",
+        "mn": "Шинэ Зеландыг хүрээлсэн, ихэнх нь усан доор орших тивийг юу гэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Lemuria",
+          "mn": "Лемури"
+        },
+        {
+          "en": "Sundaland",
+          "mn": "Сундаланд"
+        },
+        {
+          "en": "Zealandia",
+          "mn": "Зеландия"
+        },
+        {
+          "en": "Doggerland",
+          "mn": "Доггерланд"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "About 94% of Zealandia lies beneath the ocean; New Zealand and New Caledonia are its highest parts. Geologists formally described it as a continent in 2017.",
+        "mn": "Зеландийн 94 орчим хувь нь далайн усан доор оршдог бөгөөд Шинэ Зеланд, Шинэ Каледони нь түүний хамгийн өндөр хэсэг. Геологичид 2017 онд түүнийг тив хэмээн албан ёсоор тодорхойлсон."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-area",
+      "key": "geography.continents-area.b210",
+      "difficulty": 3,
+      "prompt": {
+        "en": "About what share of Antarctica is covered by ice?",
+        "mn": "Антарктидын ойролцоогоор хэдэн хувь нь мөсөөр хучигдсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "About 60%",
+          "mn": "Ойролцоогоор 60%"
+        },
+        {
+          "en": "About 98%",
+          "mn": "Ойролцоогоор 98%"
+        },
+        {
+          "en": "About 75%",
+          "mn": "Ойролцоогоор 75%"
+        },
+        {
+          "en": "About 85%",
+          "mn": "Ойролцоогоор 85%"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Antarctic ice sheet averages almost 2 km thick. It holds about 70% of all the fresh water on Earth.",
+        "mn": "Антарктидын мөсөн бүрхүүлийн дундаж зузаан бараг 2 км. Энд дэлхийн цэвэр усны 70 орчим хувь хадгалагддаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-people",
+      "key": "geography.continents-people.b21",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which is the most populous country in Africa?",
+        "mn": "Африкийн хамгийн олон хүн амтай улс аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Nigeria",
+          "mn": "Нигери"
+        },
+        {
+          "en": "Egypt",
+          "mn": "Египет"
+        },
+        {
+          "en": "Ethiopia",
+          "mn": "Этиоп"
+        },
+        {
+          "en": "South Africa",
+          "mn": "Өмнөд Африк"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Nigeria has over 220 million people, about one in six Africans. Its largest city, Lagos, is one of the fastest-growing cities in the world.",
+        "mn": "Нигери 220 гаруй сая хүн амтай буюу Африкийн зургаан хүн тутмын нэг нь энд амьдардаг. Хамгийн том хот Лагос нь дэлхийн хамгийн хурдан өсөж буй хотуудын нэг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-people",
+      "key": "geography.continents-people.b22",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which country has the third-largest population in the world, after India and China?",
+        "mn": "Энэтхэг, Хятадын дараа дэлхийд хүн амаараа гуравдугаарт ордог улс аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Indonesia",
+          "mn": "Индонез"
+        },
+        {
+          "en": "Pakistan",
+          "mn": "Пакистан"
+        },
+        {
+          "en": "Brazil",
+          "mn": "Бразил"
+        },
+        {
+          "en": "United States",
+          "mn": "АНУ"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The United States has about 340 million people. Even so, it has less than a quarter of the population of India or China.",
+        "mn": "АНУ 340 орчим сая хүн амтай. Гэсэн ч энэ нь Энэтхэг эсвэл Хятадын хүн амын дөрөвний нэгд ч хүрэхгүй."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-people",
+      "key": "geography.continents-people.b23",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which language has the most native speakers in the world?",
+        "mn": "Дэлхийд эх хэлээрээ ярьдаг хүн хамгийн олонтой хэл аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "English",
+          "mn": "Англи хэл"
+        },
+        {
+          "en": "Spanish",
+          "mn": "Испани хэл"
+        },
+        {
+          "en": "Hindi",
+          "mn": "Хинди хэл"
+        },
+        {
+          "en": "Mandarin Chinese",
+          "mn": "Хятад (мандарин) хэл"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Mandarin has over 900 million native speakers. English has more total speakers when people who learned it as a second language are counted.",
+        "mn": "Мандарин хэлийг эх хэлээрээ 900 гаруй сая хүн ярьдаг. Харин хоёр дахь хэлээрээ сурсан хүмүүсийг тооцвол англи хэлтэй хүн нийтдээ илүү олон."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-people",
+      "key": "geography.continents-people.b24",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which country has the smallest population in the world?",
+        "mn": "Дэлхийн хамгийн цөөн хүн амтай улс аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Monaco",
+          "mn": "Монако"
+        },
+        {
+          "en": "San Marino",
+          "mn": "Сан-Марино"
+        },
+        {
+          "en": "Vatican City",
+          "mn": "Ватикан"
+        },
+        {
+          "en": "Liechtenstein",
+          "mn": "Лихтенштейн"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Vatican City has only about 800 residents, most of them clergy and Swiss Guards. Nobody is born a Vatican citizen — citizenship comes with the job.",
+        "mn": "Ватиканд ердөө 800 орчим хүн амьдардаг бөгөөд ихэнх нь лам нар, Швейцарийн харуулууд. Тэнд хэн ч иргэн болж төрдөггүй — иргэншил албан тушаалтай хамт олгогддог."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-people",
+      "key": "geography.continents-people.b25",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which continent has the youngest population, with a median age under 20?",
+        "mn": "Аль тивийн хүн ам хамгийн залуу буюу дундаж нас нь 20-оос доош вэ?"
+      },
+      "choices": [
+        {
+          "en": "Asia",
+          "mn": "Ази"
+        },
+        {
+          "en": "Africa",
+          "mn": "Африк"
+        },
+        {
+          "en": "South America",
+          "mn": "Өмнөд Америк"
+        },
+        {
+          "en": "Oceania",
+          "mn": "Далайн орнууд"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Africa’s median age is about 19, while Europe’s is over 40. This young population is why Africa is expected to grow fastest this century.",
+        "mn": "Африкийн хүн амын дундаж нас 19 орчим бол Европынх 40-өөс дээш. Ийм залуу хүн амтай тул энэ зуунд Африк хамгийн хурдан өснө гэж үздэг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-people",
+      "key": "geography.continents-people.b26",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which country lying entirely in Europe has the most people?",
+        "mn": "Бүхэлдээ Европт оршдог улсуудаас аль нь хамгийн олон хүн амтай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Germany",
+          "mn": "Герман"
+        },
+        {
+          "en": "France",
+          "mn": "Франц"
+        },
+        {
+          "en": "United Kingdom",
+          "mn": "Их Британи"
+        },
+        {
+          "en": "Italy",
+          "mn": "Итали"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Germany has about 84 million people. Russia and Turkey have more, but both stretch into Asia.",
+        "mn": "Герман 84 орчим сая хүн амтай. Орос, Туркт илүү олон хүн амьдардаг ч хоёулаа Ази тивд хүрч оршдог."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-people",
+      "key": "geography.continents-people.b27",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which is the most densely populated country in the world?",
+        "mn": "Дэлхийн хамгийн шигүү суурьшилтай улс аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Monaco",
+          "mn": "Монако"
+        },
+        {
+          "en": "Singapore",
+          "mn": "Сингапур"
+        },
+        {
+          "en": "Bangladesh",
+          "mn": "Бангладеш"
+        },
+        {
+          "en": "Netherlands",
+          "mn": "Нидерланд"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Monaco packs about 38,000 people into roughly 2 km², or around 19,000 people per km². It is the second-smallest country after Vatican City.",
+        "mn": "Монакод 2 орчим км² газарт 38,000 хүн буюу 1 км² тутамд 19,000 орчим хүн амьдардаг. Энэ нь Ватиканы дараа орох хоёр дахь жижиг улс."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-people",
+      "key": "geography.continents-people.b28",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In which year did the UN say the world population reached 8 billion?",
+        "mn": "НҮБ-ын мэдээгээр дэлхийн хүн ам аль онд 8 тэрбумд хүрсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "2011",
+          "mn": "2011"
+        },
+        {
+          "en": "2016",
+          "mn": "2016"
+        },
+        {
+          "en": "2025",
+          "mn": "2025"
+        },
+        {
+          "en": "2022",
+          "mn": "2022"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The UN marked 15 November 2022 as the “Day of Eight Billion”. The jump from 7 to 8 billion took about 11 years.",
+        "mn": "НҮБ 2022 оны 11-р сарын 15-ныг «Найман тэрбумын өдөр» хэмээн тэмдэглэсэн. Долоогоос найман тэрбумд хүрэхэд 11 орчим жил зарцуулжээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-people",
+      "key": "geography.continents-people.b29",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which Arab country has the largest population?",
+        "mn": "Араб орнуудаас аль нь хамгийн олон хүн амтай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Saudi Arabia",
+          "mn": "Саудын Араб"
+        },
+        {
+          "en": "Algeria",
+          "mn": "Алжир"
+        },
+        {
+          "en": "Egypt",
+          "mn": "Египет"
+        },
+        {
+          "en": "Iraq",
+          "mn": "Ирак"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Egypt has over 110 million people, and almost all of them live along the Nile valley and delta. That strip is only about 5% of the country’s land.",
+        "mn": "Египет 110 гаруй сая хүн амтай бөгөөд бараг бүгд Нил мөрний хөндий, бэлчир дагуу амьдардаг. Энэ зурвас нь улсын нутгийн ердөө 5 орчим хувь."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.continents-people",
+      "key": "geography.continents-people.b210",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which country has the most native Spanish speakers?",
+        "mn": "Испани хэлийг эх хэлээрээ ярьдаг хүн хамгийн олонтой улс аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Spain",
+          "mn": "Испани"
+        },
+        {
+          "en": "Mexico",
+          "mn": "Мексик"
+        },
+        {
+          "en": "Argentina",
+          "mn": "Аргентин"
+        },
+        {
+          "en": "Colombia",
+          "mn": "Колумб"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Mexico has well over 120 million Spanish speakers — more than twice as many as Spain. The United States also has one of the largest Spanish-speaking populations.",
+        "mn": "Мексикт испани хэлтэй 120 гаруй сая хүн байдаг нь Испаниас хоёр дахин олон. АНУ ч мөн испани хэлтэй хүн амаараа дэлхийд тэргүүлэгчдийн тоонд ордог."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.oceans",
+      "key": "geography.oceans.b21",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which ocean does the warm Gulf Stream current flow through?",
+        "mn": "Дулаан Гольфстрим урсгал аль далайгаар урсдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Pacific Ocean",
+          "mn": "Номхон далай"
+        },
+        {
+          "en": "Atlantic Ocean",
+          "mn": "Атлантын далай"
+        },
+        {
+          "en": "Indian Ocean",
+          "mn": "Энэтхэгийн далай"
+        },
+        {
+          "en": "Southern Ocean",
+          "mn": "Өмнөд далай"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Gulf Stream carries warm water from the Gulf of Mexico towards Europe. It helps keep Western Europe milder than other places at the same latitude.",
+        "mn": "Гольфстрим Мексикийн булангаас Европ руу дулаан ус зөөдөг. Үүний ачаар Баруун Европ ижил өргөрөгт орших бусад газраас дулаан байдаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.oceans",
+      "key": "geography.oceans.b22",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which ocean lies north of Russia and Canada?",
+        "mn": "Орос, Канадын хойд талд аль далай оршдог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Arctic Ocean",
+          "mn": "Хойд мөсөн далай"
+        },
+        {
+          "en": "Atlantic Ocean",
+          "mn": "Атлантын далай"
+        },
+        {
+          "en": "Pacific Ocean",
+          "mn": "Номхон далай"
+        },
+        {
+          "en": "Southern Ocean",
+          "mn": "Өмнөд далай"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Arctic Ocean surrounds the North Pole and is covered by sea ice for much of the year. The North Pole itself has no land beneath it — only floating ice.",
+        "mn": "Хойд мөсөн далай Хойд туйлыг хүрээлдэг бөгөөд жилийн ихэнх хугацаанд мөсөөр хучигддаг. Хойд туйлын доор хуурай газар байхгүй, зөвхөн хөвөгч мөс бий."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.oceans",
+      "key": "geography.oceans.b23",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Off Australia’s coast, the Great Barrier Reef lies in which ocean?",
+        "mn": "Австралийн эргийн ойролцоох Их саадын хад аль далайд оршдог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Indian Ocean",
+          "mn": "Энэтхэгийн далай"
+        },
+        {
+          "en": "Atlantic Ocean",
+          "mn": "Атлантын далай"
+        },
+        {
+          "en": "Southern Ocean",
+          "mn": "Өмнөд далай"
+        },
+        {
+          "en": "Pacific Ocean",
+          "mn": "Номхон далай"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Great Barrier Reef lies in the Coral Sea, part of the Pacific Ocean. It stretches about 2,300 km and is the largest coral reef system on Earth.",
+        "mn": "Их саадын хад Номхон далайн нэг хэсэг болох Шүрэн тэнгист оршдог. 2,300 орчим км үргэлжилдэг энэ хад нь дэлхийн хамгийн том шүрэн хадны систем юм."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.oceans",
+      "key": "geography.oceans.b24",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which of these island countries lies in the Indian Ocean?",
+        "mn": "Эдгээр арлын улсаас аль нь Энэтхэгийн далайд оршдог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Fiji",
+          "mn": "Фижи"
+        },
+        {
+          "en": "Jamaica",
+          "mn": "Ямайка"
+        },
+        {
+          "en": "Maldives",
+          "mn": "Мальдив"
+        },
+        {
+          "en": "Iceland",
+          "mn": "Исланд"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Maldives is made of about 1,200 coral islands. It is the lowest country on Earth, with an average height of only about 1.5 m above sea level.",
+        "mn": "Мальдив 1,200 орчим шүрэн арлаас бүрддэг. Далайн түвшнээс дунджаар ердөө 1.5 орчим м өндөр тул дэлхийн хамгийн нам улс юм."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.oceans",
+      "key": "geography.oceans.b25",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which explorer named the Pacific Ocean, meaning “peaceful”?",
+        "mn": "Номхон далайд «тайван» гэсэн утгатай нэр өгсөн аялагч хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Christopher Columbus",
+          "mn": "Христофор Колумб"
+        },
+        {
+          "en": "James Cook",
+          "mn": "Жеймс Кук"
+        },
+        {
+          "en": "Ferdinand Magellan",
+          "mn": "Фернан Магеллан"
+        },
+        {
+          "en": "Vasco da Gama",
+          "mn": "Васко да Гама"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Magellan named it Mar Pacífico in 1520 after finding calm waters beyond the stormy tip of South America. Ironically, the Pacific produces some of the strongest storms on Earth.",
+        "mn": "Магеллан 1520 онд Өмнөд Америкийн шуургатай үзүүрийг давсны дараа тайван усанд гарч ирээд түүнийг Mar Pacífico гэж нэрлэжээ. Гэтэл Номхон далайд дэлхийн хамгийн хүчтэй шуурганууд үүсдэг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.oceans",
+      "key": "geography.oceans.b26",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which ocean is the shallowest on average?",
+        "mn": "Аль далай дунджаараа хамгийн гүехэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Indian Ocean",
+          "mn": "Энэтхэгийн далай"
+        },
+        {
+          "en": "Arctic Ocean",
+          "mn": "Хойд мөсөн далай"
+        },
+        {
+          "en": "Atlantic Ocean",
+          "mn": "Атлантын далай"
+        },
+        {
+          "en": "Pacific Ocean",
+          "mn": "Номхон далай"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Arctic averages about 1,000–1,200 m deep, partly because wide continental shelves surround it. The Pacific averages around 4,000 m.",
+        "mn": "Хойд мөсөн далайг өргөн эх газрын тавцан хүрээлдэг тул дундаж гүн нь 1,000–1,200 м орчим. Харин Номхон далайн дундаж гүн 4,000 м орчим."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.oceans",
+      "key": "geography.oceans.b27",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which underwater mountain chain runs down the middle of the Atlantic?",
+        "mn": "Атлантын далайн голоор ямар усан доорх нуруу үргэлжилдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Mid-Atlantic Ridge",
+          "mn": "Дундад Атлантын нуруу"
+        },
+        {
+          "en": "Ring of Fire",
+          "mn": "Галт цагираг"
+        },
+        {
+          "en": "Walvis Ridge",
+          "mn": "Уолфиш нуруу"
+        },
+        {
+          "en": "Great Rift Valley",
+          "mn": "Их хагарлын хөндий"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Mid-Atlantic Ridge is where plates pull apart, so the Atlantic widens by a few centimetres each year. Iceland is a part of the ridge that rises above the sea.",
+        "mn": "Дундад Атлантын нуруун дээр тектоник хавтангууд холдож, Атлантын далай жил бүр хэдэн см-ээр өргөсдөг. Исланд бол энэ нурууны далайн гадаргаас дээш цухуйсан хэсэг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.oceans",
+      "key": "geography.oceans.b28",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which ocean is the warmest?",
+        "mn": "Аль далай хамгийн дулаан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Atlantic Ocean",
+          "mn": "Атлантын далай"
+        },
+        {
+          "en": "Arctic Ocean",
+          "mn": "Хойд мөсөн далай"
+        },
+        {
+          "en": "Southern Ocean",
+          "mn": "Өмнөд далай"
+        },
+        {
+          "en": "Indian Ocean",
+          "mn": "Энэтхэгийн далай"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Most of the Indian Ocean lies in the tropics, and land blocks it to the north, so cold Arctic water never reaches it. Its warmth drives the South Asian monsoon.",
+        "mn": "Энэтхэгийн далайн ихэнх хэсэг халуун бүсэд оршдог, хойд талыг нь хуурай газар хаадаг тул Хойд мөсөн далайн хүйтэн ус хүрдэггүй. Энэ дулаан нь Өмнөд Азийн муссоныг үүсгэдэг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.oceans",
+      "key": "geography.oceans.b29",
+      "difficulty": 3,
+      "prompt": {
+        "en": "What is the deepest point in the Atlantic Ocean?",
+        "mn": "Атлантын далайн хамгийн гүн цэг юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Java Trench",
+          "mn": "Явын ховил"
+        },
+        {
+          "en": "Tonga Trench",
+          "mn": "Тонгагийн ховил"
+        },
+        {
+          "en": "Kuril Trench",
+          "mn": "Курилын ховил"
+        },
+        {
+          "en": "Puerto Rico Trench",
+          "mn": "Пуэрто-Рикогийн ховил"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Puerto Rico Trench reaches about 8,400 m deep. Its deepest part is nicknamed the Milwaukee Deep.",
+        "mn": "Пуэрто-Рикогийн ховил 8,400 орчим м гүн. Түүний хамгийн гүн хэсгийг Милуоки гүн гэж нэрлэдэг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.oceans",
+      "key": "geography.oceans.b210",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Point Nemo, the spot in the sea farthest from any land, is in which ocean?",
+        "mn": "Аливаа хуурай газраас хамгийн алслагдсан Немо цэг аль далайд оршдог вэ?"
+      },
+      "choices": [
+        {
+          "en": "South Atlantic",
+          "mn": "Атлантын өмнөд хэсэг"
+        },
+        {
+          "en": "Central Indian Ocean",
+          "mn": "Энэтхэгийн далайн төв"
+        },
+        {
+          "en": "South Pacific",
+          "mn": "Номхон далайн өмнөд хэсэг"
+        },
+        {
+          "en": "Arctic Ocean",
+          "mn": "Хойд мөсөн далай"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Point Nemo is about 2,700 km from the nearest land. Old satellites are often steered to crash there, and astronauts on the space station can be closer than any person on land.",
+        "mn": "Немо цэгээс хамгийн ойрын хуурай газар хүртэл 2,700 орчим км. Хуучин хиймэл дагуулуудыг ихэвчлэн энд унагадаг бөгөөд сансрын станцын нисгэгчид хуурай газрын хүмүүсээс ч ойр байх нь бий."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.rivers",
+      "key": "geography.rivers.b21",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which river flows through London?",
+        "mn": "Лондон хотыг ямар гол дайран урсдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Seine",
+          "mn": "Сена"
+        },
+        {
+          "en": "Thames",
+          "mn": "Темза"
+        },
+        {
+          "en": "Rhine",
+          "mn": "Рейн"
+        },
+        {
+          "en": "Severn",
+          "mn": "Северн"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Thames is about 346 km long and flows into the North Sea. In 1858 its stench, known as the “Great Stink”, pushed London to build a modern sewer system.",
+        "mn": "Темза мөрөн 346 орчим км урт бөгөөд Хойд тэнгист цутгадаг. 1858 оны «Их өмхий» хэмээх үнэр Лондонг орчин үеийн бохир усны систем барихад хүргэжээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.rivers",
+      "key": "geography.rivers.b22",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which river is sacred in Hinduism?",
+        "mn": "Хинду шашинд аль мөрнийг ариун гэж үздэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Ganges",
+          "mn": "Ганга"
+        },
+        {
+          "en": "Indus",
+          "mn": "Инд"
+        },
+        {
+          "en": "Mekong",
+          "mn": "Меконг"
+        },
+        {
+          "en": "Irrawaddy",
+          "mn": "Иравади"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Hindus worship the Ganges as the goddess Ganga and bathe in it to wash away sins. The city of Varanasi on its banks is one of the oldest continuously inhabited cities in the world.",
+        "mn": "Хиндучууд Ганга мөрнийг Ганга дарь эх хэмээн шүтэж, нүглээ угаахаар усанд нь ордог. Эрэг дээрх Варанаси бол хүн тасралтгүй амьдарсаар ирсэн дэлхийн хамгийн эртний хотуудын нэг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.rivers",
+      "key": "geography.rivers.b23",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which river carved the Grand Canyon?",
+        "mn": "Гранд Каньоныг аль гол зүсэж үүсгэсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Colorado River",
+          "mn": "Колорадо гол"
+        },
+        {
+          "en": "Mississippi River",
+          "mn": "Миссисипи мөрөн"
+        },
+        {
+          "en": "Columbia River",
+          "mn": "Колумбиа гол"
+        },
+        {
+          "en": "Rio Grande",
+          "mn": "Рио-Гранде"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Colorado River cut the canyon over about 5–6 million years. In places the Grand Canyon is about 1.8 km deep.",
+        "mn": "Колорадо гол хавцлыг 5–6 сая орчим жилийн турш зүссэн. Гранд Каньон зарим газраа 1.8 орчим км гүн."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.rivers",
+      "key": "geography.rivers.b24",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which river flows through Paris?",
+        "mn": "Парис хотыг ямар мөрөн дайран урсдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Loire",
+          "mn": "Луара"
+        },
+        {
+          "en": "Rhône",
+          "mn": "Рона"
+        },
+        {
+          "en": "Danube",
+          "mn": "Дунай"
+        },
+        {
+          "en": "Seine",
+          "mn": "Сена"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Seine winds about 775 km to the English Channel. Paris has 37 bridges over it, and the oldest standing one is ironically called the Pont Neuf — “New Bridge”.",
+        "mn": "Сена мөрөн 775 орчим км мурийн урсаж Ла-Манш руу цутгадаг. Парист түүн дээгүүр 37 гүүр байдаг бөгөөд хамгийн эртнийх нь хачирхалтай нь «Шинэ гүүр» (Pont Neuf) гэдэг нэртэй."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.rivers",
+      "key": "geography.rivers.b25",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which river flows through more countries than any other?",
+        "mn": "Аль мөрөн хамгийн олон улсын нутгаар урсдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Nile",
+          "mn": "Нил"
+        },
+        {
+          "en": "Rhine",
+          "mn": "Рейн"
+        },
+        {
+          "en": "Danube",
+          "mn": "Дунай"
+        },
+        {
+          "en": "Amazon",
+          "mn": "Амазон"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Danube passes through or borders 10 countries, from Germany to the Black Sea. It also flows through four capitals: Vienna, Bratislava, Budapest and Belgrade.",
+        "mn": "Дунай мөрөн Германаас Хар тэнгис хүртэл 10 улсын нутгаар урсах буюу хилээр нь өнгөрдөг. Вена, Братислава, Будапешт, Белград гэсэн дөрвөн нийслэлийг дайрдаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.rivers",
+      "key": "geography.rivers.b26",
+      "difficulty": 2,
+      "prompt": {
+        "en": "At which city do the White Nile and the Blue Nile meet?",
+        "mn": "Цагаан Нил, Хөх Нил аль хотод нийлдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Cairo",
+          "mn": "Каир"
+        },
+        {
+          "en": "Khartoum",
+          "mn": "Хартум"
+        },
+        {
+          "en": "Aswan",
+          "mn": "Асуан"
+        },
+        {
+          "en": "Addis Ababa",
+          "mn": "Аддис-Абеба"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The two rivers meet at Khartoum, the capital of Sudan. The Blue Nile, from Ethiopia, supplies most of the Nile’s water and silt.",
+        "mn": "Хоёр мөрөн Суданы нийслэл Хартумд нийлдэг. Этиопоос эх авдаг Хөх Нил нь Нилийн усны болон лагийн дийлэнхийг авчирдаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.rivers",
+      "key": "geography.rivers.b27",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The Three Gorges Dam, the world’s largest power station, is on which river?",
+        "mn": "Дэлхийн хамгийн том цахилгаан станц болох Гурван хавцлын далан аль мөрөн дээр байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Yellow River",
+          "mn": "Хуанхэ"
+        },
+        {
+          "en": "Yangtze",
+          "mn": "Янцзы"
+        },
+        {
+          "en": "Mekong",
+          "mn": "Меконг"
+        },
+        {
+          "en": "Pearl River",
+          "mn": "Жуцзян"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Three Gorges Dam in China was completed in 2006, with all its turbines running by 2012. Its reservoir is over 600 km long.",
+        "mn": "Хятадын Гурван хавцлын даланг 2006 онд барьж дуусгасан бөгөөд 2012 онд бүх турбин нь ажиллаж эхэлсэн. Усан сан нь 600 гаруй км урт."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.rivers",
+      "key": "geography.rivers.b28",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which is the longest river in Europe?",
+        "mn": "Европын хамгийн урт мөрөн аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Volga",
+          "mn": "Волга"
+        },
+        {
+          "en": "Danube",
+          "mn": "Дунай"
+        },
+        {
+          "en": "Dnieper",
+          "mn": "Днепр"
+        },
+        {
+          "en": "Rhine",
+          "mn": "Рейн"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Volga flows about 3,530 km through Russia into the Caspian Sea. Russians often call it “Mother Volga”.",
+        "mn": "Волга мөрөн Оросын нутгаар 3,530 орчим км урсаж Каспийн тэнгист цутгадаг. Оросууд түүнийг «Волга ээж» гэж хайрлан нэрлэдэг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.rivers",
+      "key": "geography.rivers.b29",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which African river crosses the Equator twice?",
+        "mn": "Африкийн аль мөрөн экваторыг хоёр удаа огтолдог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Nile",
+          "mn": "Нил"
+        },
+        {
+          "en": "Niger River",
+          "mn": "Нигер мөрөн"
+        },
+        {
+          "en": "Zambezi",
+          "mn": "Замбези"
+        },
+        {
+          "en": "Congo River",
+          "mn": "Конго мөрөн"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Congo curves north across the Equator and then back south before reaching the Atlantic. It is also the deepest river in the world, over 220 m deep in places.",
+        "mn": "Конго мөрөн хойш эргэж экваторыг огтлоод дахин урагш эргэж Атлантын далайд цутгадаг. Мөн зарим газраа 220-оос дээш м гүн тул дэлхийн хамгийн гүн гол юм."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.rivers",
+      "key": "geography.rivers.b210",
+      "difficulty": 3,
+      "prompt": {
+        "en": "What is unusual about crossing the main Amazon River?",
+        "mn": "Амазон мөрний гол урсгалыг гатлахад ямар онцлог байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Only one ferry runs",
+          "mn": "Ганцхан гатлага онгоц явдаг"
+        },
+        {
+          "en": "It freezes every winter",
+          "mn": "Өвөл бүр хөлддөг"
+        },
+        {
+          "en": "No bridge crosses it",
+          "mn": "Түүн дээгүүр гүүр байхгүй"
+        },
+        {
+          "en": "Crossing is forbidden",
+          "mn": "Гатлахыг хориглодог"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "No bridge spans the main Amazon, largely because it runs through thinly populated rainforest with few roads. Its soft banks and huge seasonal floods also make building one very hard.",
+        "mn": "Амазон голлон хүн цөөтэй, зам багатай ширэнгэн ой дундуур урсдаг тул гол урсгал дээр нь нэг ч гүүр байхгүй. Эрэг нь сул, улирлын үер нь асар их тул гүүр барих бас хэцүү."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mountains",
+      "key": "geography.mountains.b21",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which is the longest mountain range on land?",
+        "mn": "Хуурай газрын хамгийн урт нуруу аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Rocky Mountains",
+          "mn": "Хадат уулс"
+        },
+        {
+          "en": "Himalaya",
+          "mn": "Гималай"
+        },
+        {
+          "en": "Andes",
+          "mn": "Андын нуруу"
+        },
+        {
+          "en": "Ural Mountains",
+          "mn": "Урал нуруу"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Andes run about 7,000 km along the west of South America through seven countries. They hold the highest peaks outside Asia.",
+        "mn": "Андын нуруу Өмнөд Америкийн баруун хэсгээр долоон улсыг дамжин 7,000 орчим км үргэлжилдэг. Азиас гадуурх хамгийн өндөр оргилууд энд бий."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mountains",
+      "key": "geography.mountains.b22",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which is the highest mountain in the Alps?",
+        "mn": "Альпийн нурууны хамгийн өндөр уул аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Matterhorn",
+          "mn": "Маттерхорн"
+        },
+        {
+          "en": "Mont Blanc",
+          "mn": "Монблан"
+        },
+        {
+          "en": "Eiger",
+          "mn": "Айгер"
+        },
+        {
+          "en": "Zugspitze",
+          "mn": "Цугшпитце"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Mont Blanc stands about 4,800 m high on the France–Italy border. Its name means “White Mountain”.",
+        "mn": "Монблан Франц, Италийн хил дээр 4,800 орчим м өндөрт сүндэрлэдэг. Нэр нь «Цагаан уул» гэсэн утгатай."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mountains",
+      "key": "geography.mountains.b23",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In which country is Mount Fuji?",
+        "mn": "Фүжи уул аль улсад байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Japan",
+          "mn": "Япон"
+        },
+        {
+          "en": "China",
+          "mn": "Хятад"
+        },
+        {
+          "en": "South Korea",
+          "mn": "Өмнөд Солонгос"
+        },
+        {
+          "en": "Indonesia",
+          "mn": "Индонез"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Mount Fuji is an active volcano about 3,776 m high, the tallest peak in Japan. It last erupted in 1707.",
+        "mn": "Фүжи бол 3,776 орчим м өндөр идэвхтэй галт уул бөгөөд Японы хамгийн өндөр оргил. Сүүлд 1707 онд дэлбэрчээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mountains",
+      "key": "geography.mountains.b24",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which mountain range separates Spain from France?",
+        "mn": "Испани, Францыг аль нуруу тусгаарладаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Alps",
+          "mn": "Альпийн нуруу"
+        },
+        {
+          "en": "Apennines",
+          "mn": "Апеннины нуруу"
+        },
+        {
+          "en": "Carpathians",
+          "mn": "Карпатын нуруу"
+        },
+        {
+          "en": "Pyrenees",
+          "mn": "Пиренейн нуруу"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Pyrenees stretch about 430 km from the Atlantic to the Mediterranean. The tiny country of Andorra sits high in these mountains.",
+        "mn": "Пиренейн нуруу Атлантын далайгаас Газар дундын тэнгис хүртэл 430 орчим км үргэлжилдэг. Жижигхэн Андорра улс энэ ууланд өндөрт оршдог."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mountains",
+      "key": "geography.mountains.b25",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which mountain is the tallest on Earth when measured from its base on the sea floor?",
+        "mn": "Далайн ёроол дахь сууринаас нь хэмжвэл дэлхийн хамгийн өндөр уул аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Mount Everest",
+          "mn": "Эверест"
+        },
+        {
+          "en": "Kilimanjaro",
+          "mn": "Килиманжаро"
+        },
+        {
+          "en": "Denali",
+          "mn": "Денали"
+        },
+        {
+          "en": "Mauna Kea",
+          "mn": "Мауна-Кеа"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Mauna Kea in Hawaii rises over 10,000 m from the ocean floor, though only about 4,200 m is above sea level. Its summit hosts some of the world’s best telescopes.",
+        "mn": "Хавайн Мауна-Кеа далайн ёроолоос 10,000 гаруй м өндөр боловч далайн түвшнээс дээш ердөө 4,200 орчим м цухуйдаг. Оргил дээр нь дэлхийн шилдэг телескопууд байрладаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mountains",
+      "key": "geography.mountains.b26",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The Matterhorn lies on the border of Switzerland and which country?",
+        "mn": "Маттерхорн уул Швейцари болон аль улсын хил дээр оршдог вэ?"
+      },
+      "choices": [
+        {
+          "en": "France",
+          "mn": "Франц"
+        },
+        {
+          "en": "Austria",
+          "mn": "Австри"
+        },
+        {
+          "en": "Italy",
+          "mn": "Итали"
+        },
+        {
+          "en": "Germany",
+          "mn": "Герман"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Matterhorn’s sharp pyramid stands about 4,478 m high. It was first climbed in 1865, but four of the seven climbers died on the way down.",
+        "mn": "Маттерхорны хурц пирамид оргил 4,478 орчим м өндөр. Түүнд 1865 онд анх авирсан ч долоон уулчны дөрөв нь буух замдаа амь үрэгджээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mountains",
+      "key": "geography.mountains.b27",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The Himalaya formed when India crashed into which tectonic plate?",
+        "mn": "Энэтхэгийн хавтан аль тектоник хавтантай мөргөлдсөнөөр Гималай үүссэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Pacific Plate",
+          "mn": "Номхон далайн хавтан"
+        },
+        {
+          "en": "Eurasian Plate",
+          "mn": "Евразийн хавтан"
+        },
+        {
+          "en": "African Plate",
+          "mn": "Африкийн хавтан"
+        },
+        {
+          "en": "Arabian Plate",
+          "mn": "Арабын хавтан"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "India began colliding with Eurasia about 50 million years ago, and the plates are still pushing together. That is why the Himalaya keep rising by a few millimetres a year.",
+        "mn": "Энэтхэг 50 орчим сая жилийн өмнө Евразитай мөргөлдөж эхэлсэн бөгөөд хавтангууд одоо ч шахалцсаар байна. Тиймээс Гималай жилд хэдэн мм-ээр өндөрссөөр байдаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mountains",
+      "key": "geography.mountains.b28",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the Tibetan name for Mount Everest?",
+        "mn": "Эверест уулын төвд нэр юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Chomolungma",
+          "mn": "Жомолунгма"
+        },
+        {
+          "en": "Sagarmatha",
+          "mn": "Сагарматха"
+        },
+        {
+          "en": "Kailash",
+          "mn": "Кайлаш"
+        },
+        {
+          "en": "Annapurna",
+          "mn": "Аннапурна"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Chomolungma is usually translated as “Holy Mother”, while Sagarmatha is its Nepali name. The English name honours surveyor George Everest, who never saw the mountain.",
+        "mn": "Жомолунгма гэдгийг ихэвчлэн «Ариун эх» гэж орчуулдаг бол Сагарматха нь балба нэр. Англи нэр нь уулыг огт хараагүй байсан хэмжигч Жорж Эверестийн нэрээр өгөгджээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mountains",
+      "key": "geography.mountains.b29",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Whose summit is the farthest point on Earth’s surface from the planet’s centre?",
+        "mn": "Аль уулын оргил дэлхийн төвөөс хамгийн алслагдсан цэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Chimborazo",
+          "mn": "Чимборасо"
+        },
+        {
+          "en": "Mount Everest",
+          "mn": "Эверест"
+        },
+        {
+          "en": "Kilimanjaro",
+          "mn": "Килиманжаро"
+        },
+        {
+          "en": "Aconcagua",
+          "mn": "Аконкагуа"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Earth bulges at the Equator, so Chimborazo in Ecuador sits about 2 km farther from the centre than Everest. Above sea level, though, it is only about 6,263 m high.",
+        "mn": "Дэлхий экватор орчим товойсон хэлбэртэй тул Эквадорын Чимборасо Эверестээс төвөөсөө 2 орчим км-ээр хол байдаг. Харин далайн түвшнээс дээш ердөө 6,263 орчим м өндөр."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mountains",
+      "key": "geography.mountains.b210",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which mountain is nicknamed the “Savage Mountain” for its danger to climbers?",
+        "mn": "Уулчдад аюултай тул «Зэрлэг уул» хочтой уул аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Annapurna",
+          "mn": "Аннапурна"
+        },
+        {
+          "en": "Lhotse",
+          "mn": "Лхоцзе"
+        },
+        {
+          "en": "Makalu",
+          "mn": "Макалу"
+        },
+        {
+          "en": "K2",
+          "mn": "К2"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "K2 on the Pakistan–China border is steeper and stormier than Everest. It was the last 8,000 m peak to be climbed in winter, in 2021.",
+        "mn": "Пакистан, Хятадын хил дээрх К2 Эверестээс эгц, шуурга ихтэй. 8,000 м-ээс дээш оргилуудаас өвөл хамгийн сүүлд буюу 2021 онд авирсан оргил нь энэ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.countries",
+      "key": "geography.countries.b21",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which two countries share the world’s longest international border?",
+        "mn": "Аль хоёр улс дэлхийн хамгийн урт улсын хилтэй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Russia and China",
+          "mn": "Орос ба Хятад"
+        },
+        {
+          "en": "Russia and Kazakhstan",
+          "mn": "Орос ба Казахстан"
+        },
+        {
+          "en": "Canada and the USA",
+          "mn": "Канад ба АНУ"
+        },
+        {
+          "en": "Argentina and Chile",
+          "mn": "Аргентин ба Чили"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Canada–US border runs about 8,900 km, including the stretch with Alaska. Much of it is marked by a cleared strip through the forest.",
+        "mn": "Канад, АНУ-ын хил Аляскийн хэсгийг оруулаад 8,900 орчим км урт. Ихэнх хэсэгт нь ойн дундуур модыг нь цэвэрлэсэн зурвас гаргаж хилийг тэмдэглэсэн байдаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.countries",
+      "key": "geography.countries.b22",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which country is shaped like a boot?",
+        "mn": "Аль улс гутал хэлбэртэй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Greece",
+          "mn": "Грек"
+        },
+        {
+          "en": "Italy",
+          "mn": "Итали"
+        },
+        {
+          "en": "Portugal",
+          "mn": "Португал"
+        },
+        {
+          "en": "Croatia",
+          "mn": "Хорват"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Italian peninsula juts into the Mediterranean like a boot, with Sicily near its “toe”. Two independent countries, San Marino and Vatican City, lie inside Italy.",
+        "mn": "Италийн хойг Газар дундын тэнгис рүү гутал шиг сунаж, «хуруу» хэсгийн ойролцоо Сицили арал оршдог. Италийн дотор Сан-Марино, Ватикан гэсэн хоёр бие даасан улс бий."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.countries",
+      "key": "geography.countries.b23",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which country lies in both Europe and Asia and has Istanbul as its largest city?",
+        "mn": "Аль улс Европ, Ази хоёр тивд оршдог бөгөөд хамгийн том хот нь Истанбул вэ?"
+      },
+      "choices": [
+        {
+          "en": "Greece",
+          "mn": "Грек"
+        },
+        {
+          "en": "Turkey",
+          "mn": "Турк"
+        },
+        {
+          "en": "Georgia",
+          "mn": "Гүрж"
+        },
+        {
+          "en": "Azerbaijan",
+          "mn": "Азербайжан"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "About 97% of Turkey is in Asia, on the Anatolian peninsula. Istanbul was once the capital of both the Byzantine and Ottoman empires.",
+        "mn": "Туркийн нутгийн 97 орчим хувь нь Азид, Анатолийн хойгт оршдог. Истанбул нэгэн цагт Византи, Османы аль алиных нь нийслэл байжээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.countries",
+      "key": "geography.countries.b24",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which country has a national flag that is not a rectangle?",
+        "mn": "Аль улсын төрийн далбаа тэгш өнцөгт хэлбэргүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Nepal",
+          "mn": "Балба"
+        },
+        {
+          "en": "Bhutan",
+          "mn": "Бутан"
+        },
+        {
+          "en": "Switzerland",
+          "mn": "Швейцари"
+        },
+        {
+          "en": "Japan",
+          "mn": "Япон"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Nepal’s flag is made of two stacked triangles, said to stand for the Himalaya and for Hinduism and Buddhism. Switzerland’s flag is square, but that still counts as a rectangle.",
+        "mn": "Балбын далбаа давхарласан хоёр гурвалжнаас бүрдэх бөгөөд Гималай, хинду ба буддын шашныг илэрхийлдэг гэдэг. Швейцарийн далбаа дөрвөлжин ч тэгш өнцөгтийн нэг хэлбэр хэвээр."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.countries",
+      "key": "geography.countries.b25",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which country is completely surrounded by South Africa?",
+        "mn": "Аль улсыг Өмнөд Африк бүх талаас нь хүрээлдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Eswatini",
+          "mn": "Эсватини"
+        },
+        {
+          "en": "Botswana",
+          "mn": "Ботсвана"
+        },
+        {
+          "en": "Namibia",
+          "mn": "Намиби"
+        },
+        {
+          "en": "Lesotho",
+          "mn": "Лесото"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Lesotho is one of only three countries entirely surrounded by another, along with Vatican City and San Marino. Even its lowest point is about 1,400 m high — the highest low point of any country.",
+        "mn": "Лесото бол Ватикан, Сан-Маринотой хамт өөр нэг улсаар бүрэн хүрээлэгдсэн гурван улсын нэг. Хамгийн нам цэг нь хүртэл 1,400 орчим м өндөр тул энэ үзүүлэлтээр дэлхийд тэргүүлдэг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.countries",
+      "key": "geography.countries.b26",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which country has the longest coastline in the world?",
+        "mn": "Аль улс дэлхийн хамгийн урт эрэгтэй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Russia",
+          "mn": "Орос"
+        },
+        {
+          "en": "Indonesia",
+          "mn": "Индонез"
+        },
+        {
+          "en": "Canada",
+          "mn": "Канад"
+        },
+        {
+          "en": "Australia",
+          "mn": "Австрали"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Canada’s coastline is over 200,000 km long, thanks to its thousands of Arctic islands. That is enough to circle the Equator about five times.",
+        "mn": "Арктикийн мянга мянган арлын ачаар Канадын эргийн шугам 200,000 гаруй км урт. Энэ нь экваторыг тав орчим удаа ороох урттай тэнцэнэ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.countries",
+      "key": "geography.countries.b27",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which is the largest country that lies entirely within Europe?",
+        "mn": "Бүхэлдээ Европт оршдог хамгийн том улс аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "France",
+          "mn": "Франц"
+        },
+        {
+          "en": "Spain",
+          "mn": "Испани"
+        },
+        {
+          "en": "Ukraine",
+          "mn": "Украин"
+        },
+        {
+          "en": "Sweden",
+          "mn": "Швед"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Ukraine covers about 604,000 km². Russia is bigger, but most of its land is in Asia.",
+        "mn": "Украин 604,000 орчим км² нутагтай. Орос илүү том ч нутгийн ихэнх нь Азид оршдог."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.countries",
+      "key": "geography.countries.b28",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which country is often said to have the most islands, over 200,000?",
+        "mn": "Аль улсыг 200,000 гаруй арлаараа дэлхийд тэргүүлдэг гэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Indonesia",
+          "mn": "Индонез"
+        },
+        {
+          "en": "Sweden",
+          "mn": "Швед"
+        },
+        {
+          "en": "Philippines",
+          "mn": "Филиппин"
+        },
+        {
+          "en": "Japan",
+          "mn": "Япон"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Sweden counts about 267,000 islands, though fewer than 1,000 are lived on. Most are tiny rocks along its Baltic coast and in its lakes.",
+        "mn": "Шведэд 267,000 орчим арал тоологддог ч хүн амьдардаг нь мянга хүрэхгүй. Ихэнх нь Балтийн эрэг болон нууруудад нь орших жижиг хадан арлууд."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.countries",
+      "key": "geography.countries.b29",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Counting its overseas territories, which country has the most time zones?",
+        "mn": "Далайн чанад дахь нутгийг тооцвол аль улс хамгийн олон цагийн бүстэй вэ?"
+      },
+      "choices": [
+        {
+          "en": "France",
+          "mn": "Франц"
+        },
+        {
+          "en": "Russia",
+          "mn": "Орос"
+        },
+        {
+          "en": "United States",
+          "mn": "АНУ"
+        },
+        {
+          "en": "China",
+          "mn": "Хятад"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Thanks to territories from French Polynesia to Réunion, France spans 12 time zones. Russia, with 11, has the most for one continuous landmass.",
+        "mn": "Францын Полинезиэс Реюньон хүртэлх нутгийнхаа ачаар Франц 12 цагийн бүсийг хамардаг. Харин нэг цул нутагтайгаас хамгийн олон буюу 11 бүстэй нь Орос."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.countries",
+      "key": "geography.countries.b210",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Liechtenstein is one of only two “doubly landlocked” countries. Which is the other?",
+        "mn": "Лихтенштейн бол «давхар далайд гарцгүй» хоёрхон улсын нэг. Нөгөө нь аль вэ?"
+      },
+      "choices": [
+        {
+          "en": "Mongolia",
+          "mn": "Монгол"
+        },
+        {
+          "en": "Switzerland",
+          "mn": "Швейцари"
+        },
+        {
+          "en": "Kazakhstan",
+          "mn": "Казахстан"
+        },
+        {
+          "en": "Uzbekistan",
+          "mn": "Узбекистан"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "A doubly landlocked country is surrounded only by other landlocked countries, so reaching the sea means crossing at least two borders. Uzbekistan’s neighbours all lack an ocean coast.",
+        "mn": "Давхар далайд гарцгүй улсыг зөвхөн далайд гарцгүй улсууд хүрээлдэг тул далайд гарахын тулд дор хаяж хоёр хил давах шаардлагатай. Узбекистаны бүх хөрш далайн эрэггүй."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.capitals",
+      "key": "geography.capitals.b21",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the capital of New Zealand?",
+        "mn": "Шинэ Зеландын нийслэл юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Auckland",
+          "mn": "Окленд"
+        },
+        {
+          "en": "Christchurch",
+          "mn": "Крайстчерч"
+        },
+        {
+          "en": "Sydney",
+          "mn": "Сидней"
+        },
+        {
+          "en": "Wellington",
+          "mn": "Веллингтон"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Wellington is the world’s southernmost national capital. Auckland is New Zealand’s largest city, but Wellington’s central location won it the capital in 1865.",
+        "mn": "Веллингтон бол дэлхийн хамгийн өмнөд нийслэл. Окленд хамгийн том хот нь боловч төв байршлынхаа ачаар Веллингтон 1865 онд нийслэл болжээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.capitals",
+      "key": "geography.capitals.b22",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which capital is split by the Danube into Buda and Pest?",
+        "mn": "Аль нийслэлийг Дунай мөрөн Буда, Пешт хэмээн хоёр хуваадаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Vienna",
+          "mn": "Вена"
+        },
+        {
+          "en": "Prague",
+          "mn": "Прага"
+        },
+        {
+          "en": "Budapest",
+          "mn": "Будапешт"
+        },
+        {
+          "en": "Belgrade",
+          "mn": "Белград"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Hilly Buda and flat Pest, along with Óbuda, were joined into one city in 1873. Budapest’s parliament building is among the largest in Europe.",
+        "mn": "Уулархаг Буда, тэгш Пешт хоёр Обудатай хамт 1873 онд нэг хот болон нэгджээ. Будапештийн парламентын ордон Европын хамгийн том барилгуудын нэг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.capitals",
+      "key": "geography.capitals.b23",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the capital of Spain?",
+        "mn": "Испанийн нийслэл юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Barcelona",
+          "mn": "Барселона"
+        },
+        {
+          "en": "Madrid",
+          "mn": "Мадрид"
+        },
+        {
+          "en": "Seville",
+          "mn": "Севилья"
+        },
+        {
+          "en": "Lisbon",
+          "mn": "Лиссабон"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Madrid sits almost exactly in the middle of Spain at about 650 m, making it one of Europe’s highest capitals. It became the capital in 1561.",
+        "mn": "Мадрид Испанийн бараг яг төвд, 650 орчим м өндөрт оршдог тул Европын хамгийн өндөрт орших нийслэлүүдийн нэг. 1561 онд нийслэл болсон."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.capitals",
+      "key": "geography.capitals.b24",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What is the capital of Vietnam?",
+        "mn": "Вьетнамын нийслэл юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Hanoi",
+          "mn": "Ханой"
+        },
+        {
+          "en": "Ho Chi Minh City",
+          "mn": "Хошимин хот"
+        },
+        {
+          "en": "Da Nang",
+          "mn": "Дананг"
+        },
+        {
+          "en": "Phnom Penh",
+          "mn": "Пномпень"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Hanoi lies on the Red River in the north and is over 1,000 years old. Ho Chi Minh City, formerly Saigon, is larger.",
+        "mn": "Ханой хойд хэсэгт Улаан мөрний эрэг дээр оршдог бөгөөд мянга гаруй жилийн түүхтэй. Хуучнаар Сайгон гэгддэг Хошимин хот илүү том."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.capitals",
+      "key": "geography.capitals.b25",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which city is the world’s highest seat of government, at about 3,600 m?",
+        "mn": "3,600 орчим м өндөрт орших дэлхийн хамгийн өндөр засгийн газрын суудал аль хот вэ?"
+      },
+      "choices": [
+        {
+          "en": "La Paz",
+          "mn": "Ла-Пас"
+        },
+        {
+          "en": "Quito",
+          "mn": "Кито"
+        },
+        {
+          "en": "Bogotá",
+          "mn": "Богота"
+        },
+        {
+          "en": "Lima",
+          "mn": "Лима"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "La Paz is Bolivia’s seat of government, while Sucre is its constitutional capital. The air is so thin that visitors often feel altitude sickness.",
+        "mn": "Ла-Пас бол Боливийн засгийн газрын суудал бөгөөд үндсэн хуулийн нийслэл нь Сукре. Агаар нь сийрэг тул зочид өндрийн өвчинд нэрвэгдэх нь элбэг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.capitals",
+      "key": "geography.capitals.b26",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which city replaced Lagos as Nigeria’s capital in 1991?",
+        "mn": "1991 онд Лагосын оронд Нигерийн нийслэл болсон хот аль вэ?"
+      },
+      "choices": [
+        {
+          "en": "Kano",
+          "mn": "Кано"
+        },
+        {
+          "en": "Ibadan",
+          "mn": "Ибадан"
+        },
+        {
+          "en": "Accra",
+          "mn": "Аккра"
+        },
+        {
+          "en": "Abuja",
+          "mn": "Абужа"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Abuja was built as a planned city in the centre of Nigeria, on neutral ground between the country’s major ethnic groups. Lagos remains the largest city.",
+        "mn": "Абужаг Нигерийн төвд, томоохон угсаатнуудын дунд төвийг сахисан газарт төлөвлөн барьсан. Хамгийн том хот нь Лагос хэвээр байна."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.capitals",
+      "key": "geography.capitals.b27",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the capital of Morocco?",
+        "mn": "Мароккогийн нийслэл юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Casablanca",
+          "mn": "Касабланка"
+        },
+        {
+          "en": "Marrakesh",
+          "mn": "Марракеш"
+        },
+        {
+          "en": "Rabat",
+          "mn": "Рабат"
+        },
+        {
+          "en": "Tunis",
+          "mn": "Тунис"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Rabat lies on the Atlantic coast and has been the capital since 1912. Casablanca, about 90 km away, is the country’s largest city and business hub.",
+        "mn": "Рабат Атлантын эрэгт оршдог бөгөөд 1912 оноос нийслэл. Тэндээс 90 орчим км зайтай Касабланка бол улсын хамгийн том хот, бизнесийн төв."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.capitals",
+      "key": "geography.capitals.b28",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is the capital of Pakistan?",
+        "mn": "Пакистаны нийслэл юу вэ?"
+      },
+      "choices": [
+        {
+          "en": "Karachi",
+          "mn": "Карачи"
+        },
+        {
+          "en": "Islamabad",
+          "mn": "Исламабад"
+        },
+        {
+          "en": "Lahore",
+          "mn": "Лахор"
+        },
+        {
+          "en": "Kabul",
+          "mn": "Кабул"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Islamabad was purpose-built in the 1960s at the foot of the Margalla Hills, replacing Karachi. Karachi is still Pakistan’s largest city and main port.",
+        "mn": "Исламабадыг 1960-аад онд Маргалла толгодын бэлд зориулалтаар барьж, Карачигийн оронд нийслэл болгосон. Карачи одоо ч Пакистаны хамгийн том хот, гол боомт хэвээр."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.capitals",
+      "key": "geography.capitals.b29",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which city became the capital of Myanmar in 2005–2006?",
+        "mn": "2005–2006 онд Мьянмарын нийслэл болсон хот аль вэ?"
+      },
+      "choices": [
+        {
+          "en": "Yangon",
+          "mn": "Янгон"
+        },
+        {
+          "en": "Naypyidaw",
+          "mn": "Нэйпьидо"
+        },
+        {
+          "en": "Mandalay",
+          "mn": "Мандалай"
+        },
+        {
+          "en": "Bagan",
+          "mn": "Баган"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Naypyidaw was built from scratch and replaced Yangon. It is famous for its enormous, nearly empty multi-lane highways.",
+        "mn": "Нэйпьидог шинээр бариад Янгоны оронд нийслэл болгосон. Асар өргөн мөртлөө бараг хоосон олон эгнээт замаараа алдартай."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.capitals",
+      "key": "geography.capitals.b210",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which capital lies directly across the Congo River from Kinshasa?",
+        "mn": "Киншаса хотын эсрэг талд, Конго мөрний нөгөө эрэгт аль нийслэл оршдог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Brazzaville",
+          "mn": "Браззавиль"
+        },
+        {
+          "en": "Luanda",
+          "mn": "Луанда"
+        },
+        {
+          "en": "Bangui",
+          "mn": "Банги"
+        },
+        {
+          "en": "Libreville",
+          "mn": "Либревиль"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Kinshasa (DR Congo) and Brazzaville (Republic of the Congo) are the two closest national capitals in the world, apart from Rome and Vatican City. Only about 2–4 km of river separates them.",
+        "mn": "Ром, Ватиканыг эс тооцвол Киншаса (Ардчилсан Конго), Браззавиль (Бүгд Найрамдах Конго) бол дэлхийн хамгийн ойрхон хоёр нийслэл. Тэднийг ердөө 2–4 км өргөн мөрөн тусгаарладаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.records",
+      "key": "geography.records.b21",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Where is the lowest point on land on Earth?",
+        "mn": "Дэлхийн хуурай газрын хамгийн нам цэг хаана байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Death Valley",
+          "mn": "Үхлийн хөндий"
+        },
+        {
+          "en": "Caspian Sea shore",
+          "mn": "Каспийн тэнгисийн эрэг"
+        },
+        {
+          "en": "Turpan Depression",
+          "mn": "Турфаны хотгор"
+        },
+        {
+          "en": "Dead Sea shore",
+          "mn": "Сөнөсөн тэнгисийн эрэг"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Dead Sea shore lies more than 430 m below sea level, and it is sinking further each year. Its water is so salty that people float easily.",
+        "mn": "Сөнөсөн тэнгисийн эрэг далайн түвшнээс 430 гаруй м доор оршдог бөгөөд жил бүр улам намсаж байна. Ус нь маш давстай тул хүн амархан хөвдөг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.records",
+      "key": "geography.records.b22",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which is the largest tropical rainforest in the world?",
+        "mn": "Дэлхийн хамгийн том халуун орны ширэнгэн ой аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Congo Basin",
+          "mn": "Конгогийн сав газар"
+        },
+        {
+          "en": "Daintree",
+          "mn": "Дейнтри"
+        },
+        {
+          "en": "Amazon",
+          "mn": "Амазоны ой"
+        },
+        {
+          "en": "Borneo rainforest",
+          "mn": "Борнеогийн ой"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Amazon rainforest covers about 5.5 million km², most of it in Brazil. It is home to roughly one in ten known species on Earth.",
+        "mn": "Амазоны ширэнгэн ой 5.5 орчим сая км² талбайг хамарч, ихэнх нь Бразилд оршдог. Дэлхий дээрх мэдэгдэж буй зүйлийн 10 тутмын нэг орчим нь энд амьдардаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.records",
+      "key": "geography.records.b23",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which is the largest lake in Africa?",
+        "mn": "Африкийн хамгийн том нуур аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Lake Tanganyika",
+          "mn": "Танганьика нуур"
+        },
+        {
+          "en": "Lake Malawi",
+          "mn": "Малави нуур"
+        },
+        {
+          "en": "Lake Victoria",
+          "mn": "Виктория нуур"
+        },
+        {
+          "en": "Lake Chad",
+          "mn": "Чад нуур"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Lake Victoria is shared by Uganda, Kenya and Tanzania and is the largest tropical lake in the world. It is one of the sources of the White Nile.",
+        "mn": "Виктория нуурыг Уганда, Кени, Танзани хуваалцдаг бөгөөд дэлхийн хамгийн том халуун орны нуур юм. Цагаан Нилийн эхүүдийн нэг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.records",
+      "key": "geography.records.b24",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Mount Etna, Europe’s tallest active volcano, is in which country?",
+        "mn": "Европын хамгийн өндөр идэвхтэй галт уул Этна аль улсад байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Greece",
+          "mn": "Грек"
+        },
+        {
+          "en": "Italy",
+          "mn": "Итали"
+        },
+        {
+          "en": "Iceland",
+          "mn": "Исланд"
+        },
+        {
+          "en": "Spain",
+          "mn": "Испани"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Etna stands on the island of Sicily and is one of the most active volcanoes in the world. Its height changes over time as eruptions add or remove rock.",
+        "mn": "Этна Сицили арал дээр оршдог бөгөөд дэлхийн хамгийн идэвхтэй галт уулсын нэг. Дэлбэрэлт бүр чулуулаг нэмж эсвэл хасдаг тул өндөр нь өөрчлөгдсөөр байдаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.records",
+      "key": "geography.records.b25",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The coldest air temperature ever measured, about −89 °C, was recorded where?",
+        "mn": "Хэмжигдсэн хамгийн хүйтэн агаарын температур буюу −89 °C орчим хаана бүртгэгдсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Vostok Station, Antarctica",
+          "mn": "Восток станц, Антарктид"
+        },
+        {
+          "en": "Oymyakon, Russia",
+          "mn": "Оймякон, Орос"
+        },
+        {
+          "en": "Verkhoyansk, Russia",
+          "mn": "Верхоянск, Орос"
+        },
+        {
+          "en": "North Pole",
+          "mn": "Хойд туйл"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Vostok Station recorded −89.2 °C in July 1983. Oymyakon in Siberia is the coldest place where people live all year.",
+        "mn": "Восток станцад 1983 оны 7-р сард −89.2 °C хэмжигджээ. Харин хүмүүс жилийн турш амьдардаг хамгийн хүйтэн суурин бол Сибирийн Оймякон."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.records",
+      "key": "geography.records.b26",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which waterfall on the Zambia–Zimbabwe border is called “The Smoke That Thunders”?",
+        "mn": "Замби, Зимбабвегийн хил дээрх аль хүрхрээг «Аянгатай утаа» гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Iguazu Falls",
+          "mn": "Игуасу хүрхрээ"
+        },
+        {
+          "en": "Niagara Falls",
+          "mn": "Ниагара хүрхрээ"
+        },
+        {
+          "en": "Tugela Falls",
+          "mn": "Тугела хүрхрээ"
+        },
+        {
+          "en": "Victoria Falls",
+          "mn": "Виктория хүрхрээ"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Victoria Falls on the Zambezi is about 1.7 km wide and over 100 m tall, making it one of the largest sheets of falling water on Earth. Its local name is Mosi-oa-Tunya.",
+        "mn": "Замбези мөрөн дээрх Виктория хүрхрээ 1.7 орчим км өргөн, 100 гаруй м өндөр тул дэлхийн хамгийн том унах усны давхаргуудын нэг. Нутгийн нэр нь Моси-оа-Тунья."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.records",
+      "key": "geography.records.b27",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which is the largest peninsula in the world?",
+        "mn": "Дэлхийн хамгийн том хойг аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Indian subcontinent",
+          "mn": "Энэтхэгийн хойг"
+        },
+        {
+          "en": "Scandinavian Peninsula",
+          "mn": "Скандинавын хойг"
+        },
+        {
+          "en": "Iberian Peninsula",
+          "mn": "Иберийн хойг"
+        },
+        {
+          "en": "Arabian Peninsula",
+          "mn": "Арабын хойг"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Arabian Peninsula covers about 3.2 million km². Most of it is desert, and Saudi Arabia takes up the majority of it.",
+        "mn": "Арабын хойг 3.2 орчим сая км² талбайтай. Ихэнх нь цөл бөгөөд дийлэнх хэсгийг нь Саудын Араб эзэлдэг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.records",
+      "key": "geography.records.b28",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Where is Salar de Uyuni, the largest salt flat in the world?",
+        "mn": "Дэлхийн хамгийн том давсны тал Салар-де-Уюни хаана байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Chile",
+          "mn": "Чили"
+        },
+        {
+          "en": "Peru",
+          "mn": "Перу"
+        },
+        {
+          "en": "Bolivia",
+          "mn": "Боливи"
+        },
+        {
+          "en": "Argentina",
+          "mn": "Аргентин"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Salar de Uyuni covers about 10,000 km² high in the Andes. After rain it turns into a giant mirror reflecting the sky.",
+        "mn": "Салар-де-Уюни Андын нуруунд өндөрт 10,000 орчим км² талбайг хамардаг. Бороо орсны дараа тэнгэрийг тусгасан аварга толь мэт болдог."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.records",
+      "key": "geography.records.b29",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Mawsynram, often called the wettest place on Earth, is in which country?",
+        "mn": "Дэлхийн хамгийн чийглэг газар хэмээгддэг Маусинрам аль улсад байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Indonesia",
+          "mn": "Индонез"
+        },
+        {
+          "en": "India",
+          "mn": "Энэтхэг"
+        },
+        {
+          "en": "Colombia",
+          "mn": "Колумб"
+        },
+        {
+          "en": "Bangladesh",
+          "mn": "Бангладеш"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Mawsynram in the state of Meghalaya gets about 11,800 mm of rain a year, almost all during the monsoon. Its neighbour Cherrapunji was long the record holder.",
+        "mn": "Мегхалая мужийн Маусинрамд жилд 11,800 орчим мм бороо ордог бөгөөд бараг бүгд муссоны үеэр унадаг. Хөрш Черрапунжи нь урт хугацаанд энэ амжилтыг эзэмшиж байжээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.records",
+      "key": "geography.records.b210",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Son Doong, the world’s largest known cave passage, is in which country?",
+        "mn": "Дэлхийн хамгийн том агуйн хонгил Сон Доонг аль улсад байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Vietnam",
+          "mn": "Вьетнам"
+        },
+        {
+          "en": "China",
+          "mn": "Хятад"
+        },
+        {
+          "en": "Malaysia",
+          "mn": "Малайз"
+        },
+        {
+          "en": "Laos",
+          "mn": "Лаос"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Son Doong is big enough to hold a 40-storey skyscraper, and it even has its own jungle and clouds inside. It was explored only in 2009.",
+        "mn": "Сон Доонг агуйд 40 давхар тэнгэр баганадсан барилга багтахуйц бөгөөд дотроо өөрийн ширэнгэн ой, үүлтэй. Түүнийг зөвхөн 2009 онд судалжээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mongolia",
+      "key": "geography.mongolia.b21",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which river flows through Ulaanbaatar?",
+        "mn": "Улаанбаатар хотын дундуур ямар гол урсдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Tuul River",
+          "mn": "Туул гол"
+        },
+        {
+          "en": "Kherlen River",
+          "mn": "Хэрлэн гол"
+        },
+        {
+          "en": "Orkhon River",
+          "mn": "Орхон гол"
+        },
+        {
+          "en": "Zavkhan River",
+          "mn": "Завхан гол"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Tuul flows west through the city and later joins the Orkhon, which feeds the Selenge. Mongolians have long revered it as the “Queen Tuul”.",
+        "mn": "Туул гол хотын дундуур баруун тийш урсаад Орхонд цутгаж, Орхон нь Сэлэнгэтэй нийлдэг. Монголчууд эртнээс түүнийг «Хатан Туул» хэмээн хүндэтгэдэг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mongolia",
+      "key": "geography.mongolia.b22",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which large mountain range rises in central Mongolia?",
+        "mn": "Монголын төв хэсэгт ямар томоохон нуруу оршдог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Altai Mountains",
+          "mn": "Алтайн нуруу"
+        },
+        {
+          "en": "Khentii Mountains",
+          "mn": "Хэнтийн нуруу"
+        },
+        {
+          "en": "Sayan Mountains",
+          "mn": "Соёны нуруу"
+        },
+        {
+          "en": "Khangai Mountains",
+          "mn": "Хангайн нуруу"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Khangai is covered with pastures and forests and gives rise to rivers such as the Orkhon and Selenge’s tributaries. Its highest peak is Otgontenger.",
+        "mn": "Хангайн нуруу бэлчээр, ойгоор бүрхэгдсэн бөгөөд Орхон зэрэг олон голын эх оршдог. Хамгийн өндөр оргил нь Отгонтэнгэр."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mongolia",
+      "key": "geography.mongolia.b23",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which mountain south of Ulaanbaatar is one of the world’s oldest protected areas?",
+        "mn": "Улаанбаатарын урд орших аль уул дэлхийн хамгийн эртний тусгай хамгаалалттай газруудын нэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Otgontenger",
+          "mn": "Отгонтэнгэр"
+        },
+        {
+          "en": "Burkhan Khaldun",
+          "mn": "Бурхан Халдун"
+        },
+        {
+          "en": "Bogd Khan Uul",
+          "mn": "Богд хан уул"
+        },
+        {
+          "en": "Khüiten Peak",
+          "mn": "Хүйтэн оргил"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Bogd Khan Uul has been protected since 1778, earlier than Yellowstone, often called the first national park. Hunting and tree cutting were banned there by decree.",
+        "mn": "Богд хан уулыг 1778 оноос хамгаалж ирсэн нь анхны үндэсний парк хэмээгддэг Йеллоустоноос ч эрт. Тэнд ан агнах, мод огтлохыг зарлигаар хориглож байжээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mongolia",
+      "key": "geography.mongolia.b24",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What does the Mongolian word “dzud” describe?",
+        "mn": "Монголын «зуд» гэдэг үг юуг хэлдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "A summer sandstorm",
+          "mn": "Зуны элсэн шуурга"
+        },
+        {
+          "en": "A harsh winter killing livestock",
+          "mn": "Мал хорогдуулах хатуу өвөл"
+        },
+        {
+          "en": "A spring flood",
+          "mn": "Хаврын үер"
+        },
+        {
+          "en": "An autumn drought",
+          "mn": "Намрын ган"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "In a dzud, deep snow, ice or extreme cold stop animals from reaching grass, and millions can die. Herders’ livelihoods depend on surviving these winters.",
+        "mn": "Зудын үед их цас, мөсөн бүрхүүл эсвэл хэт хүйтний улмаас мал өвсөндөө хүрч чадахгүй, сая саяараа хорогдох нь бий. Малчдын амьжиргаа ийм өвлийг давахаас ихээхэн шалтгаалдаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mongolia",
+      "key": "geography.mongolia.b25",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Into how many aimags (provinces) is Mongolia divided?",
+        "mn": "Монгол Улс хэдэн аймагт хуваагддаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "18",
+          "mn": "18"
+        },
+        {
+          "en": "21",
+          "mn": "21"
+        },
+        {
+          "en": "24",
+          "mn": "24"
+        },
+        {
+          "en": "15",
+          "mn": "15"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Mongolia has 21 aimags plus the capital, Ulaanbaatar, which is governed separately. Each aimag is split into smaller districts called sums.",
+        "mn": "Монгол Улс 21 аймагтай бөгөөд нийслэл Улаанбаатар тусдаа засаг захиргааны нэгж. Аймаг бүр сумдад хуваагддаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mongolia",
+      "key": "geography.mongolia.b26",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which is the longest river lying entirely within Mongolia?",
+        "mn": "Бүхэлдээ Монголын нутгаар урсдаг хамгийн урт гол аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Orkhon River",
+          "mn": "Орхон гол"
+        },
+        {
+          "en": "Tuul River",
+          "mn": "Туул гол"
+        },
+        {
+          "en": "Selenge River",
+          "mn": "Сэлэнгэ мөрөн"
+        },
+        {
+          "en": "Khovd River",
+          "mn": "Ховд гол"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Orkhon runs about 1,124 km from the Khangai Mountains before joining the Selenge. Along the way it plunges over the Orkhon Waterfall.",
+        "mn": "Орхон гол Хангайн нуруунаас эх аваад 1,124 орчим км урсаж Сэлэнгэтэй нийлдэг. Замдаа Орхоны хүрхрээгээр унадаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mongolia",
+      "key": "geography.mongolia.b27",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Kharkhorin, near the old Mongol capital Karakorum, lies in which UNESCO-listed valley?",
+        "mn": "Эртний нийслэл Хархорум орших Хархорин аль ЮНЕСКО-гийн өвд бүртгэгдсэн хөндийд байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Darkhad Valley",
+          "mn": "Дархадын хотгор"
+        },
+        {
+          "en": "Valley of the Lakes",
+          "mn": "Нууруудын хөндий"
+        },
+        {
+          "en": "Terelj Valley",
+          "mn": "Тэрэлжийн хөндий"
+        },
+        {
+          "en": "Orkhon Valley",
+          "mn": "Орхоны хөндий"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Karakorum was the capital of the Mongol Empire in the 13th century. The Orkhon Valley was added to the UNESCO World Heritage list in 2004 for its nomadic and imperial history.",
+        "mn": "Хархорум XIII зуунд Их Монгол Улсын нийслэл байв. Орхоны хөндийн соёлын дурсгалт газрыг нүүдэлчдийн болон эзэнт гүрний түүхээр нь 2004 онд ЮНЕСКО-гийн өвд бүртгэсэн."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mongolia",
+      "key": "geography.mongolia.b28",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which tall “singing” sand dunes lie in the Mongolian Gobi?",
+        "mn": "Монголын говьд орших «дуулдаг» өндөр манханыг юу гэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Moltsog Els",
+          "mn": "Молцог элс"
+        },
+        {
+          "en": "Yolyn Am",
+          "mn": "Ёлын ам"
+        },
+        {
+          "en": "Khongoryn Els",
+          "mn": "Хонгорын элс"
+        },
+        {
+          "en": "Bayanzag",
+          "mn": "Баянзаг"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Khongoryn Els stretch about 100 km and rise up to around 300 m. When the sand slides in the wind it makes a humming sound.",
+        "mn": "Хонгорын элс 100 орчим км үргэлжилж, 300 орчим м хүртэл өндөрт хүрдэг. Салхинд элс гулсахад гинших дуу гардаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mongolia",
+      "key": "geography.mongolia.b29",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Lake Khövsgöl drains through which river into the Selenge?",
+        "mn": "Хөвсгөл нуураас ямар гол урсаж Сэлэнгэд цутгадаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Delgermörön",
+          "mn": "Дэлгэрмөрөн"
+        },
+        {
+          "en": "Ider Gol",
+          "mn": "Идэр гол"
+        },
+        {
+          "en": "Egiin Gol",
+          "mn": "Эгийн гол"
+        },
+        {
+          "en": "Shishged Gol",
+          "mn": "Шишхэд гол"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Egiin Gol is Khövsgöl’s only outflow and joins the Selenge, which then flows into Lake Baikal. So water from Khövsgöl eventually reaches the Arctic Ocean via the Yenisei.",
+        "mn": "Эгийн гол бол Хөвсгөлөөс гарах цорын ганц гол бөгөөд Сэлэнгэд нийлж Байгаль нуурт цутгадаг. Ингэж Хөвсгөлийн ус эцэстээ Енисейгээр дамжин Хойд мөсөн далайд хүрдэг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.mongolia",
+      "key": "geography.mongolia.b210",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The Kherlen River ends in which lake?",
+        "mn": "Хэрлэн гол аль нуурт цутгадаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Buir Lake",
+          "mn": "Буйр нуур"
+        },
+        {
+          "en": "Hulun Lake",
+          "mn": "Далай нуур (Хөлөн нуур)"
+        },
+        {
+          "en": "Lake Baikal",
+          "mn": "Байгаль нуур"
+        },
+        {
+          "en": "Uvs Lake",
+          "mn": "Увс нуур"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Kherlen rises in the Khentii Mountains, near the homeland of Chinggis Khaan, and flows east into Hulun Lake in Inner Mongolia, China. It is about 1,250 km long.",
+        "mn": "Хэрлэн гол Чингис хааны өлгий нутаг Хэнтийн нуруунаас эх аваад зүүн тийш урсаж, Хятадын Өвөр Монголд орших Далай нуурт цутгадаг. 1,250 орчим км урт."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.major-deserts",
+      "key": "geography.major-deserts.b21",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which desert covers much of Botswana?",
+        "mn": "Ботсванагийн нутгийн ихэнхийг аль цөл эзэлдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Kalahari",
+          "mn": "Калахари"
+        },
+        {
+          "en": "Namib",
+          "mn": "Намиб"
+        },
+        {
+          "en": "Sahara",
+          "mn": "Сахар"
+        },
+        {
+          "en": "Karoo",
+          "mn": "Кару"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Kalahari is a semi-desert of red sand with enough rain for grasses and acacia trees. In its north lies the Okavango Delta, a river that ends in the desert instead of the sea.",
+        "mn": "Калахари бол улаан элстэй хагас цөл бөгөөд өвс, хуайс ургах хэмжээний бороо ордог. Хойд хэсэгт нь далайд биш цөлд цутгадаг Окаванго бэлчир бий."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.major-deserts",
+      "key": "geography.major-deserts.b22",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which desert lies along the border of India and Pakistan?",
+        "mn": "Энэтхэг, Пакистаны хилийн дагуу аль цөл оршдог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Karakum",
+          "mn": "Каракум"
+        },
+        {
+          "en": "Gobi",
+          "mn": "Говь"
+        },
+        {
+          "en": "Dasht-e Lut",
+          "mn": "Дашт-е Лут"
+        },
+        {
+          "en": "Thar Desert",
+          "mn": "Тар цөл"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Thar, or Great Indian Desert, covers about 200,000 km². It is one of the most densely populated deserts in the world.",
+        "mn": "Тар буюу Энэтхэгийн их цөл 200,000 орчим км² талбайтай. Энэ нь дэлхийн хамгийн шигүү суурьшилтай цөлүүдийн нэг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.major-deserts",
+      "key": "geography.major-deserts.b23",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which animal is known as the “ship of the desert”?",
+        "mn": "Аль амьтныг «цөлийн хөлөг онгоц» гэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Horse",
+          "mn": "Морь"
+        },
+        {
+          "en": "Donkey",
+          "mn": "Илжиг"
+        },
+        {
+          "en": "Elephant",
+          "mn": "Заан"
+        },
+        {
+          "en": "Camel",
+          "mn": "Тэмээ"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Camels can go days without drinking and then gulp around 100 litres in minutes. Their humps store fat, not water.",
+        "mn": "Тэмээ хэдэн өдөр ус уухгүй явж чадах бөгөөд дараа нь хэдхэн минутад 100 орчим литр ус ууна. Бөх нь ус биш, өөх хадгалдаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.major-deserts",
+      "key": "geography.major-deserts.b24",
+      "difficulty": 1,
+      "prompt": {
+        "en": "What usually supplies the water of a desert oasis?",
+        "mn": "Цөлийн баянбүрдийн ус ихэвчлэн хаанаас ирдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Melting snow",
+          "mn": "Хайлж буй цас"
+        },
+        {
+          "en": "Daily rainfall",
+          "mn": "Өдөр бүрийн бороо"
+        },
+        {
+          "en": "Underground water",
+          "mn": "Газрын доорх ус"
+        },
+        {
+          "en": "Sea water",
+          "mn": "Далайн ус"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Oases form where groundwater reaches the surface through springs or wells. Some of that water fell as rain thousands of years ago.",
+        "mn": "Баянбүрд газрын доорх ус булаг эсвэл худгаар гадаргад гарч ирсэн газарт үүсдэг. Тэр усны зарим нь хэдэн мянган жилийн өмнө бороо болон орсон байдаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.major-deserts",
+      "key": "geography.major-deserts.b25",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The Rub’ al Khali, the largest continuous sand desert, has what English nickname?",
+        "mn": "Хамгийн том цул элсэн цөл Руб-эль-Хали англиар ямар хочтой вэ?"
+      },
+      "choices": [
+        {
+          "en": "The Red Sea of Sand",
+          "mn": "Элсний улаан тэнгис"
+        },
+        {
+          "en": "The Empty Quarter",
+          "mn": "Хоосон хэсэг"
+        },
+        {
+          "en": "The Burning Plain",
+          "mn": "Шатаж буй тал"
+        },
+        {
+          "en": "The Silent Valley",
+          "mn": "Чимээгүй хөндий"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Empty Quarter covers about 650,000 km² of Saudi Arabia, Oman, the UAE and Yemen. Some of its dunes are over 250 m high.",
+        "mn": "Хоосон хэсэг Саудын Араб, Оман, АНЭУ, Йеменийн 650,000 орчим км² нутгийг хамардаг. Зарим манхан нь 250 гаруй м өндөр."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.major-deserts",
+      "key": "geography.major-deserts.b26",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which African desert is considered the oldest in the world?",
+        "mn": "Африкийн аль цөлийг дэлхийн хамгийн эртний цөл гэж үздэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Namib",
+          "mn": "Намиб"
+        },
+        {
+          "en": "Sahara",
+          "mn": "Сахар"
+        },
+        {
+          "en": "Kalahari",
+          "mn": "Калахари"
+        },
+        {
+          "en": "Danakil",
+          "mn": "Данакил"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Namib has been arid for at least 55 million years. Its coast, the Skeleton Coast, is famous for shipwrecks stranded in the sand.",
+        "mn": "Намиб дор хаяж 55 сая жилийн турш хуурай байсаар ирсэн. Араг ясны эрэг хэмээх далайн эрэг нь элсэнд гацсан сүйрсэн хөлөг онгоцуудаараа алдартай."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.major-deserts",
+      "key": "geography.major-deserts.b27",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The Taklamakan Desert lies in which country?",
+        "mn": "Такламакан цөл аль улсад оршдог вэ?"
+      },
+      "choices": [
+        {
+          "en": "China",
+          "mn": "Хятад"
+        },
+        {
+          "en": "Kazakhstan",
+          "mn": "Казахстан"
+        },
+        {
+          "en": "Mongolia",
+          "mn": "Монгол"
+        },
+        {
+          "en": "Iran",
+          "mn": "Иран"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Taklamakan fills the Tarim Basin in Xinjiang and is one of the world’s largest shifting-sand deserts. Silk Road caravans skirted its edges to avoid crossing it.",
+        "mn": "Такламакан Шинжааны Таримын хотгорыг эзэлдэг бөгөөд дэлхийн хамгийн том нүүдэг элсэн цөлүүдийн нэг. Торгоны замын жингүүд түүнийг гатлахаас зайлсхийж захаар нь тойрдог байжээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.major-deserts",
+      "key": "geography.major-deserts.b28",
+      "difficulty": 2,
+      "prompt": {
+        "en": "What is a crescent-shaped sand dune called?",
+        "mn": "Хавирган сар хэлбэртэй элсэн манханыг юу гэж нэрлэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Mesa",
+          "mn": "Меза"
+        },
+        {
+          "en": "Wadi",
+          "mn": "Вади"
+        },
+        {
+          "en": "Erg",
+          "mn": "Эрг"
+        },
+        {
+          "en": "Barchan",
+          "mn": "Бархан"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Barchans form where wind blows steadily from one direction, with their horns pointing downwind. They can creep forward by tens of metres a year.",
+        "mn": "Бархан нэг чиглэлээс тогтмол салхи үлээдэг газар үүсдэг бөгөөд эвэр нь салхины урсгалын дагуу чиглэдэг. Жилд хэдэн арван метрээр урагшилж чадна."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.major-deserts",
+      "key": "geography.major-deserts.b29",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which North American desert is home to the giant saguaro cactus?",
+        "mn": "Хойд Америкийн аль цөлд аварга сагуаро кактус ургадаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Chihuahuan Desert",
+          "mn": "Чиуауа цөл"
+        },
+        {
+          "en": "Great Basin Desert",
+          "mn": "Их хотгорын цөл"
+        },
+        {
+          "en": "Sonoran Desert",
+          "mn": "Сонора цөл"
+        },
+        {
+          "en": "Mojave Desert",
+          "mn": "Мохаве цөл"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Saguaros grow wild almost only in the Sonoran Desert of Arizona and north-west Mexico. They can live over 150 years and grow about 12 m tall.",
+        "mn": "Сагуаро бараг зөвхөн Аризона болон Мексикийн баруун хойд хэсгийн Сонора цөлд байгалиасаа ургадаг. 150 гаруй жил амьдарч, 12 орчим м хүртэл өндөрт хүрдэг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.major-deserts",
+      "key": "geography.major-deserts.b210",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Satellites have measured Earth’s hottest ground temperatures, about 70 °C, in which desert?",
+        "mn": "Хиймэл дагуулын хэмжилтээр газрын гадаргын хамгийн халуун температур буюу 70 орчим °C аль цөлд бүртгэгдсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Sahara, Libya",
+          "mn": "Сахар, Ливи"
+        },
+        {
+          "en": "Lut Desert, Iran",
+          "mn": "Лут цөл, Иран"
+        },
+        {
+          "en": "Simpson Desert, Australia",
+          "mn": "Симпсоны цөл, Австрали"
+        },
+        {
+          "en": "Thar Desert, India",
+          "mn": "Тар цөл, Энэтхэг"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "NASA satellites recorded ground temperatures of about 70 °C in Iran’s Lut Desert. Death Valley holds the air-temperature record, which is measured differently, in the shade.",
+        "mn": "НАСА-гийн хиймэл дагуул Ираны Лут цөлд 70 орчим °C газрын гадаргын температур хэмжжээ. Харин агаарын температурын дээд амжилтыг сүүдэрт өөр аргаар хэмждэг бөгөөд тэр нь Үхлийн хөндийд бий."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-canals",
+      "key": "geography.famous-canals.b21",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which city is famous for its canals and gondolas?",
+        "mn": "Аль хот суваг, гондол завиараа алдартай вэ?"
+      },
+      "choices": [
+        {
+          "en": "Florence",
+          "mn": "Флоренц"
+        },
+        {
+          "en": "Venice",
+          "mn": "Венеци"
+        },
+        {
+          "en": "Naples",
+          "mn": "Неаполь"
+        },
+        {
+          "en": "Milan",
+          "mn": "Милан"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Venice is built on about 118 small islands linked by around 400 bridges. Its main waterway, the Grand Canal, curves through the city in an S shape.",
+        "mn": "Венеци 400 орчим гүүрээр холбогдсон 118 орчим жижиг арал дээр баригдсан. Гол усан зам болох Их суваг хотыг S үсэг хэлбэрээр дайран өнгөрдөг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-canals",
+      "key": "geography.famous-canals.b22",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which capital’s 17th-century canal ring is a UNESCO World Heritage site?",
+        "mn": "Аль нийслэлийн XVII зууны цагираг сувгууд ЮНЕСКО-гийн дэлхийн өвд бүртгэгдсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Amsterdam",
+          "mn": "Амстердам"
+        },
+        {
+          "en": "Copenhagen",
+          "mn": "Копенгаген"
+        },
+        {
+          "en": "Brussels",
+          "mn": "Брюссель"
+        },
+        {
+          "en": "Stockholm",
+          "mn": "Стокгольм"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Amsterdam’s canal ring was dug during the Dutch Golden Age and was listed by UNESCO in 2010. The city has more than 1,500 bridges.",
+        "mn": "Амстердамын цагираг сувгийг Голландын алтан үед ухсан бөгөөд 2010 онд ЮНЕСКО-д бүртгэсэн. Хотод 1,500 гаруй гүүр бий."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-canals",
+      "key": "geography.famous-canals.b23",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In 2021, which giant container ship blocked the Suez Canal for six days?",
+        "mn": "2021 онд аль аварга чингэлэг тээврийн хөлөг Суэцийн сувгийг зургаан өдөр хаасан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Titanic",
+          "mn": "Титаник"
+        },
+        {
+          "en": "Queen Mary 2",
+          "mn": "Квин Мэри 2"
+        },
+        {
+          "en": "Exxon Valdez",
+          "mn": "Эксон Валдез"
+        },
+        {
+          "en": "Ever Given",
+          "mn": "Эвер Гивен"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The 400 m-long Ever Given ran aground in a sandstorm in March 2021. Hundreds of ships queued at each end until it was freed.",
+        "mn": "400 м урт Эвер Гивен 2021 оны 3-р сард элсэн шуурганы үеэр эрэгт гацжээ. Түүнийг чөлөөлөх хүртэл сувгийн хоёр үзүүрт хэдэн зуун хөлөг дараалан хүлээсэн."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-canals",
+      "key": "geography.famous-canals.b24",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In which country is the Canal du Midi?",
+        "mn": "Миди суваг аль улсад байдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Belgium",
+          "mn": "Бельги"
+        },
+        {
+          "en": "Italy",
+          "mn": "Итали"
+        },
+        {
+          "en": "France",
+          "mn": "Франц"
+        },
+        {
+          "en": "Spain",
+          "mn": "Испани"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Canal du Midi, finished in 1681, links Toulouse to the Mediterranean and is part of a waterway between the Atlantic and the Mediterranean. It is now a UNESCO World Heritage site.",
+        "mn": "1681 онд дууссан Миди суваг Тулузыг Газар дундын тэнгистэй холбож, Атлантын далай, Газар дундын тэнгисийг холбосон усан замын нэг хэсэг болдог. Одоо ЮНЕСКО-гийн дэлхийн өвд бүртгэлтэй."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-canals",
+      "key": "geography.famous-canals.b25",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In which year did the Suez Canal open?",
+        "mn": "Суэцийн суваг аль онд нээгдсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "1914",
+          "mn": "1914"
+        },
+        {
+          "en": "1825",
+          "mn": "1825"
+        },
+        {
+          "en": "1869",
+          "mn": "1869"
+        },
+        {
+          "en": "1798",
+          "mn": "1798"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Suez Canal opened in November 1869 after about ten years of work. It cut the sea route from Europe to India by roughly 7,000 km.",
+        "mn": "Суэцийн суваг 10 орчим жил баригдаад 1869 оны 11-р сард нээгджээ. Европоос Энэтхэг хүрэх далайн замыг 7,000 орчим км-ээр богиносгосон."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-canals",
+      "key": "geography.famous-canals.b26",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which French diplomat led the building of the Suez Canal?",
+        "mn": "Суэцийн сувгийн бүтээн байгуулалтыг аль франц дипломатч удирдсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Gustave Eiffel",
+          "mn": "Гюстав Эйфель"
+        },
+        {
+          "en": "Ferdinand de Lesseps",
+          "mn": "Фердинанд де Лессепс"
+        },
+        {
+          "en": "Napoleon Bonaparte",
+          "mn": "Наполеон Бонапарт"
+        },
+        {
+          "en": "Louis Pasteur",
+          "mn": "Луи Пастер"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "After his Suez success, de Lesseps tried to build a canal in Panama in the 1880s. That attempt failed amid disease and bankruptcy.",
+        "mn": "Суэцэд амжилт олсныхоо дараа де Лессепс 1880-аад онд Панамд суваг барихыг оролдсон. Тэр оролдлого өвчин, дампуурлын улмаас бүтэлгүйтжээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-canals",
+      "key": "geography.famous-canals.b27",
+      "difficulty": 2,
+      "prompt": {
+        "en": "In which year did the Panama Canal open?",
+        "mn": "Панамын суваг аль онд нээгдсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "1914",
+          "mn": "1914"
+        },
+        {
+          "en": "1869",
+          "mn": "1869"
+        },
+        {
+          "en": "1899",
+          "mn": "1899"
+        },
+        {
+          "en": "1936",
+          "mn": "1936"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Panama Canal opened in August 1914, just as the First World War began. A ship takes about 8–10 hours to pass through it.",
+        "mn": "Панамын суваг 1914 оны 8-р сард, яг Дэлхийн нэгдүгээр дайн эхэлсэн үед нээгджээ. Хөлөг онгоц түүгээр 8–10 орчим цагт гардаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-canals",
+      "key": "geography.famous-canals.b28",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Unlike the Panama Canal, what does the Suez Canal not have?",
+        "mn": "Панамын сувгаас ялгаатай нь Суэцийн суваг юугүй вэ?"
+      },
+      "choices": [
+        {
+          "en": "Lighthouses",
+          "mn": "Гэрэлт цамхаг"
+        },
+        {
+          "en": "Tolls",
+          "mn": "Төлбөр"
+        },
+        {
+          "en": "Bridges",
+          "mn": "Гүүр"
+        },
+        {
+          "en": "Locks",
+          "mn": "Шлюз"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Mediterranean and Red Sea are at nearly the same level, so the Suez Canal needs no locks. Panama’s locks lift ships about 26 m to cross the isthmus.",
+        "mn": "Газар дундын тэнгис, Улаан тэнгисийн түвшин бараг ижил тул Суэцийн сувагт шлюз хэрэггүй. Харин Панамын шлюзүүд хоолой газрыг давуулахын тулд хөлгийг 26 орчим м өргөдөг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-canals",
+      "key": "geography.famous-canals.b29",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which Egyptian leader nationalised the Suez Canal in 1956?",
+        "mn": "1956 онд Суэцийн сувгийг улсын мэдэлд авсан Египетийн удирдагч хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Anwar Sadat",
+          "mn": "Анвар Садат"
+        },
+        {
+          "en": "Hosni Mubarak",
+          "mn": "Хосни Мубарак"
+        },
+        {
+          "en": "King Farouk",
+          "mn": "Фарук хаан"
+        },
+        {
+          "en": "Gamal Abdel Nasser",
+          "mn": "Гамаль Абдель Насер"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Nasser’s move triggered the Suez Crisis, when Britain, France and Israel invaded Egypt. Pressure from the USA and USSR forced them to withdraw.",
+        "mn": "Насерын энэ алхам Суэцийн хямралыг үүсгэж, Их Британи, Франц, Израиль Египет рүү довтолжээ. АНУ, ЗХУ-ын шахалтаар тэд цэргээ татахад хүрсэн."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-canals",
+      "key": "geography.famous-canals.b210",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In which year did the Panama Canal’s larger new locks open?",
+        "mn": "Панамын сувгийн шинэ, илүү том шлюзүүд аль онд ашиглалтад орсон бэ?"
+      },
+      "choices": [
+        {
+          "en": "1999",
+          "mn": "1999"
+        },
+        {
+          "en": "2008",
+          "mn": "2008"
+        },
+        {
+          "en": "2016",
+          "mn": "2016"
+        },
+        {
+          "en": "2021",
+          "mn": "2021"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The expansion opened in June 2016 and lets much bigger “Neopanamax” ships pass. Each new lock chamber is 427 m long.",
+        "mn": "Өргөтгөл 2016 оны 6-р сард нээгдэж, «Неопанамакс» хэмээх илүү том хөлгүүдийг нэвтрүүлэх болсон. Шинэ шлюзийн камер бүр 427 м урт."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.great-lakes-formation",
+      "key": "geography.great-lakes-formation.b21",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which word is a popular way to remember the five Great Lakes?",
+        "mn": "Таван Их нуурыг санахад түгээмэл хэрэглэдэг үг аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "SHORE",
+          "mn": "SHORE"
+        },
+        {
+          "en": "HOMES",
+          "mn": "HOMES"
+        },
+        {
+          "en": "WATER",
+          "mn": "WATER"
+        },
+        {
+          "en": "LAKES",
+          "mn": "LAKES"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "HOMES stands for Huron, Ontario, Michigan, Erie and Superior. Another trick, “Super Man Helps Every One”, lists them from west to east.",
+        "mn": "HOMES гэдэг нь Гурон, Онтарио, Мичиган, Эри, Супериор нуурын эхний үсэг. «Super Man Helps Every One» гэдэг өөр арга нь тэднийг баруунаас зүүн тийш жагсаадаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.great-lakes-formation",
+      "key": "geography.great-lakes-formation.b22",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which major US city lies on the shore of Lake Michigan?",
+        "mn": "АНУ-ын аль том хот Мичиган нуурын эрэгт оршдог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Chicago",
+          "mn": "Чикаго"
+        },
+        {
+          "en": "Detroit",
+          "mn": "Детройт"
+        },
+        {
+          "en": "Cleveland",
+          "mn": "Кливленд"
+        },
+        {
+          "en": "Buffalo",
+          "mn": "Баффало"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Chicago grew rapidly in the 1800s as a port linking the Great Lakes to the Mississippi. Engineers even reversed the Chicago River in 1900 so sewage would stop flowing into the lake.",
+        "mn": "Чикаго 1800-аад онд Их нууруудыг Миссисипитэй холбосон боомтын хувьд хурдацтай өссөн. Бохир ус нуур руу орохоо болихын тулд инженерүүд 1900 онд Чикаго голын урсгалыг хүртэл эсрэгээр нь эргүүлжээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.great-lakes-formation",
+      "key": "geography.great-lakes-formation.b23",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Toronto, Canada’s largest city, lies on which Great Lake?",
+        "mn": "Канадын хамгийн том хот Торонто аль Их нуурын эрэгт оршдог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Lake Ontario",
+          "mn": "Онтарио нуур"
+        },
+        {
+          "en": "Lake Erie",
+          "mn": "Эри нуур"
+        },
+        {
+          "en": "Lake Huron",
+          "mn": "Гурон нуур"
+        },
+        {
+          "en": "Lake Superior",
+          "mn": "Супериор нуур"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Lake Ontario is the smallest Great Lake by area and the last in the chain before the St. Lawrence River. Its name comes from an Iroquoian word often translated as “lake of shining waters”.",
+        "mn": "Онтарио нь талбайгаараа хамгийн жижиг Их нуур бөгөөд Гэгээн Лаврентийн мөрний өмнөх сүүлчийн нуур. Нэр нь ирокез хэлний «гялалзсан устай нуур» гэж ихэвчлэн орчуулдаг үгнээс гаралтай."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.great-lakes-formation",
+      "key": "geography.great-lakes-formation.b24",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which Canadian province borders four of the five Great Lakes?",
+        "mn": "Канадын аль муж таван Их нуурын дөрөвтэй нь хиллэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Quebec",
+          "mn": "Квебек"
+        },
+        {
+          "en": "Manitoba",
+          "mn": "Манитоба"
+        },
+        {
+          "en": "British Columbia",
+          "mn": "Бритиш Колумбиа"
+        },
+        {
+          "en": "Ontario",
+          "mn": "Онтарио"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Ontario touches Superior, Huron, Erie and Ontario; only Lake Michigan lies wholly in the USA. The international border runs through the other four lakes.",
+        "mn": "Онтарио муж Супериор, Гурон, Эри, Онтарио нууртай хиллэдэг бөгөөд зөвхөн Мичиган нуур бүхэлдээ АНУ-д оршдог. Улсын хил бусад дөрвөн нуурын дундуур дайрдаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.great-lakes-formation",
+      "key": "geography.great-lakes-formation.b25",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which narrow waterway connects Lake Michigan with Lake Huron?",
+        "mn": "Мичиган, Гурон нуурыг ямар нарийн усан зам холбодог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Detroit River",
+          "mn": "Детройт гол"
+        },
+        {
+          "en": "Welland Canal",
+          "mn": "Велландын суваг"
+        },
+        {
+          "en": "Straits of Mackinac",
+          "mn": "Макинакийн хоолой"
+        },
+        {
+          "en": "St. Marys River",
+          "mn": "Гэгээн Мэригийн гол"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The Straits of Mackinac are about 8 km wide, and the Mackinac Bridge spans them. Because the link is so wide and deep, the two lakes share one water level.",
+        "mn": "Макинакийн хоолой 8 орчим км өргөн бөгөөд түүн дээгүүр Макинак гүүр гардаг. Холболт нь өргөн, гүн тул хоёр нуурын усны түвшин ижил байдаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.great-lakes-formation",
+      "key": "geography.great-lakes-formation.b26",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Roughly when did the Great Lakes begin to take their present shape as the ice retreated?",
+        "mn": "Мөсөн голууд ухрахад Их нуурууд одоогийн хэлбэрээ ойролцоогоор хэзээ олж эхэлсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "About 1,000 years ago",
+          "mn": "1,000 орчим жилийн өмнө"
+        },
+        {
+          "en": "About 10,000 years ago",
+          "mn": "10,000 орчим жилийн өмнө"
+        },
+        {
+          "en": "About 1 million years ago",
+          "mn": "1 сая орчим жилийн өмнө"
+        },
+        {
+          "en": "About 65 million years ago",
+          "mn": "65 сая орчим жилийн өмнө"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "As the last ice sheet melted back, its meltwater filled the basins it had gouged out. In geological terms, the Great Lakes are very young.",
+        "mn": "Сүүлчийн мөсөн бүрхүүл хайлж ухрахад хайлсан ус нь өөрийн ухсан хотгоруудыг дүүргэжээ. Геологийн хувьд Их нуурууд маш залуу."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.great-lakes-formation",
+      "key": "geography.great-lakes-formation.b27",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which ore freighter famously sank in a storm on Lake Superior in 1975?",
+        "mn": "1975 онд Супериор нуурт шуурганд живсэн алдартай хүдэр тээврийн хөлөг аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Lusitania",
+          "mn": "Лузитания"
+        },
+        {
+          "en": "Edmund Fitzgerald",
+          "mn": "Эдмунд Фицжералд"
+        },
+        {
+          "en": "Andrea Doria",
+          "mn": "Андреа Дориа"
+        },
+        {
+          "en": "Mary Rose",
+          "mn": "Мэри Роуз"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "All 29 crew died when the Edmund Fitzgerald sank in a November storm. Gordon Lightfoot’s 1976 song made the wreck famous.",
+        "mn": "«Эдмунд Фицжералд» 11-р сарын шуурганд живэхэд 29 багийн гишүүн бүгд амь үрэгдсэн. Гордон Лайтфутын 1976 оны дуу энэ сүйрлийг алдаршуулжээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.great-lakes-formation",
+      "key": "geography.great-lakes-formation.b28",
+      "difficulty": 2,
+      "prompt": {
+        "en": "How many US states border the Great Lakes?",
+        "mn": "АНУ-ын хэдэн муж Их нууруудтай хиллэдэг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Eight",
+          "mn": "Найм"
+        },
+        {
+          "en": "Five",
+          "mn": "Тав"
+        },
+        {
+          "en": "Six",
+          "mn": "Зургаа"
+        },
+        {
+          "en": "Ten",
+          "mn": "Арав"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Minnesota, Wisconsin, Illinois, Indiana, Michigan, Ohio, Pennsylvania and New York all touch the lakes. Michigan is the only state that borders four of them.",
+        "mn": "Миннесота, Висконсин, Иллинойс, Индиана, Мичиган, Охайо, Пенсильвани, Нью-Йорк мужууд нууруудтай хиллэдэг. Мичиган муж ганцаараа дөрвөн нууртай хиллэдэг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.great-lakes-formation",
+      "key": "geography.great-lakes-formation.b29",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which ice sheet carved out the Great Lakes basins?",
+        "mn": "Их нууруудын хотгорыг аль мөсөн бүрхүүл ухаж үүсгэсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Fennoscandian Ice Sheet",
+          "mn": "Фенноскандын мөсөн бүрхүүл"
+        },
+        {
+          "en": "Cordilleran Ice Sheet",
+          "mn": "Кордильерын мөсөн бүрхүүл"
+        },
+        {
+          "en": "Greenland Ice Sheet",
+          "mn": "Гренландын мөсөн бүрхүүл"
+        },
+        {
+          "en": "Laurentide Ice Sheet",
+          "mn": "Лаврентийн мөсөн бүрхүүл"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Laurentide Ice Sheet covered most of Canada and the northern USA and was up to about 3 km thick. The land it pressed down is still slowly rising today.",
+        "mn": "Лаврентийн мөсөн бүрхүүл Канадын ихэнх хэсэг, АНУ-ын хойд нутгийг бүрхэж, 3 орчим км хүртэл зузаан байжээ. Түүний дарж суулгасан газар одоо ч аажмаар өргөгдсөөр байна."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.great-lakes-formation",
+      "key": "geography.great-lakes-formation.b210",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Manitoulin, the world’s largest island in a freshwater lake, lies in which Great Lake?",
+        "mn": "Цэнгэг нуур дахь дэлхийн хамгийн том арал Манитулин аль Их нуурт оршдог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Lake Superior",
+          "mn": "Супериор нуур"
+        },
+        {
+          "en": "Lake Michigan",
+          "mn": "Мичиган нуур"
+        },
+        {
+          "en": "Lake Huron",
+          "mn": "Гурон нуур"
+        },
+        {
+          "en": "Lake Erie",
+          "mn": "Эри нуур"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Manitoulin Island covers about 2,770 km² and has more than 100 lakes of its own. Some of those lakes have islands, which have their own ponds.",
+        "mn": "Манитулин арал 2,770 орчим км² талбайтай бөгөөд дотроо 100 гаруй нууртай. Тэдгээр нуурын заримд нь арал бий, тэр арлууд дээр бас цөөрөм байдаг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-straits",
+      "key": "geography.famous-straits.b21",
+      "difficulty": 1,
+      "prompt": {
+        "en": "The Bering Strait separates which two countries?",
+        "mn": "Берингийн хоолой аль хоёр улсыг тусгаарладаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Canada and the USA",
+          "mn": "Канад ба АНУ"
+        },
+        {
+          "en": "Russia and Japan",
+          "mn": "Орос ба Япон"
+        },
+        {
+          "en": "Russia and the USA",
+          "mn": "Орос ба АНУ"
+        },
+        {
+          "en": "Canada and Greenland",
+          "mn": "Канад ба Гренланд"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "The strait is about 82 km wide at its narrowest. In the middle, Russia’s Big Diomede and America’s Little Diomede islands are less than 4 km apart but nearly a day apart in time.",
+        "mn": "Хоолойн хамгийн нарийн хэсэг 82 орчим км. Дунд нь Оросын Их Диомид, Америкийн Бага Диомид арал 4 км хүрэхгүй зайтай ч цагийн хувьд бараг нэг өдрөөр зөрдөг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-straits",
+      "key": "geography.famous-straits.b22",
+      "difficulty": 1,
+      "prompt": {
+        "en": "The Drake Passage separates South America from which continent?",
+        "mn": "Дрейкийн хоолой Өмнөд Америкийг аль тиваас тусгаарладаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Africa",
+          "mn": "Африк"
+        },
+        {
+          "en": "Antarctica",
+          "mn": "Антарктид"
+        },
+        {
+          "en": "Australia",
+          "mn": "Австрали"
+        },
+        {
+          "en": "North America",
+          "mn": "Хойд Америк"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "The Drake Passage is about 800 km wide and known for some of the roughest seas on Earth. It is named after the English sailor Francis Drake.",
+        "mn": "Дрейкийн хоолой 800 орчим км өргөн бөгөөд дэлхийн хамгийн догшин усаар алдартай. Англи далайчин Фрэнсис Дрейкийн нэрээр нэрлэгджээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-straits",
+      "key": "geography.famous-straits.b23",
+      "difficulty": 1,
+      "prompt": {
+        "en": "The Strait of Messina separates mainland Italy from which island?",
+        "mn": "Мессинагийн хоолой Италийн эх газрыг аль арлаас тусгаарладаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Sicily",
+          "mn": "Сицили"
+        },
+        {
+          "en": "Sardinia",
+          "mn": "Сардини"
+        },
+        {
+          "en": "Corsica",
+          "mn": "Корсик"
+        },
+        {
+          "en": "Malta",
+          "mn": "Мальта"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The strait is only about 3 km wide at its narrowest. Ancient Greeks placed the monsters Scylla and Charybdis on its two sides.",
+        "mn": "Хоолойн хамгийн нарийн хэсэг ердөө 3 орчим км. Эртний грекчүүд түүний хоёр эрэгт Скилла, Харибда хэмээх мангасууд амьдардаг гэж үздэг байв."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-straits",
+      "key": "geography.famous-straits.b24",
+      "difficulty": 1,
+      "prompt": {
+        "en": "The Korea Strait separates the Korean Peninsula from which country?",
+        "mn": "Солонгосын хоолой Солонгосын хойгийг аль улсаас тусгаарладаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "China",
+          "mn": "Хятад"
+        },
+        {
+          "en": "Russia",
+          "mn": "Орос"
+        },
+        {
+          "en": "Taiwan",
+          "mn": "Тайвань"
+        },
+        {
+          "en": "Japan",
+          "mn": "Япон"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Korea Strait links the East Sea (Sea of Japan) with the East China Sea. The Tsushima islands of Japan sit in the middle of it.",
+        "mn": "Солонгосын хоолой Зүүн тэнгис (Японы тэнгис)-ийг Зүүн Хятадын тэнгистэй холбодог. Дунд нь Японы Цусима арлууд оршдог."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-straits",
+      "key": "geography.famous-straits.b25",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The Dardanelles connect the Aegean Sea with which sea?",
+        "mn": "Дарданеллын хоолой Эгийн тэнгисийг аль тэнгистэй холбодог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Black Sea",
+          "mn": "Хар тэнгис"
+        },
+        {
+          "en": "Adriatic Sea",
+          "mn": "Адриатын тэнгис"
+        },
+        {
+          "en": "Caspian Sea",
+          "mn": "Каспийн тэнгис"
+        },
+        {
+          "en": "Sea of Marmara",
+          "mn": "Мраморын тэнгис"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Together with the Bosporus, the Dardanelles link the Mediterranean to the Black Sea. Ancient Troy stood near its southern entrance, and the Gallipoli campaign of 1915 was fought on its shores.",
+        "mn": "Босфортой хамт Дарданелл Газар дундын тэнгисийг Хар тэнгистэй холбодог. Эртний Трой хот түүний өмнөд амны ойролцоо оршиж байсан бөгөөд 1915 оны Галлиполийн тулаан эрэг дээр нь болжээ."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-straits",
+      "key": "geography.famous-straits.b26",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which strait separates mainland Australia from Tasmania?",
+        "mn": "Австралийн эх газрыг Тасманиас аль хоолой тусгаарладаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Torres Strait",
+          "mn": "Торресын хоолой"
+        },
+        {
+          "en": "Cook Strait",
+          "mn": "Кукийн хоолой"
+        },
+        {
+          "en": "Bass Strait",
+          "mn": "Бассын хоолой"
+        },
+        {
+          "en": "Tasman Strait",
+          "mn": "Тасманы хоолой"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Bass Strait is about 240 km wide and was named after the explorer George Bass. Its shallow waters can whip up dangerous waves.",
+        "mn": "Бассын хоолой 240 орчим км өргөн бөгөөд аялагч Жорж Бассын нэрээр нэрлэгдсэн. Гүехэн тул аюултай давалгаа амархан үүсдэг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-straits",
+      "key": "geography.famous-straits.b27",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The Palk Strait lies between India and which country?",
+        "mn": "Палкийн хоолой Энэтхэг болон аль улсын хооронд оршдог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Maldives",
+          "mn": "Мальдив"
+        },
+        {
+          "en": "Sri Lanka",
+          "mn": "Шри-Ланка"
+        },
+        {
+          "en": "Bangladesh",
+          "mn": "Бангладеш"
+        },
+        {
+          "en": "Myanmar",
+          "mn": "Мьянмар"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "A chain of shoals called Adam’s Bridge, or Rama Setu, nearly links the two countries across it. Hindu legend says the god Rama’s army built it.",
+        "mn": "Хоолойн дундуур Адамын гүүр буюу Рама Сету хэмээх гүехэн хадан цуваа хоёр улсыг бараг холбодог. Хинду домогт үүнийг Рама бурхны арми барьсан гэдэг."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-straits",
+      "key": "geography.famous-straits.b28",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The rocks on either side of the Strait of Gibraltar were known in ancient times as what?",
+        "mn": "Гибралтарын хоолойн хоёр талын хадыг эртний үед юу гэж нэрлэдэг байсан бэ?"
+      },
+      "choices": [
+        {
+          "en": "Pillars of Hercules",
+          "mn": "Гераклын багана"
+        },
+        {
+          "en": "Gates of Troy",
+          "mn": "Тройн хаалга"
+        },
+        {
+          "en": "Teeth of Poseidon",
+          "mn": "Посейдоны шүд"
+        },
+        {
+          "en": "Horns of Atlas",
+          "mn": "Атласын эвэр"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Ancient Greeks saw the Pillars of Hercules as the edge of the known world. The Rock of Gibraltar is the northern pillar.",
+        "mn": "Эртний грекчүүд Гераклын баганыг мэдэгдэж буй ертөнцийн зах гэж үздэг байв. Гибралтарын хад нь хойд талын багана юм."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-straits",
+      "key": "geography.famous-straits.b29",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The Kerch Strait connects the Black Sea with which sea?",
+        "mn": "Керчийн хоолой Хар тэнгисийг аль тэнгистэй холбодог вэ?"
+      },
+      "choices": [
+        {
+          "en": "Sea of Azov",
+          "mn": "Азовын тэнгис"
+        },
+        {
+          "en": "Caspian Sea",
+          "mn": "Каспийн тэнгис"
+        },
+        {
+          "en": "Sea of Marmara",
+          "mn": "Мраморын тэнгис"
+        },
+        {
+          "en": "Aegean Sea",
+          "mn": "Эгийн тэнгис"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The Kerch Strait separates Crimea from Russia’s Taman Peninsula. The Sea of Azov beyond it is the shallowest sea in the world, at most about 14 m deep.",
+        "mn": "Керчийн хоолой Крымыг Оросын Тамань хойгоос тусгаарладаг. Цаад талын Азовын тэнгис хамгийн гүн газраа ердөө 14 орчим м тул дэлхийн хамгийн гүехэн тэнгис юм."
+      }
+    },
+    {
+      "topicSlug": "geography",
+      "lessonKey": "geography.famous-straits",
+      "key": "geography.famous-straits.b210",
+      "difficulty": 3,
+      "prompt": {
+        "en": "The Øresund strait, crossed by a famous bridge-tunnel, separates Denmark from which country?",
+        "mn": "Алдарт гүүр-хонгилоор гаталдаг Эресунн хоолой Данийг аль улсаас тусгаарладаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Norway",
+          "mn": "Норвеги"
+        },
+        {
+          "en": "Germany",
+          "mn": "Герман"
+        },
+        {
+          "en": "Finland",
+          "mn": "Финланд"
+        },
+        {
+          "en": "Sweden",
+          "mn": "Швед"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Øresund Bridge, opened in 2000, links Copenhagen with Malmö, starting as a bridge and ending in a tunnel under the sea. It starred in the TV crime drama “The Bridge”.",
+        "mn": "2000 онд нээгдсэн Эресунны гүүр Копенгагеныг Мальмётай холбож, гүүрээр эхлээд далайн доорх хонгилоор төгсдөг. «Гүүр» хэмээх гэмт хэргийн цувралд гол дүрд нь гарчээ."
+      }
+    }
+  ]
+}
