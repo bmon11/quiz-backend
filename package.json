@@ -20,6 +20,7 @@
     "images": "ts-node src/scripts/images.ts",
     "place-facts": "ts-node src/scripts/place-facts.ts",
     "import:doc": "ts-node src/scripts/import-doc.ts",
+    "check:extra": "ts-node src/scripts/check-extra.ts",
     "maps": "ts-node src/scripts/maps.ts"
   },
   "engines": {

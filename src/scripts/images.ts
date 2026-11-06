@@ -19,12 +19,15 @@ import type { Expansion, Photo, SeedLesson, Visual } from '../seed/types';
 //   npm run images                                   # every card lesson
 //   npm run images -- --lesson pubquiz.world-famous-paintings --force
 //   npm run images -- --free-only
+//   npm run images -- --no-ai --lesson opera.famous-operas   # trust each card's `wiki`, no Gemini
 
 const { values: args } = parseArgs({
   options: {
     lesson: { type: 'string' },
     force: { type: 'boolean', default: false },
     'free-only': { type: 'boolean', default: false },
+    // Hand-written cards already name their article: skip both Gemini passes.
+    'no-ai': { type: 'boolean', default: false },
     model: { type: 'string' },
     concurrency: { type: 'string', default: '4' },
   },
@@ -175,7 +178,7 @@ async function illustrate(lesson: SeedLesson): Promise<Card[] | null> {
   // Flags and other fact-pictures (`image`) stay as they are.
   const todo = cards.map((c, i) => ({ c, i })).filter(({ c }) => !c.image && (args.force || !c.photo));
   if (!todo.length) return null;
-  const need = todo.filter(({ c }) => args.force || c.wiki === undefined);
+  const need = args['no-ai'] ? [] : todo.filter(({ c }) => args.force || c.wiki === undefined);
   const named = new Map<number, string>();
   for (let i = 0; i < need.length; i += 40) {
     const chunk = need.slice(i, i + 40);
@@ -204,7 +207,7 @@ async function illustrate(lesson: SeedLesson): Promise<Card[] | null> {
   const verdicts: boolean[] = [];
   for (let k = 0; k < resolved.length; k += 60) {
     const chunk = resolved.slice(k, k + 60);
-    verdicts.push(...(await matching(lesson, chunk.map(({ c, i }) => ({ card: c, file: photos.get(wikiOf(i))!.file })))));
+    verdicts.push(...(args['no-ai'] ? chunk.map(() => true) : await matching(lesson, chunk.map(({ c, i }) => ({ card: c, file: photos.get(wikiOf(i))!.file })))));
   }
   const rejected = new Set(resolved.filter((_, k) => !verdicts[k]).map(({ i }) => i));
   for (const i of rejected) console.log(`    ✗ ${lesson.key}: "${cards[i].title.en}" ≠ ${decodeURIComponent(photos.get(wikiOf(i))!.file)}`);

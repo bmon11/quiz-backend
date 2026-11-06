@@ -1,0 +1,2899 @@
+{
+  "lessons": [
+    {
+      "topicSlug": "opera",
+      "key": "opera.famous-operas",
+      "order": 1,
+      "title": {
+        "en": "Famous Operas",
+        "mn": "Алдартай дуурь"
+      },
+      "summary": {
+        "en": "Eighty of the operas that fill the world's stages, from Monteverdi to John Adams.",
+        "mn": "Монтевердигаас Жон Адамс хүртэл дэлхийн тайзнаа хамгийн их тоглогддог наян дуурь."
+      },
+      "body": {
+        "en": "Opera is drama told through singing, with an orchestra, sets and costumes. A few hundred works make up the core repertoire that opera houses return to season after season. Each card gives the composer, the year of the premiere, the story in one line and a famous number or premiere fact.",
+        "mn": "Дуурь бол найрал хөгжим, тайзны засал, хувцастайгаар дуулж өгүүлдэг жүжиг юм. Дэлхийн театрууд жил бүр эргэн тоглодог үндсэн репертуар хэдэн зуун бүтээлээс бүрддэг. Карт бүр хөгжмийн зохиолч, нээлтийн он, үйл явдлыг нэг өгүүлбэрээр, мөн алдартай ари эсвэл нээлтийн тухай баримтыг өгнө."
+      },
+      "visual": {
+        "kind": "cards",
+        "items": [
+          {
+            "title": {
+              "en": "L'Orfeo",
+              "mn": "«Орфей»"
+            },
+            "subtitle": {
+              "en": "Monteverdi, 1607",
+              "mn": "Монтеверди, 1607"
+            },
+            "icon": "🎼",
+            "wiki": "L'Orfeo",
+            "facts": [
+              {
+                "en": "The poet Orpheus descends to the underworld to bring back his dead wife Eurydice.",
+                "mn": "Яруу найрагч Орфей нас барсан эхнэр Эвридикээ буцааж авчрахаар үхэгсдийн орон руу бууна."
+              },
+              {
+                "en": "Premiered at the Gonzaga court in Mantua, it is the oldest opera still regularly performed.",
+                "mn": "Мантуя хотын Гонзагагийн ордонд анх тавигдсан бөгөөд одоо ч тогтмол тоглогддог хамгийн эртний дуурь юм."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "L'incoronazione di Poppea",
+              "mn": "«Поппеягийн титэм»"
+            },
+            "subtitle": {
+              "en": "Monteverdi, 1643",
+              "mn": "Монтеверди, 1643"
+            },
+            "icon": "👑",
+            "wiki": "L'incoronazione di Poppea",
+            "facts": [
+              {
+                "en": "The Roman emperor Nero casts aside his wife to crown his ambitious mistress Poppea empress.",
+                "mn": "Ромын эзэн хаан Нерон эхнэрээсээ салж, амбицтай амраг Поппеягаа хатан болгон өргөмжилнө."
+              },
+              {
+                "en": "It was first staged in Venice and ends with the radiant love duet «Pur ti miro».",
+                "mn": "Венецид анх тавигдсан бөгөөд «Pur ti miro» хэмээх гэрэлтэй хайрын дуэтээр төгсдөг."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Dido and Aeneas",
+              "mn": "«Дидона ба Эней»"
+            },
+            "subtitle": {
+              "en": "Purcell, c. 1689",
+              "mn": "Пёрселл, 1689 орчим"
+            },
+            "icon": "🔥",
+            "wiki": "Dido and Aeneas",
+            "facts": [
+              {
+                "en": "Queen Dido of Carthage dies of grief after the Trojan hero Aeneas leaves her to found Rome.",
+                "mn": "Троягийн баатар Эней Ромыг үндэслэхээр явсны дараа Карфагены хатан Дидона гунигтай нас барна."
+              },
+              {
+                "en": "Its closing aria «When I am laid in earth», known as Dido's Lament, is one of the most famous in English music.",
+                "mn": "Төгсгөлийн «When I am laid in earth» ари буюу Дидонагийн гаслал нь Английн хөгжмийн хамгийн алдартай аринуудын нэг."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Rinaldo",
+              "mn": "«Ринальдо»"
+            },
+            "subtitle": {
+              "en": "Handel, 1711",
+              "mn": "Гендель, 1711"
+            },
+            "icon": "⚔️",
+            "wiki": "Rinaldo (opera)",
+            "facts": [
+              {
+                "en": "The crusader knight Rinaldo fights the sorceress Armida to rescue his beloved Almirena.",
+                "mn": "Загалмайтны баатар Ринальдо хайрт Альмиренагаа аврахын тулд илбэчин Армидатай тэмцэнэ."
+              },
+              {
+                "en": "It was the first Italian opera written for the London stage and contains the aria «Lascia ch'io pianga».",
+                "mn": "Лондоны тайзанд зориулж бичсэн анхны итали дуурь бөгөөд «Lascia ch'io pianga» ари үүнд бий."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Giulio Cesare",
+              "mn": "«Юлий Цезарь»"
+            },
+            "subtitle": {
+              "en": "Handel, 1724",
+              "mn": "Гендель, 1724"
+            },
+            "icon": "🏛️",
+            "wiki": "Giulio Cesare",
+            "facts": [
+              {
+                "en": "Julius Caesar arrives in Egypt and becomes entangled with Cleopatra and her brother Ptolemy.",
+                "mn": "Юлий Цезарь Египетэд ирээд Клеопатра болон түүний ах Птолемейтэй холбогдоно."
+              },
+              {
+                "en": "It premiered at the King's Theatre in London, with the role of Caesar written for a castrato.",
+                "mn": "Лондоны Хааны театрт нээлтээ хийсэн бөгөөд Цезарийн дүрийг кастрат дуучинд зориулж бичжээ."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Orfeo ed Euridice",
+              "mn": "«Орфей ба Эвридика»"
+            },
+            "subtitle": {
+              "en": "Gluck, 1762",
+              "mn": "Глюк, 1762"
+            },
+            "icon": "🪕",
+            "wiki": "Orfeo ed Euridice",
+            "facts": [
+              {
+                "en": "Orpheus wins back Eurydice from the underworld but loses her when he looks back at her.",
+                "mn": "Орфей Эвридикаг үхэгсдийн орноос буцааж авсан ч эргэж харснаараа түүнийг дахин алдана."
+              },
+              {
+                "en": "It launched Gluck's reform of opera and contains the lament «Che farò senza Euridice».",
+                "mn": "Глюкийн дуурийн шинэчлэлийг эхлүүлсэн бүтээл бөгөөд «Che farò senza Euridice» гаслал үүнд бий."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "The Marriage of Figaro",
+              "mn": "«Фигарогийн гэрлэлт»"
+            },
+            "subtitle": {
+              "en": "Mozart, 1786",
+              "mn": "Моцарт, 1786"
+            },
+            "icon": "💍",
+            "wiki": "The Marriage of Figaro",
+            "facts": [
+              {
+                "en": "On their wedding day, the servants Figaro and Susanna outwit the Count who is chasing Susanna.",
+                "mn": "Хуримынхаа өдөр зарц Фигаро, Сюзанна хоёр Сюзаннаг мөшгөж буй графыг заль мэхээр ялна."
+              },
+              {
+                "en": "Lorenzo Da Ponte wrote the libretto from Beaumarchais's play, and it premiered at Vienna's Burgtheater.",
+                "mn": "Либреттог Лоренцо да Понте Бомаршегийн жүжгээс бичсэн бөгөөд Венийн Бургтеатрт нээлтээ хийсэн."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Don Giovanni",
+              "mn": "«Дон Жуан»"
+            },
+            "subtitle": {
+              "en": "Mozart, 1787",
+              "mn": "Моцарт, 1787"
+            },
+            "icon": "🗡️",
+            "wiki": "Don Giovanni",
+            "facts": [
+              {
+                "en": "The unrepentant seducer Don Giovanni is dragged down to hell by the statue of a man he killed.",
+                "mn": "Гэмшдэггүй хүүхэнтэй Дон Жуаныг өөрийн алсан хүний хөшөө там руу чирж аваачна."
+              },
+              {
+                "en": "It premiered in Prague, and in the «Catalogue aria» the servant Leporello lists 2,065 of his master's conquests.",
+                "mn": "Прагад нээлтээ хийсэн бөгөөд «Каталогийн ари»-д зарц Лепорелло эзнийхээ 2065 амрагийг тоочдог."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Così fan tutte",
+              "mn": "«Бүх эмэгтэйчүүд ийм»"
+            },
+            "subtitle": {
+              "en": "Mozart, 1790",
+              "mn": "Моцарт, 1790"
+            },
+            "icon": "🎭",
+            "wiki": "Così fan tutte",
+            "facts": [
+              {
+                "en": "Two officers disguise themselves to test whether their fiancées will stay faithful.",
+                "mn": "Хоёр офицер сүйт бүсгүйчүүд нь үнэнч байх эсэхийг шалгахаар хувиран ирнэ."
+              },
+              {
+                "en": "It was the third and last opera Mozart wrote with the librettist Lorenzo Da Ponte.",
+                "mn": "Энэ бол Моцартын либреттист Лоренцо да Понтетай хамтран бичсэн гурав дахь буюу сүүлчийн дуурь."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "The Magic Flute",
+              "mn": "«Шидэт лимбэ»"
+            },
+            "subtitle": {
+              "en": "Mozart, 1791",
+              "mn": "Моцарт, 1791"
+            },
+            "icon": "🪈",
+            "wiki": "The Magic Flute",
+            "facts": [
+              {
+                "en": "Prince Tamino, armed with a magic flute, passes trials to win Pamina, daughter of the Queen of the Night.",
+                "mn": "Шидэт лимбэтэй ханхүү Тамино Шөнийн хатны охин Паминаг олж авахын тулд сорилтуудыг даван туулна."
+              },
+              {
+                "en": "Emanuel Schikaneder wrote the German libretto and sang the bird-catcher Papageno at the premiere in Vienna.",
+                "mn": "Германаар либретто бичсэн Эмануэль Шиканедер Вен дэх нээлтэд шувуучин Папагеногийн дүрд өөрөө дуулжээ."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Fidelio",
+              "mn": "«Фиделио»"
+            },
+            "subtitle": {
+              "en": "Beethoven, 1805",
+              "mn": "Бетховен, 1805"
+            },
+            "icon": "⛓️",
+            "wiki": "Fidelio",
+            "facts": [
+              {
+                "en": "Leonore disguises herself as a young man named Fidelio to free her husband from a political prison.",
+                "mn": "Леоноре эрээ улс төрийн шоронгоос суллахын тулд Фиделио хэмээх залуу эр болж хувирна."
+              },
+              {
+                "en": "It is Beethoven's only opera, and he revised it twice before its final version of 1814.",
+                "mn": "Энэ бол Бетховены цорын ганц дуурь бөгөөд 1814 оны эцсийн хувилбар хүртэл хоёр удаа засварлажээ."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "The Barber of Seville",
+              "mn": "«Севильийн үсчин»"
+            },
+            "subtitle": {
+              "en": "Rossini, 1816",
+              "mn": "Россини, 1816"
+            },
+            "icon": "✂️",
+            "wiki": "The Barber of Seville",
+            "facts": [
+              {
+                "en": "The barber Figaro helps Count Almaviva win Rosina from her jealous guardian Dr Bartolo.",
+                "mn": "Үсчин Фигаро граф Альмавивад Розинаг хардамтгай асран хамгаалагч доктор Бартологоос булааж авахад тусална."
+              },
+              {
+                "en": "Rossini reportedly wrote it in under three weeks, and Figaro's entrance aria is «Largo al factotum».",
+                "mn": "Россини үүнийг гурван долоо хоног хүрэхгүй хугацаанд бичсэн гэдэг бөгөөд Фигарогийн гарах ари нь «Largo al factotum»."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "La Cenerentola",
+              "mn": "«Үнсгэлжин»"
+            },
+            "subtitle": {
+              "en": "Rossini, 1817",
+              "mn": "Россини, 1817"
+            },
+            "icon": "👠",
+            "wiki": "La Cenerentola",
+            "facts": [
+              {
+                "en": "Rossini's Cinderella story replaces the fairy godmother with a wise tutor and the glass slipper with a bracelet.",
+                "mn": "Россинигийн Үнсгэлжинд шидэт загалмайлсан эхийн оронд мэргэн багш, шилэн шаахайны оронд бугуйвч гардаг."
+              },
+              {
+                "en": "It premiered in Rome, and the title role of Angelina is written for a coloratura contralto.",
+                "mn": "Ромд нээлтээ хийсэн бөгөөд гол дүр Анжелинаг колоратур контральтод зориулж бичсэн."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "William Tell",
+              "mn": "«Вильгельм Телль»"
+            },
+            "subtitle": {
+              "en": "Rossini, 1829",
+              "mn": "Россини, 1829"
+            },
+            "icon": "🏹",
+            "wiki": "William Tell (opera)",
+            "facts": [
+              {
+                "en": "The Swiss archer William Tell leads his people's rising against Austrian rule.",
+                "mn": "Швейцарийн харваач Вильгельм Телль ард түмнээ Австрийн ноёрхлын эсрэг босгоно."
+              },
+              {
+                "en": "It was Rossini's last opera, and the final gallop of its overture is one of the best-known pieces of classical music.",
+                "mn": "Энэ бол Россинигийн сүүлчийн дуурь бөгөөд увертюрийн төгсгөлийн давхиа нь сонгодог хөгжмийн хамгийн танил хэсгийн нэг."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Der Freischütz",
+              "mn": "«Ид шидэт буудагч»"
+            },
+            "subtitle": {
+              "en": "Weber, 1821",
+              "mn": "Вебер, 1821"
+            },
+            "icon": "🌲",
+            "wiki": "Der Freischütz",
+            "facts": [
+              {
+                "en": "A young huntsman makes a deal for magic bullets to win a shooting contest and the hand of his bride.",
+                "mn": "Залуу анчин буудлагын тэмцээнд түрүүлж сүйт бүсгүйгээ авахын тулд ид шидийн сумны төлөө тохиролцоо хийнэ."
+              },
+              {
+                "en": "Premiered in Berlin, it is the foundation of German Romantic opera, famous for its eerie Wolf's Glen scene.",
+                "mn": "Берлинд нээлтээ хийсэн энэ дуурь бол Германы романтик дуурийн үндэс бөгөөд аймшигт «Чонон хавцал»-ын үзэгдлээрээ алдартай."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Norma",
+              "mn": "«Норма»"
+            },
+            "subtitle": {
+              "en": "Bellini, 1831",
+              "mn": "Беллини, 1831"
+            },
+            "icon": "🌙",
+            "wiki": "Norma (opera)",
+            "facts": [
+              {
+                "en": "A druid priestess in Roman-occupied Gaul is betrayed by the Roman proconsul who fathered her children.",
+                "mn": "Ромчуудад эзлэгдсэн Галлийн друид санваартан эмэгтэйг хүүхдүүдийнх нь эцэг Ромын проконсул урвана."
+              },
+              {
+                "en": "It premiered at La Scala, and Norma's prayer to the moon «Casta diva» is a pinnacle of bel canto.",
+                "mn": "Ла Скалад нээлтээ хийсэн бөгөөд Нормагийн саранд хандсан «Casta diva» залбирал бол бел кантогийн оргил."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "La sonnambula",
+              "mn": "«Нойрондоо алхагч»"
+            },
+            "subtitle": {
+              "en": "Bellini, 1831",
+              "mn": "Беллини, 1831"
+            },
+            "icon": "🛏️",
+            "wiki": "La sonnambula",
+            "facts": [
+              {
+                "en": "The village girl Amina is accused of unfaithfulness after she is found asleep in a stranger's room.",
+                "mn": "Тосгоны охин Амина танихгүй хүний өрөөнд унтаж байхдаа олдсоноор урвасан хэмээн буруутгагдана."
+              },
+              {
+                "en": "The truth comes out when she is seen sleepwalking across a dangerous mill bridge.",
+                "mn": "Түүнийг тээрмийн аюултай гүүрээр нойрондоо алхаж явааг хараад үнэн илэрдэг."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "I puritani",
+              "mn": "«Пуританчууд»"
+            },
+            "subtitle": {
+              "en": "Bellini, 1835",
+              "mn": "Беллини, 1835"
+            },
+            "icon": "🏰",
+            "wiki": "I puritani",
+            "facts": [
+              {
+                "en": "During the English Civil War, Elvira loses her reason when she believes her Royalist fiancé has betrayed her.",
+                "mn": "Английн иргэний дайны үеэр Эльвира хааны талын сүйт залуугаа урвасан гэж бодоод ухаан алдарна."
+              },
+              {
+                "en": "It premiered in Paris and was Bellini's last opera; he died that same year aged 33.",
+                "mn": "Парист нээлтээ хийсэн Беллинигийн сүүлчийн дуурь бөгөөд тэрээр мөн тэр жилдээ 33 настайдаа нас барсан."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "L'elisir d'amore",
+              "mn": "«Хайрын ундаа»"
+            },
+            "subtitle": {
+              "en": "Donizetti, 1832",
+              "mn": "Доницетти, 1832"
+            },
+            "icon": "🧪",
+            "wiki": "L'elisir d'amore",
+            "facts": [
+              {
+                "en": "The shy peasant Nemorino buys a 'love potion' from a quack, which is really just cheap wine.",
+                "mn": "Ичимтгий тариачин Неморино хуурамч эмчээс «хайрын ундаа» худалдаж авах ч энэ нь зүгээр л хямд дарс байдаг."
+              },
+              {
+                "en": "Nemorino's aria «Una furtiva lagrima» is one of the most beloved tenor arias.",
+                "mn": "Немориногийн «Una furtiva lagrima» ари бол тенорын хамгийн хайртай аринуудын нэг."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Lucia di Lammermoor",
+              "mn": "«Лючия ди Ламмермур»"
+            },
+            "subtitle": {
+              "en": "Donizetti, 1835",
+              "mn": "Доницетти, 1835"
+            },
+            "icon": "🩸",
+            "wiki": "Lucia di Lammermoor",
+            "facts": [
+              {
+                "en": "Forced to marry a man she does not love, Lucia kills him on their wedding night and goes mad.",
+                "mn": "Хайргүй хүнтэйгээ гэрлэхээр албадуулсан Лючия хуримын шөнөө түүнийг алж, солиорно."
+              },
+              {
+                "en": "Based on Walter Scott's novel, it premiered in Naples and is famous for its soprano mad scene.",
+                "mn": "Уолтер Скоттын романаас сэдэвлэж Неапольд нээлтээ хийсэн бөгөөд сопраногийн солиорлын үзэгдлээрээ алдартай."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Don Pasquale",
+              "mn": "«Дон Паскуале»"
+            },
+            "subtitle": {
+              "en": "Donizetti, 1843",
+              "mn": "Доницетти, 1843"
+            },
+            "icon": "🧓",
+            "wiki": "Don Pasquale",
+            "facts": [
+              {
+                "en": "An old bachelor who plans to marry is tricked by a sham wedding to a young widow.",
+                "mn": "Эхнэр авахаар төлөвлөсөн хөгшин гонсгор залуу бэлэвсэн эхнэртэй хуурамч хурим хийж мэхлэгдэнэ."
+              },
+              {
+                "en": "It premiered in Paris and is one of the last great comic operas of the bel canto era.",
+                "mn": "Парист нээлтээ хийсэн бөгөөд бел кантогийн эриний сүүлчийн агуу инээдмийн дууриудын нэг."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Les Huguenots",
+              "mn": "«Гугенотууд»"
+            },
+            "subtitle": {
+              "en": "Meyerbeer, 1836",
+              "mn": "Мейербер, 1836"
+            },
+            "icon": "⛪",
+            "wiki": "Les Huguenots",
+            "facts": [
+              {
+                "en": "A Protestant nobleman and a Catholic lady fall in love on the eve of the St Bartholomew's Day massacre of 1572.",
+                "mn": "1572 оны Гэгээн Варфоломейн шөнийн хядлагын өмнөхөн протестант язгууртан, католик бүсгүй хоёр дурлана."
+              },
+              {
+                "en": "It premiered at the Paris Opéra and became the model of French grand opera in five acts.",
+                "mn": "Парисын Операд нээлтээ хийсэн бөгөөд таван бүлэгт Францын их дуурийн жишиг болсон."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Nabucco",
+              "mn": "«Набукко»"
+            },
+            "subtitle": {
+              "en": "Verdi, 1842",
+              "mn": "Верди, 1842"
+            },
+            "icon": "⛓️",
+            "wiki": "Nabucco",
+            "facts": [
+              {
+                "en": "The Babylonian king Nebuchadnezzar conquers Jerusalem and drives the Hebrews into exile.",
+                "mn": "Вавилоны хаан Навуходоносор Иерусалимыг эзлэн, еврейчүүдийг цөллөгт хөөнө."
+              },
+              {
+                "en": "Its premiere at La Scala made Verdi famous, and the chorus «Va, pensiero» became an anthem of Italian patriots.",
+                "mn": "Ла Скала дахь нээлт нь Вердиг алдаршуулж, «Va, pensiero» найрал дуу Италийн эх оронч хүмүүсийн сүлд дуу болсон."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Macbeth",
+              "mn": "«Макбет»"
+            },
+            "subtitle": {
+              "en": "Verdi, 1847",
+              "mn": "Верди, 1847"
+            },
+            "icon": "🗡️",
+            "wiki": "Macbeth (opera)",
+            "facts": [
+              {
+                "en": "Spurred on by witches' prophecies and his ruthless wife, Macbeth murders his way to the Scottish throne.",
+                "mn": "Шулмын зөгнөл, хэрцгий эхнэрийнхээ түлхэцээр Макбет хүн алсаар Шотландын хаан ширээнд гарна."
+              },
+              {
+                "en": "Premiered in Florence, it was Verdi's first opera based on Shakespeare.",
+                "mn": "Флоренцид нээлтээ хийсэн бөгөөд Шекспирээс сэдэвлэсэн Вердигийн анхны дуурь."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Rigoletto",
+              "mn": "«Риголетто»"
+            },
+            "subtitle": {
+              "en": "Verdi, 1851",
+              "mn": "Верди, 1851"
+            },
+            "icon": "🃏",
+            "wiki": "Rigoletto",
+            "facts": [
+              {
+                "en": "The hunchbacked court jester Rigoletto's revenge on the Duke of Mantua kills his own daughter Gilda.",
+                "mn": "Бөгтөр алиалагч Риголеттогийн Мантуягийн гүнээс авах өшөө өөрийнх нь охин Жильдаг хөнөөнө."
+              },
+              {
+                "en": "Based on Victor Hugo's play «Le roi s'amuse», it premiered at La Fenice and features «La donna è mobile».",
+                "mn": "Виктор Гюгогийн «Хаан зугаацна» жүжгээс сэдэвлэн Ла Фенисед тавигдсан бөгөөд «La donna è mobile» ари үүнд бий."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Il trovatore",
+              "mn": "«Трубадур»"
+            },
+            "subtitle": {
+              "en": "Verdi, 1853",
+              "mn": "Верди, 1853"
+            },
+            "icon": "🔨",
+            "wiki": "Il trovatore",
+            "facts": [
+              {
+                "en": "The troubadour Manrico and Count di Luna love the same woman, not knowing they are brothers.",
+                "mn": "Трубадур Манрико, граф ди Луна хоёр ах дүүс гэдгээ мэдэлгүй нэг бүсгүйд дурлана."
+              },
+              {
+                "en": "It premiered in Rome, and its «Anvil Chorus» is sung by gypsies striking anvils.",
+                "mn": "Ромд нээлтээ хийсэн бөгөөд «Дөшний найрал дуу»-г цыганууд дөш цохиж дуулдаг."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "La traviata",
+              "mn": "«Травиата»"
+            },
+            "subtitle": {
+              "en": "Verdi, 1853",
+              "mn": "Верди, 1853"
+            },
+            "icon": "🍾",
+            "wiki": "La traviata",
+            "facts": [
+              {
+                "en": "The Parisian courtesan Violetta gives up her love Alfredo at his father's request and dies of tuberculosis.",
+                "mn": "Парисын язгууртан хүүхэн Виолетта хайрт Альфредогийнхоо эцгийн хүсэлтээр түүнээс татгалзаж, сүрьеэгээр нас барна."
+              },
+              {
+                "en": "Based on Dumas fils's «La Dame aux camélias», it opens with the drinking song «Libiamo ne' lieti calici».",
+                "mn": "Бага Дюмагийн «Камелитай хатагтай»-гаас сэдэвлэсэн бөгөөд «Libiamo ne' lieti calici» хундагын дуугаар эхэлдэг."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Un ballo in maschera",
+              "mn": "«Багт наадам»"
+            },
+            "subtitle": {
+              "en": "Verdi, 1859",
+              "mn": "Верди, 1859"
+            },
+            "icon": "🎭",
+            "wiki": "Un ballo in maschera",
+            "facts": [
+              {
+                "en": "A ruler in love with his best friend's wife is assassinated at a masked ball.",
+                "mn": "Хамгийн дотно найзынхаа эхнэрт дурласан захирагч багт наадмын үеэр алагдана."
+              },
+              {
+                "en": "The plot was based on the real assassination of King Gustav III of Sweden in 1792.",
+                "mn": "Үйл явдал нь 1792 онд Шведийн хаан III Густавыг бодитоор хөнөөсөн явдлаас сэдэвлэсэн."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "La forza del destino",
+              "mn": "«Хувь тавилангийн хүч»"
+            },
+            "subtitle": {
+              "en": "Verdi, 1862",
+              "mn": "Верди, 1862"
+            },
+            "icon": "🎲",
+            "wiki": "La forza del destino",
+            "facts": [
+              {
+                "en": "After accidentally killing his beloved's father, Don Alvaro is pursued for years by her vengeful brother.",
+                "mn": "Хайртынхаа эцгийг санамсаргүй хөнөөсөн Дон Альваро өшөө авахаар хөөцөлдсөн түүний ахын мөрдлөгт олон жил өртөнө."
+              },
+              {
+                "en": "It was commissioned by and premiered at the Imperial Theatre in Saint Petersburg.",
+                "mn": "Санкт-Петербургийн эзэн хааны театрын захиалгаар бичигдэж, тэнд нээлтээ хийсэн."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Don Carlos",
+              "mn": "«Дон Карлос»"
+            },
+            "subtitle": {
+              "en": "Verdi, 1867",
+              "mn": "Верди, 1867"
+            },
+            "icon": "✝️",
+            "wiki": "Don Carlos",
+            "facts": [
+              {
+                "en": "The Spanish prince Carlos loves Elisabeth, who is forced to marry his father King Philip II.",
+                "mn": "Испанийн ханхүү Карлос өөрийнх нь эцэг II Филипп хаантай гэрлэхээр албадуулсан Элизабетэд хайртай."
+              },
+              {
+                "en": "Based on Schiller's play, it was written in French for the Paris Opéra and is Verdi's longest opera.",
+                "mn": "Шиллерийн жүжгээс сэдэвлэн Парисын Операд зориулж франц хэлээр бичсэн бөгөөд Вердигийн хамгийн урт дуурь."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Aida",
+              "mn": "«Аида»"
+            },
+            "subtitle": {
+              "en": "Verdi, 1871",
+              "mn": "Верди, 1871"
+            },
+            "icon": "🐘",
+            "wiki": "Aida",
+            "facts": [
+              {
+                "en": "Aida, an enslaved Ethiopian princess, loves the Egyptian general Radamès, who leads the war against her people.",
+                "mn": "Боолд унасан Этиопын гүнж Аида өөрийнх нь ард түмний эсрэг дайнд удирдагч Египетийн жанжин Радамест хайртай."
+              },
+              {
+                "en": "It premiered at the Khedivial Opera House in Cairo, and its Triumphal March is often staged with live animals.",
+                "mn": "Каирын Хедивийн дуурийн театрт нээлтээ хийсэн бөгөөд Ялалтын маршийг ихэвчлэн амьд амьтадтай тавьдаг."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Otello",
+              "mn": "«Отелло»"
+            },
+            "subtitle": {
+              "en": "Verdi, 1887",
+              "mn": "Верди, 1887"
+            },
+            "icon": "🧣",
+            "wiki": "Otello",
+            "facts": [
+              {
+                "en": "The scheming Iago drives the Moorish general Otello to murder his innocent wife Desdemona out of jealousy.",
+                "mn": "Заль мэхт Яго мавр жанжин Отеллог атаархуулж гэмгүй эхнэр Дездемонаг нь хөнөөлгөнө."
+              },
+              {
+                "en": "Arrigo Boito adapted Shakespeare for the libretto, and it premiered at La Scala 16 years after Aida.",
+                "mn": "Арриго Бойто Шекспирийг либретто болгон буулгаж, «Аида»-гаас 16 жилийн дараа Ла Скалад нээлтээ хийсэн."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Falstaff",
+              "mn": "«Фальстаф»"
+            },
+            "subtitle": {
+              "en": "Verdi, 1893",
+              "mn": "Верди, 1893"
+            },
+            "icon": "🍺",
+            "wiki": "Falstaff (opera)",
+            "facts": [
+              {
+                "en": "The fat knight Sir John Falstaff woos two married women at once and is humiliated by them.",
+                "mn": "Бүдүүн баатар сэр Жон Фальстаф хоёр гэрлэсэн эмэгтэйг зэрэг сээтэгнэж, тэдэнд гутаагдана."
+              },
+              {
+                "en": "Verdi wrote this, his last opera and only his second comedy, at the age of 79.",
+                "mn": "Верди сүүлчийн дуурь бөгөөд ердөө хоёр дахь инээдмийн бүтээлээ 79 настайдаа бичжээ."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "The Flying Dutchman",
+              "mn": "«Нисдэг голланд»"
+            },
+            "subtitle": {
+              "en": "Wagner, 1843",
+              "mn": "Вагнер, 1843"
+            },
+            "icon": "⛵",
+            "wiki": "The Flying Dutchman (opera)",
+            "facts": [
+              {
+                "en": "A ghostly sea captain, cursed to sail forever, can be saved only by the love of a faithful woman.",
+                "mn": "Мөнхөд далайд тэнүүчлэх хараал хүлээсэн сүнс ахмадыг зөвхөн үнэнч бүсгүйн хайр аварч чадна."
+              },
+              {
+                "en": "It premiered in Dresden and is the earliest Wagner opera performed at the Bayreuth Festival.",
+                "mn": "Дрезденд нээлтээ хийсэн бөгөөд Байройтын наадамд тоглогддог Вагнерын хамгийн эртний дуурь."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Tannhäuser",
+              "mn": "«Тангейзер»"
+            },
+            "subtitle": {
+              "en": "Wagner, 1845",
+              "mn": "Вагнер, 1845"
+            },
+            "icon": "🎻",
+            "wiki": "Tannhäuser (opera)",
+            "facts": [
+              {
+                "en": "The minstrel knight Tannhäuser is torn between the pleasures of the goddess Venus and the pure love of Elisabeth.",
+                "mn": "Дуучин баатар Тангейзер Венера дарь эхийн жаргал, Элизабетийн ариун хайр хоёрын хооронд эргэлзэнэ."
+              },
+              {
+                "en": "Its «Pilgrims' Chorus» is famous, and its 1861 Paris production caused a notorious scandal.",
+                "mn": "«Мөргөлчдийн найрал дуу» нь алдартай бөгөөд 1861 оны Парисын тавилт нь шуугиан тарьсан."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Lohengrin",
+              "mn": "«Лоэнгрин»"
+            },
+            "subtitle": {
+              "en": "Wagner, 1850",
+              "mn": "Вагнер, 1850"
+            },
+            "icon": "🦢",
+            "wiki": "Lohengrin (opera)",
+            "facts": [
+              {
+                "en": "A mysterious knight arrives in a boat drawn by a swan to defend Elsa, but she must never ask his name.",
+                "mn": "Хунгаар чирүүлсэн завиар ирсэн нууцлаг баатар Эльзаг хамгаалах ч бүсгүй түүний нэрийг хэзээ ч асууж болохгүй."
+              },
+              {
+                "en": "Franz Liszt conducted the premiere in Weimar, and its Bridal Chorus is the wedding march «Here Comes the Bride».",
+                "mn": "Веймар дахь нээлтийг Ференц Лист удирдсан бөгөөд «Сүйт бүсгүйн найрал дуу» нь алдарт хуримын марш юм."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Tristan und Isolde",
+              "mn": "«Тристан ба Изольда»"
+            },
+            "subtitle": {
+              "en": "Wagner, 1865",
+              "mn": "Вагнер, 1865"
+            },
+            "icon": "🍷",
+            "wiki": "Tristan und Isolde",
+            "facts": [
+              {
+                "en": "A love potion binds the knight Tristan and the Irish princess Isolde, who is promised to his king.",
+                "mn": "Хайрын ундаа баатар Тристаныг өөрийнх нь хаанд сүй тавьсан Ирландын гүнж Изольдатай холбоно."
+              },
+              {
+                "en": "Its opening 'Tristan chord' is often called the starting point of modern harmony; it premiered in Munich.",
+                "mn": "Эхлэлийн «Тристаны аккорд»-ыг орчин үеийн гармонийн эхлэл гэж нэрлэдэг; Мюнхенд нээлтээ хийсэн."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Die Meistersinger von Nürnberg",
+              "mn": "«Нюрнбергийн мейстерзингерүүд»"
+            },
+            "subtitle": {
+              "en": "Wagner, 1868",
+              "mn": "Вагнер, 1868"
+            },
+            "icon": "🎶",
+            "wiki": "Die Meistersinger von Nürnberg",
+            "facts": [
+              {
+                "en": "The young knight Walther must win a song contest of the city's mastersingers to marry Eva.",
+                "mn": "Залуу баатар Вальтер Эватай гэрлэхийн тулд хотын мастер дуучдын тэмцээнд түрүүлэх ёстой."
+              },
+              {
+                "en": "It is Wagner's only mature comedy and lasts about four and a half hours.",
+                "mn": "Энэ бол Вагнерын төлөвшсөн үеийн цорын ганц инээдмийн дуурь бөгөөд дөрөв хагас цаг орчим үргэлжилдэг."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Die Walküre",
+              "mn": "«Валькири»"
+            },
+            "subtitle": {
+              "en": "Wagner, 1870",
+              "mn": "Вагнер, 1870"
+            },
+            "icon": "🐎",
+            "wiki": "Die Walküre",
+            "facts": [
+              {
+                "en": "The Valkyrie Brünnhilde defies her father Wotan to protect the hero Siegmund and is put to sleep in a ring of fire.",
+                "mn": "Валькири Брюнхильда баатар Зигмундыг хамгаалахаар эцэг Вотаныхоо эсрэг очиж, галын цагираг дотор унтуулагдана."
+              },
+              {
+                "en": "It is the second opera of the Ring cycle and opens Act III with the «Ride of the Valkyries».",
+                "mn": "Энэ бол «Бөгж» циклийн хоёр дахь дуурь бөгөөд III бүлэг нь «Валькириудын давхилт»-аар эхэлдэг."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Der Ring des Nibelungen",
+              "mn": "«Нибелунгийн бөгж»"
+            },
+            "subtitle": {
+              "en": "Wagner, 1876",
+              "mn": "Вагнер, 1876"
+            },
+            "icon": "💍",
+            "wiki": "Der Ring des Nibelungen",
+            "facts": [
+              {
+                "en": "A cycle of four operas about a magic ring that gives power over the world and brings ruin to gods and men.",
+                "mn": "Дэлхийг захирах хүч өгдөг ч бурхад, хүмүүсийг сүйрүүлдэг шидэт бөгжийн тухай дөрвөн дуурийн цикл."
+              },
+              {
+                "en": "The complete cycle was first performed at the newly built Bayreuth Festspielhaus in August 1876.",
+                "mn": "Бүтэн циклийг 1876 оны 8-р сард шинээр баригдсан Байройтын наадмын театрт анх тоглосон."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Parsifal",
+              "mn": "«Парсифаль»"
+            },
+            "subtitle": {
+              "en": "Wagner, 1882",
+              "mn": "Вагнер, 1882"
+            },
+            "icon": "🏆",
+            "wiki": "Parsifal",
+            "facts": [
+              {
+                "en": "The 'pure fool' Parsifal learns compassion and heals the wounded king of the knights of the Holy Grail.",
+                "mn": "«Ариун тэнэг» Парсифаль энэрэнгүй сэтгэлд суралцаж, Ариун Граалийн баатруудын шархадсан хааныг эдгээнэ."
+              },
+              {
+                "en": "Wagner's last opera was written for the Bayreuth theatre and was staged only there until 1903.",
+                "mn": "Вагнерын сүүлчийн дуурийг Байройтын театрт зориулж бичсэн бөгөөд 1903 он хүртэл зөвхөн тэнд тавигдаж байв."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Faust",
+              "mn": "«Фауст»"
+            },
+            "subtitle": {
+              "en": "Gounod, 1859",
+              "mn": "Гуно, 1859"
+            },
+            "icon": "😈",
+            "wiki": "Faust (opera)",
+            "facts": [
+              {
+                "en": "The aged scholar Faust sells his soul to Méphistophélès in return for youth and the love of Marguerite.",
+                "mn": "Хөгшин эрдэмтэн Фауст залуу нас, Маргаритын хайрын төлөө сэтгэлээ Мефистофельд худалдана."
+              },
+              {
+                "en": "Based on Goethe, it contains Marguerite's «Jewel Song» and the rousing «Soldiers' Chorus».",
+                "mn": "Гётегоос сэдэвлэсэн бөгөөд Маргаритын «Эрдэнийн ари», хөөрөнгө «Цэргүүдийн найрал дуу» үүнд бий."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Roméo et Juliette",
+              "mn": "«Ромео ба Жульетта»"
+            },
+            "subtitle": {
+              "en": "Gounod, 1867",
+              "mn": "Гуно, 1867"
+            },
+            "icon": "🌹",
+            "wiki": "Roméo et Juliette",
+            "facts": [
+              {
+                "en": "Shakespeare's young lovers from feuding Verona families meet, marry in secret and die together.",
+                "mn": "Веронагийн дайсагнасан гэр бүлийн Шекспирийн залуу хосууд учирч, нууцаар гэрлээд хамтдаа үхнэ."
+              },
+              {
+                "en": "Juliette's waltz song «Je veux vivre» is a favourite showpiece for lyric sopranos.",
+                "mn": "Жульеттагийн «Je veux vivre» вальс дуу бол уянгын сопраногийн хамгийн дуртай ари."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "The Pearl Fishers",
+              "mn": "«Сувд шумбагчид»"
+            },
+            "subtitle": {
+              "en": "Bizet, 1863",
+              "mn": "Бизе, 1863"
+            },
+            "icon": "🦪",
+            "wiki": "Les pêcheurs de perles",
+            "facts": [
+              {
+                "en": "Two pearl fishers in ancient Ceylon swear friendship but fall in love with the same priestess.",
+                "mn": "Эртний Цейлоны хоёр сувд шумбагч найзын тангараг өргөсөн ч нэг санваартан бүсгүйд дурлана."
+              },
+              {
+                "en": "Bizet wrote it at 24, and its tenor–baritone duet «Au fond du temple saint» is world famous.",
+                "mn": "Бизе үүнийг 24 настайдаа бичсэн бөгөөд тенор, баритоны «Au fond du temple saint» дуэт дэлхийд алдартай."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Carmen",
+              "mn": "«Кармен»"
+            },
+            "subtitle": {
+              "en": "Bizet, 1875",
+              "mn": "Бизе, 1875"
+            },
+            "icon": "🌺",
+            "wiki": "Carmen",
+            "facts": [
+              {
+                "en": "The soldier Don José abandons everything for the free-spirited gypsy Carmen and kills her when she leaves him for a bullfighter.",
+                "mn": "Цэрэг Дон Хозе эрх чөлөөт цыган бүсгүй Карменийн төлөө бүхнээ орхиж, түүнийг бухын тулаанчаар солиход нь хөнөөнө."
+              },
+              {
+                "en": "Based on Mérimée's novella, it premiered at the Opéra-Comique in Paris and includes the «Habanera» and «Toreador Song».",
+                "mn": "Меримегийн туужаас сэдэвлэн Парисын Опера-Комикт нээлтээ хийсэн бөгөөд «Хабанера», «Тореадорын дуу» үүнд бий."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Orpheus in the Underworld",
+              "mn": "«Там дахь Орфей»"
+            },
+            "subtitle": {
+              "en": "Offenbach, 1858",
+              "mn": "Оффенбах, 1858"
+            },
+            "icon": "💃",
+            "wiki": "Orpheus in the Underworld",
+            "facts": [
+              {
+                "en": "A comic operetta in which Orpheus is glad to be rid of his wife, and the gods of Olympus are mocked.",
+                "mn": "Орфей эхнэрээсээ салсандаа баярлаж, Олимпийн бурхдыг тохуурхсан инээдмийн оперетта."
+              },
+              {
+                "en": "Its «Infernal Galop» became the music of the can-can dance.",
+                "mn": "Түүний «Тамын галоп» канкан бүжгийн хөгжим болсон."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "The Tales of Hoffmann",
+              "mn": "«Гофманы үлгэрүүд»"
+            },
+            "subtitle": {
+              "en": "Offenbach, 1881",
+              "mn": "Оффенбах, 1881"
+            },
+            "icon": "🛶",
+            "wiki": "The Tales of Hoffmann",
+            "facts": [
+              {
+                "en": "The poet Hoffmann tells the stories of his three lost loves: a mechanical doll, a singer and a courtesan.",
+                "mn": "Яруу найрагч Гофман механик хүүхэлдэй, дуучин, язгууртан хүүхэн гэсэн алдсан гурван хайрынхаа тухай ярина."
+              },
+              {
+                "en": "Offenbach died in 1880 before its premiere, and its «Barcarolle» is set in Venice.",
+                "mn": "Оффенбах нээлтээс өмнө 1880 онд нас барсан бөгөөд түүний «Баркарола» Венецид өрнөдөг."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Samson and Delilah",
+              "mn": "«Самсон ба Далила»"
+            },
+            "subtitle": {
+              "en": "Saint-Saëns, 1877",
+              "mn": "Сен-Санс, 1877"
+            },
+            "icon": "💇",
+            "wiki": "Samson and Delilah (opera)",
+            "facts": [
+              {
+                "en": "The Philistine Delilah seduces the Hebrew hero Samson and discovers that his strength lies in his hair.",
+                "mn": "Филист бүсгүй Далила еврей баатар Самсоныг уруу татаж, хүч чадал нь үсэнд нь байдгийг олж мэднэ."
+              },
+              {
+                "en": "Liszt arranged its premiere in Weimar, and Delilah's aria «Mon cœur s'ouvre à ta voix» is a mezzo favourite.",
+                "mn": "Нээлтийг нь Лист Веймарт зохион байгуулсан бөгөөд Далилагийн «Mon cœur s'ouvre à ta voix» ари меццо-сопраногийн дуртай бүтээл."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Lakmé",
+              "mn": "«Лакме»"
+            },
+            "subtitle": {
+              "en": "Delibes, 1883",
+              "mn": "Делиб, 1883"
+            },
+            "icon": "🌸",
+            "wiki": "Lakmé",
+            "facts": [
+              {
+                "en": "In British-ruled India, Lakmé, daughter of a Brahmin priest, falls in love with a British officer.",
+                "mn": "Британийн ноёрхолтой Энэтхэгт брахман санваартны охин Лакме Британийн офицерт дурлана."
+              },
+              {
+                "en": "It contains the «Flower Duet», often used in films and advertisements, and the dazzling «Bell Song».",
+                "mn": "Кино, сурталчилгаанд олонтаа ашиглагддаг «Цэцгийн дуэт», гялалзсан «Хонхны ари» үүнд бий."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Manon",
+              "mn": "«Манон»"
+            },
+            "subtitle": {
+              "en": "Massenet, 1884",
+              "mn": "Массне, 1884"
+            },
+            "icon": "💎",
+            "wiki": "Manon",
+            "facts": [
+              {
+                "en": "The young Manon Lescaut chooses wealth over her lover Des Grieux and dies in poverty in his arms.",
+                "mn": "Залуу Манон Леско амраг Де Грие-гээс илүү баялгийг сонгож, эцэст нь ядуу зүдүү түүний гарт нас барна."
+              },
+              {
+                "en": "It premiered at the Opéra-Comique and became one of the most performed French operas.",
+                "mn": "Опера-Комикт нээлтээ хийж, Францын хамгийн их тоглогддог дууриудын нэг болсон."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Werther",
+              "mn": "«Вертер»"
+            },
+            "subtitle": {
+              "en": "Massenet, 1892",
+              "mn": "Массне, 1892"
+            },
+            "icon": "✉️",
+            "wiki": "Werther",
+            "facts": [
+              {
+                "en": "The poet Werther loves Charlotte, who has promised to marry another man, and he takes his own life.",
+                "mn": "Яруу найрагч Вертер өөр хүнтэй гэрлэхээр амласан Шарлоттод хайртай бөгөөд эцэст нь амиа хорлоно."
+              },
+              {
+                "en": "Based on Goethe's novel, it premiered in German at the Vienna Court Opera.",
+                "mn": "Гётегийн романаас сэдэвлэсэн бөгөөд Венийн ордны дуурийн театрт герман хэлээр нээлтээ хийсэн."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Thaïs",
+              "mn": "«Таис»"
+            },
+            "subtitle": {
+              "en": "Massenet, 1894",
+              "mn": "Массне, 1894"
+            },
+            "icon": "🎻",
+            "wiki": "Thaïs",
+            "facts": [
+              {
+                "en": "A monk converts the courtesan Thaïs of Alexandria to Christianity, then realises he desires her himself.",
+                "mn": "Лам Александрын язгууртан хүүхэн Таисыг Христийн шашинд оруулж, дараа нь өөрөө түүнийг хүсэж байснаа ойлгоно."
+              },
+              {
+                "en": "Its violin «Méditation» is one of the most popular pieces in the violin repertoire.",
+                "mn": "Түүний хийлийн «Бясалгал» нь хийлийн репертуарын хамгийн алдартай бүтээлийн нэг."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Pelléas et Mélisande",
+              "mn": "«Пеллеас ба Мелизанда»"
+            },
+            "subtitle": {
+              "en": "Debussy, 1902",
+              "mn": "Дебюсси, 1902"
+            },
+            "icon": "🌊",
+            "wiki": "Pelléas et Mélisande (opera)",
+            "facts": [
+              {
+                "en": "The mysterious Mélisande marries Golaud but falls in love with his half-brother Pelléas.",
+                "mn": "Нууцлаг Мелизанда Голотой гэрлэсэн ч түүний төрсөн дүү Пеллеаст дурлана."
+              },
+              {
+                "en": "It is Debussy's only completed opera, set almost word for word to Maeterlinck's play.",
+                "mn": "Энэ бол Дебюссигийн дуусгасан цорын ганц дуурь бөгөөд Метерлинкийн жүжгийг бараг үг үсгээр нь хөгжимджүүлсэн."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Cavalleria rusticana",
+              "mn": "«Хөдөөний эр зориг»"
+            },
+            "subtitle": {
+              "en": "Mascagni, 1890",
+              "mn": "Масканьи, 1890"
+            },
+            "icon": "🍇",
+            "wiki": "Cavalleria rusticana",
+            "facts": [
+              {
+                "en": "On Easter Day in a Sicilian village, a jilted woman's jealousy leads to a fatal knife duel.",
+                "mn": "Сицилийн нэгэн тосгонд Улаан өндөгний баярын өдөр орхигдсон бүсгүйн атаархал үхлийн хутганы тулаанд хүргэнэ."
+              },
+              {
+                "en": "This one-act opera won a publisher's competition, launched verismo and is famous for its Intermezzo.",
+                "mn": "Энэ нэг бүлэгт дуурь хэвлэлийн газрын уралдаанд түрүүлж, веризмыг эхлүүлсэн бөгөөд интермеццогоороо алдартай."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Pagliacci",
+              "mn": "«Алиалагчид»"
+            },
+            "subtitle": {
+              "en": "Leoncavallo, 1892",
+              "mn": "Леонкавалло, 1892"
+            },
+            "icon": "🤡",
+            "wiki": "Pagliacci",
+            "facts": [
+              {
+                "en": "The clown Canio discovers his wife's infidelity and kills her on stage in the middle of a comedy.",
+                "mn": "Алиалагч Канио эхнэрийнхээ урвалтыг мэдээд инээдмийн тоглолтын дундуур тайзан дээр түүнийг хөнөөнө."
+              },
+              {
+                "en": "Toscanini conducted the premiere in Milan, and Canio's «Vesti la giubba» is a tenor showpiece.",
+                "mn": "Миланы нээлтийг Тосканини удирдсан бөгөөд Каниогийн «Vesti la giubba» бол тенорын алдарт ари."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Andrea Chénier",
+              "mn": "«Андре Шенье»"
+            },
+            "subtitle": {
+              "en": "Giordano, 1896",
+              "mn": "Жордано, 1896"
+            },
+            "icon": "🇫🇷",
+            "wiki": "Andrea Chénier",
+            "facts": [
+              {
+                "en": "The poet André Chénier is condemned during the French Revolution, and his beloved Maddalena joins him at the guillotine.",
+                "mn": "Яруу найрагч Андре Шенье Францын хувьсгалын үеэр цаазаар авах ял сонсоход хайрт Маддалена нь түүнтэй хамт гильотин руу явна."
+              },
+              {
+                "en": "It premiered at La Scala, and Maddalena's aria «La mamma morta» is one of its highlights.",
+                "mn": "Ла Скалад нээлтээ хийсэн бөгөөд Маддаленагийн «La mamma morta» ари нь оргил хэсгийн нэг."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "La Gioconda",
+              "mn": "«Жоконда»"
+            },
+            "subtitle": {
+              "en": "Ponchielli, 1876",
+              "mn": "Понкьелли, 1876"
+            },
+            "icon": "⏰",
+            "wiki": "La Gioconda",
+            "facts": [
+              {
+                "en": "In 17th-century Venice, the street singer Gioconda sacrifices herself for the man she loves.",
+                "mn": "XVII зууны Венецид гудамжны дуучин Жоконда хайртай хүнийхээ төлөө өөрийгөө золиосолно."
+              },
+              {
+                "en": "It premiered at La Scala and contains the ballet «Dance of the Hours».",
+                "mn": "Ла Скалад нээлтээ хийсэн бөгөөд «Цагуудын бүжиг» балет үүнд бий."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Manon Lescaut",
+              "mn": "«Манон Леско»"
+            },
+            "subtitle": {
+              "en": "Puccini, 1893",
+              "mn": "Пуччини, 1893"
+            },
+            "icon": "🏜️",
+            "wiki": "Manon Lescaut (Puccini)",
+            "facts": [
+              {
+                "en": "Puccini's version of the Manon story ends with the heroine dying of thirst in the wilds near New Orleans.",
+                "mn": "Пуччинигийн хувилбарт Манон Шинэ Орлеаны ойролцоох эзгүй хээр цангаж үхдэг."
+              },
+              {
+                "en": "Its premiere in Turin was Puccini's first great success.",
+                "mn": "Турин дахь нээлт нь Пуччинигийн анхны том амжилт болсон."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "La bohème",
+              "mn": "«Богема»"
+            },
+            "subtitle": {
+              "en": "Puccini, 1896",
+              "mn": "Пуччини, 1896"
+            },
+            "icon": "🕯️",
+            "wiki": "La bohème",
+            "facts": [
+              {
+                "en": "The poor poet Rodolfo falls in love with the seamstress Mimì in a Paris garret, but she dies of consumption.",
+                "mn": "Ядуу яруу найрагч Родольфо Парисын дээврийн өрөөнд оёдолчин Мимид дурлах ч бүсгүй сүрьеэгээр нас барна."
+              },
+              {
+                "en": "Toscanini conducted the premiere in Turin, and its story inspired the musical «Rent».",
+                "mn": "Турин дахь нээлтийг Тосканини удирдсан бөгөөд үйл явдал нь «Rent» мюзиклийг төрүүлсэн."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Tosca",
+              "mn": "«Тоска»"
+            },
+            "subtitle": {
+              "en": "Puccini, 1900",
+              "mn": "Пуччини, 1900"
+            },
+            "icon": "🔪",
+            "wiki": "Tosca",
+            "facts": [
+              {
+                "en": "The singer Floria Tosca stabs the police chief Scarpia to save her lover, then leaps from Castel Sant'Angelo.",
+                "mn": "Дуучин Флория Тоска амрагаа аврахын тулд цагдаагийн дарга Скарпиаг хутгалаад Сант-Анжело цайзаас үсэрнэ."
+              },
+              {
+                "en": "It premiered in Rome, where all three acts are set, and contains «Vissi d'arte» and «E lucevan le stelle».",
+                "mn": "Гурван бүлэг нь бүгд өрнөдөг Ром хотод нээлтээ хийсэн бөгөөд «Vissi d'arte», «E lucevan le stelle» ари үүнд бий."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Madama Butterfly",
+              "mn": "«Мадам Баттерфляй» («Чио-Чио-Сан»)"
+            },
+            "subtitle": {
+              "en": "Puccini, 1904",
+              "mn": "Пуччини, 1904"
+            },
+            "icon": "🦋",
+            "wiki": "Madama Butterfly",
+            "facts": [
+              {
+                "en": "The young Japanese geisha Cio-Cio-San marries the American officer Pinkerton, who abandons her.",
+                "mn": "Япон залуу гейша Чио-Чио-Сан Америкийн офицер Пинкертонтой гэрлэх ч тэр түүнийг орхино."
+              },
+              {
+                "en": "Its premiere at La Scala was a fiasco; a revised version succeeded in Brescia three months later.",
+                "mn": "Ла Скала дахь нээлт нь бүтэлгүйтсэн ч гурван сарын дараа Брешад засварласан хувилбар нь амжилт олсон."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "La fanciulla del West",
+              "mn": "«Баруунаас ирсэн бүсгүй»"
+            },
+            "subtitle": {
+              "en": "Puccini, 1910",
+              "mn": "Пуччини, 1910"
+            },
+            "icon": "🤠",
+            "wiki": "La fanciulla del West",
+            "facts": [
+              {
+                "en": "In a California gold-rush camp, saloon owner Minnie wins her outlaw lover's life in a game of poker.",
+                "mn": "Калифорнийн алтны уурхайн хуаранд баарны эзэн Минни дээрэмчин амрагийнхаа амийг покероор хожиж авна."
+              },
+              {
+                "en": "It premiered at the Metropolitan Opera with Enrico Caruso, conducted by Toscanini.",
+                "mn": "Метрополитен-операд Энрико Карузогийн оролцоотой, Тосканинигийн удирдлагаар нээлтээ хийсэн."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Gianni Schicchi",
+              "mn": "«Жанни Скикки»"
+            },
+            "subtitle": {
+              "en": "Puccini, 1918",
+              "mn": "Пуччини, 1918"
+            },
+            "icon": "📜",
+            "wiki": "Gianni Schicchi",
+            "facts": [
+              {
+                "en": "A cunning Florentine impersonates a dead man to rewrite his will and leaves the best part to himself.",
+                "mn": "Флоренцийн заль мэхт эр нас барсан хүний дүрд хувиран гэрээслэлийг шинээр бичиж, хамгийн сайн хэсгийг өөртөө үлдээнэ."
+              },
+              {
+                "en": "This one-act comedy premiered at the Met as part of Il trittico and contains «O mio babbino caro».",
+                "mn": "Энэ нэг бүлэгт инээдмийг «Гурвал»-ын нэг хэсэг болгон Метд тавьсан бөгөөд «O mio babbino caro» ари үүнд бий."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Turandot",
+              "mn": "«Турандот»"
+            },
+            "subtitle": {
+              "en": "Puccini, 1926",
+              "mn": "Пуччини, 1926"
+            },
+            "icon": "🐉",
+            "wiki": "Turandot",
+            "facts": [
+              {
+                "en": "In legendary Peking, the icy princess Turandot executes every suitor who fails to answer her three riddles.",
+                "mn": "Домогт Бээжинд хүйтэн гүнж Турандот гурван оньсогыг нь тайлж чадаагүй гуйгч бүрийг цаазална."
+              },
+              {
+                "en": "Puccini left it unfinished; Franco Alfano completed it, and it contains «Nessun dorma».",
+                "mn": "Пуччини дуусгаж амжаагүй тул Франко Альфано гүйцээсэн бөгөөд «Nessun dorma» ари үүнд бий."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "A Life for the Tsar",
+              "mn": "«Хааны төлөө амь»"
+            },
+            "subtitle": {
+              "en": "Glinka, 1836",
+              "mn": "Глинка, 1836"
+            },
+            "icon": "❄️",
+            "wiki": "A Life for the Tsar",
+            "facts": [
+              {
+                "en": "The peasant Ivan Susanin leads invading Polish troops astray in the forest to save the young tsar, at the cost of his life.",
+                "mn": "Тариачин Иван Сусанин залуу хааныг аврахын тулд түрэмгий Польшийн цэргийг ойд төөрүүлж, амиа өгнө."
+              },
+              {
+                "en": "It is regarded as the first great Russian opera.",
+                "mn": "Үүнийг Оросын анхны агуу дуурь гэж үздэг."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Eugene Onegin",
+              "mn": "«Евгений Онегин»"
+            },
+            "subtitle": {
+              "en": "Tchaikovsky, 1879",
+              "mn": "Чайковский, 1879"
+            },
+            "icon": "✒️",
+            "wiki": "Eugene Onegin (opera)",
+            "facts": [
+              {
+                "en": "The bored dandy Onegin rejects the young Tatyana's love letter, then falls for her years later when she is married.",
+                "mn": "Уйдсан гоёмсог эр Онегин залуу Татьянагийн хайрын захидлыг няцааж, олон жилийн дараа түүнийг гэрлэсэн хойно нь дурлана."
+              },
+              {
+                "en": "Based on Pushkin's verse novel, it was first performed by students of the Moscow Conservatory.",
+                "mn": "Пушкины шүлэглэсэн романаас сэдэвлэсэн бөгөөд Москвагийн консерваторийн оюутнууд анх тоглосон."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "The Queen of Spades",
+              "mn": "«Пиковая дама»"
+            },
+            "subtitle": {
+              "en": "Tchaikovsky, 1890",
+              "mn": "Чайковский, 1890"
+            },
+            "icon": "♠️",
+            "wiki": "The Queen of Spades (opera)",
+            "facts": [
+              {
+                "en": "The officer Hermann becomes obsessed with an old countess's secret of three winning cards.",
+                "mn": "Офицер Германн хөгшин графинягийн хожих гурван хөзрийн нууцад автагдана."
+              },
+              {
+                "en": "Based on a Pushkin story, it premiered at the Mariinsky Theatre in Saint Petersburg.",
+                "mn": "Пушкины өгүүллэгээс сэдэвлэж Санкт-Петербургийн Мариинскийн театрт нээлтээ хийсэн."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Boris Godunov",
+              "mn": "«Борис Годунов»"
+            },
+            "subtitle": {
+              "en": "Mussorgsky, 1874",
+              "mn": "Мусоргский, 1874"
+            },
+            "icon": "🔔",
+            "wiki": "Boris Godunov (opera)",
+            "facts": [
+              {
+                "en": "Tsar Boris is haunted by guilt over the murdered heir Dmitry as a pretender claiming to be Dmitry marches on Moscow.",
+                "mn": "Алагдсан өв залгамжлагч Дмитрийн гэм буруу Борис хааныг зовоож байхад Дмитрий хэмээн өөрийгөө зарласан хуурамч этгээд Москва руу довтолно."
+              },
+              {
+                "en": "Based on Pushkin's play, its Coronation Scene is accompanied by the pealing of great bells.",
+                "mn": "Пушкины жүжгээс сэдэвлэсэн бөгөөд Титэм өргөх үзэгдэлд том хонхны дуу эгшиглэдэг."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Prince Igor",
+              "mn": "«Игорь ван»"
+            },
+            "subtitle": {
+              "en": "Borodin, 1890",
+              "mn": "Бородин, 1890"
+            },
+            "icon": "🏇",
+            "wiki": "Prince Igor",
+            "facts": [
+              {
+                "en": "The medieval Russian prince Igor is captured by the nomadic Polovtsians during a campaign.",
+                "mn": "Дундад зууны Оросын ван Игорь аян дайны үеэр нүүдэлчин половцуудад олзлогдоно."
+              },
+              {
+                "en": "Borodin died leaving it unfinished; Rimsky-Korsakov and Glazunov completed it, and its «Polovtsian Dances» are famous.",
+                "mn": "Бородин дуусгалгүй нас барсан тул Римский-Корсаков, Глазунов нар гүйцээсэн бөгөөд «Половцын бүжгүүд» нь алдартай."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Sadko",
+              "mn": "«Садко»"
+            },
+            "subtitle": {
+              "en": "Rimsky-Korsakov, 1898",
+              "mn": "Римский-Корсаков, 1898"
+            },
+            "icon": "🌊",
+            "wiki": "Sadko (opera)",
+            "facts": [
+              {
+                "en": "The gusli player Sadko of Novgorod charms the Sea King's daughter and wins a fortune.",
+                "mn": "Новгородын гусли хөгжимчин Садко Далайн хааны охиныг байлдан дагуулж, их хөрөнгө олно."
+              },
+              {
+                "en": "Its «Song of the Indian Guest» became a popular song in its own right.",
+                "mn": "Түүний «Энэтхэг зочны дуу» тусдаа алдартай дуу болсон."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "The Bartered Bride",
+              "mn": "«Худалдсан сүйт бүсгүй»"
+            },
+            "subtitle": {
+              "en": "Smetana, 1866",
+              "mn": "Сметана, 1866"
+            },
+            "icon": "🍻",
+            "wiki": "The Bartered Bride",
+            "facts": [
+              {
+                "en": "In a Bohemian village, the clever Jeník tricks a marriage broker so he can marry his sweetheart Mařenka.",
+                "mn": "Богемийн нэгэн тосгонд овсгоотой Еник хайрт Марженкатайгаа гэрлэхийн тулд зуучлагчийг мэхэлнэ."
+              },
+              {
+                "en": "It premiered in Prague and became the Czech national opera.",
+                "mn": "Прагад нээлтээ хийсэн бөгөөд Чехийн үндэсний дуурь болсон."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Rusalka",
+              "mn": "«Русалка»"
+            },
+            "subtitle": {
+              "en": "Dvořák, 1901",
+              "mn": "Дворжак, 1901"
+            },
+            "icon": "🌕",
+            "wiki": "Rusalka",
+            "facts": [
+              {
+                "en": "A water nymph gives up her voice to become human and win the love of a prince.",
+                "mn": "Усны дагина хүн болж ханхүүгийн хайрыг олохын тулд дуу хоолойгоо золиосолно."
+              },
+              {
+                "en": "It premiered at the National Theatre in Prague, and Rusalka's «Song to the Moon» is its best-known aria.",
+                "mn": "Прагийн Үндэсний театрт нээлтээ хийсэн бөгөөд Русалкагийн «Саранд хандсан дуу» нь хамгийн алдартай ари."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Jenůfa",
+              "mn": "«Енуфа»"
+            },
+            "subtitle": {
+              "en": "Janáček, 1904",
+              "mn": "Яначек, 1904"
+            },
+            "icon": "🌿",
+            "wiki": "Jenůfa",
+            "facts": [
+              {
+                "en": "To save her stepdaughter Jenůfa from shame, the village sacristan's widow secretly drowns Jenůfa's baby.",
+                "mn": "Тосгоны сүмийн манаачийн бэлэвсэн эхнэр хойд охин Енуфаг ичгүүрээс аврахын тулд хүүхдийг нь нууцаар живүүлнэ."
+              },
+              {
+                "en": "It premiered in Brno, but only a 1916 Prague production made Janáček famous.",
+                "mn": "Брнод нээлтээ хийсэн ч Яначекийг зөвхөн 1916 оны Прагийн тавилт л алдаршуулсан."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Hansel and Gretel",
+              "mn": "«Гензель ба Гретель»"
+            },
+            "subtitle": {
+              "en": "Humperdinck, 1893",
+              "mn": "Хумпердинк, 1893"
+            },
+            "icon": "🍭",
+            "wiki": "Hansel and Gretel (opera)",
+            "facts": [
+              {
+                "en": "Two children lost in the forest outwit the witch of the gingerbread house and free her captives.",
+                "mn": "Ойд төөрсөн хоёр хүүхэд чихэрлэг байшингийн шулмыг ялж, олзлогдогсдыг чөлөөлнө."
+              },
+              {
+                "en": "Richard Strauss conducted the premiere in Weimar, and it is a traditional Christmas opera in German-speaking lands.",
+                "mn": "Веймар дахь нээлтийг Рихард Штраус удирдсан бөгөөд герман хэлтэн орнуудад зул сарын уламжлалт дуурь болжээ."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Salome",
+              "mn": "«Саломе»"
+            },
+            "subtitle": {
+              "en": "Richard Strauss, 1905",
+              "mn": "Рихард Штраус, 1905"
+            },
+            "icon": "🌒",
+            "wiki": "Salome (opera)",
+            "facts": [
+              {
+                "en": "Princess Salome dances for King Herod and demands the head of John the Baptist as her reward.",
+                "mn": "Гүнж Саломе Ирод хаанд бүжиглэж, шагналд нь Иохан Баптистийн толгойг шаардана."
+              },
+              {
+                "en": "Based on Oscar Wilde's play, it premiered in Dresden and contains the «Dance of the Seven Veils».",
+                "mn": "Оскар Уайлдын жүжгээс сэдэвлэн Дрезденд нээлтээ хийсэн бөгөөд «Долоон хөшигний бүжиг» үүнд бий."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Elektra",
+              "mn": "«Электра»"
+            },
+            "subtitle": {
+              "en": "Richard Strauss, 1909",
+              "mn": "Рихард Штраус, 1909"
+            },
+            "icon": "🪓",
+            "wiki": "Elektra (opera)",
+            "facts": [
+              {
+                "en": "Elektra waits for her brother Orestes to avenge their father Agamemnon by killing their mother.",
+                "mn": "Электра эцэг Агамемноных нь өшөөг авч эхийг нь алах дүү Орестаа хүлээнэ."
+              },
+              {
+                "en": "It was Strauss's first opera with the poet Hugo von Hofmannsthal as librettist.",
+                "mn": "Энэ бол Штраусын яруу найрагч Хуго фон Хофмансталь либретто бичсэн анхны дуурь."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Der Rosenkavalier",
+              "mn": "«Сарнайт баатар»"
+            },
+            "subtitle": {
+              "en": "Richard Strauss, 1911",
+              "mn": "Рихард Штраус, 1911"
+            },
+            "icon": "🌹",
+            "wiki": "Der Rosenkavalier",
+            "facts": [
+              {
+                "en": "In 18th-century Vienna, the young Octavian delivers a silver rose to a bride and falls in love with her himself.",
+                "mn": "XVIII зууны Венад залуу Октавиан сүйт бүсгүйд мөнгөн сарнай хүргэж очоод өөрөө түүнд дурлана."
+              },
+              {
+                "en": "The role of Octavian is a 'trouser role' sung by a mezzo-soprano; it premiered in Dresden.",
+                "mn": "Октавианы дүрийг эрэгтэй хувцастай меццо-сопрано дуулдаг; Дрезденд нээлтээ хийсэн."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Bluebeard's Castle",
+              "mn": "«Цэнхэр сахалтын цайз»"
+            },
+            "subtitle": {
+              "en": "Bartók, 1918",
+              "mn": "Барток, 1918"
+            },
+            "icon": "🗝️",
+            "wiki": "Bluebeard's Castle",
+            "facts": [
+              {
+                "en": "Bluebeard's new wife Judith insists on opening the seven locked doors of his castle.",
+                "mn": "Цэнхэр сахалтын шинэ эхнэр Юдит түүний цайзын цоожтой долоон хаалгыг онгойлгохыг шаардана."
+              },
+              {
+                "en": "Bartók's only opera has just two singing roles and premiered in Budapest.",
+                "mn": "Бартокийн цорын ганц дуурьт ердөө хоёр дуулах дүр байдаг бөгөөд Будапештэд нээлтээ хийсэн."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Wozzeck",
+              "mn": "«Воццек»"
+            },
+            "subtitle": {
+              "en": "Berg, 1925",
+              "mn": "Берг, 1925"
+            },
+            "icon": "🪖",
+            "wiki": "Wozzeck",
+            "facts": [
+              {
+                "en": "A poor, abused soldier is driven to murder the mother of his child and then drowns.",
+                "mn": "Ядуу, дарлагдсан цэрэг хүүхдийнхээ эхийг алахад хүрч, улмаар живж үхнэ."
+              },
+              {
+                "en": "Based on Büchner's play, it premiered in Berlin under Erich Kleiber and is a landmark of atonal opera.",
+                "mn": "Бюхнерийн жүжгээс сэдэвлэн Берлинд Эрих Клайберийн удирдлагаар тавигдсан бөгөөд атонал дуурийн чухал бүтээл."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "The Threepenny Opera",
+              "mn": "«Гурван пенсийн дуурь»"
+            },
+            "subtitle": {
+              "en": "Weill, 1928",
+              "mn": "Вайль, 1928"
+            },
+            "icon": "🎩",
+            "wiki": "The Threepenny Opera",
+            "facts": [
+              {
+                "en": "Bertolt Brecht's satire follows the criminal Macheath, 'Mack the Knife', in London's underworld.",
+                "mn": "Бертольт Брехтийн егөөдөл жүжиг Лондоны гэмт ертөнцийн гэмт этгээд «Хутгат Мэкки» Макхитийн тухай."
+              },
+              {
+                "en": "It premiered in Berlin, and «Mack the Knife» later became a jazz standard.",
+                "mn": "Берлинд нээлтээ хийсэн бөгөөд «Mack the Knife» дуу хожим жазын сонгодог дуу болсон."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Lady Macbeth of the Mtsensk District",
+              "mn": "«Мценскийн Макбет хатагтай»"
+            },
+            "subtitle": {
+              "en": "Shostakovich, 1934",
+              "mn": "Шостакович, 1934"
+            },
+            "icon": "☠️",
+            "wiki": "Lady Macbeth of the Mtsensk District (opera)",
+            "facts": [
+              {
+                "en": "A bored merchant's wife, Katerina, murders her father-in-law and husband for her lover.",
+                "mn": "Уйдсан худалдаачны эхнэр Катерина амрагийнхаа төлөө хадам эцэг, нөхрөө хөнөөнө."
+              },
+              {
+                "en": "After Stalin saw it, Pravda attacked it in 1936 as «Muddle instead of music».",
+                "mn": "Сталин үзсэний дараа 1936 онд «Правда» сонин үүнийг «Хөгжмийн оронд замбараагүй» хэмээн довтолсон."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "The Love for Three Oranges",
+              "mn": "«Гурван жүржийн хайр»"
+            },
+            "subtitle": {
+              "en": "Prokofiev, 1921",
+              "mn": "Прокофьев, 1921"
+            },
+            "icon": "🍊",
+            "wiki": "The Love for Three Oranges",
+            "facts": [
+              {
+                "en": "A melancholy prince is cursed to fall in love with three oranges, each hiding a princess.",
+                "mn": "Гуниг гансралтай ханхүү тус бүрдээ гүнж нуусан гурван жүржинд дурлах хараал хүлээнэ."
+              },
+              {
+                "en": "It premiered in Chicago, and its March is one of Prokofiev's most popular tunes.",
+                "mn": "Чикагод нээлтээ хийсэн бөгөөд түүний Марш бол Прокофьевын хамгийн алдартай аялгуунуудын нэг."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Porgy and Bess",
+              "mn": "«Порги ба Бесс»"
+            },
+            "subtitle": {
+              "en": "Gershwin, 1935",
+              "mn": "Гершвин, 1935"
+            },
+            "icon": "🎷",
+            "wiki": "Porgy and Bess",
+            "facts": [
+              {
+                "en": "In the African-American community of Catfish Row, the disabled beggar Porgy tries to rescue Bess from her violent lover.",
+                "mn": "Кэтфиш Роугийн хар арьстны хороололд тахир гуйлгачин Порги Бессийг хэрцгий амрагаас нь аврахыг хичээнэ."
+              },
+              {
+                "en": "Its opening lullaby «Summertime» is one of the most recorded songs ever written.",
+                "mn": "Эхлэлийн «Summertime» бүүвэй дуу бол хамгийн олон удаа бичигдсэн дуунуудын нэг."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Peter Grimes",
+              "mn": "«Питер Граймс»"
+            },
+            "subtitle": {
+              "en": "Britten, 1945",
+              "mn": "Бриттен, 1945"
+            },
+            "icon": "🎣",
+            "wiki": "Peter Grimes",
+            "facts": [
+              {
+                "en": "A rough fisherman is hounded by his village after the deaths of his young apprentices.",
+                "mn": "Бүдүүлэг загасчин шавь хөвгүүд нь нас барсны дараа тосгоныхондоо хавчигдана."
+              },
+              {
+                "en": "Its premiere at Sadler's Wells in June 1945 revived English opera.",
+                "mn": "1945 оны 6-р сард Сэдлерс Уэллст хийсэн нээлт нь Английн дуурийг сэргээсэн."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Billy Budd",
+              "mn": "«Билли Бадд»"
+            },
+            "subtitle": {
+              "en": "Britten, 1951",
+              "mn": "Бриттен, 1951"
+            },
+            "icon": "⚓",
+            "wiki": "Billy Budd (opera)",
+            "facts": [
+              {
+                "en": "A kind young sailor on a British warship is falsely accused by the master-at-arms and hanged.",
+                "mn": "Британийн байлдааны хөлгийн сайхан сэтгэлт залуу далайчин хуурамчаар буруутгагдаж цаазлуулна."
+              },
+              {
+                "en": "Based on Herman Melville's story, it has an all-male cast; E. M. Forster co-wrote the libretto.",
+                "mn": "Херман Мелвиллийн өгүүллэгээс сэдэвлэсэн бөгөөд бүх дүр нь эрэгтэй; либреттог Э. М. Форстер хамтран бичсэн."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "The Rake's Progress",
+              "mn": "«Садар эрийн зам»"
+            },
+            "subtitle": {
+              "en": "Stravinsky, 1951",
+              "mn": "Стравинский, 1951"
+            },
+            "icon": "🎲",
+            "wiki": "The Rake's Progress",
+            "facts": [
+              {
+                "en": "Tom Rakewell abandons his true love Anne for London's pleasures, guided by the devilish Nick Shadow.",
+                "mn": "Том Рэйкуэлл чөтгөр мэт Ник Шэдоугийн хөтөлбөрөөр жинхэнэ хайрт Аннаа орхиж Лондоны жаргалд умбана."
+              },
+              {
+                "en": "Inspired by Hogarth's engravings, its libretto is by W. H. Auden and Chester Kallman; it premiered in Venice.",
+                "mn": "Хогартын сийлбэр зургуудаас санаа авсан бөгөөд либреттог У. Х. Оден, Честер Каллман нар бичиж, Венецид нээлтээ хийсэн."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Dialogues of the Carmelites",
+              "mn": "«Кармелит гэлэнмаа нарын яриа»"
+            },
+            "subtitle": {
+              "en": "Poulenc, 1957",
+              "mn": "Пуленк, 1957"
+            },
+            "icon": "✝️",
+            "wiki": "Dialogues des Carmélites",
+            "facts": [
+              {
+                "en": "During the French Revolution, a community of Carmelite nuns goes to the guillotine one by one.",
+                "mn": "Францын хувьсгалын үеэр Кармелит гэлэнмаа нар нэг нэгээрээ гильотин руу явна."
+              },
+              {
+                "en": "It premiered at La Scala in Italian translation, and it is based on the real Martyrs of Compiègne of 1794.",
+                "mn": "Ла Скалад итали орчуулгаар нээлтээ хийсэн бөгөөд 1794 оны Компьенийн бодит шахидуудаас сэдэвлэсэн."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Einstein on the Beach",
+              "mn": "«Далайн эрэг дээрх Эйнштейн»"
+            },
+            "subtitle": {
+              "en": "Glass, 1976",
+              "mn": "Гласс, 1976"
+            },
+            "icon": "🔭",
+            "wiki": "Einstein on the Beach",
+            "facts": [
+              {
+                "en": "A plotless series of images inspired by Albert Einstein, created with the director Robert Wilson.",
+                "mn": "Найруулагч Роберт Уилсонтой хамтран бүтээсэн, Альберт Эйнштейнээс санаа авсан өрнөлгүй дүрслэлийн цуврал."
+              },
+              {
+                "en": "It runs about five hours without an interval, and the audience may come and go freely.",
+                "mn": "Завсарлагагүй таван цаг орчим үргэлжилдэг бөгөөд үзэгчид дуртай үедээ гарч орж болдог."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Nixon in China",
+              "mn": "«Никсон Хятадад»"
+            },
+            "subtitle": {
+              "en": "John Adams, 1987",
+              "mn": "Жон Адамс, 1987"
+            },
+            "icon": "🇨🇳",
+            "wiki": "Nixon in China",
+            "facts": [
+              {
+                "en": "It dramatises US President Richard Nixon's historic 1972 visit to Mao Zedong in Beijing.",
+                "mn": "АНУ-ын Ерөнхийлөгч Ричард Никсоны 1972 онд Бээжинд Мао Зэдунтэй уулзсан түүхэн айлчлалыг харуулна."
+              },
+              {
+                "en": "It premiered at Houston Grand Opera, directed by Peter Sellars with a libretto by Alice Goodman.",
+                "mn": "Хьюстоны их дуурьт Питер Селларсын найруулгаар, Элис Гудманы либреттотой нээлтээ хийсэн."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Die Fledermaus",
+              "mn": "«Сарьсан багваахай»"
+            },
+            "subtitle": {
+              "en": "Johann Strauss II, 1874",
+              "mn": "II Иоганн Штраус, 1874"
+            },
+            "icon": "🦇",
+            "wiki": "Die Fledermaus",
+            "facts": [
+              {
+                "en": "At a lavish Viennese ball, a practical joke takes revenge on a man who once humiliated his friend.",
+                "mn": "Венийн тансаг бөмбөгт найзаа нэгэнтээ гутаасан хүнээс тохуу тоглоомоор өшөө авна."
+              },
+              {
+                "en": "This operetta by the 'Waltz King' premiered at the Theater an der Wien and is a New Year's Eve tradition.",
+                "mn": "«Вальсын хаан»-ы энэ оперетта Ан дер Вин театрт нээлтээ хийсэн бөгөөд шинэ жилийн өмнөх үдшийн уламжлал болжээ."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "The Merry Widow",
+              "mn": "«Хөгжилтэй бэлэвсэн эхнэр»"
+            },
+            "subtitle": {
+              "en": "Lehár, 1905",
+              "mn": "Легар, 1905"
+            },
+            "icon": "🥂",
+            "wiki": "The Merry Widow",
+            "facts": [
+              {
+                "en": "A rich widow's fortune must be kept in her small home country, so a diplomat tries to marry her off to a countryman.",
+                "mn": "Баян бэлэвсэн эхнэрийн хөрөнгийг жижиг эх орондоо үлдээхийн тулд дипломатч түүнийг нутаг нэгт эртэй нь гэрлүүлэхийг оролдоно."
+              },
+              {
+                "en": "It premiered at the Theater an der Wien and contains the «Vilja Song» and the «Merry Widow Waltz».",
+                "mn": "Ан дер Вин театрт нээлтээ хийсэн бөгөөд «Вилягийн дуу», «Хөгжилтэй бэлэвсний вальс» үүнд бий."
+              }
+            ]
+          },
+          {
+            "title": {
+              "en": "Uchirtai Gurvan Tolgoi",
+              "mn": "«Учиртай гурван толгой»"
+            },
+            "subtitle": {
+              "en": "B. Damdinsüren & B. Smirnov; text D. Natsagdorj, 1934",
+              "mn": "Б.Дамдинсүрэн, Б.Смирнов; зохиол Д.Нацагдорж, 1934"
+            },
+            "icon": "⛰️",
+            "wiki": "",
+            "facts": [
+              {
+                "en": "The lovers Yunden and Nansalmaa are torn apart by the feudal lord Balgan, who wants Nansalmaa for himself.",
+                "mn": "Юндэн, Нансалмаа хоёр хайрлагчийг Нансалмааг өөрийн болгохыг хүссэн хошууны ноён Балган салгана."
+              },
+              {
+                "en": "First staged in 1934 as a musical play, it was revised in 1942 with music by B. Damdinsüren and B. Smirnov.",
+                "mn": "1934 онд анх дуулалт жүжиг хэлбэрээр тавигдаж, 1942 онд Б.Дамдинсүрэн, Б.Смирнов нарын хөгжимтэйгээр засварлагдсан."
+              }
+            ]
+          }
+        ]
+      },
+      "funFacts": [
+        {
+          "en": "Verdi's La traviata was a failure on its first night in Venice in 1853, yet it is now among the most performed operas in the world.",
+          "mn": "Вердигийн «Травиата» 1853 онд Венецид анх тавигдахдаа бүтэлгүйтсэн ч одоо дэлхийд хамгийн их тоглогддог дууриудын нэг болжээ."
+        },
+        {
+          "en": "Bizet died three months after the premiere of Carmen, never knowing it would become a worldwide hit.",
+          "mn": "Бизе «Кармен»-ы нээлтээс гурван сарын дараа нас барсан тул дуурь нь дэлхийг байлдан дагуулахыг хараагүй."
+        },
+        {
+          "en": "Wagner's Ring cycle is four operas lasting about 15 hours in total.",
+          "mn": "Вагнерын «Нибелунгийн бөгж» цикл нь дөрвөн дуурь бөгөөд нийтдээ 15 орчим цаг үргэлжилдэг."
+        },
+        {
+          "en": "Puccini died before finishing Turandot; at the 1926 premiere Toscanini stopped the performance at the point where the composer's music ended.",
+          "mn": "Пуччини «Турандот»-ыг дуусгалгүй нас барсан бөгөөд 1926 оны нээлтэд Тосканини хөгжмийн зохиолчийн бичсэн хэсэг дууссан газар тоглолтыг зогсоосон."
+        },
+        {
+          "en": "«Uchirtai Gurvan Tolgoi», with words by D. Natsagdorj, is the best-loved Mongolian opera.",
+          "mn": "Д.Нацагдоржийн зохиолоор бүтсэн «Учиртай гурван толгой» бол монголчуудын хамгийн хайртай дуурь."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "topicSlug": "opera",
+      "lessonKey": "opera.famous-operas",
+      "key": "opera.famous-operas.q1",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Who composed La traviata?",
+        "mn": "«Травиата» дуурийг хэн зохиосон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Giacomo Puccini",
+          "mn": "Жакомо Пуччини"
+        },
+        {
+          "en": "Gioachino Rossini",
+          "mn": "Жоакино Россини"
+        },
+        {
+          "en": "Gaetano Donizetti",
+          "mn": "Гаэтано Доницетти"
+        },
+        {
+          "en": "Giuseppe Verdi",
+          "mn": "Жузеппе Верди"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "La traviata (1853) is by Verdi and is based on Dumas fils's «La Dame aux camélias».",
+        "mn": "«Травиата» (1853)-г Верди зохиосон бөгөөд Бага Дюмагийн «Камелитай хатагтай»-гаас сэдэвлэсэн."
+      }
+    },
+    {
+      "topicSlug": "opera",
+      "lessonKey": "opera.famous-operas",
+      "key": "opera.famous-operas.q2",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which opera features the gypsy heroine who sings the «Habanera»?",
+        "mn": "«Хабанера» дуулдаг цыган бүсгүй гол дүрийн аль дуурьт гардаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "La traviata",
+          "mn": "«Травиата»"
+        },
+        {
+          "en": "Aida",
+          "mn": "«Аида»"
+        },
+        {
+          "en": "Carmen",
+          "mn": "«Кармен»"
+        },
+        {
+          "en": "Tosca",
+          "mn": "«Тоска»"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Carmen sings the «Habanera» in Bizet's Carmen (1875).",
+        "mn": "Бизегийн «Кармен» (1875) дуурьт Кармен «Хабанера»-г дуулдаг."
+      }
+    },
+    {
+      "topicSlug": "opera",
+      "lessonKey": "opera.famous-operas",
+      "key": "opera.famous-operas.q3",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In which opera does the princess Turandot set three riddles for her suitors?",
+        "mn": "Гүнж гуйгчдадаа гурван оньсого тавьдаг нь аль дуурь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Aida",
+          "mn": "«Аида»"
+        },
+        {
+          "en": "Turandot",
+          "mn": "«Турандот»"
+        },
+        {
+          "en": "Madama Butterfly",
+          "mn": "«Чио-Чио-Сан»"
+        },
+        {
+          "en": "Norma",
+          "mn": "«Норма»"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "In Puccini's Turandot, suitors who fail the three riddles are executed.",
+        "mn": "Пуччинигийн «Турандот»-д гурван оньсогыг тайлж чадаагүй гуйгчдыг цаазалдаг."
+      }
+    },
+    {
+      "topicSlug": "opera",
+      "lessonKey": "opera.famous-operas",
+      "key": "opera.famous-operas.q4",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which Mozart opera features Papageno and the Queen of the Night?",
+        "mn": "Папагено, Шөнийн хатан хоёр Моцартын аль дуурьт гардаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "The Magic Flute",
+          "mn": "«Шидэт лимбэ»"
+        },
+        {
+          "en": "Don Giovanni",
+          "mn": "«Дон Жуан»"
+        },
+        {
+          "en": "The Marriage of Figaro",
+          "mn": "«Фигарогийн гэрлэлт»"
+        },
+        {
+          "en": "Così fan tutte",
+          "mn": "«Бүх эмэгтэйчүүд ийм»"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Papageno and the Queen of the Night are characters in The Magic Flute (1791).",
+        "mn": "Папагено, Шөнийн хатан хоёр «Шидэт лимбэ» (1791)-ний дүрүүд."
+      }
+    },
+    {
+      "topicSlug": "opera",
+      "lessonKey": "opera.famous-operas",
+      "key": "opera.famous-operas.q5",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Which composer wrote the four-opera cycle Der Ring des Nibelungen?",
+        "mn": "Дөрвөн дуурьтай «Нибелунгийн бөгж» циклийг хэн бичсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Richard Strauss",
+          "mn": "Рихард Штраус"
+        },
+        {
+          "en": "Carl Maria von Weber",
+          "mn": "Карл Мария фон Вебер"
+        },
+        {
+          "en": "Richard Wagner",
+          "mn": "Рихард Вагнер"
+        },
+        {
+          "en": "Ludwig van Beethoven",
+          "mn": "Людвиг ван Бетховен"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Wagner's Ring was first performed complete at Bayreuth in 1876.",
+        "mn": "Вагнерын «Бөгж»-ийг 1876 онд Байройтод анх бүтнээр нь тоглосон."
+      }
+    },
+    {
+      "topicSlug": "opera",
+      "lessonKey": "opera.famous-operas",
+      "key": "opera.famous-operas.q6",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Fidelio is the only opera by which composer?",
+        "mn": "«Фиделио» бол аль хөгжмийн зохиолчийн цорын ганц дуурь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Mozart",
+          "mn": "Моцарт"
+        },
+        {
+          "en": "Beethoven",
+          "mn": "Бетховен"
+        },
+        {
+          "en": "Schubert",
+          "mn": "Шуберт"
+        },
+        {
+          "en": "Brahms",
+          "mn": "Брамс"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Fidelio is Beethoven's only opera, finished in its final form in 1814.",
+        "mn": "«Фиделио» бол Бетховены цорын ганц дуурь бөгөөд 1814 онд эцсийн хэлбэрээ олсон."
+      }
+    },
+    {
+      "topicSlug": "opera",
+      "lessonKey": "opera.famous-operas",
+      "key": "opera.famous-operas.q7",
+      "difficulty": 1,
+      "prompt": {
+        "en": "Who wrote the text of the Mongolian opera «Uchirtai Gurvan Tolgoi»?",
+        "mn": "«Учиртай гурван толгой» дуурийн зохиолыг хэн бичсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "D. Natsagdorj",
+          "mn": "Д.Нацагдорж"
+        },
+        {
+          "en": "B. Rinchen",
+          "mn": "Б.Ринчен"
+        },
+        {
+          "en": "Ts. Damdinsüren",
+          "mn": "Ц.Дамдинсүрэн"
+        },
+        {
+          "en": "S. Erdene",
+          "mn": "С.Эрдэнэ"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "The poet D. Natsagdorj wrote «Uchirtai Gurvan Tolgoi», first staged in 1934.",
+        "mn": "Яруу найрагч Д.Нацагдорж «Учиртай гурван толгой»-г бичсэн бөгөөд 1934 онд анх тавигдсан."
+      }
+    },
+    {
+      "topicSlug": "opera",
+      "lessonKey": "opera.famous-operas",
+      "key": "opera.famous-operas.q8",
+      "difficulty": 1,
+      "prompt": {
+        "en": "In La bohème, what does the heroine Mimì die of?",
+        "mn": "«Богема»-гийн Мими юунаас болж нас бардаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Poison",
+          "mn": "Хор"
+        },
+        {
+          "en": "A stab wound",
+          "mn": "Хутганы шарх"
+        },
+        {
+          "en": "Drowning",
+          "mn": "Живэх"
+        },
+        {
+          "en": "Consumption (tuberculosis)",
+          "mn": "Сүрьеэ"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Mimì, the seamstress in Puccini's La bohème, dies of consumption in the final act.",
+        "mn": "Пуччинигийн «Богема»-гийн оёдолчин Мими сүүлчийн бүлэгт сүрьеэгээр нас бардаг."
+      }
+    },
+    {
+      "topicSlug": "opera",
+      "lessonKey": "opera.famous-operas",
+      "key": "opera.famous-operas.q9",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Where did Verdi's Aida have its premiere in 1871?",
+        "mn": "Вердигийн «Аида» 1871 онд хаана нээлтээ хийсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Milan",
+          "mn": "Милан"
+        },
+        {
+          "en": "Paris",
+          "mn": "Парис"
+        },
+        {
+          "en": "Venice",
+          "mn": "Венец"
+        },
+        {
+          "en": "Cairo",
+          "mn": "Каир"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Aida premiered at the Khedivial Opera House in Cairo on 24 December 1871.",
+        "mn": "«Аида» 1871 оны 12-р сарын 24-нд Каирын Хедивийн дуурийн театрт нээлтээ хийсэн."
+      }
+    },
+    {
+      "topicSlug": "opera",
+      "lessonKey": "opera.famous-operas",
+      "key": "opera.famous-operas.q10",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which opera ends with the heroine leaping from Castel Sant'Angelo in Rome?",
+        "mn": "Гол дүрийн бүсгүй Ромын Сант-Анжело цайзаас үсрэх үзэгдлээр аль дуурь төгсдөг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Norma",
+          "mn": "«Норма»"
+        },
+        {
+          "en": "Tosca",
+          "mn": "«Тоска»"
+        },
+        {
+          "en": "Lucia di Lammermoor",
+          "mn": "«Лючия ди Ламмермур»"
+        },
+        {
+          "en": "Manon",
+          "mn": "«Манон»"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Floria Tosca leaps from the castle's battlements at the end of Puccini's Tosca (1900).",
+        "mn": "Пуччинигийн «Тоска» (1900)-гийн төгсгөлд Флория Тоска цайзын хэрмээс үсэрдэг."
+      }
+    },
+    {
+      "topicSlug": "opera",
+      "lessonKey": "opera.famous-operas",
+      "key": "opera.famous-operas.q11",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which Verdi opera is based on Victor Hugo's play «Le roi s'amuse»?",
+        "mn": "Вердигийн аль дуурь Виктор Гюгогийн «Хаан зугаацна» жүжгээс сэдэвлэсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Rigoletto",
+          "mn": "«Риголетто»"
+        },
+        {
+          "en": "Il trovatore",
+          "mn": "«Трубадур»"
+        },
+        {
+          "en": "Nabucco",
+          "mn": "«Набукко»"
+        },
+        {
+          "en": "Otello",
+          "mn": "«Отелло»"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Rigoletto (1851) turned Hugo's court jester Triboulet into the jester of the Duke of Mantua.",
+        "mn": "«Риголетто» (1851) Гюгогийн ордны алиалагч Трибулег Мантуягийн гүнгийн алиалагч болгосон."
+      }
+    },
+    {
+      "topicSlug": "opera",
+      "lessonKey": "opera.famous-operas",
+      "key": "opera.famous-operas.q12",
+      "difficulty": 2,
+      "prompt": {
+        "en": "The chorus «Va, pensiero» comes from which Verdi opera?",
+        "mn": "«Va, pensiero» найрал дуу Вердигийн аль дуурийнх вэ?"
+      },
+      "choices": [
+        {
+          "en": "Aida",
+          "mn": "«Аида»"
+        },
+        {
+          "en": "Macbeth",
+          "mn": "«Макбет»"
+        },
+        {
+          "en": "Nabucco",
+          "mn": "«Набукко»"
+        },
+        {
+          "en": "Falstaff",
+          "mn": "«Фальстаф»"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "«Va, pensiero» is the chorus of the Hebrew slaves in Nabucco (1842).",
+        "mn": "«Va, pensiero» бол «Набукко» (1842)-гийн еврей боолуудын найрал дуу."
+      }
+    },
+    {
+      "topicSlug": "opera",
+      "lessonKey": "opera.famous-operas",
+      "key": "opera.famous-operas.q13",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which Russian writer's works inspired Eugene Onegin, The Queen of Spades and Boris Godunov?",
+        "mn": "«Евгений Онегин», «Пиковая дама», «Борис Годунов» дуурь аль зохиолчийн бүтээлээс сэдэвлэсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Leo Tolstoy",
+          "mn": "Лев Толстой"
+        },
+        {
+          "en": "Fyodor Dostoevsky",
+          "mn": "Фёдор Достоевский"
+        },
+        {
+          "en": "Nikolai Gogol",
+          "mn": "Николай Гоголь"
+        },
+        {
+          "en": "Alexander Pushkin",
+          "mn": "Александр Пушкин"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "All three operas are based on works by Pushkin.",
+        "mn": "Гурван дуурь бүгд Пушкины бүтээлээс сэдэвлэсэн."
+      }
+    },
+    {
+      "topicSlug": "opera",
+      "lessonKey": "opera.famous-operas",
+      "key": "opera.famous-operas.q14",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which opera's premiere at La Scala in 1904 was a fiasco before a revised version succeeded?",
+        "mn": "Аль дуурийн 1904 оны Ла Скала дахь нээлт бүтэлгүйтэж, засварласан хувилбар нь амжилт олсон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Tosca",
+          "mn": "«Тоска»"
+        },
+        {
+          "en": "Madama Butterfly",
+          "mn": "«Чио-Чио-Сан»"
+        },
+        {
+          "en": "La bohème",
+          "mn": "«Богема»"
+        },
+        {
+          "en": "Turandot",
+          "mn": "«Турандот»"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Madama Butterfly failed at La Scala but triumphed in its revised form in Brescia three months later.",
+        "mn": "«Чио-Чио-Сан» Ла Скалад бүтэлгүйтсэн ч гурван сарын дараа Брешад засварласан хувилбараараа ялалт байгуулсан."
+      }
+    },
+    {
+      "topicSlug": "opera",
+      "lessonKey": "opera.famous-operas",
+      "key": "opera.famous-operas.q15",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Who completed Puccini's unfinished Turandot?",
+        "mn": "Пуччини дуусгаж амжаагүй «Турандот»-ыг хэн гүйцээсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Pietro Mascagni",
+          "mn": "Пьетро Масканьи"
+        },
+        {
+          "en": "Arturo Toscanini",
+          "mn": "Артуро Тосканини"
+        },
+        {
+          "en": "Franco Alfano",
+          "mn": "Франко Альфано"
+        },
+        {
+          "en": "Ruggero Leoncavallo",
+          "mn": "Руджеро Леонкавалло"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Franco Alfano wrote the ending of Turandot from Puccini's sketches.",
+        "mn": "Франко Альфано Пуччинигийн ноорогт тулгуурлан «Турандот»-ын төгсгөлийг бичсэн."
+      }
+    },
+    {
+      "topicSlug": "opera",
+      "lessonKey": "opera.famous-operas",
+      "key": "opera.famous-operas.q16",
+      "difficulty": 2,
+      "prompt": {
+        "en": "How old was Verdi when he wrote his last opera, Falstaff?",
+        "mn": "Верди сүүлчийн дуурь «Фальстаф»-аа хэдэн настайдаа бичсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "79",
+          "mn": "79"
+        },
+        {
+          "en": "59",
+          "mn": "59"
+        },
+        {
+          "en": "68",
+          "mn": "68"
+        },
+        {
+          "en": "88",
+          "mn": "88"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Falstaff premiered at La Scala in 1893, when Verdi was 79.",
+        "mn": "«Фальстаф» 1893 онд Ла Скалад нээлтээ хийхэд Верди 79 настай байв."
+      }
+    },
+    {
+      "topicSlug": "opera",
+      "lessonKey": "opera.famous-operas",
+      "key": "opera.famous-operas.q17",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which Strauss opera ends with Salome demanding the head of John the Baptist?",
+        "mn": "Саломе Иохан Баптистийн толгойг шаарддаг дуурийг хэн зохиосон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Richard Strauss",
+          "mn": "Рихард Штраус"
+        },
+        {
+          "en": "Johann Strauss II",
+          "mn": "II Иоганн Штраус"
+        },
+        {
+          "en": "Alban Berg",
+          "mn": "Альбан Берг"
+        },
+        {
+          "en": "Engelbert Humperdinck",
+          "mn": "Энгельберт Хумпердинк"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Richard Strauss's Salome (1905) is based on Oscar Wilde's play.",
+        "mn": "Рихард Штраусын «Саломе» (1905) Оскар Уайлдын жүжгээс сэдэвлэсэн."
+      }
+    },
+    {
+      "topicSlug": "opera",
+      "lessonKey": "opera.famous-operas",
+      "key": "opera.famous-operas.q18",
+      "difficulty": 2,
+      "prompt": {
+        "en": "Which opera dramatises a US president's 1972 visit to Beijing?",
+        "mn": "АНУ-ын ерөнхийлөгчийн 1972 оны Бээжинд хийсэн айлчлалыг аль дуурь харуулдаг вэ?"
+      },
+      "choices": [
+        {
+          "en": "Einstein on the Beach",
+          "mn": "«Далайн эрэг дээрх Эйнштейн»"
+        },
+        {
+          "en": "Porgy and Bess",
+          "mn": "«Порги ба Бесс»"
+        },
+        {
+          "en": "Nixon in China",
+          "mn": "«Никсон Хятадад»"
+        },
+        {
+          "en": "The Rake's Progress",
+          "mn": "«Садар эрийн зам»"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "John Adams's Nixon in China premiered at Houston Grand Opera in 1987.",
+        "mn": "Жон Адамсын «Никсон Хятадад» 1987 онд Хьюстоны их дуурьт нээлтээ хийсэн."
+      }
+    },
+    {
+      "topicSlug": "opera",
+      "lessonKey": "opera.famous-operas",
+      "key": "opera.famous-operas.q19",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which opera is the oldest still regularly performed?",
+        "mn": "Одоо ч тогтмол тоглогддог хамгийн эртний дуурь аль нь вэ?"
+      },
+      "choices": [
+        {
+          "en": "Purcell's Dido and Aeneas",
+          "mn": "Пёрселлийн «Дидона ба Эней»"
+        },
+        {
+          "en": "Monteverdi's L'Orfeo",
+          "mn": "Монтевердигийн «Орфей»"
+        },
+        {
+          "en": "Gluck's Orfeo ed Euridice",
+          "mn": "Глюкийн «Орфей ба Эвридика»"
+        },
+        {
+          "en": "Handel's Rinaldo",
+          "mn": "Генделийн «Ринальдо»"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "L'Orfeo was premiered in Mantua in 1607 and remains in the repertoire.",
+        "mn": "«Орфей» 1607 онд Мантуяд нээлтээ хийсэн бөгөөд одоо ч репертуарт байдаг."
+      }
+    },
+    {
+      "topicSlug": "opera",
+      "lessonKey": "opera.famous-operas",
+      "key": "opera.famous-operas.q20",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Un ballo in maschera was based on the assassination of which king?",
+        "mn": "«Багт наадам» дуурь аль хааныг хөнөөсөн явдлаас сэдэвлэсэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Louis XVI of France",
+          "mn": "Францын XVI Людовик"
+        },
+        {
+          "en": "Charles I of England",
+          "mn": "Английн I Чарльз"
+        },
+        {
+          "en": "Henri IV of France",
+          "mn": "Францын IV Генрих"
+        },
+        {
+          "en": "Gustav III of Sweden",
+          "mn": "Шведийн III Густав"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Gustav III was shot at a masked ball in Stockholm in 1792.",
+        "mn": "III Густавыг 1792 онд Стокгольмд багт наадмын үеэр буудсан."
+      }
+    },
+    {
+      "topicSlug": "opera",
+      "lessonKey": "opera.famous-operas",
+      "key": "opera.famous-operas.q21",
+      "difficulty": 3,
+      "prompt": {
+        "en": "In Don Giovanni's «Catalogue aria», how many conquests in Spain does Leporello list?",
+        "mn": "«Дон Жуан»-гийн «Каталогийн ари»-д Лепорелло Испанид хэдэн амраг тоочдог вэ?"
+      },
+      "choices": [
+        {
+          "en": "1,003",
+          "mn": "1003"
+        },
+        {
+          "en": "640",
+          "mn": "640"
+        },
+        {
+          "en": "231",
+          "mn": "231"
+        },
+        {
+          "en": "2,065",
+          "mn": "2065"
+        }
+      ],
+      "answer": 0,
+      "explanation": {
+        "en": "Leporello counts 1,003 in Spain, making 2,065 in total across all countries.",
+        "mn": "Лепорелло Испанид 1003 гэж тоолдог бөгөөд бүх орноор нийт 2065 болдог."
+      }
+    },
+    {
+      "topicSlug": "opera",
+      "lessonKey": "opera.famous-operas",
+      "key": "opera.famous-operas.q22",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which Soviet newspaper attacked Shostakovich's Lady Macbeth of the Mtsensk District in 1936?",
+        "mn": "1936 онд Шостаковичийн «Мценскийн Макбет хатагтай»-г аль сонин довтолсон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Izvestia",
+          "mn": "«Известия»"
+        },
+        {
+          "en": "Trud",
+          "mn": "«Труд»"
+        },
+        {
+          "en": "Pravda",
+          "mn": "«Правда»"
+        },
+        {
+          "en": "Krasnaya Zvezda",
+          "mn": "«Красная звезда»"
+        }
+      ],
+      "answer": 2,
+      "explanation": {
+        "en": "Pravda's editorial «Muddle instead of music» appeared after Stalin saw the opera.",
+        "mn": "Сталин дуурийг үзсэний дараа «Правда» «Хөгжмийн оронд замбараагүй» нийтлэл гаргасан."
+      }
+    },
+    {
+      "topicSlug": "opera",
+      "lessonKey": "opera.famous-operas",
+      "key": "opera.famous-operas.q23",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Where did the complete Ring cycle receive its first performance in 1876?",
+        "mn": "1876 онд «Нибелунгийн бөгж»-ийг бүтнээр нь анх хаана тоглосон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Munich",
+          "mn": "Мюнхен"
+        },
+        {
+          "en": "Dresden",
+          "mn": "Дрезден"
+        },
+        {
+          "en": "Weimar",
+          "mn": "Веймар"
+        },
+        {
+          "en": "Bayreuth",
+          "mn": "Байройт"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "The Bayreuth Festspielhaus was built for the Ring and opened with it in August 1876.",
+        "mn": "Байройтын наадмын театрыг «Бөгж»-д зориулж барьсан бөгөөд 1876 оны 8-р сард түүгээр нээгдсэн."
+      }
+    },
+    {
+      "topicSlug": "opera",
+      "lessonKey": "opera.famous-operas",
+      "key": "opera.famous-operas.q24",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Which composer's opera Jenůfa premiered in Brno in 1904?",
+        "mn": "1904 онд Брнод нээлтээ хийсэн «Енуфа» дуурийг хэн зохиосон бэ?"
+      },
+      "choices": [
+        {
+          "en": "Antonín Dvořák",
+          "mn": "Антонин Дворжак"
+        },
+        {
+          "en": "Leoš Janáček",
+          "mn": "Леош Яначек"
+        },
+        {
+          "en": "Bedřich Smetana",
+          "mn": "Бедржих Сметана"
+        },
+        {
+          "en": "Bohuslav Martinů",
+          "mn": "Богуслав Мартину"
+        }
+      ],
+      "answer": 1,
+      "explanation": {
+        "en": "Janáček's Jenůfa became internationally known after its 1916 Prague production.",
+        "mn": "Яначекийн «Енуфа» 1916 оны Прагийн тавилтын дараа дэлхийд танигдсан."
+      }
+    },
+    {
+      "topicSlug": "opera",
+      "lessonKey": "opera.famous-operas",
+      "key": "opera.famous-operas.q25",
+      "difficulty": 3,
+      "prompt": {
+        "en": "Who sang Papageno at the 1791 premiere of The Magic Flute and also wrote its libretto?",
+        "mn": "1791 онд «Шидэт лимбэ»-ний нээлтэд Папагеног дуулсан, либреттог нь бичсэн хүн хэн бэ?"
+      },
+      "choices": [
+        {
+          "en": "Lorenzo Da Ponte",
+          "mn": "Лоренцо да Понте"
+        },
+        {
+          "en": "Pietro Metastasio",
+          "mn": "Пьетро Метастазио"
+        },
+        {
+          "en": "Antonio Salieri",
+          "mn": "Антонио Сальери"
+        },
+        {
+          "en": "Emanuel Schikaneder",
+          "mn": "Эмануэль Шиканедер"
+        }
+      ],
+      "answer": 3,
+      "explanation": {
+        "en": "Schikaneder ran the Theater auf der Wieden, where the opera premiered.",
+        "mn": "Шиканедер дуурь нээлтээ хийсэн Ауф дер Видэн театрыг удирдаж байжээ."
+      }
+    }
+  ]
+}

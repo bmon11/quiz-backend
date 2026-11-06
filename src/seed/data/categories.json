@@ -115,8 +115,8 @@
           "mn": "Бурхад, сүнс, домгийн амьтад"
         },
         "description": {
-          "en": "Myths and folk tales beyond Greece and Rome: Norse, Egyptian, Hindu, Japanese and Slavic legends and the creatures in them.",
-          "mn": "Грек, Ромоос гадуурх домог, үлгэр: Скандинав, Египет, Энэтхэг, Япон, Славян домог болон тэдгээрийн амьтад."
+          "en": "Myths and legends beyond Greece and Rome: Egyptian gods and the afterlife, the world's pantheons side by side, and legendary creatures from every continent. Norse and Asian myths have their own topics.",
+          "mn": "Грек, Ромоос гадуурх домог: Египетийн бурхад ба хойд нас, дэлхийн шашин домгийн бурхдын жагсаалт, тив бүрийн домгийн амьтад. Скандинав, Азийн домог тусдаа сэдэвтэй."
         }
       },
       "lessons": [
@@ -132,8 +132,55 @@
     },
     {
       "topic": {
+        "slug": "norse",
+        "color": "#1E5A8A",
+        "icon": "solar:shield-star-bold-duotone",
+        "title": {
+          "en": "Norse Mythology",
+          "mn": "Скандинавын домог"
+        },
+        "tagline": {
+          "en": "Odin, Thor, Loki and the Nine Worlds",
+          "mn": "Один, Тор, Локи ба Есөн ертөнц"
+        },
+        "description": {
+          "en": "The gods, giants and heroes of the Vikings: their family, their treasures and runes, the story from Ymir to Ragnarök, and what they left in our words.",
+          "mn": "Викингүүдийн бурхад, аварга, баатрууд: тэдний ураг төрөл, шидэт эд зүйлс ба рун бичиг, Имирээс Рагнарёк хүртэлх домог, өнөөгийн хэлэнд үлдээсэн ул мөр."
+        },
+        "order": 5
+      },
+      "lessons": [
+        "myth.norse-gods-ragnarok"
+      ]
+    },
+    {
+      "topic": {
+        "slug": "asian-myth",
+        "color": "#B91C1C",
+        "icon": "solar:fire-bold-duotone",
+        "title": {
+          "en": "Asian Mythology",
+          "mn": "Азийн домог"
+        },
+        "tagline": {
+          "en": "Dragons, kami, Tengri and the Monkey King",
+          "mn": "Луу, ками, Тэнгэр ба Сармагчин хаан"
+        },
+        "description": {
+          "en": "Myths of China, Japan, Korea, India, the steppe and Southeast Asia: gods, epics, spirits and the creatures in them.",
+          "mn": "Хятад, Япон, Солонгос, Энэтхэг, тал нутаг болон Зүүн өмнөд Азийн домог: бурхад, тууль, сүнс, домгийн амьтад."
+        },
+        "order": 6
+      },
+      "lessons": [
+        "myth.hindu-gods-epics",
+        "myth.japanese-folklore-yokai"
+      ]
+    },
+    {
+      "topic": {
         "slug": "geography",
-        "order": 5,
+        "order": 7,
         "color": "#00A76F",
         "icon": "solar:globe-bold-duotone",
         "title": {
@@ -171,7 +218,7 @@
     {
       "topic": {
         "slug": "countries",
-        "order": 6,
+        "order": 8,
         "color": "#F59E0B",
         "icon": "solar:earth-bold-duotone",
         "title": {
@@ -202,8 +249,29 @@
     },
     {
       "topic": {
+        "slug": "cities",
+        "color": "#0E7490",
+        "icon": "solar:buildings-2-bold-duotone",
+        "title": {
+          "en": "World Cities",
+          "mn": "Дэлхийн хотууд"
+        },
+        "tagline": {
+          "en": "Landmarks, nicknames and old names",
+          "mn": "Дурсгалт газар, хочит нэр, хуучин нэр"
+        },
+        "description": {
+          "en": "The great cities of the world: how big they are, what they are famous for, what they used to be called and the rivers they stand on.",
+          "mn": "Дэлхийн томоохон хотууд: хэр том, юугаараа алдартай, урьд нь юу гэж нэрлэгддэг байсан, ямар голын эрэг дээр оршдог."
+        },
+        "order": 9
+      },
+      "lessons": []
+    },
+    {
+      "topic": {
         "slug": "space",
-        "order": 7,
+        "order": 10,
         "color": "#7C4DFF",
         "icon": "solar:planet-bold-duotone",
         "effect": "stars",
@@ -242,7 +310,7 @@
     {
       "topic": {
         "slug": "astrology",
-        "order": 8,
+        "order": 11,
         "color": "#E040A0",
         "icon": "solar:stars-bold-duotone",
         "effect": "stars",
@@ -279,7 +347,7 @@
     {
       "topic": {
         "slug": "history",
-        "order": 9,
+        "order": 12,
         "color": "#8B4513",
         "icon": "solar:history-bold-duotone",
         "title": {
@@ -309,7 +377,7 @@
     {
       "topic": {
         "slug": "cinema",
-        "order": 10,
+        "order": 13,
         "color": "#FF4500",
         "icon": "solar:videocamera-record-bold-duotone",
         "title": {
@@ -339,7 +407,7 @@
     {
       "topic": {
         "slug": "comics",
-        "order": 11,
+        "order": 14,
         "color": "#E23636",
         "icon": "solar:mask-happly-bold-duotone",
         "title": {
@@ -370,7 +438,7 @@
     {
       "topic": {
         "slug": "art",
-        "order": 12,
+        "order": 15,
         "color": "#D97706",
         "icon": "solar:pallete-2-bold-duotone",
         "title": {
@@ -399,8 +467,29 @@
     },
     {
       "topic": {
+        "slug": "opera",
+        "color": "#9F1239",
+        "icon": "solar:masks-bold-duotone",
+        "title": {
+          "en": "Opera",
+          "mn": "Дуурь"
+        },
+        "tagline": {
+          "en": "Operas, arias, composers and great voices",
+          "mn": "Дуурь, ари, хөгжмийн зохиолч, алдартай дуучид"
+        },
+        "description": {
+          "en": "Four centuries of opera from Monteverdi to today: the most performed works, their famous arias, the composers, the singers and the houses they sang in.",
+          "mn": "Монтевердигээс өнөөг хүртэлх дөрвөн зууны дуурь: хамгийн их тавигддаг бүтээлүүд, алдартай ари, хөгжмийн зохиолчид, дуучид, тэдний дуулсан театрууд."
+        },
+        "order": 16
+      },
+      "lessons": []
+    },
+    {
+      "topic": {
         "slug": "kpop",
-        "order": 13,
+        "order": 17,
         "color": "#EC4899",
         "icon": "solar:music-notes-bold-duotone",
         "title": {
@@ -428,7 +517,7 @@
     {
       "topic": {
         "slug": "literature",
-        "order": 14,
+        "order": 18,
         "color": "#4682B4",
         "icon": "solar:notebook-bold-duotone",
         "title": {
@@ -458,7 +547,7 @@
     {
       "topic": {
         "slug": "science",
-        "order": 15,
+        "order": 19,
         "color": "#008080",
         "icon": "solar:test-tube-bold-duotone",
         "title": {
@@ -489,7 +578,7 @@
     {
       "topic": {
         "slug": "nature",
-        "order": 16,
+        "order": 20,
         "color": "#556B2F",
         "icon": "solar:leaf-bold-duotone",
         "title": {
@@ -518,7 +607,7 @@
     {
       "topic": {
         "slug": "sports",
-        "order": 17,
+        "order": 21,
         "color": "#FF8C00",
         "icon": "solar:cup-bold-duotone",
         "title": {
@@ -548,7 +637,7 @@
     {
       "topic": {
         "slug": "lifestyle",
-        "order": 18,
+        "order": 22,
         "color": "#C71585",
         "icon": "solar:bag-bold-duotone",
         "title": {
@@ -581,7 +670,7 @@
     {
       "topic": {
         "slug": "brainteasers",
-        "order": 19,
+        "order": 23,
         "color": "#4B0082",
         "icon": "solar:lightbulb-bolt-bold-duotone",
         "title": {
