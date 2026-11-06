@@ -10,6 +10,7 @@ import meRoutes from './modules/me/routes';
 import adminRoutes from './modules/admin/routes';
 import jeopardyRoutes from './modules/jeopardy/routes';
 import placeRoutes from './modules/place/routes';
+import tournamentRoutes from './modules/tournament/routes';
 import { HttpError } from './modules/shared/validate';
 
 export const createApp = () => {
@@ -37,6 +38,7 @@ export const createApp = () => {
   app.use('/admin', adminRoutes);
   app.use('/jeopardy', jeopardyRoutes);
   app.use('/places', placeRoutes);
+  app.use('/tournament', tournamentRoutes);
 
   app.use((_req, res) => {
     res.status(404).json({ message: 'Not found' });

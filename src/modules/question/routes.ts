@@ -7,6 +7,7 @@ import crypto from 'node:crypto';
 import { HttpError, ipOf, objectId, parse } from '../shared/validate';
 import { optionalAuth } from '../auth/auth';
 import { rateLimit } from '../../middlewares/rateLimit';
+import { TOURNAMENT, TOURNAMENT_TOPIC, tournamentDecks, tournamentQuestions } from '../tournament/routes';
 
 const router = Router();
 
@@ -53,6 +54,10 @@ const deckQuery = z.object({
  */
 router.get('/deck', async (req, res) => {
   const { topic: slug, lesson: lessonKey, count } = parse(deckQuery, req.query);
+  if (slug === TOURNAMENT) {
+    res.json(await tournamentDeck(lessonKey ?? 'mix', count));
+    return;
+  }
   const [topic, lessons] = await Promise.all([
     Topic.findOne({ slug }).select('slug title color icon').lean(),
     Lesson.find({ topicSlug: slug }).sort({ order: 1 }).select('key title order visual').lean(),
@@ -86,6 +91,22 @@ router.get('/deck', async (req, res) => {
     questions: rows.map(({ _id, stats, ...q }) => ({ id: String(_id), ...q, correctRate: rateOf(stats) })),
   });
 });
+
+/** The tournament mode's deck in the same shape: games stand in for lessons. */
+async function tournamentDeck(key: string, count: number) {
+  const [decks, rows] = await Promise.all([tournamentDecks(), tournamentQuestions(key, count)]);
+  const at = decks.findIndex((d) => d.key === key);
+  if (at < 0 || !rows.length) throw new HttpError(404, 'No questions for this quiz');
+  const brief = (d?: (typeof decks)[number]) => (d ? { key: d.key, title: d.title } : null);
+  return {
+    topic: TOURNAMENT_TOPIC,
+    lesson: { ...brief(decks[at]), order: at + 1, total: decks.length },
+    prev: brief(decks[at - 1]),
+    next: brief(decks[at + 1]),
+    family: null,
+    questions: rows.map(({ _id, stats, ...q }) => ({ id: String(_id), ...q, correctRate: rateOf(stats) })),
+  };
+}
 
 const answerBody = z.object({ questionId: objectId, choice: z.number().int().min(0).max(9) });
 

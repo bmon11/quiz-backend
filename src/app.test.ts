@@ -151,3 +151,52 @@ describe('swipe deck + family tree', () => {
     expect(res.status).toBe(404);
   });
 });
+
+describe('tournament questions', () => {
+  const show = (key: string, answer: number) => ({ ...mini.questions[0], key, answer, source: 'show' as const });
+  beforeEach(() =>
+    seedBundles([
+      {
+        ...mini,
+        questions: [
+          ...mini.questions,
+          show('show.20240101.2', 1),
+          show('show.20240101.1', 0),
+          show('show.20250301.1', 2),
+          { ...mini.questions[0], key: 't.a.p1', source: 'predicted' as const },
+        ],
+      },
+    ])
+  );
+
+  it('lists the mix, predicted and each game newest first', async () => {
+    const res = await request(app).get('/tournament');
+    expect(res.status).toBe(200);
+    expect(res.body.lessons.map((d: any) => [d.key, d.count])).toEqual([
+      ['mix', 3],
+      ['predicted', 1],
+      ['20250301', 1],
+      ['20240101', 2],
+    ]);
+  });
+
+  it('a game deck keeps its question order, hides answers, and can be scored', async () => {
+    const deck = await request(app).get('/quiz/deck').query({ topic: 'tournament', lesson: '20240101' });
+    expect(deck.status).toBe(200);
+    expect(deck.body.questions.map((q: any) => q.key)).toEqual(['show.20240101.1', 'show.20240101.2']);
+    expect(deck.body.questions[0]).not.toHaveProperty('answer');
+    expect(deck.body.prev.key).toBe('20250301');
+    expect(deck.body.next).toBeNull();
+    const answers = deck.body.questions.map((q: any) => ({ questionId: q.id, choice: 0 }));
+    const res = await request(app).post('/attempts').send({ topicSlug: 'tournament', lessonKey: '20240101', answers });
+    expect(res.status).toBe(201);
+    expect(res.body.score).toBe(1);
+  });
+
+  it('refuses ordinary lesson questions in a tournament attempt', async () => {
+    const plain = await Question.findOne({ key: 't.a.q0' }).lean();
+    const answers = [{ questionId: String(plain!._id), choice: 0 }];
+    const res = await request(app).post('/attempts').send({ topicSlug: 'tournament', answers });
+    expect(res.status).toBe(400);
+  });
+});

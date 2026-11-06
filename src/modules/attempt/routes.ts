@@ -6,6 +6,7 @@ import { Lesson } from '../lesson/lesson.model';
 import { HttpError, objectId, parse } from '../shared/validate';
 import { rateLimit } from '../../middlewares/rateLimit';
 import { optionalAuth } from '../auth/auth';
+import { TOURNAMENT, tournamentMatch } from '../tournament/routes';
 
 const router = Router();
 
@@ -22,7 +23,9 @@ router.post('/', rateLimit({ windowMs: 60_000, max: 20 }), optionalAuth, async (
   const { topicSlug, lessonKey, answers, durationMs } = parse(attemptBody, req.body);
 
   const ids = [...new Set(answers.map((a) => a.questionId))];
-  const questions = await Question.find({ _id: { $in: ids }, topicSlug })
+  // Tournament decks mix every topic: they may hold any real-game or predicted question.
+  const scope = topicSlug === TOURNAMENT ? tournamentMatch : { topicSlug };
+  const questions = await Question.find({ _id: { $in: ids }, ...scope })
     .select('+answer lessonKey difficulty')
     .lean();
   if (questions.length !== ids.length) throw new HttpError(400, 'answers: unknown question for this topic');
@@ -61,9 +64,9 @@ router.post('/', rateLimit({ windowMs: 60_000, max: 20 }), optionalAuth, async (
     row.correct += i.correct ? 1 : 0;
     perLesson.set(i.lessonKey, row);
   }
-  const titles = await Lesson.find({ key: { $in: [...perLesson.keys()] } }).select('key title').lean();
+  const titles = await Lesson.find({ key: { $in: [...perLesson.keys()] } }).select('key topicSlug title').lean();
   const breakdown = titles
-    .map((l) => ({ lessonKey: l.key, title: l.title, ...perLesson.get(l.key)! }))
+    .map((l) => ({ lessonKey: l.key, topicSlug: l.topicSlug, title: l.title, ...perLesson.get(l.key)! }))
     .sort((a, b) => a.correct / a.total - b.correct / b.total);
 
   res.status(201).json({

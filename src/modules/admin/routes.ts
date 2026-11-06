@@ -28,7 +28,7 @@ const mayEdit = (user: AuthUser | undefined, doc: { createdBy?: unknown }) =>
 const notYours = () => new HttpError(403, 'You can only change what you added');
 
 /** Slugs that are pages of the web app, so a category can't shadow them. */
-const RESERVED = new Set(['login', 'register', 'me', 'admin', 'api', 'auth', 'quiz', 'jeopardy', '_next']);
+const RESERVED = new Set(['login', 'register', 'me', 'admin', 'api', 'auth', 'quiz', 'jeopardy', 'tournament', '_next']);
 
 const text = (max: number) => z.string().trim().max(max);
 const L = (max = 300, required = true) =>
